@@ -4,6 +4,9 @@ import com.mall.cart.mapper.CartItemMapper;
 import com.mall.cart.model.CartItemDetailEntity;
 import com.mall.common.api.ErrorCode;
 import com.mall.common.exception.BusinessException;
+import com.mall.coupon.mapper.CouponMapper;
+import com.mall.coupon.model.CouponEntity;
+import com.mall.coupon.model.UserCouponEntity;
 import com.mall.order.dto.OrderResponse;
 import com.mall.order.dto.SubmitOrderRequest;
 import com.mall.order.mapper.OrderMapper;
@@ -13,6 +16,7 @@ import com.mall.product.model.ProductEntity;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
+import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.Collections;
 
@@ -33,6 +37,7 @@ class OrderServiceTest {
         OrderMapper orderMapper = mock(OrderMapper.class);
         CartItemMapper cartMapper = mock(CartItemMapper.class);
         ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
+        CouponMapper couponMapper = mock(CouponMapper.class);
         when(cartMapper.findDetailsByUserId(7L)).thenReturn(Arrays.asList(
                 detail(11L, "苹果", new BigDecimal("10.00"), 2, 20),
                 detail(12L, "梨", new BigDecimal("6.50"), 3, 20)
@@ -44,7 +49,7 @@ class OrderServiceTest {
         });
         when(skuMapper.decreaseStock(111L, 2)).thenReturn(1);
         when(skuMapper.decreaseStock(112L, 3)).thenReturn(1);
-        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
 
         OrderResponse response = service.submit(7L, request(), "https://mall.example.com");
 
@@ -52,6 +57,8 @@ class OrderServiceTest {
         assertTrue(response.getOrderNo().startsWith("M"));
         assertEquals("待支付", response.getStatusText());
         assertEquals(new BigDecimal("39.50"), response.getTotalAmount());
+        assertEquals(new BigDecimal("0.00"), response.getCouponDiscountAmount());
+        assertEquals(new BigDecimal("39.50"), response.getPaymentAmount());
         assertEquals(5, response.getTotalQuantity());
         assertEquals(2, response.getItems().size());
         assertEquals("https://mall.example.com/images/products/product.jpg",
@@ -65,8 +72,9 @@ class OrderServiceTest {
         OrderMapper orderMapper = mock(OrderMapper.class);
         CartItemMapper cartMapper = mock(CartItemMapper.class);
         ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
+        CouponMapper couponMapper = mock(CouponMapper.class);
         when(cartMapper.findDetailsByUserId(7L)).thenReturn(Collections.emptyList());
-        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
 
         BusinessException exception = assertThrows(BusinessException.class,
                 () -> service.submit(7L, request(), "http://localhost"));
@@ -80,6 +88,7 @@ class OrderServiceTest {
         OrderMapper orderMapper = mock(OrderMapper.class);
         CartItemMapper cartMapper = mock(CartItemMapper.class);
         ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
+        CouponMapper couponMapper = mock(CouponMapper.class);
         when(cartMapper.findDetailsByUserId(7L)).thenReturn(Collections.singletonList(
                 detail(11L, "苹果", new BigDecimal("10.00"), 2, 20)
         ));
@@ -89,7 +98,7 @@ class OrderServiceTest {
             return 1;
         });
         when(skuMapper.decreaseStock(111L, 2)).thenReturn(0);
-        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
 
         BusinessException exception = assertThrows(BusinessException.class,
                 () -> service.submit(7L, request(), "http://localhost"));
@@ -104,12 +113,65 @@ class OrderServiceTest {
         OrderMapper orderMapper = mock(OrderMapper.class);
         CartItemMapper cartMapper = mock(CartItemMapper.class);
         ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
-        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper);
+        CouponMapper couponMapper = mock(CouponMapper.class);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
 
         BusinessException exception = assertThrows(BusinessException.class,
                 () -> service.detail(7L, 99L, "http://localhost"));
 
         assertEquals(ErrorCode.ORDER_NOT_FOUND, exception.getErrorCode());
+    }
+
+    @Test
+    void submitAppliesFullReductionCouponAndMarksItUsed() {
+        OrderMapper orderMapper = mock(OrderMapper.class);
+        CartItemMapper cartMapper = mock(CartItemMapper.class);
+        ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
+        CouponMapper couponMapper = mock(CouponMapper.class);
+        when(cartMapper.findDetailsByUserId(7L)).thenReturn(Collections.singletonList(
+                detail(11L, "苹果", new BigDecimal("60.00"), 2, 20)
+        ));
+        when(couponMapper.findUserCouponForUpdate(9L, 7L)).thenReturn(usableCoupon());
+        when(orderMapper.insertOrder(any(OrderEntity.class))).thenAnswer(invocation -> {
+            OrderEntity order = invocation.getArgument(0);
+            order.setId(99L);
+            return 1;
+        });
+        when(couponMapper.markUsed(any(Long.class), any(Long.class), any(Long.class), any(LocalDateTime.class)))
+                .thenReturn(1);
+        when(skuMapper.decreaseStock(111L, 2)).thenReturn(1);
+        SubmitOrderRequest request = request();
+        request.setUserCouponId(9L);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
+
+        OrderResponse response = service.submit(7L, request, "http://localhost");
+
+        assertEquals(new BigDecimal("120.00"), response.getTotalAmount());
+        assertEquals(new BigDecimal("15.00"), response.getCouponDiscountAmount());
+        assertEquals(new BigDecimal("105.00"), response.getPaymentAmount());
+        assertEquals("水果畅享券", response.getCouponName());
+        verify(couponMapper).markUsed(any(Long.class), any(Long.class), any(Long.class), any(LocalDateTime.class));
+    }
+
+    @Test
+    void submitRejectsCouponWhenOrderDoesNotReachThreshold() {
+        OrderMapper orderMapper = mock(OrderMapper.class);
+        CartItemMapper cartMapper = mock(CartItemMapper.class);
+        ProductSkuMapper skuMapper = mock(ProductSkuMapper.class);
+        CouponMapper couponMapper = mock(CouponMapper.class);
+        when(cartMapper.findDetailsByUserId(7L)).thenReturn(Collections.singletonList(
+                detail(11L, "苹果", new BigDecimal("10.00"), 2, 20)
+        ));
+        when(couponMapper.findUserCouponForUpdate(9L, 7L)).thenReturn(usableCoupon());
+        SubmitOrderRequest request = request();
+        request.setUserCouponId(9L);
+        OrderService service = new OrderService(orderMapper, cartMapper, skuMapper, couponMapper);
+
+        BusinessException exception = assertThrows(BusinessException.class,
+                () -> service.submit(7L, request, "http://localhost"));
+
+        assertEquals(ErrorCode.COUPON_NOT_APPLICABLE, exception.getErrorCode());
+        verify(orderMapper, never()).insertOrder(any(OrderEntity.class));
     }
 
     private static SubmitOrderRequest request() {
@@ -138,5 +200,20 @@ class OrderServiceTest {
         item.setProductStatus(ProductEntity.STATUS_ON_SHELF);
         item.setSkuStatus(com.mall.product.model.ProductSkuEntity.STATUS_ON_SALE);
         return item;
+    }
+
+    private static UserCouponEntity usableCoupon() {
+        UserCouponEntity coupon = new UserCouponEntity();
+        coupon.setId(9L);
+        coupon.setUserId(7L);
+        coupon.setCouponId(2L);
+        coupon.setStatus(UserCouponEntity.STATUS_UNUSED);
+        coupon.setCouponName("水果畅享券");
+        coupon.setThresholdAmount(new BigDecimal("99.00"));
+        coupon.setDiscountAmount(new BigDecimal("15.00"));
+        coupon.setStartAt(LocalDateTime.now().minusDays(1));
+        coupon.setEndAt(LocalDateTime.now().plusDays(1));
+        coupon.setCouponStatus(CouponEntity.STATUS_ENABLED);
+        return coupon;
     }
 }

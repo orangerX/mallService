@@ -12,6 +12,10 @@ public class OrderEntity {
     private Long userId;
     private Integer status;
     private BigDecimal totalAmount;
+    private Long userCouponId;
+    private String couponName;
+    private BigDecimal couponDiscountAmount;
+    private BigDecimal paymentAmount;
     private Integer totalQuantity;
     private String receiverName;
     private String receiverPhone;
@@ -30,6 +34,14 @@ public class OrderEntity {
     public void setStatus(Integer status) { this.status = status; }
     public BigDecimal getTotalAmount() { return totalAmount; }
     public void setTotalAmount(BigDecimal totalAmount) { this.totalAmount = totalAmount; }
+    public Long getUserCouponId() { return userCouponId; }
+    public void setUserCouponId(Long userCouponId) { this.userCouponId = userCouponId; }
+    public String getCouponName() { return couponName; }
+    public void setCouponName(String couponName) { this.couponName = couponName; }
+    public BigDecimal getCouponDiscountAmount() { return couponDiscountAmount; }
+    public void setCouponDiscountAmount(BigDecimal couponDiscountAmount) { this.couponDiscountAmount = couponDiscountAmount; }
+    public BigDecimal getPaymentAmount() { return paymentAmount; }
+    public void setPaymentAmount(BigDecimal paymentAmount) { this.paymentAmount = paymentAmount; }
     public Integer getTotalQuantity() { return totalQuantity; }
     public void setTotalQuantity(Integer totalQuantity) { this.totalQuantity = totalQuantity; }
     public String getReceiverName() { return receiverName; }

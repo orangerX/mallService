@@ -1,5 +1,8 @@
 package com.mall.security;
 
+import com.mall.about.controller.AboutController;
+import com.mall.address.controller.UserAddressController;
+import com.mall.address.service.UserAddressService;
 import com.mall.auth.controller.AuthController;
 import com.mall.auth.service.AuthService;
 import com.mall.auth.session.AuthSessionService;
@@ -8,6 +11,9 @@ import com.mall.banner.dto.BannerResponse;
 import com.mall.banner.service.BannerService;
 import com.mall.cart.controller.CartController;
 import com.mall.cart.service.CartService;
+import com.mall.coupon.controller.CouponController;
+import com.mall.coupon.dto.CouponResponse;
+import com.mall.coupon.service.CouponService;
 import com.mall.order.controller.OrderController;
 import com.mall.order.service.OrderService;
 import com.mall.product.controller.CategoryController;
@@ -32,6 +38,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import java.util.Arrays;
 import java.util.Collections;
 import java.math.BigDecimal;
+import java.time.LocalDateTime;
 
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -42,9 +49,12 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @WebMvcTest(controllers = {
+        AboutController.class,
+        UserAddressController.class,
         AuthController.class,
         BannerController.class,
         CartController.class,
+        CouponController.class,
         CategoryController.class,
         OrderController.class,
         ProductController.class,
@@ -59,9 +69,13 @@ class SecurityAndMethodPolicyMvcTest {
     @MockBean
     private AuthService authService;
     @MockBean
+    private UserAddressService addressService;
+    @MockBean
     private BannerService bannerService;
     @MockBean
     private CartService cartService;
+    @MockBean
+    private CouponService couponService;
     @MockBean
     private OrderService orderService;
     @MockBean
@@ -85,6 +99,16 @@ class SecurityAndMethodPolicyMvcTest {
     }
 
     @Test
+    void aboutIsPublicAndReturnsMallInformation() throws Exception {
+        mockMvc.perform(get("/api/about"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value("OK"))
+                .andExpect(jsonPath("$.data.name").value("水果商城"))
+                .andExpect(jsonPath("$.data.description").value("商城主要售卖新鲜、优质的时令水果。"))
+                .andExpect(jsonPath("$.data.version").value("1.0.0"));
+    }
+
+    @Test
     void cartRequiresAuthentication() throws Exception {
         mockMvc.perform(get("/api/cart"))
                 .andExpect(status().isUnauthorized())
@@ -92,8 +116,38 @@ class SecurityAndMethodPolicyMvcTest {
     }
 
     @Test
+    void addressesRequireAuthentication() throws Exception {
+        mockMvc.perform(get("/api/addresses"))
+                .andExpect(status().isUnauthorized())
+                .andExpect(jsonPath("$.code").value("UNAUTHORIZED"));
+    }
+
+    @Test
     void ordersRequireAuthentication() throws Exception {
         mockMvc.perform(get("/api/orders"))
+                .andExpect(status().isUnauthorized())
+                .andExpect(jsonPath("$.code").value("UNAUTHORIZED"));
+    }
+
+    @Test
+    void availableCouponsArePublic() throws Exception {
+        when(couponService.listAvailable()).thenReturn(Collections.singletonList(
+                new CouponResponse(
+                        1L, "新鲜尝鲜券", new BigDecimal("49.00"), new BigDecimal("5.00"),
+                        1000, LocalDateTime.of(2020, 1, 1, 0, 0),
+                        LocalDateTime.of(2099, 12, 31, 23, 59)
+                )
+        ));
+
+        mockMvc.perform(get("/api/coupons/available"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.data[0].thresholdAmount").value(49.00))
+                .andExpect(jsonPath("$.data[0].discountAmount").value(5.00));
+    }
+
+    @Test
+    void myCouponsRequireAuthentication() throws Exception {
+        mockMvc.perform(get("/api/coupons/mine"))
                 .andExpect(status().isUnauthorized())
                 .andExpect(jsonPath("$.code").value("UNAUTHORIZED"));
     }

@@ -4,6 +4,9 @@ import com.mall.cart.mapper.CartItemMapper;
 import com.mall.cart.model.CartItemDetailEntity;
 import com.mall.common.api.ErrorCode;
 import com.mall.common.exception.BusinessException;
+import com.mall.coupon.mapper.CouponMapper;
+import com.mall.coupon.model.CouponEntity;
+import com.mall.coupon.model.UserCouponEntity;
 import com.mall.order.dto.OrderItemResponse;
 import com.mall.order.dto.OrderResponse;
 import com.mall.order.dto.OrderSummaryResponse;
@@ -34,15 +37,17 @@ public class OrderService {
     private final OrderMapper orderMapper;
     private final CartItemMapper cartItemMapper;
     private final ProductSkuMapper productSkuMapper;
+    private final CouponMapper couponMapper;
 
     public OrderService(OrderMapper orderMapper, CartItemMapper cartItemMapper,
-                        ProductSkuMapper productSkuMapper) {
+                        ProductSkuMapper productSkuMapper, CouponMapper couponMapper) {
         this.orderMapper = orderMapper;
         this.cartItemMapper = cartItemMapper;
         this.productSkuMapper = productSkuMapper;
+        this.couponMapper = couponMapper;
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public OrderResponse submit(Long userId, SubmitOrderRequest request, String baseUrl) {
         List<CartItemDetailEntity> cartItems = cartItemMapper.findDetailsByUserId(userId);
         if (cartItems.isEmpty()) {
@@ -51,8 +56,17 @@ public class OrderService {
         cartItems.forEach(OrderService::validateCartItem);
 
         LocalDateTime now = LocalDateTime.now();
-        OrderEntity order = createOrder(userId, request, cartItems, now);
+        BigDecimal totalAmount = cartItems.stream()
+                .map(item -> item.getPrice().multiply(BigDecimal.valueOf(item.getQuantity())))
+                .reduce(BigDecimal.ZERO, BigDecimal::add);
+        UserCouponEntity userCoupon = resolveCoupon(userId, request.getUserCouponId(), totalAmount, now);
+        OrderEntity order = createOrder(userId, request, cartItems, totalAmount, userCoupon, now);
         orderMapper.insertOrder(order);
+
+        if (userCoupon != null
+                && couponMapper.markUsed(userCoupon.getId(), userId, order.getId(), now) == 0) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.COUPON_NOT_APPLICABLE);
+        }
 
         List<OrderItemEntity> orderItems = cartItems.stream()
                 .map(item -> createOrderItem(order.getId(), item, now))
@@ -67,14 +81,14 @@ public class OrderService {
         return toResponse(order, orderItems, baseUrl);
     }
 
-    @Transactional(readOnly = true)
+    @Transactional(readOnly = true, rollbackFor = Exception.class)
     public List<OrderSummaryResponse> list(Long userId) {
         return orderMapper.findByUserId(userId).stream()
                 .map(OrderService::toSummary)
                 .collect(Collectors.toList());
     }
 
-    @Transactional(readOnly = true)
+    @Transactional(readOnly = true, rollbackFor = Exception.class)
     public OrderResponse detail(Long userId, Long orderId, String baseUrl) {
         OrderEntity order = orderMapper.findByIdAndUserId(orderId, userId);
         if (order == null) {
@@ -84,14 +98,23 @@ public class OrderService {
     }
 
     private static OrderEntity createOrder(Long userId, SubmitOrderRequest request,
-                                           List<CartItemDetailEntity> cartItems, LocalDateTime now) {
+                                           List<CartItemDetailEntity> cartItems,
+                                           BigDecimal totalAmount, UserCouponEntity userCoupon,
+                                           LocalDateTime now) {
         OrderEntity order = new OrderEntity();
         order.setOrderNo(generateOrderNo(now));
         order.setUserId(userId);
         order.setStatus(OrderEntity.STATUS_PENDING_PAYMENT);
-        order.setTotalAmount(cartItems.stream()
-                .map(item -> item.getPrice().multiply(BigDecimal.valueOf(item.getQuantity())))
-                .reduce(BigDecimal.ZERO, BigDecimal::add));
+        order.setTotalAmount(totalAmount);
+        if (userCoupon == null) {
+            order.setCouponDiscountAmount(new BigDecimal("0.00"));
+            order.setPaymentAmount(totalAmount);
+        } else {
+            order.setUserCouponId(userCoupon.getId());
+            order.setCouponName(userCoupon.getCouponName());
+            order.setCouponDiscountAmount(userCoupon.getDiscountAmount());
+            order.setPaymentAmount(totalAmount.subtract(userCoupon.getDiscountAmount()).max(BigDecimal.ZERO));
+        }
         order.setTotalQuantity(cartItems.stream().mapToInt(CartItemDetailEntity::getQuantity).sum());
         order.setReceiverName(request.getReceiverName().trim());
         order.setReceiverPhone(request.getReceiverPhone().trim());
@@ -143,7 +166,8 @@ public class OrderService {
     private static OrderSummaryResponse toSummary(OrderEntity order) {
         return new OrderSummaryResponse(
                 order.getId(), order.getOrderNo(), order.getStatus(), statusText(order.getStatus()),
-                order.getTotalAmount(), order.getTotalQuantity(), order.getCreatedAt()
+                order.getTotalAmount(), order.getCouponDiscountAmount(), order.getPaymentAmount(),
+                order.getTotalQuantity(), order.getCreatedAt()
         );
     }
 
@@ -158,7 +182,9 @@ public class OrderService {
                 .collect(Collectors.toList());
         return new OrderResponse(
                 order.getId(), order.getOrderNo(), order.getStatus(), statusText(order.getStatus()),
-                order.getTotalAmount(), order.getTotalQuantity(), order.getReceiverName(),
+                order.getTotalAmount(), order.getUserCouponId(), order.getCouponName(),
+                order.getCouponDiscountAmount(), order.getPaymentAmount(),
+                order.getTotalQuantity(), order.getReceiverName(),
                 order.getReceiverPhone(), order.getReceiverAddress(), order.getRemark(),
                 order.getCreatedAt(), itemResponses
         );
@@ -166,5 +192,29 @@ public class OrderService {
 
     private static String statusText(Integer status) {
         return status != null && status == OrderEntity.STATUS_PENDING_PAYMENT ? "待支付" : "未知状态";
+    }
+
+    private UserCouponEntity resolveCoupon(Long userId, Long userCouponId,
+                                           BigDecimal totalAmount, LocalDateTime now) {
+        if (userCouponId == null) {
+            return null;
+        }
+        UserCouponEntity coupon = couponMapper.findUserCouponForUpdate(userCouponId, userId);
+        if (coupon == null) {
+            throw new BusinessException(HttpStatus.NOT_FOUND, ErrorCode.COUPON_NOT_FOUND);
+        }
+        boolean unusable = coupon.getStatus() == null
+                || coupon.getStatus() != UserCouponEntity.STATUS_UNUSED
+                || coupon.getCouponStatus() == null
+                || coupon.getCouponStatus() != CouponEntity.STATUS_ENABLED
+                || coupon.getStartAt() == null || now.isBefore(coupon.getStartAt())
+                || coupon.getEndAt() == null || now.isAfter(coupon.getEndAt())
+                || coupon.getThresholdAmount() == null
+                || coupon.getDiscountAmount() == null
+                || totalAmount.compareTo(coupon.getThresholdAmount()) < 0;
+        if (unusable) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.COUPON_NOT_APPLICABLE);
+        }
+        return coupon;
     }
 }

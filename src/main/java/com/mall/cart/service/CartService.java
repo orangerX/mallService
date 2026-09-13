@@ -31,7 +31,7 @@ public class CartService {
         this.productSkuMapper = productSkuMapper;
     }
 
-    @Transactional(readOnly = true)
+    @Transactional(readOnly = true, rollbackFor = Exception.class)
     public CartResponse getCart(Long userId, String baseUrl) {
         List<CartItemResponse> items = cartItemMapper.findDetailsByUserId(userId).stream()
                 .map(item -> toResponse(item, baseUrl))
@@ -44,7 +44,7 @@ public class CartService {
         return new CartResponse(items, items.size(), totalQuantity, totalAmount);
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public CartResponse addItem(Long userId, Long skuId, Integer quantity, String baseUrl) {
         ProductSkuEntity sku = requireAvailableSku(skuId);
         cartItemMapper.increaseQuantity(userId, skuId, quantity);
@@ -53,7 +53,7 @@ public class CartService {
         return getCart(userId, baseUrl);
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public CartResponse updateItem(Long userId, Long skuId, Integer quantity, String baseUrl) {
         ProductSkuEntity sku = requireAvailableSku(skuId);
         if (cartItemMapper.findByUserAndSku(userId, skuId) == null) {
@@ -64,7 +64,7 @@ public class CartService {
         return getCart(userId, baseUrl);
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public CartResponse removeItem(Long userId, Long skuId, String baseUrl) {
         if (cartItemMapper.deleteItem(userId, skuId) == 0) {
             throw new BusinessException(HttpStatus.NOT_FOUND, ErrorCode.CART_ITEM_NOT_FOUND);
@@ -72,7 +72,7 @@ public class CartService {
         return getCart(userId, baseUrl);
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public CartResponse clear(Long userId, String baseUrl) {
         cartItemMapper.deleteByUserId(userId);
         return getCart(userId, baseUrl);

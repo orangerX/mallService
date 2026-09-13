@@ -48,7 +48,7 @@ public class AuthService {
         this.sessionService = sessionService;
     }
 
-    @Transactional
+    @Transactional(rollbackFor = Exception.class)
     public UserResponse register(RegisterRequest request) {
         String username = request.getUsername().trim();
         validateBcryptPasswordLength(request.getPassword());

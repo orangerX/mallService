@@ -67,11 +67,13 @@ public class SecurityConfig {
                 .and()
                 .authorizeRequests()
                 .antMatchers(
+                        "/api/about",
                         "/api/auth/register",
                         "/api/auth/login",
                         "/api/auth/refresh",
                         "/api/banners/home",
                         "/api/categories/home",
+                        "/api/coupons/available",
                         "/api/products",
                         "/images/banners/**",
                         "/images/products/**",

@@ -11,6 +11,10 @@ public class OrderResponse {
     private final Integer status;
     private final String statusText;
     private final BigDecimal totalAmount;
+    private final Long userCouponId;
+    private final String couponName;
+    private final BigDecimal couponDiscountAmount;
+    private final BigDecimal paymentAmount;
     private final Integer totalQuantity;
     private final String receiverName;
     private final String receiverPhone;
@@ -20,7 +24,9 @@ public class OrderResponse {
     private final List<OrderItemResponse> items;
 
     public OrderResponse(Long id, String orderNo, Integer status, String statusText,
-                         BigDecimal totalAmount, Integer totalQuantity, String receiverName,
+                         BigDecimal totalAmount, Long userCouponId, String couponName,
+                         BigDecimal couponDiscountAmount, BigDecimal paymentAmount,
+                         Integer totalQuantity, String receiverName,
                          String receiverPhone, String receiverAddress, String remark,
                          LocalDateTime createdAt, List<OrderItemResponse> items) {
         this.id = id;
@@ -28,6 +34,10 @@ public class OrderResponse {
         this.status = status;
         this.statusText = statusText;
         this.totalAmount = totalAmount;
+        this.userCouponId = userCouponId;
+        this.couponName = couponName;
+        this.couponDiscountAmount = couponDiscountAmount;
+        this.paymentAmount = paymentAmount;
         this.totalQuantity = totalQuantity;
         this.receiverName = receiverName;
         this.receiverPhone = receiverPhone;
@@ -42,6 +52,10 @@ public class OrderResponse {
     public Integer getStatus() { return status; }
     public String getStatusText() { return statusText; }
     public BigDecimal getTotalAmount() { return totalAmount; }
+    public Long getUserCouponId() { return userCouponId; }
+    public String getCouponName() { return couponName; }
+    public BigDecimal getCouponDiscountAmount() { return couponDiscountAmount; }
+    public BigDecimal getPaymentAmount() { return paymentAmount; }
     public Integer getTotalQuantity() { return totalQuantity; }
     public String getReceiverName() { return receiverName; }
     public String getReceiverPhone() { return receiverPhone; }

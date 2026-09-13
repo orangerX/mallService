@@ -59,7 +59,7 @@ public class GlobalExceptionHandler {
 
     @ExceptionHandler(DataIntegrityViolationException.class)
     public ResponseEntity<ApiResponse<Void>> handleDataConflict(DataIntegrityViolationException exception) {
-        return ResponseEntity.status(HttpStatus.CONFLICT).body(ApiResponse.error(ErrorCode.USERNAME_EXISTS));
+        return ResponseEntity.status(HttpStatus.CONFLICT).body(ApiResponse.error(ErrorCode.DATA_CONFLICT));
     }
 
     @ExceptionHandler(Exception.class)

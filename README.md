@@ -45,14 +45,24 @@ Flyway 会在首次启动时自动创建用户、Banner、商品分类、商品�
 
 | 方法 | 路径 | 说明 |
 | --- | --- | --- |
+| GET | `/api/about` | 获取商城名称、描述和版本号，无需登录 |
 | POST | `/api/auth/register` | 注册用户 |
 | POST | `/api/auth/login` | 登录并创建独立设备会话 |
 | POST | `/api/auth/refresh` | 轮换 Refresh Token |
 | POST | `/api/auth/logout` | 注销当前设备会话 |
 | GET | `/api/users/me` | 查询当前用户 |
+| GET | `/api/addresses` | 查询当前用户的收货地址 |
+| GET | `/api/addresses/default` | 查询默认收货地址 |
+| POST | `/api/addresses/create` | 新增收货地址 |
+| POST | `/api/addresses/update` | 修改收货地址 |
+| POST | `/api/addresses/delete` | 删除收货地址 |
+| POST | `/api/addresses/set-default` | 设置默认收货地址 |
 | GET | `/api/banners/home` | 获取首页 3 张时令水果 Banner，无需登录 |
 | GET | `/api/categories/home` | 获取首页商品分类，无需登录 |
 | GET | `/api/products?categoryId=1` | 按分类获取商品及 SKU，无需登录 |
+| GET | `/api/coupons/available` | 查询当前可领取的满减券，无需登录 |
+| POST | `/api/coupons/receive` | 领取满减券 |
+| GET | `/api/coupons/mine?status=1` | 查询当前用户优惠券，可按状态筛选 |
 | GET | `/api/cart` | 查询当前用户购物车 |
 | POST | `/api/cart/items/add` | 添加商品或累加数量 |
 | POST | `/api/cart/items/update` | 修改商品数量 |
@@ -61,6 +71,12 @@ Flyway 会在首次启动时自动创建用户、Banner、商品分类、商品�
 | POST | `/api/orders/submit` | 将当前购物车全部商品提交为订单 |
 | GET | `/api/orders` | 查询当前用户订单列表 |
 | GET | `/api/orders/detail?orderId=1` | 查询当前用户订单详情 |
+
+关于接口用于展示商城基础信息，当前版本为 `1.0.0`，商城主要售卖新鲜、优质的时令水果：
+
+```bash
+curl 'http://127.0.0.1:8080/api/about'
+```
 
 首页 Banner 接口返回绝对图片 URL，可直接赋值给小程序 `swiper` 中的 `image` 组件：
 
@@ -100,6 +116,33 @@ curl -i -X POST 'http://127.0.0.1:8080/api/auth/login' \
 ```bash
 curl -i 'http://127.0.0.1:8080/api/users/me' \
   -H 'Authorization: Bearer ACCESS_TOKEN'
+```
+
+收货地址接口均需携带 Access Token。首个地址会自动成为默认地址，设置新默认地址时会自动取消原默认地址：
+
+```bash
+curl -X POST 'http://127.0.0.1:8080/api/addresses/create' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"receiverName":"张三","receiverPhone":"13800138000","province":"上海市","city":"上海市","district":"浦东新区","detailAddress":"示例路1号","addressLabel":"家","defaultAddress":true}'
+
+curl 'http://127.0.0.1:8080/api/addresses' \
+  -H 'Authorization: Bearer ACCESS_TOKEN'
+
+curl -X POST 'http://127.0.0.1:8080/api/addresses/update' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"addressId":1,"receiverName":"张三","receiverPhone":"13800138000","province":"上海市","city":"上海市","district":"浦东新区","detailAddress":"示例路2号","addressLabel":"家"}'
+
+curl -X POST 'http://127.0.0.1:8080/api/addresses/set-default' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"addressId":1}'
+
+curl -X POST 'http://127.0.0.1:8080/api/addresses/delete' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"addressId":1}'
 ```
 
 刷新 Token：
@@ -142,13 +185,29 @@ curl -X POST 'http://127.0.0.1:8080/api/cart/clear' \
   -H 'Authorization: Bearer ACCESS_TOKEN'
 ```
 
+优惠券支持满减模式，初始化数据包含满 `49` 减 `5`、满 `99` 减 `15`、满 `199` 减 `35` 三张券。每位用户每种券限领一张，领取与下单核销都使用数据库事务和并发校验：
+
+```bash
+curl 'http://127.0.0.1:8080/api/coupons/available'
+
+curl -X POST 'http://127.0.0.1:8080/api/coupons/receive' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"couponId":1}'
+
+curl 'http://127.0.0.1:8080/api/coupons/mine?status=1' \
+  -H 'Authorization: Bearer ACCESS_TOKEN'
+```
+
+用户优惠券状态为 `1` 未使用、`2` 已使用、`3` 已过期。下单时可传入“我的优惠券”接口返回的 `userCouponId`；不使用优惠券时省略该字段。订单响应中的 `totalAmount` 为商品总额、`couponDiscountAmount` 为满减金额、`paymentAmount` 为实付金额。
+
 提交订单时会校验商品及 SKU 状态和 SKU 库存，在一个事务中保存商品与 SKU 快照、扣减 SKU 库存、增加 SKU 销量并清空购物车。新订单状态为“待支付”：
 
 ```bash
 curl -X POST 'http://127.0.0.1:8080/api/orders/submit' \
   -H 'Authorization: Bearer ACCESS_TOKEN' \
   -H 'Content-Type: application/json' \
-  -d '{"receiverName":"张三","receiverPhone":"13800138000","receiverAddress":"上海市浦东新区示例路1号","remark":"送达前联系"}'
+  -d '{"receiverName":"张三","receiverPhone":"13800138000","receiverAddress":"上海市浦东新区示例路1号","remark":"送达前联系","userCouponId":1}'
 
 curl 'http://127.0.0.1:8080/api/orders' \
   -H 'Authorization: Bearer ACCESS_TOKEN'

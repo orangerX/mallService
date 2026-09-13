@@ -10,6 +10,10 @@
         <result property="userId" column="user_id"/>
         <result property="status" column="status"/>
         <result property="totalAmount" column="total_amount"/>
+        <result property="userCouponId" column="user_coupon_id"/>
+        <result property="couponName" column="coupon_name"/>
+        <result property="couponDiscountAmount" column="coupon_discount_amount"/>
+        <result property="paymentAmount" column="payment_amount"/>
         <result property="totalQuantity" column="total_quantity"/>
         <result property="receiverName" column="receiver_name"/>
         <result property="receiverPhone" column="receiver_phone"/>
@@ -39,10 +43,12 @@
     <insert id="insertOrder" parameterType="com.mall.order.model.OrderEntity"
             useGeneratedKeys="true" keyProperty="id">
         INSERT INTO mall_order (
-            order_no, user_id, status, total_amount, total_quantity,
+            order_no, user_id, status, total_amount, user_coupon_id, coupon_name,
+            coupon_discount_amount, payment_amount, total_quantity,
             receiver_name, receiver_phone, receiver_address, remark, created_at, updated_at
         ) VALUES (
-            #{orderNo}, #{userId}, #{status}, #{totalAmount}, #{totalQuantity},
+            #{orderNo}, #{userId}, #{status}, #{totalAmount}, #{userCouponId}, #{couponName},
+            #{couponDiscountAmount}, #{paymentAmount}, #{totalQuantity},
             #{receiverName}, #{receiverPhone}, #{receiverAddress}, #{remark}, #{createdAt}, #{createdAt}
         )
     </insert>
@@ -61,7 +67,8 @@
     </insert>
 
     <select id="findByUserId" resultMap="orderResultMap">
-        SELECT id, order_no, user_id, status, total_amount, total_quantity,
+        SELECT id, order_no, user_id, status, total_amount, user_coupon_id, coupon_name,
+               coupon_discount_amount, payment_amount, total_quantity,
                receiver_name, receiver_phone, receiver_address, remark, created_at, updated_at
         FROM mall_order
         WHERE user_id = #{userId}
@@ -69,7 +76,8 @@
     </select>
 
     <select id="findByIdAndUserId" resultMap="orderResultMap">
-        SELECT id, order_no, user_id, status, total_amount, total_quantity,
+        SELECT id, order_no, user_id, status, total_amount, user_coupon_id, coupon_name,
+               coupon_discount_amount, payment_amount, total_quantity,
                receiver_name, receiver_phone, receiver_address, remark, created_at, updated_at
         FROM mall_order
         WHERE id = #{id}

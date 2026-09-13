@@ -2,6 +2,7 @@ package com.mall.order.dto;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
+import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
 
 public class SubmitOrderRequest {
@@ -20,6 +21,9 @@ public class SubmitOrderRequest {
 
     @Size(max = 255, message = "订单备注不能超过 255 个字符")
     private String remark;
+
+    @Positive(message = "用户优惠券 ID 必须大于 0")
+    private Long userCouponId;
 
     public String getReceiverName() {
         return receiverName;
@@ -51,5 +55,13 @@ public class SubmitOrderRequest {
 
     public void setRemark(String remark) {
         this.remark = remark;
+    }
+
+    public Long getUserCouponId() {
+        return userCouponId;
+    }
+
+    public void setUserCouponId(Long userCouponId) {
+        this.userCouponId = userCouponId;
     }
 }
