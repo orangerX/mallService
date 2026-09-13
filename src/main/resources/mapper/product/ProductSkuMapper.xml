@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.product.mapper.ProductSkuMapper">
+
+    <resultMap id="productSkuResultMap" type="com.mall.product.model.ProductSkuEntity">
+        <id property="id" column="id"/>
+        <result property="productId" column="product_id"/>
+        <result property="skuCode" column="sku_code"/>
+        <result property="skuName" column="sku_name"/>
+        <result property="price" column="price"/>
+        <result property="originalPrice" column="original_price"/>
+        <result property="unit" column="unit"/>
+        <result property="stock" column="stock"/>
+        <result property="sales" column="sales"/>
+        <result property="isDefault" column="is_default"/>
+        <result property="sortOrder" column="sort_order"/>
+        <result property="status" column="status"/>
+        <result property="productStatus" column="product_status"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <select id="findOnSaleByProductId" resultMap="productSkuResultMap">
+        SELECT id, product_id, sku_code, sku_name, price, original_price, unit,
+               stock, sales, is_default, sort_order, status, created_at, updated_at
+        FROM product_sku
+        WHERE product_id = #{productId}
+          AND status = 1
+        ORDER BY is_default DESC, sort_order ASC, id ASC
+    </select>
+
+    <select id="findById" resultMap="productSkuResultMap">
+        SELECT sku.id, sku.product_id, sku.sku_code, sku.sku_name,
+               sku.price, sku.original_price, sku.unit, sku.stock, sku.sales,
+               sku.is_default, sku.sort_order, sku.status,
+               p.status AS product_status, sku.created_at, sku.updated_at
+        FROM product_sku sku
+        INNER JOIN mall_product p ON p.id = sku.product_id
+        WHERE sku.id = #{id}
+    </select>
+
+    <update id="decreaseStock">
+        UPDATE product_sku sku
+        INNER JOIN mall_product p ON p.id = sku.product_id
+        SET sku.stock = sku.stock - #{quantity},
+            sku.sales = sku.sales + #{quantity},
+            sku.updated_at = CURRENT_TIMESTAMP(3)
+        WHERE sku.id = #{id}
+          AND sku.status = 1
+          AND p.status = 1
+          AND sku.stock &gt;= #{quantity}
+    </update>
+</mapper>

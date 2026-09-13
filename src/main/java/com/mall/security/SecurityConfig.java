@@ -70,6 +70,11 @@ public class SecurityConfig {
                         "/api/auth/register",
                         "/api/auth/login",
                         "/api/auth/refresh",
+                        "/api/banners/home",
+                        "/api/categories/home",
+                        "/api/products",
+                        "/images/banners/**",
+                        "/images/products/**",
                         "/v3/api-docs/**",
                         "/swagger-ui.html",
                         "/swagger-ui/**"

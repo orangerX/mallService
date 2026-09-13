@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.cart.mapper.CartItemMapper">
+
+    <resultMap id="cartItemResultMap" type="com.mall.cart.model.CartItemEntity">
+        <id property="id" column="id"/>
+        <result property="userId" column="user_id"/>
+        <result property="skuId" column="sku_id"/>
+        <result property="quantity" column="quantity"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <resultMap id="cartItemDetailResultMap" type="com.mall.cart.model.CartItemDetailEntity">
+        <id property="id" column="cart_item_id"/>
+        <result property="productId" column="product_id"/>
+        <result property="skuId" column="sku_id"/>
+        <result property="skuCode" column="sku_code"/>
+        <result property="skuName" column="sku_name"/>
+        <result property="quantity" column="quantity"/>
+        <result property="productName" column="product_name"/>
+        <result property="productSubtitle" column="product_subtitle"/>
+        <result property="productImagePath" column="product_image_path"/>
+        <result property="price" column="price"/>
+        <result property="originalPrice" column="original_price"/>
+        <result property="unit" column="unit"/>
+        <result property="stock" column="stock"/>
+        <result property="productStatus" column="product_status"/>
+        <result property="skuStatus" column="sku_status"/>
+    </resultMap>
+
+    <select id="findDetailsByUserId" resultMap="cartItemDetailResultMap">
+        SELECT ci.id AS cart_item_id, sku.product_id, ci.sku_id, ci.quantity,
+               sku.sku_code, sku.sku_name,
+               p.name AS product_name, p.subtitle AS product_subtitle,
+               p.image_path AS product_image_path, sku.price, sku.original_price,
+               sku.unit, sku.stock, p.status AS product_status, sku.status AS sku_status
+        FROM cart_item ci
+        INNER JOIN product_sku sku ON sku.id = ci.sku_id
+        INNER JOIN mall_product p ON p.id = sku.product_id
+        WHERE ci.user_id = #{userId}
+        ORDER BY ci.updated_at DESC, ci.id DESC
+    </select>
+
+    <select id="findByUserAndSku" resultMap="cartItemResultMap">
+        SELECT id, user_id, sku_id, quantity, created_at, updated_at
+        FROM cart_item
+        WHERE user_id = #{userId}
+          AND sku_id = #{skuId}
+    </select>
+
+    <insert id="increaseQuantity">
+        INSERT INTO cart_item (user_id, sku_id, quantity)
+        VALUES (#{userId}, #{skuId}, #{quantity})
+        ON DUPLICATE KEY UPDATE
+            quantity = quantity + VALUES(quantity),
+            updated_at = CURRENT_TIMESTAMP(3)
+    </insert>
+
+    <update id="updateQuantity">
+        UPDATE cart_item
+        SET quantity = #{quantity}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE user_id = #{userId}
+          AND sku_id = #{skuId}
+    </update>
+
+    <delete id="deleteItem">
+        DELETE FROM cart_item
+        WHERE user_id = #{userId}
+          AND sku_id = #{skuId}
+    </delete>
+
+    <delete id="deleteByUserId">
+        DELETE FROM cart_item
+        WHERE user_id = #{userId}
+    </delete>
+</mapper>
