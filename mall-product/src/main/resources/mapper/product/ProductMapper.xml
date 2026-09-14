@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.product.mapper.ProductMapper">
+
+    <resultMap id="productResultMap" type="com.mall.product.model.ProductEntity">
+        <id property="id" column="id"/>
+        <result property="categoryId" column="category_id"/>
+        <result property="name" column="name"/>
+        <result property="subtitle" column="subtitle"/>
+        <result property="imagePath" column="image_path"/>
+        <result property="sortOrder" column="sort_order"/>
+        <result property="status" column="status"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <select id="findOnShelfByCategoryId" resultMap="productResultMap">
+        SELECT id, category_id, name, subtitle, image_path,
+               sort_order, status, created_at, updated_at
+        FROM mall_product
+        WHERE category_id = #{categoryId}
+          AND status = 1
+        ORDER BY sort_order ASC, id ASC
+    </select>
+
+    <select id="findById" resultMap="productResultMap">
+        SELECT id, category_id, name, subtitle, image_path,
+               sort_order, status, created_at, updated_at
+        FROM mall_product
+        WHERE id = #{id}
+    </select>
+
+    <select id="findByIdForUpdate" resultMap="productResultMap">
+        SELECT id, category_id, name, subtitle, image_path,
+               sort_order, status, created_at, updated_at
+        FROM mall_product
+        WHERE id = #{id}
+        FOR UPDATE
+    </select>
+
+    <sql id="adminProductFilter">
+        <where>
+            <if test="keyword != null">p.name LIKE CONCAT('%', #{keyword}, '%')</if>
+            <if test="categoryId != null">AND p.category_id = #{categoryId}</if>
+            <if test="status != null">AND p.status = #{status}</if>
+        </where>
+    </sql>
+
+    <select id="countAdminPage" resultType="long">
+        SELECT COUNT(*) FROM mall_product p <include refid="adminProductFilter"/>
+    </select>
+
+    <select id="findAdminPage" resultType="com.mall.product.dto.AdminProductResponse">
+        SELECT p.id, p.category_id, c.name AS category_name, p.name, p.subtitle,
+               p.image_path AS image_url, p.status, COUNT(s.id) AS sku_count,
+               COALESCE(SUM(s.stock), 0) AS total_stock, p.created_at, p.updated_at
+        FROM mall_product p
+        INNER JOIN product_category c ON c.id = p.category_id
+        LEFT JOIN product_sku s ON s.product_id = p.id
+        <include refid="adminProductFilter"/>
+        GROUP BY p.id, p.category_id, c.name, p.name, p.subtitle, p.image_path,
+                 p.status, p.created_at, p.updated_at
+        ORDER BY p.id DESC
+        LIMIT #{offset}, #{size}
+    </select>
+
+    <select id="findAdminById" resultType="com.mall.product.dto.AdminProductResponse">
+        SELECT p.id, p.category_id, c.name AS category_name, p.name, p.subtitle,
+               p.image_path AS image_url, p.status, COUNT(s.id) AS sku_count,
+               COALESCE(SUM(s.stock), 0) AS total_stock, p.created_at, p.updated_at
+        FROM mall_product p
+        INNER JOIN product_category c ON c.id = p.category_id
+        LEFT JOIN product_sku s ON s.product_id = p.id
+        WHERE p.id = #{id}
+        GROUP BY p.id, p.category_id, c.name, p.name, p.subtitle, p.image_path,
+                 p.status, p.created_at, p.updated_at
+    </select>
+
+    <insert id="insert" parameterType="com.mall.product.model.ProductEntity"
+            useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO mall_product (category_id, name, subtitle, image_path, sort_order, status)
+        VALUES (#{categoryId}, #{name}, #{subtitle}, #{imagePath}, #{sortOrder}, #{status})
+    </insert>
+
+    <update id="update" parameterType="com.mall.product.model.ProductEntity">
+        UPDATE mall_product
+        SET category_id = #{categoryId}, name = #{name}, subtitle = #{subtitle},
+            image_path = #{imagePath}, sort_order = #{sortOrder}, status = #{status},
+            updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+
+    <update id="updateStatus">
+        UPDATE mall_product
+        SET status = #{status}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+
+    <select id="countOrderItems" resultType="long">
+        SELECT COUNT(*) FROM mall_order_item WHERE product_id = #{id}
+    </select>
+
+    <delete id="deleteById">
+        DELETE FROM mall_product WHERE id = #{id}
+    </delete>
+</mapper>
