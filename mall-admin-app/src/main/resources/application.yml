@@ -35,7 +35,7 @@ spring:
 
 mybatis:
   mapper-locations: classpath*:mapper/**/*.xml
-  type-aliases-package: com.mall.admin.model,com.mall.address.model,com.mall.cart.model,com.mall.coupon.model,com.mall.order.model,com.mall.product.model,com.mall.user.model
+  type-aliases-package: com.mall.admin.model,com.mall.address.model,com.mall.cart.model,com.mall.coupon.model,com.mall.exam.model,com.mall.order.model,com.mall.product.model,com.mall.user.model
   configuration:
     map-underscore-to-camel-case: true
     jdbc-type-for-null: NULL

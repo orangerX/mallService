@@ -9,6 +9,7 @@
         <dependency><groupId>com.mall</groupId><artifactId>mall-product</artifactId><version>${project.version}</version></dependency>
         <dependency><groupId>com.mall</groupId><artifactId>mall-promotion</artifactId><version>${project.version}</version></dependency>
         <dependency><groupId>com.mall</groupId><artifactId>mall-order</artifactId><version>${project.version}</version></dependency>
+        <dependency><groupId>com.mall</groupId><artifactId>mall-exam</artifactId><version>${project.version}</version></dependency>
         <dependency><groupId>com.mall</groupId><artifactId>mall-database</artifactId><version>${project.version}</version></dependency>
         <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-web</artifactId></dependency>
         <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-security</artifactId></dependency>

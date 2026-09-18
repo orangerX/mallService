@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
         "com.mall.banner.mapper",
         "com.mall.cart.mapper",
         "com.mall.coupon.mapper",
+        "com.mall.exam.mapper",
         "com.mall.order.mapper",
         "com.mall.product.mapper",
         "com.mall.user.mapper"
