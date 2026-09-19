@@ -21,7 +21,7 @@ CREATE TABLE exam_import_batch (
     file_name VARCHAR(255) NOT NULL,
     file_format VARCHAR(32) NOT NULL,
     source_id BIGINT UNSIGNED NOT NULL,
-    imported_by BIGINT UNSIGNED NOT NULL,
+    imported_by BIGINT UNSIGNED NULL,
     status ENUM('UPLOADED', 'VALIDATED', 'IMPORTED', 'REJECTED') NOT NULL DEFAULT 'UPLOADED',
     total_rows INT UNSIGNED NOT NULL DEFAULT 0,
     success_rows INT UNSIGNED NOT NULL DEFAULT 0,
@@ -36,6 +36,32 @@ CREATE TABLE exam_import_batch (
     CONSTRAINT fk_exam_import_batch_source FOREIGN KEY (source_id) REFERENCES exam_question_source (id),
     CONSTRAINT fk_exam_import_batch_importer FOREIGN KEY (imported_by) REFERENCES sys_admin (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='考试题库导入批次';
+
+CREATE TABLE exam_import_item (
+    id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+    batch_id BIGINT UNSIGNED NOT NULL,
+    row_number INT UNSIGNED NOT NULL,
+    payload JSON NOT NULL,
+    question_fingerprint CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+    group_fingerprint CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NULL,
+    status ENUM('PENDING', 'DUPLICATE', 'IMPORTED') NOT NULL DEFAULT 'PENDING',
+    created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+    updated_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3) ON UPDATE CURRENT_TIMESTAMP(3),
+    PRIMARY KEY (id),
+    UNIQUE KEY uk_exam_import_item_batch_row (batch_id, row_number),
+    KEY idx_exam_import_item_batch_status (batch_id, status),
+    CONSTRAINT fk_exam_import_item_batch FOREIGN KEY (batch_id) REFERENCES exam_import_batch (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='导入批次规范化题目载荷';
+
+CREATE TABLE exam_import_fingerprint_reservation (
+    fingerprint CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+    fingerprint_kind ENUM('QUESTION', 'GROUP') NOT NULL,
+    batch_id BIGINT UNSIGNED NULL,
+    created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+    PRIMARY KEY (fingerprint),
+    KEY idx_exam_import_fingerprint_batch (batch_id),
+    CONSTRAINT fk_exam_import_fingerprint_batch FOREIGN KEY (batch_id) REFERENCES exam_import_batch (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='题库内容指纹占位，防止并发重复导入';
 
 CREATE TABLE exam_question_group (
     id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
@@ -87,6 +113,12 @@ CREATE TABLE exam_question (
     CONSTRAINT fk_exam_question_group FOREIGN KEY (group_id) REFERENCES exam_question_group (id),
     CONSTRAINT fk_exam_question_source FOREIGN KEY (source_id) REFERENCES exam_question_source (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='考试题目';
+
+INSERT IGNORE INTO exam_import_fingerprint_reservation (fingerprint, fingerprint_kind, batch_id)
+SELECT content_fingerprint, 'GROUP', NULL FROM exam_question_group;
+
+INSERT IGNORE INTO exam_import_fingerprint_reservation (fingerprint, fingerprint_kind, batch_id)
+SELECT content_fingerprint, 'QUESTION', NULL FROM exam_question;
 
 CREATE TABLE exam_blueprint (
     id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,

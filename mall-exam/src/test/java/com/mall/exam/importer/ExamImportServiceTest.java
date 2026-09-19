@@ -7,6 +7,8 @@ import com.mall.exam.question.model.QuestionEntity;
 import com.mall.exam.source.mapper.QuestionSourceMapper;
 import com.mall.exam.source.model.QuestionSourceEntity;
 import com.mall.exam.importer.dto.ImportPreviewResponse;
+import com.mall.exam.importer.mapper.ImportBatchMapper;
+import com.mall.exam.importer.model.ImportBatchEntity;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -22,6 +24,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.ArgumentMatchers.anyLong;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.never;
 import static org.mockito.Mockito.verify;
@@ -32,11 +35,17 @@ class ExamImportServiceTest {
 
     @Mock QuestionSourceMapper sourceMapper;
     @Mock QuestionMapper questionMapper;
+    @Mock ImportBatchMapper batchMapper;
     private ExamImportService service;
 
     @BeforeEach
     void setUp() {
-        service = new ExamImportService(sourceMapper, questionMapper);
+        service = new ExamImportService(sourceMapper, questionMapper, batchMapper);
+        org.mockito.Mockito.lenient().when(batchMapper.insertBatch(any(ImportBatchEntity.class))).thenAnswer(invocation -> {
+            invocation.getArgument(0, ImportBatchEntity.class).setId(101L);
+            return 1;
+        });
+        org.mockito.Mockito.lenient().when(batchMapper.insertItem(any())).thenReturn(1);
     }
 
     @Test
@@ -60,8 +69,7 @@ class ExamImportServiceTest {
         assertEquals(2, preview.getTotalRows());
         assertEquals(1, preview.getValidRows());
         assertEquals(1, preview.getDuplicateRows());
-        assertEquals(1, preview.getErrors().size());
-        assertTrue(preview.getErrors().get(0).contains("row 2"));
+        assertTrue(preview.getErrors().isEmpty());
         verify(questionMapper, never()).insert(any(QuestionEntity.class));
         verify(questionMapper, never()).insertGroup(any());
     }
@@ -79,6 +87,7 @@ class ExamImportServiceTest {
     @Test
     void commitRejectsUnapprovedSource() {
         ImportPreviewResponse preview = service.preview(9L, "valid.json", jsonQuestion().getBytes(StandardCharsets.UTF_8));
+        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("VALIDATED", 9L));
         when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source("UNVERIFIED", "PENDING"));
 
         BusinessException error = assertThrows(BusinessException.class, () -> service.commit(preview.getBatchId(), 3L));
@@ -89,7 +98,13 @@ class ExamImportServiceTest {
     @Test
     void successfulCommitCreatesDraftQuestionOnlyOnce() {
         ImportPreviewResponse preview = service.preview(9L, "valid.json", jsonQuestion().getBytes(StandardCharsets.UTF_8));
+        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("VALIDATED", 9L));
         when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source("ORIGINAL", "APPROVED"));
+        when(batchMapper.findItemsByBatchIdForUpdate(101L)).thenReturn(java.util.Collections.singletonList(batchItem(jsonQuestion())));
+        when(batchMapper.reserveFingerprint(any(), any(), anyLong())).thenReturn(1);
+        when(batchMapper.markItemImported(anyLong())).thenReturn(1);
+        when(batchMapper.markImported(anyLong(), anyLong(), org.mockito.ArgumentMatchers.anyInt(), any())).thenReturn(1);
+        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("VALIDATED", 9L), batch("IMPORTED", 9L));
         when(questionMapper.insert(any(QuestionEntity.class))).thenReturn(1);
 
         service.commit(preview.getBatchId(), 3L);
@@ -107,6 +122,7 @@ class ExamImportServiceTest {
         try (AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext()) {
             context.registerBean(QuestionSourceMapper.class, () -> sourceMapper);
             context.registerBean(QuestionMapper.class, () -> questionMapper);
+            context.registerBean(ImportBatchMapper.class, () -> batchMapper);
             context.register(ExamImportService.class);
             context.refresh();
 
@@ -119,6 +135,23 @@ class ExamImportServiceTest {
         source.setCopyrightStatus(copyrightStatus);
         source.setReviewStatus(reviewStatus);
         return source;
+    }
+
+    private static ImportBatchEntity batch(String status, long sourceId) {
+        ImportBatchEntity batch = new ImportBatchEntity();
+        batch.setId(101L);
+        batch.setStatus(status);
+        batch.setSourceId(sourceId);
+        return batch;
+    }
+
+    private static com.mall.exam.importer.model.ImportBatchItemEntity batchItem(String payload) {
+        com.mall.exam.importer.model.ImportBatchItemEntity item = new com.mall.exam.importer.model.ImportBatchItemEntity();
+        item.setPayload(payload.substring(1, payload.length() - 1));
+        item.setId(201L);
+        item.setQuestionFingerprint(QuestionFingerprint.sha256("", "A word with é"));
+        item.setStatus("PENDING");
+        return item;
     }
 
     private static String jsonQuestion() {

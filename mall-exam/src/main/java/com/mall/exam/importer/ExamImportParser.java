@@ -116,9 +116,11 @@ public class ExamImportParser {
                         ObjectNode group = ((ObjectNode) candidate).deepCopy();
                         group.remove("questions");
                         copy.set("group", group);
+                        if (limit(rows, errors)) return rows;
                         rows.add(new Row(rowNumber, copy));
                     }
                 } else {
+                    if (limit(rows, errors)) return rows;
                     rows.add(new Row(rowNumber, candidate));
                 }
             }
@@ -144,6 +146,8 @@ public class ExamImportParser {
                 normalizeCsvJson(node, "sharedOptions");
                 normalizeCsvJson(node, "scoringRubric");
                 normalizeCsvJson(node, "knowledgePoints");
+                normalizeCsvJson(node, "correctAnswer");
+                if (limit(rows, errors)) return rows;
                 rows.add(new Row((int) record.getRecordNumber() + 1, node));
             }
         } catch (IOException | IllegalArgumentException error) {
@@ -233,7 +237,8 @@ public class ExamImportParser {
             invalid(row, errors, "groupType must be DIALOGUE or READING");
             return null;
         }
-        if (!within(title, 1, 255) || !within(content, 1, 50_000)) {
+        if (!within(title, 1, 255) || !within(content, 1, 50_000)
+                || utf8Bytes(text(group, "instruction")) > 65_535) {
             invalid(row, errors, "group requires title and content within length limits");
             return null;
         }
@@ -243,6 +248,7 @@ public class ExamImportParser {
     }
 
     private void validateGroups(List<ImportPreviewResponse.Item> items, List<String> errors) {
+        java.util.Map<String, String> canonicalGroups = new java.util.HashMap<>();
         for (ImportPreviewResponse.Item item : items) {
             ImportPreviewResponse.Group group = item.getGroup();
             if (group != null && "DIALOGUE".equals(group.getGroupType()) && !"DIALOGUE_BLANK".equals(item.getQuestionType())) {
@@ -250,6 +256,15 @@ public class ExamImportParser {
             }
             if (group != null && "READING".equals(group.getGroupType()) && !"READING".equals(item.getQuestionType())) {
                 invalid(item.getRowNumber(), errors, "READING group may contain only READING questions");
+            }
+            if (group != null) {
+                String signature = group.getGroupType() + "\n" + group.getTitle() + "\n" + group.getInstruction()
+                        + "\n" + group.getContent() + "\n" + group.getSharedOptions() + "\n"
+                        + item.getDifficulty() + "\n" + item.getKnowledgePoints();
+                String previous = canonicalGroups.putIfAbsent(group.getFingerprint(), signature);
+                if (previous != null && !previous.equals(signature)) {
+                    invalid(item.getRowNumber(), errors, "group fingerprint has conflicting metadata");
+                }
             }
         }
     }
@@ -350,7 +365,14 @@ public class ExamImportParser {
     }
 
     private static boolean hasText(String value) { return value != null && !value.trim().isEmpty(); }
+    private static int utf8Bytes(String value) { return value == null ? 0 : value.getBytes(StandardCharsets.UTF_8).length; }
     private static String upper(String value) { return value == null ? null : value.trim().toUpperCase(Locale.ROOT); }
+
+    private static boolean limit(List<Row> rows, List<String> errors) {
+        if (rows.size() < MAX_ROWS) return false;
+        errors.add("row 0: file contains more than 2,000 records");
+        return true;
+    }
 
     static final class ParsedPreview {
         final int totalRows;
