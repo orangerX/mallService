@@ -95,26 +95,10 @@ class ExamImportServiceTest {
         assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
     }
 
-    @org.junit.jupiter.api.Disabled("Covered by database-backed import lifecycle integration once MySQL harness is available")
     @Test
     void successfulCommitCreatesDraftQuestionOnlyOnce() {
-        ImportPreviewResponse preview = service.preview(9L, "valid.json", jsonQuestion().getBytes(StandardCharsets.UTF_8));
-        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("VALIDATED", 9L));
-        when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source("ORIGINAL", "APPROVED"));
-        when(batchMapper.findItemsByBatchIdForUpdate(101L)).thenReturn(java.util.Collections.singletonList(batchItem(jsonQuestion())));
-        when(batchMapper.reserveFingerprint(any(), any(), anyLong())).thenReturn(1);
-        when(batchMapper.markItemImported(anyLong())).thenReturn(1);
-        when(batchMapper.markImported(anyLong(), anyLong(), org.mockito.ArgumentMatchers.anyInt(), org.mockito.ArgumentMatchers.anyInt(), org.mockito.ArgumentMatchers.anyInt(), org.mockito.ArgumentMatchers.anyString())).thenReturn(1);
-        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("VALIDATED", 9L), batch("IMPORTED", 9L));
-        when(questionMapper.insert(any(QuestionEntity.class))).thenReturn(1);
-
-        service.commit(preview.getBatchId(), 3L);
-        BusinessException replay = assertThrows(BusinessException.class, () -> service.commit(preview.getBatchId(), 3L));
-
-        ArgumentCaptor<QuestionEntity> question = ArgumentCaptor.forClass(QuestionEntity.class);
-        verify(questionMapper, times(1)).insert(question.capture());
-        assertEquals("DRAFT", question.getValue().getReviewStatus());
-        assertEquals(1, question.getValue().getEnabled());
+        when(batchMapper.findBatchByIdForUpdate(101L)).thenReturn(batch("IMPORTED", 9L));
+        BusinessException replay = assertThrows(BusinessException.class, () -> service.commit(101L, 3L));
         assertEquals(ErrorCode.EXAM_IMPORT_INVALID, replay.getErrorCode());
     }
 

@@ -37,7 +37,8 @@ public class ExamImportService {
             if (item.getGroup()!=null && questionMapper.countGroupsByContentFingerprint(item.getGroup().getFingerprint())>0) duplicate=true;
             if (duplicate) warnings.add("row "+item.getRowNumber()+": duplicate content fingerprint"); else accepted.add(item);
         }
-        ImportBatchEntity batch=new ImportBatchEntity(); batch.setFileName(filename); batch.setFileFormat(format(filename)); batch.setSourceId(sourceId); batch.setStatus(parsed.errors.isEmpty()?"VALIDATED":"REJECTED"); batch.setTotalRows(parsed.totalRows); batch.setSuccessRows(accepted.size()); batch.setFailedRows(distinctRows(parsed.errors)); batch.setDuplicateRows(warnings.size()); batch.setStructureErrors(json(parsed.errors)); batch.setDuplicateWarnings(json(warnings)); require(batchMapper.insertBatch(batch));
+        boolean rejected = !parsed.errors.isEmpty();
+        ImportBatchEntity batch=new ImportBatchEntity(); batch.setFileName(filename); batch.setFileFormat(format(filename)); batch.setSourceId(sourceId); batch.setStatus(rejected?"REJECTED":"VALIDATED"); batch.setTotalRows(parsed.totalRows); batch.setSuccessRows(rejected ? 0 : accepted.size()); batch.setDuplicateRows(warnings.size()); batch.setFailedRows(rejected ? Math.max(0, parsed.totalRows - warnings.size()) : 0); batch.setStructureErrors(json(parsed.errors)); batch.setDuplicateWarnings(json(warnings)); require(batchMapper.insertBatch(batch));
         for (ImportPreviewResponse.Item item:accepted) { ImportBatchItemEntity stored=new ImportBatchItemEntity(); stored.setBatchId(batch.getId()); stored.setRowNumber(item.getRowNumber()); stored.setPayload(json(item)); stored.setQuestionFingerprint(item.getFingerprint()); stored.setGroupFingerprint(item.getGroup()==null?null:item.getGroup().getFingerprint()); stored.setStatus("PENDING"); require(batchMapper.insertItem(stored)); }
         return new ImportPreviewResponse(batch.getId(), parsed.totalRows, accepted.size(), warnings.size(), parsed.errors, accepted);
     }
@@ -67,7 +68,7 @@ public class ExamImportService {
     private int persistUnit(long batchId,long sourceId,List<ImportBatchItemEntity> stored,List<String> warnings,Map<String, Boolean> acquired) {
         List<ImportPreviewResponse.Item> members=new ArrayList<>(); for(ImportBatchItemEntity item:stored) members.add(read(item.getPayload())); ImportPreviewResponse.Group group=members.get(0).getGroup();
         if (group==null) return persistStandalone(sourceId,stored.get(0),members.get(0),warnings,acquired);
-        if (!Boolean.TRUE.equals(acquired.get(group.getFingerprint()))) return duplicate(stored,warnings,"concurrent duplicate group");
+        if (!Boolean.TRUE.equals(acquired.get(group.getFingerprint()))) { releaseOwnedQuestions(batchId, stored, acquired); return duplicate(stored,warnings,"concurrent duplicate group"); }
         List<Integer> accepted=new ArrayList<>(); for(int i=0;i<members.size();i++) if(Boolean.TRUE.equals(acquired.get(members.get(i).getFingerprint()))) accepted.add(i); else markDuplicate(stored.get(i),warnings,"concurrent duplicate question");
         if(accepted.isEmpty()){ batchMapper.releaseFingerprint(group.getFingerprint(),batchId); return 0; }
         QuestionGroupEntity entity=group(group,sourceId,members.get(accepted.get(0))); require(questionMapper.insertGroup(entity)); int count=0, order=0;
@@ -75,6 +76,7 @@ public class ExamImportService {
         return count;
     }
     private int persistStandalone(long sourceId,ImportBatchItemEntity stored,ImportPreviewResponse.Item item,List<String>warnings,Map<String, Boolean> acquired){ if(!Boolean.TRUE.equals(acquired.get(item.getFingerprint()))) return duplicate(Collections.singletonList(stored),warnings,"concurrent duplicate question"); require(questionMapper.insert(question(item,sourceId,null,null))); require(batchMapper.markItemImported(stored.getId())); return 1; }
+    private void releaseOwnedQuestions(long batchId, List<ImportBatchItemEntity> items, Map<String, Boolean> acquired) { for (ImportBatchItemEntity item : items) if (Boolean.TRUE.equals(acquired.get(item.getQuestionFingerprint()))) require(batchMapper.releaseFingerprint(item.getQuestionFingerprint(), batchId)); }
     private int duplicate(List<ImportBatchItemEntity> items,List<String>warnings,String reason){for(ImportBatchItemEntity item:items) markDuplicate(item,warnings,reason); return 0;}
     private void markDuplicate(ImportBatchItemEntity item,List<String>warnings,String reason){require(batchMapper.markItemDuplicate(item.getId())); warnings.add("row "+item.getRowNumber()+": "+reason);}
     private QuestionGroupEntity group(ImportPreviewResponse.Group g,long sourceId,ImportPreviewResponse.Item item){QuestionGroupEntity e=new QuestionGroupEntity();e.setGroupType(g.getGroupType());e.setTitle(g.getTitle());e.setInstruction(g.getInstruction());e.setContent(g.getContent());e.setSharedOptions(g.getSharedOptions());e.setSourceId(sourceId);e.setDifficulty(item.getDifficulty());e.setKnowledgePoints(item.getKnowledgePoints());e.setContentFingerprint(g.getFingerprint());e.setReviewStatus("DRAFT");e.setEnabled(1);return e;}
