@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.paper.mapper.ExamPaperMapper">
+    <resultMap id="paper" type="com.mall.exam.paper.model.ExamPaperEntity">
+        <id column="id" property="id"/>
+        <result column="user_id" property="userId"/>
+        <result column="paper_no" property="paperNo"/>
+        <result column="blueprint_id" property="blueprintId"/>
+        <result column="blueprint_version_snapshot" property="blueprintVersionSnapshot"/>
+        <result column="status" property="status"/>
+        <result column="started_at" property="startedAt"/>
+        <result column="due_at" property="dueAt"/>
+        <result column="submitted_at" property="submittedAt"/>
+        <result column="objective_score" property="objectiveScore"/>
+        <result column="translation_self_score" property="translationSelfScore"/>
+        <result column="writing_self_score" property="writingSelfScore"/>
+        <result column="self_score_total" property="selfScoreTotal"/>
+        <result column="version" property="version"/>
+        <result column="created_at" property="createdAt"/>
+        <result column="updated_at" property="updatedAt"/>
+    </resultMap>
+    <resultMap id="groupSnapshot" type="com.mall.exam.paper.model.ExamPaperGroupSnapshotEntity">
+        <id column="id" property="id"/>
+        <result column="paper_id" property="paperId"/>
+        <result column="original_group_id" property="originalGroupId"/>
+        <result column="section_order" property="sectionOrder"/>
+        <result column="group_order" property="groupOrder"/>
+        <result column="title" property="title"/>
+        <result column="instruction" property="instruction"/>
+        <result column="content" property="content"/>
+        <result column="shared_options" property="sharedOptions"/>
+        <result column="created_at" property="createdAt"/>
+    </resultMap>
+    <resultMap id="itemSnapshot" type="com.mall.exam.paper.model.ExamPaperItemSnapshotEntity">
+        <id column="id" property="id"/>
+        <result column="paper_id" property="paperId"/>
+        <result column="paper_group_snapshot_id" property="paperGroupSnapshotId"/>
+        <result column="original_question_id" property="originalQuestionId"/>
+        <result column="section_order" property="sectionOrder"/>
+        <result column="item_order" property="itemOrder"/>
+        <result column="question_type" property="questionType"/>
+        <result column="stem" property="stem"/>
+        <result column="options" property="options"/>
+        <result column="correct_answer" property="correctAnswer"/>
+        <result column="explanation" property="explanation"/>
+        <result column="reference_answer" property="referenceAnswer"/>
+        <result column="sample_answer" property="sampleAnswer"/>
+        <result column="scoring_rubric" property="scoringRubric"/>
+        <result column="knowledge_points" property="knowledgePoints"/>
+        <result column="score" property="score"/>
+        <result column="created_at" property="createdAt"/>
+    </resultMap>
+    <resultMap id="availableGroup" type="com.mall.exam.paper.mapper.ExamPaperMapper$AvailableGroup" extends="com.mall.exam.question.mapper.QuestionMapper.questionGroupResultMap">
+        <result column="member_count" property="memberCount"/>
+    </resultMap>
+    <select id="findInProgress" resultMap="paper">
+        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,version,created_at,updated_at
+        FROM exam_paper WHERE user_id=#{userId} AND status='IN_PROGRESS'
+        ORDER BY started_at DESC,id DESC LIMIT 1
+    </select>
+    <select id="lockUser" resultType="long">SELECT id FROM sys_user WHERE id=#{userId} FOR UPDATE</select>
+    <select id="findEnabledBlueprint" resultType="com.mall.exam.paper.mapper.ExamPaperMapper$BlueprintRow">
+        SELECT id,version FROM exam_blueprint
+        WHERE blueprint_code=#{code} AND status='ENABLED' AND duration_minutes=120 AND total_score=100
+        ORDER BY id DESC LIMIT 1
+    </select>
+    <sql id="reusableSource">s.enabled=1 AND s.review_status='APPROVED' AND s.copyright_status IN ('ORIGINAL','AUTHORIZED','PUBLIC_OFFICIAL')</sql>
+    <!-- Check ALL members before selecting a group; filtering children first would silently split content. -->
+    <sql id="eligibleGroups">
+        SELECT g.id,COUNT(q.id) AS member_count
+        FROM exam_question_group g JOIN exam_question_source s ON s.id=g.source_id
+        JOIN exam_question q ON q.group_id=g.id
+        WHERE g.enabled=1 AND g.review_status='APPROVED' AND <include refid="reusableSource"/>
+        GROUP BY g.id,g.group_type,g.source_id
+        HAVING SUM(q.review_status!='APPROVED' OR q.enabled!=1 OR q.source_id!=g.source_id
+            OR (g.group_type='DIALOGUE' AND q.question_type!='DIALOGUE_BLANK')
+            OR (g.group_type='READING' AND q.question_type!='READING'))=0
+        AND COUNT(DISTINCT q.group_sort_order)=COUNT(q.id) AND MIN(q.group_sort_order)&gt;=1
+        AND ((g.group_type='DIALOGUE' AND COUNT(q.id) BETWEEN 1 AND 8)
+          OR (g.group_type='READING' AND COUNT(q.id)=5))
+    </sql>
+    <select id="findAvailableGroups" resultMap="availableGroup">
+        SELECT g.id,g.group_type,g.title,g.instruction,g.content,g.shared_options,g.source_id,g.difficulty,
+               g.knowledge_points,g.content_fingerprint,g.review_status,g.enabled,g.created_at,g.updated_at,e.member_count
+        FROM exam_question_group g JOIN (<include refid="eligibleGroups"/>) e ON e.id=g.id
+        ORDER BY g.id
+    </select>
+    <select id="findAvailableQuestions" resultMap="com.mall.exam.question.mapper.QuestionMapper.questionResultMap">
+        SELECT q.id,q.group_id,q.question_type,q.stem,q.options,q.correct_answer,q.explanation,q.reference_answer,q.sample_answer,
+               q.scoring_rubric,q.source_id,q.group_sort_order,q.difficulty,q.knowledge_points,q.content_fingerprint,
+               q.review_status,q.enabled,q.created_at,q.updated_at
+        FROM exam_question q JOIN exam_question_source s ON s.id=q.source_id
+        WHERE q.enabled=1 AND q.review_status='APPROVED' AND <include refid="reusableSource"/>
+        AND ((q.group_id IS NULL AND q.question_type IN ('VOCABULARY','GRAMMAR','TRANSLATION','WRITING'))
+          OR q.group_id IN (SELECT eligible.id FROM (<include refid="eligibleGroups"/>) eligible))
+        ORDER BY q.id
+    </select>
+    <select id="findPreviouslyUsedQuestionIds" resultType="long">
+        SELECT DISTINCT i.original_question_id FROM exam_paper_item_snapshot i JOIN exam_paper p ON p.id=i.paper_id WHERE p.user_id=#{userId}
+    </select>
+    <select id="findPreviouslyUsedGroupIds" resultType="long">
+        SELECT DISTINCT g.original_group_id FROM exam_paper_group_snapshot g JOIN exam_paper p ON p.id=g.paper_id WHERE p.user_id=#{userId}
+    </select>
+    <insert id="insertPaper" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_paper (user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,version)
+        VALUES (#{userId},#{paperNo},#{blueprintId},#{blueprintVersionSnapshot},#{status},#{startedAt},#{dueAt},#{version})
+    </insert>
+    <insert id="insertGroupSnapshot" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_paper_group_snapshot (paper_id,original_group_id,section_order,group_order,title,instruction,content,shared_options)
+        VALUES (#{paperId},#{originalGroupId},#{sectionOrder},#{groupOrder},#{title},#{instruction},#{content},#{sharedOptions})
+    </insert>
+    <insert id="insertItemSnapshot" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_paper_item_snapshot (paper_id,paper_group_snapshot_id,original_question_id,section_order,item_order,question_type,stem,options,correct_answer,explanation,reference_answer,sample_answer,scoring_rubric,knowledge_points,score)
+        VALUES (#{paperId},#{paperGroupSnapshotId},#{originalQuestionId},#{sectionOrder},#{itemOrder},#{questionType},#{stem},#{options},#{correctAnswer},#{explanation},#{referenceAnswer},#{sampleAnswer},#{scoringRubric},#{knowledgePoints},#{score})
+    </insert>
+    <select id="findGroupSnapshots" resultMap="groupSnapshot">
+        SELECT id,paper_id,original_group_id,section_order,group_order,title,instruction,content,shared_options,created_at FROM exam_paper_group_snapshot
+        WHERE paper_id=#{paperId} ORDER BY section_order,group_order,id
+    </select>
+    <select id="findItemSnapshots" resultMap="itemSnapshot">
+        SELECT id,paper_id,paper_group_snapshot_id,original_question_id,section_order,item_order,question_type,stem,options,correct_answer,explanation,reference_answer,sample_answer,scoring_rubric,knowledge_points,score,created_at FROM exam_paper_item_snapshot
+        WHERE paper_id=#{paperId} ORDER BY section_order,item_order,id
+    </select>
+</mapper>

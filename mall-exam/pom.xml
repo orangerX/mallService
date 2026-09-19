@@ -4,6 +4,7 @@
     <parent><groupId>com.mall</groupId><artifactId>mall-service-parent</artifactId><version>1.0.0</version></parent>
     <artifactId>mall-exam</artifactId>
     <dependencies>
+        <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-data-redis</artifactId></dependency>
         <dependency><groupId>com.mall</groupId><artifactId>mall-common</artifactId><version>${project.version}</version></dependency>
         <dependency><groupId>org.mybatis.spring.boot</groupId><artifactId>mybatis-spring-boot-starter</artifactId></dependency>
         <dependency><groupId>com.fasterxml.jackson.core</groupId><artifactId>jackson-databind</artifactId></dependency>
