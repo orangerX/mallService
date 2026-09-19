@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.source.mapper.QuestionSourceMapper">
+
+    <resultMap id="questionSourceResultMap" type="com.mall.exam.source.model.QuestionSourceEntity">
+        <id property="id" column="id"/>
+        <result property="sourceName" column="source_name"/>
+        <result property="sourceType" column="source_type"/>
+        <result property="originalUrl" column="original_url"/>
+        <result property="copyrightStatus" column="copyright_status"/>
+        <result property="reviewStatus" column="review_status"/>
+        <result property="copyrightNote" column="copyright_note"/>
+        <result property="reviewedBy" column="reviewed_by"/>
+        <result property="reviewComment" column="review_comment"/>
+        <result property="reviewedAt" column="reviewed_at"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <sql id="sourceColumns">
+        id, source_name, source_type, original_url, copyright_status, review_status,
+        copyright_note, reviewed_by, review_comment, reviewed_at, created_at, updated_at
+    </sql>
+
+    <select id="findById" resultMap="questionSourceResultMap">
+        SELECT <include refid="sourceColumns"/>
+        FROM exam_question_source
+        WHERE id = #{id}
+    </select>
+
+    <insert id="insert" parameterType="com.mall.exam.source.model.QuestionSourceEntity"
+            useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_question_source (
+            source_name, source_type, original_url, copyright_status, review_status, copyright_note
+        ) VALUES (
+            #{sourceName}, #{sourceType}, #{originalUrl}, #{copyrightStatus}, #{reviewStatus}, #{copyrightNote}
+        )
+    </insert>
+
+    <update id="update" parameterType="com.mall.exam.source.model.QuestionSourceEntity">
+        UPDATE exam_question_source
+        SET source_name = #{sourceName},
+            source_type = #{sourceType},
+            original_url = #{originalUrl},
+            copyright_status = #{copyrightStatus},
+            copyright_note = #{copyrightNote},
+            updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+
+    <update id="updateReview">
+        UPDATE exam_question_source
+        SET copyright_status = #{copyrightStatus},
+            review_status = #{reviewStatus},
+            reviewed_by = #{reviewedBy},
+            reviewed_at = #{reviewedAt},
+            review_comment = #{reviewComment},
+            updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+</mapper>

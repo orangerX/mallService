@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.question.mapper.QuestionMapper">
+
+    <resultMap id="questionGroupResultMap" type="com.mall.exam.question.model.QuestionGroupEntity">
+        <id property="id" column="id"/>
+        <result property="groupType" column="group_type"/>
+        <result property="title" column="title"/>
+        <result property="instruction" column="instruction"/>
+        <result property="content" column="content"/>
+        <result property="sharedOptions" column="shared_options"/>
+        <result property="sourceId" column="source_id"/>
+        <result property="difficulty" column="difficulty"/>
+        <result property="knowledgePoints" column="knowledge_points"/>
+        <result property="contentFingerprint" column="content_fingerprint"/>
+        <result property="reviewStatus" column="review_status"/>
+        <result property="enabled" column="enabled"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <resultMap id="questionResultMap" type="com.mall.exam.question.model.QuestionEntity">
+        <id property="id" column="id"/>
+        <result property="groupId" column="group_id"/>
+        <result property="questionType" column="question_type"/>
+        <result property="stem" column="stem"/>
+        <result property="options" column="options"/>
+        <result property="correctAnswer" column="correct_answer"/>
+        <result property="explanation" column="explanation"/>
+        <result property="referenceAnswer" column="reference_answer"/>
+        <result property="sampleAnswer" column="sample_answer"/>
+        <result property="scoringRubric" column="scoring_rubric"/>
+        <result property="sourceId" column="source_id"/>
+        <result property="groupSortOrder" column="group_sort_order"/>
+        <result property="difficulty" column="difficulty"/>
+        <result property="knowledgePoints" column="knowledge_points"/>
+        <result property="contentFingerprint" column="content_fingerprint"/>
+        <result property="reviewStatus" column="review_status"/>
+        <result property="enabled" column="enabled"/>
+        <result property="createdAt" column="created_at"/>
+        <result property="updatedAt" column="updated_at"/>
+    </resultMap>
+
+    <select id="findById" resultMap="questionResultMap">
+        SELECT id, group_id, question_type, stem, options, correct_answer, explanation,
+               reference_answer, sample_answer, scoring_rubric, source_id, group_sort_order,
+               difficulty, knowledge_points, content_fingerprint, review_status, enabled,
+               created_at, updated_at
+        FROM exam_question
+        WHERE id = #{id}
+    </select>
+
+    <select id="findGroupById" resultMap="questionGroupResultMap">
+        SELECT id, group_type, title, instruction, content, shared_options, source_id,
+               difficulty, knowledge_points, content_fingerprint, review_status, enabled,
+               created_at, updated_at
+        FROM exam_question_group
+        WHERE id = #{id}
+    </select>
+
+    <insert id="insertGroup" parameterType="com.mall.exam.question.model.QuestionGroupEntity"
+            useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_question_group (
+            group_type, title, instruction, content, shared_options, source_id, difficulty,
+            knowledge_points, content_fingerprint, review_status, enabled
+        ) VALUES (
+            #{groupType}, #{title}, #{instruction}, #{content}, #{sharedOptions}, #{sourceId}, #{difficulty},
+            #{knowledgePoints}, #{contentFingerprint}, #{reviewStatus}, #{enabled}
+        )
+    </insert>
+
+    <insert id="insert" parameterType="com.mall.exam.question.model.QuestionEntity"
+            useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_question (
+            group_id, question_type, stem, options, correct_answer, explanation, reference_answer,
+            sample_answer, scoring_rubric, source_id, group_sort_order, difficulty, knowledge_points,
+            content_fingerprint, review_status, enabled
+        ) VALUES (
+            #{groupId}, #{questionType}, #{stem}, #{options}, #{correctAnswer}, #{explanation}, #{referenceAnswer},
+            #{sampleAnswer}, #{scoringRubric}, #{sourceId}, #{groupSortOrder}, #{difficulty}, #{knowledgePoints},
+            #{contentFingerprint}, #{reviewStatus}, #{enabled}
+        )
+    </insert>
+
+    <update id="updateGroupReview">
+        UPDATE exam_question_group
+        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{groupId}
+    </update>
+
+    <update id="updateReviewByGroupId">
+        UPDATE exam_question
+        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE group_id = #{groupId}
+    </update>
+
+    <update id="updateReview">
+        UPDATE exam_question
+        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+
+    <update id="updateGroupStatus">
+        UPDATE exam_question_group
+        SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{groupId}
+    </update>
+
+    <update id="updateStatusByGroupId">
+        UPDATE exam_question
+        SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE group_id = #{groupId}
+    </update>
+
+    <update id="updateStatus">
+        UPDATE exam_question
+        SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+    </update>
+
+    <select id="countPaperItemSnapshots" resultType="long">
+        SELECT COUNT(*)
+        FROM exam_paper_item_snapshot
+        WHERE original_question_id = #{id}
+    </select>
+
+    <delete id="deleteUnreferencedById">
+        DELETE FROM exam_question
+        WHERE id = #{id}
+          AND NOT EXISTS (
+              SELECT 1
+              FROM exam_paper_item_snapshot
+              WHERE original_question_id = #{id}
+          )
+    </delete>
+</mapper>
