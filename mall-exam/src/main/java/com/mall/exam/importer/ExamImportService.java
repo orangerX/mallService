@@ -70,7 +70,7 @@ public class ExamImportService {
         if (group==null) return persistStandalone(sourceId,stored.get(0),members.get(0),warnings,acquired);
         if (!Boolean.TRUE.equals(acquired.get(group.getFingerprint()))) { releaseOwnedQuestions(batchId, stored, acquired); return duplicate(stored,warnings,"concurrent duplicate group"); }
         List<Integer> accepted=new ArrayList<>(); for(int i=0;i<members.size();i++) if(Boolean.TRUE.equals(acquired.get(members.get(i).getFingerprint()))) accepted.add(i); else markDuplicate(stored.get(i),warnings,"concurrent duplicate question");
-        if(accepted.isEmpty()){ batchMapper.releaseFingerprint(group.getFingerprint(),batchId); return 0; }
+        if(accepted.isEmpty()){ require(batchMapper.releaseFingerprint(group.getFingerprint(),batchId)); return 0; }
         QuestionGroupEntity entity=group(group,sourceId,members.get(accepted.get(0))); require(questionMapper.insertGroup(entity)); int count=0, order=0;
         for(Integer index:accepted){ ImportPreviewResponse.Item item=members.get(index); QuestionEntity question=question(item,sourceId,entity.getId(),item.getGroupSortOrder()==null?++order:item.getGroupSortOrder()); require(questionMapper.insert(question)); require(batchMapper.markItemImported(stored.get(index).getId())); count++; }
         return count;

@@ -94,34 +94,39 @@ public class ExamImportParser {
                 return rows;
             }
             if (candidates.isObject()) candidates = objectMapper.createArrayNode().add(candidates);
+            // Persisted row numbers identify flattened questions, not their parent JSON object.
             int rowNumber = 0;
+            int sourceItem = 0;
             for (JsonNode candidate : candidates) {
-                rowNumber++;
+                String location = "JSON item " + ++sourceItem;
                 if (!candidate.isObject()) {
-                    errors.add("row " + rowNumber + ": record must be an object");
+                    errors.add("row " + ++rowNumber + ": " + location + ": record must be an object");
                     continue;
                 }
                 JsonNode questions = candidate.get("questions");
                 if (questions != null) {
                     if (!questions.isArray() || questions.isEmpty()) {
-                        errors.add("row " + rowNumber + ": group questions must be a non-empty array");
+                        errors.add("row " + ++rowNumber + ": " + location + ": group questions must be a non-empty array");
                         continue;
                     }
+                    ObjectNode group = ((ObjectNode) candidate).deepCopy();
+                    group.remove("questions");
+                    int member = 0;
                     for (JsonNode question : questions) {
+                        String memberLocation = location + ", member " + ++member;
+                        rowNumber++;
                         if (!question.isObject()) {
-                            errors.add("row " + rowNumber + ": group member must be an object");
+                            errors.add("row " + rowNumber + ": " + memberLocation + ": group member must be an object");
                             continue;
                         }
                         ObjectNode copy = ((ObjectNode) question).deepCopy();
-                        ObjectNode group = ((ObjectNode) candidate).deepCopy();
-                        group.remove("questions");
                         copy.set("group", group);
                         if (limit(rows, errors)) return rows;
-                        rows.add(new Row(rowNumber, copy));
+                        rows.add(new Row(rowNumber, copy, memberLocation));
                     }
                 } else {
                     if (limit(rows, errors)) return rows;
-                    rows.add(new Row(rowNumber, candidate));
+                    rows.add(new Row(++rowNumber, candidate, location));
                 }
             }
             return rows;
@@ -281,7 +286,7 @@ public class ExamImportParser {
     }
 
     private ImportPreviewResponse.Item invalid(Row row, List<String> errors, String message) {
-        invalid(row.number, errors, message);
+        invalid(row.number, errors, row.sourceLocation == null ? message : row.sourceLocation + ": " + message);
         return null;
     }
 
@@ -389,6 +394,12 @@ public class ExamImportParser {
     private static final class Row {
         final int number;
         final JsonNode node;
-        Row(int number, JsonNode node) { this.number = number; this.node = node; }
+        final String sourceLocation;
+        Row(int number, JsonNode node) { this(number, node, null); }
+        Row(int number, JsonNode node, String sourceLocation) {
+            this.number = number;
+            this.node = node;
+            this.sourceLocation = sourceLocation;
+        }
     }
 }
