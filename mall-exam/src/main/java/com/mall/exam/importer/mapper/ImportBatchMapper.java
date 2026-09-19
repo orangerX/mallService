@@ -17,5 +17,6 @@ public interface ImportBatchMapper {
     int markItemImported(@Param("itemId") long itemId);
     int markItemDuplicate(@Param("itemId") long itemId);
     int markImported(@Param("batchId") long batchId, @Param("adminId") long adminId,
-                     @Param("successRows") int successRows, @Param("duplicateWarnings") String duplicateWarnings);
+                     @Param("successRows") int successRows, @Param("failedRows") int failedRows,
+                     @Param("duplicateRows") int duplicateRows, @Param("duplicateWarnings") String duplicateWarnings);
 }

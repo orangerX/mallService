@@ -26,6 +26,7 @@ CREATE TABLE exam_import_batch (
     total_rows INT UNSIGNED NOT NULL DEFAULT 0,
     success_rows INT UNSIGNED NOT NULL DEFAULT 0,
     failed_rows INT UNSIGNED NOT NULL DEFAULT 0,
+    duplicate_rows INT UNSIGNED NOT NULL DEFAULT 0,
     structure_errors JSON NULL,
     duplicate_warnings JSON NULL,
     created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),

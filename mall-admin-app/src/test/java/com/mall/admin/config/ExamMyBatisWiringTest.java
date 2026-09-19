@@ -17,6 +17,7 @@ class ExamMyBatisWiringTest {
     private static final List<String> EXAM_MAPPER_PACKAGES = Arrays.asList(
             "com.mall.exam.source.mapper",
             "com.mall.exam.question.mapper",
+            "com.mall.exam.importer.mapper",
             "com.mall.exam.paper.mapper",
             "com.mall.exam.attempt.mapper"
     );
@@ -24,6 +25,7 @@ class ExamMyBatisWiringTest {
     private static final List<String> EXAM_MODEL_PACKAGES = Arrays.asList(
             "com.mall.exam.source.model",
             "com.mall.exam.question.model",
+            "com.mall.exam.importer.model",
             "com.mall.exam.paper.model",
             "com.mall.exam.attempt.model"
     );

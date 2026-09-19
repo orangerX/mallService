@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
         "com.mall.coupon.mapper",
         "com.mall.exam.source.mapper",
         "com.mall.exam.question.mapper",
+        "com.mall.exam.importer.mapper",
         "com.mall.exam.paper.mapper",
         "com.mall.exam.attempt.mapper",
         "com.mall.order.mapper",
