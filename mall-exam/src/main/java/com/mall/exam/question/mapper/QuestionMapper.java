@@ -22,6 +22,10 @@ public interface QuestionMapper {
 
     int insert(QuestionEntity question);
 
+    long countQuestionsByContentFingerprint(@Param("contentFingerprint") String contentFingerprint);
+
+    long countGroupsByContentFingerprint(@Param("contentFingerprint") String contentFingerprint);
+
     int approveGroupIfReusable(@Param("groupId") Long groupId);
 
     int approveQuestionsByGroupIfReusable(@Param("groupId") Long groupId);

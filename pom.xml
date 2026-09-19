@@ -33,6 +33,7 @@
         <mysql-connector.version>8.0.33</mysql-connector.version>
         <jjwt.version>0.13.0</jjwt.version>
         <springdoc.version>1.8.0</springdoc.version>
+        <commons-csv.version>1.10.0</commons-csv.version>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -43,6 +44,7 @@
             <dependency><groupId>io.jsonwebtoken</groupId><artifactId>jjwt-impl</artifactId><version>${jjwt.version}</version></dependency>
             <dependency><groupId>io.jsonwebtoken</groupId><artifactId>jjwt-jackson</artifactId><version>${jjwt.version}</version></dependency>
             <dependency><groupId>org.springdoc</groupId><artifactId>springdoc-openapi-ui</artifactId><version>${springdoc.version}</version></dependency>
+            <dependency><groupId>org.apache.commons</groupId><artifactId>commons-csv</artifactId><version>${commons-csv.version}</version></dependency>
         </dependencies>
     </dependencyManagement>
 </project>

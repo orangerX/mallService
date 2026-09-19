@@ -104,6 +104,14 @@
         )
     </insert>
 
+    <select id="countQuestionsByContentFingerprint" resultType="long">
+        SELECT COUNT(*) FROM exam_question WHERE content_fingerprint = #{contentFingerprint}
+    </select>
+
+    <select id="countGroupsByContentFingerprint" resultType="long">
+        SELECT COUNT(*) FROM exam_question_group WHERE content_fingerprint = #{contentFingerprint}
+    </select>
+
     <update id="approveGroupIfReusable">
         UPDATE exam_question_group g
         INNER JOIN exam_question_source group_source ON group_source.id = g.source_id
