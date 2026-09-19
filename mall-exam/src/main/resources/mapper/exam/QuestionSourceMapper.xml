@@ -6,6 +6,7 @@
 
     <resultMap id="questionSourceResultMap" type="com.mall.exam.source.model.QuestionSourceEntity">
         <id property="id" column="id"/>
+        <result property="enabled" column="enabled"/>
         <result property="sourceName" column="source_name"/>
         <result property="sourceType" column="source_type"/>
         <result property="originalUrl" column="original_url"/>
@@ -20,7 +21,7 @@
     </resultMap>
 
     <sql id="sourceColumns">
-        id, source_name, source_type, original_url, copyright_status, review_status,
+        id, enabled, source_name, source_type, original_url, copyright_status, review_status,
         copyright_note, reviewed_by, review_comment, reviewed_at, created_at, updated_at
     </sql>
 
@@ -55,6 +56,12 @@
             copyright_note = #{copyrightNote},
             updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{id}
+          AND review_status IN ('DRAFT', 'PENDING', 'REJECTED')
+          AND NOT EXISTS (
+              SELECT 1 FROM exam_question q
+              JOIN exam_paper_item_snapshot snapshot ON snapshot.original_question_id=q.id
+              WHERE q.source_id=#{id}
+          )
     </update>
 
     <update id="approveSourceWithReusableCopyright">

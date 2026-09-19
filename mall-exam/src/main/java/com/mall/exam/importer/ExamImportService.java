@@ -31,6 +31,16 @@ public class ExamImportService {
 
     @Transactional(rollbackFor = Exception.class)
     public ImportPreviewResponse preview(long sourceId, String filename, byte[] bytes) {
+        return previewInternal(sourceId,filename,bytes,null);
+    }
+
+    @Transactional(rollbackFor = Exception.class)
+    public ImportPreviewResponse preview(long sourceId, String filename, byte[] bytes, long adminId) {
+        if(adminId<1 || sourceMapper.findById(sourceId)==null) throw new BusinessException(HttpStatus.NOT_FOUND,ErrorCode.EXAM_NOT_FOUND);
+        return previewInternal(sourceId,filename,bytes,adminId);
+    }
+
+    private ImportPreviewResponse previewInternal(long sourceId, String filename, byte[] bytes, Long adminId) {
         ExamImportParser.ParsedPreview parsed=parser.parse(filename, bytes); List<String> warnings=new ArrayList<>(); List<ImportPreviewResponse.Item> accepted=new ArrayList<>(); Set<String> seen=new HashSet<>();
         for (ImportPreviewResponse.Item item: parsed.items) {
             boolean duplicate=!seen.add(item.getFingerprint()) || questionMapper.countQuestionsByContentFingerprint(item.getFingerprint())>0;
@@ -38,7 +48,7 @@ public class ExamImportService {
             if (duplicate) warnings.add("row "+item.getRowNumber()+": duplicate content fingerprint"); else accepted.add(item);
         }
         boolean rejected = !parsed.errors.isEmpty();
-        ImportBatchEntity batch=new ImportBatchEntity(); batch.setFileName(filename); batch.setFileFormat(format(filename)); batch.setSourceId(sourceId); batch.setStatus(rejected?"REJECTED":"VALIDATED"); batch.setTotalRows(parsed.totalRows); batch.setSuccessRows(rejected ? 0 : accepted.size()); batch.setDuplicateRows(warnings.size()); batch.setFailedRows(rejected ? Math.max(0, parsed.totalRows - warnings.size()) : 0); batch.setStructureErrors(json(parsed.errors)); batch.setDuplicateWarnings(json(warnings)); require(batchMapper.insertBatch(batch));
+        ImportBatchEntity batch=new ImportBatchEntity(); batch.setImportedBy(adminId); batch.setFileName(filename); batch.setFileFormat(format(filename)); batch.setSourceId(sourceId); batch.setStatus(rejected?"REJECTED":"VALIDATED"); batch.setTotalRows(parsed.totalRows); batch.setSuccessRows(rejected ? 0 : accepted.size()); batch.setDuplicateRows(warnings.size()); batch.setFailedRows(rejected ? Math.max(0, parsed.totalRows - warnings.size()) : 0); batch.setStructureErrors(json(parsed.errors)); batch.setDuplicateWarnings(json(warnings)); require(batchMapper.insertBatch(batch));
         for (ImportPreviewResponse.Item item:accepted) { ImportBatchItemEntity stored=new ImportBatchItemEntity(); stored.setBatchId(batch.getId()); stored.setRowNumber(item.getRowNumber()); stored.setPayload(json(item)); stored.setQuestionFingerprint(item.getFingerprint()); stored.setGroupFingerprint(item.getGroup()==null?null:item.getGroup().getFingerprint()); stored.setStatus("PENDING"); require(batchMapper.insertItem(stored)); }
         return new ImportPreviewResponse(batch.getId(), parsed.totalRows, accepted.size(), warnings.size(), parsed.errors, accepted);
     }
@@ -46,7 +56,7 @@ public class ExamImportService {
     @Transactional(rollbackFor = Exception.class)
     public void commit(long batchId, long adminId) {
         ImportBatchEntity batch=batchMapper.findBatchByIdForUpdate(batchId); if (batch==null || !"VALIDATED".equals(batch.getStatus())) throw invalid();
-        QuestionSourceEntity source=sourceMapper.findByIdForUpdate(batch.getSourceId()); if (source==null || !"APPROVED".equals(source.getReviewStatus()) || !REUSABLE.contains(source.getCopyrightStatus())) throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+        QuestionSourceEntity source=sourceMapper.findByIdForUpdate(batch.getSourceId()); if (source==null || !Integer.valueOf(1).equals(source.getEnabled()) || !"APPROVED".equals(source.getReviewStatus()) || !REUSABLE.contains(source.getCopyrightStatus())) throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
         List<ImportBatchItemEntity> stored=batchMapper.findItemsByBatchIdForUpdate(batchId); List<String> warnings=list(batch.getDuplicateWarnings()); int imported=0; Map<String,List<ImportBatchItemEntity>> units=new LinkedHashMap<>();
         for (ImportBatchItemEntity item:stored) if ("PENDING".equals(item.getStatus())) units.computeIfAbsent(item.getGroupFingerprint()==null?"#"+item.getId():item.getGroupFingerprint(), k->new ArrayList<>()).add(item);
         Map<String, Boolean> acquired = reserveInOrder(batchId, stored);

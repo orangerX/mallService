@@ -17,6 +17,7 @@ import java.util.Set;
 
 @Service
 public class QuestionGovernanceService {
+    private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger(QuestionGovernanceService.class);
 
     private static final Set<String> REUSABLE_COPYRIGHT_STATUSES = new HashSet<>(
             Arrays.asList("ORIGINAL", "AUTHORIZED", "PUBLIC_OFFICIAL"));
@@ -48,6 +49,7 @@ public class QuestionGovernanceService {
 
     @Transactional(rollbackFor = Exception.class)
     public void reviewQuestion(long questionId, long adminId, QuestionReviewCommand command) {
+        log.info("Exam question review questionId={} adminId={} approved={}", questionId, adminId, command.isApproved());
         QuestionEntity question = requiredQuestion(questionId);
         if (question.getGroupId() != null) {
             reviewGroup(questionId, question.getGroupId(), command.isApproved());
@@ -153,6 +155,7 @@ public class QuestionGovernanceService {
 
     private static boolean reusable(QuestionSourceEntity source) {
         return "APPROVED".equals(source.getReviewStatus())
+                && Integer.valueOf(1).equals(source.getEnabled())
                 && reusableCopyright(source.getCopyrightStatus());
     }
 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.question.mapper.AdminExamMapper">
+    <sql id="sourceFilters"><where>
+        <if test="keyword != null and keyword != ''">AND source_name LIKE CONCAT('%',#{keyword},'%')</if>
+        <if test="sourceType != null and sourceType != ''">AND source_type = #{sourceType}</if>
+        <if test="reviewStatus != null and reviewStatus != ''">AND review_status = #{reviewStatus}</if>
+        <if test="copyrightStatus != null and copyrightStatus != ''">AND copyright_status = #{copyrightStatus}</if>
+        <if test="enabled != null">AND enabled = #{enabled}</if>
+    </where></sql>
+    <select id="sources" resultMap="com.mall.exam.source.mapper.QuestionSourceMapper.questionSourceResultMap">
+        SELECT id,source_name,source_type,original_url,copyright_status,review_status,copyright_note,reviewed_by,review_comment,reviewed_at,created_at,updated_at,enabled
+        FROM exam_question_source <include refid="sourceFilters"/> ORDER BY id DESC LIMIT #{size} OFFSET #{offset}
+    </select>
+    <select id="countSources" resultType="long">SELECT COUNT(*) FROM exam_question_source <include refid="sourceFilters"/></select>
+    <sql id="questionFilters"><where>
+        <if test="questionType != null and questionType != ''">AND q.question_type = #{questionType}</if>
+        <if test="reviewStatus != null and reviewStatus != ''">AND q.review_status = #{reviewStatus}</if>
+        <if test="enabled != null">AND q.enabled = #{enabled}</if>
+        <if test="sourceId != null">AND q.source_id = #{sourceId}</if>
+        <if test="keyword != null and keyword != ''">AND q.stem LIKE CONCAT('%',#{keyword},'%')</if>
+        <if test="knowledgePoint != null and knowledgePoint != ''">AND JSON_CONTAINS(q.knowledge_points, JSON_QUOTE(#{knowledgePoint}))</if>
+    </where></sql>
+    <select id="questions" resultType="com.mall.exam.admin.dto.AdminExamResponses$QuestionSummary">
+        SELECT q.id,q.group_id,q.source_id,q.question_type,q.stem,q.difficulty,q.knowledge_points,q.review_status,q.enabled,
+               s.source_name,g.title AS group_title
+        FROM exam_question q LEFT JOIN exam_question_source s ON s.id=q.source_id LEFT JOIN exam_question_group g ON g.id=q.group_id
+        <include refid="questionFilters"/> ORDER BY q.id DESC LIMIT #{size} OFFSET #{offset}
+    </select>
+    <select id="countQuestions" resultType="long">SELECT COUNT(*) FROM exam_question q <include refid="questionFilters"/></select>
+    <select id="groupQuestions" resultMap="com.mall.exam.question.mapper.QuestionMapper.questionResultMap">
+        SELECT id,group_id,question_type,stem,options,correct_answer,explanation,reference_answer,sample_answer,scoring_rubric,
+               source_id,group_sort_order,difficulty,knowledge_points,content_fingerprint,review_status,enabled,created_at,updated_at
+        FROM exam_question WHERE group_id=#{groupId} ORDER BY group_sort_order,id
+    </select>
+    <sql id="recordFilters"><where>
+        <if test="userId != null">AND p.user_id=#{userId}</if>
+        <if test="paperNo != null and paperNo != ''">AND p.paper_no LIKE CONCAT('%',#{paperNo},'%')</if>
+        <if test="status != null and status != ''">AND p.status=#{status}</if>
+    </where></sql>
+    <select id="records" resultType="com.mall.exam.admin.dto.AdminExamResponses$Record">
+        SELECT p.id,p.user_id,u.username,p.paper_no,p.status,p.started_at,p.due_at,p.submitted_at,p.objective_score,p.self_score_total
+        FROM exam_paper p LEFT JOIN sys_user u ON u.id=p.user_id
+        <include refid="recordFilters"/> ORDER BY p.started_at DESC, p.id DESC LIMIT #{size} OFFSET #{offset}
+    </select>
+    <select id="countRecords" resultType="long">SELECT COUNT(*) FROM exam_paper p <include refid="recordFilters"/></select>
+    <select id="blueprints" resultType="com.mall.exam.admin.dto.AdminExamResponses$Blueprint">
+        SELECT id,blueprint_code,blueprint_name,version,status,duration_minutes,total_score FROM exam_blueprint ORDER BY id
+    </select>
+    <sql id="reusableSource">s.review_status='APPROVED' AND s.enabled=1 AND s.copyright_status IN ('ORIGINAL','AUTHORIZED','PUBLIC_OFFICIAL')</sql>
+    <sql id="eligibleGroups">
+        SELECT g.id,g.group_type,COUNT(q.id) AS item_count
+        FROM exam_question_group g JOIN exam_question_source s ON s.id=g.source_id
+        JOIN exam_question q ON q.group_id=g.id
+        WHERE g.review_status='APPROVED' AND g.enabled=1 AND <include refid="reusableSource"/>
+        GROUP BY g.id,g.group_type,g.source_id
+        HAVING SUM(q.review_status!='APPROVED' OR q.enabled!=1 OR q.source_id!=g.source_id
+            OR (g.group_type='DIALOGUE' AND q.question_type!='DIALOGUE_BLANK')
+            OR (g.group_type='READING' AND q.question_type!='READING'))=0
+    </sql>
+    <select id="dialogueGroupCounts" resultType="com.mall.exam.admin.dto.AdminExamResponses$DialogueGroupCount">
+        SELECT eligible.item_count AS member_count,COUNT(*) AS group_count
+        FROM (<include refid="eligibleGroups"/>) eligible
+        WHERE eligible.group_type='DIALOGUE'
+        GROUP BY eligible.item_count ORDER BY eligible.item_count
+    </select>
+    <select id="capacities" resultType="com.mall.exam.admin.dto.AdminExamResponses$Capacity">
+        SELECT b.question_type,b.section_order,b.group_count,b.answer_item_count,
+          COALESCE(gr.available_groups,0) AS available_groups,
+          CASE WHEN b.group_count&gt;0 THEN COALESCE(gr.available_items,0) ELSE COALESCE(qc.available_items,0) END AS available_items
+        FROM exam_blueprint_section b
+        LEFT JOIN (
+          SELECT eligible.group_type,COUNT(*) AS available_groups,SUM(eligible.item_count) AS available_items
+          FROM (<include refid="eligibleGroups"/>) eligible
+          WHERE (eligible.group_type='READING' AND eligible.item_count=5)
+             OR (eligible.group_type='DIALOGUE' AND eligible.item_count BETWEEN 1 AND 8)
+          GROUP BY eligible.group_type
+        ) gr ON gr.group_type=b.question_type
+        LEFT JOIN (
+          SELECT q.question_type,COUNT(*) AS available_items FROM exam_question q
+          JOIN exam_question_source s ON s.id=q.source_id
+          WHERE q.group_id IS NULL AND q.review_status='APPROVED' AND q.enabled=1 AND <include refid="reusableSource"/>
+          GROUP BY q.question_type
+        ) qc ON qc.question_type=b.question_type
+        WHERE b.blueprint_id=#{blueprintId} ORDER BY b.section_order
+    </select>
+    <update id="sourceStatus">UPDATE exam_question_source SET enabled=#{enabled} WHERE id=#{id} AND #{enabled} IN (0,1)</update>
+    <update id="blueprintStatus">UPDATE exam_blueprint SET status=#{status} WHERE id=#{id} AND #{status} IN ('ENABLED','DISABLED')</update>
+    <select id="countGroupSnapshots" resultType="long">SELECT COUNT(*) FROM exam_paper_group_snapshot WHERE original_group_id=#{groupId}</select>
+    <update id="updateDraftGroup">
+        UPDATE exam_question_group SET group_type=#{groupType},title=#{title},instruction=#{instruction},content=#{content},
+        shared_options=#{sharedOptions},source_id=#{sourceId},difficulty=#{difficulty},knowledge_points=#{knowledgePoints},
+        content_fingerprint=#{contentFingerprint}
+        WHERE id=#{id} AND review_status IN ('DRAFT','PENDING','REJECTED')
+        AND NOT EXISTS (SELECT 1 FROM exam_paper_group_snapshot WHERE original_group_id=#{id})
+    </update>
+    <update id="updateDraftQuestion">
+        UPDATE exam_question SET question_type=#{questionType},stem=#{stem},options=#{options},correct_answer=#{correctAnswer},
+        explanation=#{explanation},reference_answer=#{referenceAnswer},sample_answer=#{sampleAnswer},scoring_rubric=#{scoringRubric},
+        source_id=#{sourceId},difficulty=#{difficulty},knowledge_points=#{knowledgePoints},content_fingerprint=#{contentFingerprint}
+        WHERE id=#{id} AND review_status IN ('DRAFT','PENDING','REJECTED')
+        AND NOT EXISTS (SELECT 1 FROM exam_paper_item_snapshot WHERE original_question_id=#{id})
+    </update>
+</mapper>

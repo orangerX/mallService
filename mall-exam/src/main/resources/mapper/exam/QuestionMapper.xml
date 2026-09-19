@@ -119,6 +119,7 @@
             g.updated_at = CURRENT_TIMESTAMP(3)
         WHERE g.id = #{groupId}
           AND group_source.review_status = 'APPROVED'
+          AND group_source.enabled = 1
           AND group_source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
           AND EXISTS (SELECT 1 FROM exam_question member WHERE member.group_id = g.id)
           AND NOT EXISTS (
@@ -128,6 +129,7 @@
               WHERE member.group_id = g.id
                 AND (member.source_id &lt;&gt; g.source_id
                      OR member_source.review_status &lt;&gt; 'APPROVED'
+                     OR member_source.enabled &lt;&gt; 1
                      OR member_source.copyright_status NOT IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL'))
           )
     </update>
@@ -141,6 +143,7 @@
         WHERE member.group_id = #{groupId}
           AND member.source_id = g.source_id
           AND source.review_status = 'APPROVED'
+          AND source.enabled = 1
           AND source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
     </update>
 
@@ -152,6 +155,7 @@
         WHERE question.id = #{id}
           AND question.group_id IS NULL
           AND source.review_status = 'APPROVED'
+          AND source.enabled = 1
           AND source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
     </update>
 

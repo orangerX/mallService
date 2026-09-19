@@ -43,6 +43,16 @@ class QuestionGovernanceServiceTest {
     }
 
     @Test
+    void disabledSourceCannotPublishQuestionsEvenWithCopyrightApproval() {
+        QuestionSourceEntity disabled=source(9L,"ORIGINAL","APPROVED"); disabled.setEnabled(0);
+        when(sourceMapper.findById(9L)).thenReturn(disabled);
+        when(questionMapper.findById(21L)).thenReturn(question(21L,null,9L));
+        org.mockito.Mockito.lenient().when(questionMapper.approveQuestionIfSourceReusable(21L)).thenReturn(1);
+        assertThrows(BusinessException.class,()->service.reviewQuestion(21L,3L,approveCommand()));
+        verify(questionMapper,never()).approveQuestionIfSourceReusable(anyLong());
+    }
+
+    @Test
     void cannotApproveQuestionWhoseSourceIsUnverified() {
         when(sourceMapper.findById(9L)).thenReturn(source(9L, "UNVERIFIED", "PENDING"));
         when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));

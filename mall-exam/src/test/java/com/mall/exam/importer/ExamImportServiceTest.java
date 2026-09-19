@@ -86,6 +86,24 @@ class ExamImportServiceTest {
     }
 
     @Test
+    void adminPreviewPersistsAuthenticatedImporterAndRejectsUnknownSource() {
+        when(sourceMapper.findById(9L)).thenReturn(source("ORIGINAL","APPROVED"));
+        service.preview(9L,"bank.json",jsonQuestion().getBytes(StandardCharsets.UTF_8),42L);
+        assertEquals(42L,persistedBatch.getImportedBy());
+        assertEquals(9L,persistedBatch.getSourceId());
+        assertThrows(BusinessException.class,()->service.preview(999L,"bank.json",new byte[]{1},42L));
+    }
+
+    @Test
+    void disabledSourceCannotCommitPreviewedQuestions() {
+        ImportPreviewResponse preview=service.preview(9L,"bank.json",jsonQuestion().getBytes(StandardCharsets.UTF_8));
+        QuestionSourceEntity disabled=source("ORIGINAL","APPROVED"); disabled.setEnabled(0);
+        when(sourceMapper.findByIdForUpdate(9L)).thenReturn(disabled);
+        assertThrows(BusinessException.class,()->service.commit(preview.getBatchId(),42L));
+        verify(questionMapper,never()).insert(any());
+    }
+
+    @Test
     void previewsJsonAndCsvWithQuotedEmbeddedNewlines() {
         ImportPreviewResponse json = service.preview(9L, "questions.json", jsonQuestion().getBytes(StandardCharsets.UTF_8));
         ImportPreviewResponse csv = service.preview(9L, "questions.csv", csvQuestion().getBytes(StandardCharsets.UTF_8));

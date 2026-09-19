@@ -44,7 +44,10 @@ public class GlobalExceptionHandler {
     }
 
     @ExceptionHandler({BindException.class, MissingServletRequestParameterException.class,
-            ConstraintViolationException.class})
+            ConstraintViolationException.class,
+            org.springframework.web.method.annotation.MethodArgumentTypeMismatchException.class,
+            org.springframework.web.multipart.support.MissingServletRequestPartException.class,
+            org.springframework.web.multipart.MultipartException.class})
     public ResponseEntity<ApiResponse<Void>> handleRequestParameterException(Exception exception) {
         return ResponseEntity.badRequest().body(ApiResponse.error(ErrorCode.VALIDATION_ERROR));
     }

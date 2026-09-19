@@ -38,6 +38,16 @@ public class ExamImportParser {
         this(new ObjectMapper());
     }
 
+    /** Reuse import structural validation for manual single-question / whole-group editing. */
+    public List<ImportPreviewResponse.Item> validateContent(JsonNode content) {
+        ParsedPreview parsed = parse("manual.json", content.toString().getBytes(StandardCharsets.UTF_8));
+        if (!parsed.errors.isEmpty() || parsed.items.isEmpty()) {
+            throw new com.mall.common.exception.BusinessException(org.springframework.http.HttpStatus.BAD_REQUEST,
+                    com.mall.common.api.ErrorCode.EXAM_IMPORT_INVALID, "题目结构无效");
+        }
+        return parsed.items;
+    }
+
     ExamImportParser(ObjectMapper objectMapper) {
         this.objectMapper = objectMapper;
     }
