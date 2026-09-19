@@ -13,12 +13,15 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.Collections;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.ArgumentMatchers.anyLong;
 import static org.mockito.ArgumentMatchers.anyString;
@@ -150,6 +153,9 @@ class QuestionGovernanceServiceTest {
 
     @Test
     void changingGroupStatusUpdatesGroupAndEveryMember() {
+        when(questionMapper.updateGroupStatus(7L, 0)).thenReturn(1);
+        when(questionMapper.updateStatusByGroupId(7L, 0)).thenReturn(1);
+
         service.changeGroupStatus(7L, 0);
 
         verify(questionMapper).updateGroupStatus(7L, 0);
@@ -168,6 +174,8 @@ class QuestionGovernanceServiceTest {
     @Test
     void changingGroupedQuestionStatusUpdatesItsWholeGroup() {
         when(questionMapper.findById(21L)).thenReturn(question(21L, 7L, 9L));
+        when(questionMapper.updateGroupStatus(7L, 0)).thenReturn(1);
+        when(questionMapper.updateStatusByGroupId(7L, 0)).thenReturn(1);
 
         service.changeQuestionStatus(21L, 0);
 
@@ -179,6 +187,7 @@ class QuestionGovernanceServiceTest {
     @Test
     void changingSingleQuestionStatusUpdatesOnlyThatQuestion() {
         when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));
+        when(questionMapper.updateStatus(21L, 0)).thenReturn(1);
 
         service.changeQuestionStatus(21L, 0);
 
@@ -196,6 +205,37 @@ class QuestionGovernanceServiceTest {
     }
 
     @Test
+    void rejectsStandaloneStatusChangeWhenStandaloneGuardAffectsNoRows() {
+        when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));
+        when(questionMapper.updateStatus(21L, 0)).thenReturn(0);
+
+        BusinessException error = assertThrows(BusinessException.class, () -> service.changeQuestionStatus(21L, 0));
+
+        assertEquals(ErrorCode.DATA_CONFLICT, error.getErrorCode());
+    }
+
+    @Test
+    void rejectsGroupStatusChangeWhenGroupOrMemberUpdateAffectsNoRows() {
+        when(questionMapper.updateGroupStatus(7L, 0)).thenReturn(0);
+
+        BusinessException error = assertThrows(BusinessException.class, () -> service.changeGroupStatus(7L, 0));
+
+        assertEquals(ErrorCode.DATA_CONFLICT, error.getErrorCode());
+        verify(questionMapper, never()).updateStatusByGroupId(anyLong(), any());
+    }
+
+    @Test
+    void rejectsStandaloneRejectionWhenStandaloneGuardAffectsNoRows() {
+        when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));
+        when(questionMapper.rejectQuestion(21L)).thenReturn(0);
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewQuestion(21L, 3L, new QuestionReviewCommand(false, "驳回")));
+
+        assertEquals(ErrorCode.DATA_CONFLICT, error.getErrorCode());
+    }
+
+    @Test
     void mapperDoesNotExposeRawApprovalMutations() {
         assertFalse(Arrays.stream(QuestionMapper.class.getMethods())
                 .anyMatch(method -> method.getName().equals("updateReview") || method.getName().equals("updateGroupReview")
@@ -205,8 +245,19 @@ class QuestionGovernanceServiceTest {
     }
 
     @Test
+    void singleQuestionMapperMutationsRequireStandaloneRows() throws Exception {
+        String xml = questionMapperXml();
+
+        assertMutationHasStandaloneGuard(xml, "approveQuestionIfSourceReusable", "question.group_id IS NULL");
+        assertMutationHasStandaloneGuard(xml, "rejectQuestion", "group_id IS NULL");
+        assertMutationHasStandaloneGuard(xml, "updateStatus", "group_id IS NULL");
+        assertMutationHasStandaloneGuard(xml, "deleteUnreferencedById", "group_id IS NULL");
+    }
+
+    @Test
     void disablingReferencedQuestionIsAllowedButDeletingItIsRejected() {
         when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));
+        when(questionMapper.updateStatus(21L, 0)).thenReturn(1);
         when(questionMapper.countPaperItemSnapshots(21L)).thenReturn(1L);
 
         service.changeQuestionStatus(21L, 0);
@@ -242,5 +293,23 @@ class QuestionGovernanceServiceTest {
         source.setCopyrightStatus(copyrightStatus);
         source.setReviewStatus(reviewStatus);
         return source;
+    }
+
+    private static String questionMapperXml() throws Exception {
+        try (InputStream input = QuestionGovernanceServiceTest.class
+                .getResourceAsStream("/mapper/exam/QuestionMapper.xml")) {
+            if (input == null) throw new IllegalStateException("QuestionMapper.xml not found on classpath");
+            return new String(input.readAllBytes(), StandardCharsets.UTF_8);
+        }
+    }
+
+    private static void assertMutationHasStandaloneGuard(String xml, String statementId, String guard) {
+        String openingTag = "<(?:update|delete) id=\"" + statementId + "\">";
+        java.util.regex.Matcher matcher = java.util.regex.Pattern.compile(openingTag).matcher(xml);
+        assertTrue(matcher.find(), statementId + " statement must exist");
+        int start = matcher.start();
+        int end = xml.indexOf("</", start);
+        assertTrue(end > start && xml.substring(start, end).contains(guard),
+                statementId + " must be limited to standalone questions");
     }
 }

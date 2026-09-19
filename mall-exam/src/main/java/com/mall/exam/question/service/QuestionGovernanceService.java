@@ -60,14 +60,14 @@ public class QuestionGovernanceService {
             }
             return;
         }
-        questionMapper.rejectQuestion(questionId);
+        requireAffected(questionMapper.rejectQuestion(questionId));
     }
 
     @Transactional(rollbackFor = Exception.class)
     public void changeGroupStatus(long groupId, int status) {
         requireEnabledStatus(status);
-        questionMapper.updateGroupStatus(groupId, status);
-        questionMapper.updateStatusByGroupId(groupId, status);
+        requireAffected(questionMapper.updateGroupStatus(groupId, status));
+        requireAnyAffected(questionMapper.updateStatusByGroupId(groupId, status));
     }
 
     @Transactional(rollbackFor = Exception.class)
@@ -78,7 +78,7 @@ public class QuestionGovernanceService {
             changeGroupStatus(question.getGroupId(), status);
             return;
         }
-        questionMapper.updateStatus(questionId, status);
+        requireAffected(questionMapper.updateStatus(questionId, status));
     }
 
     @Transactional(rollbackFor = Exception.class)
@@ -128,8 +128,10 @@ public class QuestionGovernanceService {
             throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
         }
         if (!approved) {
-            questionMapper.rejectGroup(groupId);
-            questionMapper.rejectQuestionsByGroupId(groupId);
+            requireAffected(questionMapper.rejectGroup(groupId));
+            if (questionMapper.rejectQuestionsByGroupId(groupId) != members.size()) {
+                throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.DATA_CONFLICT);
+            }
             return;
         }
 
@@ -161,6 +163,18 @@ public class QuestionGovernanceService {
     private static void requireEnabledStatus(int status) {
         if (status != 0 && status != 1) {
             throw new BusinessException(HttpStatus.BAD_REQUEST, ErrorCode.VALIDATION_ERROR);
+        }
+    }
+
+    private static void requireAffected(int affectedRows) {
+        if (affectedRows != 1) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.DATA_CONFLICT);
+        }
+    }
+
+    private static void requireAnyAffected(int affectedRows) {
+        if (affectedRows <= 0) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.DATA_CONFLICT);
         }
     }
 

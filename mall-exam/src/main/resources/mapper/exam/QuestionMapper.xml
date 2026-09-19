@@ -142,6 +142,7 @@
         SET question.review_status = 'APPROVED',
             question.updated_at = CURRENT_TIMESTAMP(3)
         WHERE question.id = #{id}
+          AND question.group_id IS NULL
           AND source.review_status = 'APPROVED'
           AND source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
     </update>
@@ -162,6 +163,7 @@
         UPDATE exam_question
         SET review_status = 'REJECTED', updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{id}
+          AND group_id IS NULL
     </update>
 
     <update id="updateGroupStatus">
@@ -182,6 +184,7 @@
         UPDATE exam_question
         SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{id}
+          AND group_id IS NULL
           AND #{enabled} IN (0, 1)
     </update>
 
@@ -194,6 +197,7 @@
     <delete id="deleteUnreferencedById">
         DELETE FROM exam_question
         WHERE id = #{id}
+          AND group_id IS NULL
           AND NOT EXISTS (
               SELECT 1
               FROM exam_paper_item_snapshot
