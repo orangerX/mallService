@@ -12,7 +12,11 @@ public interface ImportBatchMapper {
     int insertItem(ImportBatchItemEntity item);
     ImportBatchEntity findBatchByIdForUpdate(@Param("batchId") long batchId);
     List<ImportBatchItemEntity> findItemsByBatchIdForUpdate(@Param("batchId") long batchId);
-    int reserveFingerprint(@Param("fingerprint") String fingerprint, @Param("kind") String kind, @Param("batchId") long batchId);
+    int reserveFingerprint(@Param("fingerprint") String fingerprint, @Param("kind") String kind, @Param("batchId") Long batchId);
+    String lockFingerprint(@Param("fingerprint") String fingerprint);
+    List<Long> fingerprintQuestionIds(@Param("fingerprint") String fingerprint);
+    List<Long> fingerprintGroupIds(@Param("fingerprint") String fingerprint);
+    int releaseUnusedFingerprint(@Param("fingerprint") String fingerprint);
     int releaseFingerprint(@Param("fingerprint") String fingerprint, @Param("batchId") long batchId);
     int markItemImported(@Param("itemId") long itemId);
     int markItemDuplicate(@Param("itemId") long itemId);

@@ -17,6 +17,19 @@ import static org.junit.jupiter.api.Assertions.*;
 /** Static SQL contracts complement service tests without requiring a shared MySQL database. */
 class ExamImportMapperContractTest {
     @Test
+    void unusedReservationCleanupProtectsActualRowsAndActiveBatchOwners() throws Exception {
+        String cleanup=normalized(statement("releaseUnusedFingerprint"));
+        assertTrue(cleanup.contains("WHERE fingerprint=?"));
+        assertTrue(cleanup.contains("NOT EXISTS (SELECT 1 FROM exam_question WHERE content_fingerprint=?)"));
+        assertTrue(cleanup.contains("NOT EXISTS (SELECT 1 FROM exam_question_group WHERE content_fingerprint=?)"));
+        assertTrue(cleanup.contains("batch_id IS NULL OR NOT EXISTS"));
+        assertTrue(cleanup.contains("b.id=exam_import_fingerprint_reservation.batch_id"));
+        assertTrue(cleanup.contains("b.status IN ('UPLOADED','VALIDATED')"));
+        for(String read:Arrays.asList("lockFingerprint","fingerprintQuestionIds","fingerprintGroupIds"))
+            assertTrue(normalized(statement(read)).endsWith("FOR UPDATE"));
+    }
+
+    @Test
     void reservationReleaseIsGuardedByBothFingerprintAndBatchOwnership() throws Exception {
         BoundSql release = statement("releaseFingerprint");
         assertEquals("DELETE FROM exam_import_fingerprint_reservation WHERE fingerprint=? AND batch_id=?", normalized(release));
@@ -27,8 +40,8 @@ class ExamImportMapperContractTest {
     @Test
     void terminalTransitionAtomicallyWritesAdminAndAllCountsWithValidatedGuard() throws Exception {
         BoundSql update = statement("markImported");
-        assertEquals("UPDATE exam_import_batch SET status='IMPORTED', imported_by=?, success_rows=?, failed_rows=?, duplicate_rows=?, duplicate_warnings=? WHERE id=? AND status='VALIDATED'", normalized(update));
-        assertEquals(Arrays.asList("adminId", "successRows", "failedRows", "duplicateRows", "duplicateWarnings", "batchId"),
+        assertEquals("UPDATE exam_import_batch SET status='IMPORTED', imported_by=COALESCE(imported_by,?), success_rows=?, failed_rows=?, duplicate_rows=?, duplicate_warnings=? WHERE id=? AND status='VALIDATED' AND (imported_by IS NULL OR imported_by=?)", normalized(update));
+        assertEquals(Arrays.asList("adminId", "successRows", "failedRows", "duplicateRows", "duplicateWarnings", "batchId", "adminId"),
                 update.getParameterMappings().stream().map(ParameterMapping::getProperty).collect(Collectors.toList()));
         assertTrue(normalized(statement("findBatchByIdForUpdate")).endsWith("FOR UPDATE"));
         assertTrue(normalized(statement("findItemsByBatchIdForUpdate")).endsWith("FOR UPDATE"));

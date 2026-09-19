@@ -15,7 +15,12 @@ class AdminExamManagementServiceTest {
     QuestionSourceMapper sources=mock(QuestionSourceMapper.class);
     QuestionMapper questions=mock(QuestionMapper.class);
     AdminExamMapper admin=mock(AdminExamMapper.class);
-    AdminExamManagementService service=new AdminExamManagementService(sources,questions,admin,new QuestionGovernanceService(sources,questions));
+    com.mall.exam.importer.mapper.ImportBatchMapper reservations=mock(com.mall.exam.importer.mapper.ImportBatchMapper.class);
+    AdminExamManagementService service=new AdminExamManagementService(sources,questions,admin,new QuestionGovernanceService(sources,questions),reservations);
+    @org.junit.jupiter.api.BeforeEach void reservations() {
+        when(reservations.reserveFingerprint(org.mockito.ArgumentMatchers.anyString(),org.mockito.ArgumentMatchers.anyString(),org.mockito.ArgumentMatchers.isNull())).thenReturn(1);
+        when(admin.questionForUpdate(org.mockito.ArgumentMatchers.anyLong())).thenAnswer(call->questions.findById(call.getArgument(0)));
+    }
 
     @Test void cannotRewriteAnApprovedSource() {
         QuestionSourceEntity source=new QuestionSourceEntity(); source.setId(9L); source.setReviewStatus("APPROVED");

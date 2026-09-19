@@ -5,6 +5,8 @@ import com.mall.common.api.ErrorCode;
 import com.mall.common.exception.BusinessException;
 import com.mall.exam.admin.dto.AdminExamRequests.*;
 import com.mall.exam.importer.ExamImportParser;
+import com.mall.exam.importer.FingerprintCoordinator;
+import com.mall.exam.importer.mapper.ImportBatchMapper;
 import com.mall.exam.importer.dto.ImportPreviewResponse.Item;
 import com.mall.exam.importer.dto.ImportPreviewResponse.Group;
 import com.mall.exam.question.mapper.*;
@@ -28,10 +30,12 @@ public class AdminExamManagementService {
     private final QuestionMapper questions;
     private final AdminExamMapper mapper;
     private final QuestionGovernanceService governance;
+    private final FingerprintCoordinator fingerprints;
     private final ObjectMapper json=new ObjectMapper().setSerializationInclusion(com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL);
     private final ExamImportParser parser=new ExamImportParser();
-    public AdminExamManagementService(QuestionSourceMapper sources,QuestionMapper questions,AdminExamMapper mapper,QuestionGovernanceService governance) {
+    public AdminExamManagementService(QuestionSourceMapper sources,QuestionMapper questions,AdminExamMapper mapper,QuestionGovernanceService governance,ImportBatchMapper reservations) {
         this.sources=sources; this.questions=questions; this.mapper=mapper; this.governance=governance;
+        this.fingerprints=new FingerprintCoordinator(reservations);
     }
     public long createSource(Source request,long adminId) {
         actor(adminId); QuestionSourceEntity source=source(request); source.setReviewStatus("DRAFT");
@@ -57,6 +61,8 @@ public class AdminExamManagementService {
     public long createQuestion(Question request,long adminId) {
         actor(adminId); requiredSource(request.sourceId);
         List<Item> items=items(request); Long groupId=null;
+        if(request.content.questionId!=null || memberInputs(request).stream().anyMatch(member->member.questionId!=null)) throw invalid();
+        fingerprints.requireAll(fingerprints(items),Collections.emptySet());
         if(items.get(0).getGroup()!=null) {
             QuestionGroupEntity group=group(items.get(0),request.sourceId);
             changed(questions.insertGroup(group)); groupId=group.getId();
@@ -72,29 +78,64 @@ public class AdminExamManagementService {
         actor(adminId); requiredSource(request.sourceId);
         QuestionEntity original=questions.findById(request.questionId);
         if(original==null) throw missing();
-        editable(original.getReviewStatus());
         List<Item> items=items(request);
         if(original.getGroupId()==null) {
+            original=mapper.questionForUpdate(request.questionId);
+            if(original==null) throw missing();
+            editable(original.getReviewStatus());
+            if(questions.countPaperItemSnapshots(original.getId())>0) throw conflict();
             if(items.size()!=1 || items.get(0).getGroup()!=null) throw conflict();
+            if(request.content.questionId!=null && !request.questionId.equals(request.content.questionId)) throw invalid();
+            Set<String> previous=new HashSet<>();addFingerprint(previous,original.getContentFingerprint());
+            Map<String,String> desired=fingerprints(items);
+            fingerprints.requireAll(desired,previous);
             QuestionEntity replacement=question(items.get(0),request.sourceId,null,null);
             replacement.setId(original.getId()); changed(mapper.updateDraftQuestion(replacement));
+            fingerprints.releaseObsolete(previous,desired.keySet());
         } else {
             QuestionGroupEntity existing=questions.findGroupByIdForUpdate(original.getGroupId());
             if(existing==null) throw missing();
             editable(existing.getReviewStatus());
             List<QuestionEntity> members=questions.findByGroupIdForUpdate(existing.getId());
-            members.sort(Comparator.comparing(QuestionEntity::getGroupSortOrder,Comparator.nullsLast(Integer::compareTo)).thenComparing(QuestionEntity::getId));
-            if(items.size()!=members.size() || items.get(0).getGroup()==null || mapper.countGroupSnapshots(existing.getId())>0) throw conflict();
+            if(items.get(0).getGroup()==null || request.content.questionId!=null || mapper.countGroupSnapshots(existing.getId())>0) throw conflict();
+            Map<Long,QuestionEntity> byId=new HashMap<>();Set<String> previous=new HashSet<>();
+            addFingerprint(previous,existing.getContentFingerprint());
+            for(QuestionEntity member:members) {
+                editable(member.getReviewStatus());
+                if(questions.countPaperItemSnapshots(member.getId())>0) throw conflict();
+                byId.put(member.getId(),member);addFingerprint(previous,member.getContentFingerprint());
+            }
+            if(!byId.containsKey(request.questionId)) throw conflict();
+            List<Content> submitted=memberInputs(request);Set<Long> retained=new HashSet<>();
+            for(Content member:submitted) if(member.questionId!=null
+                    && (!byId.containsKey(member.questionId) || !retained.add(member.questionId))) throw invalid();
+            Map<String,String> desired=fingerprints(items);
+            fingerprints.requireAll(desired,previous);
             QuestionGroupEntity replacement=group(items.get(0),request.sourceId); replacement.setId(existing.getId());
             changed(mapper.updateDraftGroup(replacement));
-            for(int i=0;i<members.size();i++) {
-                editable(members.get(i).getReviewStatus());
-                QuestionEntity q=question(items.get(i),request.sourceId,existing.getId(),members.get(i).getGroupSortOrder());
-                q.setId(members.get(i).getId()); changed(mapper.updateDraftQuestion(q));
+            for(QuestionEntity member:members) if(!retained.contains(member.getId()))
+                changed(mapper.deleteDraftMember(member.getId(),existing.getId()));
+            for(int i=0;i<items.size();i++) {
+                QuestionEntity q=question(items.get(i),request.sourceId,existing.getId(),i+1);
+                q.setId(submitted.get(i).questionId);
+                if(q.getId()==null) changed(questions.insert(q)); else changed(mapper.updateDraftQuestion(q));
             }
+            fingerprints.releaseObsolete(previous,desired.keySet());
         }
         audit("question.update",request.questionId,adminId);
     }
+    private static List<Content> memberInputs(Question request) {
+        return request.content.questions==null?Collections.singletonList(request.content):request.content.questions;
+    }
+    private static Map<String,String> fingerprints(List<Item> items) {
+        Map<String,String> result=new TreeMap<>();
+        for(Item item:items) {
+            result.put(item.getFingerprint(),"QUESTION");
+            if(item.getGroup()!=null) result.put(item.getGroup().getFingerprint(),"GROUP");
+        }
+        return result;
+    }
+    private static void addFingerprint(Set<String> keys,String key) { if(key!=null) keys.add(key); }
     private List<Item> items(Question request) {
         if(request.content==null) throw invalid();
         List<Item> items=parser.validateContent(json.valueToTree(request.content));

@@ -86,6 +86,22 @@ class ExamImportServiceTest {
     }
 
     @Test
+    void anotherAdminCannotCommitAnOwnedPreviewOrTouchAnyWriteBoundary() {
+        when(sourceMapper.findById(9L)).thenReturn(source("ORIGINAL","APPROVED"));
+        service.preview(9L,"bank.json",jsonQuestion().getBytes(StandardCharsets.UTF_8),41L);
+        clearInvocations(batchMapper,questionMapper,sourceMapper);
+        BusinessException error=assertThrows(BusinessException.class,()->service.commit(101L,42L));
+        assertEquals(ErrorCode.FORBIDDEN,error.getErrorCode());
+        verify(batchMapper).findBatchByIdForUpdate(101L);
+        verifyNoMoreInteractions(batchMapper);
+        verifyNoInteractions(questionMapper,sourceMapper);
+        assertEquals(41L,persistedBatch.getImportedBy());
+        service.commit(101L,41L);
+        assertEquals("IMPORTED",persistedBatch.getStatus());
+        assertEquals(41L,persistedBatch.getImportedBy());
+    }
+
+    @Test
     void adminPreviewPersistsAuthenticatedImporterAndRejectsUnknownSource() {
         when(sourceMapper.findById(9L)).thenReturn(source("ORIGINAL","APPROVED"));
         service.preview(9L,"bank.json",jsonQuestion().getBytes(StandardCharsets.UTF_8),42L);

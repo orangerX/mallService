@@ -56,6 +56,7 @@ public class ExamImportService {
     @Transactional(rollbackFor = Exception.class)
     public void commit(long batchId, long adminId) {
         ImportBatchEntity batch=batchMapper.findBatchByIdForUpdate(batchId); if (batch==null || !"VALIDATED".equals(batch.getStatus())) throw invalid();
+        if (batch.getImportedBy()!=null && batch.getImportedBy()!=adminId) throw new BusinessException(HttpStatus.FORBIDDEN,ErrorCode.FORBIDDEN);
         QuestionSourceEntity source=sourceMapper.findByIdForUpdate(batch.getSourceId()); if (source==null || !Integer.valueOf(1).equals(source.getEnabled()) || !"APPROVED".equals(source.getReviewStatus()) || !REUSABLE.contains(source.getCopyrightStatus())) throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
         List<ImportBatchItemEntity> stored=batchMapper.findItemsByBatchIdForUpdate(batchId); List<String> warnings=list(batch.getDuplicateWarnings()); int imported=0; Map<String,List<ImportBatchItemEntity>> units=new LinkedHashMap<>();
         for (ImportBatchItemEntity item:stored) if ("PENDING".equals(item.getStatus())) units.computeIfAbsent(item.getGroupFingerprint()==null?"#"+item.getId():item.getGroupFingerprint(), k->new ArrayList<>()).add(item);
@@ -71,22 +72,20 @@ public class ExamImportService {
             kinds.put(item.getQuestionFingerprint(), "QUESTION");
             if (item.getGroupFingerprint() != null) kinds.put(item.getGroupFingerprint(), "GROUP");
         }
-        Map<String, Boolean> result = new HashMap<>();
-        for (Map.Entry<String, String> entry : kinds.entrySet()) result.put(entry.getKey(), batchMapper.reserveFingerprint(entry.getKey(), entry.getValue(), batchId) == 1);
-        return result;
+        return new FingerprintCoordinator(batchMapper).acquire(kinds,Collections.emptySet(),batchId);
     }
     private int persistUnit(long batchId,long sourceId,List<ImportBatchItemEntity> stored,List<String> warnings,Map<String, Boolean> acquired) {
         List<ImportPreviewResponse.Item> members=new ArrayList<>(); for(ImportBatchItemEntity item:stored) members.add(read(item.getPayload())); ImportPreviewResponse.Group group=members.get(0).getGroup();
         if (group==null) return persistStandalone(sourceId,stored.get(0),members.get(0),warnings,acquired);
         if (!Boolean.TRUE.equals(acquired.get(group.getFingerprint()))) { releaseOwnedQuestions(batchId, stored, acquired); return duplicate(stored,warnings,"concurrent duplicate group"); }
         List<Integer> accepted=new ArrayList<>(); for(int i=0;i<members.size();i++) if(Boolean.TRUE.equals(acquired.get(members.get(i).getFingerprint()))) accepted.add(i); else markDuplicate(stored.get(i),warnings,"concurrent duplicate question");
-        if(accepted.isEmpty()){ require(batchMapper.releaseFingerprint(group.getFingerprint(),batchId)); return 0; }
+        if(accepted.isEmpty()){ new FingerprintCoordinator(batchMapper).releaseOwned(group.getFingerprint(),batchId); return 0; }
         QuestionGroupEntity entity=group(group,sourceId,members.get(accepted.get(0))); require(questionMapper.insertGroup(entity)); int count=0, order=0;
         for(Integer index:accepted){ ImportPreviewResponse.Item item=members.get(index); QuestionEntity question=question(item,sourceId,entity.getId(),item.getGroupSortOrder()==null?++order:item.getGroupSortOrder()); require(questionMapper.insert(question)); require(batchMapper.markItemImported(stored.get(index).getId())); count++; }
         return count;
     }
     private int persistStandalone(long sourceId,ImportBatchItemEntity stored,ImportPreviewResponse.Item item,List<String>warnings,Map<String, Boolean> acquired){ if(!Boolean.TRUE.equals(acquired.get(item.getFingerprint()))) return duplicate(Collections.singletonList(stored),warnings,"concurrent duplicate question"); require(questionMapper.insert(question(item,sourceId,null,null))); require(batchMapper.markItemImported(stored.getId())); return 1; }
-    private void releaseOwnedQuestions(long batchId, List<ImportBatchItemEntity> items, Map<String, Boolean> acquired) { for (ImportBatchItemEntity item : items) if (Boolean.TRUE.equals(acquired.get(item.getQuestionFingerprint()))) require(batchMapper.releaseFingerprint(item.getQuestionFingerprint(), batchId)); }
+    private void releaseOwnedQuestions(long batchId, List<ImportBatchItemEntity> items, Map<String, Boolean> acquired) { for (ImportBatchItemEntity item : items) if (Boolean.TRUE.equals(acquired.get(item.getQuestionFingerprint()))) new FingerprintCoordinator(batchMapper).releaseOwned(item.getQuestionFingerprint(),batchId); }
     private int duplicate(List<ImportBatchItemEntity> items,List<String>warnings,String reason){for(ImportBatchItemEntity item:items) markDuplicate(item,warnings,reason); return 0;}
     private void markDuplicate(ImportBatchItemEntity item,List<String>warnings,String reason){require(batchMapper.markItemDuplicate(item.getId())); warnings.add("row "+item.getRowNumber()+": "+reason);}
     private QuestionGroupEntity group(ImportPreviewResponse.Group g,long sourceId,ImportPreviewResponse.Item item){QuestionGroupEntity e=new QuestionGroupEntity();e.setGroupType(g.getGroupType());e.setTitle(g.getTitle());e.setInstruction(g.getInstruction());e.setContent(g.getContent());e.setSharedOptions(g.getSharedOptions());e.setSourceId(sourceId);e.setDifficulty(item.getDifficulty());e.setKnowledgePoints(item.getKnowledgePoints());e.setContentFingerprint(g.getFingerprint());e.setReviewStatus("DRAFT");e.setEnabled(1);return e;}

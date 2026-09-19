@@ -97,8 +97,19 @@
     <update id="updateDraftQuestion">
         UPDATE exam_question SET question_type=#{questionType},stem=#{stem},options=#{options},correct_answer=#{correctAnswer},
         explanation=#{explanation},reference_answer=#{referenceAnswer},sample_answer=#{sampleAnswer},scoring_rubric=#{scoringRubric},
-        source_id=#{sourceId},difficulty=#{difficulty},knowledge_points=#{knowledgePoints},content_fingerprint=#{contentFingerprint}
+        source_id=#{sourceId},difficulty=#{difficulty},knowledge_points=#{knowledgePoints},content_fingerprint=#{contentFingerprint},group_sort_order=#{groupSortOrder}
         WHERE id=#{id} AND review_status IN ('DRAFT','PENDING','REJECTED')
+        AND group_id &lt;=&gt; #{groupId}
         AND NOT EXISTS (SELECT 1 FROM exam_paper_item_snapshot WHERE original_question_id=#{id})
     </update>
+    <select id="questionForUpdate" resultMap="com.mall.exam.question.mapper.QuestionMapper.questionResultMap">
+        SELECT id,group_id,question_type,stem,options,correct_answer,explanation,reference_answer,sample_answer,scoring_rubric,
+               source_id,group_sort_order,difficulty,knowledge_points,content_fingerprint,review_status,enabled,created_at,updated_at
+        FROM exam_question WHERE id=#{id} FOR UPDATE
+    </select>
+    <delete id="deleteDraftMember">
+        DELETE FROM exam_question WHERE id=#{id} AND group_id=#{groupId}
+        AND review_status IN ('DRAFT','PENDING','REJECTED')
+        AND NOT EXISTS (SELECT 1 FROM exam_paper_item_snapshot WHERE original_question_id=#{id})
+    </delete>
 </mapper>

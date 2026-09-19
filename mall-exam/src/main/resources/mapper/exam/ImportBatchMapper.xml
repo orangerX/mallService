@@ -8,8 +8,20 @@
   <select id="findBatchByIdForUpdate" resultMap="batch">SELECT id,file_name,file_format,source_id,imported_by,status,total_rows,success_rows,failed_rows,duplicate_rows,structure_errors,duplicate_warnings FROM exam_import_batch WHERE id=#{batchId} FOR UPDATE</select>
   <select id="findItemsByBatchIdForUpdate" resultMap="item">SELECT id,batch_id,row_number,payload,question_fingerprint,group_fingerprint,status FROM exam_import_item WHERE batch_id=#{batchId} ORDER BY row_number,id FOR UPDATE</select>
   <insert id="reserveFingerprint">INSERT IGNORE INTO exam_import_fingerprint_reservation(fingerprint,fingerprint_kind,batch_id) VALUES(#{fingerprint},#{kind},#{batchId})</insert>
+  <select id="lockFingerprint" resultType="string">SELECT fingerprint FROM exam_import_fingerprint_reservation WHERE fingerprint=#{fingerprint} FOR UPDATE</select>
+  <select id="fingerprintQuestionIds" resultType="long">SELECT id FROM exam_question WHERE content_fingerprint=#{fingerprint} ORDER BY id FOR UPDATE</select>
+  <select id="fingerprintGroupIds" resultType="long">SELECT id FROM exam_question_group WHERE content_fingerprint=#{fingerprint} ORDER BY id FOR UPDATE</select>
+  <delete id="releaseUnusedFingerprint">
+    DELETE FROM exam_import_fingerprint_reservation
+    WHERE fingerprint=#{fingerprint}
+      AND NOT EXISTS (SELECT 1 FROM exam_question WHERE content_fingerprint=#{fingerprint})
+      AND NOT EXISTS (SELECT 1 FROM exam_question_group WHERE content_fingerprint=#{fingerprint})
+      AND (batch_id IS NULL OR NOT EXISTS (
+        SELECT 1 FROM exam_import_batch b WHERE b.id=exam_import_fingerprint_reservation.batch_id
+          AND b.status IN ('UPLOADED','VALIDATED')))
+  </delete>
   <delete id="releaseFingerprint">DELETE FROM exam_import_fingerprint_reservation WHERE fingerprint=#{fingerprint} AND batch_id=#{batchId}</delete>
   <update id="markItemImported">UPDATE exam_import_item SET status='IMPORTED' WHERE id=#{itemId} AND status='PENDING'</update>
   <update id="markItemDuplicate">UPDATE exam_import_item SET status='DUPLICATE' WHERE id=#{itemId} AND status='PENDING'</update>
-  <update id="markImported">UPDATE exam_import_batch SET status='IMPORTED', imported_by=#{adminId}, success_rows=#{successRows}, failed_rows=#{failedRows}, duplicate_rows=#{duplicateRows}, duplicate_warnings=#{duplicateWarnings} WHERE id=#{batchId} AND status='VALIDATED'</update>
+  <update id="markImported">UPDATE exam_import_batch SET status='IMPORTED', imported_by=COALESCE(imported_by,#{adminId}), success_rows=#{successRows}, failed_rows=#{failedRows}, duplicate_rows=#{duplicateRows}, duplicate_warnings=#{duplicateWarnings} WHERE id=#{batchId} AND status='VALIDATED' AND (imported_by IS NULL OR imported_by=#{adminId})</update>
 </mapper>

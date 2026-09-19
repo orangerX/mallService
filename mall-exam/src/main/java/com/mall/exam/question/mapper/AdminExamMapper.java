@@ -23,6 +23,8 @@ public interface AdminExamMapper {
     int sourceStatus(@Param("id") long id, @Param("enabled") int enabled);
     int blueprintStatus(@Param("id") long id, @Param("status") String status);
     int updateDraftQuestion(QuestionEntity question);
+    QuestionEntity questionForUpdate(@Param("id") long id);
+    int deleteDraftMember(@Param("id") long id,@Param("groupId") long groupId);
     int updateDraftGroup(QuestionGroupEntity group);
     long countGroupSnapshots(@Param("groupId") long groupId);
 }

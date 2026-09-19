@@ -40,6 +40,7 @@ public final class AdminExamRequests {
     public static class QuestionUpdate extends Question { @NotNull @Min(1) public Long questionId; }
     /** Same single-question / whole-group content shape as JSON import. */
     public static class Content {
+        @Min(1) public Long questionId;
         @Pattern(regexp="DIALOGUE_BLANK|READING|VOCABULARY|GRAMMAR|TRANSLATION|WRITING") public String questionType;
         @Size(max=10000) public String stem;
         public JsonNode options, correctAnswer, scoringRubric, knowledgePoints;

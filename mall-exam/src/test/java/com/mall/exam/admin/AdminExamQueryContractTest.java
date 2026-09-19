@@ -42,6 +42,12 @@ class AdminExamQueryContractTest {
         assertTrue(question.contains("original_question_id=?"));
         assertTrue(group.contains("original_group_id=?"));
         assertFalse(question.contains("SET id="));assertFalse(group.contains("SET id="));
+        assertTrue(question.contains("group_id <=> ?"));
+        assertTrue(question.contains("group_sort_order=?"));
+        String deletion=sql("deleteDraftMember",Collections.emptyMap());
+        assertTrue(deletion.contains("WHERE id=? AND group_id=?"));
+        assertTrue(deletion.contains("review_status IN ('DRAFT','PENDING','REJECTED')"));
+        assertTrue(deletion.contains("NOT EXISTS (SELECT 1 FROM exam_paper_item_snapshot WHERE original_question_id=?)"));
     }
     @Test void sourceSchemaKeepsEnablementSeparateFromReviewState() throws Exception {
         java.nio.file.Path module=java.nio.file.Path.of(System.getProperty("basedir",".")).toAbsolutePath();
