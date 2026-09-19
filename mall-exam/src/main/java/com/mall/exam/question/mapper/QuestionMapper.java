@@ -14,23 +14,25 @@ public interface QuestionMapper {
 
     QuestionGroupEntity findGroupById(@Param("id") Long id);
 
+    QuestionGroupEntity findGroupByIdForUpdate(@Param("id") Long id);
+
+    java.util.List<QuestionEntity> findByGroupIdForUpdate(@Param("groupId") Long groupId);
+
     int insertGroup(QuestionGroupEntity group);
 
     int insert(QuestionEntity question);
 
-    int updateGroupReview(@Param("groupId") Long groupId, @Param("reviewStatus") String reviewStatus);
+    int approveGroupIfReusable(@Param("groupId") Long groupId);
 
-    int updateReviewByGroupId(@Param("groupId") Long groupId,
-                              @Param("reviewStatus") String reviewStatus,
-                              @Param("reviewedBy") Long reviewedBy,
-                              @Param("reviewedAt") LocalDateTime reviewedAt,
-                              @Param("reviewComment") String reviewComment);
+    int approveQuestionsByGroupIfReusable(@Param("groupId") Long groupId);
 
-    int updateReview(@Param("id") Long id,
-                     @Param("reviewStatus") String reviewStatus,
-                     @Param("reviewedBy") Long reviewedBy,
-                     @Param("reviewedAt") LocalDateTime reviewedAt,
-                     @Param("reviewComment") String reviewComment);
+    int approveQuestionIfSourceReusable(@Param("id") Long id);
+
+    int rejectGroup(@Param("groupId") Long groupId);
+
+    int rejectQuestionsByGroupId(@Param("groupId") Long groupId);
+
+    int rejectQuestion(@Param("id") Long id);
 
     int updateGroupStatus(@Param("groupId") Long groupId, @Param("enabled") Integer enabled);
 

@@ -34,37 +34,45 @@ public class QuestionGovernanceService {
         QuestionSourceEntity source = requiredSource(sourceId);
         String copyrightStatus = hasText(command.getCopyrightStatus())
                 ? command.getCopyrightStatus() : source.getCopyrightStatus();
-        String reviewStatus = command.isApproved() ? "APPROVED" : "REJECTED";
-        sourceMapper.updateReview(sourceId, copyrightStatus, reviewStatus, adminId,
-                LocalDateTime.now(), command.getReviewNote());
+        LocalDateTime reviewedAt = LocalDateTime.now();
+        if (command.isApproved()) {
+            if (!reusableCopyright(copyrightStatus)
+                    || sourceMapper.approveSourceWithReusableCopyright(sourceId, copyrightStatus, adminId,
+                    reviewedAt, command.getReviewNote()) != 1) {
+                throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+            }
+            return;
+        }
+        sourceMapper.rejectSource(sourceId, copyrightStatus, adminId, reviewedAt, command.getReviewNote());
     }
 
     @Transactional(rollbackFor = Exception.class)
     public void reviewQuestion(long questionId, long adminId, QuestionReviewCommand command) {
         QuestionEntity question = requiredQuestion(questionId);
-        String reviewStatus = command.isApproved() ? "APPROVED" : "REJECTED";
-        if (command.isApproved() && !reusable(requiredSource(question.getSourceId()))) {
-            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
-        }
-
-        LocalDateTime reviewedAt = LocalDateTime.now();
         if (question.getGroupId() != null) {
-            questionMapper.updateGroupReview(question.getGroupId(), reviewStatus);
-            questionMapper.updateReviewByGroupId(question.getGroupId(), reviewStatus, adminId,
-                    reviewedAt, command.getReviewNote());
+            reviewGroup(questionId, question.getGroupId(), command.isApproved());
             return;
         }
-        questionMapper.updateReview(questionId, reviewStatus, adminId, reviewedAt, command.getReviewNote());
+        if (command.isApproved()) {
+            if (!reusable(requiredSource(question.getSourceId()))
+                    || questionMapper.approveQuestionIfSourceReusable(questionId) != 1) {
+                throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+            }
+            return;
+        }
+        questionMapper.rejectQuestion(questionId);
     }
 
     @Transactional(rollbackFor = Exception.class)
     public void changeGroupStatus(long groupId, int status) {
+        requireEnabledStatus(status);
         questionMapper.updateGroupStatus(groupId, status);
         questionMapper.updateStatusByGroupId(groupId, status);
     }
 
     @Transactional(rollbackFor = Exception.class)
     public void changeQuestionStatus(long questionId, int status) {
+        requireEnabledStatus(status);
         QuestionEntity question = requiredQuestion(questionId);
         if (question.getGroupId() != null) {
             changeGroupStatus(question.getGroupId(), status);
@@ -102,9 +110,58 @@ public class QuestionGovernanceService {
         return source;
     }
 
+    private QuestionSourceEntity requiredSourceForUpdate(Long sourceId) {
+        QuestionSourceEntity source = sourceId == null ? null : sourceMapper.findByIdForUpdate(sourceId);
+        if (source == null) {
+            throw new BusinessException(HttpStatus.NOT_FOUND, ErrorCode.EXAM_NOT_FOUND);
+        }
+        return source;
+    }
+
+    private void reviewGroup(long questionId, Long groupId, boolean approved) {
+        com.mall.exam.question.model.QuestionGroupEntity group = questionMapper.findGroupByIdForUpdate(groupId);
+        if (group == null) {
+            throw new BusinessException(HttpStatus.NOT_FOUND, ErrorCode.EXAM_NOT_FOUND);
+        }
+        java.util.List<QuestionEntity> members = questionMapper.findByGroupIdForUpdate(groupId);
+        if (members.isEmpty() || members.stream().noneMatch(member -> member.getId().equals(questionId))) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+        }
+        if (!approved) {
+            questionMapper.rejectGroup(groupId);
+            questionMapper.rejectQuestionsByGroupId(groupId);
+            return;
+        }
+
+        QuestionSourceEntity groupSource = requiredSourceForUpdate(group.getSourceId());
+        if (!reusable(groupSource)) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+        }
+        for (QuestionEntity member : members) {
+            if (!group.getSourceId().equals(member.getSourceId())
+                    || !reusable(requiredSourceForUpdate(member.getSourceId()))) {
+                throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+            }
+        }
+        if (questionMapper.approveGroupIfReusable(groupId) != 1
+                || questionMapper.approveQuestionsByGroupIfReusable(groupId) != members.size()) {
+            throw new BusinessException(HttpStatus.CONFLICT, ErrorCode.EXAM_SOURCE_UNAPPROVED);
+        }
+    }
+
     private static boolean reusable(QuestionSourceEntity source) {
         return "APPROVED".equals(source.getReviewStatus())
-                && REUSABLE_COPYRIGHT_STATUSES.contains(source.getCopyrightStatus());
+                && reusableCopyright(source.getCopyrightStatus());
+    }
+
+    private static boolean reusableCopyright(String copyrightStatus) {
+        return REUSABLE_COPYRIGHT_STATUSES.contains(copyrightStatus);
+    }
+
+    private static void requireEnabledStatus(int status) {
+        if (status != 0 && status != 1) {
+            throw new BusinessException(HttpStatus.BAD_REQUEST, ErrorCode.VALIDATION_ERROR);
+        }
     }
 
     private static boolean hasText(String value) {

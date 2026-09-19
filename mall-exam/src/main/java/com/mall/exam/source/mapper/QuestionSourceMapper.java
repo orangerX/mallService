@@ -11,13 +11,20 @@ public interface QuestionSourceMapper {
 
     QuestionSourceEntity findById(@Param("id") Long id);
 
+    QuestionSourceEntity findByIdForUpdate(@Param("id") Long id);
+
     int insert(QuestionSourceEntity source);
 
     int update(QuestionSourceEntity source);
 
-    int updateReview(@Param("id") Long id,
+    int approveSourceWithReusableCopyright(@Param("id") Long id,
+                                           @Param("copyrightStatus") String copyrightStatus,
+                                           @Param("reviewedBy") Long reviewedBy,
+                                           @Param("reviewedAt") LocalDateTime reviewedAt,
+                                           @Param("reviewComment") String reviewComment);
+
+    int rejectSource(@Param("id") Long id,
                      @Param("copyrightStatus") String copyrightStatus,
-                     @Param("reviewStatus") String reviewStatus,
                      @Param("reviewedBy") Long reviewedBy,
                      @Param("reviewedAt") LocalDateTime reviewedAt,
                      @Param("reviewComment") String reviewComment);

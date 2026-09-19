@@ -4,6 +4,7 @@ import com.mall.common.api.ErrorCode;
 import com.mall.common.exception.BusinessException;
 import com.mall.exam.question.mapper.QuestionMapper;
 import com.mall.exam.question.model.QuestionEntity;
+import com.mall.exam.question.model.QuestionGroupEntity;
 import com.mall.exam.source.mapper.QuestionSourceMapper;
 import com.mall.exam.source.model.QuestionSourceEntity;
 import org.junit.jupiter.api.BeforeEach;
@@ -12,7 +13,11 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
+import java.util.Arrays;
+import java.util.Collections;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.ArgumentMatchers.anyLong;
@@ -43,33 +48,104 @@ class QuestionGovernanceServiceTest {
                 () -> service.reviewQuestion(21L, 3L, approveCommand()));
 
         assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
-        verify(questionMapper, never()).updateReview(anyLong(), anyString(), anyLong(), any(), anyString());
+        verify(questionMapper, never()).approveQuestionIfSourceReusable(anyLong());
     }
 
     @Test
     void approvingDialogueQuestionReviewsItsWholeGroupAtomically() {
-        when(sourceMapper.findById(9L)).thenReturn(source(9L, "ORIGINAL", "APPROVED"));
+        when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source(9L, "ORIGINAL", "APPROVED"));
         when(questionMapper.findById(21L)).thenReturn(question(21L, 7L, 9L));
+        when(questionMapper.findGroupByIdForUpdate(7L)).thenReturn(group(7L, 9L));
+        when(questionMapper.findByGroupIdForUpdate(7L)).thenReturn(Collections.singletonList(question(21L, 7L, 9L)));
+        when(questionMapper.approveGroupIfReusable(7L)).thenReturn(1);
+        when(questionMapper.approveQuestionsByGroupIfReusable(7L)).thenReturn(1);
 
         service.reviewQuestion(21L, 3L, approveCommand());
 
-        verify(questionMapper).updateGroupReview(7L, "APPROVED");
-        verify(questionMapper).updateReviewByGroupId(eq(7L), eq("APPROVED"), eq(3L), any(),
-                eq("内容符合发布条件"));
-        verify(questionMapper, never()).updateReview(anyLong(), anyString(), anyLong(), any(), anyString());
+        verify(questionMapper).approveGroupIfReusable(7L);
+        verify(questionMapper).approveQuestionsByGroupIfReusable(7L);
     }
 
     @Test
     void approvingSingleQuestionUpdatesOnlyThatQuestion() {
         when(sourceMapper.findById(9L)).thenReturn(source(9L, "AUTHORIZED", "APPROVED"));
         when(questionMapper.findById(21L)).thenReturn(question(21L, null, 9L));
+        when(questionMapper.approveQuestionIfSourceReusable(21L)).thenReturn(1);
 
         service.reviewQuestion(21L, 3L, approveCommand());
 
-        verify(questionMapper).updateReview(eq(21L), eq("APPROVED"), eq(3L), any(),
-                eq("内容符合发布条件"));
-        verify(questionMapper, never()).updateGroupReview(anyLong(), anyString());
-        verify(questionMapper, never()).updateReviewByGroupId(anyLong(), anyString(), anyLong(), any(), anyString());
+        verify(questionMapper).approveQuestionIfSourceReusable(21L);
+        verify(questionMapper, never()).approveGroupIfReusable(anyLong());
+        verify(questionMapper, never()).approveQuestionsByGroupIfReusable(anyLong());
+    }
+
+    @Test
+    void rollsBackGroupApprovalWhenGuardedMutationDoesNotCoverEveryMember() {
+        when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source(9L, "ORIGINAL", "APPROVED"));
+        when(questionMapper.findById(21L)).thenReturn(question(21L, 7L, 9L));
+        when(questionMapper.findGroupByIdForUpdate(7L)).thenReturn(group(7L, 9L));
+        when(questionMapper.findByGroupIdForUpdate(7L)).thenReturn(Arrays.asList(
+                question(21L, 7L, 9L), question(22L, 7L, 9L)));
+        when(questionMapper.approveGroupIfReusable(7L)).thenReturn(1);
+        when(questionMapper.approveQuestionsByGroupIfReusable(7L)).thenReturn(1);
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewQuestion(21L, 3L, approveCommand()));
+
+        assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
+    }
+
+    @Test
+    void cannotApproveGroupWhenASiblingUsesADifferentSource() {
+        when(sourceMapper.findByIdForUpdate(9L)).thenReturn(source(9L, "ORIGINAL", "APPROVED"));
+        when(questionMapper.findById(21L)).thenReturn(question(21L, 7L, 9L));
+        when(questionMapper.findGroupByIdForUpdate(7L)).thenReturn(group(7L, 9L));
+        when(questionMapper.findByGroupIdForUpdate(7L)).thenReturn(Arrays.asList(
+                question(21L, 7L, 9L), question(22L, 7L, 10L)));
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewQuestion(21L, 3L, approveCommand()));
+
+        assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
+        verify(questionMapper, never()).approveGroupIfReusable(anyLong());
+        verify(questionMapper, never()).approveQuestionsByGroupIfReusable(anyLong());
+    }
+
+    @Test
+    void cannotApproveGroupWhenItsOwnSourceDiffersFromItsMembers() {
+        when(sourceMapper.findByIdForUpdate(10L)).thenReturn(source(10L, "UNVERIFIED", "PENDING"));
+        when(questionMapper.findById(21L)).thenReturn(question(21L, 7L, 9L));
+        when(questionMapper.findGroupByIdForUpdate(7L)).thenReturn(group(7L, 10L));
+        when(questionMapper.findByGroupIdForUpdate(7L)).thenReturn(Collections.singletonList(question(21L, 7L, 9L)));
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewQuestion(21L, 3L, approveCommand()));
+
+        assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
+        verify(questionMapper, never()).approveGroupIfReusable(anyLong());
+    }
+
+    @Test
+    void cannotApproveUnverifiedSourceByReusingItsStoredCopyrightStatus() {
+        when(sourceMapper.findById(9L)).thenReturn(source(9L, "UNVERIFIED", "PENDING"));
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewSource(9L, 3L, new SourceReviewCommand(true, "不能批准")));
+
+        assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
+        verify(sourceMapper, never()).approveSourceWithReusableCopyright(anyLong(), anyString(), anyLong(), any(), anyString());
+    }
+
+    @Test
+    void cannotApproveSourceWithExplicitProhibitedCopyrightStatus() {
+        when(sourceMapper.findById(9L)).thenReturn(source(9L, "ORIGINAL", "PENDING"));
+
+        BusinessException error = assertThrows(BusinessException.class,
+                () -> service.reviewSource(9L, 3L,
+                        new SourceReviewCommand(true, "PROHIBITED", "禁止发布")));
+
+        assertEquals(ErrorCode.EXAM_SOURCE_UNAPPROVED, error.getErrorCode());
+        verify(sourceMapper, never()).approveSourceWithReusableCopyright(anyLong(), anyString(), anyLong(), any(), anyString());
     }
 
     @Test
@@ -78,6 +154,15 @@ class QuestionGovernanceServiceTest {
 
         verify(questionMapper).updateGroupStatus(7L, 0);
         verify(questionMapper).updateStatusByGroupId(7L, 0);
+    }
+
+    @Test
+    void rejectsInvalidGroupStatusBeforeMutatingRows() {
+        BusinessException error = assertThrows(BusinessException.class, () -> service.changeGroupStatus(7L, -1));
+
+        assertEquals(ErrorCode.VALIDATION_ERROR, error.getErrorCode());
+        verify(questionMapper, never()).updateGroupStatus(anyLong(), any());
+        verify(questionMapper, never()).updateStatusByGroupId(anyLong(), any());
     }
 
     @Test
@@ -99,6 +184,24 @@ class QuestionGovernanceServiceTest {
 
         verify(questionMapper).updateStatus(21L, 0);
         verify(questionMapper, never()).updateStatusByGroupId(anyLong(), any());
+    }
+
+    @Test
+    void rejectsInvalidSingleQuestionStatusBeforeLoadingOrMutatingRows() {
+        BusinessException error = assertThrows(BusinessException.class, () -> service.changeQuestionStatus(21L, 2));
+
+        assertEquals(ErrorCode.VALIDATION_ERROR, error.getErrorCode());
+        verify(questionMapper, never()).findById(anyLong());
+        verify(questionMapper, never()).updateStatus(anyLong(), any());
+    }
+
+    @Test
+    void mapperDoesNotExposeRawApprovalMutations() {
+        assertFalse(Arrays.stream(QuestionMapper.class.getMethods())
+                .anyMatch(method -> method.getName().equals("updateReview") || method.getName().equals("updateGroupReview")
+                        || method.getName().equals("updateReviewByGroupId")));
+        assertFalse(Arrays.stream(QuestionSourceMapper.class.getMethods())
+                .anyMatch(method -> method.getName().equals("updateReview")));
     }
 
     @Test
@@ -124,6 +227,13 @@ class QuestionGovernanceServiceTest {
         question.setGroupId(groupId);
         question.setSourceId(sourceId);
         return question;
+    }
+
+    private static QuestionGroupEntity group(Long id, Long sourceId) {
+        QuestionGroupEntity group = new QuestionGroupEntity();
+        group.setId(id);
+        group.setSourceId(sourceId);
+        return group;
     }
 
     private static QuestionSourceEntity source(Long id, String copyrightStatus, String reviewStatus) {

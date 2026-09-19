@@ -60,6 +60,26 @@
         WHERE id = #{id}
     </select>
 
+    <select id="findGroupByIdForUpdate" resultMap="questionGroupResultMap">
+        SELECT id, group_type, title, instruction, content, shared_options, source_id,
+               difficulty, knowledge_points, content_fingerprint, review_status, enabled,
+               created_at, updated_at
+        FROM exam_question_group
+        WHERE id = #{id}
+        FOR UPDATE
+    </select>
+
+    <select id="findByGroupIdForUpdate" resultMap="questionResultMap">
+        SELECT id, group_id, question_type, stem, options, correct_answer, explanation,
+               reference_answer, sample_answer, scoring_rubric, source_id, group_sort_order,
+               difficulty, knowledge_points, content_fingerprint, review_status, enabled,
+               created_at, updated_at
+        FROM exam_question
+        WHERE group_id = #{groupId}
+        ORDER BY id
+        FOR UPDATE
+    </select>
+
     <insert id="insertGroup" parameterType="com.mall.exam.question.model.QuestionGroupEntity"
             useGeneratedKeys="true" keyProperty="id" keyColumn="id">
         INSERT INTO exam_question_group (
@@ -84,21 +104,63 @@
         )
     </insert>
 
-    <update id="updateGroupReview">
+    <update id="approveGroupIfReusable">
+        UPDATE exam_question_group g
+        INNER JOIN exam_question_source group_source ON group_source.id = g.source_id
+        SET g.review_status = 'APPROVED',
+            g.updated_at = CURRENT_TIMESTAMP(3)
+        WHERE g.id = #{groupId}
+          AND group_source.review_status = 'APPROVED'
+          AND group_source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
+          AND EXISTS (SELECT 1 FROM exam_question member WHERE member.group_id = g.id)
+          AND NOT EXISTS (
+              SELECT 1
+              FROM exam_question member
+              LEFT JOIN exam_question_source member_source ON member_source.id = member.source_id
+              WHERE member.group_id = g.id
+                AND (member.source_id &lt;&gt; g.source_id
+                     OR member_source.review_status &lt;&gt; 'APPROVED'
+                     OR member_source.copyright_status NOT IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL'))
+          )
+    </update>
+
+    <update id="approveQuestionsByGroupIfReusable">
+        UPDATE exam_question member
+        INNER JOIN exam_question_group g ON g.id = member.group_id
+        INNER JOIN exam_question_source source ON source.id = member.source_id
+        SET member.review_status = 'APPROVED',
+            member.updated_at = CURRENT_TIMESTAMP(3)
+        WHERE member.group_id = #{groupId}
+          AND member.source_id = g.source_id
+          AND source.review_status = 'APPROVED'
+          AND source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
+    </update>
+
+    <update id="approveQuestionIfSourceReusable">
+        UPDATE exam_question question
+        INNER JOIN exam_question_source source ON source.id = question.source_id
+        SET question.review_status = 'APPROVED',
+            question.updated_at = CURRENT_TIMESTAMP(3)
+        WHERE question.id = #{id}
+          AND source.review_status = 'APPROVED'
+          AND source.copyright_status IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
+    </update>
+
+    <update id="rejectGroup">
         UPDATE exam_question_group
-        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        SET review_status = 'REJECTED', updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{groupId}
     </update>
 
-    <update id="updateReviewByGroupId">
+    <update id="rejectQuestionsByGroupId">
         UPDATE exam_question
-        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        SET review_status = 'REJECTED', updated_at = CURRENT_TIMESTAMP(3)
         WHERE group_id = #{groupId}
     </update>
 
-    <update id="updateReview">
+    <update id="rejectQuestion">
         UPDATE exam_question
-        SET review_status = #{reviewStatus}, updated_at = CURRENT_TIMESTAMP(3)
+        SET review_status = 'REJECTED', updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{id}
     </update>
 
@@ -106,18 +168,21 @@
         UPDATE exam_question_group
         SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{groupId}
+          AND #{enabled} IN (0, 1)
     </update>
 
     <update id="updateStatusByGroupId">
         UPDATE exam_question
         SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
         WHERE group_id = #{groupId}
+          AND #{enabled} IN (0, 1)
     </update>
 
     <update id="updateStatus">
         UPDATE exam_question
         SET enabled = #{enabled}, updated_at = CURRENT_TIMESTAMP(3)
         WHERE id = #{id}
+          AND #{enabled} IN (0, 1)
     </update>
 
     <select id="countPaperItemSnapshots" resultType="long">

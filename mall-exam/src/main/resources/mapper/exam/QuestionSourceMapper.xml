@@ -30,6 +30,13 @@
         WHERE id = #{id}
     </select>
 
+    <select id="findByIdForUpdate" resultMap="questionSourceResultMap">
+        SELECT <include refid="sourceColumns"/>
+        FROM exam_question_source
+        WHERE id = #{id}
+        FOR UPDATE
+    </select>
+
     <insert id="insert" parameterType="com.mall.exam.source.model.QuestionSourceEntity"
             useGeneratedKeys="true" keyProperty="id" keyColumn="id">
         INSERT INTO exam_question_source (
@@ -50,10 +57,22 @@
         WHERE id = #{id}
     </update>
 
-    <update id="updateReview">
+    <update id="approveSourceWithReusableCopyright">
         UPDATE exam_question_source
         SET copyright_status = #{copyrightStatus},
-            review_status = #{reviewStatus},
+            review_status = 'APPROVED',
+            reviewed_by = #{reviewedBy},
+            reviewed_at = #{reviewedAt},
+            review_comment = #{reviewComment},
+            updated_at = CURRENT_TIMESTAMP(3)
+        WHERE id = #{id}
+          AND #{copyrightStatus} IN ('ORIGINAL', 'AUTHORIZED', 'PUBLIC_OFFICIAL')
+    </update>
+
+    <update id="rejectSource">
+        UPDATE exam_question_source
+        SET copyright_status = #{copyrightStatus},
+            review_status = 'REJECTED',
             reviewed_by = #{reviewedBy},
             reviewed_at = #{reviewedAt},
             review_comment = #{reviewComment},
