@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.attempt.mapper.ExamAttemptMapper">
+    <resultMap id="answer" type="com.mall.exam.attempt.model.ExamAnswerEntity">
+        <id column="id" property="id"/>
+        <result column="paper_id" property="paperId"/>
+        <result column="paper_item_id" property="paperItemId"/>
+        <result column="answer_content" property="answerContent"/>
+        <result column="answer_version" property="answerVersion"/>
+        <result column="saved_at" property="savedAt"/>
+        <result column="objectively_correct" property="objectivelyCorrect"/>
+        <result column="earned_score" property="earnedScore"/>
+    </resultMap>
+    <resultMap id="wrongRecord" type="com.mall.exam.attempt.model.ExamWrongRecordEntity">
+        <id column="id" property="id"/>
+        <result column="user_id" property="userId"/>
+        <result column="paper_id" property="paperId"/>
+        <result column="paper_item_id" property="paperItemId"/>
+        <result column="original_question_id" property="originalQuestionId"/>
+        <result column="wrong_answer" property="wrongAnswer"/>
+        <result column="knowledge_points" property="knowledgePoints"/>
+        <result column="created_at" property="createdAt"/>
+    </resultMap>
+    <!-- Every public operation locks an owned paper before reading answers or changing state. -->
+    <select id="findPaperForUpdate" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.paper">
+        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,
+               submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,
+               version,created_at,updated_at
+        FROM exam_paper WHERE id=#{paperId} AND user_id=#{userId} FOR UPDATE
+    </select>
+    <select id="findPaperItem" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.itemSnapshot">
+        SELECT id,paper_id,paper_group_snapshot_id,original_question_id,section_order,item_order,
+               question_type,stem,options,correct_answer,explanation,reference_answer,sample_answer,
+               scoring_rubric,knowledge_points,score,created_at
+        FROM exam_paper_item_snapshot WHERE id=#{paperItemId} AND paper_id=#{paperId}
+    </select>
+    <select id="findAnswerForUpdate" resultMap="answer">
+        SELECT id,paper_id,paper_item_id,answer_content,answer_version,saved_at,objectively_correct,earned_score
+        FROM exam_answer WHERE paper_id=#{paperId} AND paper_item_id=#{paperItemId} FOR UPDATE
+    </select>
+    <select id="findAnswers" resultMap="answer">
+        SELECT id,paper_id,paper_item_id,answer_content,answer_version,saved_at,objectively_correct,earned_score
+        FROM exam_answer WHERE paper_id=#{paperId} ORDER BY paper_item_id
+    </select>
+    <select id="findWrongRecords" resultMap="wrongRecord">
+        SELECT id,user_id,paper_id,paper_item_id,original_question_id,wrong_answer,knowledge_points,created_at
+        FROM exam_wrong_record WHERE user_id=#{userId} AND paper_id=#{paperId} ORDER BY paper_item_id
+    </select>
+    <insert id="insertAnswer" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_answer (paper_id,paper_item_id,answer_content,answer_version,saved_at,objectively_correct,earned_score)
+        VALUES (#{paperId},#{paperItemId},#{answerContent},#{answerVersion},#{savedAt},#{objectivelyCorrect},#{earnedScore})
+    </insert>
+    <update id="updateAnswer">
+        UPDATE exam_answer SET answer_content=#{answer.answerContent},answer_version=#{answer.answerVersion},
+               saved_at=#{answer.savedAt},updated_at=#{answer.savedAt}
+        WHERE paper_id=#{answer.paperId} AND paper_item_id=#{answer.paperItemId} AND answer_version=#{expectedVersion}
+    </update>
+    <update id="updateAnswerGrade">
+        UPDATE exam_answer SET objectively_correct=#{objectivelyCorrect},earned_score=#{earnedScore}
+        WHERE paper_id=#{paperId} AND paper_item_id=#{paperItemId}
+    </update>
+    <insert id="insertWrongRecord" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+        INSERT INTO exam_wrong_record (user_id,paper_id,paper_item_id,original_question_id,wrong_answer,knowledge_points,created_at)
+        VALUES (#{userId},#{paperId},#{paperItemId},#{originalQuestionId},#{wrongAnswer},#{knowledgePoints},#{createdAt})
+    </insert>
+    <update id="completePaper">
+        UPDATE exam_paper SET status=#{status},submitted_at=#{submittedAt},objective_score=#{objectiveScore},
+               version=version+1,updated_at=#{updatedAt}
+        WHERE id=#{id} AND user_id=#{userId} AND status='IN_PROGRESS' AND version=#{version}
+    </update>
+    <update id="updateSelfScore">
+        UPDATE exam_paper SET translation_self_score=#{translationSelfScore},writing_self_score=#{writingSelfScore},
+               self_score_total=#{selfScoreTotal},version=version+1,updated_at=#{updatedAt}
+        WHERE id=#{id} AND user_id=#{userId} AND status IN ('SUBMITTED','AUTO_SUBMITTED') AND version=#{version}
+    </update>
+</mapper>

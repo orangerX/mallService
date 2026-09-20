@@ -2,6 +2,7 @@ package com.mall.exam.paper.service;
 
 import com.mall.common.api.ErrorCode;
 import com.mall.common.exception.BusinessException;
+import com.mall.exam.attempt.service.ExamAttemptService;
 import com.mall.exam.blueprint.*;
 import com.mall.exam.paper.dto.ExamPaperResponse;
 import com.mall.exam.paper.lock.ExamGenerationLock;
@@ -9,6 +10,7 @@ import com.mall.exam.paper.mapper.ExamPaperMapper;
 import com.mall.exam.paper.model.*;
 import com.mall.exam.question.model.*;
 import org.springframework.http.HttpStatus;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.*;
 import org.springframework.transaction.support.TransactionTemplate;
@@ -24,6 +26,7 @@ public class ExamPaperService {
     private final ExamGenerationLock lock;
     private final TransactionTemplate transaction;
     private final Clock clock;
+    private ExamAttemptService attempts;
     public ExamPaperService(ExamPaperMapper mapper,ExamPaperAssembler assembler,ExamGenerationLock lock,PlatformTransactionManager transactions,Clock clock) {
         this.mapper=mapper;this.assembler=assembler;this.lock=lock;this.clock=clock;
         transaction=new TransactionTemplate(transactions);
@@ -31,25 +34,32 @@ public class ExamPaperService {
         transaction.setPropagationBehavior(TransactionDefinition.PROPAGATION_REQUIRES_NEW);
         transaction.setIsolationLevel(TransactionDefinition.ISOLATION_READ_COMMITTED);
     }
+    /** Required Spring collaborator; setter preserves the existing assembly constructor contract. */
+    @Autowired
+    public void setAttemptService(ExamAttemptService attempts) { this.attempts=Objects.requireNonNull(attempts); }
     public ExamPaperResponse current(long userId) {
+        if(attempts!=null)return attempts.current(userId);
         ExamPaperEntity existing=mapper.findInProgress(userId);
-        return existing==null?null:response(existing,userId);
+        return existing==null?null:resume(existing,userId);
     }
     public ExamPaperResponse generateOrResume(long userId) {
         ExamPaperEntity existing=mapper.findInProgress(userId);
-        if(existing!=null)return response(existing,userId);
+        if(existing!=null)return resume(existing,userId);
         String key="mall:exam:generate:user:"+userId;
         String token=lock.acquire(key,Duration.ofSeconds(10));
         if(token==null)throw new BusinessException(HttpStatus.CONFLICT,ErrorCode.DATA_CONFLICT);
         Throwable failure=null;
         try {
-            return transaction.execute(status-> {
+            ExamPaperEntity paper=transaction.execute(status-> {
                 // Serializes generation after lease expiry too; this lock is held through commit.
                 if(mapper.lockUser(userId)==null)throw new BusinessException(HttpStatus.NOT_FOUND,ErrorCode.USER_NOT_FOUND);
                 ExamPaperEntity resumed=mapper.findInProgress(userId);
-                if(resumed!=null)return response(resumed,userId);
+                if(resumed!=null)return resumed;
                 return generate(userId);
             });
+            // Release the user row lock before the attempt transaction inserts wrong records
+            // (their user FK also locks that row). The Redis generation lease still belongs to us.
+            return resume(paper,userId);
         } catch(RuntimeException|Error e) {
             failure=e;throw e;
         } finally {
@@ -60,7 +70,7 @@ public class ExamPaperService {
             }
         }
     }
-    private ExamPaperResponse generate(long userId) {
+    private ExamPaperEntity generate(long userId) {
         ExamBlueprintDefinition blueprint=ExamBlueprintDefinition.degreeEnglish2016V2();
         ExamPaperMapper.BlueprintRow row=mapper.findEnabledBlueprint(blueprint.getCode());
         if(row==null)throw ExamPaperAssembler.insufficient();
@@ -93,7 +103,7 @@ public class ExamPaperService {
                 requireInsert(mapper.insertItemSnapshot(snap),snap.getId());
             }
         }
-        return response(paper,userId);
+        return paper;
     }
     private static void requireInsert(int count,Long id) {
         if(count!=1||id==null)throw new IllegalStateException("Snapshot insert did not return a generated ID");
@@ -102,5 +112,12 @@ public class ExamPaperService {
         if(!Long.valueOf(userId).equals(paper.getUserId())||!"IN_PROGRESS".equals(paper.getStatus()))
             throw new BusinessException(HttpStatus.NOT_FOUND,ErrorCode.EXAM_NOT_FOUND);
         return new ExamPaperResponse(paper,mapper.findGroupSnapshots(paper.getId()),mapper.findItemSnapshots(paper.getId()),LocalDateTime.now(clock));
+    }
+    private ExamPaperResponse resume(ExamPaperEntity paper,long userId) {
+        if(attempts!=null)return attempts.current(userId,paper.getId());
+        // A manually constructed assembly-only service must never resume an expired paper.
+        if(!LocalDateTime.now(clock).isBefore(paper.getDueAt()))
+            throw new IllegalStateException("ExamAttemptService is required to process expired papers");
+        return response(paper,userId);
     }
 }
