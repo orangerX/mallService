@@ -1,0 +1,1172 @@
+{
+  "datasetVersion": "degree-english-v1",
+  "setCode": "set-01",
+  "title": "成人学士学位英语原创模拟试卷 1",
+  "source": "ORIGINAL_SIMULATION_2026",
+  "copyrightStatus": "ORIGINAL",
+  "notice": "本套为原创模拟练习，不是官方或第三方真题。",
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "title": "Reserving a study room",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Librarian: Good morning. How can I help you?\nStudent: I'd like to reserve a group study room.\nLibrarian: (1) _____\nStudent: Friday afternoon, if possible.\nLibrarian: Certainly. (2) _____\nStudent: Two hours, from two to four.\nLibrarian: (3) _____\nStudent: Four, including me.\nLibrarian: That's fine. (4) _____\nStudent: Of course. Here is my student card.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "When would you like to use it?",
+        "B": "How long will you need it?",
+        "C": "How many people will use the room?",
+        "D": "May I see your student card?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Reserving a study room.",
+          "options": {
+            "A": "When would you like to use it?",
+            "B": "How long will you need it?",
+            "C": "How many people will use the room?",
+            "D": "May I see your student card?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "答语给出星期五下午，因此询问使用时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Reserving a study room.",
+          "options": {
+            "A": "When would you like to use it?",
+            "B": "How long will you need it?",
+            "C": "How many people will use the room?",
+            "D": "May I see your student card?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "Two hours 回答时长，应用 how long。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Reserving a study room.",
+          "options": {
+            "A": "When would you like to use it?",
+            "B": "How long will you need it?",
+            "C": "How many people will use the room?",
+            "D": "May I see your student card?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "Four, including me 回答人数。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (4) in Reserving a study room.",
+          "options": {
+            "A": "When would you like to use it?",
+            "B": "How long will you need it?",
+            "C": "How many people will use the room?",
+            "D": "May I see your student card?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后句递交学生证，前句应请求查看证件。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Finding a missing suitcase",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Agent: Airport Baggage Service. What can I do for you?\nPassenger: My suitcase didn't arrive on the belt.\nAgent: I'm sorry. (1) _____\nPassenger: It's black with a red ribbon on the handle.\nAgent: (2) _____\nPassenger: Yes. The number is BA 67281.\nAgent: We'll start a search. (3) _____\nPassenger: At the Central Hotel. My number is on this form.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Would you like to purchase a suitcase?",
+        "B": "Could you describe the suitcase?",
+        "C": "Do you have the baggage-claim tag?",
+        "D": "Where can we reach you during your stay?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Finding a missing suitcase.",
+          "options": {
+            "A": "Would you like to purchase a suitcase?",
+            "B": "Could you describe the suitcase?",
+            "C": "Do you have the baggage-claim tag?",
+            "D": "Where can we reach you during your stay?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "乘客描述颜色和标记，对应询问行李外观。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Finding a missing suitcase.",
+          "options": {
+            "A": "Would you like to purchase a suitcase?",
+            "B": "Could you describe the suitcase?",
+            "C": "Do you have the baggage-claim tag?",
+            "D": "Where can we reach you during your stay?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答提供行李牌号码，说明询问是否持有行李牌。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Finding a missing suitcase.",
+          "options": {
+            "A": "Would you like to purchase a suitcase?",
+            "B": "Could you describe the suitcase?",
+            "C": "Do you have the baggage-claim tag?",
+            "D": "Where can we reach you during your stay?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "酒店和电话号码提供联络方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Changing a medical appointment",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Patient: I'm calling about tomorrow's appointment. (1) _____ My train has been canceled.\nReceptionist: We have an opening on Thursday afternoon.\nPatient: (2) _____\nReceptionist: At 3:15.\nPatient: That works for me.\nReceptionist: I've moved your appointment to Thursday at 3:15.\nPatient: (3) _____\nReceptionist: You're welcome.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Thank you for your help.",
+        "B": "How long does the examination take?",
+        "C": "I'm afraid I need to change it.",
+        "D": "What time is the available appointment?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Changing a medical appointment.",
+          "options": {
+            "A": "Thank you for your help.",
+            "B": "How long does the examination take?",
+            "C": "I'm afraid I need to change it.",
+            "D": "What time is the available appointment?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "火车取消导致无法赴约，需要更改预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Changing a medical appointment.",
+          "options": {
+            "A": "Thank you for your help.",
+            "B": "How long does the examination take?",
+            "C": "I'm afraid I need to change it.",
+            "D": "What time is the available appointment?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "At 3:15 回答具体时刻。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Changing a medical appointment.",
+          "options": {
+            "A": "Thank you for your help.",
+            "B": "How long does the examination take?",
+            "C": "I'm afraid I need to change it.",
+            "D": "What time is the available appointment?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "You're welcome 回应感谢。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "title": "Street gardens and storm water",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On a busy street in Brookdale, a row of shallow gardens now separates the sidewalk from traffic. They look decorative, but they were built to solve a practical problem. During heavy rain, water once rushed across the road and entered nearby shops. The gardens collect part of that water before it reaches the drains. Soil and plant roots slow the flow, while openings in the curb guide water into each garden.\n\nThe city began with six gardens as a one-year experiment. Engineers measured water levels after storms, and local college students recorded the insects and birds they saw. The results were modest but useful. Streets beside the gardens flooded less often, and the planted areas attracted more pollinators than ordinary grass strips did. Shop owners also reported that the street had become a more pleasant place to walk.\n\nThe project was not trouble-free. In the first summer, several gardens filled with litter, and two types of plants failed in the heat. The city replaced those plants with species better suited to dry weather and added signs explaining that the gardens were part of the drainage system. A business group organized monthly cleanups. Maintenance costs then fell because city workers no longer had to remove rubbish as often.\n\nBrookdale plans to build more rain gardens, but officials do not consider them a complete answer to flooding. Large storms can still overwhelm underground pipes. The gardens are one part of a wider plan that includes repairing old drains, creating more open ground, and warning residents about severe weather. The experiment shows that small changes at street level can support larger systems, especially when residents understand their purpose and help care for them.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why were the Brookdale gardens built?",
+          "options": {
+            "A": "To slow and collect storm water.",
+            "B": "To create an outdoor market.",
+            "C": "To supply vegetables to shops.",
+            "D": "To replace all underground pipes."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首段说明花园收集雨水并减缓水流，目的是改善积水。",
+          "knowledgePoints": [
+            "阅读：目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the students record?",
+          "options": {
+            "A": "The working hours of engineers.",
+            "B": "Insects and birds near the gardens.",
+            "C": "The prices of nearby houses.",
+            "D": "The number of buses passing."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二段明确写学生记录昆虫和鸟类。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why were some plants replaced?",
+          "options": {
+            "A": "They produced unwanted fruit.",
+            "B": "They needed no maintenance.",
+            "C": "They could not survive the heat.",
+            "D": "They covered shop windows."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第三段说植物在炎热天气中未能成活。",
+          "knowledgePoints": [
+            "阅读：因果"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What was one effect of the business group's cleanups?",
+          "options": {
+            "A": "Longer shop opening hours.",
+            "B": "More expensive drainage pipes.",
+            "C": "Fewer weather warnings.",
+            "D": "Lower maintenance costs."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "商户定期清理后，市政工人清理频率下降，维护成本降低。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which view best matches the final paragraph?",
+          "options": {
+            "A": "Gardens support a wider flood-control effort.",
+            "B": "Gardens eliminate every flooding risk.",
+            "C": "Public participation is unnecessary.",
+            "D": "Old drains should all be abandoned."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "末段强调花园只是综合防洪计划的一部分。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Protecting time for difficult work",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Many office workers begin the day by opening email and chat applications. These tools make it easy to ask a quick question, but constant messages can divide attention. At a small engineering company, employees complained that they had little uninterrupted time for difficult tasks. The company responded by testing two daily quiet hours, from 9:30 to 11:30, when internal messages were discouraged unless a matter was urgent.\n\nManagers did not simply switch off the software. Before the trial, each team agreed on what counted as urgent and chose a phone number for emergencies. Employees could still contact customers, and colleagues working in different time zones could arrange exceptions. This preparation mattered. In an earlier attempt, a manager had announced a no-message morning without discussing exceptions. Some employees worried that they would be blamed for replying late, so they kept checking their inboxes.\n\nAfter six weeks, the company compared the trial period with the previous six weeks. The number of internal messages changed very little because most conversations happened later in the day. However, employees reported fewer unwanted interruptions in the morning, and teams completed design reviews slightly faster. Customer response times did not worsen. Several employees still disliked the policy, especially those whose jobs depended on frequent coordination. The company therefore allowed these teams to choose shorter quiet periods.\n\nThe trial did not prove that one schedule would suit every workplace. Its more useful lesson was that a communication rule should match the work being done. Tasks requiring concentration benefit from protected time, while tasks requiring rapid cooperation need easier contact. A rule also works better when employees help define it and know how genuine emergencies will be handled.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What prompted the quiet-hour trial?",
+          "options": {
+            "A": "A request to stop serving customers.",
+            "B": "A lack of uninterrupted working time.",
+            "C": "A shortage of company telephones.",
+            "D": "An increase in software prices."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段指出员工缺乏处理困难任务的连续时间。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did employees keep checking inboxes during the earlier attempt?",
+          "options": {
+            "A": "They were seeking new jobs.",
+            "B": "They had no telephone service.",
+            "C": "They feared criticism for late replies.",
+            "D": "They had finished every task."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "员工担心迟回复受到责备，说明例外规则不清楚。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What happened to the total internal message count?",
+          "options": {
+            "A": "It dropped to zero.",
+            "B": "It doubled every week.",
+            "C": "It was never compared.",
+            "D": "It stayed almost unchanged."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第三段说消息总量变化很小，多数交流移到了稍晚时段。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why could certain teams shorten their quiet periods?",
+          "options": {
+            "A": "They needed frequent coordination.",
+            "B": "They used older computers.",
+            "C": "They had stopped contacting customers.",
+            "D": "They worked only at night."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "频繁协调是这些岗位的实际需要。",
+          "knowledgePoints": [
+            "阅读：因果"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What does the author recommend?",
+          "options": {
+            "A": "Letting managers ignore emergencies.",
+            "B": "Matching communication rules to the work.",
+            "C": "Banning messages in every workplace.",
+            "D": "Replacing all email with meetings."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段明确要求沟通规则适应工作性质。",
+          "knowledgePoints": [
+            "阅读：观点"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Learning at a repair cafe",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On the first Saturday of every month, volunteers in Westford turn a school hall into a repair cafe. Residents bring broken lamps, clothes, bicycles, and small appliances. Instead of leaving an item at a counter, each visitor sits beside a volunteer and takes part in the repair. The service is free, although visitors may pay for replacement parts or make a small donation. There is no promise that every object will work again.\n\nThe cafe began when its founder, Elena Ruiz, noticed how many usable objects were being thrown away. She first saw the project as a way to reduce waste. Soon she discovered another benefit. People who felt nervous about tools became more confident after watching a volunteer test a wire or adjust a bicycle brake. Some returned later as volunteers themselves. Retired technicians also found a place to share skills that were no longer part of their daily work.\n\nNot every object can be saved. Modern products may be sealed with glue, and spare parts can cost more than a replacement. For safety reasons, volunteers refuse to repair certain gas-powered devices. When a repair is impossible, they explain why and suggest responsible recycling. Ruiz says an honest failure is valuable if the visitor learns how a product was made and what to consider when buying another one.\n\nLast year, volunteers examined 640 objects and returned 410 to working use. These figures do not show the full environmental effect: a repaired toaster and a repaired coat save different amounts of material. Nor do the numbers measure conversations and skills shared in the hall. The cafe therefore reports both repair totals and visitors' stories. Together, they explain the project's practical results and its less visible contribution to community learning.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What are repair-cafe visitors expected to do?",
+          "options": {
+            "A": "Pay a fixed repair fee.",
+            "B": "Bring only brand-new products.",
+            "C": "Participate beside a volunteer.",
+            "D": "Leave immediately after delivery."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "首段说明访客坐在志愿者旁边参与维修。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What additional benefit did Ruiz discover?",
+          "options": {
+            "A": "Local shops stopped selling appliances.",
+            "B": "Every visitor became a technician.",
+            "C": "The school no longer needed its hall.",
+            "D": "People gained confidence with tools."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段说明参与者使用工具的信心增强。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why are certain gas-powered devices refused?",
+          "options": {
+            "A": "They present safety concerns.",
+            "B": "They are too easy to repair.",
+            "C": "They are always under warranty.",
+            "D": "They contain no useful materials."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段直接指出拒修的原因是安全。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "When can an unsuccessful repair still be valuable?",
+          "options": {
+            "A": "When the cafe counts it as a success.",
+            "B": "When the owner learns about product design.",
+            "C": "When its failure is hidden from visitors.",
+            "D": "When the owner buys the same item blindly."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "即使无法修好，理解结构和未来购买要点仍有价值。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why are stories included in the cafe's report?",
+          "options": {
+            "A": "They prove all objects save equal materials.",
+            "B": "They advertise a compulsory membership.",
+            "C": "They reveal benefits that totals cannot capture.",
+            "D": "They replace all numerical records."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "故事呈现交流和技能分享，弥补数量指标的局限。",
+          "knowledgePoints": [
+            "阅读：写作目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "What makes notes useful",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Students often ask whether taking notes by hand is better than typing them. Handwriting is usually slower, so a student cannot record every spoken word. This limitation can encourage the writer to select main ideas and express them more briefly. Typing allows a fuller record, but it also makes copying without thought easier. Neither observation means that one tool is always superior to the other.\n\nIn a study workshop, tutor Mei gives two groups the same short lecture. One group uses paper and the other uses laptops. She asks both groups to identify the speaker's claim, supporting examples, and unanswered questions. The resulting notes vary greatly within each group. Some handwritten pages are disorganized lists, while some typed pages show clear relationships. Mei uses these examples to explain that the tool alone does not determine how deeply someone processes information.\n\nThe next stage happens after the lecture. Students review their notes within a day, while the discussion is still reasonably fresh. They fill gaps, check unfamiliar words, and turn headings into questions. Rather than repeatedly reading the page, they close it and write a short summary from memory. This effort shows them which ideas they can explain and which ones they need to study again. It may feel harder than looking at highlighted sentences, but it produces more useful feedback.\n\nMei does not require everyone to adopt the same system. A student with a hand injury may need a keyboard, and a technical lecture may demand diagrams. She asks students to choose a method that suits the situation and supports active thinking. Good notes are not simply a beautiful record of what a teacher said. They are working materials that help a learner organize, question, and later recover important ideas.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "How can slower handwriting help a learner?",
+          "options": {
+            "A": "It records every word automatically.",
+            "B": "It removes the need for review.",
+            "C": "It guarantees perfect understanding.",
+            "D": "It encourages selection of key ideas."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "首段指出速度限制会促使学习者筛选和概括。",
+          "knowledgePoints": [
+            "阅读：因果"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What do the workshop's varied notes demonstrate?",
+          "options": {
+            "A": "The tool alone does not determine processing.",
+            "B": "All typed notes are poor.",
+            "C": "Handwritten lists are always organized.",
+            "D": "Students cannot learn the same lecture."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "两组内部差异说明工具本身不能决定加工深度。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why does Mei suggest reviewing within a day?",
+          "options": {
+            "A": "Students must return their notebooks.",
+            "B": "The lecture is still relatively fresh in memory.",
+            "C": "All mistakes disappear after one day.",
+            "D": "Later review is forbidden."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段说趁讨论记忆尚新时填补遗漏。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What does 'This effort' refer to?",
+          "options": {
+            "A": "Copying highlighted sentences.",
+            "B": "Drawing headings in different colors.",
+            "C": "Writing a summary from memory.",
+            "D": "Buying a faster laptop."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "指代前一句合上笔记凭记忆写摘要的活动。",
+          "knowledgePoints": [
+            "阅读：指代"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which title best captures the passage's message?",
+          "options": {
+            "A": "Why Every Student Must Use Paper",
+            "B": "The End of Classroom Lectures",
+            "C": "Faster Typing Guarantees Higher Marks",
+            "D": "Active Thinking Makes Notes Useful"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文聚焦主动组织与回忆，未主张统一工具。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please submit the expense forms _____ Friday at the latest.",
+      "options": {
+        "A": "by",
+        "B": "at",
+        "C": "from",
+        "D": "during"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "by 表示截止时间，at the latest 强化最迟之意。",
+      "knowledgePoints": [
+        "介词：截止时间"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Residents gradually _____ the new recycling scheme after its benefits became clear.",
+      "options": {
+        "A": "borrowed",
+        "B": "adopted",
+        "C": "attended",
+        "D": "achieved"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "adopt a scheme 表示采纳并实行方案。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The wet steps were slippery, so visitors proceeded with _____.",
+      "options": {
+        "A": "hunger",
+        "B": "wealth",
+        "C": "caution",
+        "D": "pride"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "with caution 表示谨慎地，与台阶湿滑对应。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Reliable data helped the team produce an _____ picture of customer needs.",
+      "options": {
+        "A": "ordinary",
+        "B": "private",
+        "C": "narrow",
+        "D": "accurate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accurate 表示准确的，与可靠数据呼应。",
+      "knowledgePoints": [
+        "形容词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The factory struggled to _____ enough parts to meet the sudden demand.",
+      "options": {
+        "A": "produce",
+        "B": "prevent",
+        "C": "receive",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "需求增长要求生产足够零部件，produce 最合适。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "A responsible manager should _____ responsibility for a mistaken decision.",
+      "options": {
+        "A": "draw",
+        "B": "take",
+        "C": "make",
+        "D": "bring"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "take responsibility for 是承担责任的固定搭配。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Accommodation is included in the fee, but meals are charged _____.",
+      "options": {
+        "A": "equally",
+        "B": "politely",
+        "C": "separately",
+        "D": "seriously"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "separately 指住宿费之外另行收费。",
+      "knowledgePoints": [
+        "副词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "There is not _____ evidence to support such a strong conclusion.",
+      "options": {
+        "A": "familiar",
+        "B": "convenient",
+        "C": "ordinary",
+        "D": "sufficient"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "sufficient evidence 意为足够支撑结论的证据。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Keep your receipt if you might need to _____ this shirt for a larger size.",
+      "options": {
+        "A": "exchange",
+        "B": "reserve",
+        "C": "deliver",
+        "D": "collect"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "exchange ... for ... 表示用某物换另一物。",
+      "knowledgePoints": [
+        "购物词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Heavy snow may _____ tonight's flight schedule.",
+      "options": {
+        "A": "prefer",
+        "B": "affect",
+        "C": "solve",
+        "D": "depend"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "affect 意为影响，符合大雪影响航班的语境。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "stem": "If I had known about the road closure, I _____ home earlier.",
+      "options": {
+        "A": "leave",
+        "B": "had been leaving",
+        "C": "would have left",
+        "D": "would leave"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去虚拟条件句主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The museum, _____ reopened last month, is beside the river.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "where",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "非限制性定语从句缺少主语，用 which 指代 museum。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Neither the assistants nor the manager _____ available when I called yesterday.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近主语 manager 为单数，yesterday 要求过去时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The final report must _____ before Monday's meeting.",
+      "options": {
+        "A": "completed",
+        "B": "be completed",
+        "C": "complete",
+        "D": "have completing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "情态动词被动形式为 must be done。",
+      "knowledgePoints": [
+        "被动语态"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "It was not until the lights went out _____ he noticed the storm.",
+      "options": {
+        "A": "which",
+        "B": "since",
+        "C": "that",
+        "D": "when"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "It was not until ... that ... 为强调句。",
+      "knowledgePoints": [
+        "强调结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "_____ she has never lived abroad, she speaks English confidently.",
+      "options": {
+        "A": "Unless",
+        "B": "Because",
+        "C": "Until",
+        "D": "Although"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "从未出国与英语自信形成让步关系。",
+      "knowledgePoints": [
+        "让步状语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "This booking system is easier to use than _____ we tested last year.",
+      "options": {
+        "A": "the one",
+        "B": "those",
+        "C": "it",
+        "D": "ones"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the one 代替特指的单数可数名词 system。",
+      "knowledgePoints": [
+        "代词替代"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Students are encouraged _____ questions when instructions are unclear.",
+      "options": {
+        "A": "asked",
+        "B": "to ask",
+        "C": "ask",
+        "D": "asking"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "be encouraged to do 是 encourage 的被动搭配。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "By the time we arrived, the lecture _____.",
+      "options": {
+        "A": "has begun",
+        "B": "will begin",
+        "C": "had begun",
+        "D": "begins"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "动作发生在过去到达之前，使用过去完成时。",
+      "knowledgePoints": [
+        "过去完成时"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Only after checking the data _____ the results.",
+      "options": {
+        "A": "the researchers published",
+        "B": "the researchers had published",
+        "C": "had the researchers publish",
+        "D": "did the researchers publish"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Only 加状语前置触发部分倒装，did 后用原形。",
+      "knowledgePoints": [
+        "部分倒装"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "stem": "Public libraries are changing as the needs of their communities change. In addition to lending books, many libraries now offer study rooms, computer access, language classes, and practical workshops. These services are especially important for people who cannot easily find quiet space or reliable technology elsewhere. A library, however, cannot provide every possible service. Its staff must talk with local residents, examine how existing resources are used, and set clear priorities. Partnerships with schools, volunteer groups, and businesses can also extend what a library is able to do. When new programs are planned carefully, the library remains more than a place for storing books. It becomes a shared public space where people can learn, solve problems, and take part in community life.",
+      "referenceAnswer": "公共图书馆随着社区需求的变化而改变。除了借书，许多图书馆如今还提供自习室、电脑、语言课程和实用讲座。这些服务对难以在其他地方找到安静空间或可靠技术设备的人尤其重要。然而图书馆不可能提供所有服务。工作人员必须与当地居民交流，了解现有资源的使用情况并明确重点。与学校、志愿者团体和企业合作也能扩大服务能力。新项目经过认真规划，图书馆就不仅是藏书场所，而成为人们学习、解决问题和参与社区生活的共享公共空间。",
+      "explanation": "注意 in addition to（除……之外）、set priorities（确定重点）以及 where 引导的定语从句。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "信息完整与理解准确",
+            "maxScore": 8
+          },
+          {
+            "name": "中文表达通顺",
+            "maxScore": 5
+          },
+          {
+            "name": "术语与细节",
+            "maxScore": 2
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "信息完整准确，中文自然，只有极少细节问题。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：信息完整与复合句"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "stem": "Write an essay entitled Being Present in Conversation. Describe phone checking during face-to-face conversations, explain its effects, and suggest practical improvements. Write at least 100 English words.",
+      "sampleAnswer": "It is common to see people checking messages while someone is speaking to them. A quick look at a phone may seem harmless, but repeated interruptions can make the other person feel ignored. They also cause the phone user to miss details, so a conversation may take longer or lead to misunderstandings.\n\nWe can improve the situation with a few simple habits. Before an important conversation, we can silence the phone and keep it in a bag. If we are waiting for an urgent message, we should explain this at the beginning and check only when necessary. Giving someone our full attention shows respect and helps us respond thoughtfully. Technology is useful, but the person in front of us deserves our attention during a conversation.",
+      "explanation": "可按现象、影响、建议展开；举例说明被忽视和信息遗漏，再提出静音与事先解释等措施。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6
+          },
+          {
+            "name": "语言准确与表达",
+            "maxScore": 6
+          },
+          {
+            "name": "结构与衔接",
+            "maxScore": 3
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "内容充分，组织清楚，语言基本准确，达到100词。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点展开与篇章衔接"
+      ]
+    }
+  ]
+}

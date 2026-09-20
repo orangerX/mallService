@@ -1,0 +1,1172 @@
+{
+  "datasetVersion": "degree-english-v1",
+  "setCode": "set-05",
+  "title": "成人学士学位英语原创模拟试卷 5",
+  "source": "ORIGINAL_SIMULATION_2026",
+  "copyrightStatus": "ORIGINAL",
+  "notice": "本套为原创模拟练习，不是官方或第三方真题。",
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "title": "Preparing for a riverside walk",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Participant: I'd like to join Sunday's riverside walk.\nGuide: (1) _____\nParticipant: Two adults and one child.\nGuide: (2) _____\nParticipant: She's nine years old.\nGuide: The route is suitable for her. (3) _____\nParticipant: Yes, we can meet at the east gate at eight.\nGuide: (4) _____\nParticipant: We'll bring water and comfortable walking shoes.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "How many people are coming with you, including yourself?",
+        "B": "How old is the child?",
+        "C": "Can you be at the east gate by eight?",
+        "D": "Please bring water and wear comfortable shoes."
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Preparing for a riverside walk.",
+          "options": {
+            "A": "How many people are coming with you, including yourself?",
+            "B": "How old is the child?",
+            "C": "Can you be at the east gate by eight?",
+            "D": "Please bring water and wear comfortable shoes."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "答语给出两名成人和一名儿童，询问总人数。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Preparing for a riverside walk.",
+          "options": {
+            "A": "How many people are coming with you, including yourself?",
+            "B": "How old is the child?",
+            "C": "Can you be at the east gate by eight?",
+            "D": "Please bring water and wear comfortable shoes."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "nine years old 回答孩子年龄。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Preparing for a riverside walk.",
+          "options": {
+            "A": "How many people are coming with you, including yourself?",
+            "B": "How old is the child?",
+            "C": "Can you be at the east gate by eight?",
+            "D": "Please bring water and wear comfortable shoes."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "答语确认八点东门集合。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (4) in Preparing for a riverside walk.",
+          "options": {
+            "A": "How many people are coming with you, including yourself?",
+            "B": "How old is the child?",
+            "C": "Can you be at the east gate by eight?",
+            "D": "Please bring water and wear comfortable shoes."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "参加者回应会带水并穿舒适鞋，对应准备提醒。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Using a ticket machine",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Visitor: This machine doesn't seem to accept my payment.\nAssistant: (1) _____\nVisitor: A bank card.\nAssistant: Please hold it against the reader. (2) _____\nVisitor: Yes, it says the payment was accepted.\nAssistant: (3) _____\nVisitor: I see it in the tray. Thank you.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Would you like to change your appointment?",
+        "B": "Are you paying by card or with coins?",
+        "C": "Does the screen show a confirmation now?",
+        "D": "You can collect your ticket from the tray below."
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Using a ticket machine.",
+          "options": {
+            "A": "Would you like to change your appointment?",
+            "B": "Are you paying by card or with coins?",
+            "C": "Does the screen show a confirmation now?",
+            "D": "You can collect your ticket from the tray below."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "bank card 回答付款工具。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Using a ticket machine.",
+          "options": {
+            "A": "Would you like to change your appointment?",
+            "B": "Are you paying by card or with coins?",
+            "C": "Does the screen show a confirmation now?",
+            "D": "You can collect your ticket from the tray below."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "答语确认屏幕显示支付成功，对应询问确认信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Using a ticket machine.",
+          "options": {
+            "A": "Would you like to change your appointment?",
+            "B": "Are you paying by card or with coins?",
+            "C": "Does the screen show a confirmation now?",
+            "D": "You can collect your ticket from the tray below."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "访客在托盘看到票，前句说明取票位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Returning the wrong notebook",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Buyer: I ordered a lined notebook, but this one has blank pages.\nSeller: I'm sorry. (1) _____\nBuyer: A replacement would be best.\nSeller: We can send the correct one today. (2) _____\nBuyer: Yes, please use the original delivery address.\nSeller: (3) _____\nBuyer: Thank you. I'll use that prepaid label to return this one.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "I'll include a prepaid return label.",
+        "B": "Would you like to reserve a study room?",
+        "C": "Would you prefer a replacement or a refund?",
+        "D": "Is your delivery address still the same?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Returning the wrong notebook.",
+          "options": {
+            "A": "I'll include a prepaid return label.",
+            "B": "Would you like to reserve a study room?",
+            "C": "Would you prefer a replacement or a refund?",
+            "D": "Is your delivery address still the same?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "买家选择换货，对应询问换货还是退款。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Returning the wrong notebook.",
+          "options": {
+            "A": "I'll include a prepaid return label.",
+            "B": "Would you like to reserve a study room?",
+            "C": "Would you prefer a replacement or a refund?",
+            "D": "Is your delivery address still the same?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "答语确认原地址，询问地址是否变化。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Returning the wrong notebook.",
+          "options": {
+            "A": "I'll include a prepaid return label.",
+            "B": "Would you like to reserve a study room?",
+            "C": "Would you prefer a replacement or a refund?",
+            "D": "Is your delivery address still the same?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "买家提到预付退货标签，对应卖家提供标签。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "title": "Making station signs easier to follow",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At Eastmere station, passengers regularly asked staff where to change for the airport line. The signs seemed clear to the planners: each platform had a number, and a large board listed every service. Yet visitors carrying luggage often stopped in the narrow corridor between platforms. The station manager invited a small group of first-time travelers to describe their route while walking through the building. Their comments revealed a problem that regular users no longer noticed.\n\nThe airport line appeared on the departure board under its final destination, a town beyond the airport. Experienced passengers knew this, but newcomers looked for the word airport and failed to find it. A directional arrow also appeared just after a corridor divided, meaning travelers had to choose a direction before seeing the information. The signs were accurate in isolation but arrived too late or used terms that unfamiliar passengers did not recognize.\n\nThe station moved the arrow before the junction and added airport information beside the final destination. It kept platform numbers consistent across printed notices and digital screens. Staff then observed another group of new travelers. Fewer stopped at the junction, though several still missed a small notice about lifts. That notice was enlarged and placed at a height visible above most luggage. The process involved several adjustments rather than a single dramatic redesign.\n\nQuestions to staff decreased, but the manager kept help points open. Clear signs could not answer every unusual journey question, and some passengers preferred human assistance. The project showed that testing directions with people unfamiliar with a place can expose hidden assumptions. Good information requires more than correct facts. It needs recognizable language, useful timing, and a position where people can find it before they must decide what to do.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What did the manager ask first-time travelers to do?",
+          "options": {
+            "A": "Describe their route while walking through the station.",
+            "B": "Design a new railway timetable.",
+            "C": "Count every train arriving in town.",
+            "D": "Avoid speaking to station employees."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首段让首次使用者边走边描述，暴露熟客忽略的问题。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was the airport service hard for newcomers to identify?",
+          "options": {
+            "A": "All passengers were using the wrong station.",
+            "B": "It was listed under a town beyond the airport.",
+            "C": "It never appeared on any departure board.",
+            "D": "The airport had changed its official name."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "终点站名是机场以后的城镇，新乘客不知道对应关系。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What was wrong with the original arrow's position?",
+          "options": {
+            "A": "It pointed only toward the city library.",
+            "B": "It was installed inside a moving train.",
+            "C": "It appeared after travelers had to choose a direction.",
+            "D": "It covered the entire departure board."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "箭头在岔路之后，信息出现得太迟。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why were help points kept open?",
+          "options": {
+            "A": "The new signs had all been removed.",
+            "B": "Staff wanted every passenger to ask the same question.",
+            "C": "Digital screens were permanently prohibited.",
+            "D": "Some questions and preferences still required personal assistance."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段指出特殊路线问题和个人偏好仍需人工服务。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which principle best summarizes the project?",
+          "options": {
+            "A": "Present understandable information before a decision is needed.",
+            "B": "Use accurate facts without considering location.",
+            "C": "Assume newcomers think like regular users.",
+            "D": "Replace every staff member with a larger sign."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文强调熟悉用语、位置与出现时机共同决定指引是否有效。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "A wetland visit without feeding the birds",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The Willow Marsh visitor center once sold small bags of grain for people to feed waterbirds. Families enjoyed watching birds gather near the path, and the bags provided a modest income. Over time, however, staff noticed that the birds crowded one narrow area while food remained uneaten on the bank. Visitors also stepped off the path to move closer, damaging plants beside the water. The center decided to end grain sales and introduce a different kind of activity.\n\nThe new activity lent families a simple observation card. Instead of counting how many birds came for food, visitors looked for behaviors such as diving, cleaning feathers, or carrying nesting material. Volunteers showed people how to watch from a distance without disturbing animals. Binoculars could be borrowed with a refundable deposit, and the card included drawings for children who were not yet confident readers. The aim was to make looking carefully as engaging as feeding had been.\n\nSome visitors were disappointed. Staff listened to their concerns and explained the reasons for the change at the entrance, before families reached the old sales counter. They avoided blaming people who had followed the center's earlier practice. Volunteers also pointed out that birds moved across a wider area when not gathering around food, giving visitors more varied behavior to observe. On busy days, extra guides helped families find good viewing places along the path.\n\nThe center did not claim that one policy solved all problems at the marsh. Water quality and nearby development still required attention. But the new activity connected enjoyment with less disturbance and encouraged visitors to notice birds as animals with their own routines. The most successful visits were no longer measured by how close a bird came to a person's hand, but by how much the visitor learned while leaving the habitat largely undisturbed.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What concern helped prompt the end of grain sales?",
+          "options": {
+            "A": "Birds refusing to enter the wetland at all.",
+            "B": "Crowding, uneaten food, and damaged waterside plants.",
+            "C": "A complete absence of families at the marsh.",
+            "D": "A shortage of drawings for the gift shop."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段列出聚集、剩食和踩踏植被等问题。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the observation card ask families to notice?",
+          "options": {
+            "A": "The names of nearby property owners.",
+            "B": "The number of bags of grain sold.",
+            "C": "Different bird behaviors.",
+            "D": "The prices of every local shop."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "卡片引导观察潜水、理羽和筑巢材料等行为。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did the card include drawings?",
+          "options": {
+            "A": "To replace every trained volunteer.",
+            "B": "To hide the center's policy change.",
+            "C": "To advertise a new building project.",
+            "D": "To include children who were less confident readers."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段明确图画帮助阅读能力尚不熟练的儿童。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "How did staff respond to disappointed visitors?",
+          "options": {
+            "A": "They explained the change without blaming earlier behavior.",
+            "B": "They accused all families of deliberate damage.",
+            "C": "They secretly continued grain sales.",
+            "D": "They removed every explanation from the entrance."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段强调听取意见并解释，避免责怪遵循旧做法的人。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What was the main educational goal of the new activity?",
+          "options": {
+            "A": "Making birds depend on visitors for food.",
+            "B": "Learning about wildlife while limiting disturbance.",
+            "C": "Bringing every bird within touching distance.",
+            "D": "Ignoring wider environmental issues."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段强调学习鸟类自身习性并减少干扰。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "The meeting that started with a page",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A design office held a weekly meeting to choose improvements for its products. Several confident speakers usually introduced ideas quickly, and discussion followed whatever they mentioned first. Other employees often had useful suggestions but found it difficult to interrupt. Manager Felix tried a small change: everyone would spend the first five minutes writing ideas quietly before anyone spoke. The written notes would then be shared in turn.\n\nThe change did not guarantee that every suggestion was good. It did, however, create a record of ideas before group discussion influenced them. One employee proposed changing a handle shape after observing a customer struggle with it. Previously, that detail might have been forgotten during a broad conversation about appearance. Another suggestion repeated a problem already solved, which gave the team a chance to explain earlier decisions to newer members.\n\nFelix initially asked people to read their notes aloud without interruption. Later, the group discussed related ideas together and identified which needed more evidence. A written suggestion was not treated as a vote or an instruction to build something immediately. Staff still had to consider costs, customer needs, and technical limits. The notes widened the starting point for discussion while the team remained responsible for evaluating the proposals carefully.\n\nAfter several weeks, more employees contributed, but the meeting sometimes ran too long. Felix limited the number of initial suggestions to two per person and moved detailed technical debates into separate sessions. He kept the quiet beginning because it gave people time to form a thought before competing for attention. The experiment suggested that participation can depend on the structure of a conversation, not only on how confident or motivated individual workers appear to be.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What problem existed in the original meetings?",
+          "options": {
+            "A": "Every suggestion had already been written down.",
+            "B": "Employees met only once a year.",
+            "C": "Early confident speakers strongly shaped the discussion.",
+            "D": "Nobody had permission to discuss products."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "首段说明少数自信发言者先提出的内容主导讨论，其他人难以插话。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the quiet writing period provide?",
+          "options": {
+            "A": "A guarantee that every idea was correct.",
+            "B": "An automatic vote on the final design.",
+            "C": "A replacement for all customer feedback.",
+            "D": "Ideas recorded before group discussion influenced them."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段指出独立书写在讨论影响前保留想法。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What inspired the suggestion about a handle?",
+          "options": {
+            "A": "Seeing a customer struggle to use it.",
+            "B": "Reading the office lunch menu.",
+            "C": "A change in the meeting room's color.",
+            "D": "A rule requiring every product to look identical."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "员工观察到顾客操作困难，提出把手改动。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did Felix limit initial suggestions to two?",
+          "options": {
+            "A": "Two was the number of products in the office.",
+            "B": "Meetings were sometimes taking too long.",
+            "C": "Employees had stopped writing anything.",
+            "D": "Technical limits no longer mattered."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段明确为解决会议过长而限制最初建议数量。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What does the experiment suggest about participation?",
+          "options": {
+            "A": "Written proposals should always be accepted.",
+            "B": "Quiet workers never have useful ideas.",
+            "C": "Conversation structure can affect who contributes.",
+            "D": "Confidence is the only factor that matters."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结论指出参与程度也受讨论结构影响。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Explaining the estimate on a delivery screen",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An online stationery shop displayed a large message promising delivery in two days. Customers liked the clear statement, but complaints increased whenever an order arrived later. The shop's owner, Nina, examined several cases and found different causes. Some items needed to be obtained from a supplier, while certain distant addresses required longer transport. The promise combined preparation and travel into one number without explaining the conditions behind it.\n\nNina replaced the message with a delivery estimate based on stock availability and destination. The checkout screen separated the day an order was expected to leave the warehouse from the period in which it was likely to arrive. If an item was not in stock, customers saw that information before paying. The screen also explained that severe transport disruption could affect the estimate. Nina wanted buyers to understand the information well enough to decide whether an order met their needs.\n\nThe change initially worried the sales team. They feared that a range of dates would seem less attractive than a single confident promise. In the following month, some customers did choose not to order when a delay was visible. Yet fewer contacted support to ask why a parcel had not arrived on the second day. The team had fewer urgent explanations to send, and buyers who needed materials for a fixed event could make a more informed choice.\n\nNina continued checking actual arrival times against the displayed estimates. Simply adding cautious language would not excuse poor planning or outdated stock records. The estimate needed to be both honest and useful, with a range narrow enough to guide a decision. The lesson was not that businesses should avoid promises altogether. It was that a clear explanation of what can reasonably be expected may build more durable trust than a simple claim that often proves wrong.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What was wrong with the original two-day message?",
+          "options": {
+            "A": "It appeared only after customers received their orders.",
+            "B": "It promised products the shop never sold.",
+            "C": "It listed every destination in too much detail.",
+            "D": "It ignored differences in preparation and transport."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "首段指出缺货准备时间和远近运输差异被统一承诺掩盖。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What information became visible before payment?",
+          "options": {
+            "A": "Whether an item was out of stock.",
+            "B": "The private address of every supplier.",
+            "C": "Other customers' bank details.",
+            "D": "A guaranteed date regardless of disruption."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段明确缺货信息在付款前显示。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was the sales team initially concerned?",
+          "options": {
+            "A": "Customers were no longer able to pay online.",
+            "B": "A date range might look less attractive than a firm promise.",
+            "C": "The new screen had removed all product prices.",
+            "D": "Every parcel would now be sent by train."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "销售人员担心日期范围不如确定承诺有吸引力。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What happened after the change?",
+          "options": {
+            "A": "All transport disruptions ended.",
+            "B": "Support staff stopped answering any questions.",
+            "C": "Fewer customers asked why delivery had missed the second day.",
+            "D": "Every customer chose to buy more items."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第三段说明咨询第二天未到原因的顾客减少。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did Nina keep comparing estimates with actual arrivals?",
+          "options": {
+            "A": "She wanted the date range to become unlimited.",
+            "B": "She planned to remove all stock records.",
+            "C": "She believed planning no longer mattered.",
+            "D": "Honest wording still needed accurate, useful information."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段强调保守措辞不能替代可靠计划和准确库存。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The arrow should be placed before the _____ so travelers can choose the correct corridor.",
+      "options": {
+        "A": "junction",
+        "B": "journey",
+        "C": "journal",
+        "D": "justice"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "junction 指道路或通道交汇处。",
+      "knowledgePoints": [
+        "地点词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The shop gives customers a _____ of the arrival date rather than an absolute guarantee.",
+      "options": {
+        "A": "role",
+        "B": "range",
+        "C": "rate",
+        "D": "rank"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "a range of dates 表示日期范围。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please avoid making noise that might _____ the nesting birds.",
+      "options": {
+        "A": "display",
+        "B": "deliver",
+        "C": "disturb",
+        "D": "discover"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "disturb 表示打扰，与筑巢鸟类需安静相符。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The manager asked for _____ evidence before approving the expensive redesign.",
+      "options": {
+        "A": "confusing",
+        "B": "competing",
+        "C": "continuing",
+        "D": "convincing"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "convincing evidence 表示有说服力的证据。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The instructions were too _____; they did not explain which button to press.",
+      "options": {
+        "A": "vague",
+        "B": "briefly",
+        "C": "accurately",
+        "D": "eager"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "vague 意为含糊，与未说明具体按钮对应。",
+      "knowledgePoints": [
+        "形容词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Reliable service helps a business _____ the trust of its customers.",
+      "options": {
+        "A": "charge",
+        "B": "earn",
+        "C": "lend",
+        "D": "spend"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "earn trust 为赢得信任。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Each participant had an equal _____ to present an idea.",
+      "options": {
+        "A": "operation",
+        "B": "obligation",
+        "C": "opportunity",
+        "D": "opposition"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "opportunity to do 指做某事的机会。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The guide asked visitors to _____ on the marked path to protect nearby plants.",
+      "options": {
+        "A": "remove",
+        "B": "returning",
+        "C": "remind",
+        "D": "remain"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "remain on 表示留在指定路径上。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The updated sign uses words that are _____ to first-time visitors.",
+      "options": {
+        "A": "familiar",
+        "B": "formal",
+        "C": "former",
+        "D": "financial"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "familiar 表示熟悉的，便于初访者理解。",
+      "knowledgePoints": [
+        "近形词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The team will _____ the advantages and costs before making a decision.",
+      "options": {
+        "A": "whisper",
+        "B": "weigh",
+        "C": "weave",
+        "D": "wander"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "weigh 在此意为权衡利弊和成本。",
+      "knowledgePoints": [
+        "熟词生义"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The notice tells passengers _____ their tickets from the tray.",
+      "options": {
+        "A": "collected",
+        "B": "collect",
+        "C": "to collect",
+        "D": "collecting"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "tell somebody to do 为告知某人做某事。",
+      "knowledgePoints": [
+        "不定式宾补"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Not only the manager but also the assistants _____ attending today's workshop.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "has",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "not only...but also 连接主语采用就近一致，assistants 为复数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The package _____ by Friday if there is no transport disruption.",
+      "options": {
+        "A": "will arrive",
+        "B": "arrived",
+        "C": "had arrived",
+        "D": "arriving"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "if 从句一般现在时表将来，主句用 will。",
+      "knowledgePoints": [
+        "条件句时态"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "This is the clearest sign I _____ in the station so far.",
+      "options": {
+        "A": "am seeing",
+        "B": "have seen",
+        "C": "saw",
+        "D": "had seen"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so far 表示截至现在，使用现在完成时。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The guide spoke slowly so that everyone _____ follow the explanation.",
+      "options": {
+        "A": "should have",
+        "B": "ought",
+        "C": "could",
+        "D": "must have"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境表达能够听懂的目的，用 could。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "_____ an idea down first can make it easier to explain.",
+      "options": {
+        "A": "Write",
+        "B": "Written",
+        "C": "Having write",
+        "D": "Writing"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "动名词短语作主语。",
+      "knowledgePoints": [
+        "动名词主语"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The customer asked when the replacement _____.",
+      "options": {
+        "A": "would arrive",
+        "B": "will arriving",
+        "C": "arrives tomorrow",
+        "D": "has arrive"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去时 asked 下的将来事件，用过去将来时 would arrive。",
+      "knowledgePoints": [
+        "时态呼应"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "I wish the directions _____ easier to understand.",
+      "options": {
+        "A": "have been",
+        "B": "were",
+        "C": "are",
+        "D": "will be"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "wish 后对现在情况的愿望使用虚拟过去式 were。",
+      "knowledgePoints": [
+        "wish虚拟语气"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The screen shows _____ the item is available before you pay.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "whether",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "从句结构完整，whether 表示商品是否有货。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "It is important _____ visitors enough space to watch quietly.",
+      "options": {
+        "A": "giving",
+        "B": "gave",
+        "C": "give",
+        "D": "to give"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "It is important to do 中 it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "stem": "Clear information helps people make decisions with confidence. A sign, a timetable, or a delivery notice may contain correct facts and still be difficult to use. The information may appear too late, use unfamiliar words, or leave out a condition that matters to the reader. To improve it, designers should observe how people use it in a real situation. Questions and hesitation can reveal problems that an experienced employee no longer notices. Changes do not always need to be large. Moving a sign, explaining a term, or separating two stages of a process may be enough. The aim is to give people what they need at the moment when they can still act on it.",
+      "referenceAnswer": "清晰的信息帮助人们有把握地作出决定。标志、时刻表或送货通知即使包含正确事实，也可能难以使用。信息可能出现太晚，使用陌生词语，或遗漏读者在意的条件。为改善信息，设计者应观察人们在真实情境中怎样使用它。提问和犹豫能揭示熟练员工已不再注意的问题。改动不一定很大，移动标志、解释术语或将一个流程分成两个阶段，可能就已足够。目标是在人们仍能据此行动的时候，提供他们需要的信息。",
+      "explanation": "注意 may...still 的让步语意、leave out（遗漏）及 act on（根据……采取行动）。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "信息完整与理解准确",
+            "maxScore": 8
+          },
+          {
+            "name": "中文表达通顺",
+            "maxScore": 5
+          },
+          {
+            "name": "术语与细节",
+            "maxScore": 2
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "信息完整准确，中文自然，只有极少细节问题。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：信息完整与复合句"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "stem": "Write an essay entitled Making Instructions Clearer. Describe a confusing instruction you have encountered, explain the problem it caused, and suggest improvements. Write at least 100 English words.",
+      "sampleAnswer": "Clear instructions save time and make people feel more confident. Recently I visited a community center for a class. A sign told visitors to go to the upper room, but the building had two staircases leading to different areas. I chose the wrong one and arrived late after asking another visitor for help.\n\nThe center could improve this instruction by giving the room number and placing an arrow before the staircases divide. A simple plan near the entrance would also help people who are unfamiliar with the building. Staff should try the route with a first-time visitor and notice where that person hesitates. Instructions seem obvious when we already know the answer. Asking someone new to use them can reveal small changes that make a large difference.",
+      "explanation": "用真实可理解的场景说明信息缺失与后果，再提出房间号、岔路前箭头和首次使用者试走等建议。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6
+          },
+          {
+            "name": "语言准确与表达",
+            "maxScore": 6
+          },
+          {
+            "name": "结构与衔接",
+            "maxScore": 3
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "内容充分，组织清楚，语言基本准确，达到100词。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点展开与篇章衔接"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "datasetVersion": "degree-english-v1",
+  "setCode": "set-02",
+  "title": "成人学士学位英语原创模拟试卷 2",
+  "source": "ORIGINAL_SIMULATION_2026",
+  "copyrightStatus": "ORIGINAL",
+  "notice": "本套为原创模拟练习，不是官方或第三方真题。",
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "title": "Joining a community garden",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Resident: I'd like to join the community garden.\nCoordinator: (1) _____\nResident: I can come on Sunday mornings.\nCoordinator: (2) _____\nResident: No, I've never grown vegetables before.\nCoordinator: That's fine; we provide training. (3) _____\nResident: Yes, I have my own gloves.\nCoordinator: (4) _____\nResident: Thank you. I'll meet the team at the gate.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Please meet us at the gate this Sunday.",
+        "B": "When are you available?",
+        "C": "Have you done any gardening before?",
+        "D": "Can you bring a pair of gloves?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Joining a community garden.",
+          "options": {
+            "A": "Please meet us at the gate this Sunday.",
+            "B": "When are you available?",
+            "C": "Have you done any gardening before?",
+            "D": "Can you bring a pair of gloves?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "答语提供星期天早晨，询问可参加时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Joining a community garden.",
+          "options": {
+            "A": "Please meet us at the gate this Sunday.",
+            "B": "When are you available?",
+            "C": "Have you done any gardening before?",
+            "D": "Can you bring a pair of gloves?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答说明从未种菜，询问园艺经验。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Joining a community garden.",
+          "options": {
+            "A": "Please meet us at the gate this Sunday.",
+            "B": "When are you available?",
+            "C": "Have you done any gardening before?",
+            "D": "Can you bring a pair of gloves?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "对方说已有手套，应询问能否带手套。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (4) in Joining a community garden.",
+          "options": {
+            "A": "Please meet us at the gate this Sunday.",
+            "B": "When are you available?",
+            "C": "Have you done any gardening before?",
+            "D": "Can you bring a pair of gloves?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "最后确认在门口与团队见面，前句应告知集合地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Collecting a repaired bicycle",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Customer: Is my bicycle ready?\nMechanic: Yes. (1) _____\nCustomer: Good. The loose brake worried me.\nMechanic: (2) _____\nCustomer: I'll pay by card.\nMechanic: Here is your receipt. (3) _____\nCustomer: Certainly. I'll check it in the courtyard.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Please try the brake before you leave.",
+        "B": "Would you like to rent a boat?",
+        "C": "We've tightened the brake cable.",
+        "D": "How would you like to pay?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Collecting a repaired bicycle.",
+          "options": {
+            "A": "Please try the brake before you leave.",
+            "B": "Would you like to rent a boat?",
+            "C": "We've tightened the brake cable.",
+            "D": "How would you like to pay?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "顾客提及松动的刹车，修理工应说明已紧固刹车线。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Collecting a repaired bicycle.",
+          "options": {
+            "A": "Please try the brake before you leave.",
+            "B": "Would you like to rent a boat?",
+            "C": "We've tightened the brake cable.",
+            "D": "How would you like to pay?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "by card 回答支付方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Collecting a repaired bicycle.",
+          "options": {
+            "A": "Please try the brake before you leave.",
+            "B": "Would you like to rent a boat?",
+            "C": "We've tightened the brake cable.",
+            "D": "How would you like to pay?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "顾客答应到院子试用，前句应要求离开前试刹车。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Asking about a museum tour",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Visitor: I'd like to join the next guided tour. (1) _____\nAssistant: It begins at eleven.\nVisitor: (2) _____\nAssistant: About forty minutes.\nVisitor: My father uses a wheelchair. (3) _____\nAssistant: Yes. The entire route has step-free access.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "How long does it last?",
+        "B": "Is the route accessible to wheelchair users?",
+        "C": "May I borrow your umbrella?",
+        "D": "What time does it start?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Asking about a museum tour.",
+          "options": {
+            "A": "How long does it last?",
+            "B": "Is the route accessible to wheelchair users?",
+            "C": "May I borrow your umbrella?",
+            "D": "What time does it start?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "eleven 回答开始时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Asking about a museum tour.",
+          "options": {
+            "A": "How long does it last?",
+            "B": "Is the route accessible to wheelchair users?",
+            "C": "May I borrow your umbrella?",
+            "D": "What time does it start?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "forty minutes 回答持续时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Asking about a museum tour.",
+          "options": {
+            "A": "How long does it last?",
+            "B": "Is the route accessible to wheelchair users?",
+            "C": "May I borrow your umbrella?",
+            "D": "What time does it start?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后句介绍无台阶通道，对应轮椅可达性询问。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "title": "A shelf of useful tools",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When a drill breaks, buying another one seems a reasonable decision. Buying a drill for one small job is harder to justify, especially in a flat with little storage space. This was the problem that led residents of Cedar Court to open a tool library. A former bicycle store became a place where members could borrow items ranging from sewing machines to garden forks. The project began with donated tools and a small membership fee.\n\nAt first, the organizers expected the most expensive equipment to be the most popular. Their records surprised them. Simple items such as ladders and folding tables were borrowed more often than powerful machines. Interviews explained why: these objects occupied considerable space at home but were needed only occasionally. The organizers used this information when deciding what to buy next. They also stopped accepting donations they could not safely inspect or repair.\n\nBorrowing was not entirely free of responsibility. Members received a short demonstration before taking unfamiliar equipment home. They agreed to return items clean and report damage, even if they thought they had caused it. The library charged for deliberate misuse but treated ordinary wear as a normal operating cost. This distinction encouraged honest reporting and helped staff remove faulty equipment before another person borrowed it.\n\nAfter a year, the library had become a meeting place as well as a storage room. A few experienced members offered practical lessons on Saturday mornings. The organizers welcomed this development but kept the borrowing service as their main priority. They knew that a crowded schedule of events could leave too little time for maintenance. Their aim was not to own every possible tool. It was to make a modest collection dependable and useful to the neighborhood.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What need inspired the Cedar Court tool library?",
+          "options": {
+            "A": "A shop selling only expensive machines.",
+            "B": "Occasional access to tools without storing them.",
+            "C": "A new factory for manufacturing drills.",
+            "D": "Permanent storage for every resident's bicycle."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段强调偶尔使用和家中空间有限，借用可避免购买和储存。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which objects were borrowed especially often?",
+          "options": {
+            "A": "Broken donated drills.",
+            "B": "Small decorative figures.",
+            "C": "Ladders and folding tables.",
+            "D": "Industrial cutting machines."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段列举梯子和折叠桌，比大型机器更常借出。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did members report ordinary damage more willingly?",
+          "options": {
+            "A": "Every damaged item earned a cash reward.",
+            "B": "The library never inspected returned tools.",
+            "C": "All members were professional mechanics.",
+            "D": "Normal wear was distinguished from deliberate misuse."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "正常磨损不按故意滥用收费，鼓励如实报告。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did organizers limit the number of events?",
+          "options": {
+            "A": "Maintenance still required enough staff time.",
+            "B": "Residents disliked learning new skills.",
+            "C": "The building could never host lessons.",
+            "D": "The membership fee had disappeared."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "末段说活动过多可能挤占维护时间。",
+          "knowledgePoints": [
+            "阅读：因果"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What best describes the library's goal?",
+          "options": {
+            "A": "Replacing all neighborhood businesses.",
+            "B": "A reliable collection suited to local needs.",
+            "C": "The world's largest tool collection.",
+            "D": "Free ownership of tools for every member."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段明确目标是使适度规模的收藏可靠且实用。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Quiet hours at the museum",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The Northbank Museum used to celebrate busy weekends as evidence of success. Yet staff began receiving letters from visitors who avoided those days. Some found the loud films uncomfortable; others could not follow explanations in crowded rooms. Parents of children sensitive to noise described leaving before reaching the main exhibition. The museum decided to reserve the first hour of one Sunday each month for a quieter visit.\n\nPreparing this hour required more than reducing speaker volume. Staff identified doors that closed noisily and displays with flashing lights. They published a simple route guide with photographs so visitors could anticipate what each room looked like. A small rest area remained available throughout the visit. Tickets cost the same as usual, and visitors could leave and return without explaining their reasons to an employee.\n\nThe museum initially asked visitors to complete an online questionnaire afterward. Few responses arrived. A volunteer then offered paper cards with three brief questions near the exit, while keeping the online version available. More people responded, including visitors who preferred not to use a phone during the trip. Several pointed out that the entrance queue was still noisy even when the galleries were calm. Staff moved the waiting line into a covered outdoor area where people had more space.\n\nAttendance during the special hour remained lower than at regular weekend sessions. The director did not regard this as failure, since reduced crowding was part of the purpose. Instead, the museum considered whether people who previously stayed away could complete an enjoyable visit. Feedback suggested that many could. The experiment also encouraged the museum to make its route information clearer for everyone, showing how a focused adjustment can improve a wider public service.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why did the museum introduce a quieter visiting hour?",
+          "options": {
+            "A": "It wanted to increase film volume.",
+            "B": "Every visitor requested cheaper tickets.",
+            "C": "Some visitors found noise and crowds difficult.",
+            "D": "Its main exhibition had permanently closed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "来信指出噪声和人群使部分访客无法完成参观。",
+          "knowledgePoints": [
+            "阅读：目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the photographic route guide help visitors do?",
+          "options": {
+            "A": "Apply for a museum job.",
+            "B": "Find discounts at nearby shops.",
+            "C": "Replace all exhibition explanations.",
+            "D": "Know what to expect in each room."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "路线照片帮助预先了解房间环境。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why were paper feedback cards added?",
+          "options": {
+            "A": "The online questionnaire attracted few replies.",
+            "B": "Phones were permanently banned.",
+            "C": "The museum had lost internet access.",
+            "D": "Paper cards were compulsory for entry."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段指出在线反馈很少，简短纸卡拓宽参与方式。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What problem remained outside the galleries?",
+          "options": {
+            "A": "A closed outdoor shelter.",
+            "B": "A noisy entrance queue.",
+            "C": "A lack of exhibition paintings.",
+            "D": "An expensive rest area."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "访客指出展厅安静但入口排队仍然嘈杂。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "How did the director judge success?",
+          "options": {
+            "A": "By selling the maximum number of tickets.",
+            "B": "Only by the number of online comments.",
+            "C": "By whether previously excluded visitors could enjoy a full visit.",
+            "D": "Only by record-breaking attendance."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "减少拥挤本来就是目的，关键是原先不来的群体能否顺利参观。",
+          "knowledgePoints": [
+            "阅读：观点"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Watching birds on a familiar route",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Each Wednesday before work, Arun walks the same path beside a canal and records the birds he sees. He is one of several hundred volunteers in a local wildlife project. None is expected to be a professional scientist. New participants receive a guide to common species and practice with an experienced observer. They are asked to record uncertainty rather than turn a doubtful sighting into a confident identification.\n\nFollowing the same route may sound less exciting than exploring a different park every week. For the researchers, however, repetition is valuable. If observers continually move to wherever birds are most numerous, their records cannot easily show whether a particular place is improving or declining. The project therefore asks volunteers to keep roughly the same starting time and walking pace. Weather conditions are recorded too, since a windy morning can make birds harder to hear.\n\nIn the second spring, several participants reported fewer small birds near a recently cleared bank. The researchers did not immediately conclude that vegetation removal was the cause. They compared records from other stretches of canal and checked whether observation times had changed. The evidence suggested a local decline, but further work was needed to understand it. Meanwhile, the council agreed to leave some sections of vegetation untouched during the next maintenance period.\n\nArun says the routine has changed his attention more than his timetable. He now notices seasonal sounds that once blended into background noise. Still, he knows the project depends on accurate records, not just enthusiasm. Volunteers who miss a week mark it as missing rather than entering zero birds. A blank record means no observation was made; a zero means someone looked and found none. That small distinction protects the usefulness of the entire collection.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What should volunteers do when identification is uncertain?",
+          "options": {
+            "A": "Choose the rarest possible species.",
+            "B": "Omit all common birds.",
+            "C": "Invent a confident answer.",
+            "D": "Record their uncertainty."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "首段要求明确记录不确定性，避免武断辨认。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why should observers follow a consistent route?",
+          "options": {
+            "A": "To make changes at a location easier to compare.",
+            "B": "To prevent anyone from enjoying a park.",
+            "C": "To find the largest flock every time.",
+            "D": "To avoid noting weather conditions."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "固定路线有助于比较同一地点的变化。",
+          "knowledgePoints": [
+            "阅读：方法"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "How did researchers respond to reports of fewer birds?",
+          "options": {
+            "A": "They stopped collecting data permanently.",
+            "B": "They compared other records before drawing a conclusion.",
+            "C": "They immediately blamed every volunteer.",
+            "D": "They declared that all birds had left the city."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段先比较其他地点和时间，未直接断言因果。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the council agree to do?",
+          "options": {
+            "A": "Pay volunteers for each bird.",
+            "B": "Change all walks to midnight.",
+            "C": "Leave some vegetation during maintenance.",
+            "D": "Remove every tree by the canal."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "议会同意下次维护保留部分植被。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "How does a missing record differ from a zero count?",
+          "options": {
+            "A": "Both mean every bird disappeared.",
+            "B": "A zero means the volunteer stayed home.",
+            "C": "A missing record always proves poor weather.",
+            "D": "A missing record means no observation took place."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段区分未观察与观察后未发现。",
+          "knowledgePoints": [
+            "阅读：概念辨析"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Lunch portions and useful choices",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At a factory canteen, kitchen manager Rosa was troubled by the amount of rice left on plates. She first assumed that workers disliked its taste. After speaking to several regular customers, she learned that many enjoyed the food but found the standard portion too large. Some sat at desks all afternoon, while others performed physical tasks and wanted more. A single serving size did not reflect these different needs.\n\nRosa introduced a smaller initial portion with free additional rice. Staff placed a clear sign beside the counter and invited people to ask for more without joining the main queue again. The price stayed unchanged because the meal still included the same choice of vegetables and a main dish. Rosa explained that the purpose was to reduce unwanted food, not to restrict what anyone ate. This explanation mattered to workers who initially viewed the change as a hidden price increase.\n\nFor four weeks, the kitchen weighed the rice left on returned plates. It also recorded the amount cooked and the number of meals served each day. Comparing waste alone would have been misleading if attendance had fallen. In fact, meal numbers were similar, while discarded rice per meal decreased. A few workers requested extra portions, and the second serving point prevented a new queue from forming.\n\nThe trial did not solve every source of kitchen waste. Vegetable trimmings and unused ingredients needed separate attention. Nor did Rosa assume the same arrangement would suit a school or a restaurant. The useful lesson was narrower: giving customers an easy choice can work better than guessing what everyone needs. The canteen kept the smaller starting portion, continued offering more, and invited feedback before changing any other part of the meal.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What did Rosa learn from conversations with customers?",
+          "options": {
+            "A": "Portion size was a problem despite acceptable taste.",
+            "B": "Every worker disliked rice.",
+            "C": "Only office staff used the canteen.",
+            "D": "The vegetables were always unavailable."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "顾客喜欢食物，但统一份量不符合不同需求。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "How could a worker obtain more rice?",
+          "options": {
+            "A": "Wait until the kitchen closed.",
+            "B": "Use a separate serving point without paying extra.",
+            "C": "Buy a second complete meal.",
+            "D": "Join the main queue twice and pay."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "新制度提供免费添饭且不必重排主队。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did Rosa record meal numbers?",
+          "options": {
+            "A": "To limit the number of office workers.",
+            "B": "To calculate each worker's salary.",
+            "C": "To compare waste fairly when attendance varied.",
+            "D": "To identify workers who ate slowly."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "就餐人数变化会影响总浪费量，按每餐比较更合理。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which waste problem still required separate attention?",
+          "options": {
+            "A": "All rice left on customers' plates.",
+            "B": "Paper feedback cards at the entrance.",
+            "C": "Water used in the factory's machines.",
+            "D": "Vegetable trimmings and unused ingredients."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段点出蔬菜边角料和未使用食材仍待处理。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What principle does the trial support?",
+          "options": {
+            "A": "Offer a convenient choice that reflects different needs.",
+            "B": "Serve identical quantities in every institution.",
+            "C": "Charge more whenever portions shrink.",
+            "D": "Treat reduced attendance as reduced waste."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结论强调便捷选择优于统一猜测需求。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The volunteers agreed to _____ the playground equipment once a month for damage.",
+      "options": {
+        "A": "ignore",
+        "B": "inspect",
+        "C": "invent",
+        "D": "admire"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "inspect 指仔细检查，符合发现损坏的目的。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please keep the fire exit clear; even a small box can become an _____.",
+      "options": {
+        "A": "advantage",
+        "B": "opinion",
+        "C": "obstacle",
+        "D": "invitation"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "obstacle 指障碍物，符合堵塞出口的语境。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The new bus route provides a direct _____ between the station and the hospital.",
+      "options": {
+        "A": "debt",
+        "B": "wage",
+        "C": "doubt",
+        "D": "link"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "link 表示连接或联系。",
+      "knowledgePoints": [
+        "交通词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The course is designed for _____, so no previous experience is required.",
+      "options": {
+        "A": "beginners",
+        "B": "employers",
+        "C": "witnesses",
+        "D": "passengers"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "无经验要求对应初学者 beginners。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Our water supply is limited, so we must use it _____.",
+      "options": {
+        "A": "rarely",
+        "B": "wisely",
+        "C": "blindly",
+        "D": "loudly"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "有限资源需明智使用，wisely 合适。",
+      "knowledgePoints": [
+        "副词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The guide's clear explanation helped _____ the confusion.",
+      "options": {
+        "A": "invent",
+        "B": "collect",
+        "C": "resolve",
+        "D": "repeat"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "resolve confusion 表示消除疑惑。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The council will _____ local residents before changing the parking rules.",
+      "options": {
+        "A": "command",
+        "B": "rescue",
+        "C": "replace",
+        "D": "consult"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "制定规则前征求居民意见，用 consult。",
+      "knowledgePoints": [
+        "公共事务词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please _____ the borrowed ladder by Tuesday; another member has reserved it.",
+      "options": {
+        "A": "return",
+        "B": "retain",
+        "C": "remove",
+        "D": "reduce"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "已有人预约，故应按时归还 return。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "These shoes are especially _____ for walking on wet ground because they grip well.",
+      "options": {
+        "A": "grateful",
+        "B": "suitable",
+        "C": "famous",
+        "D": "anxious"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "suitable for 表示适合。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Regular maintenance can _____ the useful life of a machine.",
+      "options": {
+        "A": "divide",
+        "B": "borrow",
+        "C": "extend",
+        "D": "cancel"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "extend the life 表示延长使用寿命。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The tools _____ in this cupboard belong to the garden club.",
+      "options": {
+        "A": "storing",
+        "B": "store",
+        "C": "to storing",
+        "D": "stored"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "tools 与 store 为被动关系，过去分词作后置定语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "There is very _____ space in the shed, so we cannot accept another table.",
+      "options": {
+        "A": "little",
+        "B": "few",
+        "C": "many",
+        "D": "several"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "space 在此为不可数名词，little 表示几乎没有。",
+      "knowledgePoints": [
+        "数量词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The tutor asked us _____ we had used the machine before.",
+      "options": {
+        "A": "what",
+        "B": "whether",
+        "C": "that",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "从句意为是否用过机器，用 whether。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "This is the volunteer _____ showed me how to mend the chair.",
+      "options": {
+        "A": "whose",
+        "B": "which",
+        "C": "who",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "定语从句缺主语，先行词为人，用 who。",
+      "knowledgePoints": [
+        "关系代词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "We will move the lesson indoors if it _____ tomorrow.",
+      "options": {
+        "A": "will rain",
+        "B": "rained",
+        "C": "had rained",
+        "D": "rains"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "真实条件句中从句用一般现在时表示将来。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The posters _____ when the visitors arrived, so several walls were still bare.",
+      "options": {
+        "A": "were being hung",
+        "B": "are hanging",
+        "C": "have hung",
+        "D": "will be hung"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "到达时正在被悬挂，需过去进行时被动。",
+      "knowledgePoints": [
+        "进行时被动语态"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "She is interested in _____ how the old clock works.",
+      "options": {
+        "A": "to learn",
+        "B": "learning",
+        "C": "learn",
+        "D": "learned"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "介词 in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "We have used this meeting room _____ the library opened in March.",
+      "options": {
+        "A": "during",
+        "B": "until",
+        "C": "since",
+        "D": "for"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "现在完成时配合过去起点从句，用 since。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The more carefully you measure, _____ the pieces will fit.",
+      "options": {
+        "A": "better",
+        "B": "best",
+        "C": "the best",
+        "D": "the better"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more..., the better... 为越……越……结构。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Could you tell me where _____?",
+      "options": {
+        "A": "the spare batteries are",
+        "B": "are the spare batteries",
+        "C": "do the spare batteries",
+        "D": "the spare batteries be"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "间接疑问句使用陈述语序。",
+      "knowledgePoints": [
+        "宾语从句语序"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "stem": "A shared garden can offer more than fresh vegetables. When neighbors work together, they exchange practical knowledge and become familiar with people they might otherwise never meet. Success, however, depends on clear agreements. Members need to decide who will water the plants, how tools will be stored, and what will happen when someone is away. These arrangements need not be complicated, but they should be understood by everyone. A small garden with reliable care may be more useful than a large project that volunteers cannot maintain. By starting with a manageable area and reviewing their experience after each season, a group can learn gradually and build a space that serves the community for years.",
+      "referenceAnswer": "共享菜园带来的不只是新鲜蔬菜。邻居共同劳作时会交流实用知识，并结识原本可能永远不会遇到的人。然而成功取决于明确的约定。成员需要决定谁浇水、怎样存放工具，以及有人不在时如何安排。这些规定不必复杂，但每个人都应理解。得到可靠照料的小菜园可能比志愿者无力维护的大项目更有用。从能够管理的小块区域开始，每个季节结束后总结经验，团队便能逐步学习，建设一个长期服务社区的空间。",
+      "explanation": "注意 otherwise 表示否则，who/how/what 并列从句作 decide 的宾语，manageable 表示可管理的。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "信息完整与理解准确",
+            "maxScore": 8
+          },
+          {
+            "name": "中文表达通顺",
+            "maxScore": 5
+          },
+          {
+            "name": "术语与细节",
+            "maxScore": 2
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "信息完整准确，中文自然，只有极少细节问题。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：信息完整与复合句"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "stem": "Write an essay entitled Sharing Useful Things. Explain why people may borrow rarely used items, discuss one responsibility of borrowers, and give an example. Write at least 100 English words.",
+      "sampleAnswer": "Many useful objects spend most of their lives in cupboards. A family may need a ladder only twice a year, while a neighbor needs one on a different weekend. Sharing such items can save money and reduce the space required for storage. It can also create opportunities for neighbors to get to know one another.\n\nHowever, borrowing depends on trust. A borrower should understand how to use an item, return it at the agreed time, and report any damage honestly. For example, our apartment building could keep a simple booking list for a shared folding table. The person who borrows it would clean it before returning it. Clear, practical agreements make sharing easier and help a small service continue over time.",
+      "explanation": "围绕节省空间与费用、守时归还和如实报告损坏展开，可用共享折叠桌作具体例子。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6
+          },
+          {
+            "name": "语言准确与表达",
+            "maxScore": 6
+          },
+          {
+            "name": "结构与衔接",
+            "maxScore": 3
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "内容充分，组织清楚，语言基本准确，达到100词。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点展开与篇章衔接"
+      ]
+    }
+  ]
+}

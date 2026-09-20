@@ -1,0 +1,1172 @@
+{
+  "datasetVersion": "degree-english-v1",
+  "setCode": "set-04",
+  "title": "成人学士学位英语原创模拟试卷 4",
+  "source": "ORIGINAL_SIMULATION_2026",
+  "copyrightStatus": "ORIGINAL",
+  "notice": "本套为原创模拟练习，不是官方或第三方真题。",
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "title": "Requesting a book from another branch",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Reader: This book is not on the shelf. Can you help?\nLibrarian: (1) _____\nReader: It's called A History of Bridges.\nLibrarian: Another branch has it. (2) _____\nReader: Yes, please arrange a transfer.\nLibrarian: (3) _____\nReader: Email would be best.\nLibrarian: (4) _____\nReader: Three days is fine. Thank you.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Would you like us to request it?",
+        "B": "How should we notify you when it arrives?",
+        "C": "The transfer normally takes three days.",
+        "D": "What is the title?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Requesting a book from another branch.",
+          "options": {
+            "A": "Would you like us to request it?",
+            "B": "How should we notify you when it arrives?",
+            "C": "The transfer normally takes three days.",
+            "D": "What is the title?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答给出书名，前句询问标题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Requesting a book from another branch.",
+          "options": {
+            "A": "Would you like us to request it?",
+            "B": "How should we notify you when it arrives?",
+            "C": "The transfer normally takes three days.",
+            "D": "What is the title?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "答语同意安排调书，对应询问是否申请。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Requesting a book from another branch.",
+          "options": {
+            "A": "Would you like us to request it?",
+            "B": "How should we notify you when it arrives?",
+            "C": "The transfer normally takes three days.",
+            "D": "What is the title?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "Email 表示通知方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (4) in Requesting a book from another branch.",
+          "options": {
+            "A": "Would you like us to request it?",
+            "B": "How should we notify you when it arrives?",
+            "C": "The transfer normally takes three days.",
+            "D": "What is the title?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "读者回应三天可以，前句应告知调书时长。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Arranging a volunteer shift",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Organizer: We need help at Saturday's food collection.\nVolunteer: (1) _____\nOrganizer: Sorting donated packets and checking their dates.\nVolunteer: (2) _____\nOrganizer: From nine until noon.\nVolunteer: I can do that. (3) _____\nOrganizer: Comfortable shoes and a bottle of water are enough.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "What tasks would I be doing?",
+        "B": "What hours do you need me?",
+        "C": "What should I bring?",
+        "D": "How much does a train ticket cost?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Arranging a volunteer shift.",
+          "options": {
+            "A": "What tasks would I be doing?",
+            "B": "What hours do you need me?",
+            "C": "What should I bring?",
+            "D": "How much does a train ticket cost?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "答语列出分拣与检查日期，询问工作内容。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Arranging a volunteer shift.",
+          "options": {
+            "A": "What tasks would I be doing?",
+            "B": "What hours do you need me?",
+            "C": "What should I bring?",
+            "D": "How much does a train ticket cost?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "九点到中午回答值班时段。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Arranging a volunteer shift.",
+          "options": {
+            "A": "What tasks would I be doing?",
+            "B": "What hours do you need me?",
+            "C": "What should I bring?",
+            "D": "How much does a train ticket cost?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "鞋和水回答需要携带的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Reporting a broken streetlight",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Resident: I'd like to report a streetlight that isn't working.\nOperator: (1) _____\nResident: Outside number twenty on Pine Street.\nOperator: (2) _____\nResident: Since Monday evening.\nOperator: Thank you. A team will inspect it.\nResident: (3) _____\nOperator: Yes. Your reference number is 726.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Would you like to change your address?",
+        "B": "Where exactly is the light?",
+        "C": "How long has it been out?",
+        "D": "Can I have a reference number?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Reporting a broken streetlight.",
+          "options": {
+            "A": "Would you like to change your address?",
+            "B": "Where exactly is the light?",
+            "C": "How long has it been out?",
+            "D": "Can I have a reference number?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "门牌号与街名提供具体位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Reporting a broken streetlight.",
+          "options": {
+            "A": "Would you like to change your address?",
+            "B": "Where exactly is the light?",
+            "C": "How long has it been out?",
+            "D": "Can I have a reference number?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "Since Monday evening 回答故障持续多久。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Reporting a broken streetlight.",
+          "options": {
+            "A": "Would you like to change your address?",
+            "B": "Where exactly is the light?",
+            "C": "How long has it been out?",
+            "D": "Can I have a reference number?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "客服给出编号，居民应请求查询编号。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "title": "A box of stories from the neighborhood",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When the old Riverside cinema was scheduled for renovation, historian Marta asked residents to share memories of the building. She expected stories about famous films. Instead, many people described their first paid job at the ticket desk, a rainy afternoon with a grandparent, or the friend they met in the queue. These accounts suggested that a public building could matter for reasons absent from its architectural record.\n\nMarta invited contributors to a recording session at the library. Before each conversation, she explained how the recording might be used and asked whether the speaker wanted a real name attached. Some people agreed to public access, while others allowed only written extracts. A few decided not to participate after hearing the options. Their decision was respected, and no recording was kept without an agreement. The project aimed to preserve memories, not to make private experiences public by default.\n\nThe stories also raised questions about accuracy. Two speakers remembered the same concert in different years. Rather than silently choosing one account, Marta checked newspaper notices and added a note explaining the difference. She did not remove the personal memories, because they still showed what the event had meant to the speakers. The archive distinguished a documented date from a remembered impression, allowing readers to understand both.\n\nAt the renovation exhibition, visitors could listen to selected recordings beside photographs of the building. Short written summaries were provided for those who could not hear the audio easily. Marta hoped the collection would continue after the exhibition closed. Its purpose was not to create one perfect story of the cinema. It was to preserve a range of experiences, with clear information about where they came from and how people had agreed to share them.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What surprised Marta about the residents' memories?",
+          "options": {
+            "A": "They only named internationally famous films.",
+            "B": "They contained no references to the building.",
+            "C": "They all described the same architectural feature.",
+            "D": "They often concerned everyday relationships and experiences."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "首段中就业、祖孙相处和结友等日常记忆超出她对电影故事的预期。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What happened if someone declined to participate?",
+          "options": {
+            "A": "No recording was kept without agreement.",
+            "B": "The library published their name anyway.",
+            "C": "A neighbor was asked to imitate their voice.",
+            "D": "They had to pay for the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段强调尊重选择，未经同意不保留录音。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "How did Marta handle conflicting concert dates?",
+          "options": {
+            "A": "She assumed memories could never be mistaken.",
+            "B": "She checked notices and documented the difference.",
+            "C": "She deleted every account of the concert.",
+            "D": "She secretly changed both speakers' words."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段说明查询报纸并注明差异，区分证据和印象。",
+          "knowledgePoints": [
+            "阅读：方法"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why were written summaries available at the exhibition?",
+          "options": {
+            "A": "To make every story anonymous by force.",
+            "B": "To avoid explaining the archive's sources.",
+            "C": "To include visitors who had difficulty hearing recordings.",
+            "D": "To replace all photographs of the building."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文字摘要为不易听清录音的人提供访问方式。",
+          "knowledgePoints": [
+            "阅读：目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What was the archive intended to preserve?",
+          "options": {
+            "A": "One account that erased all disagreement.",
+            "B": "Only officially published architectural plans.",
+            "C": "Every private memory regardless of permission.",
+            "D": "Diverse experiences with clear origins and consent."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段强调多样体验、明确来源和分享同意。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Checking comfort in a public building",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A public service center received repeated complaints that its waiting room was too warm in winter. The building manager, Owen, considered lowering the heating throughout the building. Before doing so, he asked staff to record temperatures in different rooms at regular times. They also noted whether windows were open and how many people were present. The aim was to understand where and when discomfort occurred, rather than assume that every room had the same problem.\n\nThe records showed a clear pattern. The waiting room became warm around midday when sunlight entered its large windows and visitor numbers increased. Meanwhile, a small office on the north side remained cool. Reducing the whole building's heating would have made that office uncomfortable without fully addressing the waiting room. Owen adjusted the local controls and arranged for a faulty window blind to be repaired.\n\nAfter the changes, staff repeated the observations for several weeks. They asked visitors a short question about comfort as well as recording temperature. Owen explained that a number on a thermometer could not capture every experience. Someone who had walked quickly from a bus stop might feel warmer than a person who had been sitting still for half an hour. Comments helped interpret the measurements, though no single comment was treated as a complete description of conditions.\n\nEnergy use fell slightly, but Owen was cautious about claiming the adjustments caused the entire reduction. The second period had also been warmer outdoors. A fair comparison needed to account for weather and opening hours. The exercise still had practical value: fewer visitors complained, and the north office remained comfortable. It showed that a focused change, informed by several kinds of evidence, could work better than one large adjustment applied everywhere.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why did Owen gather room-by-room observations first?",
+          "options": {
+            "A": "To locate the conditions causing discomfort.",
+            "B": "To prove all complaints were false.",
+            "C": "To stop staff from opening any window.",
+            "D": "To calculate each visitor's travel cost."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首段明确目标是了解不舒适发生的地点与时间。",
+          "knowledgePoints": [
+            "阅读：目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What contributed to midday warmth in the waiting room?",
+          "options": {
+            "A": "A complete loss of electrical power.",
+            "B": "Sunlight and increased visitor numbers.",
+            "C": "A broken refrigerator in the north office.",
+            "D": "Empty chairs and closed service desks."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二段指出阳光和访客增多导致中午升温。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was lowering all heating a poor solution?",
+          "options": {
+            "A": "The waiting room had no heating controls.",
+            "B": "The building was used only in summer.",
+            "C": "It could make the north office too cold.",
+            "D": "Every room was already equally warm."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "北侧办公室本就偏冷，统一降温不合理。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why were visitors' comments collected alongside temperatures?",
+          "options": {
+            "A": "Comments made all measurement unnecessary.",
+            "B": "Every visitor had identical preferences.",
+            "C": "Visitors were responsible for repairing blinds.",
+            "D": "Comfort depends on more than a thermometer reading."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "活动和久坐等因素影响感受，评论补充温度读数。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was Owen cautious about the energy savings?",
+          "options": {
+            "A": "Outdoor weather differed between the two periods.",
+            "B": "Energy use had never been recorded.",
+            "C": "The building had doubled its opening hours.",
+            "D": "Every window had been removed."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二阶段室外也更暖，不能把全部下降归因于措施。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "The shelf that welcomed experiments",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "In a small bookshop, owner Saira noticed that customers often bought familiar authors and ignored unfamiliar titles. She understood the hesitation: readers had limited time and did not want to spend money on a disappointing choice. To encourage exploration, she placed a shelf near the entrance with short, handwritten recommendations. Each card described the reading experience rather than claiming that the book was the best of its kind.\n\nOne card said a novel moved slowly but offered memorable conversations. Another described a history book as demanding at first, with clear maps that rewarded patient reading. Saira included reservations because she wanted customers to judge whether a book suited them. A glowing recommendation without any detail might attract attention, but it did little to explain what a reader would actually encounter. Staff signed their cards so regular visitors could learn whose tastes they shared.\n\nThe shop also invited customers to write recommendations after finishing a book. Saira asked them to avoid revealing major plot developments and to state what they enjoyed or found difficult. Some cards disagreed strongly about the same title. She displayed contrasting views together instead of selecting only praise. The disagreement often led to useful conversations at the counter and reminded customers that a book's value could depend on a reader's interests and expectations.\n\nSales from the shelf grew gradually, but Saira did not treat sales as its only purpose. Some visitors borrowed a recommended title from the library and later returned to discuss it. The shelf helped the shop become a place where people could talk honestly about reading. It did not remove the risk of disappointment. It made the decision more informed and gave unfamiliar books a chance to reach readers who might otherwise have walked past them.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why did some customers avoid unfamiliar books?",
+          "options": {
+            "A": "They had already read every title.",
+            "B": "They were concerned about wasting time and money.",
+            "C": "They could not enter the shop's doorway.",
+            "D": "All unfamiliar books were written in another language."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段解释读者时间有限，也担心花钱后失望。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What distinguished Saira's recommendation cards?",
+          "options": {
+            "A": "They listed only printing costs.",
+            "B": "They hid the identity of all staff members.",
+            "C": "They described the experience, including possible drawbacks.",
+            "D": "They declared every book perfect for everyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "卡片具体描述阅读体验并保留不足，帮助判断适合度。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did staff sign their cards?",
+          "options": {
+            "A": "The shop required signatures to buy books.",
+            "B": "Authors needed proof of royalty payments.",
+            "C": "Unsigned cards were illegal to display.",
+            "D": "Readers could identify people with similar tastes."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "读者可逐渐了解哪位店员品味与自己相近。",
+          "knowledgePoints": [
+            "阅读：目的"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "How did Saira handle conflicting customer opinions?",
+          "options": {
+            "A": "She displayed contrasting views together.",
+            "B": "She kept only the most enthusiastic praise.",
+            "C": "She banned discussion of the disputed title.",
+            "D": "She returned every copy to the publisher."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段说明相反意见并列展示，引发交流。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What benefit did Saira value beyond sales?",
+          "options": {
+            "A": "A guarantee that nobody disliked a book.",
+            "B": "More honest conversation about reading.",
+            "C": "An end to all differences in taste.",
+            "D": "Fewer visits to public libraries."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段强调书店成为坦诚讨论阅读的场所。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Rain measurements behind the school",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A science teacher named Joel placed a simple rain gauge behind the school and invited his class to record daily rainfall. The activity seemed straightforward: look at the scale, write down a number, and empty the container. During the first week, however, the class recorded an unusually large amount on a dry morning. A student then admitted that the container had not been emptied the previous day. The number represented two days of rain, not one.\n\nInstead of treating the mistake only as carelessness, Joel used it to discuss measurement. The class agreed on a fixed reading time and a rotating pair of observers. One student read the scale while the other checked the entry and emptied the gauge. They marked weekends as unobserved unless someone had specifically arranged to attend. A missing daily measurement was not recorded as zero, because absence of observation did not establish absence of rain.\n\nPlacement mattered as well. The first location was close to a tree, whose branches could block some rain or release extra drops after a shower. The class moved the gauge to a more open area and wrote down the date of the change. Joel warned them that readings before and after the move might not be directly comparable. Keeping a note of the method was as important as keeping the numbers themselves.\n\nBy the end of term, the students had a chart with gaps, corrections, and a clear record of how observations were made. It looked less tidy than a perfectly filled table. Yet Joel considered it a stronger piece of work because its limits were visible. The class had learned that useful evidence depends on consistent methods and honest records, and that understanding a mistake can improve the next measurement.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why was rainfall high on a dry morning?",
+          "options": {
+            "A": "The scale measured temperature instead.",
+            "B": "The school had moved to a wetter town.",
+            "C": "The gauge contained rain from two days.",
+            "D": "A student had filled it with tap water."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "首段说明前一天未清空，读数实际覆盖两天。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What procedure did the class adopt?",
+          "options": {
+            "A": "A different container every hour.",
+            "B": "Automatic zero entries on all weekends.",
+            "C": "Readings only when heavy storms were expected.",
+            "D": "A fixed reading time with two observers."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段规定固定时刻，两人分工读数与记录清空。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was the gauge moved away from a tree?",
+          "options": {
+            "A": "Branches could distort the amount collected.",
+            "B": "The tree made the scale easier to read.",
+            "C": "Students preferred a shaded table.",
+            "D": "All trees stopped growing during rain."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "树枝可能拦雨或额外滴水，影响测量。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was the relocation date recorded?",
+          "options": {
+            "A": "It replaced the need for future observations.",
+            "B": "The location change could affect comparability.",
+            "C": "It marked the beginning of a school holiday.",
+            "D": "It proved all earlier readings were invented."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "地点改变可能使前后结果不能直接比较。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did Joel value the imperfect final chart?",
+          "options": {
+            "A": "It contained the largest possible rainfall total.",
+            "B": "It was more colorful than other charts.",
+            "C": "It honestly showed methods, corrections, and limitations.",
+            "D": "It concealed every missing reading."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "末段强调证据的透明性与诚实记录，而非表格整齐。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The library will _____ the original recording and provide copies for visitors.",
+      "options": {
+        "A": "predict",
+        "B": "postpone",
+        "C": "persuade",
+        "D": "preserve"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "preserve 表示保存，符合原始录音存档。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The two accounts differ, so we should compare them with other _____.",
+      "options": {
+        "A": "evidence",
+        "B": "furniture",
+        "C": "permission",
+        "D": "equipment"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "比较其他证据才能判断不同叙述。",
+      "knowledgePoints": [
+        "不可数名词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Visitors may withdraw their _____ before the interview is published.",
+      "options": {
+        "A": "climate",
+        "B": "consent",
+        "C": "custom",
+        "D": "contrast"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "consent 指同意或许可，可在发布前撤回。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The report states the _____ of the study instead of pretending it explains everything.",
+      "options": {
+        "A": "invitations",
+        "B": "instructions",
+        "C": "limitations",
+        "D": "locations"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "承认研究不能解释一切是在说明局限 limitations。",
+      "knowledgePoints": [
+        "学术词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The broken blind was repaired to reduce the _____ of afternoon sunlight.",
+      "options": {
+        "A": "identity",
+        "B": "intention",
+        "C": "interview",
+        "D": "intensity"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "intensity 指光线强度。",
+      "knowledgePoints": [
+        "近形词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "We should _____ between a confirmed fact and a personal impression.",
+      "options": {
+        "A": "distinguish",
+        "B": "disappear",
+        "C": "distribute",
+        "D": "disagree"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "distinguish between A and B 表示区分两者。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please make a _____ of any change in the observation method.",
+      "options": {
+        "A": "profit",
+        "B": "note",
+        "C": "wish",
+        "D": "noise"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "make a note of 表示记录。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "A recommendation is more helpful when it gives _____ examples.",
+      "options": {
+        "A": "similar",
+        "B": "separate",
+        "C": "specific",
+        "D": "secret"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "specific examples 为具体事例，使推荐更有信息。",
+      "knowledgePoints": [
+        "形容词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The librarian spoke _____ so that the elderly visitor could follow the directions.",
+      "options": {
+        "A": "roughly",
+        "B": "rarely",
+        "C": "blindly",
+        "D": "clearly"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "为便于听懂应清楚地讲话 clearly。",
+      "knowledgePoints": [
+        "副词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The exhibition offers a valuable _____ into daily life a century ago.",
+      "options": {
+        "A": "insight",
+        "B": "income",
+        "C": "insect",
+        "D": "impact"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "insight into 表示对某事深入了解。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The woman _____ memories were recorded once worked at the cinema.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "who",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "memories 与先行词构成所属关系，用 whose。",
+      "knowledgePoints": [
+        "关系限定词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "He suggested that the broken blind _____ before winter.",
+      "options": {
+        "A": "was repairing",
+        "B": "repairs",
+        "C": "be repaired",
+        "D": "is repaired"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "suggest 表示建议时宾语从句用虚拟原形 be repaired。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The recording is too quiet _____ clearly in this crowded room.",
+      "options": {
+        "A": "hearing",
+        "B": "hear",
+        "C": "to hearing",
+        "D": "to be heard"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "too...to 结构，录音被听见，使用被动不定式。",
+      "knowledgePoints": [
+        "不定式被动"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "If the gauge had been emptied, the result _____ misleading.",
+      "options": {
+        "A": "would not have been",
+        "B": "will not be",
+        "C": "is not",
+        "D": "was not being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去条件与过去结果相反，主句用 would not have been。",
+      "knowledgePoints": [
+        "过去虚拟"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Each of the recommendation cards _____ signed by a staff member.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "are",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Each of 结构的主语是单数 each。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "_____ the rain had stopped, drops continued to fall from the tree.",
+      "options": {
+        "A": "Unless",
+        "B": "Until",
+        "C": "Although",
+        "D": "Because"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "雨停与树仍滴水形成让步关系。",
+      "knowledgePoints": [
+        "让步关系"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The office on the north side is _____ than the waiting room.",
+      "options": {
+        "A": "coolest",
+        "B": "more coolly",
+        "C": "the cooler room of",
+        "D": "cooler"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "than 引出两者比较，用形容词比较级 cooler。",
+      "knowledgePoints": [
+        "形容词比较级"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "She remembered _____ the archive last year, but she could not recall the address.",
+      "options": {
+        "A": "visiting",
+        "B": "to visit",
+        "C": "visit",
+        "D": "to visiting"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "记得过去做过某事，用 remember doing。",
+      "knowledgePoints": [
+        "动名词与不定式"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "Hardly had the exhibition opened _____ the first visitors arrived.",
+      "options": {
+        "A": "while being",
+        "B": "when",
+        "C": "than",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "hardly...when 为固定时间结构。",
+      "knowledgePoints": [
+        "倒装关联结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The instructions explain how the measurements _____.",
+      "options": {
+        "A": "recording",
+        "B": "to be recording",
+        "C": "should be recorded",
+        "D": "should record"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "测量结果应被记录，需要情态动词被动。",
+      "knowledgePoints": [
+        "被动语态"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "stem": "Personal memories help us understand how people experienced the past, but they do not always provide exact dates or complete explanations. Two people may remember the same event differently because they noticed different details or gave those details different meanings. This does not make their stories worthless. It means that listeners should ask careful questions and compare memories with other records when possible. Respect is equally important. Before sharing an interview publicly, an organizer should explain who may hear it and how it will be used. A collection becomes more trustworthy when its sources and limits are clear. Preserving history involves both protecting useful information and respecting the people whose experiences give that information its human meaning.",
+      "referenceAnswer": "个人记忆帮助我们理解人们如何经历过去，却不总能提供准确日期或完整解释。两个人对同一事件的记忆可能不同，因为他们注意到了不同细节，或赋予细节不同意义。这并不意味着故事毫无价值，而是说听者应认真提问，并在可能时将记忆与其他记录比较。尊重同样重要。公开分享访谈前，组织者应说明谁可能听到以及如何使用。资料来源和局限清楚时，收藏就更加可信。保存历史既要保护有用信息，也要尊重那些以自身经历赋予信息人文意义的人。",
+      "explanation": "注意 worthless 的否定范围，both...and 的并列，以及 whose 引导的定语从句。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "信息完整与理解准确",
+            "maxScore": 8
+          },
+          {
+            "name": "中文表达通顺",
+            "maxScore": 5
+          },
+          {
+            "name": "术语与细节",
+            "maxScore": 2
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "信息完整准确，中文自然，只有极少细节问题。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：信息完整与复合句"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "stem": "Write an essay entitled Learning from a Small Mistake. Describe a mistake in study or everyday work, explain what it taught you, and suggest a way to prevent a similar problem. Write at least 100 English words.",
+      "sampleAnswer": "Last month I sent my study group a timetable with the wrong meeting room. I had copied an older message without checking the latest booking. Two classmates went to the wrong building and missed the beginning of our discussion. Although the mistake was small, it wasted their time and made our work less organized.\n\nI apologized and sent the corrected information as soon as I noticed the problem. The experience taught me that familiar details still need attention. Now I check the room, date, and time against the current booking before sending an invitation. I also ask one classmate to read important arrangements. A mistake cannot always be undone, but an honest response and a simple change in routine can make it useful for future learning.",
+      "explanation": "具体描述错误、影响与补救，重点写从中形成的可执行习惯。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6
+          },
+          {
+            "name": "语言准确与表达",
+            "maxScore": 6
+          },
+          {
+            "name": "结构与衔接",
+            "maxScore": 3
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "内容充分，组织清楚，语言基本准确，达到100词。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点展开与篇章衔接"
+      ]
+    }
+  ]
+}

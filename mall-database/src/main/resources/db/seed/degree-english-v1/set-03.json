@@ -1,0 +1,1172 @@
+{
+  "datasetVersion": "degree-english-v1",
+  "setCode": "set-03",
+  "title": "成人学士学位英语原创模拟试卷 3",
+  "source": "ORIGINAL_SIMULATION_2026",
+  "copyrightStatus": "ORIGINAL",
+  "notice": "本套为原创模拟练习，不是官方或第三方真题。",
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "title": "Booking an evening class",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Learner: I'd like to take the evening photography course.\nAssistant: (1) _____\nLearner: The beginner class, please.\nAssistant: (2) _____\nLearner: Yes, Tuesday evenings are free for me.\nAssistant: (3) _____\nLearner: I have a small digital camera.\nAssistant: That is suitable. (4) _____\nLearner: Fine. I'll complete the form before Friday.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "What kind of camera do you have?",
+        "B": "Please submit this form by Friday.",
+        "C": "Which level would you prefer?",
+        "D": "Can you attend on Tuesdays?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Booking an evening class.",
+          "options": {
+            "A": "What kind of camera do you have?",
+            "B": "Please submit this form by Friday.",
+            "C": "Which level would you prefer?",
+            "D": "Can you attend on Tuesdays?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "beginner 回答课程级别。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Booking an evening class.",
+          "options": {
+            "A": "What kind of camera do you have?",
+            "B": "Please submit this form by Friday.",
+            "C": "Which level would you prefer?",
+            "D": "Can you attend on Tuesdays?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "答语明确周二晚有空，对应询问上课时间是否合适。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Booking an evening class.",
+          "options": {
+            "A": "What kind of camera do you have?",
+            "B": "Please submit this form by Friday.",
+            "C": "Which level would you prefer?",
+            "D": "Can you attend on Tuesdays?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "答语说明相机类型。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (4) in Booking an evening class.",
+          "options": {
+            "A": "What kind of camera do you have?",
+            "B": "Please submit this form by Friday.",
+            "C": "Which level would you prefer?",
+            "D": "Can you attend on Tuesdays?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最后答应周五前填表，前句应告知提交期限。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Changing a train ticket",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Traveler: I need to change my ticket to a later train.\nClerk: (1) _____\nTraveler: The 18:40 service, please.\nClerk: There are seats available. (2) _____\nTraveler: Yes, I can pay the five-pound difference.\nClerk: Here is the new ticket. (3) _____\nTraveler: Platform six. Thank you.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Are you willing to pay the fare difference?",
+        "B": "Your train leaves from platform six.",
+        "C": "Would you like to book a hotel?",
+        "D": "Which departure would you like?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Changing a train ticket.",
+          "options": {
+            "A": "Are you willing to pay the fare difference?",
+            "B": "Your train leaves from platform six.",
+            "C": "Would you like to book a hotel?",
+            "D": "Which departure would you like?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "18:40 表示所选班次的发车时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Changing a train ticket.",
+          "options": {
+            "A": "Are you willing to pay the fare difference?",
+            "B": "Your train leaves from platform six.",
+            "C": "Would you like to book a hotel?",
+            "D": "Which departure would you like?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "对方表示愿意补五英镑票差，对应确认补差价。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Changing a train ticket.",
+          "options": {
+            "A": "Are you willing to pay the fare difference?",
+            "B": "Your train leaves from platform six.",
+            "C": "Would you like to book a hotel?",
+            "D": "Which departure would you like?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "旅客重复六号站台，说明工作人员刚告知站台。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "title": "Discussing a delayed parcel",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once.",
+      "content": "Customer: My parcel hasn't arrived. (1) _____\nAgent: Certainly. May I have the tracking number?\nCustomer: It's PX4816.\nAgent: The driver couldn't find the entrance. (2) _____\nCustomer: Please use the gate on Oak Lane.\nAgent: I've added that note. (3) _____\nCustomer: Yes, I'll be home tomorrow morning.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：语境衔接"
+      ],
+      "sharedOptions": {
+        "A": "Could you check its delivery status?",
+        "B": "Which entrance should the driver use?",
+        "C": "Would tomorrow morning be convenient?",
+        "D": "Do you want to cancel your telephone service?"
+      },
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (1) in Discussing a delayed parcel.",
+          "options": {
+            "A": "Could you check its delivery status?",
+            "B": "Which entrance should the driver use?",
+            "C": "Would tomorrow morning be convenient?",
+            "D": "Do you want to cancel your telephone service?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "客服随后索取运单号，符合查询投递状态。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (2) in Discussing a delayed parcel.",
+          "options": {
+            "A": "Could you check its delivery status?",
+            "B": "Which entrance should the driver use?",
+            "C": "Would tomorrow morning be convenient?",
+            "D": "Do you want to cancel your telephone service?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "答语指定 Oak Lane 大门，对应询问入口。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "stem": "Complete blank (3) in Discussing a delayed parcel.",
+          "options": {
+            "A": "Could you check its delivery status?",
+            "B": "Which entrance should the driver use?",
+            "C": "Would tomorrow morning be convenient?",
+            "D": "Do you want to cancel your telephone service?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "答语说明明早在家，对应确认投递时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "title": "The walking map made by residents",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A city walking map usually shows the shortest line between two places. For residents of Hillview, that was not always the most useful information. A steep staircase connected the railway station to the main square, but it was difficult for people pushing shopping carts. Another route was longer yet offered benches and a gentle slope. A neighborhood group decided to produce a map that described these differences instead of recommending one route for everyone.\n\nVolunteers walked each street in pairs. They noted steps, surfaces, crossings, places to rest, and sections without shade. They did not label a path simply easy or difficult, because the same feature could affect walkers differently. A parent with a stroller might avoid steps, while another resident might care more about a safe crossing. The map therefore showed concrete features and allowed users to choose according to their own needs.\n\nDuring an early trial, the group discovered that printed information became outdated quickly. Construction blocked one crossing for several weeks, and a bench marked on the map was removed. Rather than abandon paper copies, volunteers added a revision date and a telephone number for reporting changes. A version at the community center could be updated more frequently, and staff helped visitors compare it with older copies.\n\nThe project attracted attention from the transport department, which used the observations when planning repairs. Still, the group made clear that the map was not a promise that every route would always be open. Conditions could change after a storm or roadworks. Its value lay in providing practical information usually absent from official street plans and in treating local residents as knowledgeable observers. Walking became a question of suitable choices, rather than simply distance.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why was the shortest route not suitable for everyone?",
+          "options": {
+            "A": "It had too many public benches.",
+            "B": "It required a train ticket.",
+            "C": "It included a steep staircase.",
+            "D": "It passed a closed railway station."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "首段说明最短路线有陡峭台阶，不利于推购物车。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did volunteers describe specific features?",
+          "options": {
+            "A": "They wanted to hide all crossing locations.",
+            "B": "They were forbidden to show street names.",
+            "C": "All residents preferred the same route.",
+            "D": "Different walkers have different requirements."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段解释台阶、休息点等对不同使用者意义不同。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What problem appeared during the map trial?",
+          "options": {
+            "A": "Some information became outdated.",
+            "B": "No resident could read a map.",
+            "C": "The community center refused visitors.",
+            "D": "Every road was permanently closed."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "施工和座椅移除使原图信息失效。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "How could people report a change?",
+          "options": {
+            "A": "Remove all paper copies from shops.",
+            "B": "Call the number printed with the revision date.",
+            "C": "Buy a new railway ticket.",
+            "D": "Wait for the next annual election."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段提到修订日期和报告变化的电话号码。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What is the central value of this map?",
+          "options": {
+            "A": "Replacing every official road repair plan.",
+            "B": "Encouraging every walker to use the shortest path.",
+            "C": "Helping people choose routes using local practical knowledge.",
+            "D": "Guaranteeing all routes remain open forever."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "地图用居民观察补充实用信息，支持适合个人的选择。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "A mentor's question notebook",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When Lina became the manager of a small warehouse, she paired each new employee with an experienced colleague. She expected the experienced workers to explain routines and answer questions. Within a month, however, two newcomers made the same labeling mistake. Both said their mentors had been helpful. The problem was that an important exception had seemed so obvious to experienced staff that nobody had mentioned it.\n\nLina introduced a question notebook beside the training desk. New employees could write down anything they found confusing, without signing their names. Mentors discussed the questions during a short weekly meeting and added useful explanations to the training guide. The notebook was not used to rank newcomers or criticize mentors. Its purpose was to reveal gaps between what experienced workers assumed and what a beginner actually knew.\n\nOne question concerned a red sticker used on packages awaiting inspection. A newcomer thought it meant the package should be sent immediately because it looked urgent. The discussion led the team to add a written label as well as color. Another question revealed that instructions described an older screen in the warehouse software. Correcting that page prevented confusion for the next group of employees. Small questions were producing improvements beyond individual training sessions.\n\nAfter several months, Lina still valued personal mentoring. A document could not notice when someone looked uncertain or demonstrate a difficult movement patiently. But she no longer treated knowledge as something that moved only from expert to beginner. New employees were also helping the warehouse see familiar routines more clearly. The notebook worked because the team responded to questions and changed instructions when necessary. Without that response, it would have become another container for concerns that nobody read.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why did two newcomers make the same labeling mistake?",
+          "options": {
+            "A": "Their mentors had refused every question.",
+            "B": "The warehouse had stopped using labels.",
+            "C": "They had both trained at another company.",
+            "D": "An important exception had never been explained."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "老员工认为例外显而易见而未讲解，造成知识缺口。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why could notebook questions be anonymous?",
+          "options": {
+            "A": "To make it easier to reveal confusion.",
+            "B": "To prevent mentors from seeing questions.",
+            "C": "To create a ranking of employees.",
+            "D": "To eliminate written training guides."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "匿名且不用于排名，目的是让新员工安心提出困惑。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What change followed the red-sticker question?",
+          "options": {
+            "A": "New employees were banned from packing.",
+            "B": "Words were added alongside the color.",
+            "C": "All inspection procedures were canceled.",
+            "D": "Red packages were always sent immediately."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段指出增加文字标签，避免只凭颜色误解。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "What does Lina continue to value about mentors?",
+          "options": {
+            "A": "Their refusal to discuss exceptions.",
+            "B": "Their power to avoid every training meeting.",
+            "C": "Their personal attention and demonstrations.",
+            "D": "Their ability to replace all instructions with memory."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "末段指出导师能察觉困惑并耐心示范。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What makes the notebook useful?",
+          "options": {
+            "A": "Its cover is easy to recognize.",
+            "B": "Only experienced workers may read it.",
+            "C": "It stores questions without a response.",
+            "D": "The team acts on questions and improves instructions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末句说明若无人回应，笔记本只会堆积问题。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "A station locker for local food",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "For small farms outside Marston, selling vegetables in town involved a difficult choice. Delivering to individual homes took hours, while a full day at a market kept farmers away from other work. A cooperative tried another arrangement: customers ordered online and collected boxes from cooled lockers near the railway station. Farmers brought all the orders to one location twice a week. Commuters could collect them on their way home.\n\nThe first month exposed a weakness in the plan. Some customers worked late, and their collection codes expired before they reached the station. Others could not judge how much food would fit in a standard box. The cooperative extended the collection period and published photographs showing typical contents beside ordinary kitchen objects. It also offered a smaller box. These changes were based on complaints rather than on a large advertising campaign.\n\nThe lockers reduced the time farmers spent making separate deliveries, but they introduced new costs. Cooling used electricity, and somebody had to clean the compartments and check that doors closed properly. The cooperative included these expenses when comparing the service with its previous system. Counting only the reduced driving time would have made the savings appear greater than they really were. Customers were told that seasonal availability could change the contents of a box.\n\nAfter six months, the cooperative kept the lockers but continued a small market stall on Saturdays. Some customers valued speaking directly with growers, and several did not use online ordering. The organizers concluded that convenience had different meanings for different people. A station collection point served many commuters well, but it was one part of a varied sales system. Its success depended on reliable operation and realistic choices, not on replacing every older way of buying food.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "What did the station lockers allow farmers to do?",
+          "options": {
+            "A": "Deliver many orders to one location.",
+            "B": "Stop checking vegetable quality.",
+            "C": "Sell only to railway employees.",
+            "D": "Grow food inside the station."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "集中投递减少逐户送货所花时间。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was the collection period extended?",
+          "options": {
+            "A": "Customers wanted to sleep at the station.",
+            "B": "Some customers arrived after their codes expired.",
+            "C": "The lockers were never used.",
+            "D": "Farmers stopped supplying vegetables."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二段指出晚下班顾客来不及在原期限内取货。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What helped customers understand box size?",
+          "options": {
+            "A": "A promise of identical crops all year.",
+            "B": "A ban on small orders.",
+            "C": "Photographs beside familiar kitchen objects.",
+            "D": "A list of train ticket prices."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "实物照片以常见厨房物品作比例参照。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why did the cooperative include electricity and cleaning costs?",
+          "options": {
+            "A": "To prove delivery time never matters.",
+            "B": "To avoid reporting any service income.",
+            "C": "To make every box larger.",
+            "D": "To make a realistic comparison of expenses."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "只计算节省的车程会高估收益，应计入新增成本。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "Why was a Saturday stall retained?",
+          "options": {
+            "A": "Some customers preferred personal contact or did not order online.",
+            "B": "The station had permanently closed.",
+            "C": "No commuter had ever used a locker.",
+            "D": "Farmers were required to stop digital sales."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "末段明确提到面对面交流和不使用线上订购的顾客。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "title": "Learning in short sessions",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "After returning to work, Daniel enrolled in an evening language course. He planned to study for three hours every Sunday, but family visits and household tasks often consumed the afternoon. When he missed a session, the next week's material felt even harder. His teacher suggested a different schedule: ten minutes on most weekdays, with a longer session only when time permitted. Daniel was skeptical that such short periods could accomplish anything.\n\nThe teacher did not ask him to squeeze an entire lesson into ten minutes. Instead, she helped him choose one small task for each session. On Monday he recalled words from the previous class without looking at his notes. On Tuesday he listened to a brief conversation and wrote its main point. On Wednesday he used several new expressions in a message. The tasks required attention, but their limited size made it easier to begin.\n\nDaniel placed a card beside the kettle to remind himself to study after breakfast. He marked completed sessions on a calendar, though he avoided treating one missed day as a reason to abandon the week. After a month, he could remember more expressions during class discussions. This was encouraging, but the teacher cautioned that short sessions were not a complete substitute for extended practice. Writing a full essay or having a sustained conversation still required longer periods.\n\nThe change helped because it matched Daniel's actual routine. Another learner might have a quiet Sunday and prefer a different plan. The teacher's broader advice was to design regular opportunities for active practice and adjust them when circumstances changed. A study schedule was a tool for learning, not a promise that had to be kept perfectly. Small sessions mattered when they formed a useful pattern, not merely because they were short.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节与推断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "stem": "Why was Daniel's original plan unsuccessful?",
+          "options": {
+            "A": "His teacher prohibited weekend study.",
+            "B": "Other responsibilities often occupied Sunday afternoons.",
+            "C": "His course met every Sunday morning.",
+            "D": "He had no learning materials."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段说明家庭访问和家务经常占用预定学习时段。",
+          "knowledgePoints": [
+            "阅读：原因"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "stem": "What did the teacher assign for each short session?",
+          "options": {
+            "A": "Three hours of copying.",
+            "B": "A complete examination paper.",
+            "C": "One focused activity.",
+            "D": "An entire textbook chapter."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段强调每次一个小而具体的主动任务。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "stem": "What was the purpose of the card beside the kettle?",
+          "options": {
+            "A": "To record household electricity use.",
+            "B": "To replace his course notebook.",
+            "C": "To warn visitors not to enter.",
+            "D": "To remind Daniel of his study routine."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "卡片提醒早餐后学习，借日常活动形成提示。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "stem": "Which task still called for a longer period?",
+          "options": {
+            "A": "Writing a full essay.",
+            "B": "Recalling a few words.",
+            "C": "Marking a calendar.",
+            "D": "Reading a reminder card."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段举整篇写作和持续会话说明仍需较长练习。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "stem": "What is the teacher's broader advice?",
+          "options": {
+            "A": "Choose Sunday study regardless of circumstances.",
+            "B": "Fit active practice into a realistic, adaptable routine.",
+            "C": "Use ten-minute sessions for every possible task.",
+            "D": "Treat one missed day as total failure."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结论强调结合实际安排持续主动练习，并按情况调整。",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "groupSortOrder": 5
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The map includes several _____ routes for people who wish to avoid the stairs.",
+      "options": {
+        "A": "invisible",
+        "B": "imaginary",
+        "C": "alternative",
+        "D": "identical"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "alternative routes 指可选择的替代路线。",
+      "knowledgePoints": [
+        "形容词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The trainer gave a practical _____ of how to lift the box safely.",
+      "options": {
+        "A": "decoration",
+        "B": "destination",
+        "C": "competition",
+        "D": "demonstration"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "demonstration 表示示范操作。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "Please _____ us if your address changes so that we can update our records.",
+      "options": {
+        "A": "notify",
+        "B": "occupy",
+        "C": "describe",
+        "D": "prevent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "notify somebody 表示通知某人。",
+      "knowledgePoints": [
+        "动词用法"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The two teams will _____ their schedules to avoid booking the same room.",
+      "options": {
+        "A": "celebrate",
+        "B": "coordinate",
+        "C": "decorate",
+        "D": "calculate"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "coordinate schedules 指协调时间安排。",
+      "knowledgePoints": [
+        "职场词汇"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "A written label makes the meaning of the red sticker _____.",
+      "options": {
+        "A": "distant",
+        "B": "temporary",
+        "C": "explicit",
+        "D": "flexible"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "explicit 意为明确的，文字消除颜色的歧义。",
+      "knowledgePoints": [
+        "形容词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The new collection point is within walking _____ of the railway station.",
+      "options": {
+        "A": "height",
+        "B": "weight",
+        "C": "speed",
+        "D": "distance"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "within walking distance 为步行可达。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The instruction sheet is out of date and needs to be _____.",
+      "options": {
+        "A": "revised",
+        "B": "reserved",
+        "C": "reduced",
+        "D": "removed from memory"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "revised 表示修订过时内容。",
+      "knowledgePoints": [
+        "动词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The cooperative asked customers for _____ on the smaller food boxes.",
+      "options": {
+        "A": "machinery",
+        "B": "feedback",
+        "C": "permission",
+        "D": "furniture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "征求对服务的意见用 feedback。",
+      "knowledgePoints": [
+        "名词辨义"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "It takes practice to develop the _____ of reviewing notes regularly.",
+      "options": {
+        "A": "fault",
+        "B": "price",
+        "C": "habit",
+        "D": "accident"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "develop the habit of 表示养成习惯。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "VOCABULARY",
+      "stem": "The mentor was _____ with new employees and explained each step again.",
+      "options": {
+        "A": "absent",
+        "B": "careless",
+        "C": "hostile",
+        "D": "patient"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "反复耐心讲解对应 patient。",
+      "knowledgePoints": [
+        "人物描述"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The route _____ we chose avoids the steep hill.",
+      "options": {
+        "A": "that",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "先行词 route 在从句中作 chose 的宾语，用 that。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "I would join the evening class if I _____ closer to the college.",
+      "options": {
+        "A": "have lived",
+        "B": "lived",
+        "C": "live",
+        "D": "will live"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句从句用过去式。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The manager had the damaged shelf _____ yesterday.",
+      "options": {
+        "A": "repairing",
+        "B": "to repair",
+        "C": "repaired",
+        "D": "repair"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "have something done 表示请人做某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "She has already finished the form, _____?",
+      "options": {
+        "A": "doesn't she",
+        "B": "isn't she",
+        "C": "didn't she",
+        "D": "hasn't she"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "现在完成时肯定陈述对应 hasn't she。",
+      "knowledgePoints": [
+        "反意疑问句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "A pair of gloves _____ required for this workshop.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "have",
+        "D": "were being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "主语核心为单数 pair，谓语用 is。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The course was so useful _____ I recommended it to my colleagues.",
+      "options": {
+        "A": "than",
+        "B": "that",
+        "C": "as",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so...that 引导结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "We look forward to _____ the new trainees next week.",
+      "options": {
+        "A": "met",
+        "B": "have met",
+        "C": "meeting",
+        "D": "meet"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "look forward to 中 to 为介词，后接动名词。",
+      "knowledgePoints": [
+        "介词后动名词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "No sooner had the train stopped _____ passengers began to get off.",
+      "options": {
+        "A": "when",
+        "B": "that",
+        "C": "as",
+        "D": "than"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "no sooner...than 为固定结构。",
+      "knowledgePoints": [
+        "时间关联结构"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "You _____ bring a printed ticket; the code on your phone is enough.",
+      "options": {
+        "A": "need not",
+        "B": "must not",
+        "C": "cannot",
+        "D": "would not"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "手机码足够说明无须打印，而非禁止打印。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 3
+    },
+    {
+      "questionType": "GRAMMAR",
+      "stem": "The report explains _____ the delivery system was changed.",
+      "options": {
+        "A": "whom",
+        "B": "why",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "从句结构完整，需 why 表示改变的原因。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 3
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "stem": "Learning does not stop when people leave school. A new job, a change in technology, or an unfamiliar responsibility may require adults to develop fresh skills. Finding time can be difficult, especially when work and family duties compete for attention. It helps to choose a specific goal and divide it into smaller tasks. Progress may be slow at first, but regular practice makes new knowledge easier to use. Asking questions is also important. A beginner's question can reveal an unclear instruction that experienced people have stopped noticing. When workplaces welcome such questions, they support both individual learning and improvements in everyday practice. Education then becomes part of ordinary life rather than a separate activity reserved for a classroom.",
+      "referenceAnswer": "离开学校并不意味着学习停止。新工作、技术变化或陌生职责都可能要求成年人掌握新技能。当工作和家庭责任争夺注意力时，尤其难以抽出时间。选择明确目标并将其分成较小任务会有所帮助。最初进步可能缓慢，但经常练习使新知识更易于运用。提问同样重要。初学者的问题可能揭示老手已经不再注意的不明确说明。工作场所欢迎这类问题时，既支持个人学习，也推动日常实践改进。于是教育成为普通生活的一部分，而非只在教室进行的独立活动。",
+      "explanation": "注意 compete for attention 的自然表达，rather than 表示而不是，that 引导定语从句修饰 instruction。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "信息完整与理解准确",
+            "maxScore": 8
+          },
+          {
+            "name": "中文表达通顺",
+            "maxScore": 5
+          },
+          {
+            "name": "术语与细节",
+            "maxScore": 2
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "信息完整准确，中文自然，只有极少细节问题。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：信息完整与复合句"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "stem": "Write an essay entitled A Study Plan I Can Keep. Describe a realistic learning goal, explain how to find regular study time, and discuss how to handle interruptions. Write at least 100 English words.",
+      "sampleAnswer": "A useful study plan should fit a person's real life. My current goal is to explain my work clearly in English. Instead of trying to memorize a whole textbook quickly, I plan to learn several useful expressions each week and practice them in short descriptions of familiar tasks.\n\nI can usually find fifteen minutes after breakfast. During that time, I will recall earlier expressions and use them in a new sentence. On a free weekend, I can record a longer explanation and listen for unclear parts. Some days will be interrupted by work or family needs. If that happens, I will continue the next day rather than abandon the plan. Regular practice and sensible adjustments will help me make progress without expecting a perfect timetable.",
+      "explanation": "说明具体目标、可用时间、主动练习和中断后的恢复策略，避免空泛地声称每天长时间学习。",
+      "scoringRubric": {
+        "minScore": 0,
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6
+          },
+          {
+            "name": "语言准确与表达",
+            "maxScore": 6
+          },
+          {
+            "name": "结构与衔接",
+            "maxScore": 3
+          }
+        ],
+        "bands": [
+          {
+            "min": 13,
+            "max": 15,
+            "description": "内容充分，组织清楚，语言基本准确，达到100词。"
+          },
+          {
+            "min": 10,
+            "max": 12,
+            "description": "主要内容完整，表达清楚，有少量错误。"
+          },
+          {
+            "min": 7,
+            "max": 9,
+            "description": "基本传达要点，但有明显遗漏或语言错误。"
+          },
+          {
+            "min": 4,
+            "max": 6,
+            "description": "仅部分完成任务，多处误解或表达困难。"
+          },
+          {
+            "min": 1,
+            "max": 3,
+            "description": "只有零散相关内容，难以理解。"
+          },
+          {
+            "min": 0,
+            "max": 0,
+            "description": "未作答或完全偏题。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点展开与篇章衔接"
+      ]
+    }
+  ]
+}
