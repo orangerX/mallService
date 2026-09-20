@@ -42,7 +42,7 @@ CREATE TABLE exam_import_batch (
 CREATE TABLE exam_import_item (
     id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
     batch_id BIGINT UNSIGNED NOT NULL,
-    row_number INT UNSIGNED NOT NULL,
+    `row_number` INT UNSIGNED NOT NULL,
     payload JSON NOT NULL,
     question_fingerprint CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
     group_fingerprint CHAR(64) CHARACTER SET ascii COLLATE ascii_bin NULL,
@@ -50,7 +50,7 @@ CREATE TABLE exam_import_item (
     created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     updated_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3) ON UPDATE CURRENT_TIMESTAMP(3),
     PRIMARY KEY (id),
-    UNIQUE KEY uk_exam_import_item_batch_row (batch_id, row_number),
+    UNIQUE KEY uk_exam_import_item_batch_row (batch_id, `row_number`),
     KEY idx_exam_import_item_batch_status (batch_id, status),
     CONSTRAINT fk_exam_import_item_batch FOREIGN KEY (batch_id) REFERENCES exam_import_batch (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='导入批次规范化题目载荷';
