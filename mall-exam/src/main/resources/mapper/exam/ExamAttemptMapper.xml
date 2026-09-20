@@ -21,7 +21,7 @@
         <result column="knowledge_points" property="knowledgePoints"/>
         <result column="created_at" property="createdAt"/>
     </resultMap>
-    <!-- Every public operation locks an owned paper before reading answers or changing state. -->
+    <!-- Answer/state operations lock an owned paper; history queries always filter by authenticated user. -->
     <select id="findPaperForUpdate" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.paper">
         SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,
                submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,
@@ -45,6 +45,24 @@
     <select id="findWrongRecords" resultMap="wrongRecord">
         SELECT id,user_id,paper_id,paper_item_id,original_question_id,wrong_answer,knowledge_points,created_at
         FROM exam_wrong_record WHERE user_id=#{userId} AND paper_id=#{paperId} ORDER BY paper_item_id
+    </select>
+    <select id="findRecords" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.paper">
+        SELECT id,paper_no,status,started_at,due_at,submitted_at,objective_score,
+               translation_self_score,writing_self_score,self_score_total
+        FROM exam_paper WHERE user_id=#{userId}
+        ORDER BY started_at DESC,id DESC LIMIT #{size} OFFSET #{offset}
+    </select>
+    <select id="countRecords" resultType="long">
+        SELECT COUNT(*) FROM exam_paper WHERE user_id=#{userId}
+    </select>
+    <select id="findWrongSummary" resultType="com.mall.exam.attempt.mapper.ExamAttemptMapper$WrongSummaryGroup">
+        SELECT i.question_type,w.knowledge_points,COUNT(*) AS wrong_count
+        FROM exam_wrong_record w
+        JOIN exam_paper p ON p.id=w.paper_id AND p.user_id=w.user_id
+        JOIN exam_paper_item_snapshot i ON i.id=w.paper_item_id AND i.paper_id=w.paper_id
+        WHERE w.user_id=#{userId} AND p.status IN ('SUBMITTED','AUTO_SUBMITTED')
+          AND i.question_type IN ('DIALOGUE_BLANK','READING','VOCABULARY','GRAMMAR')
+        GROUP BY i.question_type,w.knowledge_points
     </select>
     <insert id="insertAnswer" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
         INSERT INTO exam_answer (paper_id,paper_item_id,answer_content,answer_version,saved_at,objectively_correct,earned_score)

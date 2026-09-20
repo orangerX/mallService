@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.node.TextNode;
 import com.mall.common.api.ErrorCode;
+import com.mall.common.api.PageResponse;
 import com.mall.common.exception.BusinessException;
 import com.mall.exam.attempt.dto.*;
 import com.mall.exam.attempt.mapper.ExamAttemptMapper;
@@ -170,6 +171,49 @@ public class ExamAttemptService {
             }
             return new ExamResultResponse(paper, now);
         });
+    }
+
+    public PageResponse<ExamResultResponse> records(long userId, int page, int size) {
+        if (page < 1 || size < 1 || size > 100) throw invalidRequest();
+        return transaction.execute(status -> {
+            expireCurrent(userId);
+            LocalDateTime now = LocalDateTime.now(clock);
+            List<ExamResultResponse> records = mapper.findRecords(userId, ((long) page - 1) * size, size).stream()
+                    .map(paper -> new ExamResultResponse(paper, now)).collect(Collectors.toList());
+            return new PageResponse<>(records, page, size, mapper.countRecords(userId));
+        });
+    }
+
+    public WrongSummaryResponse wrongSummary(long userId) {
+        return transaction.execute(status -> {
+            expireCurrent(userId);
+            LocalDateTime now = LocalDateTime.now(clock);
+            Map<String, Long> byType = new TreeMap<>();
+            Map<String, Long> byPoint = new TreeMap<>();
+            long total = 0;
+            for (ExamAttemptMapper.WrongSummaryGroup group : mapper.findWrongSummary(userId)) {
+                total += group.wrongCount;
+                byType.merge(group.questionType, group.wrongCount, Long::sum);
+                JsonNode points = readContent(group.knowledgePoints);
+                Set<String> distinctPoints = new HashSet<>();
+                if (points != null && points.isArray()) {
+                    for (JsonNode point : points) {
+                        if (point.isTextual() && !point.asText().trim().isEmpty())
+                            distinctPoints.add(point.asText().trim());
+                    }
+                }
+                for (String point : distinctPoints) byPoint.merge(point, group.wrongCount, Long::sum);
+            }
+            return new WrongSummaryResponse(total, byType, byPoint, now);
+        });
+    }
+
+    private void expireCurrent(long userId) {
+        ExamPaperEntity candidate = papers.findInProgress(userId);
+        if (candidate != null) {
+            ExamPaperEntity paper = ownedPaper(userId, candidate.getId());
+            expire(paper, LocalDateTime.now(clock));
+        }
     }
 
     private int selfScoreValue(JsonNode value) {

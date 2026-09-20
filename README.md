@@ -11,9 +11,10 @@
 | `mall-product` | Banner、分类、商品、SKU 与库存查询 |
 | `mall-promotion` | 满减券模板、用户优惠券与核销 |
 | `mall-order` | 购物车、下单、库存扣减、订单查询 |
-| `mall-database` | Flyway V1–V11 数据库迁移 |
-| `mall-shop-app` | 商城端应用，默认端口 `8080` |
-| `mall-admin-app` | 内管端应用，提供用户、类目、商品、SKU、订单和优惠券管理，默认端口 `8081` |
+| `mall-exam` | 学位英语题源、题库、蓝图、组卷、答题、判分与复盘 |
+| `mall-database` | Flyway V1–V12 数据库迁移，包含考试领域表 |
+| `mall-shop-app` | 商城端与考生 API 应用，默认端口 `8080` |
+| `mall-admin-app` | 内管端应用，提供商城管理和考试内容管理，默认端口 `8081` |
 
 领域模块不依赖应用模块；两个应用各自持有 Controller、安全配置和启动类。`mallPage` 继续使用 `http://127.0.0.1:8080`，原有接口契约无需修改。
 
@@ -61,7 +62,7 @@ java -jar mall-shop-app/target/mall-shop-app-1.0.0.jar
 java -jar mall-admin-app/target/mall-admin-app-1.0.0.jar
 ```
 
-Flyway 会集中校验 V1–V10，并通过 V11 创建管理员表。商城 Swagger UI 地址为 <http://127.0.0.1:8080/swagger-ui.html>，内管 Swagger UI 地址为 <http://127.0.0.1:8081/swagger-ui.html>。
+Flyway 会集中校验历史迁移，V11 创建管理员表，V12 创建考试领域表。商城 Swagger UI 地址为 <http://127.0.0.1:8080/swagger-ui.html>，内管 Swagger UI 地址为 <http://127.0.0.1:8081/swagger-ui.html>。
 
 ## 内管端接口
 
@@ -104,6 +105,27 @@ Flyway 会集中校验 V1–V10，并通过 V11 创建管理员表。商城 Swag
 | POST | `/admin/api/coupons/update` | 编辑满减券模板 |
 | POST | `/admin/api/coupons/status` | 启用或停用优惠券 |
 | POST | `/admin/api/coupons/delete` | 删除无领取记录的优惠券 |
+
+考试管理另提供以下 16 个接口，全部使用管理员 Access Token；分页接口同样使用 `page=1&size=20`，`page >= 1`、`1 <= size <= 100`：
+
+| 方法 | 路径 | 说明 |
+| --- | --- | --- |
+| GET | `/admin/api/exam/sources` | 按关键词、来源类型、版权、审核及启停状态分页查询题源 |
+| POST | `/admin/api/exam/sources/create` | 新增题源 |
+| POST | `/admin/api/exam/sources/update` | 修改题源，JSON Body 传 `sourceId` |
+| POST | `/admin/api/exam/sources/review` | 通过或驳回题源，并记录版权状态和审核意见 |
+| POST | `/admin/api/exam/sources/status` | 启用或停用题源 |
+| GET | `/admin/api/exam/questions` | 按题型、审核/启停状态、题源、考点和关键词分页查询题库 |
+| GET | `/admin/api/exam/questions/detail?questionId=1` | 获取单题或所属完整题组 |
+| POST | `/admin/api/exam/questions/create` | 新建单题或完整对话、阅读题组 |
+| POST | `/admin/api/exam/questions/update` | 修改尚未发布的单题或完整题组 |
+| POST | `/admin/api/exam/questions/review` | 审核发布或驳回题目，题组整体处理 |
+| POST | `/admin/api/exam/questions/status` | 启用或停用单题或完整题组 |
+| POST | `/admin/api/exam/imports/preview` | multipart 上传 `sourceId` 和 `file`，预览 JSON/CSV 校验结果；文件不超过 5 MiB |
+| POST | `/admin/api/exam/imports/commit` | JSON Body 传 `batchId`，将已确认批次写入草稿题库 |
+| GET | `/admin/api/exam/blueprints` | 查看蓝图、部分结构与可用题库容量 |
+| POST | `/admin/api/exam/blueprints/status` | JSON Body 传 `blueprintId`、`status`，启用或停用蓝图 |
+| GET | `/admin/api/exam/records` | 按 `userId`、`paperNo`、`status` 分页查询考试记录，不返回答案正文 |
 
 ```bash
 curl -X POST 'http://127.0.0.1:8081/admin/api/auth/login' \
@@ -184,6 +206,46 @@ curl -X POST 'http://127.0.0.1:8081/admin/api/coupons/create' \
 | POST | `/api/orders/submit` | 将当前购物车全部商品提交为订单 |
 | GET | `/api/orders` | 查询当前用户订单列表 |
 | GET | `/api/orders/detail?orderId=1` | 查询当前用户订单详情 |
+
+### 学位英语考生接口
+
+以下八个接口均要求商城用户 Access Token：`Authorization: Bearer ACCESS_TOKEN`。考生身份只取自登录上下文，请求不接受 `userId`；管理员 Token 不可用于考生接口。成功结果使用 `ApiResponse`，历史分页的 `data` 使用 `PageResponse`。
+
+| 方法 | 路径 | 说明 |
+| --- | --- | --- |
+| POST | `/api/exams/generate` | 无需请求体，生成或恢复当前试卷 |
+| GET | `/api/exams/current` | 当前试卷、已保存答案、服务端时间和截止时间；无当前考试时 `data` 为 `null` |
+| POST | `/api/exams/answers/save` | JSON Body 传 `paperId`、`paperItemId`、`answerVersion`、`answerContent`，保存单题答案 |
+| POST | `/api/exams/submit` | JSON Body 只需 `paperId`，提前交卷或由服务端判定超时交卷，重复提交幂等返回结果 |
+| GET | `/api/exams/records` | 当前用户考试历史，默认 `page=1&size=20`，`page >= 1`、`1 <= size <= 100` |
+| GET | `/api/exams/review?paperId=1` | 交卷后读取错题、未答客观题解析与主观题参考材料 |
+| POST | `/api/exams/self-score` | JSON Body 传 `paperId`、`translationScore`、`writingScore`，两项分数均为 0–15 的整数 |
+| GET | `/api/exams/wrong-summary` | 当前用户历次已提交考试的错题及未答客观题数量，按题型和考点汇总 |
+
+考试使用 `DEGREE_ENGLISH_2016_V2` 蓝图，时长固定为 120 分钟，截止时间以服务端为准。每位用户同时只有一场进行中的考试；读取、保存或提交发现超时后，服务端完成自动交卷。前端倒计时归零时仍发送 `{"paperId":1}`，无需传 `automatic` 或剩余时长。交卷后客观题满分为 70 分；翻译、写作各自评 0–15 分，自评总分满分 100 分。
+
+生成和当前考试响应只包含试题及考生自己的已保存答案，不包含 `correctAnswer`、`explanation`、`referenceAnswer`、`sampleEssay`、`sampleAnswer` 或 `scoringRubric`。复盘只展示答错/未答的客观题和翻译、写作参考材料。历史列表只含状态、时间与成绩；错题汇总返回 `totalWrong`、`byQuestionType`、`byKnowledgePoint`、`serverTime`，同一错题重复的考点标签只计一次。
+
+首次保存的 `answerVersion` 为 `0`，成功后使用响应中的递增版本。版本冲突返回 HTTP 409、`code=EXAM_ANSWER_CONFLICT`，并在 `data.latestAnswer` 返回该考生的服务端答案及最新版本。保存请求到达时已超时会返回 `EXAM_EXPIRED`，前端使用同一 `paperId` 再次调用提交接口取得已完成的结果；交卷幂等，不重复判分或写入错题。
+
+```bash
+curl -X POST 'http://127.0.0.1:8080/api/exams/generate' \
+  -H 'Authorization: Bearer ACCESS_TOKEN'
+
+curl -X POST 'http://127.0.0.1:8080/api/exams/answers/save' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"paperId":1,"paperItemId":1,"answerVersion":0,"answerContent":"B"}'
+
+curl -X POST 'http://127.0.0.1:8080/api/exams/submit' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"paperId":1}'
+```
+
+考试端浏览器通过开发服务器或 Nginx 将 `/api` 同源代理到商城服务 `8080`；管理端将 `/admin/api` 代理到内管服务 `8081`，代理须保留 `Authorization`。后端禁止 OPTIONS，不能依赖跨域预检直连。MySQL 保存试卷、答案和历史，Redis 同时用于登录会话和并发组卷锁，两个依赖均需运行。
+
+初始内容定位为五套容量的原创模拟题（`ORIGINAL_SIMULATION`），不是官方历年真题。当前 V12 只创建考试领域结构；运行组卷前还需初始化并启用蓝图，导入足量且审核通过、版权合规的题库。导入提交只生成草稿，题源和题目仍需审核发布；容量不足返回 `EXAM_BANK_INSUFFICIENT`。
 
 关于接口用于展示商城基础信息，当前版本为 `1.0.0`，商城主要售卖新鲜、优质的时令水果：
 
