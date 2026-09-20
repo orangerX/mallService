@@ -12,7 +12,7 @@
 | `mall-promotion` | 满减券模板、用户优惠券与核销 |
 | `mall-order` | 购物车、下单、库存扣减、订单查询 |
 | `mall-exam` | 学位英语题源、题库、蓝图、组卷、答题、判分与复盘 |
-| `mall-database` | Flyway V1–V12 数据库迁移，包含考试领域表 |
+| `mall-database` | Flyway V1–V13 数据库迁移，包含考试领域表、启用的蓝图与五套原创模拟题种子 |
 | `mall-shop-app` | 商城端与考生 API 应用，默认端口 `8080` |
 | `mall-admin-app` | 内管端应用，提供商城管理和考试内容管理，默认端口 `8081` |
 
@@ -37,24 +37,21 @@ CREATE DATABASE mall_service
   COLLATE utf8mb4_0900_ai_ci;
 ```
 
-设置环境变量。Redis 本地密码按当前环境使用 `123456`，JWT 密钥必须是 Base64 编码且解码后不少于 32 字节：
+按实际环境设置下列变量；两个应用的配置位于各自的 `src/main/resources/application.yml`。仓库中的示例不代表可用账号或生产凭据，密码和密钥应由运行环境提供。
 
-```bash
-export DB_URL='jdbc:mysql://127.0.0.1:3306/mall_service?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true'
-export DB_USERNAME='root'
-export DB_PASSWORD='123456'
-export REDIS_HOST='127.0.0.1'
-export REDIS_PORT='6379'
-export REDIS_PASSWORD='123456'
-export JWT_SECRET="$(openssl rand -base64 32)"
-export ADMIN_JWT_SECRET="$(openssl rand -base64 32)"
-export ADMIN_USERNAME='admin'
-export ADMIN_PASSWORD='123456'
-```
+| 变量 | 配置要求 |
+| --- | --- |
+| `DB_URL`、`DB_USERNAME`、`DB_PASSWORD` | 两个应用连接同一 MySQL 数据库；默认地址是本机 `3306/mall_service`，账号和密码按实际数据库配置 |
+| `REDIS_HOST`、`REDIS_PORT`、`REDIS_DATABASE` | 两个应用使用同一 Redis 环境；默认分别为 `127.0.0.1`、`6379`、`0` |
+| `REDIS_PASSWORD` | 两个应用均无默认值，需显式提供与 Redis 配置一致的值 |
+| `JWT_SECRET` | 考生 / 商城应用使用，Base64 编码且解码后不少于 32 字节 |
+| `ADMIN_JWT_SECRET` | 管理应用使用，Base64 编码且解码后不少于 32 字节 |
+| `ADMIN_USERNAME`、`ADMIN_PASSWORD` | 管理员表为空时用于初始化管理员，使用自行配置的账号和密码 |
+| `SERVER_PORT` | 两个应用分别默认为 `8080`、`8081`；如覆盖，必须按进程分别设置并同步调整代理目标 |
 
 首次启动内管端且 `sys_admin` 为空时，必须提供 `ADMIN_USERNAME` 与 `ADMIN_PASSWORD`；密码只在启动时 BCrypt 加密后入库，源码和迁移中不保存明文。已有管理员后可省略这两个变量。商城 JWT audience 为 `mall-shop`、Redis 键前缀为 `mall:auth:session:`；内管 JWT audience 为 `mall-admin`、Redis 键前缀为 `mall:admin:session:`，两类 Token 不可互用。
 
-在根目录打包后分别启动两个服务：
+以下命令供后续运行环境使用，本次文档任务未执行打包或启动。先在后端根目录打包，再在两个独立终端中分别启动已有 JAR，避免第一个前台进程阻塞第二个服务：
 
 ```bash
 mvn package
@@ -62,7 +59,49 @@ java -jar mall-shop-app/target/mall-shop-app-1.0.0.jar
 java -jar mall-admin-app/target/mall-admin-app-1.0.0.jar
 ```
 
-Flyway 会集中校验历史迁移，V11 创建管理员表，V12 创建考试领域表。商城 Swagger UI 地址为 <http://127.0.0.1:8080/swagger-ui.html>，内管 Swagger UI 地址为 <http://127.0.0.1:8081/swagger-ui.html>。
+Flyway 会集中校验历史迁移，V11 创建管理员表，V12 创建考试领域表，V13 从 `mall-database/src/main/resources/db/seed/degree-english-v1/` 导入五套原创模拟题并创建启用的蓝图。两个应用均加载同一迁移模块。商城 Swagger UI 地址为 <http://127.0.0.1:8080/swagger-ui.html>，内管 Swagger UI 地址为 <http://127.0.0.1:8081/swagger-ui.html>。
+
+### 三仓库本地启动顺序与代理
+
+1. 准备 MySQL 数据库和 Redis，向两个后端进程提供上述环境变量。MySQL 保存试卷、答案和历史；Redis 用于登录会话和并发组卷锁，两个依赖均需可用。
+2. 启动 `mall-shop-app`（默认 `8080`），等待应用与 Flyway 迁移完成；再启动 `mall-admin-app`（默认 `8081`），空管理员表需先提供初始化变量。两个服务必须持续运行。
+3. 在 `examPage` 的实际 checkout 中准备其 `package.json` 所需依赖，再运行 `npm run dev`；Node.js 要求为 `>=20.10.0`，Vite 端口固定为 `5174`，占用时因 `strictPort: true` 而退出。
+4. 在 `mallManagePage` 的实际 checkout 中准备其 `package.json` 所需依赖，再运行 `npm run dev`；Node.js 同样要求 `>=20.10.0`，Vite 配置端口为 `5173`，未设置 `strictPort`，浏览器地址以终端输出为准。
+
+两个 Vite 应用需在各自终端中持续运行。浏览器从对应前端地址进入，使用考生 / 商城账号或管理员账号登录；两类会话不可互换。以下对应关系来自两个前端现有的 `vite.config.ts` 和 `src/services/http.ts`，没有新增代理设置：
+
+| 前端 | 本地入口 | 浏览器请求前缀 | Vite 代理目标 |
+| --- | --- | --- | --- |
+| `examPage` | `http://localhost:5174` | `/api` | `http://127.0.0.1:8080` |
+| `mallManagePage` | `http://localhost:5173`（以实际输出为准） | `/admin/api` | `http://127.0.0.1:8081` |
+| `mallManagePage` 商品图片 | 同管理端入口 | `/images` | `http://127.0.0.1:8081` |
+
+代理不重写路径：例如 `/api/exams/current` 仍以完整路径交给 `8080`；`/admin/api/exam/records` 仍以完整路径交给 `8081`。不要删除 `/api` 或 `/admin/api` 前缀。
+
+### 生产同源 HTTPS 反向代理
+
+生产入口必须提供 HTTPS，并由 Web 服务器或网关在每个前端自己的同一域名、协议和端口下转发 API。考生站点的 `/api` 指向考生 / 商城服务 `8080`；管理站点的 `/admin/api` 指向管理服务 `8081`，管理图片 `/images` 也需有相应的服务路由。两个站点可以使用不同域名；“同源”要求是各自页面与自己的 API 同源。
+
+网关必须保留完整 API 路径、查询参数、请求体与 `Authorization`，并正确传递原始 HTTPS 协议和主机信息；两个 Spring Boot 应用已配置 `forward-headers-strategy: framework`。导入接口使用 multipart，管理应用的上传限制为单文件 `5MB`、整次请求 `6MB`，代理限制需与其协调。
+
+两个前端均使用无子路径参数的 `createWebHistory()`，适合分别挂载于各自站点根路径。页面路由刷新需要回退到对应前端的 `index.html`；API 与图片路由应优先匹配，不能被页面回退吞掉。把两个前端合并到同一域名的不同子路径需要另行设计并修改基础路径，当前配置未提供这种部署方式。
+
+`vite.config.ts` 中的 `server.proxy` 是本地开发配置；发布静态资源后仍需独立配置生产网关。后端拒绝 OPTIONS，不能依赖跨域预检直接访问服务端口。本仓库未提供或执行本次生产网关配置、部署及连通性验证。
+
+### Task 13 验收状态：按要求未执行
+
+本次仅更新运行文档；未创建 Playwright 配置或 E2E / 测试文件，未安装依赖、启动服务、执行测试、类型检查、lint、构建、全量 Maven 验证、视觉验收或代码审查，也未部署。下列计划中的验收矩阵全部刻意保留为未执行，不代表通过或失败：
+
+| 范围 | 原计划命令 / 验收内容 | 本次状态 |
+| --- | --- | --- |
+| `mallService` | `mvn test`、`mvn package -DskipTests` | 未执行 |
+| `examPage` | `npm run typecheck`、`npm run lint`、`npm run test`、`npm run build`、`npm run test:e2e` | 未执行；当前 `package.json` 没有 `lint`、`test`、`test:e2e` 脚本 |
+| `mallManagePage` | `npm run typecheck`、`npm run lint`、`npm run test`、`npm run build` | 未执行 |
+| 完整考试流程 | 登录、组卷、保存、刷新恢复、交卷、复盘、自评；进行中响应无敏感答案字段 | 未执行 |
+| 桌面布局 | 1024、1280、1440、1920px 下无横向滚动且提交按钮可见 | 未执行 |
+| 设计规格 §13.4 | 十项功能、数据、权限与质量验收标准 | 全部未执行，未取得运行验收结论 |
+
+这些是验收记录，不是本次执行指令。当前 `examPage` checkout 没有 `README.md`；按本次范围限制未创建该文件，因此三仓库运行说明集中补充于现有后端和管理端 README，考生端 README 仍缺失。
 
 ## 内管端接口
 
@@ -245,7 +284,7 @@ curl -X POST 'http://127.0.0.1:8080/api/exams/submit' \
 
 考试端浏览器通过开发服务器或 Nginx 将 `/api` 同源代理到商城服务 `8080`；管理端将 `/admin/api` 代理到内管服务 `8081`，代理须保留 `Authorization`。后端禁止 OPTIONS，不能依赖跨域预检直连。MySQL 保存试卷、答案和历史，Redis 同时用于登录会话和并发组卷锁，两个依赖均需运行。
 
-初始内容定位为五套容量的原创模拟题（`ORIGINAL_SIMULATION`），不是官方历年真题。当前 V12 只创建考试领域结构；运行组卷前还需初始化并启用蓝图，导入足量且审核通过、版权合规的题库。导入提交只生成草稿，题源和题目仍需审核发布；容量不足返回 `EXAM_BANK_INSUFFICIENT`。
+初始内容定位为五套容量的原创模拟题（`ORIGINAL_SIMULATION`），不是官方历年真题。V12 创建考试领域结构，V13 创建启用的 `DEGREE_ENGLISH_2016_V2` 蓝图，并导入已审核、启用的原创题源和五套种子内容；本次未运行迁移或容量验收。后续通过管理端导入提交的内容只生成草稿，题源和题目仍需审核发布；容量不足返回 `EXAM_BANK_INSUFFICIENT`。
 
 关于接口用于展示商城基础信息，当前版本为 `1.0.0`，商城主要售卖新鲜、优质的时令水果：
 
