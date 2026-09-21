@@ -8,6 +8,9 @@ import com.mall.exam.paper.dto.ExamPaperResponse;
 import com.mall.exam.paper.lock.ExamGenerationLock;
 import com.mall.exam.paper.mapper.ExamPaperMapper;
 import com.mall.exam.paper.model.*;
+import com.mall.exam.paper.template.dto.FixedPaperSummary;
+import com.mall.exam.paper.template.model.*;
+import com.mall.exam.paper.template.repository.FixedPaperTemplateRepository;
 import com.mall.exam.question.model.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +20,7 @@ import org.springframework.transaction.support.TransactionTemplate;
 import java.math.BigDecimal;
 import java.time.*;
 import java.util.*;
+import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 @Service
@@ -27,6 +31,7 @@ public class ExamPaperService {
     private final TransactionTemplate transaction;
     private final Clock clock;
     private ExamAttemptService attempts;
+    private FixedPaperTemplateRepository fixedPapers;
     public ExamPaperService(ExamPaperMapper mapper,ExamPaperAssembler assembler,ExamGenerationLock lock,PlatformTransactionManager transactions,Clock clock) {
         this.mapper=mapper;this.assembler=assembler;this.lock=lock;this.clock=clock;
         transaction=new TransactionTemplate(transactions);
@@ -37,12 +42,27 @@ public class ExamPaperService {
     /** Required Spring collaborator; setter preserves the existing assembly constructor contract. */
     @Autowired
     public void setAttemptService(ExamAttemptService attempts) { this.attempts=Objects.requireNonNull(attempts); }
+    @Autowired
+    public void setFixedPaperTemplateRepository(FixedPaperTemplateRepository fixedPapers) {
+        this.fixedPapers=Objects.requireNonNull(fixedPapers);
+    }
+    public List<FixedPaperSummary> listFixedPapers() {
+        return fixedPapers.listPublished();
+    }
+    public ExamPaperResponse generateFixedPaper(Long userId,String paperCode) {
+        if(userId==null||userId<=0||paperCode==null||!paperCode.matches("[A-Za-z0-9][A-Za-z0-9_-]{0,63}"))
+            throw new BusinessException(HttpStatus.BAD_REQUEST,ErrorCode.VALIDATION_ERROR);
+        return generateOrResume(userId,()->generateFixed(userId,paperCode));
+    }
     public ExamPaperResponse current(long userId) {
         if(attempts!=null)return attempts.current(userId);
         ExamPaperEntity existing=mapper.findInProgress(userId);
         return existing==null?null:resume(existing,userId);
     }
     public ExamPaperResponse generateOrResume(long userId) {
+        return generateOrResume(userId,()->generate(userId));
+    }
+    private ExamPaperResponse generateOrResume(long userId,Supplier<ExamPaperEntity> create) {
         ExamPaperEntity existing=mapper.findInProgress(userId);
         if(existing!=null)return resume(existing,userId);
         String key="mall:exam:generate:user:"+userId;
@@ -55,7 +75,7 @@ public class ExamPaperService {
                 if(mapper.lockUser(userId)==null)throw new BusinessException(HttpStatus.NOT_FOUND,ErrorCode.USER_NOT_FOUND);
                 ExamPaperEntity resumed=mapper.findInProgress(userId);
                 if(resumed!=null)return resumed;
-                return generate(userId);
+                return create.get();
             });
             // Release the user row lock before the attempt transaction inserts wrong records
             // (their user FK also locks that row). The Redis generation lease still belongs to us.
@@ -69,6 +89,47 @@ public class ExamPaperService {
                 else throw releaseFailure;
             }
         }
+    }
+    private ExamPaperEntity generateFixed(long userId,String paperCode) {
+        FixedPaperTemplate template=fixedPapers.findPublished(paperCode)
+            .orElseThrow(()->new BusinessException(HttpStatus.NOT_FOUND,ErrorCode.EXAM_NOT_FOUND));
+        ExamBlueprintDefinition blueprint=ExamBlueprintDefinition.degreeEnglish2016V2();
+        ExamPaperMapper.BlueprintRow row=mapper.findEnabledBlueprint(blueprint.getCode());
+        FixedPaperTemplateValidator.validate(template,blueprint,row);
+
+        ExamPaperEntity paper=new ExamPaperEntity();
+        paper.setUserId(userId);paper.setBlueprintId(template.getBlueprintId());
+        paper.setBlueprintVersionSnapshot(template.getBlueprintVersionSnapshot());
+        paper.setFixedPaperId(template.getId());paper.setFixedPaperCode(template.getPaperCode());
+        paper.setFixedPaperVersion(template.getVersion());
+        paper.setPaperNo("DE-"+UUID.randomUUID().toString().replace("-","").toUpperCase(Locale.ROOT));
+        paper.setStatus("IN_PROGRESS");paper.setStartedAt(LocalDateTime.now(clock));
+        paper.setDueAt(paper.getStartedAt().plusMinutes(template.getDurationMinutes()));paper.setVersion(0);
+        requireInsert(mapper.insertPaper(paper),paper.getId());
+
+        Map<Long,Long> groupIds=new HashMap<>();
+        for(FixedPaperTemplateGroup group:template.getGroups()) {
+            ExamPaperGroupSnapshotEntity snapshot=new ExamPaperGroupSnapshotEntity();
+            snapshot.setPaperId(paper.getId());snapshot.setOriginalGroupId(group.getOriginalGroupId());
+            snapshot.setSectionOrder(group.getSectionOrder());snapshot.setGroupOrder(group.getGroupOrder());
+            snapshot.setTitle(group.getTitle());snapshot.setInstruction(group.getInstruction());
+            snapshot.setContent(group.getContent());snapshot.setSharedOptions(group.getSharedOptions());
+            requireInsert(mapper.insertGroupSnapshot(snapshot),snapshot.getId());
+            groupIds.put(group.getId(),snapshot.getId());
+        }
+        for(FixedPaperTemplateItem item:template.getItems()) {
+            ExamPaperItemSnapshotEntity snapshot=new ExamPaperItemSnapshotEntity();
+            snapshot.setPaperId(paper.getId());snapshot.setOriginalQuestionId(item.getOriginalQuestionId());
+            snapshot.setPaperGroupSnapshotId(groupIds.get(item.getFixedPaperGroupId()));
+            snapshot.setSectionOrder(item.getSectionOrder());snapshot.setItemOrder(item.getItemOrder());
+            snapshot.setQuestionType(item.getQuestionType());snapshot.setStem(item.getStem());snapshot.setOptions(item.getOptions());
+            snapshot.setCorrectAnswer(item.getCorrectAnswer());snapshot.setExplanation(item.getExplanation());
+            snapshot.setReferenceAnswer(item.getReferenceAnswer());snapshot.setSampleAnswer(item.getSampleAnswer());
+            snapshot.setScoringRubric(item.getScoringRubric());snapshot.setKnowledgePoints(item.getKnowledgePoints());
+            snapshot.setScore(item.getScore());
+            requireInsert(mapper.insertItemSnapshot(snapshot),snapshot.getId());
+        }
+        return paper;
     }
     private ExamPaperEntity generate(long userId) {
         ExamBlueprintDefinition blueprint=ExamBlueprintDefinition.degreeEnglish2016V2();

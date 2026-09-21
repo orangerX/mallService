@@ -23,7 +23,7 @@
     </resultMap>
     <!-- Answer/state operations lock an owned paper; history queries always filter by authenticated user. -->
     <select id="findPaperForUpdate" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.paper">
-        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,
+        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,fixed_paper_id,fixed_paper_code,fixed_paper_version,status,started_at,due_at,
                submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,
                version,created_at,updated_at
         FROM exam_paper WHERE id=#{paperId} AND user_id=#{userId} FOR UPDATE
@@ -47,7 +47,7 @@
         FROM exam_wrong_record WHERE user_id=#{userId} AND paper_id=#{paperId} ORDER BY paper_item_id
     </select>
     <select id="findRecords" resultMap="com.mall.exam.paper.mapper.ExamPaperMapper.paper">
-        SELECT id,paper_no,status,started_at,due_at,submitted_at,objective_score,
+        SELECT id,paper_no,fixed_paper_id,fixed_paper_code,fixed_paper_version,status,started_at,due_at,submitted_at,objective_score,
                translation_self_score,writing_self_score,self_score_total
         FROM exam_paper WHERE user_id=#{userId}
         ORDER BY started_at DESC,id DESC LIMIT #{size} OFFSET #{offset}

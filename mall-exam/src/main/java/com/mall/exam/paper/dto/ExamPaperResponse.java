@@ -10,6 +10,8 @@ import java.util.stream.Collectors;
 public final class ExamPaperResponse {
     public final Long id;
     public final String paperNo,status,blueprintVersion;
+    public final String fixedPaperCode;
+    public final Integer fixedPaperVersion;
     public final LocalDateTime startedAt,dueAt,serverTime;
     public final List<Group> groups;
     public final List<Item> items;
@@ -21,6 +23,7 @@ public final class ExamPaperResponse {
     public ExamPaperResponse(ExamPaperEntity paper,List<ExamPaperGroupSnapshotEntity> groups,List<ExamPaperItemSnapshotEntity> items,LocalDateTime serverTime,
                              List<SavedAnswerResponse> answers,ExamResultResponse result) {
         id=paper.getId();paperNo=paper.getPaperNo();status=paper.getStatus();blueprintVersion=paper.getBlueprintVersionSnapshot();
+        fixedPaperCode=paper.getFixedPaperCode();fixedPaperVersion=paper.getFixedPaperVersion();
         startedAt=paper.getStartedAt();dueAt=paper.getDueAt();this.serverTime=serverTime;
         this.groups=Collections.unmodifiableList(groups.stream().map(Group::new).collect(Collectors.toList()));
         this.items=Collections.unmodifiableList(items.stream().map(Item::new).collect(Collectors.toList()));

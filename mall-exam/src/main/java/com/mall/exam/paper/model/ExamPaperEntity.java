@@ -6,6 +6,9 @@ public class ExamPaperEntity {
     private Long id;
     private Long userId;
     private Long blueprintId;
+    private Long fixedPaperId;
+    private String fixedPaperCode;
+    private Integer fixedPaperVersion;
     private String paperNo;
     private String blueprintVersionSnapshot;
     private String status;
@@ -25,6 +28,12 @@ public class ExamPaperEntity {
     public void setUserId(Long userId){this.userId=userId;}
     public Long getBlueprintId(){return blueprintId;}
     public void setBlueprintId(Long blueprintId){this.blueprintId=blueprintId;}
+    public Long getFixedPaperId(){return fixedPaperId;}
+    public void setFixedPaperId(Long fixedPaperId){this.fixedPaperId=fixedPaperId;}
+    public String getFixedPaperCode(){return fixedPaperCode;}
+    public void setFixedPaperCode(String fixedPaperCode){this.fixedPaperCode=fixedPaperCode;}
+    public Integer getFixedPaperVersion(){return fixedPaperVersion;}
+    public void setFixedPaperVersion(Integer fixedPaperVersion){this.fixedPaperVersion=fixedPaperVersion;}
     public String getPaperNo(){return paperNo;}
     public void setPaperNo(String paperNo){this.paperNo=paperNo;}
     public String getBlueprintVersionSnapshot(){return blueprintVersionSnapshot;}

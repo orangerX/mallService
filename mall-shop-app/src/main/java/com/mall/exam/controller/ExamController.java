@@ -11,7 +11,9 @@ import com.mall.exam.attempt.dto.WrongSummaryResponse;
 import com.mall.exam.attempt.service.ExamAttemptService;
 import com.mall.exam.dto.SubmitExamRequest;
 import com.mall.exam.paper.dto.ExamPaperResponse;
+import com.mall.exam.paper.dto.GenerateFixedPaperRequest;
 import com.mall.exam.paper.service.ExamPaperService;
+import com.mall.exam.paper.template.dto.FixedPaperSummary;
 import com.mall.security.AuthenticatedUser;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.validation.annotation.Validated;
@@ -26,6 +28,7 @@ import javax.validation.Valid;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.Positive;
+import java.util.List;
 
 @Validated
 @RestController
@@ -42,6 +45,17 @@ public class ExamController {
     @PostMapping("/generate")
     public ApiResponse<ExamPaperResponse> generate(@AuthenticationPrincipal AuthenticatedUser user) {
         return ApiResponse.success(papers.generateOrResume(user.getUserId()));
+    }
+
+    @GetMapping("/fixed-papers")
+    public ApiResponse<List<FixedPaperSummary>> fixedPapers() {
+        return ApiResponse.success(papers.listFixedPapers());
+    }
+
+    @PostMapping("/fixed-papers/generate")
+    public ApiResponse<ExamPaperResponse> generateFixed(@AuthenticationPrincipal AuthenticatedUser user,
+                                                       @Valid @RequestBody GenerateFixedPaperRequest request) {
+        return ApiResponse.success(papers.generateFixedPaper(user.getUserId(), request.paperCode));
     }
 
     @GetMapping("/current")

@@ -6,6 +6,9 @@
         <result column="user_id" property="userId"/>
         <result column="paper_no" property="paperNo"/>
         <result column="blueprint_id" property="blueprintId"/>
+        <result column="fixed_paper_id" property="fixedPaperId"/>
+        <result column="fixed_paper_code" property="fixedPaperCode"/>
+        <result column="fixed_paper_version" property="fixedPaperVersion"/>
         <result column="blueprint_version_snapshot" property="blueprintVersionSnapshot"/>
         <result column="status" property="status"/>
         <result column="started_at" property="startedAt"/>
@@ -54,7 +57,7 @@
         <result column="member_count" property="memberCount"/>
     </resultMap>
     <select id="findInProgress" resultMap="paper">
-        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,version,created_at,updated_at
+        SELECT id,user_id,paper_no,blueprint_id,blueprint_version_snapshot,fixed_paper_id,fixed_paper_code,fixed_paper_version,status,started_at,due_at,submitted_at,objective_score,translation_self_score,writing_self_score,self_score_total,version,created_at,updated_at
         FROM exam_paper WHERE user_id=#{userId} AND status='IN_PROGRESS'
         ORDER BY started_at DESC,id DESC LIMIT 1
     </select>
@@ -102,8 +105,8 @@
         SELECT DISTINCT g.original_group_id FROM exam_paper_group_snapshot g JOIN exam_paper p ON p.id=g.paper_id WHERE p.user_id=#{userId}
     </select>
     <insert id="insertPaper" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
-        INSERT INTO exam_paper (user_id,paper_no,blueprint_id,blueprint_version_snapshot,status,started_at,due_at,version)
-        VALUES (#{userId},#{paperNo},#{blueprintId},#{blueprintVersionSnapshot},#{status},#{startedAt},#{dueAt},#{version})
+        INSERT INTO exam_paper (user_id,paper_no,blueprint_id,blueprint_version_snapshot,fixed_paper_id,fixed_paper_code,fixed_paper_version,status,started_at,due_at,version)
+        VALUES (#{userId},#{paperNo},#{blueprintId},#{blueprintVersionSnapshot},#{fixedPaperId},#{fixedPaperCode},#{fixedPaperVersion},#{status},#{startedAt},#{dueAt},#{version})
     </insert>
     <insert id="insertGroupSnapshot" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
         INSERT INTO exam_paper_group_snapshot (paper_id,original_group_id,section_order,group_order,title,instruction,content,shared_options)
