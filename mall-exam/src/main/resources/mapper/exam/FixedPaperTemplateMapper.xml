@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mall.exam.paper.template.mapper.FixedPaperTemplateMapper">
+    <resultMap id="template" type="com.mall.exam.paper.template.model.FixedPaperTemplate">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long"/>
+            <arg column="paper_code" javaType="java.lang.String"/>
+            <arg column="version" javaType="java.lang.Integer"/>
+            <arg column="title" javaType="java.lang.String"/>
+            <arg column="blueprint_id" javaType="java.lang.Long"/>
+            <arg column="blueprint_code" javaType="java.lang.String"/>
+            <arg column="blueprint_version_snapshot" javaType="java.lang.String"/>
+            <arg column="duration_minutes" javaType="java.lang.Integer"/>
+            <arg column="total_score" javaType="java.math.BigDecimal"/>
+            <arg column="source_id" javaType="java.lang.Long"/>
+            <arg column="source_declaration" javaType="java.lang.String"/>
+            <arg column="content_fingerprint" javaType="java.lang.String"/>
+            <arg column="display_order" javaType="java.lang.Integer"/>
+            <arg column="status" javaType="java.lang.String"/>
+            <arg column="published_at" javaType="java.time.LocalDateTime"/>
+            <arg column="created_at" javaType="java.time.LocalDateTime"/>
+        </constructor>
+    </resultMap>
+    <resultMap id="group" type="com.mall.exam.paper.template.model.FixedPaperTemplateGroup">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long"/>
+            <arg column="fixed_paper_id" javaType="java.lang.Long"/>
+            <arg column="original_group_id" javaType="java.lang.Long"/>
+            <arg column="source_id" javaType="java.lang.Long"/>
+            <arg column="content_fingerprint" javaType="java.lang.String"/>
+            <arg column="section_order" javaType="java.lang.Integer"/>
+            <arg column="group_order" javaType="java.lang.Integer"/>
+            <arg column="group_type" javaType="java.lang.String"/>
+            <arg column="title" javaType="java.lang.String"/>
+            <arg column="instruction" javaType="java.lang.String"/>
+            <arg column="content" javaType="java.lang.String"/>
+            <arg column="shared_options" javaType="java.lang.String"/>
+            <arg column="created_at" javaType="java.time.LocalDateTime"/>
+        </constructor>
+    </resultMap>
+    <resultMap id="item" type="com.mall.exam.paper.template.model.FixedPaperTemplateItem">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long"/>
+            <arg column="fixed_paper_id" javaType="java.lang.Long"/>
+            <arg column="fixed_paper_group_id" javaType="java.lang.Long"/>
+            <arg column="original_question_id" javaType="java.lang.Long"/>
+            <arg column="source_id" javaType="java.lang.Long"/>
+            <arg column="content_fingerprint" javaType="java.lang.String"/>
+            <arg column="section_order" javaType="java.lang.Integer"/>
+            <arg column="item_order" javaType="java.lang.Integer"/>
+            <arg column="question_type" javaType="java.lang.String"/>
+            <arg column="stem" javaType="java.lang.String"/>
+            <arg column="options" javaType="java.lang.String"/>
+            <arg column="correct_answer" javaType="java.lang.String"/>
+            <arg column="explanation" javaType="java.lang.String"/>
+            <arg column="reference_answer" javaType="java.lang.String"/>
+            <arg column="sample_answer" javaType="java.lang.String"/>
+            <arg column="scoring_rubric" javaType="java.lang.String"/>
+            <arg column="knowledge_points" javaType="java.lang.String"/>
+            <arg column="score" javaType="java.math.BigDecimal"/>
+            <arg column="created_at" javaType="java.time.LocalDateTime"/>
+        </constructor>
+    </resultMap>
+    <resultMap id="summary" type="com.mall.exam.paper.template.dto.FixedPaperSummary">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long"/>
+            <arg column="paper_code" javaType="java.lang.String"/>
+            <arg column="version" javaType="java.lang.Integer"/>
+            <arg column="title" javaType="java.lang.String"/>
+            <arg column="blueprint_id" javaType="java.lang.Long"/>
+            <arg column="blueprint_code" javaType="java.lang.String"/>
+            <arg column="blueprint_version_snapshot" javaType="java.lang.String"/>
+            <arg column="duration_minutes" javaType="java.lang.Integer"/>
+            <arg column="total_score" javaType="java.math.BigDecimal"/>
+            <arg column="source_declaration" javaType="java.lang.String"/>
+            <arg column="display_order" javaType="java.lang.Integer"/>
+            <arg column="group_count" javaType="java.lang.Integer"/>
+            <arg column="item_count" javaType="java.lang.Integer"/>
+        </constructor>
+    </resultMap>
+
+    <!-- Source approval and blueprint enablement govern new attempts only. Snapshot
+         loading never joins mutable source questions or reconstructs their content. -->
+    <sql id="publishedTables">
+        FROM exam_fixed_paper f
+        JOIN exam_blueprint b ON b.id = f.blueprint_id
+        JOIN exam_question_source s ON s.id = f.source_id
+    </sql>
+    <sql id="selectablePublication">
+        f.status = 'PUBLISHED'
+        AND b.status = 'ENABLED'
+        AND s.enabled = 1 AND s.review_status = 'APPROVED' AND s.copyright_status = 'ORIGINAL'
+        AND NOT EXISTS (
+            SELECT 1 FROM exam_fixed_paper newer
+            WHERE newer.paper_code = f.paper_code AND newer.version &gt; f.version
+              AND newer.status IN ('PUBLISHED', 'DISABLED')
+        )
+    </sql>
+    <select id="findPublished" resultMap="template">
+        SELECT f.id, f.paper_code, f.version, f.title, f.blueprint_id, b.blueprint_code, f.blueprint_version_snapshot, f.duration_minutes, f.total_score, f.source_id, f.source_declaration, f.content_fingerprint, f.display_order, f.status, f.published_at, f.created_at
+        <include refid="publishedTables"/>
+        WHERE f.paper_code = #{paperCode} AND <include refid="selectablePublication"/>
+        ORDER BY f.version DESC LIMIT 1
+    </select>
+    <select id="listPublished" resultMap="summary">
+        SELECT f.id, f.paper_code, f.version, f.title, f.blueprint_id, b.blueprint_code, f.blueprint_version_snapshot, f.duration_minutes, f.total_score, f.source_declaration, f.display_order,
+            (SELECT COUNT(*) FROM exam_fixed_paper_group g WHERE g.fixed_paper_id = f.id) AS group_count,
+            (SELECT COUNT(*) FROM exam_fixed_paper_item i WHERE i.fixed_paper_id = f.id) AS item_count
+        <include refid="publishedTables"/>
+        WHERE <include refid="selectablePublication"/>
+        ORDER BY f.display_order, f.paper_code, f.id
+    </select>
+    <select id="findGroups" resultMap="group">
+        SELECT id, fixed_paper_id, original_group_id, source_id, content_fingerprint, section_order, group_order, group_type, title, instruction, content, shared_options, created_at
+        FROM exam_fixed_paper_group
+        WHERE fixed_paper_id = #{fixedPaperId}
+        ORDER BY section_order, group_order, id
+    </select>
+    <select id="findItems" resultMap="item">
+        SELECT id, fixed_paper_id, fixed_paper_group_id, original_question_id, source_id, content_fingerprint, section_order, item_order, question_type, stem, options, correct_answer, explanation, reference_answer, sample_answer, scoring_rubric, knowledge_points, score, created_at
+        FROM exam_fixed_paper_item
+        WHERE fixed_paper_id = #{fixedPaperId}
+        ORDER BY section_order, item_order, id
+    </select>
+</mapper>
