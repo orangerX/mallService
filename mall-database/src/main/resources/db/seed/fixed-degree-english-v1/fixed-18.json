@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-18",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 18 · 手工展览与文化传承",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 18,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the community-exhibition briefing",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the community-exhibition briefing at Copper Lane Craft Hall.\nCoordinator: (1) _____\nVisitor: Friday evening would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Please come to the display preparation room.",
+        "B": "Bring a notebook; we can provide a label printer.",
+        "C": "Contact Copper Lane Craft Hall before the session so that we can offer your place to someone else.",
+        "D": "Which day would be convenient for you to attend?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the community-exhibition briefing\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please come to the display preparation room.",
+            "B": "Bring a notebook; we can provide a label printer.",
+            "C": "Contact Copper Lane Craft Hall before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "362a45f96804e5ede23a5facf25680001237cab85b065ceb6a6d450676cbfc49"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the community-exhibition briefing\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please come to the display preparation room.",
+            "B": "Bring a notebook; we can provide a label printer.",
+            "C": "Contact Copper Lane Craft Hall before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a35b8279b5e405f3e83d19e447bbd559482bb56c16f2f86c4d91f7f07cc90eaf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the community-exhibition briefing\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please come to the display preparation room.",
+            "B": "Bring a notebook; we can provide a label printer.",
+            "C": "Contact Copper Lane Craft Hall before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a8a3839503abc77aa1ac7305b5019173302116950953752b67f4b6094e7cf7d8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the community-exhibition briefing\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Please come to the display preparation room.",
+            "B": "Bring a notebook; we can provide a label printer.",
+            "C": "Contact Copper Lane Craft Hall before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ec3565aab3d4d99811407b3809c27734cc482e6a3f325bfaf5b700f4858bdfdf"
+        }
+      ],
+      "contentFingerprint": "04a4d1c7c075ab3658d7c4cacc0d71e27ba3604f6a2bae2bdd4a5d4a5ccabf60"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Copper Lane Craft Hall",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a label printer from Copper Lane Craft Hall, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The paper feed is jammed. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the community-exhibition briefing?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Please leave it with us and complete a short fault report.",
+        "B": "You must purchase every item you use at the session.",
+        "C": "Could you describe the fault you noticed?",
+        "D": "Yes. You can use the printer at the ticket counter."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Copper Lane Craft Hall\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the printer at the ticket counter."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7f4f7e1a5c50ba01120af3fd4d93f5203e3b19410c1865e79f08ce9bb7e37fe5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Copper Lane Craft Hall\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the printer at the ticket counter."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "858eaa7a4fc96725e933a203480c3212490d306e34214df9aba7b0abd19787f4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Copper Lane Craft Hall\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the printer at the ticket counter."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bcb35cd7772c5bf6309734127a8da7b31370ffc25b95c6d01def9fbe18708630"
+        }
+      ],
+      "contentFingerprint": "cb58f562792bbed8e28c381edd35815f201455daa36af8fe3e2603003f2ba94b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Copper Lane Craft Hall",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the community-exhibition briefing, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You should promise to solve every problem without asking anyone.",
+        "B": "You could welcome visitors at the display preparation room while the other volunteers prepare.",
+        "C": "Use the current map of Copper Lane Craft Hall and the list of rooms for the community-exhibition briefing.",
+        "D": "Ask the session coordinator to help; you do not have to guess."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Copper Lane Craft Hall\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the display preparation room while the other volunteers prepare.",
+            "C": "Use the current map of Copper Lane Craft Hall and the list of rooms for the community-exhibition briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0bf4e411a071774f12011a3cbcd4f27f4bbc93a16a4f90b6a2ca72b6d1830eff"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Copper Lane Craft Hall\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the display preparation room while the other volunteers prepare.",
+            "C": "Use the current map of Copper Lane Craft Hall and the list of rooms for the community-exhibition briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6425ae5042022e305633c1afc9fafe0bd8c0381fdecfa8436c59fb9af7e694eb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Copper Lane Craft Hall\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the display preparation room while the other volunteers prepare.",
+            "C": "Use the current map of Copper Lane Craft Hall and the list of rooms for the community-exhibition briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ea42c4dea9d0d7ae800b07e4ca4f64c2dad451dbce706656c8cdd5bf3732e525"
+        }
+      ],
+      "contentFingerprint": "00e38c244ccecfb6b4ba501e2d0eac0ee51728806f9dcd0dd73beeef8669ecfe"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The bowl with an uneven edge",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "At Copper Lane's craft exhibition, a visitor assumed that an uneven bowl was an unfinished mistake. The maker explained how hand pressure and firing affected its shape, then showed the marks left by each stage. The visitor still preferred a smoother style but understood the work differently. The label did not tell people what they had to admire. It offered information that could make their judgement more informed. A finished object became a starting point for discussing choices, materials and skill rather than simply an item to praise or reject at first glance.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The bowl with an uneven edge\"?",
+          "options": {
+            "A": "Using an object to explain a maker's choices",
+            "B": "Matching practical teaching to a physical skill",
+            "C": "Making the labour behind a craft price visible",
+            "D": "Connecting an exhibition with a limited practical experience"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Using an object to explain a maker's choices”展开：Understanding a process can deepen judgement without requiring agreement in taste.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "704a5b0ad1c7813886bf265b3a8d2783d328af2f1b64d4f7b78b5d9fd8054062"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The bowl with an uneven edge\", what did the maker explain about the bowl?",
+          "options": {
+            "A": "Why the bowl had never been fired.",
+            "B": "How different stages of making affected its shape.",
+            "C": "Why the visitor had to prefer uneven objects.",
+            "D": "How to mass-produce every bowl identically."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 How different stages of making affected its shape.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "15f464fd7c9627737a75a10a437476cb79b359b930c35ef912607621fa2359bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The bowl with an uneven edge\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Understanding a process can deepen judgement without requiring agreement in taste.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Understanding a process can deepen judgement without requiring agreement in taste.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "4ceabcfdc8a873d1e75e5fbedeecec4ac01bf98a7985d5ed99e1c40d6aea91aa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The bowl with an uneven edge\", the word \"admire\" is closest in meaning to _____.",
+          "options": {
+            "A": "a means of presenting or communicating something",
+            "B": "things considered most important",
+            "C": "carried out under responsible guidance",
+            "D": "regard with pleasure or respect"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，admire 的含义为 regard with pleasure or respect。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "45b5017160a5b97cd59ef2b27fbfca80d39a148deac7ab737ba6ab70e43132b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The bowl with an uneven edge\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7f131f080b6a5cfba7c7245a6eddb7b851b30531c3c9d69f21cd2ea3224e62ed"
+        }
+      ],
+      "contentFingerprint": "524b17c2affef3dce941e43ea8c030f19e0f594f676c0553ab4735ea72a6d21a"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Watching hands instead of slides",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A craft tutor prepared a detailed presentation about basket weaving. Learners understood the vocabulary but struggled to start. She replaced part of the presentation with a close demonstration, pausing at the point where one strip passed behind another. Learners then tried the movement and described what felt difficult. Pictures and notes remained useful reminders, but they could not replace the experience of handling the material. The tutor learnt to choose the medium according to the skill. Knowing the name of a movement was different from being able to perform it.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Watching hands instead of slides\"?",
+          "options": {
+            "A": "Connecting an exhibition with a limited practical experience",
+            "B": "Matching practical teaching to a physical skill",
+            "C": "Using an object to explain a maker's choices",
+            "D": "Making the labour behind a craft price visible"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Matching practical teaching to a physical skill”展开：Different kinds of learning may require different forms of instruction.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "84f9911cc4095a37a5169921c5ff7fcc748667268403b66101d808e228d1b6c6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Watching hands instead of slides\", what helped learners begin the weaving movement?",
+          "options": {
+            "A": "A rule against touching the materials.",
+            "B": "An examination before any demonstration.",
+            "C": "A close demonstration followed by their own practice.",
+            "D": "A longer list of technical words alone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 A close demonstration followed by their own practice.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4a2152c6b3e3b0b218e00bb4d5b99bed4336deb9b498b860404acbe8b76555e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Watching hands instead of slides\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Different kinds of learning may require different forms of instruction."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Different kinds of learning may require different forms of instruction.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a1f382a0091b1e666ffb7adb4b157c83cc5220090db269822ac11d4825c13b1d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Watching hands instead of slides\", the word \"medium\" is closest in meaning to _____.",
+          "options": {
+            "A": "a means of presenting or communicating something",
+            "B": "regard with pleasure or respect",
+            "C": "things considered most important",
+            "D": "carried out under responsible guidance"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，medium 的含义为 a means of presenting or communicating something。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "56da702967cccaebb51e05d2a0fe5a1baae5964564a68ec0301b182fb146bdfa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Watching hands instead of slides\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "5a2fac50d921ef2ecd2a06345ab4c3fee76a11e9b7e503a223f136c1e9ead734"
+        }
+      ],
+      "contentFingerprint": "96e5c2e85d1024ac1a47ef1aa1d4bea7f9551c98e68554a70aa4041b8e5eae37"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A price tag and an explanation",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A local craft seller often heard that her scarves cost more than factory-made ones. She added a short account of the work involved, including preparation, weaving and finishing. Some visitors continued to choose cheaper products, which she accepted. Others began asking about the process and ordering fewer but longer-lasting items. The explanation was not a demand that everyone share her priorities. It made a hidden part of the price visible. Clear information supported a more informed choice while leaving customers free to decide what fitted their needs and budgets.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A price tag and an explanation\"?",
+          "options": {
+            "A": "Matching practical teaching to a physical skill",
+            "B": "Connecting an exhibition with a limited practical experience",
+            "C": "Making the labour behind a craft price visible",
+            "D": "Using an object to explain a maker's choices"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Making the labour behind a craft price visible”展开：Explaining a price can inform customers without obliging them to buy.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "cb6c956f919e73224aa40d090e685b9b62fff5681b100f4eafecc7f74049cf7d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A price tag and an explanation\", what information did the seller add?",
+          "options": {
+            "A": "A demand that every visitor purchase two scarves.",
+            "B": "The prices of unrelated electrical equipment.",
+            "C": "A promise that handmade goods always cost less.",
+            "D": "The stages of work involved in making a scarf."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 The stages of work involved in making a scarf.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "70bba7b6b827297087dd036686d96fdae951faf2731b0794b90c7070650b9b22"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A price tag and an explanation\"?",
+          "options": {
+            "A": "Explaining a price can inform customers without obliging them to buy.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Explaining a price can inform customers without obliging them to buy.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "291a45bfc2c07412e8c93cc9727129d6c8386996a8bb9c7a3f23fa5ca78bb9d1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A price tag and an explanation\", the word \"priorities\" is closest in meaning to _____.",
+          "options": {
+            "A": "carried out under responsible guidance",
+            "B": "things considered most important",
+            "C": "regard with pleasure or respect",
+            "D": "a means of presenting or communicating something"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，priorities 的含义为 things considered most important。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "37da844bee9c9a88822f34c1d6adcfb769bca94212899635d86801606e9b1899"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A price tag and an explanation\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "c6dab3369fa9243a7b8a8e97deec1840f202f165358377e69a101192b3f885d6"
+        }
+      ],
+      "contentFingerprint": "ed0ad1f5ac2aea19a569d5e3b8d51a6bfdadb019d9a982d1e861d0ae05fed00d"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The workshop after the exhibition",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A town displayed old woodworking tools but noticed that younger visitors spent little time with them. A retired carpenter offered short supervised sessions using safe demonstration materials. Participants then returned to the display to identify tools related to their experience. The sessions did not make them skilled carpenters, and access to sharp equipment remained controlled. They gave the objects a practical context. Attendance figures mattered, but organisers also listened to the questions visitors asked afterwards. A small experience could create curiosity that a longer written description had not managed to produce.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The workshop after the exhibition\"?",
+          "options": {
+            "A": "Using an object to explain a maker's choices",
+            "B": "Matching practical teaching to a physical skill",
+            "C": "Making the labour behind a craft price visible",
+            "D": "Connecting an exhibition with a limited practical experience"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Connecting an exhibition with a limited practical experience”展开：Participation can create interest in information that previously seemed distant.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "4ed1d705c80c32493573a28626a55e26505218c66733f0fe702681fd24fb1d2e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The workshop after the exhibition\", what happened after visitors tried the supervised activity?",
+          "options": {
+            "A": "They returned to the display with a practical point of reference.",
+            "B": "They were permitted to use every sharp tool alone.",
+            "C": "They stopped asking questions about the display.",
+            "D": "They became qualified carpenters immediately."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 They returned to the display with a practical point of reference.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "a30a2c180277953c3b39a86fd19c0d1c37effeeaf27862f5f18818cab551b1b5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The workshop after the exhibition\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Participation can create interest in information that previously seemed distant.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Participation can create interest in information that previously seemed distant.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "da720438d8b629fd0992734636e7c672f222841a8b2f47ee50d6b0ceda0edf39"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The workshop after the exhibition\", the word \"supervised\" is closest in meaning to _____.",
+          "options": {
+            "A": "a means of presenting or communicating something",
+            "B": "things considered most important",
+            "C": "carried out under responsible guidance",
+            "D": "regard with pleasure or respect"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，supervised 的含义为 carried out under responsible guidance。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "662199716d5d48d456acceb565aafd824238c926be43bdee1a701cb040c0c789"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The workshop after the exhibition\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "251b71b4f445638e6180aaf198936ab3473ece748a2dcbe88264e6d95d34e5fb"
+        }
+      ],
+      "contentFingerprint": "5d4d90f9917bd64a0bd29dae71305eb390c33af613bc4888e24084a14f92be3c"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The instructor said that learning at the community-exhibition briefing would be a _____ process rather than an instant change.",
+      "options": {
+        "A": "guilty",
+        "B": "gradual",
+        "C": "grateful",
+        "D": "grand"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "gradual 表示逐步的，与 instant change 对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "96e794f35ee89c8469b5e09680b618bd2c6f374424893759b944765b9ac1c79f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The organisers at Copper Lane Craft Hall agreed to _____ the session until the damaged equipment was replaced.",
+      "options": {
+        "A": "preserve",
+        "B": "purchase",
+        "C": "postpone",
+        "D": "predict"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "postpone 表示推迟；因设备损坏而延后活动。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "041d5080905949a84997d3c575bd668f79395750db0f3033b7938b93b103d841"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Clear instructions made the community-exhibition briefing _____ to people with little previous experience.",
+      "options": {
+        "A": "accidental",
+        "B": "anxious",
+        "C": "absent",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible 表示易于使用或理解，符合缺乏经验者也能参与的语境。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cf613d7f405d9fa9a14ed4e81ea7a0d6758d6abbf67c9e568d8702e2dfaa7bcd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Before lending out a label printer, the assistant checked its _____ carefully.",
+      "options": {
+        "A": "condition",
+        "B": "conclusion",
+        "C": "competition",
+        "D": "construction"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "condition 在此指物品的状况。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "266b9142afac0d7cf0f18682274c568ba41ba02eae2aa03609b2b286113d6868"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The team at Copper Lane Craft Hall must take the cost of maintenance into _____ when buying equipment.",
+      "options": {
+        "A": "action",
+        "B": "account",
+        "C": "effect",
+        "D": "place"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "take ... into account 是把……考虑在内。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "13b3375554cb8d20fc1b5845c4c052781e5624f830db45a82c9382bf534f0529"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "One suggestion from a visitor led to a _____ improvement in the community-exhibition briefing.",
+      "options": {
+        "A": "reluctant",
+        "B": "irrelevant",
+        "C": "significant",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "significant 表示显著的，修饰 improvement。",
+      "knowledgePoints": [
+        "语义搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e57cf4898799363da9ddbaead5673a622d981c1010257a496c47706c38822cbf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Participants were asked to _____ any faults with a label printer before using it.",
+      "options": {
+        "A": "import",
+        "B": "support",
+        "C": "transport",
+        "D": "report"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "report faults 表示报告故障，符合使用前告知工作人员的要求。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c1d62bf2b3aacabd3f3fe3001bb0637b5f722315e69e8e2b1be7696181d644b3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The new signs at Copper Lane Craft Hall were intended to _____ confusion near the entrance.",
+      "options": {
+        "A": "reduce",
+        "B": "produce",
+        "C": "introduce",
+        "D": "reproduce"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reduce confusion 表示减少困惑，其余动词不符合目的。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0a2b88b55a7fdbfd732a302d20114a307a90adda94ad15a56c6e379897d42aa7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The organiser gave a brief _____ of what the community-exhibition briefing would cover.",
+      "options": {
+        "A": "sympathy",
+        "B": "summary",
+        "C": "salary",
+        "D": "surgery"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "summary 表示概述，用于介绍活动内容。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "34403422677008ce09c6ca2dd71caf5be8591629578cb0950be4456b08f978b3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Because places at the community-exhibition briefing were limited, early booking was strongly _____.",
+      "options": {
+        "A": "removed",
+        "B": "repaired",
+        "C": "recommended",
+        "D": "recovered"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "recommend 表示建议；此处为被动结构 recommended。",
+      "knowledgePoints": [
+        "语境词义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "10383373e2674bb7726c2fc823b925ec28eda0ee9de9192884756e61040d7bed"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The volunteers at Copper Lane Craft Hall would rather _____ the schedule now than change it during the session.",
+      "options": {
+        "A": "discussing",
+        "B": "discussed",
+        "C": "discuss",
+        "D": "to discuss"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "would rather do...than do... 两边均用动词原形。",
+      "knowledgePoints": [
+        "固定句式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "49a970caf454ab4d3544d902fdb74ef20c28bf0b48a3a4c8469d7b350ce0647d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "If the staff at Copper Lane Craft Hall _____ earlier, the visitors would not have waited outside yesterday.",
+      "options": {
+        "A": "arrive",
+        "B": "have arrived",
+        "C": "will arrive",
+        "D": "had arrived"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件句：if 从句用 had done，主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e33ee140da3c5e65aa1bb65ec4d541b18f184455410b34c8cba249f89929a2b0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The leaflet for the community-exhibition briefing, _____ was revised last week, now includes a clear map.",
+      "options": {
+        "A": "which",
+        "B": "what",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制性定语从句指代 leaflet，关系代词用 which。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5584d7ef9ca3a80afaae60b810b540820e451f8b9318933847422c928243edf1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Neither the organiser nor the assistants at Copper Lane Craft Hall _____ available at the moment.",
+      "options": {
+        "A": "be",
+        "B": "are",
+        "C": "is",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither...nor 的谓语与较近的复数 assistants 一致；at the moment 用现在时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "74c186860e6d82e5b77e7637a2965cf486def13c7600faf74c8d1d2fe7dafb21"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Please avoid _____ a label printer near the edge of the table.",
+      "options": {
+        "A": "place",
+        "B": "placed",
+        "C": "placing",
+        "D": "to place"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "avoid 后接动名词作宾语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c0463dd30263a08bc858a43c212000b4683923ff63e27346ac11bf02f2ba255b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "By the time the community-exhibition briefing began, all the chairs _____ in position.",
+      "options": {
+        "A": "have placed",
+        "B": "are placing",
+        "C": "will place",
+        "D": "had been placed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去开始之前已完成且 chairs 是动作承受者，用过去完成时被动。",
+      "knowledgePoints": [
+        "时态与被动语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "62ab8b6ca7238a0874f683a66a1a6d3596f75e5b83cbd0563fd1180373f1cfe6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The information desk at Copper Lane Craft Hall is open _____ 9 a.m. and 5 p.m. on weekdays.",
+      "options": {
+        "A": "between",
+        "B": "among",
+        "C": "during",
+        "D": "from"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "between...and 表示两时间点之间。",
+      "knowledgePoints": [
+        "介词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e2bf4d612563bdf82751bc8644492cef3c947f178d91c63ab66fcc82ef60338f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The instructor spoke slowly _____ everyone at the community-exhibition briefing could follow the explanation.",
+      "options": {
+        "A": "unless",
+        "B": "so that",
+        "C": "even though",
+        "D": "as if"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so that 引导目的状语从句：为了让大家听懂。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "38e454c0da3a2ca0f269bf660964b91ce145e2e91cbbf66f567aa0a49a4e186b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The person _____ lent me a label printer explained the return procedure clearly.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "先行词 person 为人且从句缺主语，用 who。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fe855372d6d5e057cce585a82600da5a106ba743aff29cf2790527a27a94b10f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Not until the last visitor had left _____ the doors of Copper Lane Craft Hall.",
+      "options": {
+        "A": "the caretaker locked",
+        "B": "had locked the caretaker",
+        "C": "the caretaker did lock",
+        "D": "did the caretaker lock"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "not until 置于句首时主句部分倒装，过去动作使用 did + 主语 + 动词原形。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "dd78512a746ba49196ebbc82639e0693518b22fbd99631e90262a8cbf0d1fd72"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA handmade object carries traces of the choices made by its creator. Explaining those choices can help a visitor see more than a finished product. Traditional skills survive when people have opportunities to practise them. An exhibition can therefore be a place for learning as well as looking.",
+      "referenceAnswer": "一件手工制品留下了创作者所作选择的痕迹。解释这些选择，有助于参观者看到成品之外的东西。当人们有机会练习时，传统技艺才能延续。因此，展览既可以是观看的地方，也可以是学习的场所。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "52d0eacd2e3c8b73e5db7b87177fd663d52ce62122709c33807aac70d15e0d62",
+      "referenceAnswerFingerprint": "edc89c25a506d2429a2648f8102311b03c7cab866ff6b41c8e9f1ac39b0930f5"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nPropose an exhibition of local crafts for young visitors. Explain what they could learn and suggest one participatory activity.",
+      "sampleAnswer": "I propose an exhibition showing how local crafts are made, rather than displaying only finished objects. Young visitors could see the stages of preparing materials, shaping them and adding final details. Short labels should explain choices made by the maker, including why two handmade objects may differ. A supervised weaving activity would let visitors try one simple movement with safe materials. Afterwards, they could compare their work with an experienced maker's example and ask questions. The activity would not aim to produce skilled craftspeople in one afternoon. It would give visitors a practical reason to look more closely at the exhibition. With the makers' agreement, short recordings could also preserve explanations for future visitors.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "04f6ad291a1a3fd191a133c424e5c9641e160a85938d8e7f996c41eff202ba01",
+      "sampleAnswerFingerprint": "7733ecddc785810af8d5e353d53c37695e39c7b9369136556613224cda730833"
+    }
+  ],
+  "fingerprintManifest": [
+    "04a4d1c7c075ab3658d7c4cacc0d71e27ba3604f6a2bae2bdd4a5d4a5ccabf60",
+    "362a45f96804e5ede23a5facf25680001237cab85b065ceb6a6d450676cbfc49",
+    "a35b8279b5e405f3e83d19e447bbd559482bb56c16f2f86c4d91f7f07cc90eaf",
+    "a8a3839503abc77aa1ac7305b5019173302116950953752b67f4b6094e7cf7d8",
+    "ec3565aab3d4d99811407b3809c27734cc482e6a3f325bfaf5b700f4858bdfdf",
+    "cb58f562792bbed8e28c381edd35815f201455daa36af8fe3e2603003f2ba94b",
+    "7f4f7e1a5c50ba01120af3fd4d93f5203e3b19410c1865e79f08ce9bb7e37fe5",
+    "858eaa7a4fc96725e933a203480c3212490d306e34214df9aba7b0abd19787f4",
+    "bcb35cd7772c5bf6309734127a8da7b31370ffc25b95c6d01def9fbe18708630",
+    "00e38c244ccecfb6b4ba501e2d0eac0ee51728806f9dcd0dd73beeef8669ecfe",
+    "0bf4e411a071774f12011a3cbcd4f27f4bbc93a16a4f90b6a2ca72b6d1830eff",
+    "6425ae5042022e305633c1afc9fafe0bd8c0381fdecfa8436c59fb9af7e694eb",
+    "ea42c4dea9d0d7ae800b07e4ca4f64c2dad451dbce706656c8cdd5bf3732e525",
+    "524b17c2affef3dce941e43ea8c030f19e0f594f676c0553ab4735ea72a6d21a",
+    "704a5b0ad1c7813886bf265b3a8d2783d328af2f1b64d4f7b78b5d9fd8054062",
+    "15f464fd7c9627737a75a10a437476cb79b359b930c35ef912607621fa2359bd",
+    "4ceabcfdc8a873d1e75e5fbedeecec4ac01bf98a7985d5ed99e1c40d6aea91aa",
+    "45b5017160a5b97cd59ef2b27fbfca80d39a148deac7ab737ba6ab70e43132b0",
+    "7f131f080b6a5cfba7c7245a6eddb7b851b30531c3c9d69f21cd2ea3224e62ed",
+    "96e5c2e85d1024ac1a47ef1aa1d4bea7f9551c98e68554a70aa4041b8e5eae37",
+    "84f9911cc4095a37a5169921c5ff7fcc748667268403b66101d808e228d1b6c6",
+    "4a2152c6b3e3b0b218e00bb4d5b99bed4336deb9b498b860404acbe8b76555e2",
+    "a1f382a0091b1e666ffb7adb4b157c83cc5220090db269822ac11d4825c13b1d",
+    "56da702967cccaebb51e05d2a0fe5a1baae5964564a68ec0301b182fb146bdfa",
+    "5a2fac50d921ef2ecd2a06345ab4c3fee76a11e9b7e503a223f136c1e9ead734",
+    "ed0ad1f5ac2aea19a569d5e3b8d51a6bfdadb019d9a982d1e861d0ae05fed00d",
+    "cb6c956f919e73224aa40d090e685b9b62fff5681b100f4eafecc7f74049cf7d",
+    "70bba7b6b827297087dd036686d96fdae951faf2731b0794b90c7070650b9b22",
+    "291a45bfc2c07412e8c93cc9727129d6c8386996a8bb9c7a3f23fa5ca78bb9d1",
+    "37da844bee9c9a88822f34c1d6adcfb769bca94212899635d86801606e9b1899",
+    "c6dab3369fa9243a7b8a8e97deec1840f202f165358377e69a101192b3f885d6",
+    "5d4d90f9917bd64a0bd29dae71305eb390c33af613bc4888e24084a14f92be3c",
+    "4ed1d705c80c32493573a28626a55e26505218c66733f0fe702681fd24fb1d2e",
+    "a30a2c180277953c3b39a86fd19c0d1c37effeeaf27862f5f18818cab551b1b5",
+    "da720438d8b629fd0992734636e7c672f222841a8b2f47ee50d6b0ceda0edf39",
+    "662199716d5d48d456acceb565aafd824238c926be43bdee1a701cb040c0c789",
+    "251b71b4f445638e6180aaf198936ab3473ece748a2dcbe88264e6d95d34e5fb",
+    "96e794f35ee89c8469b5e09680b618bd2c6f374424893759b944765b9ac1c79f",
+    "041d5080905949a84997d3c575bd668f79395750db0f3033b7938b93b103d841",
+    "cf613d7f405d9fa9a14ed4e81ea7a0d6758d6abbf67c9e568d8702e2dfaa7bcd",
+    "266b9142afac0d7cf0f18682274c568ba41ba02eae2aa03609b2b286113d6868",
+    "13b3375554cb8d20fc1b5845c4c052781e5624f830db45a82c9382bf534f0529",
+    "e57cf4898799363da9ddbaead5673a622d981c1010257a496c47706c38822cbf",
+    "c1d62bf2b3aacabd3f3fe3001bb0637b5f722315e69e8e2b1be7696181d644b3",
+    "0a2b88b55a7fdbfd732a302d20114a307a90adda94ad15a56c6e379897d42aa7",
+    "34403422677008ce09c6ca2dd71caf5be8591629578cb0950be4456b08f978b3",
+    "10383373e2674bb7726c2fc823b925ec28eda0ee9de9192884756e61040d7bed",
+    "49a970caf454ab4d3544d902fdb74ef20c28bf0b48a3a4c8469d7b350ce0647d",
+    "e33ee140da3c5e65aa1bb65ec4d541b18f184455410b34c8cba249f89929a2b0",
+    "5584d7ef9ca3a80afaae60b810b540820e451f8b9318933847422c928243edf1",
+    "74c186860e6d82e5b77e7637a2965cf486def13c7600faf74c8d1d2fe7dafb21",
+    "c0463dd30263a08bc858a43c212000b4683923ff63e27346ac11bf02f2ba255b",
+    "62ab8b6ca7238a0874f683a66a1a6d3596f75e5b83cbd0563fd1180373f1cfe6",
+    "e2bf4d612563bdf82751bc8644492cef3c947f178d91c63ab66fcc82ef60338f",
+    "38e454c0da3a2ca0f269bf660964b91ce145e2e91cbbf66f567aa0a49a4e186b",
+    "fe855372d6d5e057cce585a82600da5a106ba743aff29cf2790527a27a94b10f",
+    "dd78512a746ba49196ebbc82639e0693518b22fbd99631e90262a8cbf0d1fd72",
+    "52d0eacd2e3c8b73e5db7b87177fd663d52ce62122709c33807aac70d15e0d62",
+    "edc89c25a506d2429a2648f8102311b03c7cab866ff6b41c8e9f1ac39b0930f5",
+    "04f6ad291a1a3fd191a133c424e5c9641e160a85938d8e7f996c41eff202ba01",
+    "7733ecddc785810af8d5e353d53c37695e39c7b9369136556613224cda730833"
+  ],
+  "contentFingerprint": "b96428fd9626ccf24b1f646a0f88e523888f468c6560a7a600370d85d0795952"
+}

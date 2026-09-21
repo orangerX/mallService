@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-19",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 19 · 代际学习与共同成长",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 19,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the cross-generation learning session",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the cross-generation learning session at Sunrise Skills Exchange.\nCoordinator: (1) _____\nVisitor: Tuesday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Bring a notebook; we can provide an adjustable desk light.",
+        "B": "Contact Sunrise Skills Exchange before the session so that we can offer your place to someone else.",
+        "C": "Which day would be convenient for you to attend?",
+        "D": "Please come to the shared activity studio."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the cross-generation learning session\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Bring a notebook; we can provide an adjustable desk light.",
+            "B": "Contact Sunrise Skills Exchange before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the shared activity studio."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "00e86024c097bf1f9de2dde55bad6d0451e211d194f93a0d6026ebf5b13d403f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the cross-generation learning session\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Bring a notebook; we can provide an adjustable desk light.",
+            "B": "Contact Sunrise Skills Exchange before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the shared activity studio."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "443cc2cec6e273a66942ea4cb7469b4198bf9b23cbc3d08ec805476eff23cf56"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the cross-generation learning session\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Bring a notebook; we can provide an adjustable desk light.",
+            "B": "Contact Sunrise Skills Exchange before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the shared activity studio."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "aaac521994c50a5fc97ab1bed4f1ed4c6dbd025366bea779f5f7607ccffb487e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the cross-generation learning session\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Bring a notebook; we can provide an adjustable desk light.",
+            "B": "Contact Sunrise Skills Exchange before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the shared activity studio."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4be7654cadc193f773ca26eb3dd137f2ee69dd92e55bcde737ccb50d069eff93"
+        }
+      ],
+      "contentFingerprint": "3f785c9ceae918f514409576c84072695bc0966495b999b46e9f84cbf9a38f30"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Sunrise Skills Exchange",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected an adjustable desk light from Sunrise Skills Exchange, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The arm will not stay in place. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the cross-generation learning session?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "You must purchase every item you use at the session.",
+        "B": "Could you describe the fault you noticed?",
+        "C": "Yes. You can choose the fixed-base light.",
+        "D": "Please leave it with us and complete a short fault report."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Sunrise Skills Exchange\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can choose the fixed-base light.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "900922d9132fac22d438e90f3f1d27165798650a6ae7172c4cd2736d8d1c9a4e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Sunrise Skills Exchange\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can choose the fixed-base light.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4d4d8bbfb6335fe65b74ed3983ccbf37513c591588c6a41a913bffc3478e27ee"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Sunrise Skills Exchange\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can choose the fixed-base light.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "57d12e049758528a41a199c6aa54de9e7e3b36e412ee6ba78575070ae20dca80"
+        }
+      ],
+      "contentFingerprint": "305f39c86bb8be4d7cafb5a1ba8b26df40357c6db02a217a362f6970db9d165c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Sunrise Skills Exchange",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the cross-generation learning session, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You could welcome visitors at the shared activity studio while the other volunteers prepare.",
+        "B": "Use the current map of Sunrise Skills Exchange and the list of rooms for the cross-generation learning session.",
+        "C": "Ask the session coordinator to help; you do not have to guess.",
+        "D": "You should promise to solve every problem without asking anyone."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Sunrise Skills Exchange\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You could welcome visitors at the shared activity studio while the other volunteers prepare.",
+            "B": "Use the current map of Sunrise Skills Exchange and the list of rooms for the cross-generation learning session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "69f12629f66abdca76e0ec6e97c0207867ff858cef68284e50f52a8749d4a9ad"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Sunrise Skills Exchange\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You could welcome visitors at the shared activity studio while the other volunteers prepare.",
+            "B": "Use the current map of Sunrise Skills Exchange and the list of rooms for the cross-generation learning session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7322be7f0816a6aec7707cd99b04f6175a0dc6e411e35f20658318c39f22ddf6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Sunrise Skills Exchange\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You could welcome visitors at the shared activity studio while the other volunteers prepare.",
+            "B": "Use the current map of Sunrise Skills Exchange and the list of rooms for the cross-generation learning session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "165aed37ff407e34387bf273515b67d064e73aa5f202329494a5873413a345b2"
+        }
+      ],
+      "contentFingerprint": "64b5ee243b8988077e4a02e012180326a5c9a3c4905155f964ad6eef99e2b044"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The exchange with two teachers",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Sunrise Skills Exchange paired an older gardener with a young volunteer who understood video editing. Organisers initially described the project as young people teaching older residents technology. During their first meeting, however, the gardener explained planting methods that the volunteer wanted to record. Each became teacher and learner at different moments. The project changed its publicity to reflect the exchange. Age alone had not predicted who held useful knowledge. The pair worked best when they began by asking what each person could offer and what each hoped to learn.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The exchange with two teachers\"?",
+          "options": {
+            "A": "Writing an invitation that respects all participants",
+            "B": "Recognising mutual learning across generations",
+            "C": "Responding to differences in experience within a group",
+            "D": "Negotiating the purpose of a shared recording"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Recognising mutual learning across generations”展开：Assumptions based only on age can hide people's skills.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "7048577e693130a2e2cc64d2b53820edda735d968a86e760511ab994d4266769"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The exchange with two teachers\", why did the project change its publicity?",
+          "options": {
+            "A": "The younger volunteer already knew every planting method.",
+            "B": "Only one person was allowed to ask questions.",
+            "C": "The learning moved in both directions.",
+            "D": "The gardener refused to teach anything."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 The learning moved in both directions.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "eeaf6c2b2500b75da7c9881b3481e1af6e97426a96cc7ba3ac6500276145fbc6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The exchange with two teachers\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Assumptions based only on age can hide people's skills."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Assumptions based only on age can hide people's skills.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d9e552f2743c5f9328967c2c217ffe112a97035fd3a0c3a2e38e55adca131586"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The exchange with two teachers\", the word \"predicted\" is closest in meaning to _____.",
+          "options": {
+            "A": "indicated in advance what would happen",
+            "B": "a written system representing musical sounds",
+            "C": "without further thought or discussion",
+            "D": "described as greater than it really was"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，predicted 的含义为 indicated in advance what would happen。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "bdad1c59f72741532f46733345b9c05a5cf19832bd8c71e6d4dc009b775434e4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The exchange with two teachers\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6463feaf32576651f4d65ae0baef70cda0a15734085ad598fd3cebdc96cbc173"
+        }
+      ],
+      "contentFingerprint": "7abd7b22c5f8f97debf66cab16bc384788ef75b745b72123d832010cd14036f6"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The pace of a shared lesson",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "In a mixed-age music group, one learner read notation quickly while another remembered melodies by ear. The tutor first interpreted different speeds as differences in effort. After asking learners to explain their approach, she realised that the task favoured one kind of experience. She combined a printed example with a recording and time to practise. Neither method suited everyone equally, but more learners could begin successfully. The lesson did not prove that people of a certain age always learnt in a particular way. It showed the value of asking individuals rather than assigning them to a simple category.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"The pace of a shared lesson\"?",
+          "options": {
+            "A": "Negotiating the purpose of a shared recording",
+            "B": "Writing an invitation that respects all participants",
+            "C": "Responding to differences in experience within a group",
+            "D": "Recognising mutual learning across generations"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Responding to differences in experience within a group”展开：Individual learning needs should be explored rather than assumed from group labels.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5b7b7f6fab77687bb7a7f66d25d06a9308dccd70b682083ca7b627eacda649c8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The pace of a shared lesson\", what did the tutor discover about the original task?",
+          "options": {
+            "A": "It required no prior experience from anybody.",
+            "B": "It made effort completely irrelevant.",
+            "C": "It proved that age determined every learning method.",
+            "D": "It favoured learners with one kind of previous experience."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 It favoured learners with one kind of previous experience.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "a8a27e40f6f18b8c0eb26ecdd76e7609bc0e36e64849f441a840f84b3b322e9c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"The pace of a shared lesson\"?",
+          "options": {
+            "A": "Individual learning needs should be explored rather than assumed from group labels.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Individual learning needs should be explored rather than assumed from group labels.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "0aece771105dc11a5763462f2c8a6e90b5e72b300378cce26681a489bac46ed9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The pace of a shared lesson\", the word \"notation\" is closest in meaning to _____.",
+          "options": {
+            "A": "described as greater than it really was",
+            "B": "a written system representing musical sounds",
+            "C": "indicated in advance what would happen",
+            "D": "without further thought or discussion"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，notation 的含义为 a written system representing musical sounds。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "506ac5077add3bbf13d67dcc1ef102a583e9bfc98a447f715144306789d725e9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"The pace of a shared lesson\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "52c4aed32d8899d6138de622b66f8d7bd04030bc65d521271a40895640ccb47e"
+        }
+      ],
+      "contentFingerprint": "3a4523e03f68c7766f36a52c5dbdee3eca880d89d9a2fa72f32ae33a6eaf4154"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A story recorded together",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A teenager helped her grandfather record a description of his first railway journey. She wanted to shorten long pauses, while he felt some pauses expressed the difficulty of remembering. They listened together and agreed which sections to edit. She learnt that technical neatness was not the only aim, and he learnt how editing could make a recording easier to follow. The final version carried a note saying it had been edited with the speaker's agreement. Working together required discussion about purpose as well as skill with a device. Neither person's preference automatically settled every choice.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A story recorded together\"?",
+          "options": {
+            "A": "Recognising mutual learning across generations",
+            "B": "Responding to differences in experience within a group",
+            "C": "Writing an invitation that respects all participants",
+            "D": "Negotiating the purpose of a shared recording"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Negotiating the purpose of a shared recording”展开：Technical choices should be guided by the purpose and the contributor's wishes.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "481144e5a52abc15d9953766ce434e0601fd7e2751dad14efba94e6975f04f3c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A story recorded together\", how were decisions about pauses made?",
+          "options": {
+            "A": "The two listened and agreed together.",
+            "B": "The teenager deleted all pauses without discussion.",
+            "C": "The grandfather rejected every possible edit.",
+            "D": "The software automatically chose the final version."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The two listened and agreed together.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8015c79be3f6247b80485aa9ea4f80375b6f7715350027734d4307c6a1a92412"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A story recorded together\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Technical choices should be guided by the purpose and the contributor's wishes.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Technical choices should be guided by the purpose and the contributor's wishes.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1ab796df8bcc6f1dcdda61ce5d0caafd1ba1a1e8fb870af6448ca6bd3f75b9f6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A story recorded together\", the word \"automatically\" is closest in meaning to _____.",
+          "options": {
+            "A": "a written system representing musical sounds",
+            "B": "described as greater than it really was",
+            "C": "without further thought or discussion",
+            "D": "indicated in advance what would happen"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，automatically 的含义为 without further thought or discussion。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "11872a88c8eeeb1e0f9f17d049adc197356a4444615a905452861482a150ad9c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A story recorded together\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "279a525a4632d1b737fa26a88a646dd492dcabdebb96f629204e0b2c8c084fd0"
+        }
+      ],
+      "contentFingerprint": "ece87898c33454b39ed8d0f060ddcf4f78aa50634ef0f11dcde75e6b1f06d1a7"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The invitation that changed",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A centre advertised an activity as 'Lessons for the elderly from young experts'. Several older residents felt the wording assumed they lacked useful abilities, while young volunteers worried that 'experts' overstated their knowledge. The centre renamed it 'Bring a Skill, Learn a Skill' and asked all participants to list interests. Attendance improved, though organisers still needed to provide suitable seating and clear schedules. A new title did not solve every access problem. It removed one unnecessary assumption and made the invitation more consistent with the equal exchange the centre hoped to create.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The invitation that changed\"?",
+          "options": {
+            "A": "Writing an invitation that respects all participants",
+            "B": "Recognising mutual learning across generations",
+            "C": "Responding to differences in experience within a group",
+            "D": "Negotiating the purpose of a shared recording"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Writing an invitation that respects all participants”展开：An invitation can unintentionally assign roles that discourage participation.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "8d53522412574c5ed95de1d2994dc592b5da988c4df0c6f71532837154523ce8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The invitation that changed\", why did young volunteers dislike the original wording?",
+          "options": {
+            "A": "It described every activity as a formal examination.",
+            "B": "It described them as more expert than they felt.",
+            "C": "It required them to stop learning.",
+            "D": "It prevented older people from attending."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 It described them as more expert than they felt.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "10b2fce0a5079f5b988eabfa4a7bd80b98c5471fb685cdb41ff0865fdd2b5564"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The invitation that changed\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "An invitation can unintentionally assign roles that discourage participation.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：An invitation can unintentionally assign roles that discourage participation.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "0cc486b48e1fdd916c5dbc78e9646f3ae3146a9cbe792cd9e813db27a6861235"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The invitation that changed\", the word \"overstated\" is closest in meaning to _____.",
+          "options": {
+            "A": "indicated in advance what would happen",
+            "B": "a written system representing musical sounds",
+            "C": "without further thought or discussion",
+            "D": "described as greater than it really was"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，overstated 的含义为 described as greater than it really was。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e86df8b50fafd42ce3ce12d09d918560cc35cd5adc10b71cbbfa877c3762725e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The invitation that changed\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f0dadd174ecdad1117aad8fe6a2b9c67718238659c36f1e5a197a9fc315724e2"
+        }
+      ],
+      "contentFingerprint": "0f30134973d37dcb5d1647870be7c237f383b35910652a304ba1bade68b16b1a"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The new signs at Sunrise Skills Exchange were intended to _____ confusion near the entrance.",
+      "options": {
+        "A": "introduce",
+        "B": "reproduce",
+        "C": "reduce",
+        "D": "produce"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reduce confusion 表示减少困惑，其余动词不符合目的。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "641a7d8fdc35fe24cc17308bc4fa5d2fecd5121430a9fa96de67a5a3e13a7918"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The organiser gave a brief _____ of what the cross-generation learning session would cover.",
+      "options": {
+        "A": "salary",
+        "B": "surgery",
+        "C": "sympathy",
+        "D": "summary"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "summary 表示概述，用于介绍活动内容。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "816c3dc844832b3c51b6fdfade3c1239046ef2111f962a953e28c7edfb7b9c3e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Because places at the cross-generation learning session were limited, early booking was strongly _____.",
+      "options": {
+        "A": "recommended",
+        "B": "recovered",
+        "C": "removed",
+        "D": "repaired"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "recommend 表示建议；此处为被动结构 recommended。",
+      "knowledgePoints": [
+        "语境词义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "faa4552171ab4e276c4d2bcce42d0748b0484f4b5acfeae2c42701ab6bf97d63"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The guide at Sunrise Skills Exchange answered each beginner's question with great _____.",
+      "options": {
+        "A": "permission",
+        "B": "patience",
+        "C": "pressure",
+        "D": "profit"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "with great patience 表示十分耐心地，与解答初学者问题相符。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "18ecbec1d1d061e6a43106982b629a8b1cbf123d9dc2ccc1ea43ba26c03410b5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The cross-generation learning session offers a useful _____ to practise a skill under guidance.",
+      "options": {
+        "A": "objection",
+        "B": "opposition",
+        "C": "opportunity",
+        "D": "obstacle"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "opportunity to do 表示做某事的机会。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e404295ae0b81c1d89fdbad8f4d1188dd7e651b7971596da64eb6e5dc98f3f6f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Visitors to Sunrise Skills Exchange should not _____ that every service is available without booking.",
+      "options": {
+        "A": "consume",
+        "B": "resume",
+        "C": "presume upon",
+        "D": "assume"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "assume 在此意为想当然地认为，后接 that 从句。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9c8cd7d3a3be093edbb6ddc9536598283c698ad3bef3960d1232b84ba20cd695"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A volunteer demonstrated how to _____ an adjustable desk light without damaging it.",
+      "options": {
+        "A": "handle",
+        "B": "hesitate",
+        "C": "harvest",
+        "D": "happen"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "handle 表示操作、使用，符合设备使用语境。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9912f73f22420db5919d4d5ef1f30dc39a13cd11b8c4fbb8678b884febe22680"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The session at Sunrise Skills Exchange was divided into shorter parts to help learners _____.",
+      "options": {
+        "A": "circulate",
+        "B": "concentrate",
+        "C": "celebrate",
+        "D": "calculate"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "concentrate 表示集中注意力；较短环节有助于专注。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "11caaff98991ba8a72cff73a227d65d1bd87f3b8f96b6923563da785f362d888"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The organiser changed the room for the cross-generation learning session in _____ to a request for easier access.",
+      "options": {
+        "A": "return",
+        "B": "reward",
+        "C": "response",
+        "D": "respect"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "61ab52a0abb016f6b463e9ffd9e160c1f2e7c05168d3ca6a577a8f36b9702329"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "At Sunrise Skills Exchange, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "reward",
+        "B": "retreat",
+        "C": "recipe",
+        "D": "record"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "654f0cf6f79ef0d674860876054687efce84fb32e7a2089818f9ea8fbfc82ca9"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The instructor spoke slowly _____ everyone at the cross-generation learning session could follow the explanation.",
+      "options": {
+        "A": "even though",
+        "B": "as if",
+        "C": "unless",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "so that 引导目的状语从句：为了让大家听懂。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7009be4f8dd54843af84e706de5250ce661d09a6e9cd51c74789005e881e0c2e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The person _____ lent me an adjustable desk light explained the return procedure clearly.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "先行词 person 为人且从句缺主语，用 who。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2d75535ad01232df2967e533c8530f2ec9a112b1463a2a767f02bba873027001"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Not until the last visitor had left _____ the doors of Sunrise Skills Exchange.",
+      "options": {
+        "A": "the caretaker did lock",
+        "B": "did the caretaker lock",
+        "C": "the caretaker locked",
+        "D": "had locked the caretaker"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "not until 置于句首时主句部分倒装，过去动作使用 did + 主语 + 动词原形。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e8186031612bc6c551b6c346dcd83bfb8e99ca587b706a223b1003e5922010d2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The cross-generation learning session was _____ useful that several learners asked for a follow-up session.",
+      "options": {
+        "A": "too",
+        "B": "very",
+        "C": "so",
+        "D": "such"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "so + 形容词 + that 构成结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "58ebaa5cf18c93eb410b7745fe913caa72545fef3802201dd163c83e48717213"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The manager at Sunrise Skills Exchange suggested that the timetable _____ before publication.",
+      "options": {
+        "A": "is checked",
+        "B": "was checking",
+        "C": "has checked",
+        "D": "be checked"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "suggest 表建议时 that 从句用 should + 原形，should 可省略；此处为被动。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "98227151307ff898dcaff0315765d00ede42cac49a885638f2fe54a41b3bb91d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "There is no point in _____ to the cross-generation learning session without first confirming your place.",
+      "options": {
+        "A": "travelling",
+        "B": "travel",
+        "C": "to travel",
+        "D": "travelled"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "There is no point in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2336447d06a06c55879bb802bebb1362ec8d141a53c9daa89bc652e864f9fc27"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The assistant asked me where I _____ to use an adjustable desk light the following day.",
+      "options": {
+        "A": "am intending",
+        "B": "intended",
+        "C": "intend",
+        "D": "will intend"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去叙述中的间接问句使用陈述语序并保持过去时态。",
+      "knowledgePoints": [
+        "间接引语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dc1de8e6e90ab9d87df666b3d577e1fe386a69b70fc7eecfca2964f0971c3900"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Each of the volunteers at Sunrise Skills Exchange _____ a copy of the current safety notice.",
+      "options": {
+        "A": "are having",
+        "B": "were having",
+        "C": "has",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e90093c1467f97f5215c71cac73ac95b96dcdbfc7f389e70b2f20b36cf7c921e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "_____ the instructions carefully, the participant began the activity at the cross-generation learning session.",
+      "options": {
+        "A": "To have read",
+        "B": "Read",
+        "C": "Being read",
+        "D": "Having read"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "28e7987b903e3679ab684f27958eb066c36ba64a6111f3358aa9f4f115de9829"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The room at Sunrise Skills Exchange is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "to seat",
+        "B": "seating",
+        "C": "seat",
+        "D": "seated"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "88ef9f007cca1cade5342d61eb9a27c7d7a210b5e2e02017c157c9ca102dc802"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nPeople of different ages often possess different kinds of knowledge. An exchange works well when neither side is treated as having nothing to offer. Patience and mutual respect allow both people to ask questions. The strongest learning relationships are built on curiosity rather than assumptions.",
+      "referenceAnswer": "不同年龄的人往往拥有不同类型的知识。只有双方都不被视为没有东西可教给对方时，交流才会顺利。耐心和相互尊重让双方都能提问。最牢固的学习关系建立在好奇心之上，而不是建立在先入为主的判断之上。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "565a3aae6217796498875b56e6decd1753d0b1f863e23e0200505eb149b3695c",
+      "referenceAnswerFingerprint": "c9553e584d7285854e17e39e2f55dc2855d00c954ca78eee5b72f265b65a669a"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss the benefits of people of different ages learning together. Describe an activity and explain how to avoid treating either group as less capable.",
+      "sampleAnswer": "Learning across generations can reveal skills that age-based assumptions hide. For example, an older gardener and a younger video editor could make a short planting guide together. One would explain gardening decisions, while the other would demonstrate recording and editing. Both would have opportunities to ask questions and teach. Organisers should invite participants to describe their interests instead of assigning the older person the role of learner automatically. Sessions should allow enough time for discussion and provide equipment everyone can use comfortably. When preferences differ, the pair should return to the purpose of the project. Mutual respect grows when each person has meaningful control over the shared work and can see the value of the other's contribution.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "0b6c51974368ae2ab488ed76b10d7b0ede1793b11ed1eb6cf28f1b4745afa7b8",
+      "sampleAnswerFingerprint": "8e61e161c06d8300a449fafaf984bccfc68b7e04429fa02e61d8a2cd275b5468"
+    }
+  ],
+  "fingerprintManifest": [
+    "3f785c9ceae918f514409576c84072695bc0966495b999b46e9f84cbf9a38f30",
+    "00e86024c097bf1f9de2dde55bad6d0451e211d194f93a0d6026ebf5b13d403f",
+    "443cc2cec6e273a66942ea4cb7469b4198bf9b23cbc3d08ec805476eff23cf56",
+    "aaac521994c50a5fc97ab1bed4f1ed4c6dbd025366bea779f5f7607ccffb487e",
+    "4be7654cadc193f773ca26eb3dd137f2ee69dd92e55bcde737ccb50d069eff93",
+    "305f39c86bb8be4d7cafb5a1ba8b26df40357c6db02a217a362f6970db9d165c",
+    "900922d9132fac22d438e90f3f1d27165798650a6ae7172c4cd2736d8d1c9a4e",
+    "4d4d8bbfb6335fe65b74ed3983ccbf37513c591588c6a41a913bffc3478e27ee",
+    "57d12e049758528a41a199c6aa54de9e7e3b36e412ee6ba78575070ae20dca80",
+    "64b5ee243b8988077e4a02e012180326a5c9a3c4905155f964ad6eef99e2b044",
+    "69f12629f66abdca76e0ec6e97c0207867ff858cef68284e50f52a8749d4a9ad",
+    "7322be7f0816a6aec7707cd99b04f6175a0dc6e411e35f20658318c39f22ddf6",
+    "165aed37ff407e34387bf273515b67d064e73aa5f202329494a5873413a345b2",
+    "7abd7b22c5f8f97debf66cab16bc384788ef75b745b72123d832010cd14036f6",
+    "7048577e693130a2e2cc64d2b53820edda735d968a86e760511ab994d4266769",
+    "eeaf6c2b2500b75da7c9881b3481e1af6e97426a96cc7ba3ac6500276145fbc6",
+    "d9e552f2743c5f9328967c2c217ffe112a97035fd3a0c3a2e38e55adca131586",
+    "bdad1c59f72741532f46733345b9c05a5cf19832bd8c71e6d4dc009b775434e4",
+    "6463feaf32576651f4d65ae0baef70cda0a15734085ad598fd3cebdc96cbc173",
+    "3a4523e03f68c7766f36a52c5dbdee3eca880d89d9a2fa72f32ae33a6eaf4154",
+    "5b7b7f6fab77687bb7a7f66d25d06a9308dccd70b682083ca7b627eacda649c8",
+    "a8a27e40f6f18b8c0eb26ecdd76e7609bc0e36e64849f441a840f84b3b322e9c",
+    "0aece771105dc11a5763462f2c8a6e90b5e72b300378cce26681a489bac46ed9",
+    "506ac5077add3bbf13d67dcc1ef102a583e9bfc98a447f715144306789d725e9",
+    "52c4aed32d8899d6138de622b66f8d7bd04030bc65d521271a40895640ccb47e",
+    "ece87898c33454b39ed8d0f060ddcf4f78aa50634ef0f11dcde75e6b1f06d1a7",
+    "481144e5a52abc15d9953766ce434e0601fd7e2751dad14efba94e6975f04f3c",
+    "8015c79be3f6247b80485aa9ea4f80375b6f7715350027734d4307c6a1a92412",
+    "1ab796df8bcc6f1dcdda61ce5d0caafd1ba1a1e8fb870af6448ca6bd3f75b9f6",
+    "11872a88c8eeeb1e0f9f17d049adc197356a4444615a905452861482a150ad9c",
+    "279a525a4632d1b737fa26a88a646dd492dcabdebb96f629204e0b2c8c084fd0",
+    "0f30134973d37dcb5d1647870be7c237f383b35910652a304ba1bade68b16b1a",
+    "8d53522412574c5ed95de1d2994dc592b5da988c4df0c6f71532837154523ce8",
+    "10b2fce0a5079f5b988eabfa4a7bd80b98c5471fb685cdb41ff0865fdd2b5564",
+    "0cc486b48e1fdd916c5dbc78e9646f3ae3146a9cbe792cd9e813db27a6861235",
+    "e86df8b50fafd42ce3ce12d09d918560cc35cd5adc10b71cbbfa877c3762725e",
+    "f0dadd174ecdad1117aad8fe6a2b9c67718238659c36f1e5a197a9fc315724e2",
+    "641a7d8fdc35fe24cc17308bc4fa5d2fecd5121430a9fa96de67a5a3e13a7918",
+    "816c3dc844832b3c51b6fdfade3c1239046ef2111f962a953e28c7edfb7b9c3e",
+    "faa4552171ab4e276c4d2bcce42d0748b0484f4b5acfeae2c42701ab6bf97d63",
+    "18ecbec1d1d061e6a43106982b629a8b1cbf123d9dc2ccc1ea43ba26c03410b5",
+    "e404295ae0b81c1d89fdbad8f4d1188dd7e651b7971596da64eb6e5dc98f3f6f",
+    "9c8cd7d3a3be093edbb6ddc9536598283c698ad3bef3960d1232b84ba20cd695",
+    "9912f73f22420db5919d4d5ef1f30dc39a13cd11b8c4fbb8678b884febe22680",
+    "11caaff98991ba8a72cff73a227d65d1bd87f3b8f96b6923563da785f362d888",
+    "61ab52a0abb016f6b463e9ffd9e160c1f2e7c05168d3ca6a577a8f36b9702329",
+    "654f0cf6f79ef0d674860876054687efce84fb32e7a2089818f9ea8fbfc82ca9",
+    "7009be4f8dd54843af84e706de5250ce661d09a6e9cd51c74789005e881e0c2e",
+    "2d75535ad01232df2967e533c8530f2ec9a112b1463a2a767f02bba873027001",
+    "e8186031612bc6c551b6c346dcd83bfb8e99ca587b706a223b1003e5922010d2",
+    "58ebaa5cf18c93eb410b7745fe913caa72545fef3802201dd163c83e48717213",
+    "98227151307ff898dcaff0315765d00ede42cac49a885638f2fe54a41b3bb91d",
+    "2336447d06a06c55879bb802bebb1362ec8d141a53c9daa89bc652e864f9fc27",
+    "dc1de8e6e90ab9d87df666b3d577e1fe386a69b70fc7eecfca2964f0971c3900",
+    "e90093c1467f97f5215c71cac73ac95b96dcdbfc7f389e70b2f20b36cf7c921e",
+    "28e7987b903e3679ab684f27958eb066c36ba64a6111f3358aa9f4f115de9829",
+    "88ef9f007cca1cade5342d61eb9a27c7d7a210b5e2e02017c157c9ca102dc802",
+    "565a3aae6217796498875b56e6decd1753d0b1f863e23e0200505eb149b3695c",
+    "c9553e584d7285854e17e39e2f55dc2855d00c954ca78eee5b72f265b65a669a",
+    "0b6c51974368ae2ab488ed76b10d7b0ede1793b11ed1eb6cf28f1b4745afa7b8",
+    "8e61e161c06d8300a449fafaf984bccfc68b7e04429fa02e61d8a2cd275b5468"
+  ],
+  "contentFingerprint": "d2aa6d19c49d4ad42a872f5b8dcea68fc9f5af35450e49da8c0a8dee759aae92"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-08",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 08 · 食物合作与资源利用",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 8,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the seasonal-produce briefing",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the seasonal-produce briefing at Orchard Food Cooperative.\nCoordinator: (1) _____\nVisitor: Thursday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Contact Orchard Food Cooperative before the session so that we can offer your place to someone else.",
+        "B": "Which day would be convenient for you to attend?",
+        "C": "Please come to the market meeting corner.",
+        "D": "Bring a notebook; we can provide a digital weighing scale."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the seasonal-produce briefing\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Contact Orchard Food Cooperative before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the market meeting corner.",
+            "D": "Bring a notebook; we can provide a digital weighing scale."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7b459f2c1265f1fdeb1121a630ad10a75e4c29a650e07ff85da974d1ddf45db7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the seasonal-produce briefing\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Contact Orchard Food Cooperative before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the market meeting corner.",
+            "D": "Bring a notebook; we can provide a digital weighing scale."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9a4a3b6b3ae4dcd282f8f3d8850a4d56e324a60e0ff697ccf86c44af2e1a7516"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the seasonal-produce briefing\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Contact Orchard Food Cooperative before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the market meeting corner.",
+            "D": "Bring a notebook; we can provide a digital weighing scale."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "485d409e9f9b45b8158e8f2625ce7a6506bd6f3f3c7a329087ab2e5c64b68ba7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the seasonal-produce briefing\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Contact Orchard Food Cooperative before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the market meeting corner.",
+            "D": "Bring a notebook; we can provide a digital weighing scale."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "c134cd188dd33fe7e9ca8da10b927ab98b72c1a47c9cbb0f4edd6ded53ea3f91"
+        }
+      ],
+      "contentFingerprint": "beebe867079fa4648ca1df3aaf6f579f86e9f2f0ad88ba657f803ff06ea61b80"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Orchard Food Cooperative",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a digital weighing scale from Orchard Food Cooperative, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The display shows an error. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the seasonal-produce briefing?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Could you describe the fault you noticed?",
+        "B": "Yes. You can ask for the checked spare scale.",
+        "C": "Please leave it with us and complete a short fault report.",
+        "D": "You must purchase every item you use at the session."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Orchard Food Cooperative\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can ask for the checked spare scale.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b838f0df07252ffea790132ce58978f2af40250d2612e40230c5e6c710bdd998"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Orchard Food Cooperative\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can ask for the checked spare scale.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "61717816f30dcfd816e93bcb82d53bca36f99d1ebf26b47c4d48e17ff0d9c219"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Orchard Food Cooperative\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can ask for the checked spare scale.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "13f96c771e7651f9b70f965b7f8996f38676e736698771654efe44d7113ba6e6"
+        }
+      ],
+      "contentFingerprint": "053642482ae3a18b5987983ca7925fd2062b7648dd6759c015b468ecb6b77d95"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Orchard Food Cooperative",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the seasonal-produce briefing, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Use the current map of Orchard Food Cooperative and the list of rooms for the seasonal-produce briefing.",
+        "B": "Ask the session coordinator to help; you do not have to guess.",
+        "C": "You should promise to solve every problem without asking anyone.",
+        "D": "You could welcome visitors at the market meeting corner while the other volunteers prepare."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Orchard Food Cooperative\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Use the current map of Orchard Food Cooperative and the list of rooms for the seasonal-produce briefing.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the market meeting corner while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d3bfe7713f76a8401f7e67bf933e14ab7ea4fafb8bafab9cd92e817f64813e4c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Orchard Food Cooperative\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Use the current map of Orchard Food Cooperative and the list of rooms for the seasonal-produce briefing.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the market meeting corner while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a98b8602e194949d94aa3a7cae931f090a7ded58bf666b4b19171110b88a1235"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Orchard Food Cooperative\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Use the current map of Orchard Food Cooperative and the list of rooms for the seasonal-produce briefing.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the market meeting corner while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "78a2f3dfc5f78fd852fe36a8d1aeef30aa42788138c0e6c418e72817748f557a"
+        }
+      ],
+      "contentFingerprint": "103b4a6945fa9be8d4c5b9ddd3301411b5995701f988b0e2a4378e1829c1f7ee"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The box with no perfect carrots",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Orchard Cooperative offered a discounted box of vegetables with unusual shapes. Initial interest was high, but some buyers stopped ordering because they received more produce than they could use. The cooperative introduced two box sizes and supplied a list of likely contents before orders closed. Waste reported by buyers fell. The manager realised that rescuing vegetables from rejection at the farm was only part of the task. If the same food was later discarded in a kitchen, the problem had moved rather than disappeared. Quantity and planning mattered alongside acceptance of imperfect appearance.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The box with no perfect carrots\"?",
+          "options": {
+            "A": "Making product descriptions more precise",
+            "B": "Planning a shared meal from available ingredients",
+            "C": "Matching rescued food with realistic household needs",
+            "D": "Using categories to understand kitchen waste"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Matching rescued food with realistic household needs”展开：Reducing waste at one stage is insufficient if it increases waste elsewhere.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "ed99b372765ea39f72283208488c5bf412b18582d528ae495ee4f0a13dfa5fa7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The box with no perfect carrots\", why did some early buyers stop ordering?",
+          "options": {
+            "A": "The vegetables had no price labels.",
+            "B": "The cooperative refused all small orders.",
+            "C": "The produce was delivered only once a year.",
+            "D": "The boxes contained more food than they could use."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 The boxes contained more food than they could use.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8d873047a6cd6d2528eb2c5fa5037cdfc45c823901f09434cb8a22447bd18d32"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The box with no perfect carrots\"?",
+          "options": {
+            "A": "Reducing waste at one stage is insufficient if it increases waste elsewhere.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Reducing waste at one stage is insufficient if it increases waste elsewhere.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "c047df65d2b012ba4561344a16b4e78cb3f0e825f2363ea2745219b71ce91bbe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The box with no perfect carrots\", the word \"discarded\" is closest in meaning to _____.",
+          "options": {
+            "A": "willingness to give or share",
+            "B": "thrown away",
+            "C": "portion of a total",
+            "D": "place something comes from"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，discarded 的含义为 thrown away。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "b48a2e0b9d1728a604b524ac55d89594f86dba9ea9898830ac598aa849ab79d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The box with no perfect carrots\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "2b10f439f76302b501cbfb5a9b3ad8e6ddb14524ba44cc38f53577a9eec9c003"
+        }
+      ],
+      "contentFingerprint": "ffca20f04bd7158f8ea3fe522c98333b69a4d57ab87f25806f1656f8266421f2"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A kitchen's measuring week",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A workplace kitchen wanted to reduce leftovers but lacked a clear picture of what was being wasted. For one week, staff recorded separate amounts from preparation, unsold meals and diners' plates. The largest share came from meals prepared late in the lunch period. The kitchen began cooking smaller final batches while warning customers that the full menu might not remain available until closing. Waste decreased, though waiting times needed attention. The figures helped the team choose a specific change instead of assuming that diners alone were responsible for every item in the waste bin.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A kitchen's measuring week\"?",
+          "options": {
+            "A": "Matching rescued food with realistic household needs",
+            "B": "Making product descriptions more precise",
+            "C": "Planning a shared meal from available ingredients",
+            "D": "Using categories to understand kitchen waste"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Using categories to understand kitchen waste”展开：Separating sources of waste can reveal where action is most useful.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a48a40f4472d4f5c333652f61ca5e9ca123b3364e69c288dfe2393925c35c639"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A kitchen's measuring week\", which source produced the largest recorded share of waste?",
+          "options": {
+            "A": "Meals prepared near the end of lunch service.",
+            "B": "Vegetable preparation before breakfast.",
+            "C": "Food brought from employees' homes.",
+            "D": "Diners' plates after every meal."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Meals prepared near the end of lunch service.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "041fee6e7c6cfc7a5318d4e3c404d6c125c0ba565f73b4e534aef050b2ebd9d5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A kitchen's measuring week\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Separating sources of waste can reveal where action is most useful.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Separating sources of waste can reveal where action is most useful.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "b414b84eddb66d1cccf0c3cebeaa21fb00c1c27cd58cbd713e20f9908dde8f9d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A kitchen's measuring week\", the word \"share\" is closest in meaning to _____.",
+          "options": {
+            "A": "place something comes from",
+            "B": "willingness to give or share",
+            "C": "portion of a total",
+            "D": "thrown away"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，share 的含义为 portion of a total。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "7b3734f27752c7a6142aed02f0f1d1ac1ce20974fa8536d80625a4e60025c79e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A kitchen's measuring week\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "2a316919daf45165d07a45ab56fe8249aa0d60aef078add0f4c2951a97acd53b"
+        }
+      ],
+      "contentFingerprint": "a7ebd164e4f6de67db0e4381c744ee63fd59ccc8b902bfabba4bd85f6562b7aa"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The meaning of a local label",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A market stall described all its products as local, but one customer noticed fruit that could not grow nearby in winter. The seller explained that 'local' referred to the business, not necessarily to every product's origin. To prevent confusion, the stall began displaying the growing region beside each item and describing the business separately. Some customers still chose distant produce; others preferred seasonal alternatives. The change did not tell shoppers what to buy. It gave them a clearer basis for decisions. A familiar, positive word had proved less informative than a precise explanation.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The meaning of a local label\"?",
+          "options": {
+            "A": "Making product descriptions more precise",
+            "B": "Matching rescued food with realistic household needs",
+            "C": "Using categories to understand kitchen waste",
+            "D": "Planning a shared meal from available ingredients"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Making product descriptions more precise”展开：A positive label can be ambiguous unless its meaning is explained.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5f15d656ec536b2986240646a2d07bb6a864f9ce20c4b016b564bce2a318368e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The meaning of a local label\", what information did the stall add beside each product?",
+          "options": {
+            "A": "The number of employees at each supplier.",
+            "B": "The region where it was grown.",
+            "C": "The owner's private address.",
+            "D": "The shop's monthly electricity bill."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 The region where it was grown.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4fd1855399a87bd0cdd1444702cb93ef865e12395301c7b8353d4e5e0ddc1333"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The meaning of a local label\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "A positive label can be ambiguous unless its meaning is explained.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：A positive label can be ambiguous unless its meaning is explained.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "0894a30dd06d7a9216af2e9a68c5f309798f0ea936f066e972a78483e88c28c7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The meaning of a local label\", the word \"origin\" is closest in meaning to _____.",
+          "options": {
+            "A": "thrown away",
+            "B": "portion of a total",
+            "C": "willingness to give or share",
+            "D": "place something comes from"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，origin 的含义为 place something comes from。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e2a1ab0971585d77741f86f18a82feea5884337a8e4818b7ba541014959701f5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The meaning of a local label\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "dbcb4e17b4865cbc7f41032b6d4ecd6f128e1b61f8c317ab45802f0647ea9fc7"
+        }
+      ],
+      "contentFingerprint": "9d49a2d0a0dbc3d0b2d2e8d219caf20d5edf212520c0ca32af7ce2da9f89eac6"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Neighbours cooking together",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Residents in a block of flats organised a monthly meal using ingredients left from the week's shopping. The first invitation simply asked everyone to bring 'anything spare'. This produced plenty of bread but few ingredients for a main dish. The next month, one volunteer collected a list in advance and suggested combinations. Participants still chose what to contribute, and nobody was expected to buy extra food. The meal became easier to prepare and remained inexpensive. Organisers also asked about dietary needs before planning. Cooperation worked better when generosity was supported by a little information.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Neighbours cooking together\"?",
+          "options": {
+            "A": "Making product descriptions more precise",
+            "B": "Planning a shared meal from available ingredients",
+            "C": "Matching rescued food with realistic household needs",
+            "D": "Using categories to understand kitchen waste"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Planning a shared meal from available ingredients”展开：Light coordination can help voluntary contributions fit together.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "9be9fc8753e0ac63f550bf25c60fd89d14ddff3de44b081920dfbde7a10a78e8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Neighbours cooking together\", what did the volunteer collect before the second meal?",
+          "options": {
+            "A": "A list of additional food everyone must buy.",
+            "B": "The price of every participant's kitchen equipment.",
+            "C": "A list of the ingredients people could contribute.",
+            "D": "A fixed payment from every resident."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 A list of the ingredients people could contribute.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6eaaf4693cc91b22d9ab00b44db2a993503bd7f202530e45c97417273e25edbe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Neighbours cooking together\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Light coordination can help voluntary contributions fit together."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Light coordination can help voluntary contributions fit together.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d0d7d883e2ab4899fcc77a9ce1d202ef496e9e23e98b917f901f4eec560ee3b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Neighbours cooking together\", the word \"generosity\" is closest in meaning to _____.",
+          "options": {
+            "A": "willingness to give or share",
+            "B": "thrown away",
+            "C": "portion of a total",
+            "D": "place something comes from"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，generosity 的含义为 willingness to give or share。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "1669808ac2416a91c42792dab3fb1d25999658ec4b40d806de4504d83e534418"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Neighbours cooking together\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "0335494a8b870fe57056815a8167be61c6be0fbf84fa6c76078807309e378622"
+        }
+      ],
+      "contentFingerprint": "73758eb548ccc455b76fd5171e81020fe5283d95c1ba7ead01485051288a29cb"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The guide at Orchard Food Cooperative answered each beginner's question with great _____.",
+      "options": {
+        "A": "pressure",
+        "B": "profit",
+        "C": "permission",
+        "D": "patience"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "with great patience 表示十分耐心地，与解答初学者问题相符。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "72590b36434b9fa86f9e02d42def5a587e5fee484850c998eada5edf34bbc977"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The seasonal-produce briefing offers a useful _____ to practise a skill under guidance.",
+      "options": {
+        "A": "opportunity",
+        "B": "obstacle",
+        "C": "objection",
+        "D": "opposition"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "opportunity to do 表示做某事的机会。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9d65682ec61a1f0a0bd1bf2df5d6eb3d13f9885400f7e3065e46e61ac5ad05d3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Visitors to Orchard Food Cooperative should not _____ that every service is available without booking.",
+      "options": {
+        "A": "presume upon",
+        "B": "assume",
+        "C": "consume",
+        "D": "resume"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "assume 在此意为想当然地认为，后接 that 从句。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "21a5a568093b8dbc6a800369b85f7fb82160fe519e5ae86e8b5da21492cf295e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "A volunteer demonstrated how to _____ a digital weighing scale without damaging it.",
+      "options": {
+        "A": "harvest",
+        "B": "happen",
+        "C": "handle",
+        "D": "hesitate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "handle 表示操作、使用，符合设备使用语境。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d7d83c419f90800081c2319bf62c33041c170320964f5b2ab562b9f0a7cde3aa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The session at Orchard Food Cooperative was divided into shorter parts to help learners _____.",
+      "options": {
+        "A": "celebrate",
+        "B": "calculate",
+        "C": "circulate",
+        "D": "concentrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "concentrate 表示集中注意力；较短环节有助于专注。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "135dbe6a6f45f047e451ba69f46361fe89f47e61fb665f388aa937aee69842b6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organiser changed the room for the seasonal-produce briefing in _____ to a request for easier access.",
+      "options": {
+        "A": "response",
+        "B": "respect",
+        "C": "return",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "41e9d3a9180d437f5811a84b643067c9c991b0acd0a431141f4c0f914a8966ff"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "At Orchard Food Cooperative, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "recipe",
+        "B": "record",
+        "C": "reward",
+        "D": "retreat"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "df84a280746cf9887eb63498c0a8a7e1f8c2f618fb9c66a6938f8d2e99b7c787"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The assistant _____ the visitor that a replacement for a digital weighing scale would be available.",
+      "options": {
+        "A": "endured",
+        "B": "acquired",
+        "C": "assured",
+        "D": "insured"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "237ceb6a82398210f284a119a0ae8214f58af8e21e7c312f20f9e301f85e0ec8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Participants found the practical example at the seasonal-produce briefing especially _____ to their daily needs.",
+      "options": {
+        "A": "resistant",
+        "B": "remote",
+        "C": "reluctant",
+        "D": "relevant"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "relevant to 表示与……有关、适用。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ebae8fb626467f76dacd83b8fe9c0131ae14e05e85fbd825d2f567520afdc7fb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The staff at Orchard Food Cooperative made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "adjustment",
+        "B": "achievement",
+        "C": "allowance",
+        "D": "argument"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "de8fdf49603eeddd12febb2031fe3671bd76eca353904e3eb52fb4dd1e11fdbf"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The seasonal-produce briefing was _____ useful that several learners asked for a follow-up session.",
+      "options": {
+        "A": "so",
+        "B": "such",
+        "C": "too",
+        "D": "very"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "so + 形容词 + that 构成结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8fe7b15c5ff0365f8f5350b280373717a24d4f70d7262b79b9a5c68c1656acfb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The manager at Orchard Food Cooperative suggested that the timetable _____ before publication.",
+      "options": {
+        "A": "has checked",
+        "B": "be checked",
+        "C": "is checked",
+        "D": "was checking"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "suggest 表建议时 that 从句用 should + 原形，should 可省略；此处为被动。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7672bd9facc483c45b9856bc2acdfe613d5d4a61d5875dd1dcd651889ff47715"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "There is no point in _____ to the seasonal-produce briefing without first confirming your place.",
+      "options": {
+        "A": "to travel",
+        "B": "travelled",
+        "C": "travelling",
+        "D": "travel"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "There is no point in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4df0874432f203fe1afd6bfb0735918bec9a1c177cdd55edf17bd97959a8701c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The assistant asked me where I _____ to use a digital weighing scale the following day.",
+      "options": {
+        "A": "intend",
+        "B": "will intend",
+        "C": "am intending",
+        "D": "intended"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去叙述中的间接问句使用陈述语序并保持过去时态。",
+      "knowledgePoints": [
+        "间接引语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "07a43fa0653c72e0f42afab0658952573c9df95eb49b1f65c23c24278b6a576e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Each of the volunteers at Orchard Food Cooperative _____ a copy of the current safety notice.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are having",
+        "D": "were having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b4fd82b888584def7f934fe8896d4ef7ff53447d805e12cc6f6f04ad7d8c8134"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "_____ the instructions carefully, the participant began the activity at the seasonal-produce briefing.",
+      "options": {
+        "A": "Being read",
+        "B": "Having read",
+        "C": "To have read",
+        "D": "Read"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8a41c9cc3aecd57be9f460a4ab74fa03c846fe7c2202d09e88491a96b59a413e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The room at Orchard Food Cooperative is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "seat",
+        "B": "seated",
+        "C": "to seat",
+        "D": "seating"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec615eb55d2faee568b0ecde079a30591d4262edb8bfc36c21179bb02a9cdad0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "I would have borrowed a digital weighing scale if I _____ that it was available last week.",
+      "options": {
+        "A": "know",
+        "B": "have known",
+        "C": "will know",
+        "D": "had known"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f6bfef1263b739b4199b3a2caa2a23071620ff9c36d0923897996a4768fbe03b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The tutor explained _____ the seasonal-produce briefing had been moved to another room.",
+      "options": {
+        "A": "why",
+        "B": "because",
+        "C": "due to",
+        "D": "owing to"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "explain 后接 why 引导的宾语从句表示原因。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0fee4e1bec92c18995cf8b865948ff5afbc741b450a55f412cf39d29538ac06f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Staff at Orchard Food Cooperative have used this booking system _____ three years.",
+      "options": {
+        "A": "from",
+        "B": "for",
+        "C": "since",
+        "D": "during of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "71c99d4eced5ae299448674196b79e20e7243b8bf8b77f67cc6824960657aab7"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nThe appearance of a vegetable tells us little about the effort used to grow it. Food that looks unusual may still be suitable for a meal. Reducing waste requires better planning as well as a change in expectations. Buying only what we can use is a small but useful beginning.",
+      "referenceAnswer": "蔬菜的外观很难告诉我们种植它付出了多少努力。样子不寻常的食物仍然可能适合做成一餐。减少浪费既需要更好的计划，也需要改变期望。只购买能够用完的食物，是一个虽小却有用的开端。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "fcc999a360364a44251e0e48cdcdf371f116cacc228045838883ce87eea353b2",
+      "referenceAnswerFingerprint": "0f470786cb71214475d2468ba83b2b14541b46b801fb938df7162f1f8fb7e309"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDescribe a plan for reducing food waste in a local market. Explain how sellers and buyers could cooperate and how success could be measured.",
+      "sampleAnswer": "A local market could reduce food waste by helping sellers plan late-day sales and helping buyers purchase realistic quantities. Stalls might display discounted produce in smaller mixed bags, with contents clearly listed. This would make unusual-looking vegetables useful to households without giving them more than they can eat. Buyers could be encouraged to bring a short shopping plan and suitable containers. The market should measure unsold edible food before and after the trial, rather than relying only on the number of bags sold. A brief customer survey could also ask whether the food was actually used. Success would mean less waste across the whole journey from stall to kitchen, not simply moving unwanted food from one place to another.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "800d6db737f0d0d6d435315040984bd334ae5c7c2d0681fd25e468e64d15ff07",
+      "sampleAnswerFingerprint": "9b469b4be47cbbb6679cf45280b1226b144d2da2d24ec97f934650ee03818862"
+    }
+  ],
+  "fingerprintManifest": [
+    "beebe867079fa4648ca1df3aaf6f579f86e9f2f0ad88ba657f803ff06ea61b80",
+    "7b459f2c1265f1fdeb1121a630ad10a75e4c29a650e07ff85da974d1ddf45db7",
+    "9a4a3b6b3ae4dcd282f8f3d8850a4d56e324a60e0ff697ccf86c44af2e1a7516",
+    "485d409e9f9b45b8158e8f2625ce7a6506bd6f3f3c7a329087ab2e5c64b68ba7",
+    "c134cd188dd33fe7e9ca8da10b927ab98b72c1a47c9cbb0f4edd6ded53ea3f91",
+    "053642482ae3a18b5987983ca7925fd2062b7648dd6759c015b468ecb6b77d95",
+    "b838f0df07252ffea790132ce58978f2af40250d2612e40230c5e6c710bdd998",
+    "61717816f30dcfd816e93bcb82d53bca36f99d1ebf26b47c4d48e17ff0d9c219",
+    "13f96c771e7651f9b70f965b7f8996f38676e736698771654efe44d7113ba6e6",
+    "103b4a6945fa9be8d4c5b9ddd3301411b5995701f988b0e2a4378e1829c1f7ee",
+    "d3bfe7713f76a8401f7e67bf933e14ab7ea4fafb8bafab9cd92e817f64813e4c",
+    "a98b8602e194949d94aa3a7cae931f090a7ded58bf666b4b19171110b88a1235",
+    "78a2f3dfc5f78fd852fe36a8d1aeef30aa42788138c0e6c418e72817748f557a",
+    "ffca20f04bd7158f8ea3fe522c98333b69a4d57ab87f25806f1656f8266421f2",
+    "ed99b372765ea39f72283208488c5bf412b18582d528ae495ee4f0a13dfa5fa7",
+    "8d873047a6cd6d2528eb2c5fa5037cdfc45c823901f09434cb8a22447bd18d32",
+    "c047df65d2b012ba4561344a16b4e78cb3f0e825f2363ea2745219b71ce91bbe",
+    "b48a2e0b9d1728a604b524ac55d89594f86dba9ea9898830ac598aa849ab79d9",
+    "2b10f439f76302b501cbfb5a9b3ad8e6ddb14524ba44cc38f53577a9eec9c003",
+    "a7ebd164e4f6de67db0e4381c744ee63fd59ccc8b902bfabba4bd85f6562b7aa",
+    "a48a40f4472d4f5c333652f61ca5e9ca123b3364e69c288dfe2393925c35c639",
+    "041fee6e7c6cfc7a5318d4e3c404d6c125c0ba565f73b4e534aef050b2ebd9d5",
+    "b414b84eddb66d1cccf0c3cebeaa21fb00c1c27cd58cbd713e20f9908dde8f9d",
+    "7b3734f27752c7a6142aed02f0f1d1ac1ce20974fa8536d80625a4e60025c79e",
+    "2a316919daf45165d07a45ab56fe8249aa0d60aef078add0f4c2951a97acd53b",
+    "9d49a2d0a0dbc3d0b2d2e8d219caf20d5edf212520c0ca32af7ce2da9f89eac6",
+    "5f15d656ec536b2986240646a2d07bb6a864f9ce20c4b016b564bce2a318368e",
+    "4fd1855399a87bd0cdd1444702cb93ef865e12395301c7b8353d4e5e0ddc1333",
+    "0894a30dd06d7a9216af2e9a68c5f309798f0ea936f066e972a78483e88c28c7",
+    "e2a1ab0971585d77741f86f18a82feea5884337a8e4818b7ba541014959701f5",
+    "dbcb4e17b4865cbc7f41032b6d4ecd6f128e1b61f8c317ab45802f0647ea9fc7",
+    "73758eb548ccc455b76fd5171e81020fe5283d95c1ba7ead01485051288a29cb",
+    "9be9fc8753e0ac63f550bf25c60fd89d14ddff3de44b081920dfbde7a10a78e8",
+    "6eaaf4693cc91b22d9ab00b44db2a993503bd7f202530e45c97417273e25edbe",
+    "d0d7d883e2ab4899fcc77a9ce1d202ef496e9e23e98b917f901f4eec560ee3b7",
+    "1669808ac2416a91c42792dab3fb1d25999658ec4b40d806de4504d83e534418",
+    "0335494a8b870fe57056815a8167be61c6be0fbf84fa6c76078807309e378622",
+    "72590b36434b9fa86f9e02d42def5a587e5fee484850c998eada5edf34bbc977",
+    "9d65682ec61a1f0a0bd1bf2df5d6eb3d13f9885400f7e3065e46e61ac5ad05d3",
+    "21a5a568093b8dbc6a800369b85f7fb82160fe519e5ae86e8b5da21492cf295e",
+    "d7d83c419f90800081c2319bf62c33041c170320964f5b2ab562b9f0a7cde3aa",
+    "135dbe6a6f45f047e451ba69f46361fe89f47e61fb665f388aa937aee69842b6",
+    "41e9d3a9180d437f5811a84b643067c9c991b0acd0a431141f4c0f914a8966ff",
+    "df84a280746cf9887eb63498c0a8a7e1f8c2f618fb9c66a6938f8d2e99b7c787",
+    "237ceb6a82398210f284a119a0ae8214f58af8e21e7c312f20f9e301f85e0ec8",
+    "ebae8fb626467f76dacd83b8fe9c0131ae14e05e85fbd825d2f567520afdc7fb",
+    "de8fdf49603eeddd12febb2031fe3671bd76eca353904e3eb52fb4dd1e11fdbf",
+    "8fe7b15c5ff0365f8f5350b280373717a24d4f70d7262b79b9a5c68c1656acfb",
+    "7672bd9facc483c45b9856bc2acdfe613d5d4a61d5875dd1dcd651889ff47715",
+    "4df0874432f203fe1afd6bfb0735918bec9a1c177cdd55edf17bd97959a8701c",
+    "07a43fa0653c72e0f42afab0658952573c9df95eb49b1f65c23c24278b6a576e",
+    "b4fd82b888584def7f934fe8896d4ef7ff53447d805e12cc6f6f04ad7d8c8134",
+    "8a41c9cc3aecd57be9f460a4ab74fa03c846fe7c2202d09e88491a96b59a413e",
+    "ec615eb55d2faee568b0ecde079a30591d4262edb8bfc36c21179bb02a9cdad0",
+    "f6bfef1263b739b4199b3a2caa2a23071620ff9c36d0923897996a4768fbe03b",
+    "0fee4e1bec92c18995cf8b865948ff5afbc741b450a55f412cf39d29538ac06f",
+    "71c99d4eced5ae299448674196b79e20e7243b8bf8b77f67cc6824960657aab7",
+    "fcc999a360364a44251e0e48cdcdf371f116cacc228045838883ce87eea353b2",
+    "0f470786cb71214475d2468ba83b2b14541b46b801fb938df7162f1f8fb7e309",
+    "800d6db737f0d0d6d435315040984bd334ae5c7c2d0681fd25e468e64d15ff07",
+    "9b469b4be47cbbb6679cf45280b1226b144d2da2d24ec97f934650ee03818862"
+  ],
+  "contentFingerprint": "8781e58937dc6e2ba334ae77037ba0fa8850963502c7ec2e40b8185dbf87fe31"
+}

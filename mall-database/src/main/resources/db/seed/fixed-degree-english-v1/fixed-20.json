@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-20",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 20 · 社区地图与公民参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 20,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the neighbourhood-mapping walk",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the neighbourhood-mapping walk at Meadow Mapping Project.\nCoordinator: (1) _____\nVisitor: Saturday evening would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Contact Meadow Mapping Project before the session so that we can offer your place to someone else.",
+        "B": "Which day would be convenient for you to attend?",
+        "C": "Please come to the park information kiosk.",
+        "D": "Bring a notebook; we can provide a distance-measuring wheel."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the neighbourhood-mapping walk\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Contact Meadow Mapping Project before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the park information kiosk.",
+            "D": "Bring a notebook; we can provide a distance-measuring wheel."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a0c2128241bbc132653d905c3e0659444de7fd2ea106775ef8e7380c869d1c36"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the neighbourhood-mapping walk\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Contact Meadow Mapping Project before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the park information kiosk.",
+            "D": "Bring a notebook; we can provide a distance-measuring wheel."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "64d9e5e9e73c9b02095fb68c159584601fd673d3f5384fb03b9797112ab8629c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the neighbourhood-mapping walk\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Contact Meadow Mapping Project before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the park information kiosk.",
+            "D": "Bring a notebook; we can provide a distance-measuring wheel."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3753e54c87b203f95c7a8a9890bcdaa3001428e8babdcec6a61bd6083abc1829"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the neighbourhood-mapping walk\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Contact Meadow Mapping Project before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the park information kiosk.",
+            "D": "Bring a notebook; we can provide a distance-measuring wheel."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "78a07e03e0d10f48541b53ae80f40bc8d9cfa4a7470f996ece30dc4e697abae9"
+        }
+      ],
+      "contentFingerprint": "907b6edf0ecee6350386939c67b8f1a117e9acc52cb0ec77af3cd32d8b81e8c2"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Meadow Mapping Project",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a distance-measuring wheel from Meadow Mapping Project, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The counter no longer turns. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the neighbourhood-mapping walk?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Could you describe the fault you noticed?",
+        "B": "Yes. You can use the wheel with the white handle.",
+        "C": "Please leave it with us and complete a short fault report.",
+        "D": "You must purchase every item you use at the session."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Meadow Mapping Project\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the wheel with the white handle.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "13ab5fa7cea01fe87706a203f4abd4d1f51a5b59ef8911feb5a82d454dc0814f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Meadow Mapping Project\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the wheel with the white handle.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8bdb70b7940df97fcdf45ce74e29a58f8deed2328ff0f1fa3e7188b08f5caa97"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Meadow Mapping Project\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the wheel with the white handle.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "9df8836d608a1964e0526bef1f2184a6007f2df633281de461f84a5582a83077"
+        }
+      ],
+      "contentFingerprint": "a1d7599d592cfe4f2a11fa6f8b0962a51a55586249ebb2c03a63207d041a812b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Meadow Mapping Project",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the neighbourhood-mapping walk, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Use the current map of Meadow Mapping Project and the list of rooms for the neighbourhood-mapping walk.",
+        "B": "Ask the session coordinator to help; you do not have to guess.",
+        "C": "You should promise to solve every problem without asking anyone.",
+        "D": "You could welcome visitors at the park information kiosk while the other volunteers prepare."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Meadow Mapping Project\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Use the current map of Meadow Mapping Project and the list of rooms for the neighbourhood-mapping walk.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the park information kiosk while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "42686f2d3379ef7fdcae6f02d63d4ba9d322d75c5e148e62571a15aa2489feef"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Meadow Mapping Project\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Use the current map of Meadow Mapping Project and the list of rooms for the neighbourhood-mapping walk.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the park information kiosk while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0212ebd0bdde137bf0a410a80d1ad225b12d8ec240d5d165bfac135bf2229b46"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Meadow Mapping Project\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Use the current map of Meadow Mapping Project and the list of rooms for the neighbourhood-mapping walk.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the park information kiosk while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "33d199a61d7028f3b5a21911a123630f5f9817868aa2dcb15a520cdfb2a11951"
+        }
+      ],
+      "contentFingerprint": "2a244bcae0081bf4222d6858d632d8ff588c667cdac621ac535ef72e799b4931"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The path missing from the map",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Meadow Mapping Project asked residents to mark routes they used regularly. A narrow path behind the shops appeared in many replies but not on the printed town map. Before adding it, volunteers checked whether it was public and whether access changed at night. They discovered that part crossed private land with permission limited to daylight hours. The community map included the route with that condition clearly stated. Local knowledge had identified a useful connection, but checking its status prevented misleading advice. A map could serve newcomers only if its attractive shortcuts were described accurately.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The path missing from the map\"?",
+          "options": {
+            "A": "Balancing helpful local information with privacy",
+            "B": "Keeping a community map useful through regular updates",
+            "C": "Checking a locally known route before publishing it",
+            "D": "Understanding a crossing through users' journeys"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Checking a locally known route before publishing it”展开：Local suggestions need checking before they become public guidance.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "20b0d0273256f138ee55d029bb1b144e00f11d85e0aec16018408f3186e4e239"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The path missing from the map\", what condition applied to the newly identified path?",
+          "options": {
+            "A": "It was open only to delivery vans.",
+            "B": "It could be used at all hours without permission.",
+            "C": "It was permanently closed to everyone.",
+            "D": "Permission to use part of it was limited to daylight."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Permission to use part of it was limited to daylight.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "49088757da2879169c56f901dff1f2eecb4b821c6bd3ae891b9552e920003acf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The path missing from the map\"?",
+          "options": {
+            "A": "Local suggestions need checking before they become public guidance.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Local suggestions need checking before they become public guidance.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "50e398492c6e54a8f39bc8beda5efdaf025a514d9494c972adb2977d69ace1af"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The path missing from the map\", the word \"status\" is closest in meaning to _____.",
+          "options": {
+            "A": "lasting for a limited period",
+            "B": "official or practical condition",
+            "C": "not moving or changing",
+            "D": "the act of making information known"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，status 的含义为 official or practical condition。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2543e988bd21e3b8d71614b9aaec3b45a68d9f2c2d9506873d95e3f33b51e1a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The path missing from the map\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ba8ac65e2643a766550fed41f592cea63f5aeb3e208795522e999fc8d7a03647"
+        }
+      ],
+      "contentFingerprint": "c2509319c4bb0e8f70b8ba42c0d7d673b9aa8f7ddef77889f88e8525845b506b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A crossing seen at walking speed",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A planning team assessed a neighbourhood crossing from photographs and found it clear. Residents who used walking aids reported a different experience: the green signal ended before they comfortably reached the other side. Volunteers timed the crossing with permission and recorded the route to the button as well as the road width. The report gave planners specific observations to investigate. It did not require claiming that every pedestrian moved at the same pace. Looking at the crossing through actual journeys revealed a problem that a still image could not show.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A crossing seen at walking speed\"?",
+          "options": {
+            "A": "Checking a locally known route before publishing it",
+            "B": "Balancing helpful local information with privacy",
+            "C": "Keeping a community map useful through regular updates",
+            "D": "Understanding a crossing through users' journeys"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Understanding a crossing through users' journeys”展开：A static view can miss difficulties that appear during real use.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "fe4d8496f2abb7463959fb0651d139a3117a27105df6b4c47f7062a386840238"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A crossing seen at walking speed\", what difficulty did some residents report?",
+          "options": {
+            "A": "The crossing time was too short for a comfortable passage.",
+            "B": "The photographs showed the wrong country.",
+            "C": "The button had been removed years earlier.",
+            "D": "There was no road to cross."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The crossing time was too short for a comfortable passage.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "f00d9a9c51efe44b8a612ce23685e7600817dd678f8051520076f60c1cc8f278"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A crossing seen at walking speed\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A static view can miss difficulties that appear during real use.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A static view can miss difficulties that appear during real use.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f8975a143bee4699d213e3db4e13a7d9e40a155208036477d43fd58ba5642c55"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A crossing seen at walking speed\", the word \"static\" is closest in meaning to _____.",
+          "options": {
+            "A": "the act of making information known",
+            "B": "lasting for a limited period",
+            "C": "not moving or changing",
+            "D": "official or practical condition"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，static 的含义为 not moving or changing。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "154948fbc59608cb16af2aba5139c582a5b170cda72f678abb65418a5260a4a7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A crossing seen at walking speed\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "30c11bb5dc4c8a76626bbf68435b696d663d7adf349f96cff919ec11173a0313"
+        }
+      ],
+      "contentFingerprint": "1597940d0d42cec39ce4519780dea47c49ff5edf07bc34fc0a02d61b04d316ea"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The useful place and the private home",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Volunteers making a neighbourhood map wanted to identify residents who could help newcomers. One suggested marking the homes of people with practical skills. Others pointed out that willingness to help at a community event did not mean permission to publish a home address. The group instead listed a shared contact point where residents could offer help voluntarily. The map remained useful without exposing personal locations. More information was not always better information. The organisers learnt to ask whether a detail was necessary for the map's purpose and whether the person concerned had agreed to share it.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The useful place and the private home\"?",
+          "options": {
+            "A": "Balancing helpful local information with privacy",
+            "B": "Checking a locally known route before publishing it",
+            "C": "Understanding a crossing through users' journeys",
+            "D": "Keeping a community map useful through regular updates"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Balancing helpful local information with privacy”展开：Useful public information can be provided without unnecessary personal disclosure.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "1e207e74e9ba8c082b94db49c4ace3dc437be95cbcb9fa415585942de7813b6f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The useful place and the private home\", what did the map list instead of private home addresses?",
+          "options": {
+            "A": "A compulsory list of personal phone numbers.",
+            "B": "A shared contact point for voluntary offers of help.",
+            "C": "A directory of every resident's home.",
+            "D": "The private schedule of each volunteer."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 A shared contact point for voluntary offers of help.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "cf8d9a8c594746bc7b665b0760b0c748880f86bbe0f6a6b95880c676b620cc98"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The useful place and the private home\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Useful public information can be provided without unnecessary personal disclosure.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Useful public information can be provided without unnecessary personal disclosure.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "465d019658adca137922866e392faad1c84f45e969e8a5f6632fbf0c8c7e3fc1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The useful place and the private home\", the word \"disclosure\" is closest in meaning to _____.",
+          "options": {
+            "A": "official or practical condition",
+            "B": "not moving or changing",
+            "C": "lasting for a limited period",
+            "D": "the act of making information known"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，disclosure 的含义为 the act of making information known。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "8e314ae8e9566bed3fb1241570a94f00f6606a24d020d228a712e204471d67fd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The useful place and the private home\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7ca14ec732285c9d857ff5738d5476fcd32d9b745871a9e1aeb1f5e58d914a3a"
+        }
+      ],
+      "contentFingerprint": "db0a1763a806cfac10b919ed6ef06d472b2b2fd21149c4ff5430b4d01e845277"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A map with a date",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A community map marked a drinking fountain that had been removed during building work. After a visitor reported the error, volunteers realised they had no regular update process. They added a publication date, a way to report changes and a schedule for checking frequently used facilities. They also distinguished temporary closures from permanent removal. The map would never remain accurate without attention, but users could now judge its age and contribute corrections. Maintaining information was less visible than launching the original project. It was equally important to the trust that made the map useful.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"A map with a date\"?",
+          "options": {
+            "A": "Balancing helpful local information with privacy",
+            "B": "Keeping a community map useful through regular updates",
+            "C": "Checking a locally known route before publishing it",
+            "D": "Understanding a crossing through users' journeys"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Keeping a community map useful through regular updates”展开：A useful information project needs maintenance after its initial launch.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "72309146eab7c813c86de63670bec3118db918851ca1dc67882334f60d218687"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"A map with a date\", what new feature allowed users to contribute corrections?",
+          "options": {
+            "A": "A promise that the map could never be wrong.",
+            "B": "A ban on suggestions after publication.",
+            "C": "A way to report changes.",
+            "D": "An undated paper copy with no contact details."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 A way to report changes.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "680c292b1e1522c1c7538f751d8a5122d4994fa7b3e1dd07e88a082050f7f022"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"A map with a date\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "A useful information project needs maintenance after its initial launch."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：A useful information project needs maintenance after its initial launch.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "4b3fbdba87d8790fcb4baf1a928d35e7cc17937fdedf6653aa6d422f167e10e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"A map with a date\", the word \"temporary\" is closest in meaning to _____.",
+          "options": {
+            "A": "lasting for a limited period",
+            "B": "official or practical condition",
+            "C": "not moving or changing",
+            "D": "the act of making information known"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，temporary 的含义为 lasting for a limited period。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "8a30a4ea30bf8684a09e00e178ddbf7a762de6f1c12a7cce4a7ddfefc1320772"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"A map with a date\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6767641706da8daa8a951b8fbcce974214dd04c4e538fdbc227714b37c1e552c"
+        }
+      ],
+      "contentFingerprint": "40b7003c3cc95edb0a7ad50928f74a676408b4d9c8d209a2ddb8e51f7f1e9c62"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The session at Meadow Mapping Project was divided into shorter parts to help learners _____.",
+      "options": {
+        "A": "celebrate",
+        "B": "calculate",
+        "C": "circulate",
+        "D": "concentrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "concentrate 表示集中注意力；较短环节有助于专注。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3a79d171502c657d337b1710875eb809413fe599b3f10ea6043615b2bfa88e89"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The organiser changed the room for the neighbourhood-mapping walk in _____ to a request for easier access.",
+      "options": {
+        "A": "response",
+        "B": "respect",
+        "C": "return",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "20faa2307167a7a56151de4a7b75632ed9ea2e7360017d698f1c4b1bbff74dc7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "At Meadow Mapping Project, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "recipe",
+        "B": "record",
+        "C": "reward",
+        "D": "retreat"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "33f9e5fb9cd0072abc840052556af4d7217c67b1815d3a85d74d8d27ac180c2a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The assistant _____ the visitor that a replacement for a distance-measuring wheel would be available.",
+      "options": {
+        "A": "endured",
+        "B": "acquired",
+        "C": "assured",
+        "D": "insured"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "eb26991093d8101bd861644586597e0f004ebf337ff04523b67e97c24ba793cd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Participants found the practical example at the neighbourhood-mapping walk especially _____ to their daily needs.",
+      "options": {
+        "A": "resistant",
+        "B": "remote",
+        "C": "reluctant",
+        "D": "relevant"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "relevant to 表示与……有关、适用。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "721aba0800d5810939944d263d7deb2399539bb665316907d402d09cabbc624d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The staff at Meadow Mapping Project made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "adjustment",
+        "B": "achievement",
+        "C": "allowance",
+        "D": "argument"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "072a8edd2e4132a96561f3c6fb3e3d1ab48912027c42002a7e2be578a8876515"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The borrowed a distance-measuring wheel must be returned _____ so that the next person can use it as arranged.",
+      "options": {
+        "A": "secretly",
+        "B": "promptly",
+        "C": "rarely",
+        "D": "roughly"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "promptly 表示及时地，与保证下一位使用者按计划使用相符。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f92f3272c7d72321fdeb1831b61c04cfa52c1d31007bb7096679d6df04faac73"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The coordinator at Meadow Mapping Project tried to _____ the disagreement before it affected the whole group.",
+      "options": {
+        "A": "reverse",
+        "B": "receive",
+        "C": "resolve",
+        "D": "reserve"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "resolve a disagreement 表示解决分歧。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3ca7ae502258cddea5fe432b849d6e06a2c88563b32fe13e7afda28ee987ec65"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "At the neighbourhood-mapping walk, learners were encouraged to ask for _____ whenever an instruction was unclear.",
+      "options": {
+        "A": "celebration",
+        "B": "classification",
+        "C": "compensation",
+        "D": "clarification"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "clarification 表示澄清、进一步说明，针对不清楚的指示。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "88ed634f53291651d6db3f0a8cb27dcdbaff53260194b3c61d02c510932dc1e1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The new storage arrangement at Meadow Mapping Project proved _____: it saved time without requiring extra staff.",
+      "options": {
+        "A": "efficient",
+        "B": "enormous",
+        "C": "emotional",
+        "D": "external"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "efficient 表示高效，后句节省时间且无需额外人手解释其含义。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1074477a193b34b274357a22a60ff46d1ea19253fdc504954aec60e8e91c3d18"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Each of the volunteers at Meadow Mapping Project _____ a copy of the current safety notice.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are having",
+        "D": "were having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "192fa5356dd8187894c0ef88b5aa486fd62cbdf3decb39b8bb5283b821f789d7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "_____ the instructions carefully, the participant began the activity at the neighbourhood-mapping walk.",
+      "options": {
+        "A": "Being read",
+        "B": "Having read",
+        "C": "To have read",
+        "D": "Read"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "426500515339435ef13091214f02eb242f13e712dda1e68e846ef15cdaa8412a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The room at Meadow Mapping Project is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "seat",
+        "B": "seated",
+        "C": "to seat",
+        "D": "seating"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c44267447522f1d74611c4ba78e0821cca9b49df61ce98b9a926088c9c2c5734"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "I would have borrowed a distance-measuring wheel if I _____ that it was available last week.",
+      "options": {
+        "A": "know",
+        "B": "have known",
+        "C": "will know",
+        "D": "had known"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b28963f657021c13eb8aef7b05a10fb5c774c9b866623014d2d641647bff239c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The tutor explained _____ the neighbourhood-mapping walk had been moved to another room.",
+      "options": {
+        "A": "why",
+        "B": "because",
+        "C": "due to",
+        "D": "owing to"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "explain 后接 why 引导的宾语从句表示原因。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7fef7b4b04935bda07641e6dcf57dc5d24c04699fa02469aaa06f20646d3b9c6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff at Meadow Mapping Project have used this booking system _____ three years.",
+      "options": {
+        "A": "from",
+        "B": "for",
+        "C": "since",
+        "D": "during of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f2ea74d7423b0f6a9a35303eb8924a4b694eb9075963902be530f7682774e72f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "It is essential _____ a distance-measuring wheel before passing it to another borrower.",
+      "options": {
+        "A": "inspect",
+        "B": "inspected",
+        "C": "to inspect",
+        "D": "inspecting"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "It is + 形容词 + to do，it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "43648ac469cb658564fc0f95599b77fdbcaf93b226db78908b5506866ab8a0dd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The neighbourhood-mapping walk will go ahead _____ enough people confirm their attendance.",
+      "options": {
+        "A": "even if not",
+        "B": "in spite of",
+        "C": "because of",
+        "D": "provided that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "provided that 引导条件从句，后接完整句子。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1507456f85a95bd3f14cdaa18f55b022a99bf46d62e5db9c77f54c7c42285603"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The notice at Meadow Mapping Project is much _____ to read than the old version.",
+      "options": {
+        "A": "easier",
+        "B": "easy",
+        "C": "easiest",
+        "D": "more easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "much 修饰比较级；easy 的比较级为 easier。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d35d6d7941991a1ac0a4f26d870af99d6f277c9a7c0406d8a497d5bb807fac91"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "When _____ correctly, a distance-measuring wheel should remain in good condition for a long time.",
+      "options": {
+        "A": "stores",
+        "B": "stored",
+        "C": "storing",
+        "D": "to store"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "when stored correctly 相当于 when it is stored correctly，主语为被储存的物品。",
+      "knowledgePoints": [
+        "省略与被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9f1c130314086eae65da85b598bbbe18d423b79b4b1345eed4c4717af0ad905a"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA map reflects decisions about what is important enough to show. Residents may notice a useful path or a difficult crossing that a general map leaves out. Their knowledge can improve local information, provided it is checked and updated. A useful map also respects the privacy of the people who live there.",
+      "referenceAnswer": "地图体现了对哪些信息重要到值得标示的判断。居民可能注意到一般地图遗漏的实用小路或难以通过的路口。只要这些信息经过核实和更新，他们的知识就能改善本地信息。实用的地图还应尊重当地居民的隐私。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "825c1f1477d90c78d0538e4823bfdb5d4b322b1f1edd544a90d7c474596f9403",
+      "referenceAnswerFingerprint": "1927c17530c5376928e23396cba5b7fb8b318662b3a595186d2138978e71f7cd"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite a plan for a community map useful to newcomers. Explain what information to include, how to check it, and how to protect personal privacy.",
+      "sampleAnswer": "A community map for newcomers should show useful public places, walking connections and access information, such as steps or limited opening hours. Residents could suggest details, but volunteers should check them with site managers or direct observation before publication. Each edition should carry a date and offer a simple way to report changes. Frequently used routes and facilities should be checked regularly. The map should avoid publishing private home addresses or personal details without clear permission. If residents wish to offer help, a shared contact point would be safer and easier to maintain. A useful map is not the one containing the most information. It is the one whose relevant information people can understand, trust and keep current.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "2262047014c376bc2c27e3eeb20ac2b38b26cba9f8201fa6af746be7aff80993",
+      "sampleAnswerFingerprint": "3effaabb66bd5d78fc7fae5c2eceff3cee9efe294838e39e536a78494bb849cc"
+    }
+  ],
+  "fingerprintManifest": [
+    "907b6edf0ecee6350386939c67b8f1a117e9acc52cb0ec77af3cd32d8b81e8c2",
+    "a0c2128241bbc132653d905c3e0659444de7fd2ea106775ef8e7380c869d1c36",
+    "64d9e5e9e73c9b02095fb68c159584601fd673d3f5384fb03b9797112ab8629c",
+    "3753e54c87b203f95c7a8a9890bcdaa3001428e8babdcec6a61bd6083abc1829",
+    "78a07e03e0d10f48541b53ae80f40bc8d9cfa4a7470f996ece30dc4e697abae9",
+    "a1d7599d592cfe4f2a11fa6f8b0962a51a55586249ebb2c03a63207d041a812b",
+    "13ab5fa7cea01fe87706a203f4abd4d1f51a5b59ef8911feb5a82d454dc0814f",
+    "8bdb70b7940df97fcdf45ce74e29a58f8deed2328ff0f1fa3e7188b08f5caa97",
+    "9df8836d608a1964e0526bef1f2184a6007f2df633281de461f84a5582a83077",
+    "2a244bcae0081bf4222d6858d632d8ff588c667cdac621ac535ef72e799b4931",
+    "42686f2d3379ef7fdcae6f02d63d4ba9d322d75c5e148e62571a15aa2489feef",
+    "0212ebd0bdde137bf0a410a80d1ad225b12d8ec240d5d165bfac135bf2229b46",
+    "33d199a61d7028f3b5a21911a123630f5f9817868aa2dcb15a520cdfb2a11951",
+    "c2509319c4bb0e8f70b8ba42c0d7d673b9aa8f7ddef77889f88e8525845b506b",
+    "20b0d0273256f138ee55d029bb1b144e00f11d85e0aec16018408f3186e4e239",
+    "49088757da2879169c56f901dff1f2eecb4b821c6bd3ae891b9552e920003acf",
+    "50e398492c6e54a8f39bc8beda5efdaf025a514d9494c972adb2977d69ace1af",
+    "2543e988bd21e3b8d71614b9aaec3b45a68d9f2c2d9506873d95e3f33b51e1a0",
+    "ba8ac65e2643a766550fed41f592cea63f5aeb3e208795522e999fc8d7a03647",
+    "1597940d0d42cec39ce4519780dea47c49ff5edf07bc34fc0a02d61b04d316ea",
+    "fe4d8496f2abb7463959fb0651d139a3117a27105df6b4c47f7062a386840238",
+    "f00d9a9c51efe44b8a612ce23685e7600817dd678f8051520076f60c1cc8f278",
+    "f8975a143bee4699d213e3db4e13a7d9e40a155208036477d43fd58ba5642c55",
+    "154948fbc59608cb16af2aba5139c582a5b170cda72f678abb65418a5260a4a7",
+    "30c11bb5dc4c8a76626bbf68435b696d663d7adf349f96cff919ec11173a0313",
+    "db0a1763a806cfac10b919ed6ef06d472b2b2fd21149c4ff5430b4d01e845277",
+    "1e207e74e9ba8c082b94db49c4ace3dc437be95cbcb9fa415585942de7813b6f",
+    "cf8d9a8c594746bc7b665b0760b0c748880f86bbe0f6a6b95880c676b620cc98",
+    "465d019658adca137922866e392faad1c84f45e969e8a5f6632fbf0c8c7e3fc1",
+    "8e314ae8e9566bed3fb1241570a94f00f6606a24d020d228a712e204471d67fd",
+    "7ca14ec732285c9d857ff5738d5476fcd32d9b745871a9e1aeb1f5e58d914a3a",
+    "40b7003c3cc95edb0a7ad50928f74a676408b4d9c8d209a2ddb8e51f7f1e9c62",
+    "72309146eab7c813c86de63670bec3118db918851ca1dc67882334f60d218687",
+    "680c292b1e1522c1c7538f751d8a5122d4994fa7b3e1dd07e88a082050f7f022",
+    "4b3fbdba87d8790fcb4baf1a928d35e7cc17937fdedf6653aa6d422f167e10e2",
+    "8a30a4ea30bf8684a09e00e178ddbf7a762de6f1c12a7cce4a7ddfefc1320772",
+    "6767641706da8daa8a951b8fbcce974214dd04c4e538fdbc227714b37c1e552c",
+    "3a79d171502c657d337b1710875eb809413fe599b3f10ea6043615b2bfa88e89",
+    "20faa2307167a7a56151de4a7b75632ed9ea2e7360017d698f1c4b1bbff74dc7",
+    "33f9e5fb9cd0072abc840052556af4d7217c67b1815d3a85d74d8d27ac180c2a",
+    "eb26991093d8101bd861644586597e0f004ebf337ff04523b67e97c24ba793cd",
+    "721aba0800d5810939944d263d7deb2399539bb665316907d402d09cabbc624d",
+    "072a8edd2e4132a96561f3c6fb3e3d1ab48912027c42002a7e2be578a8876515",
+    "f92f3272c7d72321fdeb1831b61c04cfa52c1d31007bb7096679d6df04faac73",
+    "3ca7ae502258cddea5fe432b849d6e06a2c88563b32fe13e7afda28ee987ec65",
+    "88ed634f53291651d6db3f0a8cb27dcdbaff53260194b3c61d02c510932dc1e1",
+    "1074477a193b34b274357a22a60ff46d1ea19253fdc504954aec60e8e91c3d18",
+    "192fa5356dd8187894c0ef88b5aa486fd62cbdf3decb39b8bb5283b821f789d7",
+    "426500515339435ef13091214f02eb242f13e712dda1e68e846ef15cdaa8412a",
+    "c44267447522f1d74611c4ba78e0821cca9b49df61ce98b9a926088c9c2c5734",
+    "b28963f657021c13eb8aef7b05a10fb5c774c9b866623014d2d641647bff239c",
+    "7fef7b4b04935bda07641e6dcf57dc5d24c04699fa02469aaa06f20646d3b9c6",
+    "f2ea74d7423b0f6a9a35303eb8924a4b694eb9075963902be530f7682774e72f",
+    "43648ac469cb658564fc0f95599b77fdbcaf93b226db78908b5506866ab8a0dd",
+    "1507456f85a95bd3f14cdaa18f55b022a99bf46d62e5db9c77f54c7c42285603",
+    "d35d6d7941991a1ac0a4f26d870af99d6f277c9a7c0406d8a497d5bb807fac91",
+    "9f1c130314086eae65da85b598bbbe18d423b79b4b1345eed4c4717af0ad905a",
+    "825c1f1477d90c78d0538e4823bfdb5d4b322b1f1edd544a90d7c474596f9403",
+    "1927c17530c5376928e23396cba5b7fb8b318662b3a595186d2138978e71f7cd",
+    "2262047014c376bc2c27e3eeb20ac2b38b26cba9f8201fa6af746be7aff80993",
+    "3effaabb66bd5d78fc7fae5c2eceff3cee9efe294838e39e536a78494bb849cc"
+  ],
+  "contentFingerprint": "e0ac61c99ae02acb5e71dc864a8c9d108c6d959f7ee2a664f74fa286105608a4"
+}

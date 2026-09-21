@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-15",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 15 · 能源观察与家庭选择",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 15,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the home-energy discussion",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the home-energy discussion at Amber Energy Group.\nCoordinator: (1) _____\nVisitor: Sunday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Bring a notebook; we can provide a plug-in power meter.",
+        "B": "Contact Amber Energy Group before the session so that we can offer your place to someone else.",
+        "C": "Which day would be convenient for you to attend?",
+        "D": "Please come to the community advice room."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the home-energy discussion\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Bring a notebook; we can provide a plug-in power meter.",
+            "B": "Contact Amber Energy Group before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the community advice room."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1bbf1ea8fdb0ea8d904d4dd020708545b18bab7a5fd805becf5f9ea646b0785e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the home-energy discussion\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Bring a notebook; we can provide a plug-in power meter.",
+            "B": "Contact Amber Energy Group before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the community advice room."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "bffdf8fac8eaec25755f03a32c4f0fcd5d124b86df12fa7c741078f0480c0789"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the home-energy discussion\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Bring a notebook; we can provide a plug-in power meter.",
+            "B": "Contact Amber Energy Group before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the community advice room."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "22a6dd7cc26b0e88f525f50122f5b16c25b23c4f5bddbafbc943773a4eadbe70"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the home-energy discussion\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Bring a notebook; we can provide a plug-in power meter.",
+            "B": "Contact Amber Energy Group before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the community advice room."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "28e15a2ff3cb08ab3752021940bdfd50b3dbca19f35f8e2020b226368c3cd81e"
+        }
+      ],
+      "contentFingerprint": "d1c44b2d911112a7ed1d8d3641a33961fe808b2ab4146a7d2fdee91ac5003db9"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Amber Energy Group",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a plug-in power meter from Amber Energy Group, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The socket cover is damaged. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the home-energy discussion?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "You must purchase every item you use at the session.",
+        "B": "Could you describe the fault you noticed?",
+        "C": "Yes. You can request the safety-checked meter.",
+        "D": "Please leave it with us and complete a short fault report."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Amber Energy Group\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can request the safety-checked meter.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e67858347355fdd4b5e4fe5599188ad51bec4acb1f433b59f0046c31fbb71ee9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Amber Energy Group\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can request the safety-checked meter.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "cea93c4388d9edc77663720f1c1d4fe394917a15eb41fb9898c1ca5ca6950b69"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Amber Energy Group\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can request the safety-checked meter.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "14e0d40f1676d905f5077233f77b5c93b268b7ab7252981edebe85095a3dd9dd"
+        }
+      ],
+      "contentFingerprint": "92d6153ba75e47662e95d3ac89fa7dd1862b2707866a9245fa4e4768b33a6937"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Amber Energy Group",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the home-energy discussion, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You could welcome visitors at the community advice room while the other volunteers prepare.",
+        "B": "Use the current map of Amber Energy Group and the list of rooms for the home-energy discussion.",
+        "C": "Ask the session coordinator to help; you do not have to guess.",
+        "D": "You should promise to solve every problem without asking anyone."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Amber Energy Group\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You could welcome visitors at the community advice room while the other volunteers prepare.",
+            "B": "Use the current map of Amber Energy Group and the list of rooms for the home-energy discussion.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bc36c916158e586e235a86734113dda9e9b11c5c186f5c9e6c288e328f5c497b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Amber Energy Group\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You could welcome visitors at the community advice room while the other volunteers prepare.",
+            "B": "Use the current map of Amber Energy Group and the list of rooms for the home-energy discussion.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "159b1b7e641d24d49152468f017df703d8456191aa1647d907d103a09b5b2523"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Amber Energy Group\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You could welcome visitors at the community advice room while the other volunteers prepare.",
+            "B": "Use the current map of Amber Energy Group and the list of rooms for the home-energy discussion.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ddfe1b38103cdddcd071e0275751a4d2f761f9af5b986506b3aed1697678ecaa"
+        }
+      ],
+      "contentFingerprint": "d21a9ffa1725d9a408218f1c9a021d74b0ed42c9142cb3c43247ea8b2e994b7e"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The appliance that was hardly used",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Amber Energy Group lent meters to residents curious about electricity use. One family expected its rarely used electric oven to dominate the bill because its power rating was high. Their records showed that a smaller device running continuously also mattered. The adviser explained the difference between power at a moment and energy used over time. The family did not stop cooking. It first investigated whether the continuously running device needed its current setting. A measurement became useful when it was connected to duration and purpose, rather than treated as a single impressive number.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The appliance that was hardly used\"?",
+          "options": {
+            "A": "Choosing a realistic first step in energy improvement",
+            "B": "Understanding electricity use through power and time",
+            "C": "Investigating the system behind an energy habit",
+            "D": "Interpreting an energy bill in context"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Understanding electricity use through power and time”展开：Power ratings alone do not show total energy use.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b5c9aa5d20187639475c37f95d739b39be834ecda58ada5c3550f358ec777d1b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The appliance that was hardly used\", why did the smaller device deserve attention?",
+          "options": {
+            "A": "It was used only once a year.",
+            "B": "Its power rating was higher than every oven's.",
+            "C": "It operated continuously.",
+            "D": "Its purchase price was the highest."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 It operated continuously.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "87b575582c902dbdde79f55fa74cbc0b8b936ea8508c20b5ea2f2e6accee763b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The appliance that was hardly used\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Power ratings alone do not show total energy use."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Power ratings alone do not show total energy use.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "be43dd61a629bcc9dbca233f0e464c598ff822d3a543ab6498452d99d88bfafc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The appliance that was hardly used\", the word \"duration\" is closest in meaning to _____.",
+          "options": {
+            "A": "the length of time something continues",
+            "B": "allowed fresh air into",
+            "C": "judging the value or effect of",
+            "D": "keeping for continued use"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，duration 的含义为 the length of time something continues。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "baf802f23fac53a05f5d4b762090d24ec6d48a48795ca6cac84c5c301349ce5b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The appliance that was hardly used\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e877fa91483f53d08fb2534200a04d9584bb9f9218669c732bfc7308c3c9adf5"
+        }
+      ],
+      "contentFingerprint": "7911cf727431b4bbe201d59ea90f5ff35f5eab5dfd10060b64f50bf3f4185a37"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A warm room and an open window",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "An office complained that its heating was expensive while staff regularly opened windows because one room became too warm. Managers first suggested reminding everyone to keep windows closed. A caretaker instead checked the controls and found that the room's thermostat was poorly positioned. After adjustment, temperatures became easier to manage. Staff still ventilated the room when needed. The investigation showed why a behaviour that looked wasteful could be a response to a faulty system. Asking what made people act that way led to a more useful change than simply repeating a rule.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A warm room and an open window\"?",
+          "options": {
+            "A": "Interpreting an energy bill in context",
+            "B": "Choosing a realistic first step in energy improvement",
+            "C": "Investigating the system behind an energy habit",
+            "D": "Understanding electricity use through power and time"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Investigating the system behind an energy habit”展开：Apparently wasteful behaviour may respond to an underlying design problem.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "2d1a3f6bdb1c70af04a25f75e750e90b0c529a0c554e51b4266994028ee3afb7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A warm room and an open window\", what was found wrong with the heating system?",
+          "options": {
+            "A": "Every window was permanently broken.",
+            "B": "The office had no heating controls.",
+            "C": "The staff had stopped using the room.",
+            "D": "The thermostat was poorly positioned."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 The thermostat was poorly positioned.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "c042a1255ed03bb328f69fad00bfc0c2056ca3c25157d3ff324db8d17fac6e28"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A warm room and an open window\"?",
+          "options": {
+            "A": "Apparently wasteful behaviour may respond to an underlying design problem.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Apparently wasteful behaviour may respond to an underlying design problem.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "6e6c283bc3949fb13db1104d11d75af969fe966c64259b05339f2afaa63451c1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A warm room and an open window\", the word \"ventilated\" is closest in meaning to _____.",
+          "options": {
+            "A": "keeping for continued use",
+            "B": "allowed fresh air into",
+            "C": "the length of time something continues",
+            "D": "judging the value or effect of"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，ventilated 的含义为 allowed fresh air into。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "50be3755ff64f1ba795d277dc9428ae5d22c972ebbb4c8fb9c86733b7bcfbbbd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A warm room and an open window\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6d065b7de54d9fdf9d23ba55d73aa88e082d5868eab918228593988b928a0254"
+        }
+      ],
+      "contentFingerprint": "7220bed41a5ae48a1efc822cb7f4c6c475be50c4724d5b7d60e1c034280c6eeb"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The bill after a cold winter",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A household installed loft insulation and expected the next winter's energy bill to fall sharply. The bill was almost unchanged, causing disappointment. An adviser asked about prices and weather before judging the result. Energy prices had risen and the winter had been colder, while the family had used fewer units than in the previous year. This did not provide a perfect measure of the insulation's effect, but it showed why money alone was an incomplete comparison. The family began keeping both usage figures and relevant context when assessing future changes.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The bill after a cold winter\"?",
+          "options": {
+            "A": "Understanding electricity use through power and time",
+            "B": "Investigating the system behind an energy habit",
+            "C": "Choosing a realistic first step in energy improvement",
+            "D": "Interpreting an energy bill in context"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Interpreting an energy bill in context”展开：Cost comparisons should account for changing prices and conditions.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a60d6bbeb9a64628471e4ef20f7bcdf7cc89302a0a208cfed0adeab8f80153f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The bill after a cold winter\", what had fallen despite the similar bill?",
+          "options": {
+            "A": "The number of energy units used.",
+            "B": "The price charged for each unit.",
+            "C": "The length of the winter.",
+            "D": "The family's need for any heating."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The number of energy units used.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8b8daa3437a0610a4e78987f1ddf88ec815a359da04ac20db4193a9e4dbbd576"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The bill after a cold winter\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Cost comparisons should account for changing prices and conditions.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Cost comparisons should account for changing prices and conditions.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "067d0d67e250d3b4f9a826653bcebf3ae9f95cbe2f49f9ace943ba2ba0f77729"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The bill after a cold winter\", the word \"assessing\" is closest in meaning to _____.",
+          "options": {
+            "A": "allowed fresh air into",
+            "B": "keeping for continued use",
+            "C": "judging the value or effect of",
+            "D": "the length of time something continues"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，assessing 的含义为 judging the value or effect of。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "ab8f9cc713ebb0b51e6ec6d669c85e7595b417e062e537374e0d4e17cd7dbcd3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The bill after a cold winter\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "1b19ea195189f48962bf7872fffcca711066d3ba0fc82c10a9dcf55d980765d7"
+        }
+      ],
+      "contentFingerprint": "cf98f464924746eeb9327afc5d724965c8223ecfb1140225501850257be316f0"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Choosing the first improvement",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A community hall received several energy-saving proposals, from new windows to reminders about unused lights. Its budget could not cover every suggestion. Volunteers listed expected benefits, costs and maintenance needs, then began with controls that reduced heating in empty rooms. They recorded results before considering larger work. The choice was not a claim that windows never mattered. It reflected the hall's present conditions and available money. A practical sequence allowed the committee to learn from one improvement while retaining funds for essential repairs. The most visible project was not automatically the most useful first step.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Choosing the first improvement\"?",
+          "options": {
+            "A": "Choosing a realistic first step in energy improvement",
+            "B": "Understanding electricity use through power and time",
+            "C": "Investigating the system behind an energy habit",
+            "D": "Interpreting an energy bill in context"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Choosing a realistic first step in energy improvement”展开：The order of improvements should reflect local needs and resources.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "81fd4550c00b55b0ceea8c7e11f91701121ef72c5df7d60dd2aed6bee6fa95e6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Choosing the first improvement\", what did the hall choose to improve first?",
+          "options": {
+            "A": "An entirely new community hall.",
+            "B": "Controls for heating rooms when they were empty.",
+            "C": "All windows in the building.",
+            "D": "A decorative lighting display."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Controls for heating rooms when they were empty.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "a937c640f6007a217b0c0a8c1559b82e04b15824359115743e7973aa1c389752"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Choosing the first improvement\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "The order of improvements should reflect local needs and resources.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：The order of improvements should reflect local needs and resources.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "e5a69e37c5864766eb61221c499c71c7ea5e70b747f834fbcdb3859d5a146b37"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Choosing the first improvement\", the word \"retaining\" is closest in meaning to _____.",
+          "options": {
+            "A": "the length of time something continues",
+            "B": "allowed fresh air into",
+            "C": "judging the value or effect of",
+            "D": "keeping for continued use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，retaining 的含义为 keeping for continued use。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "c37ed3f04e34e0eceb591ba9fb7bbd5b5ffb7e5c66475195a4173ae773b7eaef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Choosing the first improvement\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "74bfcdf8aa04bdf7cb454e6ff89af26d0f252149349de1ae83395f679ff37c80"
+        }
+      ],
+      "contentFingerprint": "9752f88ba9d9b93d9f079e2affe87ab581d56ec894112b5ba60e19cf41c1866d"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The staff at Amber Energy Group made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "allowance",
+        "B": "argument",
+        "C": "adjustment",
+        "D": "achievement"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c39baa10286bfe5b090e3d88404cb2ff02c003d232888aa9ba0c814973899147"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The borrowed a plug-in power meter must be returned _____ so that the next person can use it as arranged.",
+      "options": {
+        "A": "rarely",
+        "B": "roughly",
+        "C": "secretly",
+        "D": "promptly"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "promptly 表示及时地，与保证下一位使用者按计划使用相符。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "09c4b0a43b63710c69fd36c60f9c6b07927b1db74d16cab77f0511f84ac78c1e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The coordinator at Amber Energy Group tried to _____ the disagreement before it affected the whole group.",
+      "options": {
+        "A": "resolve",
+        "B": "reserve",
+        "C": "reverse",
+        "D": "receive"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "resolve a disagreement 表示解决分歧。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1549616e62cc80bbd24539a78bef97a14d72e8bf84c2067b3d1751bfda9e6be5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "At the home-energy discussion, learners were encouraged to ask for _____ whenever an instruction was unclear.",
+      "options": {
+        "A": "compensation",
+        "B": "clarification",
+        "C": "celebration",
+        "D": "classification"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clarification 表示澄清、进一步说明，针对不清楚的指示。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5123768790908c5c16a7a154ac7755080a89b902c0af0f94164a0c90620c7654"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The new storage arrangement at Amber Energy Group proved _____: it saved time without requiring extra staff.",
+      "options": {
+        "A": "emotional",
+        "B": "external",
+        "C": "efficient",
+        "D": "enormous"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "efficient 表示高效，后句节省时间且无需额外人手解释其含义。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1e51e12bd5492dacd36fd40b8e307a356bc3b4a9fd9d25ec2cd125843f2f6fa4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The leaflet for the home-energy discussion clearly states the _____ for cancelling a reservation.",
+      "options": {
+        "A": "profession",
+        "B": "proportion",
+        "C": "prediction",
+        "D": "procedure"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "procedure 表示办理某事的步骤、程序。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1114d4635f30aa66d733aa8b589850212a681690d59fd519ac2800e73ff4ffa2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Because costs were still uncertain, the cautious manager at Amber Energy Group was _____ to expand the service immediately.",
+      "options": {
+        "A": "reluctant",
+        "B": "ready",
+        "C": "eager",
+        "D": "determined"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reluctant to 表示不情愿，符合先弄清成本再扩展的谨慎态度。",
+      "knowledgePoints": [
+        "态度词汇"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "08809f49fd81dfac947641979d157e9d38c1ddd256b2fe9fcd78367509c5fd16"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A protective case helps _____ accidental damage to a plug-in power meter during transport.",
+      "options": {
+        "A": "prefer",
+        "B": "prevent",
+        "C": "present",
+        "D": "pretend"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "prevent damage 表示防止损坏。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5d8677acb57d197bf9a6cd92b51bc095e9ef14f89d11547d35a58d345635e320"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The examples used in the home-energy discussion were chosen to _____ the main idea, not to cover every possible case.",
+      "options": {
+        "A": "interrupt",
+        "B": "imitate",
+        "C": "illustrate",
+        "D": "isolate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "illustrate 表示用例子说明；与 examples 对应。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b5efb8e8d9d0adea6cee2d1db3fc0eb86450bc08df0ea150c5cb2a8da9ea5043"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The staff at Amber Energy Group asked whether the proposed opening hours were _____ for working residents.",
+      "options": {
+        "A": "confident",
+        "B": "convincing",
+        "C": "considerable",
+        "D": "convenient"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "convenient 表示方便的，评价开放时间是否适合上班居民。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8622b4729c6c1886b0c92425d6f1098d38f15b2e2bfbbafdd68918f2149e3e85"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Staff at Amber Energy Group have used this booking system _____ three years.",
+      "options": {
+        "A": "since",
+        "B": "during of",
+        "C": "from",
+        "D": "for"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1e38e976ff6a54a33b7d99ad49ebda656f7d724a3d1fd65058af9de3201992ef"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "It is essential _____ a plug-in power meter before passing it to another borrower.",
+      "options": {
+        "A": "to inspect",
+        "B": "inspecting",
+        "C": "inspect",
+        "D": "inspected"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "It is + 形容词 + to do，it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ffcd1b48baa70cd5606f153dc1ea6b83a88dad374162a7b9a84c7f538079fafd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The home-energy discussion will go ahead _____ enough people confirm their attendance.",
+      "options": {
+        "A": "because of",
+        "B": "provided that",
+        "C": "even if not",
+        "D": "in spite of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "provided that 引导条件从句，后接完整句子。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "65dea4079a59ac8d91776f8fd2da63a19029c51ab8ae37b0cb7ad30e5bc541f8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The notice at Amber Energy Group is much _____ to read than the old version.",
+      "options": {
+        "A": "easiest",
+        "B": "more easier",
+        "C": "easier",
+        "D": "easy"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "much 修饰比较级；easy 的比较级为 easier。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c15659e47ad66d8560f347b16fdf574d2fc8eaf50227ac0a229bde7a43ea1aa5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "When _____ correctly, a plug-in power meter should remain in good condition for a long time.",
+      "options": {
+        "A": "storing",
+        "B": "to store",
+        "C": "stores",
+        "D": "stored"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "when stored correctly 相当于 when it is stored correctly，主语为被储存的物品。",
+      "knowledgePoints": [
+        "省略与被动"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fc645cb2211623a74bf38d6f9ae4b5f0d88709681aac838b548ac94e857486b6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The learners wanted to know _____ they needed to bring to the home-energy discussion.",
+      "options": {
+        "A": "what",
+        "B": "that",
+        "C": "which of",
+        "D": "how many of"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "宾语从句中 bring 缺宾语，用 what。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "411c440c2ab89637d327330eb7f02a750dba83abf5c9566216e8b5d18439d2ca"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The coordinator at Amber Energy Group is responsible for _____ the timetable up to date.",
+      "options": {
+        "A": "kept",
+        "B": "keeping",
+        "C": "keep",
+        "D": "to keep"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "介词 for 后接动名词 keeping。",
+      "knowledgePoints": [
+        "介词与动名词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "155902dfb836daf4bb98710a9969a7d18b75d84ac6c78b741386bf55f3a05729"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Hardly had the home-energy discussion started _____ the fire alarm rang.",
+      "options": {
+        "A": "then",
+        "B": "that",
+        "C": "when",
+        "D": "than"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "hardly...when 为固定结构，表示刚……就……。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f758ebc16851120f21686fdca604bff5a51bdeac3c580813963e00e301ef09f2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "A visitor who had damaged a plug-in power meter asked _____ a replacement was available.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "whether"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "ask whether 引导是否有替代品的间接疑问句。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3c34216732d49b193b0bb2442e55d803466d66ecd8ba0ccec7b3c397ed8f0bdd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The number of people attending activities at Amber Energy Group _____ steadily increasing.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "have",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the number of... 作主语，谓语用单数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8e2aff655dfe4acc386270f46503f2017236820e36e3048040f693d781a15611"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nAn electricity bill shows a total, but it does not always explain how that total was reached. Observing individual activities can make energy use easier to understand. The aim is not to make daily life uncomfortable. It is to find changes that save resources while meeting real needs.",
+      "referenceAnswer": "电费账单显示一个总数，却并不总能解释这个总数是怎样产生的。观察单项活动可以帮助人们更好地理解能源使用情况。目的不是让日常生活变得不舒服，而是找到既节约资源又满足实际需求的改变。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "e2728a12457ae5763faef92f3332aaaf0ab57e9e062fc9f05bff75cf69efc19c",
+      "referenceAnswerFingerprint": "f0b244f9ea3bf84bd5f0482e28d560416ed69b25ff52a8fc63f6553591ef39a6"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss the value and limits of monitoring household electricity use. Suggest how a family could choose a practical first step.",
+      "sampleAnswer": "Monitoring electricity use can help a family understand where its bill comes from. A small appliance running all day may use more energy over time than a powerful appliance used briefly. However, a meter reading alone does not say whether that use is unnecessary. Comfort, safety and genuine household needs must also be considered. I suggest beginning with a week of simple records and choosing one avoidable source of continuous use to investigate. The family should compare units as well as money, because prices may change. A practical first step is better than a long list of restrictions that nobody follows. The purpose is to use resources thoughtfully while keeping the home suitable for the people who live there.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "a03d15ab68a7966552bd2945eb8501e492fb5da805beab3f40ffbdeb13bcaead",
+      "sampleAnswerFingerprint": "15e726cb604a2915052c7943a43f5e081da5e98add93e2a9758bbec7b63e4525"
+    }
+  ],
+  "fingerprintManifest": [
+    "d1c44b2d911112a7ed1d8d3641a33961fe808b2ab4146a7d2fdee91ac5003db9",
+    "1bbf1ea8fdb0ea8d904d4dd020708545b18bab7a5fd805becf5f9ea646b0785e",
+    "bffdf8fac8eaec25755f03a32c4f0fcd5d124b86df12fa7c741078f0480c0789",
+    "22a6dd7cc26b0e88f525f50122f5b16c25b23c4f5bddbafbc943773a4eadbe70",
+    "28e15a2ff3cb08ab3752021940bdfd50b3dbca19f35f8e2020b226368c3cd81e",
+    "92d6153ba75e47662e95d3ac89fa7dd1862b2707866a9245fa4e4768b33a6937",
+    "e67858347355fdd4b5e4fe5599188ad51bec4acb1f433b59f0046c31fbb71ee9",
+    "cea93c4388d9edc77663720f1c1d4fe394917a15eb41fb9898c1ca5ca6950b69",
+    "14e0d40f1676d905f5077233f77b5c93b268b7ab7252981edebe85095a3dd9dd",
+    "d21a9ffa1725d9a408218f1c9a021d74b0ed42c9142cb3c43247ea8b2e994b7e",
+    "bc36c916158e586e235a86734113dda9e9b11c5c186f5c9e6c288e328f5c497b",
+    "159b1b7e641d24d49152468f017df703d8456191aa1647d907d103a09b5b2523",
+    "ddfe1b38103cdddcd071e0275751a4d2f761f9af5b986506b3aed1697678ecaa",
+    "7911cf727431b4bbe201d59ea90f5ff35f5eab5dfd10060b64f50bf3f4185a37",
+    "b5c9aa5d20187639475c37f95d739b39be834ecda58ada5c3550f358ec777d1b",
+    "87b575582c902dbdde79f55fa74cbc0b8b936ea8508c20b5ea2f2e6accee763b",
+    "be43dd61a629bcc9dbca233f0e464c598ff822d3a543ab6498452d99d88bfafc",
+    "baf802f23fac53a05f5d4b762090d24ec6d48a48795ca6cac84c5c301349ce5b",
+    "e877fa91483f53d08fb2534200a04d9584bb9f9218669c732bfc7308c3c9adf5",
+    "7220bed41a5ae48a1efc822cb7f4c6c475be50c4724d5b7d60e1c034280c6eeb",
+    "2d1a3f6bdb1c70af04a25f75e750e90b0c529a0c554e51b4266994028ee3afb7",
+    "c042a1255ed03bb328f69fad00bfc0c2056ca3c25157d3ff324db8d17fac6e28",
+    "6e6c283bc3949fb13db1104d11d75af969fe966c64259b05339f2afaa63451c1",
+    "50be3755ff64f1ba795d277dc9428ae5d22c972ebbb4c8fb9c86733b7bcfbbbd",
+    "6d065b7de54d9fdf9d23ba55d73aa88e082d5868eab918228593988b928a0254",
+    "cf98f464924746eeb9327afc5d724965c8223ecfb1140225501850257be316f0",
+    "a60d6bbeb9a64628471e4ef20f7bcdf7cc89302a0a208cfed0adeab8f80153f9",
+    "8b8daa3437a0610a4e78987f1ddf88ec815a359da04ac20db4193a9e4dbbd576",
+    "067d0d67e250d3b4f9a826653bcebf3ae9f95cbe2f49f9ace943ba2ba0f77729",
+    "ab8f9cc713ebb0b51e6ec6d669c85e7595b417e062e537374e0d4e17cd7dbcd3",
+    "1b19ea195189f48962bf7872fffcca711066d3ba0fc82c10a9dcf55d980765d7",
+    "9752f88ba9d9b93d9f079e2affe87ab581d56ec894112b5ba60e19cf41c1866d",
+    "81fd4550c00b55b0ceea8c7e11f91701121ef72c5df7d60dd2aed6bee6fa95e6",
+    "a937c640f6007a217b0c0a8c1559b82e04b15824359115743e7973aa1c389752",
+    "e5a69e37c5864766eb61221c499c71c7ea5e70b747f834fbcdb3859d5a146b37",
+    "c37ed3f04e34e0eceb591ba9fb7bbd5b5ffb7e5c66475195a4173ae773b7eaef",
+    "74bfcdf8aa04bdf7cb454e6ff89af26d0f252149349de1ae83395f679ff37c80",
+    "c39baa10286bfe5b090e3d88404cb2ff02c003d232888aa9ba0c814973899147",
+    "09c4b0a43b63710c69fd36c60f9c6b07927b1db74d16cab77f0511f84ac78c1e",
+    "1549616e62cc80bbd24539a78bef97a14d72e8bf84c2067b3d1751bfda9e6be5",
+    "5123768790908c5c16a7a154ac7755080a89b902c0af0f94164a0c90620c7654",
+    "1e51e12bd5492dacd36fd40b8e307a356bc3b4a9fd9d25ec2cd125843f2f6fa4",
+    "1114d4635f30aa66d733aa8b589850212a681690d59fd519ac2800e73ff4ffa2",
+    "08809f49fd81dfac947641979d157e9d38c1ddd256b2fe9fcd78367509c5fd16",
+    "5d8677acb57d197bf9a6cd92b51bc095e9ef14f89d11547d35a58d345635e320",
+    "b5efb8e8d9d0adea6cee2d1db3fc0eb86450bc08df0ea150c5cb2a8da9ea5043",
+    "8622b4729c6c1886b0c92425d6f1098d38f15b2e2bfbbafdd68918f2149e3e85",
+    "1e38e976ff6a54a33b7d99ad49ebda656f7d724a3d1fd65058af9de3201992ef",
+    "ffcd1b48baa70cd5606f153dc1ea6b83a88dad374162a7b9a84c7f538079fafd",
+    "65dea4079a59ac8d91776f8fd2da63a19029c51ab8ae37b0cb7ad30e5bc541f8",
+    "c15659e47ad66d8560f347b16fdf574d2fc8eaf50227ac0a229bde7a43ea1aa5",
+    "fc645cb2211623a74bf38d6f9ae4b5f0d88709681aac838b548ac94e857486b6",
+    "411c440c2ab89637d327330eb7f02a750dba83abf5c9566216e8b5d18439d2ca",
+    "155902dfb836daf4bb98710a9969a7d18b75d84ac6c78b741386bf55f3a05729",
+    "f758ebc16851120f21686fdca604bff5a51bdeac3c580813963e00e301ef09f2",
+    "3c34216732d49b193b0bb2442e55d803466d66ecd8ba0ccec7b3c397ed8f0bdd",
+    "8e2aff655dfe4acc386270f46503f2017236820e36e3048040f693d781a15611",
+    "e2728a12457ae5763faef92f3332aaaf0ab57e9e062fc9f05bff75cf69efc19c",
+    "f0b244f9ea3bf84bd5f0482e28d560416ed69b25ff52a8fc63f6553591ef39a6",
+    "a03d15ab68a7966552bd2945eb8501e492fb5da805beab3f40ffbdeb13bcaead",
+    "15e726cb604a2915052c7943a43f5e081da5e98add93e2a9758bbec7b63e4525"
+  ],
+  "contentFingerprint": "73c70555c1ee3d367ebe0fb2d2a686e1909bccd93fe8f5576db9e4a67738a65b"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-05",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 05 · 口述历史与地方记忆",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 5,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the oral-history introduction",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the oral-history introduction at Stonebridge Museum.\nCoordinator: (1) _____\nVisitor: Friday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Which day would be convenient for you to attend?",
+        "B": "Please come to the museum listening room.",
+        "C": "Bring a notebook; we can provide a portable recorder.",
+        "D": "Contact Stonebridge Museum before the session so that we can offer your place to someone else."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the oral-history introduction\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the museum listening room.",
+            "C": "Bring a notebook; we can provide a portable recorder.",
+            "D": "Contact Stonebridge Museum before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "47a6281829d605a8b91de38347080b805fd8b389df22b70ef112a7d3f54754cb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the oral-history introduction\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the museum listening room.",
+            "C": "Bring a notebook; we can provide a portable recorder.",
+            "D": "Contact Stonebridge Museum before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "72181e4c0bfa3711f1352bcac04e7c17327ecfa259b283c9f79851aa58a76857"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the oral-history introduction\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the museum listening room.",
+            "C": "Bring a notebook; we can provide a portable recorder.",
+            "D": "Contact Stonebridge Museum before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fc94fed1176a56b991eac0cd2e284040715332d0613a39f7c5814fd5be169bc0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the oral-history introduction\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the museum listening room.",
+            "C": "Bring a notebook; we can provide a portable recorder.",
+            "D": "Contact Stonebridge Museum before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "62f1ec8a0fda3d03e4ea5bc8ec5d28d007512b92f01c09de429a47cd8645b3a8"
+        }
+      ],
+      "contentFingerprint": "7e7db788831c81351f570de7be34fc13235c65e43f656db380f772f02e494150"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Stonebridge Museum",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a portable recorder from Stonebridge Museum, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The battery cover is missing. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the oral-history introduction?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Yes. You can request the recorder with the green label.",
+        "B": "Please leave it with us and complete a short fault report.",
+        "C": "You must purchase every item you use at the session.",
+        "D": "Could you describe the fault you noticed?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Stonebridge Museum\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Yes. You can request the recorder with the green label.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b68243cc52d970b0e9e8ae938d2260f53efa5c6a0fd139ba174c1d4a0559d500"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Stonebridge Museum\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Yes. You can request the recorder with the green label.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8bb3915f1cbd7333f393bc539046a70e9028c360394b94975245ab951bc1276e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Stonebridge Museum\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Yes. You can request the recorder with the green label.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "57854495e104b4ae8418354cbf4129c81a42bccf452a0304a211a7c678177a53"
+        }
+      ],
+      "contentFingerprint": "0fc40fb3e12e8637d7c5a5aba316c7d8b3566d4b20cc0a33e5a5a0319690f837"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Stonebridge Museum",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the oral-history introduction, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Ask the session coordinator to help; you do not have to guess.",
+        "B": "You should promise to solve every problem without asking anyone.",
+        "C": "You could welcome visitors at the museum listening room while the other volunteers prepare.",
+        "D": "Use the current map of Stonebridge Museum and the list of rooms for the oral-history introduction."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Stonebridge Museum\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the museum listening room while the other volunteers prepare.",
+            "D": "Use the current map of Stonebridge Museum and the list of rooms for the oral-history introduction."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6db6e23d9edff3d88554e15d714c8bb6b49fbaa8dd417a4720dc9949c3ee1413"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Stonebridge Museum\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the museum listening room while the other volunteers prepare.",
+            "D": "Use the current map of Stonebridge Museum and the list of rooms for the oral-history introduction."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "48ea3ee547b894583d709077b55fb37478c7b37b53647116d17b5199b753de61"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Stonebridge Museum\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the museum listening room while the other volunteers prepare.",
+            "D": "Use the current map of Stonebridge Museum and the list of rooms for the oral-history introduction."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3a4ea2151b651afe0c889abe3f1837176733ce2432fe3963a9e46034675fd12d"
+        }
+      ],
+      "contentFingerprint": "512b82970d608c36d64a2203f8eb67065eb1c355668fc33f0e0770f21685a4c5"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Who owns a recorded story?",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Stonebridge Museum invited former mill workers to record memories of their first jobs. One speaker described a colleague and later worried that the account might cause embarrassment. The museum had agreed that speakers could review their recording before public use. It removed the requested section and kept a note that the public version had been edited. Some interesting detail was lost, but the process protected trust. The organiser explained that collecting a story did not give the museum unlimited permission to use it. Consent was a continuing relationship rather than a signature to forget.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"Who owns a recorded story?\"?",
+          "options": {
+            "A": "Learning from a disagreement in oral history",
+            "B": "Combining searchable text with original recordings",
+            "C": "Finding historical interest in everyday objects",
+            "D": "Maintaining trust when sharing personal memories"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Maintaining trust when sharing personal memories”展开：Respecting contributors can be more important than retaining every detail.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "58c2bd92ea207399871e025d9354992b975e4af3130da2b59caaa4c6f65036ac"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"Who owns a recorded story?\", what happened after the speaker raised a concern?",
+          "options": {
+            "A": "The requested section was removed before public use.",
+            "B": "The entire recording was published unchanged.",
+            "C": "The speaker was required to withdraw from the project.",
+            "D": "The museum removed all interviews from its collection."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The requested section was removed before public use.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "83b8bfe0e0e09db161837e311164573de89709faa006f44aa73afe7cd98e7ed5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"Who owns a recorded story?\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Respecting contributors can be more important than retaining every detail.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Respecting contributors can be more important than retaining every detail.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "152da318403e392ac998c7afb377b246951895728d75d8a30c683d222a3faa16"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"Who owns a recorded story?\", the word \"consent\" is closest in meaning to _____.",
+          "options": {
+            "A": "written versions of recorded speech",
+            "B": "simple and not impressive in size",
+            "C": "permission freely given",
+            "D": "a difference between things"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，consent 的含义为 permission freely given。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e89f60a5c09e0b78ab27618037e0ff197860d860122cf9c298b9f0fd8709e1fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"Who owns a recorded story?\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f1158a3ee6502480799a4c3be5e5822ca33a2c26abab60dc7743d22940726a76"
+        }
+      ],
+      "contentFingerprint": "182d56af7eebcdfe88dc71d4eb6fa3225580c7d87a2c09e443cd8fcc8ef5afe1"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Two memories of one bridge",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Two older residents gave different dates for the opening of a footbridge. An interviewer initially hoped to choose the more confident answer. Instead, she looked for photographs and council records. A newspaper revealed that a temporary crossing had opened a year before the permanent bridge. Each resident had remembered a different event. The interviewer kept both accounts and explained the distinction. The disagreement became a clue that improved the history. Confidence alone would not have resolved it, and dismissing one speaker too quickly would have hidden part of the story.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Two memories of one bridge\"?",
+          "options": {
+            "A": "Learning from a disagreement in oral history",
+            "B": "Maintaining trust when sharing personal memories",
+            "C": "Combining searchable text with original recordings",
+            "D": "Finding historical interest in everyday objects"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Learning from a disagreement in oral history”展开：Apparent contradictions may point to missing context.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "9884f3b7b59f7a365ff19de088a34758c48baaa01209be4507a2ef1db625f7fc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Two memories of one bridge\", why did the residents remember different dates?",
+          "options": {
+            "A": "Both were referring to the same opening ceremony.",
+            "B": "They referred to the temporary and permanent crossings.",
+            "C": "They had never seen the bridge.",
+            "D": "The archive had lost every record."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 They referred to the temporary and permanent crossings.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "55b352c4b12969113a2688d2bb644e1b1e9a58019628f76356b46759c44d8b7e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Two memories of one bridge\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Apparent contradictions may point to missing context.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Apparent contradictions may point to missing context.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "2a03522ea35af3737c91feb930b3665abc5a0ab9e34dbf66c3f6e1c0f23a3afd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Two memories of one bridge\", the word \"distinction\" is closest in meaning to _____.",
+          "options": {
+            "A": "permission freely given",
+            "B": "written versions of recorded speech",
+            "C": "simple and not impressive in size",
+            "D": "a difference between things"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，distinction 的含义为 a difference between things。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "43a625db4c9b4d9a7112164466d9259288190b198ef21e83111b5af0d508d16b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Two memories of one bridge\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6abf2f88b643853891162f016d8b943bbe18085888200752a783571e67c65d7b"
+        }
+      ],
+      "contentFingerprint": "ab4b53782093b90e1571c3236086b2170dba57d5d9a529fef6cc0963259b9067"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The sound beyond the words",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "An archive digitised interviews that had been stored on ageing tapes. A volunteer proposed keeping only written transcripts to save storage space. Other members pointed out that pauses, laughter and changes in tone could affect how a listener understood an account. The archive retained the sound files and added searchable transcripts. It also marked unclear words rather than guessing them silently. Users could find a topic quickly and then listen to the original passage. Digital access improved, but staff still recorded restrictions requested by speakers. Easier searching did not cancel the conditions under which a recording had been given.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The sound beyond the words\"?",
+          "options": {
+            "A": "Finding historical interest in everyday objects",
+            "B": "Combining searchable text with original recordings",
+            "C": "Maintaining trust when sharing personal memories",
+            "D": "Learning from a disagreement in oral history"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Combining searchable text with original recordings”展开：Improving access should preserve both context and agreed restrictions.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "e30c8dd9d69465a70210056e58fd34094b6359e93b39e50f41b5c8f8c849d997"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The sound beyond the words\", why were the sound files retained?",
+          "options": {
+            "A": "The archive wanted to remove all transcripts.",
+            "B": "The speakers had banned written descriptions.",
+            "C": "Vocal features could add meaning beyond the written words.",
+            "D": "They were cheaper to search than any text."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 Vocal features could add meaning beyond the written words.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d9fcf774a6f11a3d16b63f67a45dadf6e34c868fb1e7008039a9979ac9a3ee62"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The sound beyond the words\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Improving access should preserve both context and agreed restrictions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Improving access should preserve both context and agreed restrictions.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f9a8cdebfb0c415aaea47c66d4fd9d1aaf50659f0345c69ece5bf9927808f64f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The sound beyond the words\", the word \"transcripts\" is closest in meaning to _____.",
+          "options": {
+            "A": "written versions of recorded speech",
+            "B": "permission freely given",
+            "C": "a difference between things",
+            "D": "simple and not impressive in size"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，transcripts 的含义为 written versions of recorded speech。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "13b4cdff4ee1b78601fadb2e19ae7ac51eb8f00327d6b8f4ece67b3fb190620e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The sound beyond the words\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "665c6b1d9698b0fbf7fb61d9e0a074fcf168a5f20c06693e6e5c68e03ded1e8f"
+        }
+      ],
+      "contentFingerprint": "8970b3548b8eea25c91bb068d7472508a62a52c319c0f9ce33c554cdad4d3441"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "An ordinary shopping list",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A small exhibition displayed a handwritten shopping list beside a photograph of a closed village shop. At first a curator doubted that such an ordinary object would interest visitors. Several people, however, recognised product names and began discussing how families planned purchases before refrigerators were common. The list could not represent every household, and the exhibition said so. Its value lay in opening specific questions about everyday life. Visitors were invited to contribute their own examples with dates and explanations. The museum discovered that a modest object could encourage discussion without being treated as a complete account of the past.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"An ordinary shopping list\"?",
+          "options": {
+            "A": "Learning from a disagreement in oral history",
+            "B": "Combining searchable text with original recordings",
+            "C": "Finding historical interest in everyday objects",
+            "D": "Maintaining trust when sharing personal memories"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Finding historical interest in everyday objects”展开：An ordinary object can prompt valuable historical questions.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "3cd901edce842cf4c1a165d15f6a2c42fde63dfa1abb75aec4d0c74d728f55b6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"An ordinary shopping list\", what did the shopping list encourage visitors to discuss?",
+          "options": {
+            "A": "The exact income of every former household.",
+            "B": "Why photographs should replace written records.",
+            "C": "How the modern shop could increase prices.",
+            "D": "How households planned purchases in earlier times."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 How households planned purchases in earlier times.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d3469c4990afdac351339c022649f4103accdf32f44fd2c34327687ec7a516ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"An ordinary shopping list\"?",
+          "options": {
+            "A": "An ordinary object can prompt valuable historical questions.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：An ordinary object can prompt valuable historical questions.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a7546eaf7a7f639fb6cc014d7c11e1a1732fbb8e81b44b2a90f57c6b9e8812f8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"An ordinary shopping list\", the word \"modest\" is closest in meaning to _____.",
+          "options": {
+            "A": "written versions of recorded speech",
+            "B": "simple and not impressive in size",
+            "C": "permission freely given",
+            "D": "a difference between things"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，modest 的含义为 simple and not impressive in size。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "ca5c26d976044df6e9734d4b0a92b5ff6cf03c06dabd9f082bfb62ade5f63a5c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"An ordinary shopping list\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "c30d20fa488053529c2735b39ac25e2b06a24b76407d5e4bef1606a0ed76bc9c"
+        }
+      ],
+      "contentFingerprint": "a644295d24139007f90a47d6753548b6d7bcae4427a04cadda4cbbe360428ece"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A small _____ is required when borrowing a portable recorder; it is returned when the item comes back undamaged.",
+      "options": {
+        "A": "deposit",
+        "B": "debt",
+        "C": "discount",
+        "D": "donation"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "可退还的借用保证金为 deposit，而非捐款或折扣。",
+      "knowledgePoints": [
+        "生活词汇"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec86e1e1381b5e4c3cdeb7a02dd6ee7b7a0d1136a99d9e123424ecdb1a27e1d0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "After the oral-history introduction, the tutor asked learners to _____ on what they had found most difficult.",
+      "options": {
+        "A": "recover",
+        "B": "reflect",
+        "C": "reject",
+        "D": "rely"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "reflect on 表示回顾、认真思考。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "be586be8674ac8fd8d638c398b0213d6c8c9eca3a01d8843cbc229a0ccd86554"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The plan at Stonebridge Museum must remain _____ enough to accommodate changing work schedules.",
+      "options": {
+        "A": "formal",
+        "B": "frequent",
+        "C": "flexible",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "flexible 表示灵活，符合适应工作时间变化的需求。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0369bbfd257eec3eb8a53b80cdcaf0fb23d0b5d3532364c1b4325fc3a053547d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The notes from the oral-history introduction are meant to _____ practical experience, not replace it.",
+      "options": {
+        "A": "suppress",
+        "B": "surround",
+        "C": "separate",
+        "D": "supplement"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "supplement 表示补充，与 not replace 对照。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c69b29d310cb53ae2387e57cf3c102524925b54c5085b35b744f582da74f8054"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Before using a portable recorder, please read the _____ printed beside the controls.",
+      "options": {
+        "A": "instructions",
+        "B": "instruments",
+        "C": "institutions",
+        "D": "invitations"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "instructions 指操作说明，而 instruments 是仪器。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "03f971fc56e17505e85cc36a9e9c5cec605685c2b2ad13ae93e1ebcaeae56840"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The volunteers at Stonebridge Museum shared _____ for checking the room after each session.",
+      "options": {
+        "A": "probability",
+        "B": "responsibility",
+        "C": "possibility",
+        "D": "popularity"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share responsibility for 表示共同承担……责任。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "641d000ab9be3aba03d3495353d54b1d8f45c1d0575a050d41b1a55a53cdd196"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The oral-history introduction attracted people from a wide _____ of backgrounds.",
+      "options": {
+        "A": "rate",
+        "B": "route",
+        "C": "range",
+        "D": "rank"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "a wide range of 是广泛、多种多样的固定表达。",
+      "knowledgePoints": [
+        "量词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "27d6f9b802b80043ecda9d844eb219c4b3d99712b5464bf66fae9dad7e4f0220"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organiser at Stonebridge Museum asked for _____ examples rather than general complaints.",
+      "options": {
+        "A": "sensitive",
+        "B": "separate",
+        "C": "similar",
+        "D": "specific"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "specific 表示具体的，与 general 构成对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d4e3612c0524dd67fb880926d95fd0e0d6544c3deeceba7a84c5d898bc389440"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "A visible crack in a portable recorder should never be _____ simply because the item still seems to work.",
+      "options": {
+        "A": "ignored",
+        "B": "included",
+        "C": "imagined",
+        "D": "improved"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ignored 表示被忽视；裂痕是不能忽视的故障迹象。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2b761b3109414e22b12a0675c5d50739c0a60fcf28953a9dafa34e77cc82206d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The oral-history introduction was designed to _____ beginners to take the first practical step.",
+      "options": {
+        "A": "endanger",
+        "B": "encourage",
+        "C": "encounter",
+        "D": "enclose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "encourage somebody to do 表示鼓励某人做某事。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5fea681c577964cce8c6aa3a1acdb69783741e2a6918d72f3b77904e16545b0b"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "I remember _____ the instructor at the oral-history introduction, but I cannot recall her name.",
+      "options": {
+        "A": "to meeting",
+        "B": "meeting",
+        "C": "to meet",
+        "D": "meet"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "remember doing 表示记得过去做过某事。",
+      "knowledgePoints": [
+        "动名词与不定式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6bacc5254dffd139a2ca46d6aa52d0c2ad375c03883f5cfe736785ac46fd1441"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "You _____ return a portable recorder today; the borrowing period ends tomorrow.",
+      "options": {
+        "A": "cannot",
+        "B": "may not ever",
+        "C": "need not",
+        "D": "must not"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "need not 表示不必；后文到期日为明天，与禁止归还不同。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9faf3dd871caa70c2689d00cc6b95cd074bf7683180ebccb9951405bd36311a4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "This is the first time the oral-history introduction _____ in this building.",
+      "options": {
+        "A": "was holding",
+        "B": "is holding",
+        "C": "had held",
+        "D": "has been held"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "This is the first time... 后用现在完成时；活动被举办，故被动。",
+      "knowledgePoints": [
+        "现在完成时被动"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ff7e2531728b1d7ab4009ebf369c98eff8c3724639fa35b161b4d7c84759cf0e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The office at Stonebridge Museum will contact you as soon as a place _____ available.",
+      "options": {
+        "A": "becomes",
+        "B": "will become",
+        "C": "became",
+        "D": "would become"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "as soon as 时间从句用一般现在时表示将来。",
+      "knowledgePoints": [
+        "时间状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2fca73e568a9fda28a726fafaa00840b0d70141f76690c024df619618e41fcd9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The assistant had a portable recorder _____ by a qualified technician yesterday.",
+      "options": {
+        "A": "check",
+        "B": "checked",
+        "C": "checking",
+        "D": "to check"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "have something done 表示让他人完成某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "67074a7336d0f75e857600e0845c807993b8080005471aad2db912f22a6a39b9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "_____ the detailed map, some visitors still had difficulty finding the oral-history introduction.",
+      "options": {
+        "A": "Because",
+        "B": "Unless",
+        "C": "Despite",
+        "D": "Although"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Despite 后接名词短语；although 等连词需接从句。",
+      "knowledgePoints": [
+        "让步介词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5be3c4d9fdf67b8450c690d33817921064a4da5281028bba19eeb74cd91a8f6f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Only after reading the instructions _____ how the booking system at Stonebridge Museum worked.",
+      "options": {
+        "A": "I understood",
+        "B": "I did understood",
+        "C": "understood I did",
+        "D": "did I understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only + 状语前置引起主句部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3e23122da79cd480a98a8584ef1e0984e5cb660d7ba1c658bff6db3cdc17d78f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The tutor encouraged the learners at the oral-history introduction _____ questions freely.",
+      "options": {
+        "A": "to ask",
+        "B": "asking",
+        "C": "ask",
+        "D": "asked"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "encourage somebody to do 为固定结构。",
+      "knowledgePoints": [
+        "不定式宾补"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "56d126320c1c7a6dae170f193509a8d68c9a6671eb35d3a782101b70bcb172f0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The return desk at Stonebridge Museum, along with the storage room, _____ closed on Sundays.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "are",
+        "D": "have been"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "along with 不改变主语 return desk 的单数属性。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f0fbb2c0d118675104f82c0cf040e90a5d7c97358599843540148abd69439f94"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "If a portable recorder is damaged, do not try to repair it _____ you have the appropriate skills.",
+      "options": {
+        "A": "because",
+        "B": "so that",
+        "C": "unless",
+        "D": "if"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless 表示除非，与主句否定构成条件限制。",
+      "knowledgePoints": [
+        "条件连词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5520dc159cb268bc08e16b728f211ef70a49428405ad962db39d55e3e6746d2e"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nPersonal memories can reveal details that official records leave out. Yet two people may remember the same event differently. An interviewer should listen patiently and record where each account came from. Respect for the speaker matters as much as the wish to preserve the story.",
+      "referenceAnswer": "个人记忆能揭示正式记录遗漏的细节，但两个人对同一件事的记忆可能不同。采访者应耐心倾听，并记录每份讲述的来源。对讲述者的尊重与保存故事的愿望同样重要。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "ac31fbbd7d91b67a196b4ef9ba3735755012b2e414a11cce0775fb1eb66f3197",
+      "referenceAnswerFingerprint": "e18b28ee078aadeb64cf936521305cb51ca94a6d8549f6ab318fdb426a7a6f20"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite a proposal for collecting local memories. Explain whose stories you would seek, how you would obtain consent, and how the stories could be shared.",
+      "sampleAnswer": "I propose an oral-history project about our town's changing working life. We could invite former shop workers, drivers and factory employees, including people whose experiences are rarely included in formal records. Before recording, interviewers should explain how the material might be used and ask for clear permission. Speakers should be able to review the public version and request the removal of sensitive details. The project could share short recordings in the library, with written transcripts for people who prefer reading. Each account should include its date and source, and differences between memories should be acknowledged. The aim would be to preserve varied perspectives, not to force every story into one apparently certain version of the past.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "9fbe0f6546195479a7245be63c5bd11d3b5e103bf9a8c9b632841ae9b7df8591",
+      "sampleAnswerFingerprint": "38caff19cf5f69f27e36687a666be406034164f68c03e679fdecb071762a842f"
+    }
+  ],
+  "fingerprintManifest": [
+    "7e7db788831c81351f570de7be34fc13235c65e43f656db380f772f02e494150",
+    "47a6281829d605a8b91de38347080b805fd8b389df22b70ef112a7d3f54754cb",
+    "72181e4c0bfa3711f1352bcac04e7c17327ecfa259b283c9f79851aa58a76857",
+    "fc94fed1176a56b991eac0cd2e284040715332d0613a39f7c5814fd5be169bc0",
+    "62f1ec8a0fda3d03e4ea5bc8ec5d28d007512b92f01c09de429a47cd8645b3a8",
+    "0fc40fb3e12e8637d7c5a5aba316c7d8b3566d4b20cc0a33e5a5a0319690f837",
+    "b68243cc52d970b0e9e8ae938d2260f53efa5c6a0fd139ba174c1d4a0559d500",
+    "8bb3915f1cbd7333f393bc539046a70e9028c360394b94975245ab951bc1276e",
+    "57854495e104b4ae8418354cbf4129c81a42bccf452a0304a211a7c678177a53",
+    "512b82970d608c36d64a2203f8eb67065eb1c355668fc33f0e0770f21685a4c5",
+    "6db6e23d9edff3d88554e15d714c8bb6b49fbaa8dd417a4720dc9949c3ee1413",
+    "48ea3ee547b894583d709077b55fb37478c7b37b53647116d17b5199b753de61",
+    "3a4ea2151b651afe0c889abe3f1837176733ce2432fe3963a9e46034675fd12d",
+    "182d56af7eebcdfe88dc71d4eb6fa3225580c7d87a2c09e443cd8fcc8ef5afe1",
+    "58c2bd92ea207399871e025d9354992b975e4af3130da2b59caaa4c6f65036ac",
+    "83b8bfe0e0e09db161837e311164573de89709faa006f44aa73afe7cd98e7ed5",
+    "152da318403e392ac998c7afb377b246951895728d75d8a30c683d222a3faa16",
+    "e89f60a5c09e0b78ab27618037e0ff197860d860122cf9c298b9f0fd8709e1fe",
+    "f1158a3ee6502480799a4c3be5e5822ca33a2c26abab60dc7743d22940726a76",
+    "ab4b53782093b90e1571c3236086b2170dba57d5d9a529fef6cc0963259b9067",
+    "9884f3b7b59f7a365ff19de088a34758c48baaa01209be4507a2ef1db625f7fc",
+    "55b352c4b12969113a2688d2bb644e1b1e9a58019628f76356b46759c44d8b7e",
+    "2a03522ea35af3737c91feb930b3665abc5a0ab9e34dbf66c3f6e1c0f23a3afd",
+    "43a625db4c9b4d9a7112164466d9259288190b198ef21e83111b5af0d508d16b",
+    "6abf2f88b643853891162f016d8b943bbe18085888200752a783571e67c65d7b",
+    "8970b3548b8eea25c91bb068d7472508a62a52c319c0f9ce33c554cdad4d3441",
+    "e30c8dd9d69465a70210056e58fd34094b6359e93b39e50f41b5c8f8c849d997",
+    "d9fcf774a6f11a3d16b63f67a45dadf6e34c868fb1e7008039a9979ac9a3ee62",
+    "f9a8cdebfb0c415aaea47c66d4fd9d1aaf50659f0345c69ece5bf9927808f64f",
+    "13b4cdff4ee1b78601fadb2e19ae7ac51eb8f00327d6b8f4ece67b3fb190620e",
+    "665c6b1d9698b0fbf7fb61d9e0a074fcf168a5f20c06693e6e5c68e03ded1e8f",
+    "a644295d24139007f90a47d6753548b6d7bcae4427a04cadda4cbbe360428ece",
+    "3cd901edce842cf4c1a165d15f6a2c42fde63dfa1abb75aec4d0c74d728f55b6",
+    "d3469c4990afdac351339c022649f4103accdf32f44fd2c34327687ec7a516ef",
+    "a7546eaf7a7f639fb6cc014d7c11e1a1732fbb8e81b44b2a90f57c6b9e8812f8",
+    "ca5c26d976044df6e9734d4b0a92b5ff6cf03c06dabd9f082bfb62ade5f63a5c",
+    "c30d20fa488053529c2735b39ac25e2b06a24b76407d5e4bef1606a0ed76bc9c",
+    "ec86e1e1381b5e4c3cdeb7a02dd6ee7b7a0d1136a99d9e123424ecdb1a27e1d0",
+    "be586be8674ac8fd8d638c398b0213d6c8c9eca3a01d8843cbc229a0ccd86554",
+    "0369bbfd257eec3eb8a53b80cdcaf0fb23d0b5d3532364c1b4325fc3a053547d",
+    "c69b29d310cb53ae2387e57cf3c102524925b54c5085b35b744f582da74f8054",
+    "03f971fc56e17505e85cc36a9e9c5cec605685c2b2ad13ae93e1ebcaeae56840",
+    "641d000ab9be3aba03d3495353d54b1d8f45c1d0575a050d41b1a55a53cdd196",
+    "27d6f9b802b80043ecda9d844eb219c4b3d99712b5464bf66fae9dad7e4f0220",
+    "d4e3612c0524dd67fb880926d95fd0e0d6544c3deeceba7a84c5d898bc389440",
+    "2b761b3109414e22b12a0675c5d50739c0a60fcf28953a9dafa34e77cc82206d",
+    "5fea681c577964cce8c6aa3a1acdb69783741e2a6918d72f3b77904e16545b0b",
+    "6bacc5254dffd139a2ca46d6aa52d0c2ad375c03883f5cfe736785ac46fd1441",
+    "9faf3dd871caa70c2689d00cc6b95cd074bf7683180ebccb9951405bd36311a4",
+    "ff7e2531728b1d7ab4009ebf369c98eff8c3724639fa35b161b4d7c84759cf0e",
+    "2fca73e568a9fda28a726fafaa00840b0d70141f76690c024df619618e41fcd9",
+    "67074a7336d0f75e857600e0845c807993b8080005471aad2db912f22a6a39b9",
+    "5be3c4d9fdf67b8450c690d33817921064a4da5281028bba19eeb74cd91a8f6f",
+    "3e23122da79cd480a98a8584ef1e0984e5cb660d7ba1c658bff6db3cdc17d78f",
+    "56d126320c1c7a6dae170f193509a8d68c9a6671eb35d3a782101b70bcb172f0",
+    "f0fbb2c0d118675104f82c0cf040e90a5d7c97358599843540148abd69439f94",
+    "5520dc159cb268bc08e16b728f211ef70a49428405ad962db39d55e3e6746d2e",
+    "ac31fbbd7d91b67a196b4ef9ba3735755012b2e414a11cce0775fb1eb66f3197",
+    "e18b28ee078aadeb64cf936521305cb51ca94a6d8549f6ab318fdb426a7a6f20",
+    "9fbe0f6546195479a7245be63c5bd11d3b5e103bf9a8c9b632841ae9b7df8591",
+    "38caff19cf5f69f27e36687a666be406034164f68c03e679fdecb071762a842f"
+  ],
+  "contentFingerprint": "06fb14d8ce40089f621b71bccc36499aee811c34de2c14a24c4b8e4d7f4c68dc"
+}

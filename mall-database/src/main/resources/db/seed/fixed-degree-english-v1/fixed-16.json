@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-16",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 16 · 科学沟通与证据判断",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 16,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the evidence-reading workshop",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the evidence-reading workshop at Lakeside Science Forum.\nCoordinator: (1) _____\nVisitor: Thursday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Contact Lakeside Science Forum before the session so that we can offer your place to someone else.",
+        "B": "Which day would be convenient for you to attend?",
+        "C": "Please come to the public lecture room.",
+        "D": "Bring a notebook; we can provide a handheld magnifier."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the evidence-reading workshop\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Contact Lakeside Science Forum before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the public lecture room.",
+            "D": "Bring a notebook; we can provide a handheld magnifier."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "158515a27d068439294fb94cad3bb25916f5819a9397e47434c4ba7a0e4e7a49"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the evidence-reading workshop\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Contact Lakeside Science Forum before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the public lecture room.",
+            "D": "Bring a notebook; we can provide a handheld magnifier."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1ac65154971f9af211d7b8a29b5ba02c49c7b2f0ec56219e218232871d0561d5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the evidence-reading workshop\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Contact Lakeside Science Forum before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the public lecture room.",
+            "D": "Bring a notebook; we can provide a handheld magnifier."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "00d331d4121470d409f7465f7ab7341c06064ec1a5e551778ac953ecffc93634"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the evidence-reading workshop\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Contact Lakeside Science Forum before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the public lecture room.",
+            "D": "Bring a notebook; we can provide a handheld magnifier."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bc2ec80b44628ac9662847b2ae1ad9842103a8ad2f373db9781150c7014d293f"
+        }
+      ],
+      "contentFingerprint": "dae62eaa7bd998b421d8bf18f2d5aff49f3e55703ab4d4265e9b1d186f1a341e"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Lakeside Science Forum",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a handheld magnifier from Lakeside Science Forum, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The frame is cracked. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the evidence-reading workshop?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Could you describe the fault you noticed?",
+        "B": "Yes. You can borrow the metal-framed magnifier.",
+        "C": "Please leave it with us and complete a short fault report.",
+        "D": "You must purchase every item you use at the session."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Lakeside Science Forum\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the metal-framed magnifier.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "093aa756d711d25511834abe93dcae66046aa0c97b47d50f9ebf9f37c37df99f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Lakeside Science Forum\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the metal-framed magnifier.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ef365e6c064e20af9e06d8bce0a586fa833a831afd2d5241cb6db0f228c3fcab"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Lakeside Science Forum\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the metal-framed magnifier.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3b3c94ecf2ef2341fd1313e8adfa674b463aec489c213521a3705f729b273486"
+        }
+      ],
+      "contentFingerprint": "14bbdf5fb75ef4678fb32d6b8392b42c75822c0227d21ba52495f10a00cfeb8e"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Lakeside Science Forum",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the evidence-reading workshop, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Use the current map of Lakeside Science Forum and the list of rooms for the evidence-reading workshop.",
+        "B": "Ask the session coordinator to help; you do not have to guess.",
+        "C": "You should promise to solve every problem without asking anyone.",
+        "D": "You could welcome visitors at the public lecture room while the other volunteers prepare."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Lakeside Science Forum\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Use the current map of Lakeside Science Forum and the list of rooms for the evidence-reading workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the public lecture room while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2f7d5a3e6bda10abf0f24390b524189fd0b8ad2bd65420c60859ef250ef53039"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Lakeside Science Forum\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Use the current map of Lakeside Science Forum and the list of rooms for the evidence-reading workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the public lecture room while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "204a19ec05a7f5e852b9e266dc4694ec93952f018a04ab5d41d2744cb152dd0b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Lakeside Science Forum\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Use the current map of Lakeside Science Forum and the list of rooms for the evidence-reading workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the public lecture room while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3fdd473ed334fa0eb7a467d7ab3f1862f1cba9c1bd8212f467f5ff6f04adc585"
+        }
+      ],
+      "contentFingerprint": "aeaf4862c1ff74efcb26a0c51c1bfbce2a606d8361c7bfa9c05a4b52faf6d240"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The headline and the small study",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Lakeside Science Forum discussed a headline claiming that a new study method doubled learning speed. The original report involved twelve volunteers practising one short task. Participants improved, but there was no comparison group using another method. The tutor asked readers to distinguish the observed result from the wider headline. The investigation might inspire further work, yet it did not show that every learner would progress twice as fast in every subject. Reading the study's limits was not the same as rejecting it. It was a way of deciding what claim the available evidence could reasonably support.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The headline and the small study\"?",
+          "options": {
+            "A": "Presenting numerical change with sufficient context",
+            "B": "Learning when observations challenge an initial idea",
+            "C": "Matching a scientific claim to its evidence",
+            "D": "Considering whose views a survey includes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Matching a scientific claim to its evidence”展开：Promising findings do not automatically justify broad claims.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "4b9ec21ecf540d9fc44c3d92fc0a76eceae1076ade1d9c9819388a358864670f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The headline and the small study\", what important feature was absent from the study?",
+          "options": {
+            "A": "Any volunteers at all.",
+            "B": "A task for participants to practise.",
+            "C": "A report of improvement.",
+            "D": "A comparison group using another method."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 A comparison group using another method.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5fe6b18a2646c1921815f6d7f87f49638a5def0b0ef014e220f264f9273e8068"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The headline and the small study\"?",
+          "options": {
+            "A": "Promising findings do not automatically justify broad claims.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Promising findings do not automatically justify broad claims.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a8c55eb3c97c0e5d85609228d88d1608b15bd409ed15caf002eced1eb2869316"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The headline and the small study\", the word \"reasonably\" is closest in meaning to _____.",
+          "options": {
+            "A": "changed after considering new information",
+            "B": "in a sensible and justified way",
+            "C": "people who answer a survey",
+            "D": "made to seem larger than it really was"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，reasonably 的含义为 in a sensible and justified way。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "fab65f9f4f7aa0ac51ef9a14197817041b9e460926934918e042d79c8e70176c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The headline and the small study\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "1a3666fe2e6b02eeaeadfaff2325605c5f623a7bae2a46209a0aff6e1289b5cc"
+        }
+      ],
+      "contentFingerprint": "537ae3c41e4dee848d4f1690db55f27511ca7eb40fa8c0d100f2ad17661306aa"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The volunteers who answered first",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A club surveyed members about moving its meetings online. It sent only an online questionnaire and received many favourable responses. Before changing all meetings, the organiser phoned several members who had not replied. Some lacked a reliable connection; others rarely checked email. Their preferences differed from those of the early respondents. The club kept a mixture of meeting formats and made future surveys available in more than one way. A large share of positive answers could not describe the whole membership if the method of asking made some members less likely to answer.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"The volunteers who answered first\"?",
+          "options": {
+            "A": "Matching a scientific claim to its evidence",
+            "B": "Presenting numerical change with sufficient context",
+            "C": "Learning when observations challenge an initial idea",
+            "D": "Considering whose views a survey includes"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Considering whose views a survey includes”展开：Who is able to respond can influence a survey's apparent conclusion.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "9c577060b9c69f9bdbd6470de2790e4a2f1a447d924652bf151138082cd95317"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The volunteers who answered first\", why did the organiser contact non-respondents?",
+          "options": {
+            "A": "The online method might have missed members with different needs.",
+            "B": "The early responses contained no opinions.",
+            "C": "All members had demanded an online-only club.",
+            "D": "Telephone interviews were legally required."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The online method might have missed members with different needs.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5d4c7f78f85547036559c417a7ca752b3070e49b2758cfd50f4c5a82096b81f1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"The volunteers who answered first\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Who is able to respond can influence a survey's apparent conclusion.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Who is able to respond can influence a survey's apparent conclusion.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "7d57b4f65a5699f099918ebe00f2079da510ab2e876d5d1b1e78354f4ab0a06d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The volunteers who answered first\", the word \"respondents\" is closest in meaning to _____.",
+          "options": {
+            "A": "made to seem larger than it really was",
+            "B": "changed after considering new information",
+            "C": "people who answer a survey",
+            "D": "in a sensible and justified way"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，respondents 的含义为 people who answer a survey。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0626eb9a67c9ad0bb787f6970db6bd20b5c3518bb85b29acbe6f37ce8260eb43"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"The volunteers who answered first\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "df3f99a43d573f3053817f98f589ef9210344d3a521eaecca549e1309c048f8d"
+        }
+      ],
+      "contentFingerprint": "01094f93772d9bd4ea44704ab8d45221ae1dd8de69dc0374842bfb325ec2022e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A graph with a missing beginning",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A newsletter showed a graph in which a small rise in recycling looked dramatic. A reader noticed that the vertical scale began close to the lowest observed value rather than at zero. The figures themselves were accurate, but the visual impression encouraged an exaggerated interpretation. The editor added the complete scale information and a second graph showing the wider range. Readers could then see both the small change and its direction. Good presentation did not require hiding progress. It required giving viewers enough context to judge the size of that progress for themselves.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A graph with a missing beginning\"?",
+          "options": {
+            "A": "Presenting numerical change with sufficient context",
+            "B": "Matching a scientific claim to its evidence",
+            "C": "Considering whose views a survey includes",
+            "D": "Learning when observations challenge an initial idea"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Presenting numerical change with sufficient context”展开：Accurate numbers can still create a misleading visual impression.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "746357a77f21b2b1c89fc3d503e48a4d98146b2b62029ffd39d3e1e0187e0ed6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A graph with a missing beginning\", what made the rise look unusually dramatic?",
+          "options": {
+            "A": "The horizontal scale omitted every date.",
+            "B": "The vertical scale began near the lowest observed value.",
+            "C": "The data referred to a different country.",
+            "D": "Every value had been replaced with zero."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 The vertical scale began near the lowest observed value.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d0727d6dd0002de531e25aa9600bb21aaf5e0d55a5c7c5d6bc3a084e894f9eb0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A graph with a missing beginning\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Accurate numbers can still create a misleading visual impression.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Accurate numbers can still create a misleading visual impression.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9444d6d7115f6a8ee92bc06b2883ce1578e7d2c2f4725856f101638e131d83b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A graph with a missing beginning\", the word \"exaggerated\" is closest in meaning to _____.",
+          "options": {
+            "A": "in a sensible and justified way",
+            "B": "people who answer a survey",
+            "C": "changed after considering new information",
+            "D": "made to seem larger than it really was"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，exaggerated 的含义为 made to seem larger than it really was。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "4849b0116a495d65badd9eddd80e2ec4eaafe7500bfa47ef28f7b202078b33ac"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A graph with a missing beginning\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "5553d2d65e1f2cc7084c947dac26a04ad16a38ad600b354f8ebb37ade3eab28c"
+        }
+      ],
+      "contentFingerprint": "f082b55954bc29f0363c21dc938f1354f293e59ff9e33ab2338f66eeb0505a77"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "An explanation worth changing",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A school gardening club believed that one patch grew poorly because its soil lacked nutrients. Adding compost produced little improvement. A member then noticed that water collected there after rain. The club checked drainage and revised its explanation. Nobody treated the change as proof that the first question had been foolish. Keeping a record of the unsuccessful attempt helped show why the new possibility deserved attention. An investigation progressed because its explanation could change when observations did not fit. Defending the original idea at all costs would have made the records less useful.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"An explanation worth changing\"?",
+          "options": {
+            "A": "Presenting numerical change with sufficient context",
+            "B": "Learning when observations challenge an initial idea",
+            "C": "Matching a scientific claim to its evidence",
+            "D": "Considering whose views a survey includes"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Learning when observations challenge an initial idea”展开：Changing an explanation in response to evidence is part of useful investigation.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d2033c42f500f23a02608ee7e835922ee3ac1f99ce5cc3f54071087e298abc80"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"An explanation worth changing\", what observation suggested a different explanation?",
+          "options": {
+            "A": "The compost had never been added.",
+            "B": "Every plant in the garden grew equally poorly.",
+            "C": "Water collected in the patch after rain.",
+            "D": "The patch received no rain for a year."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 Water collected in the patch after rain.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7d51c8162873df6ba10480e4c1913611c9a89d22b0d3b80cfd5b7d74947e8816"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"An explanation worth changing\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Changing an explanation in response to evidence is part of useful investigation."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Changing an explanation in response to evidence is part of useful investigation.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "5791d082d42c3a261506fa0f9f3ca4bc46af5840d71dfc57411811e5db012c08"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"An explanation worth changing\", the word \"revised\" is closest in meaning to _____.",
+          "options": {
+            "A": "changed after considering new information",
+            "B": "in a sensible and justified way",
+            "C": "people who answer a survey",
+            "D": "made to seem larger than it really was"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，revised 的含义为 changed after considering new information。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "9d991a1ed9ac14fbb284906a28cbbc99557e1fe6104f6b6a4c5c750301b54298"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"An explanation worth changing\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ae085e8a1963f828c8d5a60ad4e019873869fdcc1ce4bca88db877d1b72bda73"
+        }
+      ],
+      "contentFingerprint": "6ce61d85968faaee60165f8177705fa8b58b56c267023126379d23733c9c16a1"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A protective case helps _____ accidental damage to a handheld magnifier during transport.",
+      "options": {
+        "A": "present",
+        "B": "pretend",
+        "C": "prefer",
+        "D": "prevent"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "prevent damage 表示防止损坏。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8310ba8874160e65821cebb3ea55e72b66ba018eeed3642bd5382f1b45f30c05"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The examples used in the evidence-reading workshop were chosen to _____ the main idea, not to cover every possible case.",
+      "options": {
+        "A": "illustrate",
+        "B": "isolate",
+        "C": "interrupt",
+        "D": "imitate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "illustrate 表示用例子说明；与 examples 对应。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "67185dfbe623178c3b46910966e7d3270005a6dc9c79f7ead1d28ba6b38b296e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The staff at Lakeside Science Forum asked whether the proposed opening hours were _____ for working residents.",
+      "options": {
+        "A": "considerable",
+        "B": "convenient",
+        "C": "confident",
+        "D": "convincing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "convenient 表示方便的，评价开放时间是否适合上班居民。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "37f78a765c48bceeb67fa202d330cb5f39f69b22629923129a095f712108b3b1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "A small _____ is required when borrowing a handheld magnifier; it is returned when the item comes back undamaged.",
+      "options": {
+        "A": "discount",
+        "B": "donation",
+        "C": "deposit",
+        "D": "debt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "可退还的借用保证金为 deposit，而非捐款或折扣。",
+      "knowledgePoints": [
+        "生活词汇"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "34f84095d81a76eacd1ceb286daca822ec0cb526a93c9b2f830db25c0a00bcfa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "After the evidence-reading workshop, the tutor asked learners to _____ on what they had found most difficult.",
+      "options": {
+        "A": "reject",
+        "B": "rely",
+        "C": "recover",
+        "D": "reflect"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reflect on 表示回顾、认真思考。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "942080f95d1d2ac41d4dd0a10ac4417910420859f352bc5711524f251aa9a9a0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The plan at Lakeside Science Forum must remain _____ enough to accommodate changing work schedules.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "formal",
+        "D": "frequent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "flexible 表示灵活，符合适应工作时间变化的需求。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9cc18533493212bb9745e685ed107ed683c4b0e66df39e2a1b89ba2b3e9203af"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notes from the evidence-reading workshop are meant to _____ practical experience, not replace it.",
+      "options": {
+        "A": "separate",
+        "B": "supplement",
+        "C": "suppress",
+        "D": "surround"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "supplement 表示补充，与 not replace 对照。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a72541ec66d32598b2d153eaabed66fe6b8e1066d6909de339115dfe6452e79b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Before using a handheld magnifier, please read the _____ printed beside the controls.",
+      "options": {
+        "A": "institutions",
+        "B": "invitations",
+        "C": "instructions",
+        "D": "instruments"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "instructions 指操作说明，而 instruments 是仪器。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d3d30be9eea08b5c070ab3b7bd5666227c2a3404c4bf289bfe00fbe2e98157a4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The volunteers at Lakeside Science Forum shared _____ for checking the room after each session.",
+      "options": {
+        "A": "possibility",
+        "B": "popularity",
+        "C": "probability",
+        "D": "responsibility"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "share responsibility for 表示共同承担……责任。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e4c758191194307e67cd589c7ed0f4217ba4848d2b03da59655ab944571d1325"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The evidence-reading workshop attracted people from a wide _____ of backgrounds.",
+      "options": {
+        "A": "range",
+        "B": "rank",
+        "C": "rate",
+        "D": "route"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "a wide range of 是广泛、多种多样的固定表达。",
+      "knowledgePoints": [
+        "量词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "94ef97e053da234a54a06baac1ec0223b24e188af5b0f911662b606c21aaba6c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Hardly had the evidence-reading workshop started _____ the fire alarm rang.",
+      "options": {
+        "A": "when",
+        "B": "than",
+        "C": "then",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "hardly...when 为固定结构，表示刚……就……。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a88c998d4da5e2a50e37e49c0a7390581db4fa7ca8c55045a1faa94ba07a2fdc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "A visitor who had damaged a handheld magnifier asked _____ a replacement was available.",
+      "options": {
+        "A": "which",
+        "B": "whether",
+        "C": "that",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ask whether 引导是否有替代品的间接疑问句。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9b6658deb9376dd0379922b60a0a9f62caf7df3f4eda9c23256b4ada3bd11fa0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The number of people attending activities at Lakeside Science Forum _____ steadily increasing.",
+      "options": {
+        "A": "have",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the number of... 作主语，谓语用单数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "058ed064ea2071696281b03a8e86dcbd4a4eb639faf99ab1f074ae353ea4ddc5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "I remember _____ the instructor at the evidence-reading workshop, but I cannot recall her name.",
+      "options": {
+        "A": "to meet",
+        "B": "meet",
+        "C": "to meeting",
+        "D": "meeting"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "remember doing 表示记得过去做过某事。",
+      "knowledgePoints": [
+        "动名词与不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f2343b1efafd61568d2acfd0c78b646f0a0775c56ae71492770a792cda90b732"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "You _____ return a handheld magnifier today; the borrowing period ends tomorrow.",
+      "options": {
+        "A": "need not",
+        "B": "must not",
+        "C": "cannot",
+        "D": "may not ever"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "need not 表示不必；后文到期日为明天，与禁止归还不同。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8e4b19de1a2e86d103ed6ef5560b6da1e38becc13f071c8fdaa47bb0649be5ab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "This is the first time the evidence-reading workshop _____ in this building.",
+      "options": {
+        "A": "had held",
+        "B": "has been held",
+        "C": "was holding",
+        "D": "is holding"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "This is the first time... 后用现在完成时；活动被举办，故被动。",
+      "knowledgePoints": [
+        "现在完成时被动"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f3fea65cb64f72f8817f9e24a34840396c295de6709462a688c910c5f0524d22"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The office at Lakeside Science Forum will contact you as soon as a place _____ available.",
+      "options": {
+        "A": "became",
+        "B": "would become",
+        "C": "becomes",
+        "D": "will become"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "as soon as 时间从句用一般现在时表示将来。",
+      "knowledgePoints": [
+        "时间状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0f6132523bea43e472baaa7e7618311b94cd8cd395884e924270f347c713bc7c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The assistant had a handheld magnifier _____ by a qualified technician yesterday.",
+      "options": {
+        "A": "checking",
+        "B": "to check",
+        "C": "check",
+        "D": "checked"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "have something done 表示让他人完成某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4617a236fe571675749c726b13d6180b6114cad337c56fc8eaf496a1fd3938af"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "_____ the detailed map, some visitors still had difficulty finding the evidence-reading workshop.",
+      "options": {
+        "A": "Despite",
+        "B": "Although",
+        "C": "Because",
+        "D": "Unless"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Despite 后接名词短语；although 等连词需接从句。",
+      "knowledgePoints": [
+        "让步介词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "28be90301772857f3f3314185ef890fb1f60fa0d120bd24acc1d89ce58d75134"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Only after reading the instructions _____ how the booking system at Lakeside Science Forum worked.",
+      "options": {
+        "A": "understood I did",
+        "B": "did I understand",
+        "C": "I understood",
+        "D": "I did understood"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only + 状语前置引起主句部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9814e53e47fb909a62e26f7db6d0a025101bbd9fb2a3550fccda565351b3b583"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA convincing story is not always a convincing explanation. Before accepting a claim, readers should ask how the evidence was collected and what else might explain the result. Uncertainty does not make an investigation worthless. Stating it honestly helps others judge what the findings can support.",
+      "referenceAnswer": "令人信服的故事并不总是令人信服的解释。在接受一种说法之前，读者应当询问证据是怎样收集的，以及还有什么可能解释这一结果。不确定性并不会使调查失去价值。诚实地说明不确定性，有助于他人判断研究结果能支持哪些结论。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "11a1fef88897c746b0072ec126d62caea13178808b7b82f90a83faa43d2f28c2",
+      "referenceAnswerFingerprint": "f6411d15d7db002874d327bb91b9872cb7d15ffb560f9bcc24b96e073dd3dc26"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nExplain why readers should examine evidence behind a scientific claim. Use an everyday example and offer two useful questions to ask.",
+      "sampleAnswer": "Readers should examine evidence because an attractive headline can make a limited finding sound universal. Suppose a report says that a new study technique greatly improves learning. Before changing every habit, I would ask who took part and whether the results were compared with another method. A small group practising one task may provide a useful starting point without proving that the technique works for all subjects. I would also ask whether another factor could explain the improvement, such as extra practice time. These questions do not require rejecting unfamiliar ideas. They help us decide how much confidence a claim deserves. Recognising uncertainty allows us to remain curious while avoiding conclusions stronger than the available evidence.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "8c751fbb9ebbb68e4b8952af113f741f0fd86b6b3296ed9724a331f19fdd61d3",
+      "sampleAnswerFingerprint": "d16cd1025e423b21f8efe7a07b76847785ff717ad28082a956e7c38075816f9d"
+    }
+  ],
+  "fingerprintManifest": [
+    "dae62eaa7bd998b421d8bf18f2d5aff49f3e55703ab4d4265e9b1d186f1a341e",
+    "158515a27d068439294fb94cad3bb25916f5819a9397e47434c4ba7a0e4e7a49",
+    "1ac65154971f9af211d7b8a29b5ba02c49c7b2f0ec56219e218232871d0561d5",
+    "00d331d4121470d409f7465f7ab7341c06064ec1a5e551778ac953ecffc93634",
+    "bc2ec80b44628ac9662847b2ae1ad9842103a8ad2f373db9781150c7014d293f",
+    "14bbdf5fb75ef4678fb32d6b8392b42c75822c0227d21ba52495f10a00cfeb8e",
+    "093aa756d711d25511834abe93dcae66046aa0c97b47d50f9ebf9f37c37df99f",
+    "ef365e6c064e20af9e06d8bce0a586fa833a831afd2d5241cb6db0f228c3fcab",
+    "3b3c94ecf2ef2341fd1313e8adfa674b463aec489c213521a3705f729b273486",
+    "aeaf4862c1ff74efcb26a0c51c1bfbce2a606d8361c7bfa9c05a4b52faf6d240",
+    "2f7d5a3e6bda10abf0f24390b524189fd0b8ad2bd65420c60859ef250ef53039",
+    "204a19ec05a7f5e852b9e266dc4694ec93952f018a04ab5d41d2744cb152dd0b",
+    "3fdd473ed334fa0eb7a467d7ab3f1862f1cba9c1bd8212f467f5ff6f04adc585",
+    "537ae3c41e4dee848d4f1690db55f27511ca7eb40fa8c0d100f2ad17661306aa",
+    "4b9ec21ecf540d9fc44c3d92fc0a76eceae1076ade1d9c9819388a358864670f",
+    "5fe6b18a2646c1921815f6d7f87f49638a5def0b0ef014e220f264f9273e8068",
+    "a8c55eb3c97c0e5d85609228d88d1608b15bd409ed15caf002eced1eb2869316",
+    "fab65f9f4f7aa0ac51ef9a14197817041b9e460926934918e042d79c8e70176c",
+    "1a3666fe2e6b02eeaeadfaff2325605c5f623a7bae2a46209a0aff6e1289b5cc",
+    "01094f93772d9bd4ea44704ab8d45221ae1dd8de69dc0374842bfb325ec2022e",
+    "9c577060b9c69f9bdbd6470de2790e4a2f1a447d924652bf151138082cd95317",
+    "5d4c7f78f85547036559c417a7ca752b3070e49b2758cfd50f4c5a82096b81f1",
+    "7d57b4f65a5699f099918ebe00f2079da510ab2e876d5d1b1e78354f4ab0a06d",
+    "0626eb9a67c9ad0bb787f6970db6bd20b5c3518bb85b29acbe6f37ce8260eb43",
+    "df3f99a43d573f3053817f98f589ef9210344d3a521eaecca549e1309c048f8d",
+    "f082b55954bc29f0363c21dc938f1354f293e59ff9e33ab2338f66eeb0505a77",
+    "746357a77f21b2b1c89fc3d503e48a4d98146b2b62029ffd39d3e1e0187e0ed6",
+    "d0727d6dd0002de531e25aa9600bb21aaf5e0d55a5c7c5d6bc3a084e894f9eb0",
+    "9444d6d7115f6a8ee92bc06b2883ce1578e7d2c2f4725856f101638e131d83b0",
+    "4849b0116a495d65badd9eddd80e2ec4eaafe7500bfa47ef28f7b202078b33ac",
+    "5553d2d65e1f2cc7084c947dac26a04ad16a38ad600b354f8ebb37ade3eab28c",
+    "6ce61d85968faaee60165f8177705fa8b58b56c267023126379d23733c9c16a1",
+    "d2033c42f500f23a02608ee7e835922ee3ac1f99ce5cc3f54071087e298abc80",
+    "7d51c8162873df6ba10480e4c1913611c9a89d22b0d3b80cfd5b7d74947e8816",
+    "5791d082d42c3a261506fa0f9f3ca4bc46af5840d71dfc57411811e5db012c08",
+    "9d991a1ed9ac14fbb284906a28cbbc99557e1fe6104f6b6a4c5c750301b54298",
+    "ae085e8a1963f828c8d5a60ad4e019873869fdcc1ce4bca88db877d1b72bda73",
+    "8310ba8874160e65821cebb3ea55e72b66ba018eeed3642bd5382f1b45f30c05",
+    "67185dfbe623178c3b46910966e7d3270005a6dc9c79f7ead1d28ba6b38b296e",
+    "37f78a765c48bceeb67fa202d330cb5f39f69b22629923129a095f712108b3b1",
+    "34f84095d81a76eacd1ceb286daca822ec0cb526a93c9b2f830db25c0a00bcfa",
+    "942080f95d1d2ac41d4dd0a10ac4417910420859f352bc5711524f251aa9a9a0",
+    "9cc18533493212bb9745e685ed107ed683c4b0e66df39e2a1b89ba2b3e9203af",
+    "a72541ec66d32598b2d153eaabed66fe6b8e1066d6909de339115dfe6452e79b",
+    "d3d30be9eea08b5c070ab3b7bd5666227c2a3404c4bf289bfe00fbe2e98157a4",
+    "e4c758191194307e67cd589c7ed0f4217ba4848d2b03da59655ab944571d1325",
+    "94ef97e053da234a54a06baac1ec0223b24e188af5b0f911662b606c21aaba6c",
+    "a88c998d4da5e2a50e37e49c0a7390581db4fa7ca8c55045a1faa94ba07a2fdc",
+    "9b6658deb9376dd0379922b60a0a9f62caf7df3f4eda9c23256b4ada3bd11fa0",
+    "058ed064ea2071696281b03a8e86dcbd4a4eb639faf99ab1f074ae353ea4ddc5",
+    "f2343b1efafd61568d2acfd0c78b646f0a0775c56ae71492770a792cda90b732",
+    "8e4b19de1a2e86d103ed6ef5560b6da1e38becc13f071c8fdaa47bb0649be5ab",
+    "f3fea65cb64f72f8817f9e24a34840396c295de6709462a688c910c5f0524d22",
+    "0f6132523bea43e472baaa7e7618311b94cd8cd395884e924270f347c713bc7c",
+    "4617a236fe571675749c726b13d6180b6114cad337c56fc8eaf496a1fd3938af",
+    "28be90301772857f3f3314185ef890fb1f60fa0d120bd24acc1d89ce58d75134",
+    "9814e53e47fb909a62e26f7db6d0a025101bbd9fb2a3550fccda565351b3b583",
+    "11a1fef88897c746b0072ec126d62caea13178808b7b82f90a83faa43d2f28c2",
+    "f6411d15d7db002874d327bb91b9872cb7d15ffb560f9bcc24b96e073dd3dc26",
+    "8c751fbb9ebbb68e4b8952af113f741f0fd86b6b3296ed9724a331f19fdd61d3",
+    "d16cd1025e423b21f8efe7a07b76847785ff717ad28082a956e7c38075816f9d"
+  ],
+  "contentFingerprint": "f6c983ac4e2bc2920549eeb20a1838d08386a46a81002ef68d8548758e83c000"
+}

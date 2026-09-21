@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-01",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 01 · 社区借用与共享",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 1,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the tool-lending orientation",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the tool-lending orientation at Willow Library.\nCoordinator: (1) _____\nVisitor: Thursday evening would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Which day would be convenient for you to attend?",
+        "B": "Please come to the library workshop.",
+        "C": "Bring a notebook; we can provide a cordless drill.",
+        "D": "Contact Willow Library before the session so that we can offer your place to someone else."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the tool-lending orientation\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the library workshop.",
+            "C": "Bring a notebook; we can provide a cordless drill.",
+            "D": "Contact Willow Library before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bcf8c9246efb8eadc1bafac4b97493d029b5a360f3f209508d4d188b60a1c8b3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the tool-lending orientation\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the library workshop.",
+            "C": "Bring a notebook; we can provide a cordless drill.",
+            "D": "Contact Willow Library before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a9e3896a055fc3ec105881ee6254f9be572718df20fa2a77c3527cbe1e461bdd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the tool-lending orientation\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the library workshop.",
+            "C": "Bring a notebook; we can provide a cordless drill.",
+            "D": "Contact Willow Library before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "79a809dcc2f749fe323ac5933995249128bbd056e0203a9dfccacb289b76480c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the tool-lending orientation\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the library workshop.",
+            "C": "Bring a notebook; we can provide a cordless drill.",
+            "D": "Contact Willow Library before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1ef92e25d10bb8db3c033d7493b5359422e2a396995b1fb896f62cc6e533ed81"
+        }
+      ],
+      "contentFingerprint": "635c185cfdbce105b958ddde522b4ae3e2426c035bb06f7f41ecac9c885bb989"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Willow Library",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a cordless drill from Willow Library, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The handle is loose. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the tool-lending orientation?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Yes. You can exchange it at the service desk.",
+        "B": "Please leave it with us and complete a short fault report.",
+        "C": "You must purchase every item you use at the session.",
+        "D": "Could you describe the fault you noticed?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Willow Library\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Yes. You can exchange it at the service desk.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f20eb4b8f4370deaf9aa86c9cbe11c10bebc2c7b065f2be0319b700498e46355"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Willow Library\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Yes. You can exchange it at the service desk.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4aba023d63eef80c9575fa9120dcb793f4bdb49e6141313c94d9a36bc97932c1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Willow Library\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Yes. You can exchange it at the service desk.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3cf8beb26ca46832f9b992a83530fc9792457c44ae1d80b90f1d2c985edc0378"
+        }
+      ],
+      "contentFingerprint": "ecd2e1404a4644fc8c16068a2cb62a67146b362ae34f65e99165fb47b5f8c445"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Willow Library",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the tool-lending orientation, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Ask the session coordinator to help; you do not have to guess.",
+        "B": "You should promise to solve every problem without asking anyone.",
+        "C": "You could welcome visitors at the library workshop while the other volunteers prepare.",
+        "D": "Use the current map of Willow Library and the list of rooms for the tool-lending orientation."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Willow Library\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the library workshop while the other volunteers prepare.",
+            "D": "Use the current map of Willow Library and the list of rooms for the tool-lending orientation."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "227f9e56a4c6cd1241c78e22f105072df0946ff0c0d1d7faf0843c170099474b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Willow Library\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the library workshop while the other volunteers prepare.",
+            "D": "Use the current map of Willow Library and the list of rooms for the tool-lending orientation."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0baa08aaa44107f2e830c3937637fd11fa8855b2f191870b485c1a2e1e0fe84b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Willow Library\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the library workshop while the other volunteers prepare.",
+            "D": "Use the current map of Willow Library and the list of rooms for the tool-lending orientation."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "fa79b1710e04ce71f4b5603ffdca0de03ea8b56f6e4e9b14185fffaae8eb2965"
+        }
+      ],
+      "contentFingerprint": "bbedb802ab35eec58d8ee999fbfe93d08835993c435a0c757d533bb2912475f2"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The drill that stayed in the box",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Willow Library first bought tools after residents said that buying equipment for one small job was expensive. During the first month, drills were borrowed often, but a carpet cleaner remained on its shelf. Staff initially thought nobody needed it. A visitor then explained that its instruction sheet was difficult to follow. The library added a short demonstration on Saturday mornings, and requests increased. This did not prove that demonstrations would help every item. Some tools were simply unsuitable for small flats. Staff began asking borrowers what prevented them from using an item before deciding what to purchase next.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The drill that stayed in the box\"?",
+          "options": {
+            "A": "Learning through personally relevant tasks",
+            "B": "Looking beyond the price of a service",
+            "C": "Helping borrowers follow a shared rule",
+            "D": "Finding the reason behind low use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Finding the reason behind low use”展开：Low demand can reflect a lack of practical guidance.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "aa3b69ca1aa4de1074cd42b66c8fe6b53fbd04a715adc18ad81a06c562a9b660"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The drill that stayed in the box\", how did the library increase interest in the carpet cleaner?",
+          "options": {
+            "A": "It demonstrated how to use it.",
+            "B": "It reduced the borrowing fee.",
+            "C": "It removed every other tool.",
+            "D": "It required residents to buy a cleaner."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 It demonstrated how to use it.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5b0e8c5ab5bbbe7b82d86ba1d875e92ed21d6db645c4ac0c9ba7597dda9a365f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The drill that stayed in the box\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Low demand can reflect a lack of practical guidance.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Low demand can reflect a lack of practical guidance.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "8a544405ec97a194f4ff1008662eace6452e8256aeefb0a9b6c5245d6c8511a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The drill that stayed in the box\", the word \"prevented\" is closest in meaning to _____.",
+          "options": {
+            "A": "book in advance",
+            "B": "examine carefully",
+            "C": "stopped",
+            "D": "people with particular expertise"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，prevented 的含义为 stopped。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "907ce4cf3d8cb784f8bbd491a835e609d71effccc6dafd8a67aef9306ca2a346"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The drill that stayed in the box\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "25deac88ccb513bea4c924a459d910062a4ae34f089b0db54cca0d3ab1e5b1d1"
+        }
+      ],
+      "contentFingerprint": "688f94ae3e414748f68a87ea97e7d6985dda639dd41d60361f7330aec069999c"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A shelf for unfinished projects",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Nora started a weekly sewing circle for people whose repairs had remained unfinished for months. At first she prepared a different lesson every week. Members, however, brought broken zips and loose hems that did not match her plan. Nora replaced most lectures with a shared work table. Participants could still request a short explanation, but they now learnt while solving their own problems. Attendance became more regular. The change required Nora to admit when a repair was beyond her experience. She kept a list of local specialists instead of promising that the circle could fix everything.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A shelf for unfinished projects\"?",
+          "options": {
+            "A": "Learning through personally relevant tasks",
+            "B": "Finding the reason behind low use",
+            "C": "Looking beyond the price of a service",
+            "D": "Helping borrowers follow a shared rule"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Learning through personally relevant tasks”展开：Useful teaching can respond to learners' immediate needs.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "40bdda17a75eaeaa86a67d27f80a938a06f54e0679bd06f1efb913c1751c6442"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A shelf for unfinished projects\", what replaced most of Nora's prepared lessons?",
+          "options": {
+            "A": "A rule against bringing personal projects.",
+            "B": "Work on repairs brought by participants.",
+            "C": "A compulsory written examination.",
+            "D": "Longer lectures on unrelated topics."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Work on repairs brought by participants.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "fb34a1b973074275a34265649b3f6288cda6064c7c823828601b743984b68783"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A shelf for unfinished projects\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Useful teaching can respond to learners' immediate needs.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Useful teaching can respond to learners' immediate needs.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "45f5f42bea9d0ed6e09f891088adec5bacefd36def9824f560a50a5b285e4baa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A shelf for unfinished projects\", the word \"specialists\" is closest in meaning to _____.",
+          "options": {
+            "A": "stopped",
+            "B": "book in advance",
+            "C": "examine carefully",
+            "D": "people with particular expertise"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，specialists 的含义为 people with particular expertise。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "06f01620da376a7ae20e793c27384eb0c2584b5740012d5ec39b53f7c2f7b0a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A shelf for unfinished projects\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "58a303e1f614a36082e4ed653927eb5b07792db68514313fd57985a2d6bc9abb"
+        }
+      ],
+      "contentFingerprint": "62371563943938283c93f23af41c8e7cb01aed26e0f1bcc03757802f109926a9"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The cost of a free service",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A community centre advertised free access to its printer on weekday mornings. The organisers expected many job seekers, but only a few came. Interviews revealed that some residents travelled a long way and could not afford repeated bus fares. Others cared for children before lunch. The centre added two evening sessions and allowed visitors to reserve a time by telephone. Use increased without any change to the printing fee. Staff concluded that a service could be free at the point of use and still be costly to reach. They kept the morning sessions for people who preferred them.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The cost of a free service\"?",
+          "options": {
+            "A": "Helping borrowers follow a shared rule",
+            "B": "Looking beyond the price of a service",
+            "C": "Finding the reason behind low use",
+            "D": "Learning through personally relevant tasks"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Looking beyond the price of a service”展开：Access costs include time and travel as well as fees.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "741fd3c2cc0c084403b6ce2908ce8e21be22af40592828f3c39ff555aa9b40a7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The cost of a free service\", which change helped residents plan their visit?",
+          "options": {
+            "A": "Closing every morning session.",
+            "B": "An automatic bus-fare refund.",
+            "C": "Telephone reservations became available.",
+            "D": "A charge for printing each page."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 Telephone reservations became available.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "78c3d9d3ba2aaede3a98e5b3d77ac7933f418d7b36f588772967ff0196e5b4e7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The cost of a free service\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Access costs include time and travel as well as fees."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Access costs include time and travel as well as fees.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "c9c95ce9f886b844a227dcc1b5ebc134c3270b5a3f878af203174ef42e205a6b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The cost of a free service\", the word \"reserve\" is closest in meaning to _____.",
+          "options": {
+            "A": "book in advance",
+            "B": "stopped",
+            "C": "people with particular expertise",
+            "D": "examine carefully"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，reserve 的含义为 book in advance。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "804447b80110fd2f593e60f5004ace4dd1d39097f2167ce807ebe083d3465c7a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The cost of a free service\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7f2d00a4a0975d5f61273c5c3082afc4a7668eb2919f741f0965f164cd23db25"
+        }
+      ],
+      "contentFingerprint": "54ebd54bdc37fa8117c864274f65aea10daf8e19656fd7d6edefebaa3786c291"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "When a borrowing rule changed",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Members of a housing cooperative could borrow a folding trolley for one day. This seemed fair until several residents explained that their shopping trips took place after late shifts. Returning the trolley before the office closed was difficult. The cooperative introduced a secure return cupboard and kept the one-day limit. Late returns fell, although staff still had to inspect the trolley each morning. The new system did not remove borrowers' responsibility for damage. Instead, it made the existing rule easier to follow. A notice beside the cupboard explained how to report a fault immediately.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"When a borrowing rule changed\"?",
+          "options": {
+            "A": "Learning through personally relevant tasks",
+            "B": "Looking beyond the price of a service",
+            "C": "Helping borrowers follow a shared rule",
+            "D": "Finding the reason behind low use"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Helping borrowers follow a shared rule”展开：Practical arrangements can make a fair rule more workable.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "77e83caad99bb03da607e98cf035d9b3347a762fe94e991ca04054a6daa2aeab"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"When a borrowing rule changed\", what did the cooperative add?",
+          "options": {
+            "A": "A longer borrowing period for everybody.",
+            "B": "A fee for reporting damage.",
+            "C": "A second trolley for every resident.",
+            "D": "A secure cupboard for returns."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 A secure cupboard for returns.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "653ea5cf6d4101d6c1016b5bb439ab21c4bd6f67991d7fc8ef728bf1f582df0e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"When a borrowing rule changed\"?",
+          "options": {
+            "A": "Practical arrangements can make a fair rule more workable.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Practical arrangements can make a fair rule more workable.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "2d12f28ffa2a80c574504c24f2b15ab1e94045f68f21c0fb1d96654afbf22e14"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"When a borrowing rule changed\", the word \"inspect\" is closest in meaning to _____.",
+          "options": {
+            "A": "book in advance",
+            "B": "examine carefully",
+            "C": "stopped",
+            "D": "people with particular expertise"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，inspect 的含义为 examine carefully。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "75c3f5b68c6d3ceae201fc7f79625d2ef85bdd0049d4792397684878c4f8c35c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"When a borrowing rule changed\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "19fb220d9dbc0251c9a9e18c4688728c819ab01480cd62ddceadf3a75bbfecd0"
+        }
+      ],
+      "contentFingerprint": "a735d8f68fe720cfdf430864233627f76dc1bf0005ac170826a4c85f181c39c4"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The organisers at Willow Library agreed to _____ the session until the damaged equipment was replaced.",
+      "options": {
+        "A": "postpone",
+        "B": "predict",
+        "C": "preserve",
+        "D": "purchase"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "postpone 表示推迟；因设备损坏而延后活动。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b871de268c1d96a212b5f8365b0f1a6328dc34e38143ba12fd2c2032507e2fd0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Clear instructions made the tool-lending orientation _____ to people with little previous experience.",
+      "options": {
+        "A": "absent",
+        "B": "accessible",
+        "C": "accidental",
+        "D": "anxious"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "accessible 表示易于使用或理解，符合缺乏经验者也能参与的语境。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "83eed8276a504123aa7e3ef2bc07defe491e849b749c851441c07d2b7ba2b837"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Before lending out a cordless drill, the assistant checked its _____ carefully.",
+      "options": {
+        "A": "competition",
+        "B": "construction",
+        "C": "condition",
+        "D": "conclusion"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "condition 在此指物品的状况。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6c739f794710c837a0d9c4868ba91dd3a28daefc725eb5184f3f7ba853cc6056"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team at Willow Library must take the cost of maintenance into _____ when buying equipment.",
+      "options": {
+        "A": "effect",
+        "B": "place",
+        "C": "action",
+        "D": "account"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "take ... into account 是把……考虑在内。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "11a24657c2b453f999acd974753d068cc5477c494daee82d208b0afdb72336bd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "One suggestion from a visitor led to a _____ improvement in the tool-lending orientation.",
+      "options": {
+        "A": "significant",
+        "B": "distant",
+        "C": "reluctant",
+        "D": "irrelevant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "significant 表示显著的，修饰 improvement。",
+      "knowledgePoints": [
+        "语义搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d835393d807364bed657b2b73989c52175ce123ef255c42f718960ab52657e63"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Participants were asked to _____ any faults with a cordless drill before using it.",
+      "options": {
+        "A": "transport",
+        "B": "report",
+        "C": "import",
+        "D": "support"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "report faults 表示报告故障，符合使用前告知工作人员的要求。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f2c2a70120e3b1f7e26b20652d0d6debcd9385b48de03c5ea5731efd0f9507fb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The new signs at Willow Library were intended to _____ confusion near the entrance.",
+      "options": {
+        "A": "introduce",
+        "B": "reproduce",
+        "C": "reduce",
+        "D": "produce"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reduce confusion 表示减少困惑，其余动词不符合目的。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0be4b2eb596767396ee06899e08c6445011ddaef124eeb66c645681bce9b436d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organiser gave a brief _____ of what the tool-lending orientation would cover.",
+      "options": {
+        "A": "salary",
+        "B": "surgery",
+        "C": "sympathy",
+        "D": "summary"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "summary 表示概述，用于介绍活动内容。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b2c11726529172e271c1c93366ea6fcf88e5d045825c54af96226d0fb57db71e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Because places at the tool-lending orientation were limited, early booking was strongly _____.",
+      "options": {
+        "A": "recommended",
+        "B": "recovered",
+        "C": "removed",
+        "D": "repaired"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "recommend 表示建议；此处为被动结构 recommended。",
+      "knowledgePoints": [
+        "语境词义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "71f14200d66ab8ce30e2af9b774293e32d460b416d1146da114accb584d3b995"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The guide at Willow Library answered each beginner's question with great _____.",
+      "options": {
+        "A": "permission",
+        "B": "patience",
+        "C": "pressure",
+        "D": "profit"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "with great patience 表示十分耐心地，与解答初学者问题相符。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "aac48ae9b05d4dd790c91652129cbe9b2001ce871313597fba4d62e22c8d2fe5"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the staff at Willow Library _____ earlier, the visitors would not have waited outside yesterday.",
+      "options": {
+        "A": "will arrive",
+        "B": "had arrived",
+        "C": "arrive",
+        "D": "have arrived"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去虚拟条件句：if 从句用 had done，主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "aebaaa40083ff07d10b27ff13d71ea6a823092b22d308ae2fc5e4073ed7bb11d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The leaflet for the tool-lending orientation, _____ was revised last week, now includes a clear map.",
+      "options": {
+        "A": "that",
+        "B": "whose",
+        "C": "which",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "非限制性定语从句指代 leaflet，关系代词用 which。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "479441fba341b909ec7e03ef16681e430388e771ba800bbdeb041d319c94e8df"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the organiser nor the assistants at Willow Library _____ available at the moment.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "be",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither...nor 的谓语与较近的复数 assistants 一致；at the moment 用现在时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f7c2b9dd69094fe509d81aabad0cd3940ba67ec8c20c3728482cb82575c7c033"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Please avoid _____ a cordless drill near the edge of the table.",
+      "options": {
+        "A": "placing",
+        "B": "to place",
+        "C": "place",
+        "D": "placed"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "avoid 后接动名词作宾语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c98e1a30148d933c29276a3f9fb8c4013efc1cb88d4bde554c2c30c6d5216806"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the tool-lending orientation began, all the chairs _____ in position.",
+      "options": {
+        "A": "will place",
+        "B": "had been placed",
+        "C": "have placed",
+        "D": "are placing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去开始之前已完成且 chairs 是动作承受者，用过去完成时被动。",
+      "knowledgePoints": [
+        "时态与被动语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5ac060e37bb7d5a9cf14439271b7657647fdb12bbe8be6a8ce8b8888b0ebcabf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The information desk at Willow Library is open _____ 9 a.m. and 5 p.m. on weekdays.",
+      "options": {
+        "A": "during",
+        "B": "from",
+        "C": "between",
+        "D": "among"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "between...and 表示两时间点之间。",
+      "knowledgePoints": [
+        "介词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "696468cd7f4a23d24a87674a2be19a1a77c7bfa9a6c4c6801cae7ce1f2919694"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The instructor spoke slowly _____ everyone at the tool-lending orientation could follow the explanation.",
+      "options": {
+        "A": "even though",
+        "B": "as if",
+        "C": "unless",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "so that 引导目的状语从句：为了让大家听懂。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0c8c8607f480b22bab81d43a3c0e5038edf3d13bc354fcaabf1672906919c4fe"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The person _____ lent me a cordless drill explained the return procedure clearly.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "先行词 person 为人且从句缺主语，用 who。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "136bf7889d80d1f8c6a069bd23f975f8efe45e6c91e1c069a176146ae7ba1e76"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Not until the last visitor had left _____ the doors of Willow Library.",
+      "options": {
+        "A": "the caretaker did lock",
+        "B": "did the caretaker lock",
+        "C": "the caretaker locked",
+        "D": "had locked the caretaker"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "not until 置于句首时主句部分倒装，过去动作使用 did + 主语 + 动词原形。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fb02b751a84e527f4c0349185afb985e6a056c727dea14b2b11fca809a41a445"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The tool-lending orientation was _____ useful that several learners asked for a follow-up session.",
+      "options": {
+        "A": "too",
+        "B": "very",
+        "C": "so",
+        "D": "such"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "so + 形容词 + that 构成结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2b8ac510736002700b387c2c50b80458cb8c24ef2fa9b0802fb095ca21c090bb"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA small library can offer more than books. When neighbours borrow tools that they use only occasionally, they save money and reduce waste. However, a lending service needs clear instructions and regular checks. Sharing works best when everyone understands both the benefits and the responsibilities.",
+      "referenceAnswer": "小型图书馆提供的不一定只有书籍。邻居们借用偶尔才用得上的工具，既能省钱，也能减少浪费。不过，借用服务需要清晰的说明和定期检查。只有每个人都了解共享的好处以及应承担的责任，共享才能发挥最好的作用。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "13e5175f6986e7ebfd3fad86bb841e4d51a1b25c20563756cec4445ee60cc6e8",
+      "referenceAnswerFingerprint": "b9f34568011cdc1d8963d01a32e5d5ac5ce75db6e196c0f5128d9bb1a518cde2"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nIntroduce a neighbourhood tool-sharing scheme. Explain one benefit, one possible problem, and a practical rule.",
+      "sampleAnswer": "I would welcome a tool-sharing scheme in our neighbourhood. Many households need a drill or a trolley only occasionally, so sharing could reduce both expense and the space used for storage. It could also give neighbours a reason to meet and exchange practical advice. However, damaged equipment could lead to arguments or unsafe use. I suggest that a volunteer check every item when it is borrowed and returned, with its condition recorded on a simple card. Borrowers should receive clear instructions and should report faults immediately. A short borrowing period would help more people use popular tools. Starting with a small collection would allow the organisers to learn which items residents actually need before buying more.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "10f613192ae714858677f7ae5a346d065f6c3c5b64964c7f7c689f4005cf0dc6",
+      "sampleAnswerFingerprint": "dbdf134c6e0f0b062038633a6ba9308080ee27a052f892d48e4eb51e6d53faab"
+    }
+  ],
+  "fingerprintManifest": [
+    "635c185cfdbce105b958ddde522b4ae3e2426c035bb06f7f41ecac9c885bb989",
+    "bcf8c9246efb8eadc1bafac4b97493d029b5a360f3f209508d4d188b60a1c8b3",
+    "a9e3896a055fc3ec105881ee6254f9be572718df20fa2a77c3527cbe1e461bdd",
+    "79a809dcc2f749fe323ac5933995249128bbd056e0203a9dfccacb289b76480c",
+    "1ef92e25d10bb8db3c033d7493b5359422e2a396995b1fb896f62cc6e533ed81",
+    "ecd2e1404a4644fc8c16068a2cb62a67146b362ae34f65e99165fb47b5f8c445",
+    "f20eb4b8f4370deaf9aa86c9cbe11c10bebc2c7b065f2be0319b700498e46355",
+    "4aba023d63eef80c9575fa9120dcb793f4bdb49e6141313c94d9a36bc97932c1",
+    "3cf8beb26ca46832f9b992a83530fc9792457c44ae1d80b90f1d2c985edc0378",
+    "bbedb802ab35eec58d8ee999fbfe93d08835993c435a0c757d533bb2912475f2",
+    "227f9e56a4c6cd1241c78e22f105072df0946ff0c0d1d7faf0843c170099474b",
+    "0baa08aaa44107f2e830c3937637fd11fa8855b2f191870b485c1a2e1e0fe84b",
+    "fa79b1710e04ce71f4b5603ffdca0de03ea8b56f6e4e9b14185fffaae8eb2965",
+    "688f94ae3e414748f68a87ea97e7d6985dda639dd41d60361f7330aec069999c",
+    "aa3b69ca1aa4de1074cd42b66c8fe6b53fbd04a715adc18ad81a06c562a9b660",
+    "5b0e8c5ab5bbbe7b82d86ba1d875e92ed21d6db645c4ac0c9ba7597dda9a365f",
+    "8a544405ec97a194f4ff1008662eace6452e8256aeefb0a9b6c5245d6c8511a2",
+    "907ce4cf3d8cb784f8bbd491a835e609d71effccc6dafd8a67aef9306ca2a346",
+    "25deac88ccb513bea4c924a459d910062a4ae34f089b0db54cca0d3ab1e5b1d1",
+    "62371563943938283c93f23af41c8e7cb01aed26e0f1bcc03757802f109926a9",
+    "40bdda17a75eaeaa86a67d27f80a938a06f54e0679bd06f1efb913c1751c6442",
+    "fb34a1b973074275a34265649b3f6288cda6064c7c823828601b743984b68783",
+    "45f5f42bea9d0ed6e09f891088adec5bacefd36def9824f560a50a5b285e4baa",
+    "06f01620da376a7ae20e793c27384eb0c2584b5740012d5ec39b53f7c2f7b0a6",
+    "58a303e1f614a36082e4ed653927eb5b07792db68514313fd57985a2d6bc9abb",
+    "54ebd54bdc37fa8117c864274f65aea10daf8e19656fd7d6edefebaa3786c291",
+    "741fd3c2cc0c084403b6ce2908ce8e21be22af40592828f3c39ff555aa9b40a7",
+    "78c3d9d3ba2aaede3a98e5b3d77ac7933f418d7b36f588772967ff0196e5b4e7",
+    "c9c95ce9f886b844a227dcc1b5ebc134c3270b5a3f878af203174ef42e205a6b",
+    "804447b80110fd2f593e60f5004ace4dd1d39097f2167ce807ebe083d3465c7a",
+    "7f2d00a4a0975d5f61273c5c3082afc4a7668eb2919f741f0965f164cd23db25",
+    "a735d8f68fe720cfdf430864233627f76dc1bf0005ac170826a4c85f181c39c4",
+    "77e83caad99bb03da607e98cf035d9b3347a762fe94e991ca04054a6daa2aeab",
+    "653ea5cf6d4101d6c1016b5bb439ab21c4bd6f67991d7fc8ef728bf1f582df0e",
+    "2d12f28ffa2a80c574504c24f2b15ab1e94045f68f21c0fb1d96654afbf22e14",
+    "75c3f5b68c6d3ceae201fc7f79625d2ef85bdd0049d4792397684878c4f8c35c",
+    "19fb220d9dbc0251c9a9e18c4688728c819ab01480cd62ddceadf3a75bbfecd0",
+    "b871de268c1d96a212b5f8365b0f1a6328dc34e38143ba12fd2c2032507e2fd0",
+    "83eed8276a504123aa7e3ef2bc07defe491e849b749c851441c07d2b7ba2b837",
+    "6c739f794710c837a0d9c4868ba91dd3a28daefc725eb5184f3f7ba853cc6056",
+    "11a24657c2b453f999acd974753d068cc5477c494daee82d208b0afdb72336bd",
+    "d835393d807364bed657b2b73989c52175ce123ef255c42f718960ab52657e63",
+    "f2c2a70120e3b1f7e26b20652d0d6debcd9385b48de03c5ea5731efd0f9507fb",
+    "0be4b2eb596767396ee06899e08c6445011ddaef124eeb66c645681bce9b436d",
+    "b2c11726529172e271c1c93366ea6fcf88e5d045825c54af96226d0fb57db71e",
+    "71f14200d66ab8ce30e2af9b774293e32d460b416d1146da114accb584d3b995",
+    "aac48ae9b05d4dd790c91652129cbe9b2001ce871313597fba4d62e22c8d2fe5",
+    "aebaaa40083ff07d10b27ff13d71ea6a823092b22d308ae2fc5e4073ed7bb11d",
+    "479441fba341b909ec7e03ef16681e430388e771ba800bbdeb041d319c94e8df",
+    "f7c2b9dd69094fe509d81aabad0cd3940ba67ec8c20c3728482cb82575c7c033",
+    "c98e1a30148d933c29276a3f9fb8c4013efc1cb88d4bde554c2c30c6d5216806",
+    "5ac060e37bb7d5a9cf14439271b7657647fdb12bbe8be6a8ce8b8888b0ebcabf",
+    "696468cd7f4a23d24a87674a2be19a1a77c7bfa9a6c4c6801cae7ce1f2919694",
+    "0c8c8607f480b22bab81d43a3c0e5038edf3d13bc354fcaabf1672906919c4fe",
+    "136bf7889d80d1f8c6a069bd23f975f8efe45e6c91e1c069a176146ae7ba1e76",
+    "fb02b751a84e527f4c0349185afb985e6a056c727dea14b2b11fca809a41a445",
+    "2b8ac510736002700b387c2c50b80458cb8c24ef2fa9b0802fb095ca21c090bb",
+    "13e5175f6986e7ebfd3fad86bb841e4d51a1b25c20563756cec4445ee60cc6e8",
+    "b9f34568011cdc1d8963d01a32e5d5ac5ce75db6e196c0f5128d9bb1a518cde2",
+    "10f613192ae714858677f7ae5a346d065f6c3c5b64964c7f7c689f4005cf0dc6",
+    "dbdf134c6e0f0b062038633a6ba9308080ee27a052f892d48e4eb51e6d53faab"
+  ],
+  "contentFingerprint": "64b4ecabbda5d34b66be55b5580c03096e40b5b677cc0ac1974e187b5d5c7689"
+}

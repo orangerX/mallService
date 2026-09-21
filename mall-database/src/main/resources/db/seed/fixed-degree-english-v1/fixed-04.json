@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-04",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 04 · 维修文化与日常消费",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 4,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the bicycle-care session",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the bicycle-care session at Maple Repair Circle.\nCoordinator: (1) _____\nVisitor: Wednesday evening would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Contact Maple Repair Circle before the session so that we can offer your place to someone else.",
+        "B": "Which day would be convenient for you to attend?",
+        "C": "Please come to the station courtyard.",
+        "D": "Bring a notebook; we can provide a tyre pump."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the bicycle-care session\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Contact Maple Repair Circle before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the station courtyard.",
+            "D": "Bring a notebook; we can provide a tyre pump."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "eb1a7ab0db5aa9ba73f637c23022125a11b370009ded47263fbfe4f73e7f980b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the bicycle-care session\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Contact Maple Repair Circle before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the station courtyard.",
+            "D": "Bring a notebook; we can provide a tyre pump."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d5017ebb2d1049a5abbe10c2f768f675a6404bf271c1f1b647f7ec567505a826"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the bicycle-care session\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Contact Maple Repair Circle before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the station courtyard.",
+            "D": "Bring a notebook; we can provide a tyre pump."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "80b26dde0ceb33d4c48a5c53f29fdb9ff97c06df8ef10d50757414ad849b4333"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the bicycle-care session\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Contact Maple Repair Circle before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the station courtyard.",
+            "D": "Bring a notebook; we can provide a tyre pump."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1776221a9f91b6cbf1855d7893d60be5628ac5321478f9d7ee324de7a48e5db5"
+        }
+      ],
+      "contentFingerprint": "3834eeb186aa8ba5fcecc076cbfb64f7f8158af3a556494b975397044ea2a523"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Maple Repair Circle",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a tyre pump from Maple Repair Circle, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The hose is leaking. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the bicycle-care session?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Could you describe the fault you noticed?",
+        "B": "Yes. You can borrow the blue pump beside the bench.",
+        "C": "Please leave it with us and complete a short fault report.",
+        "D": "You must purchase every item you use at the session."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Maple Repair Circle\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the blue pump beside the bench.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2ae35ded1f9f39fdaba94283c0ce6e5aff3a3f1cf239f4d131468c3c4e6fbe9f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Maple Repair Circle\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the blue pump beside the bench.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "013753aa1f412a22f83da55e784e974cf75e479a54d3e716346b55d00ca820f9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Maple Repair Circle\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can borrow the blue pump beside the bench.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4fec70055a1986f53cad363f18bc5d999d2584d8c28b700a31ca973773d8f83c"
+        }
+      ],
+      "contentFingerprint": "3bbe74f18a373c9d47aa1a480c3c17036c90fc208dc8b584b846f84b8cbc432b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Maple Repair Circle",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the bicycle-care session, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Use the current map of Maple Repair Circle and the list of rooms for the bicycle-care session.",
+        "B": "Ask the session coordinator to help; you do not have to guess.",
+        "C": "You should promise to solve every problem without asking anyone.",
+        "D": "You could welcome visitors at the station courtyard while the other volunteers prepare."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Maple Repair Circle\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Use the current map of Maple Repair Circle and the list of rooms for the bicycle-care session.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the station courtyard while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1b2ed83181c36acd01e7cbc72a2bfbc7b58140d7be03b0f870bb245c2d2ea595"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Maple Repair Circle\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Use the current map of Maple Repair Circle and the list of rooms for the bicycle-care session.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the station courtyard while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3fa57afeada7295b3cf6209e2b8ae5e9b8de514ffd9436b18f35a423e3cfb622"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Maple Repair Circle\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Use the current map of Maple Repair Circle and the list of rooms for the bicycle-care session.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the station courtyard while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "55f9c2983b3eaa376b86133048317e79cda3a0dc2b6a2527231aa0fd167ae091"
+        }
+      ],
+      "contentFingerprint": "a8318d4b26c0a5f83fd0d9ca556d43f504fb9906b6233351a4699c2f4df35fee"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A repair with two outcomes",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "At Maple Repair Circle, a volunteer helped Sam mend a torn backpack strap. Sam expected the volunteer to do the sewing while he waited. Instead, she demonstrated the first stitches and asked him to continue. The repair took longer than a professional service would have taken. Yet Sam left with a usable bag and enough confidence to mend a smaller tear at home. The circle did not claim to replace paid repair businesses. Its aim was to make simple skills less mysterious, while referring unsafe or highly specialised jobs to people qualified to handle them.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"A repair with two outcomes\"?",
+          "options": {
+            "A": "Organising repair work through clear categories",
+            "B": "Using maintenance records to improve everyday decisions",
+            "C": "Combining a repair with practical learning",
+            "D": "Considering repairability before buying equipment"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Combining a repair with practical learning”展开：Participation can produce learning in addition to a repaired object.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d0baacda74ca818e4dabd7acaca142176dc48fa80aa5a95c45d6e28cee814586"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"A repair with two outcomes\", what did Sam do after the demonstration?",
+          "options": {
+            "A": "He bought a new backpack immediately.",
+            "B": "He watched without participating.",
+            "C": "He repaired electrical equipment instead.",
+            "D": "He continued the stitching himself."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 He continued the stitching himself.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "669358b7e31df479393be8a14d8674144b0093af3eb18d65565ff9949d55a094"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"A repair with two outcomes\"?",
+          "options": {
+            "A": "Participation can produce learning in addition to a repaired object.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Participation can produce learning in addition to a repaired object.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "bf1b0fddcb31e5dbe65d2e89f9135e85f97495e68d3cfa466ded3b766d934c64"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"A repair with two outcomes\", the word \"qualified\" is closest in meaning to _____.",
+          "options": {
+            "A": "based on relevant information",
+            "B": "having the required training or ability",
+            "C": "able to fit and work with the equipment",
+            "D": "an initial examination or judgement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，qualified 的含义为 having the required training or ability。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "67a94c2f9020eec1f15f00a5e02f981dccaa8ab350bf005eae7258582a9a2dc4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"A repair with two outcomes\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "753935fe8a203255afac589d5221ba8d8246896342dcea06328c75bf5f74f33b"
+        }
+      ],
+      "contentFingerprint": "7ed14f689c9fc548e11d993950d894b4178736bb23f95515c673337aa962ca41"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The part nobody could find",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A café owned a useful mixer whose small plastic control knob had broken. A replacement machine was easy to order, but a replacement knob was not listed in the supplier's catalogue. The manager contacted a repair shop, which found a compatible part after checking the model. The mixer returned to service at a modest cost. The experience led the café to ask about spare parts before buying other equipment. Purchase price remained important, but it no longer stood alone. The ability to maintain a machine could affect its cost over several years.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"The part nobody could find\"?",
+          "options": {
+            "A": "Combining a repair with practical learning",
+            "B": "Organising repair work through clear categories",
+            "C": "Using maintenance records to improve everyday decisions",
+            "D": "Considering repairability before buying equipment"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Considering repairability before buying equipment”展开：A cheap purchase can become expensive if maintenance is difficult.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "17d4092c3cbf706b11afa1d49123da62796b71b4092578830ce26692d6057ac4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The part nobody could find\", what changed in the café's purchasing process?",
+          "options": {
+            "A": "It began asking about the availability of spare parts.",
+            "B": "It stopped using kitchen machines.",
+            "C": "It chose only the lowest purchase price.",
+            "D": "It bought a new mixer every year."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 It began asking about the availability of spare parts.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "cf672d6f8c64d51f37721d7bcd0d231a72a719d508324bba90f4e07303d3edcd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"The part nobody could find\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A cheap purchase can become expensive if maintenance is difficult.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A cheap purchase can become expensive if maintenance is difficult.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d7a32c1cb155846cb711be9b37c439e72b378d422f1718dacb013b49d61fd443"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The part nobody could find\", the word \"compatible\" is closest in meaning to _____.",
+          "options": {
+            "A": "an initial examination or judgement",
+            "B": "based on relevant information",
+            "C": "able to fit and work with the equipment",
+            "D": "having the required training or ability"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，compatible 的含义为 able to fit and work with the equipment。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d3b5db87f2b3185872b8f392af8c3d8b86778e3bf9470e0f26b7675f290d4aad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"The part nobody could find\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "9dddb06fbd9555b94bb32d92a4baad5e897d23df505e8a0d3c8e29c7a0f09f89"
+        }
+      ],
+      "contentFingerprint": "818528e50d2de217617838539177899bfc518fc8fcc7eb59171d0118021e113d"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Labels at the repair table",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A repair event once used a single queue for every object. Visitors with loose buttons waited behind people discussing complicated electrical faults. Volunteers introduced coloured cards indicating sewing, simple mechanical work and assessment by an electrical specialist. The cards did not guarantee that an object could be repaired. They helped direct it to someone able to assess the task. Waiting times became easier to estimate, and visitors could decide whether to stay. Organisers stressed that a quick assessment was not a safety certificate. Clear categories improved the event without making promises beyond the volunteers' skills.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"Labels at the repair table\"?",
+          "options": {
+            "A": "Organising repair work through clear categories",
+            "B": "Combining a repair with practical learning",
+            "C": "Considering repairability before buying equipment",
+            "D": "Using maintenance records to improve everyday decisions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Organising repair work through clear categories”展开：Useful organisation includes clear limits on what a service can promise.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "26812beb69db964ba6b9b79754df575eb88dc2bd5ecc8982bc2ecab72531830f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Labels at the repair table\", what was the purpose of the coloured cards?",
+          "options": {
+            "A": "To guarantee that all repairs were quick.",
+            "B": "To direct objects to appropriate volunteers.",
+            "C": "To certify that every item was safe.",
+            "D": "To charge visitors according to age."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 To direct objects to appropriate volunteers.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "25682c473ab44a26f98854344451cafe3944fac7ff84d8dd86f52954ff9c6c6c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"Labels at the repair table\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Useful organisation includes clear limits on what a service can promise.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Useful organisation includes clear limits on what a service can promise.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "5c6ef85081ab35106cfe4efeb0ac74eeb984e4f9c63674020c0853f8f136f352"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Labels at the repair table\", the word \"assessment\" is closest in meaning to _____.",
+          "options": {
+            "A": "having the required training or ability",
+            "B": "able to fit and work with the equipment",
+            "C": "based on relevant information",
+            "D": "an initial examination or judgement"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，assessment 的含义为 an initial examination or judgement。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "40a33c774ed7212a18907545bc7dcb915d5d835f3da05d5c7be74c333e3738dd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"Labels at the repair table\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "df1ccf009ad265dd30b9ffb182556a2f0e4327af0629e1373968fd9edf5d915a"
+        }
+      ],
+      "contentFingerprint": "cabd803a4d5de9396e424a0b4872da6c81fe2c09aa638d529288b65d6b62260d"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Keeping a bicycle log",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "After replacing two worn tyres in one month, Lina started recording her bicycle maintenance. The log showed that both failures followed rides with heavily loaded bags, and she realised she rarely checked tyre pressure. A mechanic explained the recommended pressure range and how loading affected handling. Lina began checking before longer trips. She could not conclude that pressure had caused every previous problem, because the roads and tyres also varied. Still, the record helped her ask a more informed question. She kept the log brief so that maintaining it did not become another task she would avoid.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Keeping a bicycle log\"?",
+          "options": {
+            "A": "Organising repair work through clear categories",
+            "B": "Using maintenance records to improve everyday decisions",
+            "C": "Combining a repair with practical learning",
+            "D": "Considering repairability before buying equipment"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Using maintenance records to improve everyday decisions”展开：A simple record can guide a useful question without proving one cause.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5e9953edfe55b9e25840542283ec35c0e2b44983202f8a56b236109b7da28560"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Keeping a bicycle log\", what pattern did Lina notice in her log?",
+          "options": {
+            "A": "Both tyres were fitted by the same neighbour.",
+            "B": "All problems occurred before he carried bags.",
+            "C": "The tyre failures followed heavily loaded rides.",
+            "D": "The tyres failed only in dry weather."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 The tyre failures followed heavily loaded rides.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "ce84fec622eac1522959a3ede8d6e4e0b922b46247f4ca78838f3d549a8eb113"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Keeping a bicycle log\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "A simple record can guide a useful question without proving one cause."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：A simple record can guide a useful question without proving one cause.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "996ef12e80bc44ad17dee107faa988e457881e267c3597b6a36df8bac3d08373"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Keeping a bicycle log\", the word \"informed\" is closest in meaning to _____.",
+          "options": {
+            "A": "based on relevant information",
+            "B": "having the required training or ability",
+            "C": "able to fit and work with the equipment",
+            "D": "an initial examination or judgement"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，informed 的含义为 based on relevant information。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "479744469cd508581880c0d406fb15af6b5479979c6af38ac24b8019aa93b94f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Keeping a bicycle log\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "55910ba12c6579930debb42d6c228e934b399604ed834fb37056efdb08c8338e"
+        }
+      ],
+      "contentFingerprint": "454298a055d875a24ea15eb8d483ea8beb8752f1fb02f9ac9ed1d1783d81698f"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "At the bicycle-care session, learners were encouraged to ask for _____ whenever an instruction was unclear.",
+      "options": {
+        "A": "celebration",
+        "B": "classification",
+        "C": "compensation",
+        "D": "clarification"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "clarification 表示澄清、进一步说明，针对不清楚的指示。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2feb654825e7d44a2623d20fac90b0b592814e09c79cef337e0cce3a13fb5315"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The new storage arrangement at Maple Repair Circle proved _____: it saved time without requiring extra staff.",
+      "options": {
+        "A": "efficient",
+        "B": "enormous",
+        "C": "emotional",
+        "D": "external"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "efficient 表示高效，后句节省时间且无需额外人手解释其含义。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6fdce024c7f6902a0f0d1e5584b36b24cb8f1361caab2657ac4ba397518c9398"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The leaflet for the bicycle-care session clearly states the _____ for cancelling a reservation.",
+      "options": {
+        "A": "prediction",
+        "B": "procedure",
+        "C": "profession",
+        "D": "proportion"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "procedure 表示办理某事的步骤、程序。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "27f1580272899d60ded7f38d8758aafab6636b27b4711570ee8fe0eb50beb93b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Because costs were still uncertain, the cautious manager at Maple Repair Circle was _____ to expand the service immediately.",
+      "options": {
+        "A": "eager",
+        "B": "determined",
+        "C": "reluctant",
+        "D": "ready"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reluctant to 表示不情愿，符合先弄清成本再扩展的谨慎态度。",
+      "knowledgePoints": [
+        "态度词汇"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "03ab35d90f742c79197dbcd45f3729a8d3db7a2520e6a6d97bbeeed2791d556d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A protective case helps _____ accidental damage to a tyre pump during transport.",
+      "options": {
+        "A": "present",
+        "B": "pretend",
+        "C": "prefer",
+        "D": "prevent"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "prevent damage 表示防止损坏。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4e86eb219a85459fde5f841efb9a87b84371311f39228d2b15bf23e6edf3f753"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The examples used in the bicycle-care session were chosen to _____ the main idea, not to cover every possible case.",
+      "options": {
+        "A": "illustrate",
+        "B": "isolate",
+        "C": "interrupt",
+        "D": "imitate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "illustrate 表示用例子说明；与 examples 对应。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "02f12ce955c3b3d11a93af817c76a3ba985f9ada70fad6d800a3748e6e740404"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The staff at Maple Repair Circle asked whether the proposed opening hours were _____ for working residents.",
+      "options": {
+        "A": "considerable",
+        "B": "convenient",
+        "C": "confident",
+        "D": "convincing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "convenient 表示方便的，评价开放时间是否适合上班居民。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "164b37a1ed709b42cac80e19f47e448502b6e570eba1cfd2b5132f16b4abcbb3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small _____ is required when borrowing a tyre pump; it is returned when the item comes back undamaged.",
+      "options": {
+        "A": "discount",
+        "B": "donation",
+        "C": "deposit",
+        "D": "debt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "可退还的借用保证金为 deposit，而非捐款或折扣。",
+      "knowledgePoints": [
+        "生活词汇"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7ab1be6817ff381e77f13ed8867840346af28aacf2cc71c7b0bd4cd34caa9eee"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "After the bicycle-care session, the tutor asked learners to _____ on what they had found most difficult.",
+      "options": {
+        "A": "reject",
+        "B": "rely",
+        "C": "recover",
+        "D": "reflect"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reflect on 表示回顾、认真思考。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4e36ac786031a7debd14f9d867dbcc2bfb1d6560af81864a48fd34e130e7978a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The plan at Maple Repair Circle must remain _____ enough to accommodate changing work schedules.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "formal",
+        "D": "frequent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "flexible 表示灵活，符合适应工作时间变化的需求。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e1d498041845331622f1ccfc36b1170455915eea3cd72956014160f85ed7400e"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The notice at Maple Repair Circle is much _____ to read than the old version.",
+      "options": {
+        "A": "easier",
+        "B": "easy",
+        "C": "easiest",
+        "D": "more easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "much 修饰比较级；easy 的比较级为 easier。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "aa2ee2a93a1690e87937f0bbd4f10dd46588a66db7e5fa75c708ab8ce738eb5a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "When _____ correctly, a tyre pump should remain in good condition for a long time.",
+      "options": {
+        "A": "stores",
+        "B": "stored",
+        "C": "storing",
+        "D": "to store"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "when stored correctly 相当于 when it is stored correctly，主语为被储存的物品。",
+      "knowledgePoints": [
+        "省略与被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e8846a6282b5dbf1ab4f00ee9e4f3cac20c071495aea7034af35673316e0ad7a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The learners wanted to know _____ they needed to bring to the bicycle-care session.",
+      "options": {
+        "A": "which of",
+        "B": "how many of",
+        "C": "what",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "宾语从句中 bring 缺宾语，用 what。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5f10cbcfe95b856b716b7c33e450c0ad7bcda022d62147963ca6951fdf2e6341"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The coordinator at Maple Repair Circle is responsible for _____ the timetable up to date.",
+      "options": {
+        "A": "keep",
+        "B": "to keep",
+        "C": "kept",
+        "D": "keeping"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "介词 for 后接动名词 keeping。",
+      "knowledgePoints": [
+        "介词与动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e030037ad8f00f31b6eecfb8869b9b95474fe607dcd2659f69859d7947b978cc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Hardly had the bicycle-care session started _____ the fire alarm rang.",
+      "options": {
+        "A": "when",
+        "B": "than",
+        "C": "then",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "hardly...when 为固定结构，表示刚……就……。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f57a0940f626b75f37792a8f10363410ddd4624ab66e58ae338276e5adeb4716"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "A visitor who had damaged a tyre pump asked _____ a replacement was available.",
+      "options": {
+        "A": "which",
+        "B": "whether",
+        "C": "that",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ask whether 引导是否有替代品的间接疑问句。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d84bf15ef356dc3989a1beea721e3ca640a2fd3d1a97f087027a61b78a23cc45"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The number of people attending activities at Maple Repair Circle _____ steadily increasing.",
+      "options": {
+        "A": "have",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the number of... 作主语，谓语用单数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3498782f3749aff74841696c0c9100ac99d89c729d02d3076dc4871048f41929"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "I remember _____ the instructor at the bicycle-care session, but I cannot recall her name.",
+      "options": {
+        "A": "to meet",
+        "B": "meet",
+        "C": "to meeting",
+        "D": "meeting"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "remember doing 表示记得过去做过某事。",
+      "knowledgePoints": [
+        "动名词与不定式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fa68af28ac3db01542f32db6042641679269975e18cedbff71f65166c5eb77dc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "You _____ return a tyre pump today; the borrowing period ends tomorrow.",
+      "options": {
+        "A": "need not",
+        "B": "must not",
+        "C": "cannot",
+        "D": "may not ever"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "need not 表示不必；后文到期日为明天，与禁止归还不同。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8b3b543971a1affd506b0c1cb9885232db9eb5524d4e3e0a8ddabf5870775026"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "This is the first time the bicycle-care session _____ in this building.",
+      "options": {
+        "A": "had held",
+        "B": "has been held",
+        "C": "was holding",
+        "D": "is holding"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "This is the first time... 后用现在完成时；活动被举办，故被动。",
+      "knowledgePoints": [
+        "现在完成时被动"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dedbb29f42ec48ee64bf860d189547f94976df5230a51c7d784ce6385200873e"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nRepairing an object often teaches us how it works. It can also change the way we think about buying a replacement. Not everything can be repaired safely at home, however. Knowing when to ask a skilled person for help is part of being a responsible consumer.",
+      "referenceAnswer": "修理一件物品往往能让我们了解它的工作原理，也能改变我们购买替代品时的想法。不过，并不是所有东西都能在家中安全修好。懂得何时向有技能的人寻求帮助，也是负责任消费的一部分。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "bdbc539efcc654098b71c96911c5c483aa9ef6d54cb9b99164ad59c84ae77b3c",
+      "referenceAnswerFingerprint": "8883df36dd57a44af589b70468ebe0dc3b9cd8b7a12310fced77dfbf375e95e4"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nExplain whether neighbourhood repair events deserve support. Give a concrete example and address a safety concern.",
+      "sampleAnswer": "Neighbourhood repair events deserve support because they can reduce waste while helping people learn. A person who mends a loose backpack strap with guidance may later feel able to repair a small tear independently. Such learning gives the event value beyond the object saved. However, enthusiasm cannot replace technical competence. Electrical equipment, in particular, should be assessed only by someone with appropriate skills. Organisers should explain the limits of the service and refer unsuitable jobs to qualified businesses. A simple booking system could direct each item to the right volunteer. I would begin with sewing and basic bicycle care, where safe demonstrations are possible. A repair event works best when it combines practical participation with honest limits.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "f4c72f66443af946e180aa6d2b610ca1284f3342f2530b1fdbf3e03bc26f68bb",
+      "sampleAnswerFingerprint": "05dde223d236105a473d9805bf124843bb9b534a2bdde4dd533862d9a2d13c7f"
+    }
+  ],
+  "fingerprintManifest": [
+    "3834eeb186aa8ba5fcecc076cbfb64f7f8158af3a556494b975397044ea2a523",
+    "eb1a7ab0db5aa9ba73f637c23022125a11b370009ded47263fbfe4f73e7f980b",
+    "d5017ebb2d1049a5abbe10c2f768f675a6404bf271c1f1b647f7ec567505a826",
+    "80b26dde0ceb33d4c48a5c53f29fdb9ff97c06df8ef10d50757414ad849b4333",
+    "1776221a9f91b6cbf1855d7893d60be5628ac5321478f9d7ee324de7a48e5db5",
+    "3bbe74f18a373c9d47aa1a480c3c17036c90fc208dc8b584b846f84b8cbc432b",
+    "2ae35ded1f9f39fdaba94283c0ce6e5aff3a3f1cf239f4d131468c3c4e6fbe9f",
+    "013753aa1f412a22f83da55e784e974cf75e479a54d3e716346b55d00ca820f9",
+    "4fec70055a1986f53cad363f18bc5d999d2584d8c28b700a31ca973773d8f83c",
+    "a8318d4b26c0a5f83fd0d9ca556d43f504fb9906b6233351a4699c2f4df35fee",
+    "1b2ed83181c36acd01e7cbc72a2bfbc7b58140d7be03b0f870bb245c2d2ea595",
+    "3fa57afeada7295b3cf6209e2b8ae5e9b8de514ffd9436b18f35a423e3cfb622",
+    "55f9c2983b3eaa376b86133048317e79cda3a0dc2b6a2527231aa0fd167ae091",
+    "7ed14f689c9fc548e11d993950d894b4178736bb23f95515c673337aa962ca41",
+    "d0baacda74ca818e4dabd7acaca142176dc48fa80aa5a95c45d6e28cee814586",
+    "669358b7e31df479393be8a14d8674144b0093af3eb18d65565ff9949d55a094",
+    "bf1b0fddcb31e5dbe65d2e89f9135e85f97495e68d3cfa466ded3b766d934c64",
+    "67a94c2f9020eec1f15f00a5e02f981dccaa8ab350bf005eae7258582a9a2dc4",
+    "753935fe8a203255afac589d5221ba8d8246896342dcea06328c75bf5f74f33b",
+    "818528e50d2de217617838539177899bfc518fc8fcc7eb59171d0118021e113d",
+    "17d4092c3cbf706b11afa1d49123da62796b71b4092578830ce26692d6057ac4",
+    "cf672d6f8c64d51f37721d7bcd0d231a72a719d508324bba90f4e07303d3edcd",
+    "d7a32c1cb155846cb711be9b37c439e72b378d422f1718dacb013b49d61fd443",
+    "d3b5db87f2b3185872b8f392af8c3d8b86778e3bf9470e0f26b7675f290d4aad",
+    "9dddb06fbd9555b94bb32d92a4baad5e897d23df505e8a0d3c8e29c7a0f09f89",
+    "cabd803a4d5de9396e424a0b4872da6c81fe2c09aa638d529288b65d6b62260d",
+    "26812beb69db964ba6b9b79754df575eb88dc2bd5ecc8982bc2ecab72531830f",
+    "25682c473ab44a26f98854344451cafe3944fac7ff84d8dd86f52954ff9c6c6c",
+    "5c6ef85081ab35106cfe4efeb0ac74eeb984e4f9c63674020c0853f8f136f352",
+    "40a33c774ed7212a18907545bc7dcb915d5d835f3da05d5c7be74c333e3738dd",
+    "df1ccf009ad265dd30b9ffb182556a2f0e4327af0629e1373968fd9edf5d915a",
+    "454298a055d875a24ea15eb8d483ea8beb8752f1fb02f9ac9ed1d1783d81698f",
+    "5e9953edfe55b9e25840542283ec35c0e2b44983202f8a56b236109b7da28560",
+    "ce84fec622eac1522959a3ede8d6e4e0b922b46247f4ca78838f3d549a8eb113",
+    "996ef12e80bc44ad17dee107faa988e457881e267c3597b6a36df8bac3d08373",
+    "479744469cd508581880c0d406fb15af6b5479979c6af38ac24b8019aa93b94f",
+    "55910ba12c6579930debb42d6c228e934b399604ed834fb37056efdb08c8338e",
+    "2feb654825e7d44a2623d20fac90b0b592814e09c79cef337e0cce3a13fb5315",
+    "6fdce024c7f6902a0f0d1e5584b36b24cb8f1361caab2657ac4ba397518c9398",
+    "27f1580272899d60ded7f38d8758aafab6636b27b4711570ee8fe0eb50beb93b",
+    "03ab35d90f742c79197dbcd45f3729a8d3db7a2520e6a6d97bbeeed2791d556d",
+    "4e86eb219a85459fde5f841efb9a87b84371311f39228d2b15bf23e6edf3f753",
+    "02f12ce955c3b3d11a93af817c76a3ba985f9ada70fad6d800a3748e6e740404",
+    "164b37a1ed709b42cac80e19f47e448502b6e570eba1cfd2b5132f16b4abcbb3",
+    "7ab1be6817ff381e77f13ed8867840346af28aacf2cc71c7b0bd4cd34caa9eee",
+    "4e36ac786031a7debd14f9d867dbcc2bfb1d6560af81864a48fd34e130e7978a",
+    "e1d498041845331622f1ccfc36b1170455915eea3cd72956014160f85ed7400e",
+    "aa2ee2a93a1690e87937f0bbd4f10dd46588a66db7e5fa75c708ab8ce738eb5a",
+    "e8846a6282b5dbf1ab4f00ee9e4f3cac20c071495aea7034af35673316e0ad7a",
+    "5f10cbcfe95b856b716b7c33e450c0ad7bcda022d62147963ca6951fdf2e6341",
+    "e030037ad8f00f31b6eecfb8869b9b95474fe607dcd2659f69859d7947b978cc",
+    "f57a0940f626b75f37792a8f10363410ddd4624ab66e58ae338276e5adeb4716",
+    "d84bf15ef356dc3989a1beea721e3ca640a2fd3d1a97f087027a61b78a23cc45",
+    "3498782f3749aff74841696c0c9100ac99d89c729d02d3076dc4871048f41929",
+    "fa68af28ac3db01542f32db6042641679269975e18cedbff71f65166c5eb77dc",
+    "8b3b543971a1affd506b0c1cb9885232db9eb5524d4e3e0a8ddabf5870775026",
+    "dedbb29f42ec48ee64bf860d189547f94976df5230a51c7d784ce6385200873e",
+    "bdbc539efcc654098b71c96911c5c483aa9ef6d54cb9b99164ad59c84ae77b3c",
+    "8883df36dd57a44af589b70468ebe0dc3b9cd8b7a12310fced77dfbf375e95e4",
+    "f4c72f66443af946e180aa6d2b610ca1284f3342f2530b1fdbf3e03bc26f68bb",
+    "05dde223d236105a473d9805bf124843bb9b534a2bdde4dd533862d9a2d13c7f"
+  ],
+  "contentFingerprint": "2a447c97c952d42f208707708351d1c38d6cee8e517f070bd09f2532624829b0"
+}

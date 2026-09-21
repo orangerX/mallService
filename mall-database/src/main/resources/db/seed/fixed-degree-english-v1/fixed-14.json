@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-14",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 14 · 乡村配送与服务网络",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 14,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the parcel-collection briefing",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the parcel-collection briefing at Pine Valley Depot.\nCoordinator: (1) _____\nVisitor: Wednesday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Please come to the village store annex.",
+        "B": "Bring a notebook; we can provide a barcode scanner.",
+        "C": "Contact Pine Valley Depot before the session so that we can offer your place to someone else.",
+        "D": "Which day would be convenient for you to attend?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the parcel-collection briefing\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please come to the village store annex.",
+            "B": "Bring a notebook; we can provide a barcode scanner.",
+            "C": "Contact Pine Valley Depot before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7f8436f46d60fa352cdd958d7a719db53b8b7483f9c49d1aff57e8102a38bcef"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the parcel-collection briefing\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please come to the village store annex.",
+            "B": "Bring a notebook; we can provide a barcode scanner.",
+            "C": "Contact Pine Valley Depot before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5d83926ba6be9dc56fe4db3ee1d137d3e5fdc4cb9757e7cf40f9b4d63fde69a2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the parcel-collection briefing\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please come to the village store annex.",
+            "B": "Bring a notebook; we can provide a barcode scanner.",
+            "C": "Contact Pine Valley Depot before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "14e96b2b7d1a6c8255d86d6376825b45101a5b3c2bfffa18cda0b0907a91d0a0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the parcel-collection briefing\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Please come to the village store annex.",
+            "B": "Bring a notebook; we can provide a barcode scanner.",
+            "C": "Contact Pine Valley Depot before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "262c5fdb6be3880e88a973d4bdc96d4e62894c32057be66a6643379c3b84c5f0"
+        }
+      ],
+      "contentFingerprint": "315308ee3eba16d8b7e97908126f3830e17b256ab8936e09d3364b11448162a5"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Pine Valley Depot",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a barcode scanner from Pine Valley Depot, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The scan button is damaged. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the parcel-collection briefing?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Please leave it with us and complete a short fault report.",
+        "B": "You must purchase every item you use at the session.",
+        "C": "Could you describe the fault you noticed?",
+        "D": "Yes. You can use the charged scanner on the desk."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Pine Valley Depot\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the charged scanner on the desk."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e646983e21ea6aed991f9af58935e71f39e8cd8b5e7f341bea9343e7fe3d611f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Pine Valley Depot\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the charged scanner on the desk."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "22c080280ddbc04e01dfbbf8054a159e378351011cc0de91aacac8da68f14191"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Pine Valley Depot\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can use the charged scanner on the desk."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e7295345fc98057eebaef7b7d128f8154be1215bf664ee2297f26bf1d5559699"
+        }
+      ],
+      "contentFingerprint": "2b39e5dcd03b4ac962f6eada1ec13640ee31fdd0fd000f279ac499b8e30be683"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Pine Valley Depot",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the parcel-collection briefing, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You should promise to solve every problem without asking anyone.",
+        "B": "You could welcome visitors at the village store annex while the other volunteers prepare.",
+        "C": "Use the current map of Pine Valley Depot and the list of rooms for the parcel-collection briefing.",
+        "D": "Ask the session coordinator to help; you do not have to guess."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Pine Valley Depot\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the village store annex while the other volunteers prepare.",
+            "C": "Use the current map of Pine Valley Depot and the list of rooms for the parcel-collection briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0110547dddd5d1c498a805650af75e0ed763634b50ed4344afd1231fe792ebf9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Pine Valley Depot\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the village store annex while the other volunteers prepare.",
+            "C": "Use the current map of Pine Valley Depot and the list of rooms for the parcel-collection briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "90298c29ce5fb68894a1bfde0b11656f3ff277d1c7c39f982291585eff449186"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Pine Valley Depot\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the village store annex while the other volunteers prepare.",
+            "C": "Use the current map of Pine Valley Depot and the list of rooms for the parcel-collection briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "cc19efa16284624da1f2995f0af3e4debb2b4695bfd5fd7bf53bd9626ad1f73e"
+        }
+      ],
+      "contentFingerprint": "2441dd4de47101d5ac45837db34ac2e701d5eb2c5b5b7218d60d4f10279acce3"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The shop that received parcels",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Pine Valley's village shop became a parcel collection point. Drivers made fewer repeat trips, but customers arrived during the shop's busiest food-shopping hour. The owner introduced a separate collection shelf and displayed quieter suggested times while keeping normal access available. She also arranged authorised collection by a nominated neighbour for residents who could not travel. The service succeeded because it fitted local routines, not simply because parcels could be stored in a room. Each convenience created work that had to be planned, and the shop recorded that work before agreeing to expand.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The shop that received parcels\"?",
+          "options": {
+            "A": "Making a village parcel point work in practice",
+            "B": "Combining digital routes with current local knowledge",
+            "C": "Giving recipients more useful delivery information",
+            "D": "Making reusable delivery packaging genuinely reusable"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Making a village parcel point work in practice”展开：A shared delivery service must account for local routines and workload.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a888dfe817751689b6c7f09ccfe3113f61889bfacf622251041bda5f0e7700b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The shop that received parcels\", what arrangement helped residents unable to travel?",
+          "options": {
+            "A": "A fee for every visit by a neighbour.",
+            "B": "Collection by an authorised nominated neighbour.",
+            "C": "A rule requiring everyone to collect in person.",
+            "D": "Delivery only to residents owning a car."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Collection by an authorised nominated neighbour.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "85d8ddd08da38f2f70be2e8fdfe3c6b80e8504f6f8b188f94faefa3a17659e47"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The shop that received parcels\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "A shared delivery service must account for local routines and workload.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：A shared delivery service must account for local routines and workload.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "514fcf096c70b71af07bbec2e91a8aa4664a04e97616a1a542dab11c50f8e81d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The shop that received parcels\", the word \"nominated\" is closest in meaning to _____.",
+          "options": {
+            "A": "for an unspecified or unlimited time",
+            "B": "a firm promise that something will happen",
+            "C": "movement through repeated use",
+            "D": "formally chosen"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，nominated 的含义为 formally chosen。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "eb8e182996666785b551f4a570ec7aac0e4796870086371402495a0bfb5456a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The shop that received parcels\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "2b6f56133f73b138d737f36c1386c9da8df67ed133e39651207387f92f5f1079"
+        }
+      ],
+      "contentFingerprint": "47fef72e378ac6d6aeb3d055088d8b55262027855b10ac240ab0b1677334e646"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A route drawn from experience",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A new rural driver followed navigation software into a narrow lane that was unsuitable for the delivery van. After the incident, experienced drivers contributed notes about weak bridges, seasonal flooding and safe turning places. Dispatchers kept the digital route planner but checked its suggestions against the local notes. The notes included dates so that temporary restrictions would not remain indefinitely. Neither source was treated as perfect. Combining a broad map with current local knowledge made planning more reliable, especially on roads that general navigation systems rarely assessed in detail.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A route drawn from experience\"?",
+          "options": {
+            "A": "Making reusable delivery packaging genuinely reusable",
+            "B": "Combining digital routes with current local knowledge",
+            "C": "Making a village parcel point work in practice",
+            "D": "Giving recipients more useful delivery information"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Combining digital routes with current local knowledge”展开：Combining sources can improve decisions when each source has limits.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b18d55c1c87422c2c7cf1af10075c42c196491e638cb813e6dc3b0deefccd1b8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A route drawn from experience\", what information did experienced drivers contribute?",
+          "options": {
+            "A": "A list of every parcel's retail price.",
+            "B": "Instructions to ignore all temporary restrictions.",
+            "C": "Local road limitations and safe turning places.",
+            "D": "The personal shopping preferences of drivers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 Local road limitations and safe turning places.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "0cda43b4b14b3479c7ff9a3a676951b18a440370d1d9f64d0f5cc7353b632402"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A route drawn from experience\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Combining sources can improve decisions when each source has limits."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Combining sources can improve decisions when each source has limits.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "2e46960216daa757157939465a77295575b5818db97d28b808148a7cf8d9c9a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A route drawn from experience\", the word \"indefinitely\" is closest in meaning to _____.",
+          "options": {
+            "A": "for an unspecified or unlimited time",
+            "B": "formally chosen",
+            "C": "a firm promise that something will happen",
+            "D": "movement through repeated use"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，indefinitely 的含义为 for an unspecified or unlimited time。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e7dc408fea95b692413e578c2f225ef137484cd9169b5fab12f5ceee284c632e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A route drawn from experience\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "1e48861d04ecd2d24fb8f8607e2fa7e023785c30dc30ae0838dac38acce5d11e"
+        }
+      ],
+      "contentFingerprint": "ad8ad00b0db912103b7845cc084a35ec9b8afceb93bf82c61a10fd4128076bc6"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The message before the journey",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A delivery company sent a standard message saying a parcel would arrive 'today'. For residents who worked in distant fields, this required waiting at home for many hours. The company began sending a narrower estimated window and a second message when the driver reached the previous stop. Weather and road conditions could still change the estimate, so the message explained that it was not a guarantee. Residents could also choose collection at the depot. Better communication did not make every journey predictable, but it allowed people to arrange their day with less unnecessary waiting.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The message before the journey\"?",
+          "options": {
+            "A": "Combining digital routes with current local knowledge",
+            "B": "Making reusable delivery packaging genuinely reusable",
+            "C": "Giving recipients more useful delivery information",
+            "D": "Making a village parcel point work in practice"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Giving recipients more useful delivery information”展开：Useful estimates can reduce inconvenience even when they remain uncertain.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "7c030451bd5e18428556a887d27df3f5a869b02b9f62fbc6ac6b087df5d847d2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The message before the journey\", what additional message did residents receive?",
+          "options": {
+            "A": "An exact guarantee that no delay was possible.",
+            "B": "A request to stay home for the entire week.",
+            "C": "A message only after the parcel had been returned.",
+            "D": "An update when the driver reached the previous stop."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 An update when the driver reached the previous stop.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7285fb2fb45b8d3e423c7a740522cb9442c77c5bc4e29418921d2012d47649bf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The message before the journey\"?",
+          "options": {
+            "A": "Useful estimates can reduce inconvenience even when they remain uncertain.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Useful estimates can reduce inconvenience even when they remain uncertain.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3d26203f61399f7bbc5b14a4a71de0b4c567a846273012f8825b73aedf0c424c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The message before the journey\", the word \"guarantee\" is closest in meaning to _____.",
+          "options": {
+            "A": "movement through repeated use",
+            "B": "a firm promise that something will happen",
+            "C": "formally chosen",
+            "D": "for an unspecified or unlimited time"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，guarantee 的含义为 a firm promise that something will happen。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "caaf5d1c9b06ff5a19f498ef9c6f11433c286774d9be9627e5473b565f6e8c2d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The message before the journey\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "79ed149179a15cb67f1f46cb80a039fd0f8a13460bd2e7860c1899f76a4f0533"
+        }
+      ],
+      "contentFingerprint": "0325d3d4237a85e6cb5990e40ec94c8d57bd39d71d9a316ec59bdbf58342f97b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Packaging returned on the next trip",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A rural cooperative tested reusable delivery boxes. Customers could return an empty box with their next order, but some ordered only a few times a year. Boxes then remained unused in homes for months. The cooperative added return points at two village shops and offered a smaller deposit refund there. More boxes came back into circulation. Staff still inspected and cleaned each one. Reuse depended not just on a durable container but on a convenient return system. Counting boxes delivered would have exaggerated success if most had never been used again.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Packaging returned on the next trip\"?",
+          "options": {
+            "A": "Making a village parcel point work in practice",
+            "B": "Combining digital routes with current local knowledge",
+            "C": "Giving recipients more useful delivery information",
+            "D": "Making reusable delivery packaging genuinely reusable"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Making reusable delivery packaging genuinely reusable”展开：A reusable product needs a practical system that brings it back into use.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6f7b309a65465685ea170addc040e35446d26b07ceadc88e9c6f1e9032a257b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Packaging returned on the next trip\", why were shop return points added?",
+          "options": {
+            "A": "Some customers waited months before placing another order.",
+            "B": "The boxes could not be cleaned.",
+            "C": "Every customer ordered several times a day.",
+            "D": "The shops wanted to stop all deliveries."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Some customers waited months before placing another order.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4b019019ee212e10c8ebe889bd1a6b9fcf63d2929743cebeb121d78b81c04cd4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Packaging returned on the next trip\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A reusable product needs a practical system that brings it back into use.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A reusable product needs a practical system that brings it back into use.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "7da411fdf02a5accfc2b0b15ef9fcc94b71bef74bc008842e22513cbdfc1e84b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Packaging returned on the next trip\", the word \"circulation\" is closest in meaning to _____.",
+          "options": {
+            "A": "for an unspecified or unlimited time",
+            "B": "a firm promise that something will happen",
+            "C": "movement through repeated use",
+            "D": "formally chosen"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，circulation 的含义为 movement through repeated use。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "9771b8c37b2ca5e41304cd6948fbd74edd448a2d44222763d57e84fcb596d40c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Packaging returned on the next trip\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e3a773e142b46f8ba5a139ba439a65a8ba829b7ea695102339f24268ae3e41d9"
+        }
+      ],
+      "contentFingerprint": "8c82d10fe98f656933b611a21c956f717cdb69230b4f23a1cea9a60f6f4e435b"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Visitors to Pine Valley Depot should not _____ that every service is available without booking.",
+      "options": {
+        "A": "presume upon",
+        "B": "assume",
+        "C": "consume",
+        "D": "resume"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "assume 在此意为想当然地认为，后接 that 从句。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8be5db4bd7f4d642138885c54ac1f7f0a68ab766bb819bbf45cebc63c36a4297"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A volunteer demonstrated how to _____ a barcode scanner without damaging it.",
+      "options": {
+        "A": "harvest",
+        "B": "happen",
+        "C": "handle",
+        "D": "hesitate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "handle 表示操作、使用，符合设备使用语境。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e418b818ea37f974a7176352b45d2daadc04014aacb47202c273b7c6ce29daaf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The session at Pine Valley Depot was divided into shorter parts to help learners _____.",
+      "options": {
+        "A": "celebrate",
+        "B": "calculate",
+        "C": "circulate",
+        "D": "concentrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "concentrate 表示集中注意力；较短环节有助于专注。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "06adbaf54252be4a48e722254e616f5ddc880e29a6f0db0f51bd48a90cf53203"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The organiser changed the room for the parcel-collection briefing in _____ to a request for easier access.",
+      "options": {
+        "A": "response",
+        "B": "respect",
+        "C": "return",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "310601d85607b8ef9056d6589d1488ae974da4c32f9ea18084c8dd1e2fd009a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "At Pine Valley Depot, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "recipe",
+        "B": "record",
+        "C": "reward",
+        "D": "retreat"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a6007c8c5ff50bd689571b14706037f9691ea856ce53c2682c2f3e0e07a13e91"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The assistant _____ the visitor that a replacement for a barcode scanner would be available.",
+      "options": {
+        "A": "endured",
+        "B": "acquired",
+        "C": "assured",
+        "D": "insured"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "29de80f4a0f7f827a05a8de31de05a451686735e76010514bb61700a473cdba0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Participants found the practical example at the parcel-collection briefing especially _____ to their daily needs.",
+      "options": {
+        "A": "resistant",
+        "B": "remote",
+        "C": "reluctant",
+        "D": "relevant"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "relevant to 表示与……有关、适用。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "503786d1d978b18dd7e2c90303ffb31ecb7421d030d1f7f42525691771395455"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The staff at Pine Valley Depot made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "adjustment",
+        "B": "achievement",
+        "C": "allowance",
+        "D": "argument"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "41652f416584b2a843edf33e70f15ead4cfe3d79b53c95e0d66b7b8e621685ae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The borrowed a barcode scanner must be returned _____ so that the next person can use it as arranged.",
+      "options": {
+        "A": "secretly",
+        "B": "promptly",
+        "C": "rarely",
+        "D": "roughly"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "promptly 表示及时地，与保证下一位使用者按计划使用相符。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a7b2090f7974c9f6429ed3fe033d447397fefb12de8af3939a94ee4804309665"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The coordinator at Pine Valley Depot tried to _____ the disagreement before it affected the whole group.",
+      "options": {
+        "A": "reverse",
+        "B": "receive",
+        "C": "resolve",
+        "D": "reserve"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "resolve a disagreement 表示解决分歧。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "59f935449e1fdba8d8d878d6b3daf47a96b51c9ed7cf0a7ef72325b9b0136a8c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "There is no point in _____ to the parcel-collection briefing without first confirming your place.",
+      "options": {
+        "A": "to travel",
+        "B": "travelled",
+        "C": "travelling",
+        "D": "travel"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "There is no point in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7f2b32ddaa3bf7d6ba1966db028e52c9345341728408bc208a2ac76ea799fc36"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The assistant asked me where I _____ to use a barcode scanner the following day.",
+      "options": {
+        "A": "intend",
+        "B": "will intend",
+        "C": "am intending",
+        "D": "intended"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去叙述中的间接问句使用陈述语序并保持过去时态。",
+      "knowledgePoints": [
+        "间接引语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0dc8171942be6ce61d8cdcfcca43b3ae88ffd1384318e287a62803e8ae87ab72"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Each of the volunteers at Pine Valley Depot _____ a copy of the current safety notice.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are having",
+        "D": "were having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "38ec1ff6b3f73f1740f8869a0945eced05aa0f652f97f7e64646452a42f6bc43"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "_____ the instructions carefully, the participant began the activity at the parcel-collection briefing.",
+      "options": {
+        "A": "Being read",
+        "B": "Having read",
+        "C": "To have read",
+        "D": "Read"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "689c390cd42be6745563d468bb6151471ba49021d13835daacbcdc7285d73375"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The room at Pine Valley Depot is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "seat",
+        "B": "seated",
+        "C": "to seat",
+        "D": "seating"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a607954566b9c08060ffb9f62fbc6d5aeb32a0d0a2ff8bdcb0c3d6a088f064fc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "I would have borrowed a barcode scanner if I _____ that it was available last week.",
+      "options": {
+        "A": "know",
+        "B": "have known",
+        "C": "will know",
+        "D": "had known"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3fa7ce759bd9b197f6bf4050ad4539c4943ec1f121f56968d427cd4663dfe270"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The tutor explained _____ the parcel-collection briefing had been moved to another room.",
+      "options": {
+        "A": "why",
+        "B": "because",
+        "C": "due to",
+        "D": "owing to"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "explain 后接 why 引导的宾语从句表示原因。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "18bdd6ada8da7b1c6c5518097c6ce95d6c16ef88a67c543660a80fb0e17a21cd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Staff at Pine Valley Depot have used this booking system _____ three years.",
+      "options": {
+        "A": "from",
+        "B": "for",
+        "C": "since",
+        "D": "during of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "de8bb1bc6f93699d16b42226acc99c672756167ce598ac5706e623f730044ffa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "It is essential _____ a barcode scanner before passing it to another borrower.",
+      "options": {
+        "A": "inspect",
+        "B": "inspected",
+        "C": "to inspect",
+        "D": "inspecting"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "It is + 形容词 + to do，it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "53d72775ff7697e31c4aebcb141c0a51ec2e56eb3aeab9a877fdb45a13769fe1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The parcel-collection briefing will go ahead _____ enough people confirm their attendance.",
+      "options": {
+        "A": "even if not",
+        "B": "in spite of",
+        "C": "because of",
+        "D": "provided that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "provided that 引导条件从句，后接完整句子。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8f0db14e9f70bc8d7fdef935af0a91de51a704922a811d0b633bb7bd07253518"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nDelivering goods to a rural area involves more than covering a long distance. A driver must consider road conditions and whether someone will be available to receive a parcel. A shared collection point can reduce repeated journeys. Its opening hours, however, must suit the people it serves.",
+      "referenceAnswer": "向乡村地区配送货物并不仅仅意味着走很长的路。司机还必须考虑路况，以及是否有人能够收取包裹。共享取件点可以减少重复行程，不过它的开放时间必须适合所服务的居民。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "40c7283529e30a67520f9555ec5c67b67bbc20a406a23a2dfb6a2ef525eddf47",
+      "referenceAnswerFingerprint": "cd591835867d3147bdf44fdd0ce69338c5edfca0c85f70e6ffc3599e6f377b1d"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite a proposal for a village parcel collection point. Explain its benefits, operating hours and arrangements for residents who cannot travel easily.",
+      "sampleAnswer": "I propose a parcel collection point in the village shop. It could reduce repeated delivery journeys and allow residents to collect orders when they are already shopping. Opening hours should include at least two early evening periods for people who work elsewhere. The shop would need a secure storage area and a clear process for checking collection details. Residents unable to travel could nominate a trusted neighbour, with authorisation recorded before collection. The organisers should also measure the time staff spend on the service, since convenience creates work as well as benefits. A three-month trial would help the village assess demand and adjust the arrangements before expanding. The service should fit local routines instead of expecting everyone to change them.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "9e692a5237310a5ba489e75ef5908073fa73a02c20fc1b112ad21d951967ba80",
+      "sampleAnswerFingerprint": "20dc061831b09cfe50cc16706dac7c675b6dc50278134a19a95a1164175eed1b"
+    }
+  ],
+  "fingerprintManifest": [
+    "315308ee3eba16d8b7e97908126f3830e17b256ab8936e09d3364b11448162a5",
+    "7f8436f46d60fa352cdd958d7a719db53b8b7483f9c49d1aff57e8102a38bcef",
+    "5d83926ba6be9dc56fe4db3ee1d137d3e5fdc4cb9757e7cf40f9b4d63fde69a2",
+    "14e96b2b7d1a6c8255d86d6376825b45101a5b3c2bfffa18cda0b0907a91d0a0",
+    "262c5fdb6be3880e88a973d4bdc96d4e62894c32057be66a6643379c3b84c5f0",
+    "2b39e5dcd03b4ac962f6eada1ec13640ee31fdd0fd000f279ac499b8e30be683",
+    "e646983e21ea6aed991f9af58935e71f39e8cd8b5e7f341bea9343e7fe3d611f",
+    "22c080280ddbc04e01dfbbf8054a159e378351011cc0de91aacac8da68f14191",
+    "e7295345fc98057eebaef7b7d128f8154be1215bf664ee2297f26bf1d5559699",
+    "2441dd4de47101d5ac45837db34ac2e701d5eb2c5b5b7218d60d4f10279acce3",
+    "0110547dddd5d1c498a805650af75e0ed763634b50ed4344afd1231fe792ebf9",
+    "90298c29ce5fb68894a1bfde0b11656f3ff277d1c7c39f982291585eff449186",
+    "cc19efa16284624da1f2995f0af3e4debb2b4695bfd5fd7bf53bd9626ad1f73e",
+    "47fef72e378ac6d6aeb3d055088d8b55262027855b10ac240ab0b1677334e646",
+    "a888dfe817751689b6c7f09ccfe3113f61889bfacf622251041bda5f0e7700b0",
+    "85d8ddd08da38f2f70be2e8fdfe3c6b80e8504f6f8b188f94faefa3a17659e47",
+    "514fcf096c70b71af07bbec2e91a8aa4664a04e97616a1a542dab11c50f8e81d",
+    "eb8e182996666785b551f4a570ec7aac0e4796870086371402495a0bfb5456a2",
+    "2b6f56133f73b138d737f36c1386c9da8df67ed133e39651207387f92f5f1079",
+    "ad8ad00b0db912103b7845cc084a35ec9b8afceb93bf82c61a10fd4128076bc6",
+    "b18d55c1c87422c2c7cf1af10075c42c196491e638cb813e6dc3b0deefccd1b8",
+    "0cda43b4b14b3479c7ff9a3a676951b18a440370d1d9f64d0f5cc7353b632402",
+    "2e46960216daa757157939465a77295575b5818db97d28b808148a7cf8d9c9a0",
+    "e7dc408fea95b692413e578c2f225ef137484cd9169b5fab12f5ceee284c632e",
+    "1e48861d04ecd2d24fb8f8607e2fa7e023785c30dc30ae0838dac38acce5d11e",
+    "0325d3d4237a85e6cb5990e40ec94c8d57bd39d71d9a316ec59bdbf58342f97b",
+    "7c030451bd5e18428556a887d27df3f5a869b02b9f62fbc6ac6b087df5d847d2",
+    "7285fb2fb45b8d3e423c7a740522cb9442c77c5bc4e29418921d2012d47649bf",
+    "3d26203f61399f7bbc5b14a4a71de0b4c567a846273012f8825b73aedf0c424c",
+    "caaf5d1c9b06ff5a19f498ef9c6f11433c286774d9be9627e5473b565f6e8c2d",
+    "79ed149179a15cb67f1f46cb80a039fd0f8a13460bd2e7860c1899f76a4f0533",
+    "8c82d10fe98f656933b611a21c956f717cdb69230b4f23a1cea9a60f6f4e435b",
+    "6f7b309a65465685ea170addc040e35446d26b07ceadc88e9c6f1e9032a257b7",
+    "4b019019ee212e10c8ebe889bd1a6b9fcf63d2929743cebeb121d78b81c04cd4",
+    "7da411fdf02a5accfc2b0b15ef9fcc94b71bef74bc008842e22513cbdfc1e84b",
+    "9771b8c37b2ca5e41304cd6948fbd74edd448a2d44222763d57e84fcb596d40c",
+    "e3a773e142b46f8ba5a139ba439a65a8ba829b7ea695102339f24268ae3e41d9",
+    "8be5db4bd7f4d642138885c54ac1f7f0a68ab766bb819bbf45cebc63c36a4297",
+    "e418b818ea37f974a7176352b45d2daadc04014aacb47202c273b7c6ce29daaf",
+    "06adbaf54252be4a48e722254e616f5ddc880e29a6f0db0f51bd48a90cf53203",
+    "310601d85607b8ef9056d6589d1488ae974da4c32f9ea18084c8dd1e2fd009a3",
+    "a6007c8c5ff50bd689571b14706037f9691ea856ce53c2682c2f3e0e07a13e91",
+    "29de80f4a0f7f827a05a8de31de05a451686735e76010514bb61700a473cdba0",
+    "503786d1d978b18dd7e2c90303ffb31ecb7421d030d1f7f42525691771395455",
+    "41652f416584b2a843edf33e70f15ead4cfe3d79b53c95e0d66b7b8e621685ae",
+    "a7b2090f7974c9f6429ed3fe033d447397fefb12de8af3939a94ee4804309665",
+    "59f935449e1fdba8d8d878d6b3daf47a96b51c9ed7cf0a7ef72325b9b0136a8c",
+    "7f2b32ddaa3bf7d6ba1966db028e52c9345341728408bc208a2ac76ea799fc36",
+    "0dc8171942be6ce61d8cdcfcca43b3ae88ffd1384318e287a62803e8ae87ab72",
+    "38ec1ff6b3f73f1740f8869a0945eced05aa0f652f97f7e64646452a42f6bc43",
+    "689c390cd42be6745563d468bb6151471ba49021d13835daacbcdc7285d73375",
+    "a607954566b9c08060ffb9f62fbc6d5aeb32a0d0a2ff8bdcb0c3d6a088f064fc",
+    "3fa7ce759bd9b197f6bf4050ad4539c4943ec1f121f56968d427cd4663dfe270",
+    "18bdd6ada8da7b1c6c5518097c6ce95d6c16ef88a67c543660a80fb0e17a21cd",
+    "de8bb1bc6f93699d16b42226acc99c672756167ce598ac5706e623f730044ffa",
+    "53d72775ff7697e31c4aebcb141c0a51ec2e56eb3aeab9a877fdb45a13769fe1",
+    "8f0db14e9f70bc8d7fdef935af0a91de51a704922a811d0b633bb7bd07253518",
+    "40c7283529e30a67520f9555ec5c67b67bbc20a406a23a2dfb6a2ef525eddf47",
+    "cd591835867d3147bdf44fdd0ce69338c5edfca0c85f70e6ffc3599e6f377b1d",
+    "9e692a5237310a5ba489e75ef5908073fa73a02c20fc1b112ad21d951967ba80",
+    "20dc061831b09cfe50cc16706dac7c675b6dc50278134a19a95a1164175eed1b"
+  ],
+  "contentFingerprint": "3755016b0fa4b18d5de5b6f43195570f1f58fe3cd9b7fb8ecc1d73b6c7853d4a"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-07",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 07 · 公共交通与城市出行",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 7,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the bus-transfer information session",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the bus-transfer information session at Northgate Travel Hub.\nCoordinator: (1) _____\nVisitor: Tuesday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Bring a notebook; we can provide a route display tablet.",
+        "B": "Contact Northgate Travel Hub before the session so that we can offer your place to someone else.",
+        "C": "Which day would be convenient for you to attend?",
+        "D": "Please come to the transport advice office."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the bus-transfer information session\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Bring a notebook; we can provide a route display tablet.",
+            "B": "Contact Northgate Travel Hub before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the transport advice office."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "74bb292ed4dc845faad6a87d464562fa2ba8c6317a139c884ca3fb6b1348fba0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the bus-transfer information session\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Bring a notebook; we can provide a route display tablet.",
+            "B": "Contact Northgate Travel Hub before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the transport advice office."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "21e56f9e74dc45e802dd7db6151d3a0a8f1eb70923d168e0facd2769b7c632bb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the bus-transfer information session\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Bring a notebook; we can provide a route display tablet.",
+            "B": "Contact Northgate Travel Hub before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the transport advice office."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ebf3298f29b11a0e5c34547e966aa88aa4fce4494dc3505eca12bed844404aca"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the bus-transfer information session\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Bring a notebook; we can provide a route display tablet.",
+            "B": "Contact Northgate Travel Hub before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the transport advice office."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "16b7d4986f3cb57cfc1c4ebdeb054d431c1631afd2ce43d88d7326dbb3d7c410"
+        }
+      ],
+      "contentFingerprint": "d8e88a7b7cb5f756b0fcd923576c8ec72a14d1583d9bd5afc54dcc459d9cf188"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Northgate Travel Hub",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a route display tablet from Northgate Travel Hub, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The screen stays blank. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the bus-transfer information session?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "You must purchase every item you use at the session.",
+        "B": "Could you describe the fault you noticed?",
+        "C": "Yes. You can use the printed route folder.",
+        "D": "Please leave it with us and complete a short fault report."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Northgate Travel Hub\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the printed route folder.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "e375c25c668acaa1e2a608eaf5dcea1db74fd0befa4853c2accf7ae30e9fd676"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Northgate Travel Hub\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the printed route folder.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "687641b4187a63acfaf1c69c676c37eda2493ba703403875e0e8b3da9aeffc72"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Northgate Travel Hub\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the printed route folder.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "40206575a6ef0fb481690431a909fa7768ec967ce5f14e69a923633419a68f01"
+        }
+      ],
+      "contentFingerprint": "cfc2823e7b8305dc4873ae7943233dcb6782e46de1f5c6b1aba7f2bf7dce244c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Northgate Travel Hub",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the bus-transfer information session, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You could welcome visitors at the transport advice office while the other volunteers prepare.",
+        "B": "Use the current map of Northgate Travel Hub and the list of rooms for the bus-transfer information session.",
+        "C": "Ask the session coordinator to help; you do not have to guess.",
+        "D": "You should promise to solve every problem without asking anyone."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Northgate Travel Hub\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You could welcome visitors at the transport advice office while the other volunteers prepare.",
+            "B": "Use the current map of Northgate Travel Hub and the list of rooms for the bus-transfer information session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "04062df53da440a498a6a48c925b862711ff3e285aa94fbe3e49372227348b49"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Northgate Travel Hub\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You could welcome visitors at the transport advice office while the other volunteers prepare.",
+            "B": "Use the current map of Northgate Travel Hub and the list of rooms for the bus-transfer information session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "25a3f01ada527abdebf037369ba4782e5011bcbcd96133774c5c2e7271c55271"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Northgate Travel Hub\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You could welcome visitors at the transport advice office while the other volunteers prepare.",
+            "B": "Use the current map of Northgate Travel Hub and the list of rooms for the bus-transfer information session.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "fcd2b5b5feb092f7b185614c299fdeb473eaaac4473d372626d2d2f36f861170"
+        }
+      ],
+      "contentFingerprint": "744ab3596225bcda572f22900d2b6c577c15e76a2465330bc9785509172566d3"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The five-minute connection",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Northgate changed a bus timetable so that a local service arrived five minutes before an evening train. On paper the connection looked convenient. Passengers soon reported that the walk between the bus stop and platform took longer for anyone carrying bags or using the lift. The transport team timed the route with several users and moved the bus arrival earlier. The adjustment slightly increased waiting time for some passengers but made the connection usable by more people. A timetable represented more than vehicle movements: it also had to allow for the human journey between them.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The five-minute connection\"?",
+          "options": {
+            "A": "Keeping essential travel information current",
+            "B": "Allowing realistic time for a transport connection",
+            "C": "Providing a starting point for route information",
+            "D": "Turning a general complaint into usable evidence"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Allowing realistic time for a transport connection”展开：Planning should consider differences in passengers' mobility and circumstances.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "549a16073aeeeb6e2484d8b4e2861914f8bb75b7df1ffafd8ed594aff1fcb75e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The five-minute connection\", why was the original connection difficult for some passengers?",
+          "options": {
+            "A": "The platform was permanently closed.",
+            "B": "The bus arrived after every train had departed.",
+            "C": "The transfer walk took longer than the timetable allowed.",
+            "D": "The bus ticket could not be used on trains."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 The transfer walk took longer than the timetable allowed.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "df04390104984a4f1cb78046385bdd19039f132b7d6492d47ab3865e1ddbea26"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The five-minute connection\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Planning should consider differences in passengers' mobility and circumstances."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Planning should consider differences in passengers' mobility and circumstances.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ec2334875144830f44452f388b7c7570e94fc41e93ec118e977f0434f6932381"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The five-minute connection\", the word \"adjustment\" is closest in meaning to _____.",
+          "options": {
+            "A": "a change made to improve something",
+            "B": "understand the meaning of",
+            "C": "happening repeatedly",
+            "D": "depended"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，adjustment 的含义为 a change made to improve something。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "4a0b8d954398a7bd38487f2c0fee3945d8bc58478969d590196619daa4ec89a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The five-minute connection\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "1e81c02868768368b6726b0d84878046c82bbaadbfed26aca93faabc7feb3d5e"
+        }
+      ],
+      "contentFingerprint": "53b2032ce2bfeccf238b1d15280e83c55086a719e250010ae0a5938a9d495445"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A map that began at the stop",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A bus company displayed a large network map at every shelter. New passengers often struggled to locate their current position among dozens of routes. Designers added a small local panel with 'You are here', nearby landmarks and the directions in which buses left that stop. They kept the network map for longer journeys. Requests for basic directions became less frequent, though staff still checked whether the panels were readable after dark. The change showed that giving more information was not always the solution. Sometimes people first needed a clear starting point from which to interpret the information already available.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A map that began at the stop\"?",
+          "options": {
+            "A": "Turning a general complaint into usable evidence",
+            "B": "Keeping essential travel information current",
+            "C": "Providing a starting point for route information",
+            "D": "Allowing realistic time for a transport connection"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Providing a starting point for route information”展开：Information becomes more useful when it is organised around the user's immediate situation.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "37134aa63f64cefb8902f863c6c486f77bea57e673c682013c2a745c532fcbdd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A map that began at the stop\", what did the local panel identify first?",
+          "options": {
+            "A": "The cheapest fare in every city.",
+            "B": "A history of the whole bus company.",
+            "C": "The names of all local drivers.",
+            "D": "The passenger's current location."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 The passenger's current location.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "b87464224cc8a0019e815341412392e2eb267831fb101dc9673bff3d076b284d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A map that began at the stop\"?",
+          "options": {
+            "A": "Information becomes more useful when it is organised around the user's immediate situation.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Information becomes more useful when it is organised around the user's immediate situation.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "08763bd6e73a97352c2d1fa4f52bb9a58a2d5301805458286c9cf8da4970691b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A map that began at the stop\", the word \"interpret\" is closest in meaning to _____.",
+          "options": {
+            "A": "depended",
+            "B": "understand the meaning of",
+            "C": "a change made to improve something",
+            "D": "happening repeatedly"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，interpret 的含义为 understand the meaning of。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0ffcfe040541adc9e2dbfda5cbb37ec9af9c3b795aa1f4082e75e35d15b4368e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A map that began at the stop\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "69a9aa88da92db582dadecb3fe314f91046ca3f6e22675f1eca9fc8b38ce3548"
+        }
+      ],
+      "contentFingerprint": "b2569021f43cb49bdbd0b39346e05438b345519761dca6d2a7f429fa7280d3ef"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "When a delay repeats",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A commuter complained that her bus was late 'all the time'. A travel adviser asked her to note the scheduled and actual arrival times for two weeks. The record showed a repeated delay on market mornings but little delay on other days. The bus company compared this with road conditions and changed the turning arrangement near the market. The evidence did not describe every service or season, but it made the complaint specific enough to investigate. The commuter still reported occasional problems, now with dates and times. A clear record helped separate a recurring issue from an isolated inconvenience.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"When a delay repeats\"?",
+          "options": {
+            "A": "Allowing realistic time for a transport connection",
+            "B": "Providing a starting point for route information",
+            "C": "Keeping essential travel information current",
+            "D": "Turning a general complaint into usable evidence"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Turning a general complaint into usable evidence”展开：Specific observations can make a service complaint easier to investigate.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "4e02120341e11c10465e240289073735040e359d5c02ca9809319d148a59e725"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"When a delay repeats\", when did the recorded delays occur most consistently?",
+          "options": {
+            "A": "On mornings when the market was open.",
+            "B": "Only on Sunday evenings.",
+            "C": "On all days to exactly the same extent.",
+            "D": "Only when the commuter forgot her ticket."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 On mornings when the market was open.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4d75a639de8b93736bbb2a639f98f259b09e027edf800e8f848596d1fb92166b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"When a delay repeats\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Specific observations can make a service complaint easier to investigate.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Specific observations can make a service complaint easier to investigate.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "58418da96cec036449ea11138038956223b06abbff90f6b19e6cb4fdb47ad856"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"When a delay repeats\", the word \"recurring\" is closest in meaning to _____.",
+          "options": {
+            "A": "understand the meaning of",
+            "B": "depended",
+            "C": "happening repeatedly",
+            "D": "a change made to improve something"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，recurring 的含义为 happening repeatedly。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "16a43ab6e5f49974669f06e2b71e22ad522bde49668a71cc12aa371aa868fd7e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"When a delay repeats\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "16a58dd2971d73f6ad27468b0697cde71373eec4ae5953b14a5de702a508b3a4"
+        }
+      ],
+      "contentFingerprint": "2b936dbf1341feb3ec2365e2d2348d5c9975527309b86bf2b41b48dd59b12cc1"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The last bus notice",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A college printed the time of the last bus on its evening-class welcome sheet. Several students relied on it for months, even after the timetable changed. The college then replaced the fixed time with a link and telephone number for current information, while displaying a dated timetable near the exit. Tutors also announced major changes received from the operator. The new arrangement required regular attention, but reduced dependence on an undated sheet. Staff learnt that useful information could become misleading without being false when first printed. Responsibility included showing when it had last been checked.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The last bus notice\"?",
+          "options": {
+            "A": "Keeping essential travel information current",
+            "B": "Allowing realistic time for a transport connection",
+            "C": "Providing a starting point for route information",
+            "D": "Turning a general complaint into usable evidence"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Keeping essential travel information current”展开：Information that changes needs a visible update process.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "1b0662c0fd0d461d0572f4014522ce6ab94ae28f30bc681156fb445eb2d4f34e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The last bus notice\", why did the welcome sheet become misleading?",
+          "options": {
+            "A": "Students were required to take an earlier class.",
+            "B": "Its printed departure time was no longer current.",
+            "C": "It had always listed the wrong college.",
+            "D": "The bus operator had stopped publishing information."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Its printed departure time was no longer current.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "10fabf23db8a5bfe9787234d3c4f138c4b3062aaae12997bd96cbe3e4e786bb0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The last bus notice\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Information that changes needs a visible update process.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Information that changes needs a visible update process.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "623f1a99a2855b7a5c02e98e49203455a544ba7c8ef482dcf77b8275f427a3c1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The last bus notice\", the word \"relied\" is closest in meaning to _____.",
+          "options": {
+            "A": "a change made to improve something",
+            "B": "understand the meaning of",
+            "C": "happening repeatedly",
+            "D": "depended"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，relied 的含义为 depended。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d14f25867f1229077e3ba40d1759ba8f9f0978ac066668cd3dd6935ffc9e871e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The last bus notice\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f871f37e0ee9b3d5187e1603d0e9fbe492eacd41688d3a4c2f0e729cdad4d98b"
+        }
+      ],
+      "contentFingerprint": "0f9686e1ad449859a092c194fa17816911b138b513b1bd8c98106fcfd3e7197b"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Before lending out a route display tablet, the assistant checked its _____ carefully.",
+      "options": {
+        "A": "competition",
+        "B": "construction",
+        "C": "condition",
+        "D": "conclusion"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "condition 在此指物品的状况。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dba4e0d982b5cb624d8dc874d1b26ed5fb0e21e3bbfb9b010a6aefaef0ca24a8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The team at Northgate Travel Hub must take the cost of maintenance into _____ when buying equipment.",
+      "options": {
+        "A": "effect",
+        "B": "place",
+        "C": "action",
+        "D": "account"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "take ... into account 是把……考虑在内。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4e2a7303dced8e4bdae33ef7f41e3c32c216d030d8ffc2cfa566d35df580b6dd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "One suggestion from a visitor led to a _____ improvement in the bus-transfer information session.",
+      "options": {
+        "A": "significant",
+        "B": "distant",
+        "C": "reluctant",
+        "D": "irrelevant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "significant 表示显著的，修饰 improvement。",
+      "knowledgePoints": [
+        "语义搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "062dbe0620b4869fa651960febf17b32f136499f3e24daae496fd5b78d186d78"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Participants were asked to _____ any faults with a route display tablet before using it.",
+      "options": {
+        "A": "transport",
+        "B": "report",
+        "C": "import",
+        "D": "support"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "report faults 表示报告故障，符合使用前告知工作人员的要求。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5ca7a8e29a62bddc188f4327405564a17c01cc28208c90f6a09df54379406b16"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The new signs at Northgate Travel Hub were intended to _____ confusion near the entrance.",
+      "options": {
+        "A": "introduce",
+        "B": "reproduce",
+        "C": "reduce",
+        "D": "produce"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reduce confusion 表示减少困惑，其余动词不符合目的。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "80b890dcd1b076118c2614ee3f06af0a4b00b958eedf81eb99c9922f385c466d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organiser gave a brief _____ of what the bus-transfer information session would cover.",
+      "options": {
+        "A": "salary",
+        "B": "surgery",
+        "C": "sympathy",
+        "D": "summary"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "summary 表示概述，用于介绍活动内容。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8548b96ed43fc11d4242e048aec2733c6d89bcc4ab286eb81c44132079ec7a55"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Because places at the bus-transfer information session were limited, early booking was strongly _____.",
+      "options": {
+        "A": "recommended",
+        "B": "recovered",
+        "C": "removed",
+        "D": "repaired"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "recommend 表示建议；此处为被动结构 recommended。",
+      "knowledgePoints": [
+        "语境词义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b5eaa51981390d2f6184341d56df750c429aeb53a4ee7d87dffc6c27978bfcbe"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The guide at Northgate Travel Hub answered each beginner's question with great _____.",
+      "options": {
+        "A": "permission",
+        "B": "patience",
+        "C": "pressure",
+        "D": "profit"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "with great patience 表示十分耐心地，与解答初学者问题相符。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5659bcf9be3aaa51be558f510f887ef971cdabe6fca4b13666903b552cb872f2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The bus-transfer information session offers a useful _____ to practise a skill under guidance.",
+      "options": {
+        "A": "objection",
+        "B": "opposition",
+        "C": "opportunity",
+        "D": "obstacle"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "opportunity to do 表示做某事的机会。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "12b2e4b0bd3753295f26342586231bbbedf93474284d98aa1b8346a68fcf1292"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Visitors to Northgate Travel Hub should not _____ that every service is available without booking.",
+      "options": {
+        "A": "consume",
+        "B": "resume",
+        "C": "presume upon",
+        "D": "assume"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "assume 在此意为想当然地认为，后接 that 从句。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "19703b49ff84ab097d5dc8f66f364b2cc55381b55675b311a406e4569b3ef92e"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Neither the organiser nor the assistants at Northgate Travel Hub _____ available at the moment.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "be",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither...nor 的谓语与较近的复数 assistants 一致；at the moment 用现在时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f03c41ff7fa51ebd111e252c63f4cfd03cfaa0075a42dd0200e2e5e8adae5040"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Please avoid _____ a route display tablet near the edge of the table.",
+      "options": {
+        "A": "placing",
+        "B": "to place",
+        "C": "place",
+        "D": "placed"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "avoid 后接动名词作宾语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "55633bc1a85d9b96f2092b1151b8e38e75eb73630f08c2e26921fcb0e2391c72"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "By the time the bus-transfer information session began, all the chairs _____ in position.",
+      "options": {
+        "A": "will place",
+        "B": "had been placed",
+        "C": "have placed",
+        "D": "are placing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去开始之前已完成且 chairs 是动作承受者，用过去完成时被动。",
+      "knowledgePoints": [
+        "时态与被动语态"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "34d54cdd5cd64dd02bb069226d5a51524a483352fbb2e98396d57ce90812fce1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The information desk at Northgate Travel Hub is open _____ 9 a.m. and 5 p.m. on weekdays.",
+      "options": {
+        "A": "during",
+        "B": "from",
+        "C": "between",
+        "D": "among"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "between...and 表示两时间点之间。",
+      "knowledgePoints": [
+        "介词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4c9cbcdbae1822759e3a24012d484334df2dcbd1188b5eaeb0e3b77997608eca"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The instructor spoke slowly _____ everyone at the bus-transfer information session could follow the explanation.",
+      "options": {
+        "A": "even though",
+        "B": "as if",
+        "C": "unless",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "so that 引导目的状语从句：为了让大家听懂。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4f691ef1f6952d70022b550514eb3b12ab27931258fc624640a3d1cf8b7f3be7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The person _____ lent me a route display tablet explained the return procedure clearly.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "先行词 person 为人且从句缺主语，用 who。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2815ddf61f98f7e8d5a7e169591cc7d8ffef4b130111a70e1fe9e8f42cf8990e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Not until the last visitor had left _____ the doors of Northgate Travel Hub.",
+      "options": {
+        "A": "the caretaker did lock",
+        "B": "did the caretaker lock",
+        "C": "the caretaker locked",
+        "D": "had locked the caretaker"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "not until 置于句首时主句部分倒装，过去动作使用 did + 主语 + 动词原形。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "50884c112eea06e605a981afed7300e62ccbea1c75456ffc932d0bd4a78f2958"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The bus-transfer information session was _____ useful that several learners asked for a follow-up session.",
+      "options": {
+        "A": "too",
+        "B": "very",
+        "C": "so",
+        "D": "such"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "so + 形容词 + that 构成结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "938975fcff9e86328a34768f75000319e9c666c6f5f0376ac161237f871b125c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The manager at Northgate Travel Hub suggested that the timetable _____ before publication.",
+      "options": {
+        "A": "is checked",
+        "B": "was checking",
+        "C": "has checked",
+        "D": "be checked"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "suggest 表建议时 that 从句用 should + 原形，should 可省略；此处为被动。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d95f98d5e9eda6e6fa91d374020da4289fdb97e1409919c89b5ea2feec1695e6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "There is no point in _____ to the bus-transfer information session without first confirming your place.",
+      "options": {
+        "A": "travelling",
+        "B": "travel",
+        "C": "to travel",
+        "D": "travelled"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "There is no point in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ad6e3c7cd824f1dd4410dd9f57e2559336b5568069b0c67118396e616541fb19"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA useful transport system connects journeys as well as places. A short bus ride may become inconvenient if passengers face a long wait for the next service. Clear information cannot remove every delay, but it helps people make choices. Passengers also need reliable ways to report recurring problems.",
+      "referenceAnswer": "实用的交通系统不仅连接地点，也衔接不同旅程。如果乘客换乘时要等很久，一段短途公交行程也可能变得不方便。清晰的信息无法消除所有延误，却能帮助人们作出选择。乘客还需要可靠的渠道来反映反复出现的问题。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "28d772e1bdfd9becea59b9d221a183f3d5b776d034ce4e1cfb6f9f3b0c26dd72",
+      "referenceAnswerFingerprint": "43039d072fb703c772b900affcfc2b787913767d6a07a3ac7bc2b274615a1e57"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite to a transport officer about improving bus connections for evening learners. Describe a difficulty and suggest a realistic improvement.",
+      "sampleAnswer": "Dear Transport Officer, I attend evening classes near Northgate Station. Our class ends shortly before the last connecting bus leaves, but the walk to the stop takes several minutes. Students who need the lift or carry heavy materials often miss the connection and face a long wait elsewhere. Please consider moving the bus departure a little later on teaching evenings. Before changing the timetable, staff could time the route with passengers who move at different speeds. Clear information at the college exit would also help us plan. I understand that a change may affect other connections, so a short trial with passenger feedback could be useful. Thank you for considering the needs of evening learners. Yours faithfully, A student",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "4a66219eda8966031e5fd14f9a69fbaae565ff4cba1dee57334552299f7cbd2e",
+      "sampleAnswerFingerprint": "3c18c4f3651b19c9d01ff3e7cf7f6f304e805d361b514d49eab46c245354b48f"
+    }
+  ],
+  "fingerprintManifest": [
+    "d8e88a7b7cb5f756b0fcd923576c8ec72a14d1583d9bd5afc54dcc459d9cf188",
+    "74bb292ed4dc845faad6a87d464562fa2ba8c6317a139c884ca3fb6b1348fba0",
+    "21e56f9e74dc45e802dd7db6151d3a0a8f1eb70923d168e0facd2769b7c632bb",
+    "ebf3298f29b11a0e5c34547e966aa88aa4fce4494dc3505eca12bed844404aca",
+    "16b7d4986f3cb57cfc1c4ebdeb054d431c1631afd2ce43d88d7326dbb3d7c410",
+    "cfc2823e7b8305dc4873ae7943233dcb6782e46de1f5c6b1aba7f2bf7dce244c",
+    "e375c25c668acaa1e2a608eaf5dcea1db74fd0befa4853c2accf7ae30e9fd676",
+    "687641b4187a63acfaf1c69c676c37eda2493ba703403875e0e8b3da9aeffc72",
+    "40206575a6ef0fb481690431a909fa7768ec967ce5f14e69a923633419a68f01",
+    "744ab3596225bcda572f22900d2b6c577c15e76a2465330bc9785509172566d3",
+    "04062df53da440a498a6a48c925b862711ff3e285aa94fbe3e49372227348b49",
+    "25a3f01ada527abdebf037369ba4782e5011bcbcd96133774c5c2e7271c55271",
+    "fcd2b5b5feb092f7b185614c299fdeb473eaaac4473d372626d2d2f36f861170",
+    "53b2032ce2bfeccf238b1d15280e83c55086a719e250010ae0a5938a9d495445",
+    "549a16073aeeeb6e2484d8b4e2861914f8bb75b7df1ffafd8ed594aff1fcb75e",
+    "df04390104984a4f1cb78046385bdd19039f132b7d6492d47ab3865e1ddbea26",
+    "ec2334875144830f44452f388b7c7570e94fc41e93ec118e977f0434f6932381",
+    "4a0b8d954398a7bd38487f2c0fee3945d8bc58478969d590196619daa4ec89a2",
+    "1e81c02868768368b6726b0d84878046c82bbaadbfed26aca93faabc7feb3d5e",
+    "b2569021f43cb49bdbd0b39346e05438b345519761dca6d2a7f429fa7280d3ef",
+    "37134aa63f64cefb8902f863c6c486f77bea57e673c682013c2a745c532fcbdd",
+    "b87464224cc8a0019e815341412392e2eb267831fb101dc9673bff3d076b284d",
+    "08763bd6e73a97352c2d1fa4f52bb9a58a2d5301805458286c9cf8da4970691b",
+    "0ffcfe040541adc9e2dbfda5cbb37ec9af9c3b795aa1f4082e75e35d15b4368e",
+    "69a9aa88da92db582dadecb3fe314f91046ca3f6e22675f1eca9fc8b38ce3548",
+    "2b936dbf1341feb3ec2365e2d2348d5c9975527309b86bf2b41b48dd59b12cc1",
+    "4e02120341e11c10465e240289073735040e359d5c02ca9809319d148a59e725",
+    "4d75a639de8b93736bbb2a639f98f259b09e027edf800e8f848596d1fb92166b",
+    "58418da96cec036449ea11138038956223b06abbff90f6b19e6cb4fdb47ad856",
+    "16a43ab6e5f49974669f06e2b71e22ad522bde49668a71cc12aa371aa868fd7e",
+    "16a58dd2971d73f6ad27468b0697cde71373eec4ae5953b14a5de702a508b3a4",
+    "0f9686e1ad449859a092c194fa17816911b138b513b1bd8c98106fcfd3e7197b",
+    "1b0662c0fd0d461d0572f4014522ce6ab94ae28f30bc681156fb445eb2d4f34e",
+    "10fabf23db8a5bfe9787234d3c4f138c4b3062aaae12997bd96cbe3e4e786bb0",
+    "623f1a99a2855b7a5c02e98e49203455a544ba7c8ef482dcf77b8275f427a3c1",
+    "d14f25867f1229077e3ba40d1759ba8f9f0978ac066668cd3dd6935ffc9e871e",
+    "f871f37e0ee9b3d5187e1603d0e9fbe492eacd41688d3a4c2f0e729cdad4d98b",
+    "dba4e0d982b5cb624d8dc874d1b26ed5fb0e21e3bbfb9b010a6aefaef0ca24a8",
+    "4e2a7303dced8e4bdae33ef7f41e3c32c216d030d8ffc2cfa566d35df580b6dd",
+    "062dbe0620b4869fa651960febf17b32f136499f3e24daae496fd5b78d186d78",
+    "5ca7a8e29a62bddc188f4327405564a17c01cc28208c90f6a09df54379406b16",
+    "80b890dcd1b076118c2614ee3f06af0a4b00b958eedf81eb99c9922f385c466d",
+    "8548b96ed43fc11d4242e048aec2733c6d89bcc4ab286eb81c44132079ec7a55",
+    "b5eaa51981390d2f6184341d56df750c429aeb53a4ee7d87dffc6c27978bfcbe",
+    "5659bcf9be3aaa51be558f510f887ef971cdabe6fca4b13666903b552cb872f2",
+    "12b2e4b0bd3753295f26342586231bbbedf93474284d98aa1b8346a68fcf1292",
+    "19703b49ff84ab097d5dc8f66f364b2cc55381b55675b311a406e4569b3ef92e",
+    "f03c41ff7fa51ebd111e252c63f4cfd03cfaa0075a42dd0200e2e5e8adae5040",
+    "55633bc1a85d9b96f2092b1151b8e38e75eb73630f08c2e26921fcb0e2391c72",
+    "34d54cdd5cd64dd02bb069226d5a51524a483352fbb2e98396d57ce90812fce1",
+    "4c9cbcdbae1822759e3a24012d484334df2dcbd1188b5eaeb0e3b77997608eca",
+    "4f691ef1f6952d70022b550514eb3b12ab27931258fc624640a3d1cf8b7f3be7",
+    "2815ddf61f98f7e8d5a7e169591cc7d8ffef4b130111a70e1fe9e8f42cf8990e",
+    "50884c112eea06e605a981afed7300e62ccbea1c75456ffc932d0bd4a78f2958",
+    "938975fcff9e86328a34768f75000319e9c666c6f5f0376ac161237f871b125c",
+    "d95f98d5e9eda6e6fa91d374020da4289fdb97e1409919c89b5ea2feec1695e6",
+    "ad6e3c7cd824f1dd4410dd9f57e2559336b5568069b0c67118396e616541fb19",
+    "28d772e1bdfd9becea59b9d221a183f3d5b776d034ce4e1cfb6f9f3b0c26dd72",
+    "43039d072fb703c772b900affcfc2b787913767d6a07a3ac7bc2b274615a1e57",
+    "4a66219eda8966031e5fd14f9a69fbaae565ff4cba1dee57334552299f7cbd2e",
+    "3c18c4f3651b19c9d01ff3e7cf7f6f304e805d361b514d49eab46c245354b48f"
+  ],
+  "contentFingerprint": "c82e0cb0625fa50c4e042c4b974ce65878f8ac3c56083a9ccce40f6ca4477c7c"
+}

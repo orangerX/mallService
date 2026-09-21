@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-12",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 12 · 节水实践与设施维护",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 12,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the household-water workshop",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the household-water workshop at Brook Water Centre.\nCoordinator: (1) _____\nVisitor: Friday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Contact Brook Water Centre before the session so that we can offer your place to someone else.",
+        "B": "Which day would be convenient for you to attend?",
+        "C": "Please come to the demonstration kitchen.",
+        "D": "Bring a notebook; we can provide a flow-measuring jug."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the household-water workshop\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Contact Brook Water Centre before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the demonstration kitchen.",
+            "D": "Bring a notebook; we can provide a flow-measuring jug."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "df02d0cd3d75785f3477e86342f180826ffabf466960f9604e44679da15325a9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the household-water workshop\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Contact Brook Water Centre before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the demonstration kitchen.",
+            "D": "Bring a notebook; we can provide a flow-measuring jug."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8d0c47a05935fc30b370e862a70f6f42d45cd6dec409a54a515948015b6a3bb2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the household-water workshop\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Contact Brook Water Centre before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the demonstration kitchen.",
+            "D": "Bring a notebook; we can provide a flow-measuring jug."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cd2e12342313cf9d4455ac4a5432271aa77fa41db4fb439e4e90a50bef48c5a9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the household-water workshop\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Contact Brook Water Centre before the session so that we can offer your place to someone else.",
+            "B": "Which day would be convenient for you to attend?",
+            "C": "Please come to the demonstration kitchen.",
+            "D": "Bring a notebook; we can provide a flow-measuring jug."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e4bed5346a871f3dfb21b97a637133c83c72ef7cedd0b670a30f4d0128ffbe12"
+        }
+      ],
+      "contentFingerprint": "2c25472fe5d41ce6a35fbd525edb0ee6bb2cf939444bb19b4edfc629a8a3b325"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Brook Water Centre",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a flow-measuring jug from Brook Water Centre, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The side has a crack. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the household-water workshop?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Could you describe the fault you noticed?",
+        "B": "Yes. You can use the clear jug under the sink.",
+        "C": "Please leave it with us and complete a short fault report.",
+        "D": "You must purchase every item you use at the session."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Brook Water Centre\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the clear jug under the sink.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ba29ddd65e99fe87b482f298c3beb91b2579ced92eb393ca3b36034dbafc529e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Brook Water Centre\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the clear jug under the sink.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "37892a7917998cb97ff40b5e8cbec0f7ec9ec8c2e15e7aeb834453f6e8b34538"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Brook Water Centre\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Could you describe the fault you noticed?",
+            "B": "Yes. You can use the clear jug under the sink.",
+            "C": "Please leave it with us and complete a short fault report.",
+            "D": "You must purchase every item you use at the session."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4f8ffd5638445574287a867f91c4951fb2a52e0e4a5a933355e366f2b2a56cad"
+        }
+      ],
+      "contentFingerprint": "50f454a93f1bc2192e1fe5ea28b13ae079e1817d398c82317813a9fb7991f0a6"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Brook Water Centre",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the household-water workshop, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Use the current map of Brook Water Centre and the list of rooms for the household-water workshop.",
+        "B": "Ask the session coordinator to help; you do not have to guess.",
+        "C": "You should promise to solve every problem without asking anyone.",
+        "D": "You could welcome visitors at the demonstration kitchen while the other volunteers prepare."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Brook Water Centre\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Use the current map of Brook Water Centre and the list of rooms for the household-water workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the demonstration kitchen while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "32d89426797ef900423d7952e2148555ff740185b98a98e0b713ce9dfb4e1d8d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Brook Water Centre\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Use the current map of Brook Water Centre and the list of rooms for the household-water workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the demonstration kitchen while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "cc3c9670d9c3245c37a84e64484815fbe358a0eba5311cc5d9e572c1ed6c541f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Brook Water Centre\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Use the current map of Brook Water Centre and the list of rooms for the household-water workshop.",
+            "B": "Ask the session coordinator to help; you do not have to guess.",
+            "C": "You should promise to solve every problem without asking anyone.",
+            "D": "You could welcome visitors at the demonstration kitchen while the other volunteers prepare."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7800864f3f25a2d55716f0861d805f19f1e0a5e45b4b89e1b8c7b24b12075a92"
+        }
+      ],
+      "contentFingerprint": "36478d4c8e78ec7f79bd69e5aacc1630eddaa26036e29ebe091523c4b209ef84"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The meter before opening time",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Brook Water Centre asked a café to record its meter when closing and before opening the next morning. The readings increased even on nights when no cleaning was scheduled. A plumber found a leaking pipe behind a cupboard. Repairing it reduced water use without asking staff to wash fewer dishes. The café still worked on careful habits, but the investigation changed the order of its efforts. What appeared to be a problem of daily behaviour partly came from hidden equipment failure. Measuring at a quiet time helped separate the two.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The meter before opening time\"?",
+          "options": {
+            "A": "Allocating limited water according to need",
+            "B": "Making a fairer comparison of water-saving equipment",
+            "C": "Finding a hidden leak through carefully timed measurements",
+            "D": "Connecting water-saving advice to a specific task"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Finding a hidden leak through carefully timed measurements”展开：Investigating equipment can prevent unfair assumptions about staff behaviour.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "c32db37473430730f8045bf49f9b84b7bf9e08eef72438a6c419dc7a00124710"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The meter before opening time\", why were overnight readings useful?",
+          "options": {
+            "A": "They measured how much rain had fallen outdoors.",
+            "B": "They proved every employee used too much water.",
+            "C": "They replaced the need to inspect any pipes.",
+            "D": "They showed water use when no planned activity should require it."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 They showed water use when no planned activity should require it.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "885d4e94e94bdfc6ccc1530c5a55dd8bc77f428ae1be96e8fe6922ae07cc40d6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The meter before opening time\"?",
+          "options": {
+            "A": "Investigating equipment can prevent unfair assumptions about staff behaviour.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Investigating equipment can prevent unfair assumptions about staff behaviour.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ff5f74e7ef25223d313b57bd76226758062f44b073e30848a79cca547de373c3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The meter before opening time\", the word \"scheduled\" is closest in meaning to _____.",
+          "options": {
+            "A": "believable and supported by evidence",
+            "B": "planned for a particular time",
+            "C": "suitable for the situation",
+            "D": "gave first attention or importance to"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，scheduled 的含义为 planned for a particular time。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "1fb7911958065c1c4989926aa4696f9513e8f21f729168842255d8491917f06d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The meter before opening time\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "b885dff6cfaec953eea2e0950f7622786322608b5453f31a23551d5b454ca5e2"
+        }
+      ],
+      "contentFingerprint": "e2c48cfb45b11aa72cadc219d3bb62f4c89fa061beb76e5c533739be7d10019a"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Signs beside the sink",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A college placed 'Save Water' posters around its kitchens. Students agreed with the message but were unsure what action was expected. A catering assistant added a specific instruction beside the vegetable sink: rinse produce in a bowl rather than under a running tap. Staff demonstrated the method while maintaining the kitchen's cleaning requirements. The new sign connected a general aim with a task people performed every day. It did not ask them to use too little water for hygiene. Useful advice had to show where savings were appropriate and where proper cleaning remained essential.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Signs beside the sink\"?",
+          "options": {
+            "A": "Finding a hidden leak through carefully timed measurements",
+            "B": "Allocating limited water according to need",
+            "C": "Making a fairer comparison of water-saving equipment",
+            "D": "Connecting water-saving advice to a specific task"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Connecting water-saving advice to a specific task”展开：An actionable instruction can be more useful than a general slogan.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "063cc6a905e70101cf5fdd3b44966e9ede1019bff4f4b3f5f01612d74165e1aa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Signs beside the sink\", what specific practice did the new sign recommend?",
+          "options": {
+            "A": "Rinsing produce in a bowl.",
+            "B": "Avoiding all washing of vegetables.",
+            "C": "Leaving the tap running between tasks.",
+            "D": "Using less water regardless of hygiene."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Rinsing produce in a bowl.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d424288c93cabac89ef2756a3fc4891fa8bb41e4f1f68266b290e9cd66b4753b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Signs beside the sink\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "An actionable instruction can be more useful than a general slogan.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：An actionable instruction can be more useful than a general slogan.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "de04e569a4989b6d572830e8953d53c7aaa746b04a3ff77de192e336a178c1a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Signs beside the sink\", the word \"appropriate\" is closest in meaning to _____.",
+          "options": {
+            "A": "gave first attention or importance to",
+            "B": "believable and supported by evidence",
+            "C": "suitable for the situation",
+            "D": "planned for a particular time"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，appropriate 的含义为 suitable for the situation。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2e67dfb7ba98aa2839541935fc31d345acf408357ed99236b232329aa1895d1f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Signs beside the sink\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "73ee7aeafbdd3a39321fb8ab16377ad91e5958db4adbdbfbe55185485ce3a875"
+        }
+      ],
+      "contentFingerprint": "a627f28a026f2b14d9653a048a48380775a56be79780f467bd793ebde42de6d5"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A lawn in a dry month",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "During a dry spell, a housing committee debated whether to water its entire lawn every evening. A gardener explained that newly planted trees needed attention more urgently than established grass. The committee prioritised those trees, checked restrictions and watered at a suitable time. Parts of the lawn turned brown, causing some complaints. A notice explained the choice and showed signs that the grass was still alive. The grounds did not look perfect, but limited water was directed where it could prevent lasting damage. The decision balanced appearance with longer-term needs.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A lawn in a dry month\"?",
+          "options": {
+            "A": "Allocating limited water according to need",
+            "B": "Finding a hidden leak through carefully timed measurements",
+            "C": "Connecting water-saving advice to a specific task",
+            "D": "Making a fairer comparison of water-saving equipment"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Allocating limited water according to need”展开：A less attractive short-term appearance may serve a longer-term purpose.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "aed8231c7ae72947692ef94046331fd0dbd5760c69c04aedca9c98988e6573e0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A lawn in a dry month\", what received priority for watering?",
+          "options": {
+            "A": "Only plants closest to the entrance.",
+            "B": "Newly planted trees.",
+            "C": "Every patch of established grass.",
+            "D": "The pavement outside the building."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Newly planted trees.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "08f01eebad51c7a1b9a88a949c8d87e75527cee3ad7965ea50675a0716f4b849"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A lawn in a dry month\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "A less attractive short-term appearance may serve a longer-term purpose.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：A less attractive short-term appearance may serve a longer-term purpose.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ffa72692055e593e67b9c93205f24cab9428abba4cf8f4b8855db6b248434a62"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A lawn in a dry month\", the word \"prioritised\" is closest in meaning to _____.",
+          "options": {
+            "A": "planned for a particular time",
+            "B": "suitable for the situation",
+            "C": "believable and supported by evidence",
+            "D": "gave first attention or importance to"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，prioritised 的含义为 gave first attention or importance to。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "978852f888519b3b7b61fac8989688e722ebf06cc429e8b0a06c6500bb143943"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A lawn in a dry month\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f05a3b413c6b9942fda427435ef4471c363d8ef196054794b934623ecc605518"
+        }
+      ],
+      "contentFingerprint": "f3f9f27dc3e7f62a1c734440af38abb782f17862e9d16c6c8cffb70ea508a78f"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Comparing two shower heads",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A sports centre replaced several shower heads with lower-flow models. Managers compared the next month's total water use with the previous month and announced a large saving. An employee noted that the centre had also closed for a week of floor repairs. The team recalculated use per visitor and continued measuring after normal opening resumed. The devices still appeared useful, but the estimated saving was smaller. Correcting the claim did not mean the project had failed. It made the result more credible and helped managers decide whether further replacements were worth the cost.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Comparing two shower heads\"?",
+          "options": {
+            "A": "Allocating limited water according to need",
+            "B": "Making a fairer comparison of water-saving equipment",
+            "C": "Finding a hidden leak through carefully timed measurements",
+            "D": "Connecting water-saving advice to a specific task"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Making a fairer comparison of water-saving equipment”展开：A total can be misleading when the amount of activity also changes.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "0d4fde0bf1eeb856654b92ddfc73bfa8d32bf4b81ae0a47713fdb0ed315a2631"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Comparing two shower heads\", what else had reduced the centre's monthly water use?",
+          "options": {
+            "A": "A new swimming pool opening.",
+            "B": "A rise in the price of drinking water.",
+            "C": "A week of closure for floor repairs.",
+            "D": "A sudden increase in visitor numbers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 A week of closure for floor repairs.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4d1dd21c75c3fd25a97fc5c71f22ae14f0ca5c6fb76d15969282e840a037fb70"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Comparing two shower heads\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "A total can be misleading when the amount of activity also changes."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：A total can be misleading when the amount of activity also changes.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "247ebf6a76e7f2667954acb0a0a5c4bd7646584ebd8197af5252d5c457b611b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Comparing two shower heads\", the word \"credible\" is closest in meaning to _____.",
+          "options": {
+            "A": "believable and supported by evidence",
+            "B": "planned for a particular time",
+            "C": "suitable for the situation",
+            "D": "gave first attention or importance to"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，credible 的含义为 believable and supported by evidence。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "c50ce6a579894839ab5a2736c9128184dd0ef292c8267eda660df11bde6b0212"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Comparing two shower heads\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "565526fd88986225339377a1d729fd16903bc35c861e29d5d147d7ccb0907889"
+        }
+      ],
+      "contentFingerprint": "8c1377eb80c3148faaf5356881fc204ad217338eb06b6d436fab3d668a335241"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The household-water workshop was designed to _____ beginners to take the first practical step.",
+      "options": {
+        "A": "encounter",
+        "B": "enclose",
+        "C": "endanger",
+        "D": "encourage"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "encourage somebody to do 表示鼓励某人做某事。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d45246c2ee902382f9382d68878625f1ca7ad491d4d937379d4790a4f896eb78"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The updated notice at Brook Water Centre is more _____ because it gives exact times and contact details.",
+      "options": {
+        "A": "informative",
+        "B": "informal",
+        "C": "invisible",
+        "D": "impatient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "informative 表示提供有用信息的，具体时间和联系信息体现这一点。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "180f3d7c5e95a200bf7d5f71197acc001b9786c390c79e8890c83eb73efae64c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The instructor said that learning at the household-water workshop would be a _____ process rather than an instant change.",
+      "options": {
+        "A": "guilty",
+        "B": "gradual",
+        "C": "grateful",
+        "D": "grand"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "gradual 表示逐步的，与 instant change 对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0d70bf20b2b677ad55b96bf4da081bc7bdd49f21a5a32da95838e67fc260fac5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The organisers at Brook Water Centre agreed to _____ the session until the damaged equipment was replaced.",
+      "options": {
+        "A": "preserve",
+        "B": "purchase",
+        "C": "postpone",
+        "D": "predict"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "postpone 表示推迟；因设备损坏而延后活动。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1c7a4065cccbd9b06db01cb4b7d02af631ee159a7574181c5d0f7096cfbebf0a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Clear instructions made the household-water workshop _____ to people with little previous experience.",
+      "options": {
+        "A": "accidental",
+        "B": "anxious",
+        "C": "absent",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible 表示易于使用或理解，符合缺乏经验者也能参与的语境。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8f67f106110b9c082b606a85a1af4c6c1cb6f17bc793bf513ec9a8e1c77ad362"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Before lending out a flow-measuring jug, the assistant checked its _____ carefully.",
+      "options": {
+        "A": "condition",
+        "B": "conclusion",
+        "C": "competition",
+        "D": "construction"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "condition 在此指物品的状况。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "88f1c95ba2b03bd254b7075b2df7a636e4122f87ee4ca0122b70e019f3f8a336"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The team at Brook Water Centre must take the cost of maintenance into _____ when buying equipment.",
+      "options": {
+        "A": "action",
+        "B": "account",
+        "C": "effect",
+        "D": "place"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "take ... into account 是把……考虑在内。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a7ce62ce4a338f5c89a104cb10d2213ac45f1a5ebc5e4571883f325ef8a9b1b0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "One suggestion from a visitor led to a _____ improvement in the household-water workshop.",
+      "options": {
+        "A": "reluctant",
+        "B": "irrelevant",
+        "C": "significant",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "significant 表示显著的，修饰 improvement。",
+      "knowledgePoints": [
+        "语义搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6f5b61f0018e9240887e938d6c7db34ebc3d81e19d4fe862412a4f8279fa6ade"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Participants were asked to _____ any faults with a flow-measuring jug before using it.",
+      "options": {
+        "A": "import",
+        "B": "support",
+        "C": "transport",
+        "D": "report"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "report faults 表示报告故障，符合使用前告知工作人员的要求。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f25666908cf60be38a9ec43ee5cb70f72abedd3e1a493433400c493a976652b7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The new signs at Brook Water Centre were intended to _____ confusion near the entrance.",
+      "options": {
+        "A": "reduce",
+        "B": "produce",
+        "C": "introduce",
+        "D": "reproduce"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reduce confusion 表示减少困惑，其余动词不符合目的。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bece3fbcb8036d7e2f98b9bf670eb85b3c3451c675b6f9b1f75dfb2f506ff683"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If a flow-measuring jug is damaged, do not try to repair it _____ you have the appropriate skills.",
+      "options": {
+        "A": "unless",
+        "B": "if",
+        "C": "because",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "unless 表示除非，与主句否定构成条件限制。",
+      "knowledgePoints": [
+        "条件连词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "03576f93c18f031fae79383e56e00617902bbfbedb06ddc8fea8a231a0df31c9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The more carefully participants prepare for the household-water workshop, _____ they are likely to learn.",
+      "options": {
+        "A": "the most",
+        "B": "the more",
+        "C": "more",
+        "D": "most"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the + 比较级..., the + 比较级... 表示越……越……。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "36a9a4c413eff87a5612e2764dda3d42db5b816d449496efd7b872faa0be16c0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The volunteers at Brook Water Centre would rather _____ the schedule now than change it during the session.",
+      "options": {
+        "A": "discussing",
+        "B": "discussed",
+        "C": "discuss",
+        "D": "to discuss"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "would rather do...than do... 两边均用动词原形。",
+      "knowledgePoints": [
+        "固定句式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "52bef75b85f25b162e27b16cb1b8ff0a1ebecd15824f926fa3588f264b3fb44a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "If the staff at Brook Water Centre _____ earlier, the visitors would not have waited outside yesterday.",
+      "options": {
+        "A": "arrive",
+        "B": "have arrived",
+        "C": "will arrive",
+        "D": "had arrived"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件句：if 从句用 had done，主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a1dbd9602d833171d5b12c24bc451b06d9f17b679d2c1a79a73b5383a832f4c2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The leaflet for the household-water workshop, _____ was revised last week, now includes a clear map.",
+      "options": {
+        "A": "which",
+        "B": "what",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制性定语从句指代 leaflet，关系代词用 which。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5da6b20e497abb214f8b01dd3858335b21943bcf0f43b65c30b7a61796e61a8b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Neither the organiser nor the assistants at Brook Water Centre _____ available at the moment.",
+      "options": {
+        "A": "be",
+        "B": "are",
+        "C": "is",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither...nor 的谓语与较近的复数 assistants 一致；at the moment 用现在时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "535ce158e37e4ec9989337651860d7534ea08f0bebab5c45f974b542d397a0cb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Please avoid _____ a flow-measuring jug near the edge of the table.",
+      "options": {
+        "A": "place",
+        "B": "placed",
+        "C": "placing",
+        "D": "to place"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "avoid 后接动名词作宾语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a47faaa4d1cf538007607dcbab9414779b33975f7c4761946eb4b37694cd912a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "By the time the household-water workshop began, all the chairs _____ in position.",
+      "options": {
+        "A": "have placed",
+        "B": "are placing",
+        "C": "will place",
+        "D": "had been placed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去开始之前已完成且 chairs 是动作承受者，用过去完成时被动。",
+      "knowledgePoints": [
+        "时态与被动语态"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9f89762aafb0ef827f65965b7850f694c277f9853a5f720422a91265a66ac0bd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The information desk at Brook Water Centre is open _____ 9 a.m. and 5 p.m. on weekdays.",
+      "options": {
+        "A": "between",
+        "B": "among",
+        "C": "during",
+        "D": "from"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "between...and 表示两时间点之间。",
+      "knowledgePoints": [
+        "介词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4a7541531008b42a4ee4acf8ebecfd74c9cc1378ac66d1e951d59bf863c58762"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The instructor spoke slowly _____ everyone at the household-water workshop could follow the explanation.",
+      "options": {
+        "A": "unless",
+        "B": "so that",
+        "C": "even though",
+        "D": "as if"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so that 引导目的状语从句：为了让大家听懂。",
+      "knowledgePoints": [
+        "目的状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "020b257138bf75886ad97d739b5478f9223df306aa253a8cf2b6b7e7c6dfa6a2"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA small leak may seem unimportant because each drop is tiny. Over time, however, the total amount of wasted water can be considerable. Measuring use helps people identify where a change is needed. Lasting savings usually combine careful habits with well-maintained equipment.",
+      "referenceAnswer": "小漏水看起来也许无关紧要，因为每滴水都很少。然而，时间一长，浪费的水量就可能相当可观。计量用水有助于人们发现哪些地方需要改进。持久的节水效果通常需要良好习惯与维护得当的设备相结合。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "6050eba5a542793d9600fb99f6efb575f2b3a7b58caceb5cca530975d6393e52",
+      "referenceAnswerFingerprint": "f82da0fd8d897b0f05344f51af5d84140f95bd7da721473e7d32d21ea307bf52"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nExplain how a college could reduce unnecessary water use. Propose one change in behaviour and one improvement to facilities.",
+      "sampleAnswer": "Our college could reduce unnecessary water use through one practical habit and one improvement to facilities. In teaching kitchens, vegetables could be rinsed in suitable bowls instead of under continuously running taps, while proper hygiene requirements remain essential. Staff should demonstrate the method rather than rely on a general poster. The college should also check meters at quiet times to identify possible leaks and repair faulty equipment promptly. Monthly totals should be compared with the number of users, because a holiday closure can make savings look larger than they are. These actions would combine responsible behaviour with reliable facilities. Students are more likely to support conservation when advice is specific and the college maintains its own equipment properly.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "136159754293f05a9df1520d9a61df157a557798b60be7d59481139b172e308d",
+      "sampleAnswerFingerprint": "b8a071b56ae157d257d7844964b4edd153f54185e0a46aea49e7d89c8dc05f5b"
+    }
+  ],
+  "fingerprintManifest": [
+    "2c25472fe5d41ce6a35fbd525edb0ee6bb2cf939444bb19b4edfc629a8a3b325",
+    "df02d0cd3d75785f3477e86342f180826ffabf466960f9604e44679da15325a9",
+    "8d0c47a05935fc30b370e862a70f6f42d45cd6dec409a54a515948015b6a3bb2",
+    "cd2e12342313cf9d4455ac4a5432271aa77fa41db4fb439e4e90a50bef48c5a9",
+    "e4bed5346a871f3dfb21b97a637133c83c72ef7cedd0b670a30f4d0128ffbe12",
+    "50f454a93f1bc2192e1fe5ea28b13ae079e1817d398c82317813a9fb7991f0a6",
+    "ba29ddd65e99fe87b482f298c3beb91b2579ced92eb393ca3b36034dbafc529e",
+    "37892a7917998cb97ff40b5e8cbec0f7ec9ec8c2e15e7aeb834453f6e8b34538",
+    "4f8ffd5638445574287a867f91c4951fb2a52e0e4a5a933355e366f2b2a56cad",
+    "36478d4c8e78ec7f79bd69e5aacc1630eddaa26036e29ebe091523c4b209ef84",
+    "32d89426797ef900423d7952e2148555ff740185b98a98e0b713ce9dfb4e1d8d",
+    "cc3c9670d9c3245c37a84e64484815fbe358a0eba5311cc5d9e572c1ed6c541f",
+    "7800864f3f25a2d55716f0861d805f19f1e0a5e45b4b89e1b8c7b24b12075a92",
+    "e2c48cfb45b11aa72cadc219d3bb62f4c89fa061beb76e5c533739be7d10019a",
+    "c32db37473430730f8045bf49f9b84b7bf9e08eef72438a6c419dc7a00124710",
+    "885d4e94e94bdfc6ccc1530c5a55dd8bc77f428ae1be96e8fe6922ae07cc40d6",
+    "ff5f74e7ef25223d313b57bd76226758062f44b073e30848a79cca547de373c3",
+    "1fb7911958065c1c4989926aa4696f9513e8f21f729168842255d8491917f06d",
+    "b885dff6cfaec953eea2e0950f7622786322608b5453f31a23551d5b454ca5e2",
+    "a627f28a026f2b14d9653a048a48380775a56be79780f467bd793ebde42de6d5",
+    "063cc6a905e70101cf5fdd3b44966e9ede1019bff4f4b3f5f01612d74165e1aa",
+    "d424288c93cabac89ef2756a3fc4891fa8bb41e4f1f68266b290e9cd66b4753b",
+    "de04e569a4989b6d572830e8953d53c7aaa746b04a3ff77de192e336a178c1a0",
+    "2e67dfb7ba98aa2839541935fc31d345acf408357ed99236b232329aa1895d1f",
+    "73ee7aeafbdd3a39321fb8ab16377ad91e5958db4adbdbfbe55185485ce3a875",
+    "f3f9f27dc3e7f62a1c734440af38abb782f17862e9d16c6c8cffb70ea508a78f",
+    "aed8231c7ae72947692ef94046331fd0dbd5760c69c04aedca9c98988e6573e0",
+    "08f01eebad51c7a1b9a88a949c8d87e75527cee3ad7965ea50675a0716f4b849",
+    "ffa72692055e593e67b9c93205f24cab9428abba4cf8f4b8855db6b248434a62",
+    "978852f888519b3b7b61fac8989688e722ebf06cc429e8b0a06c6500bb143943",
+    "f05a3b413c6b9942fda427435ef4471c363d8ef196054794b934623ecc605518",
+    "8c1377eb80c3148faaf5356881fc204ad217338eb06b6d436fab3d668a335241",
+    "0d4fde0bf1eeb856654b92ddfc73bfa8d32bf4b81ae0a47713fdb0ed315a2631",
+    "4d1dd21c75c3fd25a97fc5c71f22ae14f0ca5c6fb76d15969282e840a037fb70",
+    "247ebf6a76e7f2667954acb0a0a5c4bd7646584ebd8197af5252d5c457b611b1",
+    "c50ce6a579894839ab5a2736c9128184dd0ef292c8267eda660df11bde6b0212",
+    "565526fd88986225339377a1d729fd16903bc35c861e29d5d147d7ccb0907889",
+    "d45246c2ee902382f9382d68878625f1ca7ad491d4d937379d4790a4f896eb78",
+    "180f3d7c5e95a200bf7d5f71197acc001b9786c390c79e8890c83eb73efae64c",
+    "0d70bf20b2b677ad55b96bf4da081bc7bdd49f21a5a32da95838e67fc260fac5",
+    "1c7a4065cccbd9b06db01cb4b7d02af631ee159a7574181c5d0f7096cfbebf0a",
+    "8f67f106110b9c082b606a85a1af4c6c1cb6f17bc793bf513ec9a8e1c77ad362",
+    "88f1c95ba2b03bd254b7075b2df7a636e4122f87ee4ca0122b70e019f3f8a336",
+    "a7ce62ce4a338f5c89a104cb10d2213ac45f1a5ebc5e4571883f325ef8a9b1b0",
+    "6f5b61f0018e9240887e938d6c7db34ebc3d81e19d4fe862412a4f8279fa6ade",
+    "f25666908cf60be38a9ec43ee5cb70f72abedd3e1a493433400c493a976652b7",
+    "bece3fbcb8036d7e2f98b9bf670eb85b3c3451c675b6f9b1f75dfb2f506ff683",
+    "03576f93c18f031fae79383e56e00617902bbfbedb06ddc8fea8a231a0df31c9",
+    "36a9a4c413eff87a5612e2764dda3d42db5b816d449496efd7b872faa0be16c0",
+    "52bef75b85f25b162e27b16cb1b8ff0a1ebecd15824f926fa3588f264b3fb44a",
+    "a1dbd9602d833171d5b12c24bc451b06d9f17b679d2c1a79a73b5383a832f4c2",
+    "5da6b20e497abb214f8b01dd3858335b21943bcf0f43b65c30b7a61796e61a8b",
+    "535ce158e37e4ec9989337651860d7534ea08f0bebab5c45f974b542d397a0cb",
+    "a47faaa4d1cf538007607dcbab9414779b33975f7c4761946eb4b37694cd912a",
+    "9f89762aafb0ef827f65965b7850f694c277f9853a5f720422a91265a66ac0bd",
+    "4a7541531008b42a4ee4acf8ebecfd74c9cc1378ac66d1e951d59bf863c58762",
+    "020b257138bf75886ad97d739b5478f9223df306aa253a8cf2b6b7e7c6dfa6a2",
+    "6050eba5a542793d9600fb99f6efb575f2b3a7b58caceb5cca530975d6393e52",
+    "f82da0fd8d897b0f05344f51af5d84140f95bd7da721473e7d32d21ea307bf52",
+    "136159754293f05a9df1520d9a61df157a557798b60be7d59481139b172e308d",
+    "b8a071b56ae157d257d7844964b4edd153f54185e0a46aea49e7d89c8dc05f5b"
+  ],
+  "contentFingerprint": "c142206d068345de97bf7caa5a6a38a720451e3e1b502345bbe22849f832f7a4"
+}

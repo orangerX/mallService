@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-02",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 02 · 成人学习与轮班生活",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 2,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the evening-study workshop",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the evening-study workshop at Harbour College.\nCoordinator: (1) _____\nVisitor: Monday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Please come to Room 204.",
+        "B": "Bring a notebook; we can provide a course headset.",
+        "C": "Contact Harbour College before the session so that we can offer your place to someone else.",
+        "D": "Which day would be convenient for you to attend?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the evening-study workshop\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please come to Room 204.",
+            "B": "Bring a notebook; we can provide a course headset.",
+            "C": "Contact Harbour College before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "b9d3f02ca1b342211ebce258ffa31a8565cd5bcafe50b31a57d1a896b608a4b8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the evening-study workshop\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please come to Room 204.",
+            "B": "Bring a notebook; we can provide a course headset.",
+            "C": "Contact Harbour College before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "529e3c78c6a5c856a0de497d921105e2b319e11e256d375c61543e645a1c7d03"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the evening-study workshop\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please come to Room 204.",
+            "B": "Bring a notebook; we can provide a course headset.",
+            "C": "Contact Harbour College before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0e0bf4dd4d1f22383dd7aef33097eb0801b30cff85e66a7d68b99decb280c3b6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the evening-study workshop\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Please come to Room 204.",
+            "B": "Bring a notebook; we can provide a course headset.",
+            "C": "Contact Harbour College before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "b1969e9e031885126763917fe8c7b220bc1151c6aed8326eb20f083b1c244bf5"
+        }
+      ],
+      "contentFingerprint": "188f054e6657540fdb462cd77b0ca3967164def6ed29ffaf784575bfdd804807"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Harbour College",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a course headset from Harbour College, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The microphone does not work. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the evening-study workshop?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Please leave it with us and complete a short fault report.",
+        "B": "You must purchase every item you use at the session.",
+        "C": "Could you describe the fault you noticed?",
+        "D": "Yes. You can collect a replacement from reception."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Harbour College\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can collect a replacement from reception."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e60bc7b9d58bbb1c72e4e5f368350f00d4492b3b841e5802f1d7c857dfada96b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Harbour College\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can collect a replacement from reception."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7a127eeccf35c9f4fc6ce87b79d0e0dc15365669afd980f53005fbd30ebc7f67"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Harbour College\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can collect a replacement from reception."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cf845c80da36d4b2086e3ba7ff8afbc77374bad0a3981ead6480d740f1a86d39"
+        }
+      ],
+      "contentFingerprint": "8b396a5bcab73317a6ae476099ec3524b0fa4750ff273cc0e8c174e05072e975"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Harbour College",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the evening-study workshop, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You should promise to solve every problem without asking anyone.",
+        "B": "You could welcome visitors at Room 204 while the other volunteers prepare.",
+        "C": "Use the current map of Harbour College and the list of rooms for the evening-study workshop.",
+        "D": "Ask the session coordinator to help; you do not have to guess."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Harbour College\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at Room 204 while the other volunteers prepare.",
+            "C": "Use the current map of Harbour College and the list of rooms for the evening-study workshop.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6a45d2f3f340e89bf8ea06551b188062ca0d0c2e05cf1ec7624c12a211f9c621"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Harbour College\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at Room 204 while the other volunteers prepare.",
+            "C": "Use the current map of Harbour College and the list of rooms for the evening-study workshop.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "27e8fdb10da0667f0adfb393bb732b71ca2f3434d64e7deaebaa964612c484ce"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Harbour College\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at Room 204 while the other volunteers prepare.",
+            "C": "Use the current map of Harbour College and the list of rooms for the evening-study workshop.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f1ec2fb078d3520478bb2070e8b65fca91fdf711f2ae33a1ff8590a59c9d3fb5"
+        }
+      ],
+      "contentFingerprint": "1f061a1ddb19220312752cf10d901c662c4167881da9e22418dee483ec87c886"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Studying between shifts",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Dale worked alternating early and late shifts while taking an evening accounting course. He first planned to study at the same hour every day, but his rota made that impossible. His tutor suggested choosing three short study periods after the rota arrived each week. Dale also wrote down one specific task for each period, such as explaining an example without notes. He missed fewer sessions, although progress remained slow during busy weeks. He no longer measured commitment by having an identical daily routine. The course still required effort; the new plan simply fitted the circumstances in which that effort was possible.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"Studying between shifts\"?",
+          "options": {
+            "A": "Making study plans fit working life",
+            "B": "Using recordings as part of active learning",
+            "C": "Making an informal learning space welcoming",
+            "D": "Turning selected mistakes into useful feedback"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Making study plans fit working life”展开：A consistent goal can be pursued through a flexible routine.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f38347173b99989a440b0de880e38ed623522da7e4686f45d6aec51128030466"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"Studying between shifts\", when did Dale choose his study periods?",
+          "options": {
+            "A": "Whenever a lecture was cancelled.",
+            "B": "After receiving his weekly work rota.",
+            "C": "At the same hour every day.",
+            "D": "Only after finishing the course."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 After receiving his weekly work rota.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6e0b0896de55d452a523c839bb40bcee8f3f8970b3a5b11c0a52f60fa0b78191"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"Studying between shifts\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "A consistent goal can be pursued through a flexible routine.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：A consistent goal can be pursued through a flexible routine.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "078b561a5df71f0850f1ba5da8c3ffca4c35eb1420b293fbac955169faf159c0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"Studying between shifts\", the word \"commitment\" is closest in meaning to _____.",
+          "options": {
+            "A": "replacement",
+            "B": "duty or requirement",
+            "C": "remove completely",
+            "D": "willingness to keep making an effort"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，commitment 的含义为 willingness to keep making an effort。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0da33cce48358a9d0c7abc46b610fc825e068b83fee45f3e32ba83ed1dfbdadf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"Studying between shifts\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "962092b42f99feea30e657e8e297e82ba1dec5519709067b70f4fa2732a7b34e"
+        }
+      ],
+      "contentFingerprint": "66c903a5a916e8353aeb99962562837604376e3c02c239a97c9cf46bff47e9a7"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Why the recording was not enough",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Harbour College recorded lectures for students who could not always attend. After several weeks, tutors noticed that some students watched a recording repeatedly but still struggled with related problems. One tutor inserted pauses with a question to answer before continuing. Students could compare their response with a later explanation. Many said the pauses revealed what they had not understood. The college did not require everyone to watch at one speed or one time. It treated the recording as a resource for active work rather than as a complete substitute for thinking through a problem.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Why the recording was not enough\"?",
+          "options": {
+            "A": "Turning selected mistakes into useful feedback",
+            "B": "Using recordings as part of active learning",
+            "C": "Making study plans fit working life",
+            "D": "Making an informal learning space welcoming"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Using recordings as part of active learning”展开：Repeated exposure alone may not reveal gaps in understanding.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "86c4ea1a80b189383d390d5bda60ac749222b27362386ac6b91b4a959548f213"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Why the recording was not enough\", what did the tutor add to the recordings?",
+          "options": {
+            "A": "A requirement to copy every sentence.",
+            "B": "A ban on pausing the video.",
+            "C": "Questions followed by time to attempt an answer.",
+            "D": "An automatic increase in playback speed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 Questions followed by time to attempt an answer.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "540078b9d384a023e24888f2385c3a1a80266108fbc335af8d6be4d3e247854b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Why the recording was not enough\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Repeated exposure alone may not reveal gaps in understanding."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Repeated exposure alone may not reveal gaps in understanding.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d5583390c2a4d34847e0fb6e4f5b11500a3a33b3a1b4a13c6c7f42089186fc4a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Why the recording was not enough\", the word \"substitute\" is closest in meaning to _____.",
+          "options": {
+            "A": "replacement",
+            "B": "willingness to keep making an effort",
+            "C": "duty or requirement",
+            "D": "remove completely"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，substitute 的含义为 replacement。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "18b1dd6baca7a72adf93f90249b56b583e139dd2a4d8c401192a40d42a9cf280"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Why the recording was not enough\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "44d64b8e9b97e47f016d46bd1f8e362346826dd9f3dfc5e01ffe60618f31a655"
+        }
+      ],
+      "contentFingerprint": "583ec56fb638af1c47d4518210f4b1a26a47724c1081deccfb110176942c51fe"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A quiet room at lunchtime",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A factory offered its meeting room to employees who wanted to read at lunch. The room was usually quiet, but a sign saying 'Study Room' discouraged workers who only wanted to practise a few words or read a manual. After a discussion, the sign was changed to 'Learning Break: All Welcome'. A volunteer also explained that attendance created no obligation to join a course. More employees began visiting. The room could still be booked for essential meetings, so the weekly availability was posted near the entrance. The experiment showed that an invitation could matter as much as a physical space.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A quiet room at lunchtime\"?",
+          "options": {
+            "A": "Using recordings as part of active learning",
+            "B": "Turning selected mistakes into useful feedback",
+            "C": "Making an informal learning space welcoming",
+            "D": "Making study plans fit working life"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Making an informal learning space welcoming”展开：People may avoid a useful resource when they feel it is not intended for them.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "e968c6e7f55c53bc093d2a36a644ca76bb2eee64196424bee779511b7fe5b348"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A quiet room at lunchtime\", why was the original sign changed?",
+          "options": {
+            "A": "The meeting room had permanently closed.",
+            "B": "Only managers were allowed inside.",
+            "C": "Readers were damaging the furniture.",
+            "D": "Some workers thought the room was only for formal study."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Some workers thought the room was only for formal study.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6bd3e0c0d21dcffa42badaccb5b5322380d341127a53fbda958a90f8b701b585"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A quiet room at lunchtime\"?",
+          "options": {
+            "A": "People may avoid a useful resource when they feel it is not intended for them.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：People may avoid a useful resource when they feel it is not intended for them.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f4618806cec24d17bcb03a725aee497a2bd098609d4c5f80195f2e76e9633f2a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A quiet room at lunchtime\", the word \"obligation\" is closest in meaning to _____.",
+          "options": {
+            "A": "remove completely",
+            "B": "duty or requirement",
+            "C": "willingness to keep making an effort",
+            "D": "replacement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，obligation 的含义为 duty or requirement。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "a135e80d6f36aa4cc07e5fff068eb0e9257931723857e6bac65a848705aa2858"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A quiet room at lunchtime\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6af18480b778d35f6967d3f5b2f08d18a175e4c08fdf9b3f9c70d8b7e90ad3a0"
+        }
+      ],
+      "contentFingerprint": "262f1598d952e0812cf0871df3b6a9859e20a8d58b8af792d6dd9f667e4eb95c"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The notebook of errors",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "When Mei returned to mathematics, she felt discouraged by the red marks on her exercises. A classmate suggested keeping an error notebook. For each difficult problem, Mei recorded the mistaken step, the reason it seemed reasonable, and a corrected example. She reviewed a few entries before starting new work. The notebook did not eliminate mistakes, and copying every incorrect answer would have taken too long. Mei selected errors that revealed a repeated misunderstanding. Over time she became better at noticing the point where her reasoning changed direction. Errors became information she could use rather than a simple count of failure.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The notebook of errors\"?",
+          "options": {
+            "A": "Making study plans fit working life",
+            "B": "Using recordings as part of active learning",
+            "C": "Making an informal learning space welcoming",
+            "D": "Turning selected mistakes into useful feedback"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Turning selected mistakes into useful feedback”展开：Examining the cause of a mistake can improve later reasoning.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b69d0e19ed9903c5a14d76eecaa7ed0bf016c1d24885412fd340b101ae938426"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The notebook of errors\", which errors did Mei select for her notebook?",
+          "options": {
+            "A": "Those that showed recurring misunderstandings.",
+            "B": "Every spelling mistake in his textbooks.",
+            "C": "Only errors made by classmates.",
+            "D": "Only questions he had already answered correctly."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Those that showed recurring misunderstandings.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5881f203a15f804d545d621b49d4ee6f4290b6f55f6aebe477cd1929f70230a8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The notebook of errors\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Examining the cause of a mistake can improve later reasoning.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Examining the cause of a mistake can improve later reasoning.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "09958f2eb32c9844c3ec4f9efce176967a0cc6ba510cb2dd562869bf7856e067"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The notebook of errors\", the word \"eliminate\" is closest in meaning to _____.",
+          "options": {
+            "A": "replacement",
+            "B": "duty or requirement",
+            "C": "remove completely",
+            "D": "willingness to keep making an effort"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，eliminate 的含义为 remove completely。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "3796c8fd1b4d6b9fd6d242851a1b7acacf0d20a3caa97eb318214e84e501a5c2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The notebook of errors\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "de3a5bc59e22d8483a333c937fb12f3668577725373b4b21b762912248b288b9"
+        }
+      ],
+      "contentFingerprint": "928c58eef2eeb5dc9e0da096920faa047436876f1eb3fec2b07d129cd0cd3a4c"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The organiser gave a brief _____ of what the evening-study workshop would cover.",
+      "options": {
+        "A": "sympathy",
+        "B": "summary",
+        "C": "salary",
+        "D": "surgery"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "summary 表示概述，用于介绍活动内容。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d91fd6cc6867c8b2e3277cb666108bd4f8e23e51a4a6ee8df4478fd3eaff019c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Because places at the evening-study workshop were limited, early booking was strongly _____.",
+      "options": {
+        "A": "removed",
+        "B": "repaired",
+        "C": "recommended",
+        "D": "recovered"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "recommend 表示建议；此处为被动结构 recommended。",
+      "knowledgePoints": [
+        "语境词义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2cdc6f12b821e48d913ad3ce0057689dffc9405076d0ef7d51cd059ee6263c4a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The guide at Harbour College answered each beginner's question with great _____.",
+      "options": {
+        "A": "pressure",
+        "B": "profit",
+        "C": "permission",
+        "D": "patience"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "with great patience 表示十分耐心地，与解答初学者问题相符。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0b4d21ad9ec09783e4e5b806ed797cfc47ece94830a90f471cb10517518b2e65"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The evening-study workshop offers a useful _____ to practise a skill under guidance.",
+      "options": {
+        "A": "opportunity",
+        "B": "obstacle",
+        "C": "objection",
+        "D": "opposition"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "opportunity to do 表示做某事的机会。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cc4726499ea00619a22729e77a39d0596995cddffdfbc9eb3c0dc86301328618"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Visitors to Harbour College should not _____ that every service is available without booking.",
+      "options": {
+        "A": "presume upon",
+        "B": "assume",
+        "C": "consume",
+        "D": "resume"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "assume 在此意为想当然地认为，后接 that 从句。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0eebf4ee988db4e6997540659893a1f7751533ee08d84b3eb5e42c093f03aca0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "A volunteer demonstrated how to _____ a course headset without damaging it.",
+      "options": {
+        "A": "harvest",
+        "B": "happen",
+        "C": "handle",
+        "D": "hesitate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "handle 表示操作、使用，符合设备使用语境。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4b10a264d82347eb974b086134b269a7787876cd26c86ea01ccc45852e67f793"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The session at Harbour College was divided into shorter parts to help learners _____.",
+      "options": {
+        "A": "celebrate",
+        "B": "calculate",
+        "C": "circulate",
+        "D": "concentrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "concentrate 表示集中注意力；较短环节有助于专注。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ee2a91dc80148577a9e4cf867c4f6dd924ed8c5aee50fb6fcd8eb0ba56c2d756"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organiser changed the room for the evening-study workshop in _____ to a request for easier access.",
+      "options": {
+        "A": "response",
+        "B": "respect",
+        "C": "return",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "930767d286a7fd4bc3e4ad0a2ccae735d6ab6f33a3d543c7218b731bb3b7c65f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "At Harbour College, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "recipe",
+        "B": "record",
+        "C": "reward",
+        "D": "retreat"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "83027c5ad8ffb8cf53566c715f632aca87ba32b1950c693d935d22f5669c92e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The assistant _____ the visitor that a replacement for a course headset would be available.",
+      "options": {
+        "A": "endured",
+        "B": "acquired",
+        "C": "assured",
+        "D": "insured"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "906d62f414827044c5f8ac89082b7926e9f46270b5fdbe6d5bc4c71239ddea75"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The person _____ lent me a course headset explained the return procedure clearly.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "先行词 person 为人且从句缺主语，用 who。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3e09148dc6550e9c7c6d5423b0f013d89eeeafb8950e9efe26b9e8dd0b6f9d98"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Not until the last visitor had left _____ the doors of Harbour College.",
+      "options": {
+        "A": "the caretaker locked",
+        "B": "had locked the caretaker",
+        "C": "the caretaker did lock",
+        "D": "did the caretaker lock"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "not until 置于句首时主句部分倒装，过去动作使用 did + 主语 + 动词原形。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7c87eaa8f4978c205d2875e51e247919dc962c78c8669d6582bdd359e81a7ace"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The evening-study workshop was _____ useful that several learners asked for a follow-up session.",
+      "options": {
+        "A": "so",
+        "B": "such",
+        "C": "too",
+        "D": "very"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "so + 形容词 + that 构成结果状语从句。",
+      "knowledgePoints": [
+        "结果状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8a100955a065b6b8f98a9bf4c5475de6b61c2aa36658024b1abe72a7ab54a036"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The manager at Harbour College suggested that the timetable _____ before publication.",
+      "options": {
+        "A": "has checked",
+        "B": "be checked",
+        "C": "is checked",
+        "D": "was checking"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "suggest 表建议时 that 从句用 should + 原形，should 可省略；此处为被动。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "723902b427e2c891cf4dc34bf8744c6bc1097d47f7f52f327ff4eb7a56d3b8d5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "There is no point in _____ to the evening-study workshop without first confirming your place.",
+      "options": {
+        "A": "to travel",
+        "B": "travelled",
+        "C": "travelling",
+        "D": "travel"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "There is no point in 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "14ed47c2776be69fde2c8b7d38fa07357393f7d5895b3e006eb6fb7663d9e81f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The assistant asked me where I _____ to use a course headset the following day.",
+      "options": {
+        "A": "intend",
+        "B": "will intend",
+        "C": "am intending",
+        "D": "intended"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去叙述中的间接问句使用陈述语序并保持过去时态。",
+      "knowledgePoints": [
+        "间接引语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a66205a6f8337fe111531f60b00544e52ec830861336978aeaa4e3f88ef6efe8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Each of the volunteers at Harbour College _____ a copy of the current safety notice.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are having",
+        "D": "were having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "728fde28862e0b1556ef0e3ed9bd5db6880be483c75fa02457518b08f59d2138"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "_____ the instructions carefully, the participant began the activity at the evening-study workshop.",
+      "options": {
+        "A": "Being read",
+        "B": "Having read",
+        "C": "To have read",
+        "D": "Read"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f3a1e0272c6a359e3bf91196f52af3fc767453189893134b60da72ea3563add8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The room at Harbour College is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "seat",
+        "B": "seated",
+        "C": "to seat",
+        "D": "seating"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7ac27eadafd07d778e799954fe116d46315e3df8daffe11e4d5412b1e6519158"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "I would have borrowed a course headset if I _____ that it was available last week.",
+      "options": {
+        "A": "know",
+        "B": "have known",
+        "C": "will know",
+        "D": "had known"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "67892e76bc897f1c49cdd1c101e6c22e738e3e30d2da9a7ccbad3fc8c87fd9b7"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nReturning to education does not mean starting life again. Adults bring useful experience to the classroom, even when they have forgotten some school knowledge. A flexible timetable can help them continue studying. Equally important is the confidence to ask questions without feeling embarrassed.",
+      "referenceAnswer": "重返校园并不意味着重新开始人生。成年人即使遗忘了一些学校知识，也能把有用的经验带进课堂。灵活的时间安排有助于他们坚持学习。同样重要的是，他们能够自信地提问，而不感到尴尬。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "1b297d8ccc026a8cf400fd500e9e9645ca4fd070caae0e5a0b15bd9bf50eb07c",
+      "referenceAnswerFingerprint": "12a6148931c64fa3e4d3e61a03594ea2d8301ea242d05b57b172b9814f7cfdf9"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite to an adult education tutor proposing a study group for shift workers. Describe scheduling difficulties and suggest two arrangements.",
+      "sampleAnswer": "Dear Tutor, Several members of our class work changing shifts, and we would like to form a study group. A fixed meeting every Tuesday would exclude some of us in alternate weeks. Could we arrange two short sessions covering the same topic, with each learner attending whichever fits their rota? We could share a brief written summary afterwards. I also suggest choosing a weekly practice task in advance, so that anyone who misses both sessions can still contribute a question or an answer. The group should support the course rather than create another heavy obligation. I would be happy to collect members' available times and prepare a first schedule. Yours sincerely, A class member",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "8cc60717db62856388909540572c89907197f198c8ba7c78d68e639a1989ffa5",
+      "sampleAnswerFingerprint": "afce320c598057f703d9620845ae1f0a20b68acabd20777a5e1a39536552b21a"
+    }
+  ],
+  "fingerprintManifest": [
+    "188f054e6657540fdb462cd77b0ca3967164def6ed29ffaf784575bfdd804807",
+    "b9d3f02ca1b342211ebce258ffa31a8565cd5bcafe50b31a57d1a896b608a4b8",
+    "529e3c78c6a5c856a0de497d921105e2b319e11e256d375c61543e645a1c7d03",
+    "0e0bf4dd4d1f22383dd7aef33097eb0801b30cff85e66a7d68b99decb280c3b6",
+    "b1969e9e031885126763917fe8c7b220bc1151c6aed8326eb20f083b1c244bf5",
+    "8b396a5bcab73317a6ae476099ec3524b0fa4750ff273cc0e8c174e05072e975",
+    "e60bc7b9d58bbb1c72e4e5f368350f00d4492b3b841e5802f1d7c857dfada96b",
+    "7a127eeccf35c9f4fc6ce87b79d0e0dc15365669afd980f53005fbd30ebc7f67",
+    "cf845c80da36d4b2086e3ba7ff8afbc77374bad0a3981ead6480d740f1a86d39",
+    "1f061a1ddb19220312752cf10d901c662c4167881da9e22418dee483ec87c886",
+    "6a45d2f3f340e89bf8ea06551b188062ca0d0c2e05cf1ec7624c12a211f9c621",
+    "27e8fdb10da0667f0adfb393bb732b71ca2f3434d64e7deaebaa964612c484ce",
+    "f1ec2fb078d3520478bb2070e8b65fca91fdf711f2ae33a1ff8590a59c9d3fb5",
+    "66c903a5a916e8353aeb99962562837604376e3c02c239a97c9cf46bff47e9a7",
+    "f38347173b99989a440b0de880e38ed623522da7e4686f45d6aec51128030466",
+    "6e0b0896de55d452a523c839bb40bcee8f3f8970b3a5b11c0a52f60fa0b78191",
+    "078b561a5df71f0850f1ba5da8c3ffca4c35eb1420b293fbac955169faf159c0",
+    "0da33cce48358a9d0c7abc46b610fc825e068b83fee45f3e32ba83ed1dfbdadf",
+    "962092b42f99feea30e657e8e297e82ba1dec5519709067b70f4fa2732a7b34e",
+    "583ec56fb638af1c47d4518210f4b1a26a47724c1081deccfb110176942c51fe",
+    "86c4ea1a80b189383d390d5bda60ac749222b27362386ac6b91b4a959548f213",
+    "540078b9d384a023e24888f2385c3a1a80266108fbc335af8d6be4d3e247854b",
+    "d5583390c2a4d34847e0fb6e4f5b11500a3a33b3a1b4a13c6c7f42089186fc4a",
+    "18b1dd6baca7a72adf93f90249b56b583e139dd2a4d8c401192a40d42a9cf280",
+    "44d64b8e9b97e47f016d46bd1f8e362346826dd9f3dfc5e01ffe60618f31a655",
+    "262f1598d952e0812cf0871df3b6a9859e20a8d58b8af792d6dd9f667e4eb95c",
+    "e968c6e7f55c53bc093d2a36a644ca76bb2eee64196424bee779511b7fe5b348",
+    "6bd3e0c0d21dcffa42badaccb5b5322380d341127a53fbda958a90f8b701b585",
+    "f4618806cec24d17bcb03a725aee497a2bd098609d4c5f80195f2e76e9633f2a",
+    "a135e80d6f36aa4cc07e5fff068eb0e9257931723857e6bac65a848705aa2858",
+    "6af18480b778d35f6967d3f5b2f08d18a175e4c08fdf9b3f9c70d8b7e90ad3a0",
+    "928c58eef2eeb5dc9e0da096920faa047436876f1eb3fec2b07d129cd0cd3a4c",
+    "b69d0e19ed9903c5a14d76eecaa7ed0bf016c1d24885412fd340b101ae938426",
+    "5881f203a15f804d545d621b49d4ee6f4290b6f55f6aebe477cd1929f70230a8",
+    "09958f2eb32c9844c3ec4f9efce176967a0cc6ba510cb2dd562869bf7856e067",
+    "3796c8fd1b4d6b9fd6d242851a1b7acacf0d20a3caa97eb318214e84e501a5c2",
+    "de3a5bc59e22d8483a333c937fb12f3668577725373b4b21b762912248b288b9",
+    "d91fd6cc6867c8b2e3277cb666108bd4f8e23e51a4a6ee8df4478fd3eaff019c",
+    "2cdc6f12b821e48d913ad3ce0057689dffc9405076d0ef7d51cd059ee6263c4a",
+    "0b4d21ad9ec09783e4e5b806ed797cfc47ece94830a90f471cb10517518b2e65",
+    "cc4726499ea00619a22729e77a39d0596995cddffdfbc9eb3c0dc86301328618",
+    "0eebf4ee988db4e6997540659893a1f7751533ee08d84b3eb5e42c093f03aca0",
+    "4b10a264d82347eb974b086134b269a7787876cd26c86ea01ccc45852e67f793",
+    "ee2a91dc80148577a9e4cf867c4f6dd924ed8c5aee50fb6fcd8eb0ba56c2d756",
+    "930767d286a7fd4bc3e4ad0a2ccae735d6ab6f33a3d543c7218b731bb3b7c65f",
+    "83027c5ad8ffb8cf53566c715f632aca87ba32b1950c693d935d22f5669c92e2",
+    "906d62f414827044c5f8ac89082b7926e9f46270b5fdbe6d5bc4c71239ddea75",
+    "3e09148dc6550e9c7c6d5423b0f013d89eeeafb8950e9efe26b9e8dd0b6f9d98",
+    "7c87eaa8f4978c205d2875e51e247919dc962c78c8669d6582bdd359e81a7ace",
+    "8a100955a065b6b8f98a9bf4c5475de6b61c2aa36658024b1abe72a7ab54a036",
+    "723902b427e2c891cf4dc34bf8744c6bc1097d47f7f52f327ff4eb7a56d3b8d5",
+    "14ed47c2776be69fde2c8b7d38fa07357393f7d5895b3e006eb6fb7663d9e81f",
+    "a66205a6f8337fe111531f60b00544e52ec830861336978aeaa4e3f88ef6efe8",
+    "728fde28862e0b1556ef0e3ed9bd5db6880be483c75fa02457518b08f59d2138",
+    "f3a1e0272c6a359e3bf91196f52af3fc767453189893134b60da72ea3563add8",
+    "7ac27eadafd07d778e799954fe116d46315e3df8daffe11e4d5412b1e6519158",
+    "67892e76bc897f1c49cdd1c101e6c22e738e3e30d2da9a7ccbad3fc8c87fd9b7",
+    "1b297d8ccc026a8cf400fd500e9e9645ca4fd070caae0e5a0b15bd9bf50eb07c",
+    "12a6148931c64fa3e4d3e61a03594ea2d8301ea242d05b57b172b9814f7cfdf9",
+    "8cc60717db62856388909540572c89907197f198c8ba7c78d68e639a1989ffa5",
+    "afce320c598057f703d9620845ae1f0a20b68acabd20777a5e1a39536552b21a"
+  ],
+  "contentFingerprint": "2f2174d638b9ea26019935e73ac11d88fe353e49550fd3770e55eb1f02742da2"
+}

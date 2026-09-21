@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-06",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 06 · 湿地观察与生态教育",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 6,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the wetland-walk briefing",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the wetland-walk briefing at Reed Marsh Centre.\nCoordinator: (1) _____\nVisitor: Sunday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Please come to the visitor shelter.",
+        "B": "Bring a notebook; we can provide a pair of binoculars.",
+        "C": "Contact Reed Marsh Centre before the session so that we can offer your place to someone else.",
+        "D": "Which day would be convenient for you to attend?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the wetland-walk briefing\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please come to the visitor shelter.",
+            "B": "Bring a notebook; we can provide a pair of binoculars.",
+            "C": "Contact Reed Marsh Centre before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4d6e108a23f896fae8bac5949895e5c871864c477e5d1f1c39ac080a21356574"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the wetland-walk briefing\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please come to the visitor shelter.",
+            "B": "Bring a notebook; we can provide a pair of binoculars.",
+            "C": "Contact Reed Marsh Centre before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b02c1ad7f779729a799ae3d97f6293b993d09589d02d42827a4b993a4315d21a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the wetland-walk briefing\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please come to the visitor shelter.",
+            "B": "Bring a notebook; we can provide a pair of binoculars.",
+            "C": "Contact Reed Marsh Centre before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "322019ce2f7b229c5637314cf9914c9e162908bcbc293c7410cb5f4d81105bb0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the wetland-walk briefing\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Please come to the visitor shelter.",
+            "B": "Bring a notebook; we can provide a pair of binoculars.",
+            "C": "Contact Reed Marsh Centre before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "89cb6a1c9bdf1d50091d4ef57512233c452b6b47d6b3e891b070b7513dfa49d2"
+        }
+      ],
+      "contentFingerprint": "a7504367e618714d1083d20b9fc044dcaba241f7aef1ac9d86c27b8b1e23005d"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Reed Marsh Centre",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a pair of binoculars from Reed Marsh Centre, but I think something is wrong.\nAssistant: (1) _____\nBorrower: One lens is badly scratched. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the wetland-walk briefing?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Please leave it with us and complete a short fault report.",
+        "B": "You must purchase every item you use at the session.",
+        "C": "Could you describe the fault you noticed?",
+        "D": "Yes. You can choose another pair from the padded case."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Reed Marsh Centre\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can choose another pair from the padded case."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1a7100213e090ab380cabadb61089bbb1ebc9d91744e000cc28b8c7777ebbc5e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Reed Marsh Centre\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can choose another pair from the padded case."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6c7da60e3e85a6d3969439598d9011561d21b5cb272568c1f6b1f7d765546af1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Reed Marsh Centre\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can choose another pair from the padded case."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "88443986dcf68a65ed9bd0ad870e0e1532668b14a5070ce404aa688822691ed8"
+        }
+      ],
+      "contentFingerprint": "e84513b2ded58235297166fbab85ca2e309bc8b3bd2749f668e0d3239a7bb380"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Reed Marsh Centre",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the wetland-walk briefing, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You should promise to solve every problem without asking anyone.",
+        "B": "You could welcome visitors at the visitor shelter while the other volunteers prepare.",
+        "C": "Use the current map of Reed Marsh Centre and the list of rooms for the wetland-walk briefing.",
+        "D": "Ask the session coordinator to help; you do not have to guess."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Reed Marsh Centre\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the visitor shelter while the other volunteers prepare.",
+            "C": "Use the current map of Reed Marsh Centre and the list of rooms for the wetland-walk briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8a0d377fc3ad3db8f3e252af78ffd5b290e817f82ed1ca0a4fd6bf63d94171bc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Reed Marsh Centre\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the visitor shelter while the other volunteers prepare.",
+            "C": "Use the current map of Reed Marsh Centre and the list of rooms for the wetland-walk briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6b6b2b699b56b55b2cf4516459f18245f7625383f261eca5dcd68e5373efff75"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Reed Marsh Centre\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the visitor shelter while the other volunteers prepare.",
+            "C": "Use the current map of Reed Marsh Centre and the list of rooms for the wetland-walk briefing.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "eff8ade09fcdb64a406bd2d13d112e50c6559c46a4f28cadc9435a418ff8d60b"
+        }
+      ],
+      "contentFingerprint": "65a0849ed09617d0036f2ac68832895bd89ba76e806257c0131e8537f578c8f2"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The boardwalk after sunrise",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "At Reed Marsh, photographers began leaving the boardwalk to get closer to nesting birds. Signs already asked visitors to stay on the path, but many said they could not see anything from it. Rangers installed a screened viewing point overlooking a frequently used feeding area. They also offered an early walk explaining why distance mattered during nesting. Reports of people entering the reeds declined. The reserve did not claim that a viewing point solved every disturbance problem. It continued recording visitor behaviour and closed a short section when birds nested unusually close to the walkway.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The boardwalk after sunrise\"?",
+          "options": {
+            "A": "Making wildlife observation compatible with protection",
+            "B": "Interpreting wildlife counts with appropriate context",
+            "C": "Replacing a harmful habit with observation",
+            "D": "Balancing access with the functions of vegetation"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Making wildlife observation compatible with protection”展开：Protective rules may work better when visitors have a suitable alternative.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6a3dea69f48852fabafa1dcf389ad0bdc731506075d3d16c2e7c910c466ea677"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The boardwalk after sunrise\", what did rangers add to improve viewing from the path?",
+          "options": {
+            "A": "A louder announcement system near the birds.",
+            "B": "A screened observation point.",
+            "C": "A feeding platform inside the nesting area.",
+            "D": "A rule permitting everyone to enter the reeds."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 A screened observation point.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6454553035544c10353e357d98701ea301760b4f09b64b881210ae2fd5a30c13"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The boardwalk after sunrise\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Protective rules may work better when visitors have a suitable alternative.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Protective rules may work better when visitors have a suitable alternative.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1b5334e4498900e52de7df27c36c886dd64105a669645a382b4ce6f26d9c095d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The boardwalk after sunrise\", the word \"disturbance\" is closest in meaning to _____.",
+          "options": {
+            "A": "how clearly and far one can see",
+            "B": "build up over time",
+            "C": "blocked or made movement difficult",
+            "D": "interference that interrupts normal activity"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，disturbance 的含义为 interference that interrupts normal activity。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "fc42f3451ccac0b27000c0462506b3f770de5328b08180462118212fd61484d6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The boardwalk after sunrise\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "66b4f5a79ae501f0572bbccc6ee22f5589c6a7400140475638b3dd742909bbb6"
+        }
+      ],
+      "contentFingerprint": "352913000af3a457e0fabbda4fe662b739b214d997b581d87f90db08aed2ea3f"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Counting what is easy to see",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A volunteer counted waterbirds from the same bench each Sunday. When the total fell during a foggy week, she worried that birds were leaving the marsh. Her coordinator asked her to record visibility as well as numbers. Later comparisons showed that fewer birds were usually recorded when distant water was hidden, even if nearby groups were similar in size. The volunteer kept the low counts instead of removing them, but attached notes about conditions. A record of what could be observed was more honest than treating every count as an exact measure of the entire population.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Counting what is easy to see\"?",
+          "options": {
+            "A": "Balancing access with the functions of vegetation",
+            "B": "Interpreting wildlife counts with appropriate context",
+            "C": "Making wildlife observation compatible with protection",
+            "D": "Replacing a harmful habit with observation"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Interpreting wildlife counts with appropriate context”展开：Changes in recorded numbers can reflect observation conditions.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "7c3df055f1fc668671b0e1c743d0fb72ac3a8d8ec757220525e16cc2f7b654d7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Counting what is easy to see\", what extra information did the coordinator request?",
+          "options": {
+            "A": "The price of the observer's binoculars.",
+            "B": "A list of birds seen in a different country.",
+            "C": "A record of visibility.",
+            "D": "A record of each visitor's age."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 A record of visibility.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "92d3e41321ef386fbcf5135690a567070a3abaf080d149d20461d097397d64a1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Counting what is easy to see\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Changes in recorded numbers can reflect observation conditions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Changes in recorded numbers can reflect observation conditions.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9c8d07670d9e756bd3e8328ad2020ba682014857015d61ee21c61999e0c54892"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Counting what is easy to see\", the word \"visibility\" is closest in meaning to _____.",
+          "options": {
+            "A": "how clearly and far one can see",
+            "B": "interference that interrupts normal activity",
+            "C": "build up over time",
+            "D": "blocked or made movement difficult"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，visibility 的含义为 how clearly and far one can see。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "683ac80e2c8c6cfbf50d5beec351b29cd56db7b948b2cfadc466f896bda49e3f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Counting what is easy to see\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "3d8fe20a9726916351f999212001e7907448dc677c2a0a0c861cc9508d14bb64"
+        }
+      ],
+      "contentFingerprint": "7d108ad5a55b5726200a9f6920a62cf042432ebb55f8556e8af0187db145969b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A pond without a feeding station",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Visitors to a town pond enjoyed feeding ducks, and some assumed more food always meant healthier birds. A park worker explained that unsuitable food could accumulate and affect water quality. The park introduced a short display showing natural feeding behaviour and placed benches where people could watch it. It asked visitors to leave feeding to the birds themselves. Some families missed their old routine, so staff offered a simple observation sheet for children. The aim was to preserve an enjoyable visit while replacing an activity that created problems. The new activity required patience rather than a bag of food.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A pond without a feeding station\"?",
+          "options": {
+            "A": "Interpreting wildlife counts with appropriate context",
+            "B": "Balancing access with the functions of vegetation",
+            "C": "Replacing a harmful habit with observation",
+            "D": "Making wildlife observation compatible with protection"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Replacing a harmful habit with observation”展开：An enjoyable tradition may need adjustment when its effects become clearer.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "0d01cd08be253e21d11877147a0bd83c4d36c9eec5dd80bb1ec66e0ca9769ee5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A pond without a feeding station\", what activity was suggested for children?",
+          "options": {
+            "A": "Throwing larger amounts of bread.",
+            "B": "Collecting birds' eggs.",
+            "C": "Walking into the nesting area.",
+            "D": "Observing and recording natural behaviour."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Observing and recording natural behaviour.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "317c053feb057ff80e77576f63ebf3eb42db5b29e4a468534a532c4265e551bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A pond without a feeding station\"?",
+          "options": {
+            "A": "An enjoyable tradition may need adjustment when its effects become clearer.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：An enjoyable tradition may need adjustment when its effects become clearer.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3aeb30e804535ebeb788fa22dd3d547d4cdf342cda6977b033a1e6f54be7c078"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A pond without a feeding station\", the word \"accumulate\" is closest in meaning to _____.",
+          "options": {
+            "A": "blocked or made movement difficult",
+            "B": "build up over time",
+            "C": "interference that interrupts normal activity",
+            "D": "how clearly and far one can see"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，accumulate 的含义为 build up over time。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2cc3ab3b76f97b083efbc5ace727959ea9dc8b80d297aa1092858f73cfe1e088"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A pond without a feeding station\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "3d718e00847c03defa573fea1c3d2e21901909dbc2a0137a2ff6f32c274b3ce3"
+        }
+      ],
+      "contentFingerprint": "fe20175994d843cc82a9c8776a14bcc8f4c6c4733e0ea4cf0f816d01cb45e64e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The quiet value of reeds",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "When a lakeside path flooded, a resident suggested removing all the reeds to make the bank look tidier. A local guide explained that the reeds provided shelter and helped slow water near the shore. Clearing them would not necessarily solve the problem that had blocked the path's drain. The maintenance team repaired the drain and cut vegetation only where it obstructed access. A display later explained the separate decisions. The bank still looked less neat than a lawn, but visitors could understand why some rough-looking areas were being kept. Appearance was only one consideration in managing the shore.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The quiet value of reeds\"?",
+          "options": {
+            "A": "Making wildlife observation compatible with protection",
+            "B": "Interpreting wildlife counts with appropriate context",
+            "C": "Replacing a harmful habit with observation",
+            "D": "Balancing access with the functions of vegetation"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Balancing access with the functions of vegetation”展开：A tidy appearance is not a complete measure of ecological value.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "4bd8a35ad8ba9b5158280923ad591e440ec74718e81833886169bd20b96d48a3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The quiet value of reeds\", what did the maintenance team repair?",
+          "options": {
+            "A": "The blocked drain affecting the path.",
+            "B": "Every reed bed along the bank.",
+            "C": "A new lawn on the entire shore.",
+            "D": "All boats used by local visitors."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The blocked drain affecting the path.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "1472e4f57addd5e95017becc2b19ad795582372b70ebbb9767588689c3718353"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The quiet value of reeds\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A tidy appearance is not a complete measure of ecological value.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A tidy appearance is not a complete measure of ecological value.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "246f50e701a3718c0bafb9bd40f5c7156816fda7f3ce5761188a9973a9831262"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The quiet value of reeds\", the word \"obstructed\" is closest in meaning to _____.",
+          "options": {
+            "A": "how clearly and far one can see",
+            "B": "build up over time",
+            "C": "blocked or made movement difficult",
+            "D": "interference that interrupts normal activity"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，obstructed 的含义为 blocked or made movement difficult。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "3a337ac60d9a0261305e016d5bdc64e5407c6fc0bc5d68f1497fa478d1b0f6e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The quiet value of reeds\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "53668bcd90f23b6ee916340f7ece08bf08bdb864c967619c4d7667c7b41b0f21"
+        }
+      ],
+      "contentFingerprint": "72f4e7d217d2b033ea0972201d32679e1fe88d90b83bc8bbb6e04e15b18ad20f"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The organiser at Reed Marsh Centre asked for _____ examples rather than general complaints.",
+      "options": {
+        "A": "similar",
+        "B": "specific",
+        "C": "sensitive",
+        "D": "separate"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "specific 表示具体的，与 general 构成对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3f7926dca654813ae242548f51765cac917f38a36644d585ea534b662f04db97"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A visible crack in a pair of binoculars should never be _____ simply because the item still seems to work.",
+      "options": {
+        "A": "imagined",
+        "B": "improved",
+        "C": "ignored",
+        "D": "included"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "ignored 表示被忽视；裂痕是不能忽视的故障迹象。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4671ba477cf7bfa8c553769491f85060d70c327872824d99de875f06a4208e5d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The wetland-walk briefing was designed to _____ beginners to take the first practical step.",
+      "options": {
+        "A": "encounter",
+        "B": "enclose",
+        "C": "endanger",
+        "D": "encourage"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "encourage somebody to do 表示鼓励某人做某事。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1032b818659408c5000d567b4e28e49efdc30da06573672e28cd79a899548484"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The updated notice at Reed Marsh Centre is more _____ because it gives exact times and contact details.",
+      "options": {
+        "A": "informative",
+        "B": "informal",
+        "C": "invisible",
+        "D": "impatient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "informative 表示提供有用信息的，具体时间和联系信息体现这一点。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d004071b1da8638912e80cebe8214a1367877a30ee4e243adfb3c9a81da15737"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The instructor said that learning at the wetland-walk briefing would be a _____ process rather than an instant change.",
+      "options": {
+        "A": "guilty",
+        "B": "gradual",
+        "C": "grateful",
+        "D": "grand"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "gradual 表示逐步的，与 instant change 对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "82dd471f57fe898aae712e2ed38b76a55d7cd41a332b06113b64480bb46a183f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organisers at Reed Marsh Centre agreed to _____ the session until the damaged equipment was replaced.",
+      "options": {
+        "A": "preserve",
+        "B": "purchase",
+        "C": "postpone",
+        "D": "predict"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "postpone 表示推迟；因设备损坏而延后活动。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "45a8ec9ff26af3d3f3583e302a50e48553aa2114b241257fbc781067b61ebf93"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Clear instructions made the wetland-walk briefing _____ to people with little previous experience.",
+      "options": {
+        "A": "accidental",
+        "B": "anxious",
+        "C": "absent",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible 表示易于使用或理解，符合缺乏经验者也能参与的语境。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1c1ebd17d33860db387a5b354d421a507683a5c0065ffc04cc70d3c4ec828d43"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Before lending out a pair of binoculars, the assistant checked its _____ carefully.",
+      "options": {
+        "A": "condition",
+        "B": "conclusion",
+        "C": "competition",
+        "D": "construction"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "condition 在此指物品的状况。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2bb27c0372aea8c0728e54f593b30919dd33b13945653ca3c5018eebf4203df9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The team at Reed Marsh Centre must take the cost of maintenance into _____ when buying equipment.",
+      "options": {
+        "A": "action",
+        "B": "account",
+        "C": "effect",
+        "D": "place"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "take ... into account 是把……考虑在内。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "babb38d24207ebbe8ad1ac00e39230852e242363ebc672c28fe0b1f032ad586b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "One suggestion from a visitor led to a _____ improvement in the wetland-walk briefing.",
+      "options": {
+        "A": "reluctant",
+        "B": "irrelevant",
+        "C": "significant",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "significant 表示显著的，修饰 improvement。",
+      "knowledgePoints": [
+        "语义搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e09ee2e05bf426dce186fbf8a9101fc476eae8f39032970d642c9872bf369cdb"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The tutor encouraged the learners at the wetland-walk briefing _____ questions freely.",
+      "options": {
+        "A": "ask",
+        "B": "asked",
+        "C": "to ask",
+        "D": "asking"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "encourage somebody to do 为固定结构。",
+      "knowledgePoints": [
+        "不定式宾补"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2ead6657fd0d7d69a501acef5dcd2daad42942e34d36974539bd812668fc3e37"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The return desk at Reed Marsh Centre, along with the storage room, _____ closed on Sundays.",
+      "options": {
+        "A": "are",
+        "B": "have been",
+        "C": "were",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "along with 不改变主语 return desk 的单数属性。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "98bcf521961a42796b52f24815d90062acc1296a8a98982c3546e6cccd780e44"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If a pair of binoculars is damaged, do not try to repair it _____ you have the appropriate skills.",
+      "options": {
+        "A": "unless",
+        "B": "if",
+        "C": "because",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "unless 表示除非，与主句否定构成条件限制。",
+      "knowledgePoints": [
+        "条件连词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7352bb4b96b61f524d7477d37f5bb8d5480ee1e25b63223888b05a9b1a86e450"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The more carefully participants prepare for the wetland-walk briefing, _____ they are likely to learn.",
+      "options": {
+        "A": "the most",
+        "B": "the more",
+        "C": "more",
+        "D": "most"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the + 比较级..., the + 比较级... 表示越……越……。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9c9f10469f517ca3bafca8af940d5c0697301187a7a35fc2492f505ccb1d30b1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The volunteers at Reed Marsh Centre would rather _____ the schedule now than change it during the session.",
+      "options": {
+        "A": "discussing",
+        "B": "discussed",
+        "C": "discuss",
+        "D": "to discuss"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "would rather do...than do... 两边均用动词原形。",
+      "knowledgePoints": [
+        "固定句式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c11eb36b1a0f2ad10abafda22d1242a6b89c04d68663cc0d80d13c1328f26dce"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If the staff at Reed Marsh Centre _____ earlier, the visitors would not have waited outside yesterday.",
+      "options": {
+        "A": "arrive",
+        "B": "have arrived",
+        "C": "will arrive",
+        "D": "had arrived"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件句：if 从句用 had done，主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "727566e33350c647828ce1b16e751a5d9c7e2aaa3ee8c6d0db3b9cdca06421a3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The leaflet for the wetland-walk briefing, _____ was revised last week, now includes a clear map.",
+      "options": {
+        "A": "which",
+        "B": "what",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制性定语从句指代 leaflet，关系代词用 which。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ad09f3b0ef3570805ef282c78b3efd9d39257b3504fe9de13f32b2f4efc83460"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither the organiser nor the assistants at Reed Marsh Centre _____ available at the moment.",
+      "options": {
+        "A": "be",
+        "B": "are",
+        "C": "is",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither...nor 的谓语与较近的复数 assistants 一致；at the moment 用现在时。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8ed95dadf9f28a8ccbcacbc15c6a9b7875b9a19dac9160464bbca9d1590c3dcd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Please avoid _____ a pair of binoculars near the edge of the table.",
+      "options": {
+        "A": "place",
+        "B": "placed",
+        "C": "placing",
+        "D": "to place"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "avoid 后接动名词作宾语。",
+      "knowledgePoints": [
+        "非谓语动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0049aee8b365d0ae48e596214c420f3e6cc32f629d1eb518b18750ebfe4b3869"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "By the time the wetland-walk briefing began, all the chairs _____ in position.",
+      "options": {
+        "A": "have placed",
+        "B": "are placing",
+        "C": "will place",
+        "D": "had been placed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去开始之前已完成且 chairs 是动作承受者，用过去完成时被动。",
+      "knowledgePoints": [
+        "时态与被动语态"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fdbe55d9eb84abdcbde889a81135a358939c24619b31982f5b0806b3a717d12f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nA path through a wetland allows visitors to enjoy a place without walking over sensitive ground. Its value depends on how it is used. Quiet observation may reveal more wildlife than a hurried visit. Protecting nature sometimes requires us to change our behaviour rather than build something new.",
+      "referenceAnswer": "穿过湿地的小径让游客不必踩踏脆弱的地面就能欣赏当地景色。它的价值取决于人们如何使用它。安静观察可能比匆忙游览发现更多野生动物。保护自然有时需要我们改变行为，而不是修建新的设施。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "ed9e66ce4145473aae2ebbad96e73be8b43e8ba74389efe35e0ef2e9bb9c70c0",
+      "referenceAnswerFingerprint": "41b913f0dfbfdc59568b0d8ee96a3dfb410c065c347c86e86fcef460cd9c3749"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss how a nature reserve can welcome visitors while protecting wildlife. Propose two visitor rules and explain their purpose.",
+      "sampleAnswer": "A nature reserve should welcome visitors in ways that protect the place they have come to enjoy. First, visitors should remain on marked paths, especially near nesting areas. This reduces damage to sensitive ground and keeps people at a reasonable distance from wildlife. Second, the reserve should ask visitors to observe quietly and avoid feeding animals. Signs should explain the reasons behind both rules. A sheltered viewing point and a short guided walk would provide enjoyable alternatives to approaching birds closely. Rangers could record where disturbance continues and adjust access when necessary. Protection is more likely to succeed when people understand what is at risk and can still have a rewarding visit within clear boundaries.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "9e97c9bf744f7b53e52ff25d65623b6544dbc644e5dbe853caa5a07e8be8032d",
+      "sampleAnswerFingerprint": "67de8a1d0947aeeba4ec92585567f96dea179b4086d7d58745fbeff8279fe58e"
+    }
+  ],
+  "fingerprintManifest": [
+    "a7504367e618714d1083d20b9fc044dcaba241f7aef1ac9d86c27b8b1e23005d",
+    "4d6e108a23f896fae8bac5949895e5c871864c477e5d1f1c39ac080a21356574",
+    "b02c1ad7f779729a799ae3d97f6293b993d09589d02d42827a4b993a4315d21a",
+    "322019ce2f7b229c5637314cf9914c9e162908bcbc293c7410cb5f4d81105bb0",
+    "89cb6a1c9bdf1d50091d4ef57512233c452b6b47d6b3e891b070b7513dfa49d2",
+    "e84513b2ded58235297166fbab85ca2e309bc8b3bd2749f668e0d3239a7bb380",
+    "1a7100213e090ab380cabadb61089bbb1ebc9d91744e000cc28b8c7777ebbc5e",
+    "6c7da60e3e85a6d3969439598d9011561d21b5cb272568c1f6b1f7d765546af1",
+    "88443986dcf68a65ed9bd0ad870e0e1532668b14a5070ce404aa688822691ed8",
+    "65a0849ed09617d0036f2ac68832895bd89ba76e806257c0131e8537f578c8f2",
+    "8a0d377fc3ad3db8f3e252af78ffd5b290e817f82ed1ca0a4fd6bf63d94171bc",
+    "6b6b2b699b56b55b2cf4516459f18245f7625383f261eca5dcd68e5373efff75",
+    "eff8ade09fcdb64a406bd2d13d112e50c6559c46a4f28cadc9435a418ff8d60b",
+    "352913000af3a457e0fabbda4fe662b739b214d997b581d87f90db08aed2ea3f",
+    "6a3dea69f48852fabafa1dcf389ad0bdc731506075d3d16c2e7c910c466ea677",
+    "6454553035544c10353e357d98701ea301760b4f09b64b881210ae2fd5a30c13",
+    "1b5334e4498900e52de7df27c36c886dd64105a669645a382b4ce6f26d9c095d",
+    "fc42f3451ccac0b27000c0462506b3f770de5328b08180462118212fd61484d6",
+    "66b4f5a79ae501f0572bbccc6ee22f5589c6a7400140475638b3dd742909bbb6",
+    "7d108ad5a55b5726200a9f6920a62cf042432ebb55f8556e8af0187db145969b",
+    "7c3df055f1fc668671b0e1c743d0fb72ac3a8d8ec757220525e16cc2f7b654d7",
+    "92d3e41321ef386fbcf5135690a567070a3abaf080d149d20461d097397d64a1",
+    "9c8d07670d9e756bd3e8328ad2020ba682014857015d61ee21c61999e0c54892",
+    "683ac80e2c8c6cfbf50d5beec351b29cd56db7b948b2cfadc466f896bda49e3f",
+    "3d8fe20a9726916351f999212001e7907448dc677c2a0a0c861cc9508d14bb64",
+    "fe20175994d843cc82a9c8776a14bcc8f4c6c4733e0ea4cf0f816d01cb45e64e",
+    "0d01cd08be253e21d11877147a0bd83c4d36c9eec5dd80bb1ec66e0ca9769ee5",
+    "317c053feb057ff80e77576f63ebf3eb42db5b29e4a468534a532c4265e551bd",
+    "3aeb30e804535ebeb788fa22dd3d547d4cdf342cda6977b033a1e6f54be7c078",
+    "2cc3ab3b76f97b083efbc5ace727959ea9dc8b80d297aa1092858f73cfe1e088",
+    "3d718e00847c03defa573fea1c3d2e21901909dbc2a0137a2ff6f32c274b3ce3",
+    "72f4e7d217d2b033ea0972201d32679e1fe88d90b83bc8bbb6e04e15b18ad20f",
+    "4bd8a35ad8ba9b5158280923ad591e440ec74718e81833886169bd20b96d48a3",
+    "1472e4f57addd5e95017becc2b19ad795582372b70ebbb9767588689c3718353",
+    "246f50e701a3718c0bafb9bd40f5c7156816fda7f3ce5761188a9973a9831262",
+    "3a337ac60d9a0261305e016d5bdc64e5407c6fc0bc5d68f1497fa478d1b0f6e2",
+    "53668bcd90f23b6ee916340f7ece08bf08bdb864c967619c4d7667c7b41b0f21",
+    "3f7926dca654813ae242548f51765cac917f38a36644d585ea534b662f04db97",
+    "4671ba477cf7bfa8c553769491f85060d70c327872824d99de875f06a4208e5d",
+    "1032b818659408c5000d567b4e28e49efdc30da06573672e28cd79a899548484",
+    "d004071b1da8638912e80cebe8214a1367877a30ee4e243adfb3c9a81da15737",
+    "82dd471f57fe898aae712e2ed38b76a55d7cd41a332b06113b64480bb46a183f",
+    "45a8ec9ff26af3d3f3583e302a50e48553aa2114b241257fbc781067b61ebf93",
+    "1c1ebd17d33860db387a5b354d421a507683a5c0065ffc04cc70d3c4ec828d43",
+    "2bb27c0372aea8c0728e54f593b30919dd33b13945653ca3c5018eebf4203df9",
+    "babb38d24207ebbe8ad1ac00e39230852e242363ebc672c28fe0b1f032ad586b",
+    "e09ee2e05bf426dce186fbf8a9101fc476eae8f39032970d642c9872bf369cdb",
+    "2ead6657fd0d7d69a501acef5dcd2daad42942e34d36974539bd812668fc3e37",
+    "98bcf521961a42796b52f24815d90062acc1296a8a98982c3546e6cccd780e44",
+    "7352bb4b96b61f524d7477d37f5bb8d5480ee1e25b63223888b05a9b1a86e450",
+    "9c9f10469f517ca3bafca8af940d5c0697301187a7a35fc2492f505ccb1d30b1",
+    "c11eb36b1a0f2ad10abafda22d1242a6b89c04d68663cc0d80d13c1328f26dce",
+    "727566e33350c647828ce1b16e751a5d9c7e2aaa3ee8c6d0db3b9cdca06421a3",
+    "ad09f3b0ef3570805ef282c78b3efd9d39257b3504fe9de13f32b2f4efc83460",
+    "8ed95dadf9f28a8ccbcacbc15c6a9b7875b9a19dac9160464bbca9d1590c3dcd",
+    "0049aee8b365d0ae48e596214c420f3e6cc32f629d1eb518b18750ebfe4b3869",
+    "fdbe55d9eb84abdcbde889a81135a358939c24619b31982f5b0806b3a717d12f",
+    "ed9e66ce4145473aae2ebbad96e73be8b43e8ba74389efe35e0ef2e9bb9c70c0",
+    "41b913f0dfbfdc59568b0d8ee96a3dfb410c065c347c86e86fcef460cd9c3749",
+    "9e97c9bf744f7b53e52ff25d65623b6544dbc644e5dbe853caa5a07e8be8032d",
+    "67de8a1d0947aeeba4ec92585567f96dea179b4086d7d58745fbeff8279fe58e"
+  ],
+  "contentFingerprint": "38f6d07762965c32ae4b6f5b47fffbe35e9631366fc306b03eee526f4788b835"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-11",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 11 · 城市种植与邻里协作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 11,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the balcony-growing class",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the balcony-growing class at Hilltop Garden.\nCoordinator: (1) _____\nVisitor: Saturday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Bring a notebook; we can provide a soil-moisture meter.",
+        "B": "Contact Hilltop Garden before the session so that we can offer your place to someone else.",
+        "C": "Which day would be convenient for you to attend?",
+        "D": "Please come to the glasshouse classroom."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the balcony-growing class\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Bring a notebook; we can provide a soil-moisture meter.",
+            "B": "Contact Hilltop Garden before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the glasshouse classroom."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3eeb06f722bf5b8c12342b52d90fcb3e9a6c943d1c1dde5a438881b6a76c3af7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the balcony-growing class\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Bring a notebook; we can provide a soil-moisture meter.",
+            "B": "Contact Hilltop Garden before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the glasshouse classroom."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1fef709c72be6e6c8d1d7941972ca6fcd2727841dc291e17a813b8e06cb11268"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the balcony-growing class\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Bring a notebook; we can provide a soil-moisture meter.",
+            "B": "Contact Hilltop Garden before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the glasshouse classroom."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7d67a0730fdd12920b45087a48e3674becf3925ccdc3cf7e2e2203b71b7b5a83"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the balcony-growing class\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Bring a notebook; we can provide a soil-moisture meter.",
+            "B": "Contact Hilltop Garden before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the glasshouse classroom."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bd81446f7a03988126d72233f5da060793b0dd9a1efe604b7cab604821913fda"
+        }
+      ],
+      "contentFingerprint": "b1c779af20669d2fcf8c9cb736d64e26e19e8cbd37bc73b92d8a19d88b0ab8e2"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Hilltop Garden",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a soil-moisture meter from Hilltop Garden, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The probe is bent. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the balcony-growing class?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "You must purchase every item you use at the session.",
+        "B": "Could you describe the fault you noticed?",
+        "C": "Yes. You can take the meter in the yellow box.",
+        "D": "Please leave it with us and complete a short fault report."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Hilltop Garden\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can take the meter in the yellow box.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "6acc05ae595ae122742d1e8599de5c478358e59ee33edded4adc98c07c1f1287"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Hilltop Garden\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can take the meter in the yellow box.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8334f2bdbdb0dd6bf26f321908bf581671970bed080e273942a37c265aa564ab"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Hilltop Garden\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can take the meter in the yellow box.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "efe2f372df2827b06a89b051d57322ff44ba366d856e20b63f9c0bea84c677c3"
+        }
+      ],
+      "contentFingerprint": "3f6d03fa2ecf75df494e6937a217447e5a4f5fb1b175f9cbd0b3ea16960d7e6c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Hilltop Garden",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the balcony-growing class, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You could welcome visitors at the glasshouse classroom while the other volunteers prepare.",
+        "B": "Use the current map of Hilltop Garden and the list of rooms for the balcony-growing class.",
+        "C": "Ask the session coordinator to help; you do not have to guess.",
+        "D": "You should promise to solve every problem without asking anyone."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Hilltop Garden\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You could welcome visitors at the glasshouse classroom while the other volunteers prepare.",
+            "B": "Use the current map of Hilltop Garden and the list of rooms for the balcony-growing class.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0d702adf19cc3b3cbae0822c6117c8e8787c32e312241d3d5752f7753a0c87f0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Hilltop Garden\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You could welcome visitors at the glasshouse classroom while the other volunteers prepare.",
+            "B": "Use the current map of Hilltop Garden and the list of rooms for the balcony-growing class.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7959677098aaae6ba2f45642acfa6057d4335f517d3516e5f521f90dba392445"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Hilltop Garden\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You could welcome visitors at the glasshouse classroom while the other volunteers prepare.",
+            "B": "Use the current map of Hilltop Garden and the list of rooms for the balcony-growing class.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "28539270bb0e65198e79bf5f8b85ab00aa799845e32d4242a179625f657d05a1"
+        }
+      ],
+      "contentFingerprint": "437d0cf12343d181b02bf9b82d42027d095403e895f97ab7e095216b206be6fa"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The garden rota with empty spaces",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Hilltop Garden asked each member to sign up for a weekly watering duty. The first rota assumed that everyone could visit on a fixed weekday. Several members with changing work hours missed turns and felt unwelcome. The group introduced paired duties and a board on which members could exchange times. It also provided seated tasks such as sorting seeds. Plants received more regular attention, while members contributed in different ways. Equal membership did not require identical physical work. The group still recorded tasks so that flexibility did not leave essential jobs invisible.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The garden rota with empty spaces\"?",
+          "options": {
+            "A": "Planning a small garden responsibly",
+            "B": "Sharing garden work through flexible arrangements",
+            "C": "Asking careful questions about plant growth",
+            "D": "Agreeing how to share a community harvest"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Sharing garden work through flexible arrangements”展开：Fair participation can involve different forms of contribution.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "87ee565b5823365c7b76a6e76c5ec6a04a85a27a1018b410ffced0305807e1b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The garden rota with empty spaces\", how did the group make watering duties more flexible?",
+          "options": {
+            "A": "It removed all records of duties.",
+            "B": "It limited membership to people without jobs.",
+            "C": "It paired members and allowed exchanges of times.",
+            "D": "It required identical attendance from everybody."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 It paired members and allowed exchanges of times.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "82c93524adf92edafc339588b8c1f1afcafba31448f7324605d7c7bcd424e4b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The garden rota with empty spaces\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Fair participation can involve different forms of contribution."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Fair participation can involve different forms of contribution.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "5a3f6a5077cea1929b3132fffffe4e490c74bf6e43b5d42e1013866727934b98"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The garden rota with empty spaces\", the word \"identical\" is closest in meaning to _____.",
+          "options": {
+            "A": "exactly the same",
+            "B": "separate from other influences",
+            "C": "unhappiness at being treated unfairly",
+            "D": "limits that affect possible choices"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，identical 的含义为 exactly the same。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "7220f7e2b259f450fce869b7a36b463e8751bf6454719fcda75113ac7fe3ae69"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The garden rota with empty spaces\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "5a83fcd25674d22acf184c99f5b059c206eb6859e16ca2cd11dd6a0a549700f0"
+        }
+      ],
+      "contentFingerprint": "58ce50f150664abc0168470541e1c62f8d7d0601ffeb73a3db84c639608f8f82"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The crop that surprised the class",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A growing class planted the same bean variety in two containers. One was near a wall and the other beside an open fence. The wall-side plants grew taller, but a learner warned against crediting the soil mixture immediately. Light, wind and watering might also differ. The class moved to a more controlled comparison for its next planting and kept notes on both successes and failures. The first result remained interesting, but it could not isolate a single cause. Curiosity improved the project when it led to a better question rather than an impressive claim.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"The crop that surprised the class\"?",
+          "options": {
+            "A": "Agreeing how to share a community harvest",
+            "B": "Planning a small garden responsibly",
+            "C": "Asking careful questions about plant growth",
+            "D": "Sharing garden work through flexible arrangements"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Asking careful questions about plant growth”展开：An interesting result may require a better-designed comparison.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "e7e4e2c0e5fc456fea07377094db9538956f31dfe1f2863558d78baa7ed4b998"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The crop that surprised the class\", why could the class not immediately credit the soil mixture?",
+          "options": {
+            "A": "Neither container contained any plants.",
+            "B": "The pupils had forgotten which crop they planted.",
+            "C": "The plants were observed in different countries.",
+            "D": "Other growing conditions also differed."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Other growing conditions also differed.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5c3e99adc9b053bc882b54b6f2c682e6ea75455621dad303c08baa4863305d30"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"The crop that surprised the class\"?",
+          "options": {
+            "A": "An interesting result may require a better-designed comparison.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：An interesting result may require a better-designed comparison.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a1b1ba2c617bd03fe55c70546712a6ddf5333b3e46f77e89e36df42366587d81"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The crop that surprised the class\", the word \"isolate\" is closest in meaning to _____.",
+          "options": {
+            "A": "limits that affect possible choices",
+            "B": "separate from other influences",
+            "C": "exactly the same",
+            "D": "unhappiness at being treated unfairly"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，isolate 的含义为 separate from other influences。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "55b14d81bda82c3eaed4dd155ae747ede76bfe47a3cdd318b8f687ed6abd38cf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"The crop that surprised the class\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "3854cf70c24647e9b5b2b0061911110c7452b031058621b08e972fb1094ebaf4"
+        }
+      ],
+      "contentFingerprint": "d66be71b5ef188551537963287c96ed9c5b11fe758d588843b940a4ac112dc8c"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Who takes the tomatoes?",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A shared garden had no written rule about harvesting. Early visitors often picked the ripe tomatoes, leaving little for those who came after work. Nobody had intended to be unfair, but resentment grew. Members agreed to place part of each harvest in labelled boxes for later collection and leave another part for immediate use. The arrangement added a small task for whoever picked first. In return, people could see how the crop was being shared. A productive garden had revealed a social problem that watering and good soil alone could not solve.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"Who takes the tomatoes?\"?",
+          "options": {
+            "A": "Sharing garden work through flexible arrangements",
+            "B": "Asking careful questions about plant growth",
+            "C": "Planning a small garden responsibly",
+            "D": "Agreeing how to share a community harvest"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Agreeing how to share a community harvest”展开：Shared resources need arrangements that account for different schedules.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "2c00b7e5d5768ac5b6aa5239709fb64aeedb58a0cf634147d3dff8c27d8a120e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Who takes the tomatoes?\", what was reserved for members arriving later?",
+          "options": {
+            "A": "Part of the harvest in labelled collection boxes.",
+            "B": "Only seeds for the following year.",
+            "C": "All tools used before midday.",
+            "D": "A separate payment for late arrival."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Part of the harvest in labelled collection boxes.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "be43d0881addc6779f4e12727d7141923f8c87656683b27f2b940ee922af124e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"Who takes the tomatoes?\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Shared resources need arrangements that account for different schedules.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Shared resources need arrangements that account for different schedules.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "91496a60d6bec714aba67a0d9ac90e4bbe260ef2fb5f2710045b0bfd9e6830bf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Who takes the tomatoes?\", the word \"resentment\" is closest in meaning to _____.",
+          "options": {
+            "A": "separate from other influences",
+            "B": "limits that affect possible choices",
+            "C": "unhappiness at being treated unfairly",
+            "D": "exactly the same"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，resentment 的含义为 unhappiness at being treated unfairly。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "afdf8b56a0eee437588f6560a7f9766be30c02eb9f3b2626424ea1ff072d2bbb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"Who takes the tomatoes?\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "fb532e5a8befb3a7b7df5162f67b16ec5c74cc30397806759c299af8d14330a6"
+        }
+      ],
+      "contentFingerprint": "8f6192d0b37f3e6ec4d6ce8cefa3717ee99b504eebd14d44e9edbdc19a8fdcdf"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A balcony's weight problem",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Ravi wanted to cover his small balcony with large planting containers. Before buying them, he asked the building manager about permitted loads and drainage. He learnt that wet soil weighed much more than he had expected and that water could drip onto a neighbour's balcony. Ravi chose fewer lightweight containers and trays, leaving access to the door clear. His garden looked less like the photograph that had inspired him, but suited the actual space. A successful idea sometimes needed to become smaller when practical responsibilities were taken into account.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"A balcony's weight problem\"?",
+          "options": {
+            "A": "Planning a small garden responsibly",
+            "B": "Sharing garden work through flexible arrangements",
+            "C": "Asking careful questions about plant growth",
+            "D": "Agreeing how to share a community harvest"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Planning a small garden responsibly”展开：Adapting an attractive idea to local constraints can make it more workable.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6bd83b2e4b407f84a54d49a91ceff0f72c958f0902f8c0f75bf1eb6721d41e83"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"A balcony's weight problem\", what did Ravi check before purchasing containers?",
+          "options": {
+            "A": "The neighbour's favourite vegetable.",
+            "B": "Load limits and drainage arrangements.",
+            "C": "The colour of a distant public garden.",
+            "D": "The number of photographs in a magazine."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Load limits and drainage arrangements.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "686cb94f16f69454cbeaddf6f796786cd0133d5939cbd45a6643ba5fe139e49a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"A balcony's weight problem\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Adapting an attractive idea to local constraints can make it more workable.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Adapting an attractive idea to local constraints can make it more workable.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "6702d8151107cd9d40e6fe3e7b9d129412168093797cf2a32f65bff0085f9ca3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"A balcony's weight problem\", the word \"constraints\" is closest in meaning to _____.",
+          "options": {
+            "A": "exactly the same",
+            "B": "separate from other influences",
+            "C": "unhappiness at being treated unfairly",
+            "D": "limits that affect possible choices"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，constraints 的含义为 limits that affect possible choices。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e87dd7f44f110786b4c492103a2718a9435e71d3155740f091f84c3ee09fdc27"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"A balcony's weight problem\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "bd44b1cb216b9c3314ed9a0795fe9129cddc143b3f2cd328e34730526afb2c6b"
+        }
+      ],
+      "contentFingerprint": "38b986145e87059e7e358883f4cb3af247cfcfd207bbfbfd9637210a689e1df5"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The plan at Hilltop Garden must remain _____ enough to accommodate changing work schedules.",
+      "options": {
+        "A": "formal",
+        "B": "frequent",
+        "C": "flexible",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "flexible 表示灵活，符合适应工作时间变化的需求。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e804436f90e702636bad13d2769cd65cb51268a6e7bc37e1bfc41150914eea3d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The notes from the balcony-growing class are meant to _____ practical experience, not replace it.",
+      "options": {
+        "A": "suppress",
+        "B": "surround",
+        "C": "separate",
+        "D": "supplement"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "supplement 表示补充，与 not replace 对照。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "780b65dc74c585c3992904f5e135cb1e2b9750a8b8debee9aa2636a56e19601b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Before using a soil-moisture meter, please read the _____ printed beside the controls.",
+      "options": {
+        "A": "instructions",
+        "B": "instruments",
+        "C": "institutions",
+        "D": "invitations"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "instructions 指操作说明，而 instruments 是仪器。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9b62f3a10c6270c0466dae5010ac8ae459316d10a0be6dc2ef0a0a4169022043"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The volunteers at Hilltop Garden shared _____ for checking the room after each session.",
+      "options": {
+        "A": "probability",
+        "B": "responsibility",
+        "C": "possibility",
+        "D": "popularity"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share responsibility for 表示共同承担……责任。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5d723995016ea52fdb2a9596da1fca4efd60f1ad5cf10132eb02ace1b5cb4f9d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The balcony-growing class attracted people from a wide _____ of backgrounds.",
+      "options": {
+        "A": "rate",
+        "B": "route",
+        "C": "range",
+        "D": "rank"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "a wide range of 是广泛、多种多样的固定表达。",
+      "knowledgePoints": [
+        "量词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fa8f526c02cf84470de52320faeafce20a6f65ee4160615cc8f82008d492a7e1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organiser at Hilltop Garden asked for _____ examples rather than general complaints.",
+      "options": {
+        "A": "sensitive",
+        "B": "separate",
+        "C": "similar",
+        "D": "specific"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "specific 表示具体的，与 general 构成对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6f498701845ea2f427ccdb8ae6b7f095c7faba698d7d59e85eb865ab670188a4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A visible crack in a soil-moisture meter should never be _____ simply because the item still seems to work.",
+      "options": {
+        "A": "ignored",
+        "B": "included",
+        "C": "imagined",
+        "D": "improved"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ignored 表示被忽视；裂痕是不能忽视的故障迹象。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "28cd1f6068e4269e0816b522e82e83c773d785f2e3f95d4c1aac58aeab581583"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The balcony-growing class was designed to _____ beginners to take the first practical step.",
+      "options": {
+        "A": "endanger",
+        "B": "encourage",
+        "C": "encounter",
+        "D": "enclose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "encourage somebody to do 表示鼓励某人做某事。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "904ccc5ad578763558155173c7ff11bbda2b609197725df0a8712b302f826a10"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The updated notice at Hilltop Garden is more _____ because it gives exact times and contact details.",
+      "options": {
+        "A": "invisible",
+        "B": "impatient",
+        "C": "informative",
+        "D": "informal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "informative 表示提供有用信息的，具体时间和联系信息体现这一点。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "95477c3edcbd22bc607146e6df66b458661726b31fdb4c5372b300554d371413"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The instructor said that learning at the balcony-growing class would be a _____ process rather than an instant change.",
+      "options": {
+        "A": "grateful",
+        "B": "grand",
+        "C": "guilty",
+        "D": "gradual"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "gradual 表示逐步的，与 instant change 对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8474a04cda56e14e1ed97b22026a3e248c642c134a196b7d29599dc45aef413a"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "This is the first time the balcony-growing class _____ in this building.",
+      "options": {
+        "A": "was holding",
+        "B": "is holding",
+        "C": "had held",
+        "D": "has been held"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "This is the first time... 后用现在完成时；活动被举办，故被动。",
+      "knowledgePoints": [
+        "现在完成时被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "97a5baf7bdabc881717eb6bc9fc488065f0e9009ee1f67c10bea5f9ca5d7f185"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The office at Hilltop Garden will contact you as soon as a place _____ available.",
+      "options": {
+        "A": "becomes",
+        "B": "will become",
+        "C": "became",
+        "D": "would become"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "as soon as 时间从句用一般现在时表示将来。",
+      "knowledgePoints": [
+        "时间状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "174aee2c56d791dc76f4fa8d9e219ab5b4a1ad8492f5b0cbade91aafd13ab90c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The assistant had a soil-moisture meter _____ by a qualified technician yesterday.",
+      "options": {
+        "A": "check",
+        "B": "checked",
+        "C": "checking",
+        "D": "to check"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "have something done 表示让他人完成某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0ecaa8c18e62de9af0a361eec4381eeced2674419a3810e1e3c667a77c071974"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "_____ the detailed map, some visitors still had difficulty finding the balcony-growing class.",
+      "options": {
+        "A": "Because",
+        "B": "Unless",
+        "C": "Despite",
+        "D": "Although"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Despite 后接名词短语；although 等连词需接从句。",
+      "knowledgePoints": [
+        "让步介词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4abf5be790fa78933becd359e09a1003230d312a9fa88bb750731ce8cfa609b7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Only after reading the instructions _____ how the booking system at Hilltop Garden worked.",
+      "options": {
+        "A": "I understood",
+        "B": "I did understood",
+        "C": "understood I did",
+        "D": "did I understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only + 状语前置引起主句部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "eb7c51c3f850df58ab7e1c749181267e8ee00928857ee5b4de9c5664d7d2f7d2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The tutor encouraged the learners at the balcony-growing class _____ questions freely.",
+      "options": {
+        "A": "to ask",
+        "B": "asking",
+        "C": "ask",
+        "D": "asked"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "encourage somebody to do 为固定结构。",
+      "knowledgePoints": [
+        "不定式宾补"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6120ddc0e2362ad60af9c854d53dbc360c3768bb0cd94babaf764e65f05f4b18"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The return desk at Hilltop Garden, along with the storage room, _____ closed on Sundays.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "are",
+        "D": "have been"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "along with 不改变主语 return desk 的单数属性。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "25858662dd3fc09acec6a5a8104ec9856fbcb7ad04d2d898a1045617af5ae8c1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "If a soil-moisture meter is damaged, do not try to repair it _____ you have the appropriate skills.",
+      "options": {
+        "A": "because",
+        "B": "so that",
+        "C": "unless",
+        "D": "if"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless 表示除非，与主句否定构成条件限制。",
+      "knowledgePoints": [
+        "条件连词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ef1191d7f86d0dac8a230d1d9b69112f883d947ad63aac9aec3bba8a5a5118dc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The more carefully participants prepare for the balcony-growing class, _____ they are likely to learn.",
+      "options": {
+        "A": "more",
+        "B": "most",
+        "C": "the most",
+        "D": "the more"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the + 比较级..., the + 比较级... 表示越……越……。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "02a8a277b94b44c6a1714c6589af28feb0a4cd3f30f8a66b1b540c31258180a5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The volunteers at Hilltop Garden would rather _____ the schedule now than change it during the session.",
+      "options": {
+        "A": "discuss",
+        "B": "to discuss",
+        "C": "discussing",
+        "D": "discussed"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "would rather do...than do... 两边均用动词原形。",
+      "knowledgePoints": [
+        "固定句式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7c647b3345d614d027b03bc9a62a2d64451326c4b533d0d96988fc10fbd4bb63"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nGrowing plants together creates opportunities for neighbours to talk. It also requires decisions about water, space and time. A successful community garden does not depend only on a good harvest. It depends on fair arrangements that allow people with different abilities to take part.",
+      "referenceAnswer": "一起种植植物为邻居们创造了交谈机会，也需要大家就水、空间和时间作出决定。成功的社区花园不仅取决于收成好不好，还取决于是否有公平的安排，让能力不同的人都能参与。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "95c56d69eba8f4af2050677131ea63d6d3e07dce7a5d2bfd64c99ad6a84e24f8",
+      "referenceAnswerFingerprint": "b06b3cb1d8a2a8f6691827b3cd5dde19b4ee0f9eeca3007ac6ba0fdd0dbfd956"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nPropose a shared garden for a residential area. Explain how work and harvests would be shared, including a way to settle disagreements.",
+      "sampleAnswer": "A shared garden could make our residential area greener and give neighbours a place to work together. I suggest assigning tasks through a flexible rota, with members able to exchange times when work or family duties change. People who cannot dig could sort seeds, keep records or help organise harvests. Produce should be shared through an agreed system, including labelled portions for members who arrive later in the day. If disagreements arise, two rotating representatives could listen to both sides and bring the issue to a short group meeting. The rules should be written clearly and reviewed after the first season. A good harvest would be welcome, but fair participation would be the more important sign of success.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "e361b13f6e101c76001449b4fc0d5ae528602ab9e0413a606111052733208cc5",
+      "sampleAnswerFingerprint": "2b416a3f010157a75a64bffbf6e611ee85201a5ff6d380a6619e9010c42b78a9"
+    }
+  ],
+  "fingerprintManifest": [
+    "b1c779af20669d2fcf8c9cb736d64e26e19e8cbd37bc73b92d8a19d88b0ab8e2",
+    "3eeb06f722bf5b8c12342b52d90fcb3e9a6c943d1c1dde5a438881b6a76c3af7",
+    "1fef709c72be6e6c8d1d7941972ca6fcd2727841dc291e17a813b8e06cb11268",
+    "7d67a0730fdd12920b45087a48e3674becf3925ccdc3cf7e2e2203b71b7b5a83",
+    "bd81446f7a03988126d72233f5da060793b0dd9a1efe604b7cab604821913fda",
+    "3f6d03fa2ecf75df494e6937a217447e5a4f5fb1b175f9cbd0b3ea16960d7e6c",
+    "6acc05ae595ae122742d1e8599de5c478358e59ee33edded4adc98c07c1f1287",
+    "8334f2bdbdb0dd6bf26f321908bf581671970bed080e273942a37c265aa564ab",
+    "efe2f372df2827b06a89b051d57322ff44ba366d856e20b63f9c0bea84c677c3",
+    "437d0cf12343d181b02bf9b82d42027d095403e895f97ab7e095216b206be6fa",
+    "0d702adf19cc3b3cbae0822c6117c8e8787c32e312241d3d5752f7753a0c87f0",
+    "7959677098aaae6ba2f45642acfa6057d4335f517d3516e5f521f90dba392445",
+    "28539270bb0e65198e79bf5f8b85ab00aa799845e32d4242a179625f657d05a1",
+    "58ce50f150664abc0168470541e1c62f8d7d0601ffeb73a3db84c639608f8f82",
+    "87ee565b5823365c7b76a6e76c5ec6a04a85a27a1018b410ffced0305807e1b1",
+    "82c93524adf92edafc339588b8c1f1afcafba31448f7324605d7c7bcd424e4b1",
+    "5a3f6a5077cea1929b3132fffffe4e490c74bf6e43b5d42e1013866727934b98",
+    "7220f7e2b259f450fce869b7a36b463e8751bf6454719fcda75113ac7fe3ae69",
+    "5a83fcd25674d22acf184c99f5b059c206eb6859e16ca2cd11dd6a0a549700f0",
+    "d66be71b5ef188551537963287c96ed9c5b11fe758d588843b940a4ac112dc8c",
+    "e7e4e2c0e5fc456fea07377094db9538956f31dfe1f2863558d78baa7ed4b998",
+    "5c3e99adc9b053bc882b54b6f2c682e6ea75455621dad303c08baa4863305d30",
+    "a1b1ba2c617bd03fe55c70546712a6ddf5333b3e46f77e89e36df42366587d81",
+    "55b14d81bda82c3eaed4dd155ae747ede76bfe47a3cdd318b8f687ed6abd38cf",
+    "3854cf70c24647e9b5b2b0061911110c7452b031058621b08e972fb1094ebaf4",
+    "8f6192d0b37f3e6ec4d6ce8cefa3717ee99b504eebd14d44e9edbdc19a8fdcdf",
+    "2c00b7e5d5768ac5b6aa5239709fb64aeedb58a0cf634147d3dff8c27d8a120e",
+    "be43d0881addc6779f4e12727d7141923f8c87656683b27f2b940ee922af124e",
+    "91496a60d6bec714aba67a0d9ac90e4bbe260ef2fb5f2710045b0bfd9e6830bf",
+    "afdf8b56a0eee437588f6560a7f9766be30c02eb9f3b2626424ea1ff072d2bbb",
+    "fb532e5a8befb3a7b7df5162f67b16ec5c74cc30397806759c299af8d14330a6",
+    "38b986145e87059e7e358883f4cb3af247cfcfd207bbfbfd9637210a689e1df5",
+    "6bd83b2e4b407f84a54d49a91ceff0f72c958f0902f8c0f75bf1eb6721d41e83",
+    "686cb94f16f69454cbeaddf6f796786cd0133d5939cbd45a6643ba5fe139e49a",
+    "6702d8151107cd9d40e6fe3e7b9d129412168093797cf2a32f65bff0085f9ca3",
+    "e87dd7f44f110786b4c492103a2718a9435e71d3155740f091f84c3ee09fdc27",
+    "bd44b1cb216b9c3314ed9a0795fe9129cddc143b3f2cd328e34730526afb2c6b",
+    "e804436f90e702636bad13d2769cd65cb51268a6e7bc37e1bfc41150914eea3d",
+    "780b65dc74c585c3992904f5e135cb1e2b9750a8b8debee9aa2636a56e19601b",
+    "9b62f3a10c6270c0466dae5010ac8ae459316d10a0be6dc2ef0a0a4169022043",
+    "5d723995016ea52fdb2a9596da1fca4efd60f1ad5cf10132eb02ace1b5cb4f9d",
+    "fa8f526c02cf84470de52320faeafce20a6f65ee4160615cc8f82008d492a7e1",
+    "6f498701845ea2f427ccdb8ae6b7f095c7faba698d7d59e85eb865ab670188a4",
+    "28cd1f6068e4269e0816b522e82e83c773d785f2e3f95d4c1aac58aeab581583",
+    "904ccc5ad578763558155173c7ff11bbda2b609197725df0a8712b302f826a10",
+    "95477c3edcbd22bc607146e6df66b458661726b31fdb4c5372b300554d371413",
+    "8474a04cda56e14e1ed97b22026a3e248c642c134a196b7d29599dc45aef413a",
+    "97a5baf7bdabc881717eb6bc9fc488065f0e9009ee1f67c10bea5f9ca5d7f185",
+    "174aee2c56d791dc76f4fa8d9e219ab5b4a1ad8492f5b0cbade91aafd13ab90c",
+    "0ecaa8c18e62de9af0a361eec4381eeced2674419a3810e1e3c667a77c071974",
+    "4abf5be790fa78933becd359e09a1003230d312a9fa88bb750731ce8cfa609b7",
+    "eb7c51c3f850df58ab7e1c749181267e8ee00928857ee5b4de9c5664d7d2f7d2",
+    "6120ddc0e2362ad60af9c854d53dbc360c3768bb0cd94babaf764e65f05f4b18",
+    "25858662dd3fc09acec6a5a8104ec9856fbcb7ad04d2d898a1045617af5ae8c1",
+    "ef1191d7f86d0dac8a230d1d9b69112f883d947ad63aac9aec3bba8a5a5118dc",
+    "02a8a277b94b44c6a1714c6589af28feb0a4cd3f30f8a66b1b540c31258180a5",
+    "7c647b3345d614d027b03bc9a62a2d64451326c4b533d0d96988fc10fbd4bb63",
+    "95c56d69eba8f4af2050677131ea63d6d3e07dce7a5d2bfd64c99ad6a84e24f8",
+    "b06b3cb1d8a2a8f6691827b3cd5dde19b4ee0f9eeca3007ac6ba0fdd0dbfd956",
+    "e361b13f6e101c76001449b4fc0d5ae528602ab9e0413a606111052733208cc5",
+    "2b416a3f010157a75a64bffbf6e611ee85201a5ff6d380a6619e9010c42b78a9"
+  ],
+  "contentFingerprint": "083d84c933f47edd9e801f3496b204e5d2ada8647ba853dc3ac9e0ae281fd507"
+}

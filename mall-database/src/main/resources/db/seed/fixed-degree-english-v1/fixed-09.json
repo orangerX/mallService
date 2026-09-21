@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-09",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 09 · 工作指导与技能交流",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 9,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the new-staff mentoring meeting",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the new-staff mentoring meeting at Elm Workshop.\nCoordinator: (1) _____\nVisitor: Monday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Which day would be convenient for you to attend?",
+        "B": "Please come to the training bay.",
+        "C": "Bring a notebook; we can provide a demonstration lamp.",
+        "D": "Contact Elm Workshop before the session so that we can offer your place to someone else."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the new-staff mentoring meeting\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the training bay.",
+            "C": "Bring a notebook; we can provide a demonstration lamp.",
+            "D": "Contact Elm Workshop before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "aa84120a30d4f6553c43207abbfd69804bd11304c1e09c77586be4228350774d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the new-staff mentoring meeting\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the training bay.",
+            "C": "Bring a notebook; we can provide a demonstration lamp.",
+            "D": "Contact Elm Workshop before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3b13d83e5ac608e2c31bd9f59c1f49ee1a4514aeed7d4075bf8287615c29279c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the new-staff mentoring meeting\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the training bay.",
+            "C": "Bring a notebook; we can provide a demonstration lamp.",
+            "D": "Contact Elm Workshop before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3de044efd0f03d7813c498bccb0c5392a5d45b04760c83d0e02fd6e7b1a6eb4d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the new-staff mentoring meeting\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the training bay.",
+            "C": "Bring a notebook; we can provide a demonstration lamp.",
+            "D": "Contact Elm Workshop before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "72226ebc9495820b965b4588259071dedd138e84d01af17974df50edfed0cecc"
+        }
+      ],
+      "contentFingerprint": "68a9f56fcf8b4a2724328a62fadd1954a56aec0f29d40cd849ebbf9b5e82b4c8"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Elm Workshop",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a demonstration lamp from Elm Workshop, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The switch is stuck. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the new-staff mentoring meeting?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Yes. You can use the inspected lamp on the top shelf.",
+        "B": "Please leave it with us and complete a short fault report.",
+        "C": "You must purchase every item you use at the session.",
+        "D": "Could you describe the fault you noticed?"
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Elm Workshop\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Yes. You can use the inspected lamp on the top shelf.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3a8f6e2f936988639ebd49ef45113cf35df3c6cc39420498ddcb072a58c14279"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Elm Workshop\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Yes. You can use the inspected lamp on the top shelf.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7c82f3feed6e42cb8107e2279004227c5524b23e5112efbad4bd503dfa6dc157"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Elm Workshop\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Yes. You can use the inspected lamp on the top shelf.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d748508093356be14e5d65f7c61255788bbfa84c4e5ea4e43b2738d34361b391"
+        }
+      ],
+      "contentFingerprint": "6bf6eb638ae12a0470eaf734dbb9204c68bb45b755cc5ebd3fe2ec45a1db6545"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Elm Workshop",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the new-staff mentoring meeting, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Ask the session coordinator to help; you do not have to guess.",
+        "B": "You should promise to solve every problem without asking anyone.",
+        "C": "You could welcome visitors at the training bay while the other volunteers prepare.",
+        "D": "Use the current map of Elm Workshop and the list of rooms for the new-staff mentoring meeting."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Elm Workshop\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the training bay while the other volunteers prepare.",
+            "D": "Use the current map of Elm Workshop and the list of rooms for the new-staff mentoring meeting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "237b422a8450e1658def5bbdae27701a0b72b5468b2c9eb865fb5e05144c0b6e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Elm Workshop\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the training bay while the other volunteers prepare.",
+            "D": "Use the current map of Elm Workshop and the list of rooms for the new-staff mentoring meeting."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "50dfeb42c2c0a181ae2e743935bd388e6ada8ae0ea0639d654d493fff4af128f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Elm Workshop\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the training bay while the other volunteers prepare.",
+            "D": "Use the current map of Elm Workshop and the list of rooms for the new-staff mentoring meeting."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1c50a1d7ec5027347411dfc3883241af0bb6c428a9fbb1b0745a037b9c32e6bb"
+        }
+      ],
+      "contentFingerprint": "69374e134069cb6eca4ff298c8be6e8d043f4de9732e6cb522823883a40df599"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The instruction nobody wrote",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "At Elm Workshop, experienced workers adjusted a machine by listening to its sound. New employees received a written checklist, but it only said 'check operation'. A mentor realised that the checklist omitted the very judgement beginners needed to learn. She recorded examples of normal and unusual sounds and explained when to stop and seek help. Trainees still practised under supervision; the recordings were not permission to diagnose every fault alone. Making hidden knowledge explicit improved the introduction. It also prompted senior staff to discuss differences in their own habits rather than assuming everyone used the same standard.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The instruction nobody wrote\"?",
+          "options": {
+            "A": "Creating a usable opportunity for questions",
+            "B": "Helping a trainee develop independent reasoning",
+            "C": "Organising a handover around the next worker's needs",
+            "D": "Making experienced workers' hidden knowledge teachable"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Making experienced workers' hidden knowledge teachable”展开：Experts may need to explain judgements that have become automatic.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "35ecc3b893d2bce1eb232abe0619068d114fca76edc8fdf5ed3e30b7b36172e8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The instruction nobody wrote\", what important information had the checklist omitted?",
+          "options": {
+            "A": "How to recognise relevant operating sounds.",
+            "B": "The names of every former employee.",
+            "C": "How to buy a new machine.",
+            "D": "The factory's annual holiday dates."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 How to recognise relevant operating sounds.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "1ae60586e39004d02cbc895dde1a2df400e945c98b19626ea9b1e84b01feb58a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The instruction nobody wrote\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Experts may need to explain judgements that have become automatic.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Experts may need to explain judgements that have become automatic.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "4b62685c767e4988c5ed7e7dfa2fb45196812a78d1f6e15fccbd42c30070a5d3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The instruction nobody wrote\", the word \"explicit\" is closest in meaning to _____.",
+          "options": {
+            "A": "stepped in to change what was happening",
+            "B": "drew special attention to",
+            "C": "clearly stated",
+            "D": "known or expected in advance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，explicit 的含义为 clearly stated。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "fb1043903953f6095dea62f639e838ea116c09576432fd50720683a4eaa785d1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The instruction nobody wrote\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "aa3a96724066716a1e8d1e52aba517c0fe1244b68bce145dab96a495847a86d6"
+        }
+      ],
+      "contentFingerprint": "e9dce3c82b52160b684fa4a4fc01c66cf7d05c3e44e36e9bfbe432d7d64faffd"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Questions at the end of the shift",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A supervisor told new staff that they could ask questions at any time. Nevertheless, few did so while the production line was busy. A short discussion at the end of each shift gave them a predictable opportunity. Questions about minor uncertainties increased, and one revealed that two labels were easily confused. The labels were changed before a serious mistake occurred. The supervisor kept the open invitation during work, especially for urgent concerns. The scheduled discussion added a second route; it did not mean that workers should wait until the end of the day to report an immediate risk.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"Questions at the end of the shift\"?",
+          "options": {
+            "A": "Creating a usable opportunity for questions",
+            "B": "Making experienced workers' hidden knowledge teachable",
+            "C": "Helping a trainee develop independent reasoning",
+            "D": "Organising a handover around the next worker's needs"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Creating a usable opportunity for questions”展开：A regular opportunity can make an existing invitation easier to use.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b7880ae99e20703ea0eabde00cd6c5b33e82f6f8ccbf3f03a91127296e8cdcbd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Questions at the end of the shift\", what problem did one trainee's question reveal?",
+          "options": {
+            "A": "Every urgent question had to wait until tomorrow.",
+            "B": "Two labels were easy to confuse.",
+            "C": "New staff had no interest in learning.",
+            "D": "The production line had no labels at all."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 Two labels were easy to confuse.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d85c6743ca526d72aa9934f494b99b6af2f8d1985687235231d09326c8ece24d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"Questions at the end of the shift\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "A regular opportunity can make an existing invitation easier to use.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：A regular opportunity can make an existing invitation easier to use.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "86be0ec590002c47c2c43ace6480192516b906edc2d4fc3a1279a92e27849350"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Questions at the end of the shift\", the word \"predictable\" is closest in meaning to _____.",
+          "options": {
+            "A": "clearly stated",
+            "B": "stepped in to change what was happening",
+            "C": "drew special attention to",
+            "D": "known or expected in advance"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，predictable 的含义为 known or expected in advance。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "290c546fd1abb1403560bf03d027a1dde2b13d7cbf1966e2736f987df2eaa5e6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"Questions at the end of the shift\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "fc31e12d8ac9db1920ae8ca327d43f7b0ee999a8de16ab3b9b6f69028d98374b"
+        }
+      ],
+      "contentFingerprint": "236854427854d71f95b79a5a64ef926cc13b21c26b995df8cf7ad59a54895ee3"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A mentor learns to wait",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Tomas was proud of solving problems quickly. When he became a mentor, he often interrupted a trainee's explanation with the answer. The trainee completed tasks but struggled when working alone. Tomas began asking what she had noticed and waiting while she proposed a next step. Progress initially seemed slower, yet he could now see which part of the process she understood. He still intervened immediately when safety required it. For ordinary decisions, however, giving time to think became part of his teaching. Efficiency during one demonstration was not the same as independence after it.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"A mentor learns to wait\"?",
+          "options": {
+            "A": "Organising a handover around the next worker's needs",
+            "B": "Helping a trainee develop independent reasoning",
+            "C": "Making experienced workers' hidden knowledge teachable",
+            "D": "Creating a usable opportunity for questions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Helping a trainee develop independent reasoning”展开：Quickly providing answers can hide a learner's incomplete understanding.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "8710c1447c42b5e12f15fe78840f07cffec2e1c0572d0a77608c475cd9084b1b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A mentor learns to wait\", what did Tomas change in ordinary teaching situations?",
+          "options": {
+            "A": "He removed supervision from risky tasks.",
+            "B": "He asked the learner to avoid explaining.",
+            "C": "He allowed the trainee to explain and suggest a next step.",
+            "D": "He completed all the tasks for the learner."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 He allowed the trainee to explain and suggest a next step.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "396fdc12c8ca3961fa034b78e6406c3928aba3a3a63c2a1cba2eaef4c058af24"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"A mentor learns to wait\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Quickly providing answers can hide a learner's incomplete understanding."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Quickly providing answers can hide a learner's incomplete understanding.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ecfa74d0ef2f6eeb2c736c5ff4c821519eb9e91d9c4ba9cc5d88c53d6dcaa8da"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A mentor learns to wait\", the word \"intervened\" is closest in meaning to _____.",
+          "options": {
+            "A": "stepped in to change what was happening",
+            "B": "clearly stated",
+            "C": "known or expected in advance",
+            "D": "drew special attention to"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，intervened 的含义为 stepped in to change what was happening。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d568f65bc26c7df8303084e1bcd5174e8323fcdd0d9b0a41debbc2a072017d13"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"A mentor learns to wait\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e7e677fa8f80f675ed24078789fd7a7c1c6fc8adb2186aec8870e6b50a81325a"
+        }
+      ],
+      "contentFingerprint": "43f99d939a2380abd4b40fdb348804de3ec5a27aa3a37f32c7a15a23754bf093"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The useful handover note",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A maintenance team used long handover messages listing everything completed during a shift. Incoming workers found it difficult to identify unfinished work. The team adopted three short headings: completed, awaiting action and urgent concerns. Details were still available in the main record, but the handover highlighted what the next person needed to do. The new format did not excuse leaving out relevant information. It encouraged writers to consider the reader's next decision. Several workers said preparing the note also helped them notice loose ends before leaving. Writing for someone else improved their own organisation.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The useful handover note\"?",
+          "options": {
+            "A": "Creating a usable opportunity for questions",
+            "B": "Helping a trainee develop independent reasoning",
+            "C": "Organising a handover around the next worker's needs",
+            "D": "Making experienced workers' hidden knowledge teachable"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Organising a handover around the next worker's needs”展开：A reader-focused summary can help both the receiver and the writer.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6abcc63a32fbcd8e13d50fa9f7120109b39827659f1a8ae7e74de08bc8bc0d05"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The useful handover note\", which new heading directly identified unfinished tasks?",
+          "options": {
+            "A": "Completed.",
+            "B": "The names of visitors.",
+            "C": "The date of the previous holiday.",
+            "D": "Awaiting action."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Awaiting action.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "dc2356d5da0d0c5c54084c75645499b7226cf25704d5e3868c73ff2618162497"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The useful handover note\"?",
+          "options": {
+            "A": "A reader-focused summary can help both the receiver and the writer.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：A reader-focused summary can help both the receiver and the writer.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "96fe40eddd6a80b25596fd7a4702a2e1adc564d3faa963a2189728b968313c38"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The useful handover note\", the word \"highlighted\" is closest in meaning to _____.",
+          "options": {
+            "A": "stepped in to change what was happening",
+            "B": "drew special attention to",
+            "C": "clearly stated",
+            "D": "known or expected in advance"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，highlighted 的含义为 drew special attention to。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "6f0ff02197d0746187be4f2c6010e41c0348d3743a907f780f5d554be61da2ab"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The useful handover note\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "6a61982b28cfcc7a88059b9fb59b174567f03d2147591237bed1b2e8bac50a99"
+        }
+      ],
+      "contentFingerprint": "b49260e9d5e77ffe40de74d9d4275e0d251f9b572ab74fc3df1c670dafe54b5e"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The assistant _____ the visitor that a replacement for a demonstration lamp would be available.",
+      "options": {
+        "A": "assured",
+        "B": "insured",
+        "C": "endured",
+        "D": "acquired"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7ad8d74c3028afea50408cac24aff2695e2bb1294857119541f9a6329b2f556b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Participants found the practical example at the new-staff mentoring meeting especially _____ to their daily needs.",
+      "options": {
+        "A": "reluctant",
+        "B": "relevant",
+        "C": "resistant",
+        "D": "remote"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "relevant to 表示与……有关、适用。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fcdf3db30a1e8708b2dfc68dcc9c1fa7a6f09856db08c2036edd52043284677a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The staff at Elm Workshop made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "allowance",
+        "B": "argument",
+        "C": "adjustment",
+        "D": "achievement"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9bba12e4f1a5539f1965c0b553a0121d97c9853223a4cb5edcb5a379356c909b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The borrowed a demonstration lamp must be returned _____ so that the next person can use it as arranged.",
+      "options": {
+        "A": "rarely",
+        "B": "roughly",
+        "C": "secretly",
+        "D": "promptly"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "promptly 表示及时地，与保证下一位使用者按计划使用相符。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "eef9c71aa39b763d79f9260a7d50d0b17f9e73bdcd2a236d22cdca451ff295b3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The coordinator at Elm Workshop tried to _____ the disagreement before it affected the whole group.",
+      "options": {
+        "A": "resolve",
+        "B": "reserve",
+        "C": "reverse",
+        "D": "receive"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "resolve a disagreement 表示解决分歧。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9ed91daec8f7dced2ef3d2c29026630eb8773cc2dfacd90b484db0d09b4938da"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "At the new-staff mentoring meeting, learners were encouraged to ask for _____ whenever an instruction was unclear.",
+      "options": {
+        "A": "compensation",
+        "B": "clarification",
+        "C": "celebration",
+        "D": "classification"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clarification 表示澄清、进一步说明，针对不清楚的指示。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "174689aff5f3e8a80849a0ce4fe05fac030882d9090a776cbc6d4f836b7c60a6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The new storage arrangement at Elm Workshop proved _____: it saved time without requiring extra staff.",
+      "options": {
+        "A": "emotional",
+        "B": "external",
+        "C": "efficient",
+        "D": "enormous"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "efficient 表示高效，后句节省时间且无需额外人手解释其含义。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aaa41c045b9136830215599724bad4ba22471ec18cecbb405f41ff0d1915b92b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The leaflet for the new-staff mentoring meeting clearly states the _____ for cancelling a reservation.",
+      "options": {
+        "A": "profession",
+        "B": "proportion",
+        "C": "prediction",
+        "D": "procedure"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "procedure 表示办理某事的步骤、程序。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bd55d16b036438d5ac39b10946a10960d985d088ebffa949f6b359de61ecaeaf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Because costs were still uncertain, the cautious manager at Elm Workshop was _____ to expand the service immediately.",
+      "options": {
+        "A": "reluctant",
+        "B": "ready",
+        "C": "eager",
+        "D": "determined"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reluctant to 表示不情愿，符合先弄清成本再扩展的谨慎态度。",
+      "knowledgePoints": [
+        "态度词汇"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a3c5974202937d91a554fc53f2319ea4e8c58195d89bce5105e8bf5925cc858a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "A protective case helps _____ accidental damage to a demonstration lamp during transport.",
+      "options": {
+        "A": "prefer",
+        "B": "prevent",
+        "C": "present",
+        "D": "pretend"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "prevent damage 表示防止损坏。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "921c97b85837ae1764341072598c687956b50dd412ec177e9449dda86d1cb710"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "I would have borrowed a demonstration lamp if I _____ that it was available last week.",
+      "options": {
+        "A": "will know",
+        "B": "had known",
+        "C": "know",
+        "D": "have known"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "584b7369f50da68c73b4ff1fd002426d66230ed9fb34791a001746eea8d5f110"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The tutor explained _____ the new-staff mentoring meeting had been moved to another room.",
+      "options": {
+        "A": "due to",
+        "B": "owing to",
+        "C": "why",
+        "D": "because"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "explain 后接 why 引导的宾语从句表示原因。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cef26644db357b0cb3393d3759c5d13732661091a3c2eafeda1445f45b629c2f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Staff at Elm Workshop have used this booking system _____ three years.",
+      "options": {
+        "A": "since",
+        "B": "during of",
+        "C": "from",
+        "D": "for"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f7d51f1fbf56b5ecb2c213b1f161d8d1f7b181201347cfee1ffb0378d0dea57b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "It is essential _____ a demonstration lamp before passing it to another borrower.",
+      "options": {
+        "A": "to inspect",
+        "B": "inspecting",
+        "C": "inspect",
+        "D": "inspected"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "It is + 形容词 + to do，it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ce4be487c1b961263d88a0b366326e32ceffd7015cb749248f7a45cd43a21c1c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The new-staff mentoring meeting will go ahead _____ enough people confirm their attendance.",
+      "options": {
+        "A": "because of",
+        "B": "provided that",
+        "C": "even if not",
+        "D": "in spite of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "provided that 引导条件从句，后接完整句子。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "88769397973309eadbeb71b286c630b89d6dc39746e65fece85f2faa54db092d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The notice at Elm Workshop is much _____ to read than the old version.",
+      "options": {
+        "A": "easiest",
+        "B": "more easier",
+        "C": "easier",
+        "D": "easy"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "much 修饰比较级；easy 的比较级为 easier。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5035884941371d8763da8c664e547a3b80e305e288fcde2c03dda27909d7390f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "When _____ correctly, a demonstration lamp should remain in good condition for a long time.",
+      "options": {
+        "A": "storing",
+        "B": "to store",
+        "C": "stores",
+        "D": "stored"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "when stored correctly 相当于 when it is stored correctly，主语为被储存的物品。",
+      "knowledgePoints": [
+        "省略与被动"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5467682c3b30585cf7cad28bb781627c432cab529d2941097c761213aa6c61ce"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The learners wanted to know _____ they needed to bring to the new-staff mentoring meeting.",
+      "options": {
+        "A": "what",
+        "B": "that",
+        "C": "which of",
+        "D": "how many of"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "宾语从句中 bring 缺宾语，用 what。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fafe4577a2bd6132082bcbfa0a2347454648447435428723cb78e317580d8910"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The coordinator at Elm Workshop is responsible for _____ the timetable up to date.",
+      "options": {
+        "A": "kept",
+        "B": "keeping",
+        "C": "keep",
+        "D": "to keep"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "介词 for 后接动名词 keeping。",
+      "knowledgePoints": [
+        "介词与动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fc94b6c0c6375f6563f5dd2e26d2cf77f6e0b77ca78f12322af136e3a3254398"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Hardly had the new-staff mentoring meeting started _____ the fire alarm rang.",
+      "options": {
+        "A": "then",
+        "B": "that",
+        "C": "when",
+        "D": "than"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "hardly...when 为固定结构，表示刚……就……。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "619e53eaeaf824259ca46baf1cc547702dcce92c326f8896c524bb98108f31ac"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nAn experienced worker may perform a task so easily that its difficult steps are no longer obvious. Teaching someone else requires those steps to be explained. Questions from a beginner can reveal problems in an established routine. In this way, mentoring can benefit both people.",
+      "referenceAnswer": "有经验的员工可能非常轻松地完成一项任务，以至于其中困难的步骤不再显而易见。指导别人就需要把这些步骤解释清楚。初学者的问题能够揭示既有流程中的问题。这样，指导关系就能使双方受益。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "d969be97f1dec9f1356032e05d01ed38bb279e18b0245bcc64a0344ccaf1398b",
+      "referenceAnswerFingerprint": "9971e3dc789387adc856198aab615307b6a66e7168d08e85bbce17089c1ea177"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss what makes workplace mentoring effective. Include the responsibilities of both an experienced worker and a new colleague.",
+      "sampleAnswer": "Effective workplace mentoring requires more than showing a new colleague the fastest way to finish a task. An experienced worker should explain the reasons behind important steps, invite questions and make safety limits clear. The learner should practise actively, describe uncertainties and ask for help before taking an unfamiliar risk. For example, a mentor could demonstrate a machine check, then ask the learner to explain what they notice while repeating it under supervision. Regular short discussions can reveal misunderstandings before they become habits. Mentors should also be willing to learn from a beginner's questions. A good relationship develops independence gradually, while ensuring that speed and confidence never become substitutes for understanding.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "31e533ac61f5ff170d741e3921e2f16048368f4fe7c402d8e7591cc00388060e",
+      "sampleAnswerFingerprint": "c9545ca6fbea755a654a6c260dcf4d81007ee754b23d9872913ad08e05669cc2"
+    }
+  ],
+  "fingerprintManifest": [
+    "68a9f56fcf8b4a2724328a62fadd1954a56aec0f29d40cd849ebbf9b5e82b4c8",
+    "aa84120a30d4f6553c43207abbfd69804bd11304c1e09c77586be4228350774d",
+    "3b13d83e5ac608e2c31bd9f59c1f49ee1a4514aeed7d4075bf8287615c29279c",
+    "3de044efd0f03d7813c498bccb0c5392a5d45b04760c83d0e02fd6e7b1a6eb4d",
+    "72226ebc9495820b965b4588259071dedd138e84d01af17974df50edfed0cecc",
+    "6bf6eb638ae12a0470eaf734dbb9204c68bb45b755cc5ebd3fe2ec45a1db6545",
+    "3a8f6e2f936988639ebd49ef45113cf35df3c6cc39420498ddcb072a58c14279",
+    "7c82f3feed6e42cb8107e2279004227c5524b23e5112efbad4bd503dfa6dc157",
+    "d748508093356be14e5d65f7c61255788bbfa84c4e5ea4e43b2738d34361b391",
+    "69374e134069cb6eca4ff298c8be6e8d043f4de9732e6cb522823883a40df599",
+    "237b422a8450e1658def5bbdae27701a0b72b5468b2c9eb865fb5e05144c0b6e",
+    "50dfeb42c2c0a181ae2e743935bd388e6ada8ae0ea0639d654d493fff4af128f",
+    "1c50a1d7ec5027347411dfc3883241af0bb6c428a9fbb1b0745a037b9c32e6bb",
+    "e9dce3c82b52160b684fa4a4fc01c66cf7d05c3e44e36e9bfbe432d7d64faffd",
+    "35ecc3b893d2bce1eb232abe0619068d114fca76edc8fdf5ed3e30b7b36172e8",
+    "1ae60586e39004d02cbc895dde1a2df400e945c98b19626ea9b1e84b01feb58a",
+    "4b62685c767e4988c5ed7e7dfa2fb45196812a78d1f6e15fccbd42c30070a5d3",
+    "fb1043903953f6095dea62f639e838ea116c09576432fd50720683a4eaa785d1",
+    "aa3a96724066716a1e8d1e52aba517c0fe1244b68bce145dab96a495847a86d6",
+    "236854427854d71f95b79a5a64ef926cc13b21c26b995df8cf7ad59a54895ee3",
+    "b7880ae99e20703ea0eabde00cd6c5b33e82f6f8ccbf3f03a91127296e8cdcbd",
+    "d85c6743ca526d72aa9934f494b99b6af2f8d1985687235231d09326c8ece24d",
+    "86be0ec590002c47c2c43ace6480192516b906edc2d4fc3a1279a92e27849350",
+    "290c546fd1abb1403560bf03d027a1dde2b13d7cbf1966e2736f987df2eaa5e6",
+    "fc31e12d8ac9db1920ae8ca327d43f7b0ee999a8de16ab3b9b6f69028d98374b",
+    "43f99d939a2380abd4b40fdb348804de3ec5a27aa3a37f32c7a15a23754bf093",
+    "8710c1447c42b5e12f15fe78840f07cffec2e1c0572d0a77608c475cd9084b1b",
+    "396fdc12c8ca3961fa034b78e6406c3928aba3a3a63c2a1cba2eaef4c058af24",
+    "ecfa74d0ef2f6eeb2c736c5ff4c821519eb9e91d9c4ba9cc5d88c53d6dcaa8da",
+    "d568f65bc26c7df8303084e1bcd5174e8323fcdd0d9b0a41debbc2a072017d13",
+    "e7e677fa8f80f675ed24078789fd7a7c1c6fc8adb2186aec8870e6b50a81325a",
+    "b49260e9d5e77ffe40de74d9d4275e0d251f9b572ab74fc3df1c670dafe54b5e",
+    "6abcc63a32fbcd8e13d50fa9f7120109b39827659f1a8ae7e74de08bc8bc0d05",
+    "dc2356d5da0d0c5c54084c75645499b7226cf25704d5e3868c73ff2618162497",
+    "96fe40eddd6a80b25596fd7a4702a2e1adc564d3faa963a2189728b968313c38",
+    "6f0ff02197d0746187be4f2c6010e41c0348d3743a907f780f5d554be61da2ab",
+    "6a61982b28cfcc7a88059b9fb59b174567f03d2147591237bed1b2e8bac50a99",
+    "7ad8d74c3028afea50408cac24aff2695e2bb1294857119541f9a6329b2f556b",
+    "fcdf3db30a1e8708b2dfc68dcc9c1fa7a6f09856db08c2036edd52043284677a",
+    "9bba12e4f1a5539f1965c0b553a0121d97c9853223a4cb5edcb5a379356c909b",
+    "eef9c71aa39b763d79f9260a7d50d0b17f9e73bdcd2a236d22cdca451ff295b3",
+    "9ed91daec8f7dced2ef3d2c29026630eb8773cc2dfacd90b484db0d09b4938da",
+    "174689aff5f3e8a80849a0ce4fe05fac030882d9090a776cbc6d4f836b7c60a6",
+    "aaa41c045b9136830215599724bad4ba22471ec18cecbb405f41ff0d1915b92b",
+    "bd55d16b036438d5ac39b10946a10960d985d088ebffa949f6b359de61ecaeaf",
+    "a3c5974202937d91a554fc53f2319ea4e8c58195d89bce5105e8bf5925cc858a",
+    "921c97b85837ae1764341072598c687956b50dd412ec177e9449dda86d1cb710",
+    "584b7369f50da68c73b4ff1fd002426d66230ed9fb34791a001746eea8d5f110",
+    "cef26644db357b0cb3393d3759c5d13732661091a3c2eafeda1445f45b629c2f",
+    "f7d51f1fbf56b5ecb2c213b1f161d8d1f7b181201347cfee1ffb0378d0dea57b",
+    "ce4be487c1b961263d88a0b366326e32ceffd7015cb749248f7a45cd43a21c1c",
+    "88769397973309eadbeb71b286c630b89d6dc39746e65fece85f2faa54db092d",
+    "5035884941371d8763da8c664e547a3b80e305e288fcde2c03dda27909d7390f",
+    "5467682c3b30585cf7cad28bb781627c432cab529d2941097c761213aa6c61ce",
+    "fafe4577a2bd6132082bcbfa0a2347454648447435428723cb78e317580d8910",
+    "fc94b6c0c6375f6563f5dd2e26d2cf77f6e0b77ca78f12322af136e3a3254398",
+    "619e53eaeaf824259ca46baf1cc547702dcce92c326f8896c524bb98108f31ac",
+    "d969be97f1dec9f1356032e05d01ed38bb279e18b0245bcc64a0344ccaf1398b",
+    "9971e3dc789387adc856198aab615307b6a66e7168d08e85bbce17089c1ea177",
+    "31e533ac61f5ff170d741e3921e2f16048368f4fe7c402d8e7591cc00388060e",
+    "c9545ca6fbea755a654a6c260dcf4d81007ee754b23d9872913ad08e05669cc2"
+  ],
+  "contentFingerprint": "677a4d555af70483f234655456bca01762ddb61114b682933fa8337eeca70ffe"
+}

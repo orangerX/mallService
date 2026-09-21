@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-17",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 17 · 远程协作与沟通习惯",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 17,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the distributed-team induction",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the distributed-team induction at Beacon Design Office.\nCoordinator: (1) _____\nVisitor: Monday evening would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Which day would be convenient for you to attend?",
+        "B": "Please come to the video meeting booth.",
+        "C": "Bring a notebook; we can provide a conference speaker.",
+        "D": "Contact Beacon Design Office before the session so that we can offer your place to someone else."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the distributed-team induction\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the video meeting booth.",
+            "C": "Bring a notebook; we can provide a conference speaker.",
+            "D": "Contact Beacon Design Office before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9ce6941bcb6020f5e3923924f8d353e3dfbdb1e0e4f57f7951e6b290c6a49101"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the distributed-team induction\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the video meeting booth.",
+            "C": "Bring a notebook; we can provide a conference speaker.",
+            "D": "Contact Beacon Design Office before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5f795598b406aab9a3d0a7e7af0cb9d266707284b3eee97ad7ff49fa709b121b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the distributed-team induction\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the video meeting booth.",
+            "C": "Bring a notebook; we can provide a conference speaker.",
+            "D": "Contact Beacon Design Office before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "dc645f9ad0071366511ab112ba8463a115fe332e17f2b704e8476e6a8a78ac9c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the distributed-team induction\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Which day would be convenient for you to attend?",
+            "B": "Please come to the video meeting booth.",
+            "C": "Bring a notebook; we can provide a conference speaker.",
+            "D": "Contact Beacon Design Office before the session so that we can offer your place to someone else."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "aa46b65ec9e967b8c3367c2deed3fd290cf988ccf4dc5ab4ddc04e8c7d91b6d1"
+        }
+      ],
+      "contentFingerprint": "6dda38a65a5eff47b6a266f660609bfbec72c715b2ead97ddc6e069e76ee9d0f"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Beacon Design Office",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a conference speaker from Beacon Design Office, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The cable is frayed. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the distributed-team induction?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Yes. You can connect the speaker with the new cable.",
+        "B": "Please leave it with us and complete a short fault report.",
+        "C": "You must purchase every item you use at the session.",
+        "D": "Could you describe the fault you noticed?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Beacon Design Office\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Yes. You can connect the speaker with the new cable.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7aed3d74f8349f776536d2f908a7b9dfa347d2d889f9be4ad71d748773b1c9b2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Beacon Design Office\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Yes. You can connect the speaker with the new cable.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ed2a153c7f25161b8d8cf1def59f0c4700be79eda4a04aff5772371ba9b6a570"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Beacon Design Office\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Yes. You can connect the speaker with the new cable.",
+            "B": "Please leave it with us and complete a short fault report.",
+            "C": "You must purchase every item you use at the session.",
+            "D": "Could you describe the fault you noticed?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8a55c983a1e5c1d47087eb7b43fdb2588309d22fe71599303a501723ce2256eb"
+        }
+      ],
+      "contentFingerprint": "21c1475ccd12f39bbb60d063e0c939f59b44ea9c8860b46ece56de0638c09cdb"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Beacon Design Office",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the distributed-team induction, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "Ask the session coordinator to help; you do not have to guess.",
+        "B": "You should promise to solve every problem without asking anyone.",
+        "C": "You could welcome visitors at the video meeting booth while the other volunteers prepare.",
+        "D": "Use the current map of Beacon Design Office and the list of rooms for the distributed-team induction."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Beacon Design Office\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the video meeting booth while the other volunteers prepare.",
+            "D": "Use the current map of Beacon Design Office and the list of rooms for the distributed-team induction."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fc06c2e9d5ed74fa658c81486a6898e3077aba2929213749a59b73ae3f3cc101"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Beacon Design Office\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the video meeting booth while the other volunteers prepare.",
+            "D": "Use the current map of Beacon Design Office and the list of rooms for the distributed-team induction."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "017b9fcb8e9b9e70f34e970b195c2b375050819133f42fcfd48dbe57d1ae7e19"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Beacon Design Office\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Ask the session coordinator to help; you do not have to guess.",
+            "B": "You should promise to solve every problem without asking anyone.",
+            "C": "You could welcome visitors at the video meeting booth while the other volunteers prepare.",
+            "D": "Use the current map of Beacon Design Office and the list of rooms for the distributed-team induction."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f1c69dcf8618b5050f99de0ed573c3d357c6d4fdbcf17ca7de78ad27e388a84b"
+        }
+      ],
+      "contentFingerprint": "19ab4fc2ff6de27736c4da131e96de783f448fbda8580e2120e62a523350defc"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The decision hidden in a call",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Beacon's designers discussed a change during a video call attended by only part of the team. Two days later, colleagues in another location continued using the earlier design. The manager realised that recording the call was not enough: few people could search a long video for one decision. The team began writing short decision notes containing the choice, its reason and who would act next. Recordings remained available for detail. The notes reduced repeated discussion and helped absent colleagues catch up. Shared understanding required a usable record, not merely a stored conversation.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"The decision hidden in a call\"?",
+          "options": {
+            "A": "Clarifying when a team message needs attention",
+            "B": "Sharing the demands of collaboration across time zones",
+            "C": "Managing document versions through a clear shared practice",
+            "D": "Making remote decisions easy to find and use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Making remote decisions easy to find and use”展开：Information must be easy to locate if it is to support coordination.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "04201905425df1310d71cc2ad0fc25cef2363087ee1851ce2c042492eeddf90a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The decision hidden in a call\", what did the new decision notes include besides the choice?",
+          "options": {
+            "A": "The reason and the person responsible for the next action.",
+            "B": "The personal address of each designer.",
+            "C": "A transcript of every informal conversation.",
+            "D": "The complete history of the company."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 The reason and the person responsible for the next action.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "91c15916d7d82d24023860b9e64eb9df51990650b15e0ad85ee25f6c8168d88c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"The decision hidden in a call\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "Information must be easy to locate if it is to support coordination.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：Information must be easy to locate if it is to support coordination.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "acf4fe176b5df7dbaa6f4894c322d9cd48a2d172f73b99431dadeaa6b81f734d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The decision hidden in a call\", the word \"coordination\" is closest in meaning to _____.",
+          "options": {
+            "A": "a difficulty or responsibility someone carries",
+            "B": "an agreed way of doing something",
+            "C": "the organisation of people working together",
+            "D": "enough for the purpose"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，coordination 的含义为 the organisation of people working together。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "a3b48f23098005635e6347faf14fb18825103527000e723b8e40f9b7a98559e5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"The decision hidden in a call\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "be540fa67addb887b26092ce9572afe78b52f0ce451419e2f588a21561539673"
+        }
+      ],
+      "contentFingerprint": "f9cdbd0f46f388fb697509d8111be38efdc55b25f41e2a71de218a1fb2ec5b4e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "When every message seemed urgent",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A team used the same chat channel for immediate problems and ideas that could wait a week. Members kept checking messages outside working hours because they feared missing something essential. The team agreed on an urgent contact method and labelled ordinary updates with expected response times. Managers followed the rule themselves. Anxiety about unanswered messages decreased, although genuine emergencies still required attention. The change did not reduce commitment to work. It clarified when that commitment required an immediate response and when a thoughtful reply during normal hours was sufficient.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"When every message seemed urgent\"?",
+          "options": {
+            "A": "Clarifying when a team message needs attention",
+            "B": "Making remote decisions easy to find and use",
+            "C": "Sharing the demands of collaboration across time zones",
+            "D": "Managing document versions through a clear shared practice"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Clarifying when a team message needs attention”展开：Clear urgency rules can support both reliable work and personal boundaries.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "4fe64e9c6f13738f1a33d72e94bf21bd5366ddd62befded2ec0a0ba4c9d11712"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"When every message seemed urgent\", what distinguished ordinary updates after the change?",
+          "options": {
+            "A": "An instruction to ignore genuine emergencies.",
+            "B": "They included expected response times.",
+            "C": "A rule requiring immediate replies to everything.",
+            "D": "A ban on messages during working hours."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 They included expected response times.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "f1b5daa8031167d231d605c212373ab9b41765339711f1d171d3e8558200b189"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"When every message seemed urgent\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Clear urgency rules can support both reliable work and personal boundaries.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Clear urgency rules can support both reliable work and personal boundaries.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "282f74f3a4f440ffb6d365ab58663dd21c917ea95b010810a032d26060fa3fae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"When every message seemed urgent\", the word \"sufficient\" is closest in meaning to _____.",
+          "options": {
+            "A": "the organisation of people working together",
+            "B": "a difficulty or responsibility someone carries",
+            "C": "an agreed way of doing something",
+            "D": "enough for the purpose"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，sufficient 的含义为 enough for the purpose。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d8b5cf491781a583a8e80138413cca19053b4ab0b890031f459621a725ed8619"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"When every message seemed urgent\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e57552c51b22246d57641532aa38a2aff3b3ae56187e3b5ecde13b7bd583c579"
+        }
+      ],
+      "contentFingerprint": "7cda12ae35f7db5d2eb7c51a6141a29715547cecb509623627cf692c0a7fbba0"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The meeting across time zones",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A project held its weekly meeting at a time convenient for headquarters but very late for two distant colleagues. The manager first suggested that they could watch a recording, yet this excluded them from decisions made during discussion. The team rotated meeting times and gathered written comments beforehand. Not every meeting became convenient for everyone, but the burden was shared and quieter members had another way to contribute. The arrangement required planning. It also made the team question which topics genuinely needed a live meeting and which could be resolved through a clear written exchange.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"The meeting across time zones\"?",
+          "options": {
+            "A": "Managing document versions through a clear shared practice",
+            "B": "Sharing the demands of collaboration across time zones",
+            "C": "Making remote decisions easy to find and use",
+            "D": "Clarifying when a team message needs attention"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Sharing the demands of collaboration across time zones”展开：Fair collaboration may require sharing inconvenience and offering several ways to contribute.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "89048373f7c0b667a3fd21fa07366fd58b377d6a2dffe9cfb85cdcbb0e22648e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The meeting across time zones\", why was watching a recording insufficient for the distant colleagues?",
+          "options": {
+            "A": "They had attended every meeting already.",
+            "B": "The team had stopped making decisions.",
+            "C": "They could not participate in decisions during the discussion.",
+            "D": "The recordings contained no sound."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 They could not participate in decisions during the discussion.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "01bf3be04572f773c33dd9c66175155d9319fbabdff3d0fce3460aa5623abe04"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"The meeting across time zones\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Fair collaboration may require sharing inconvenience and offering several ways to contribute."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Fair collaboration may require sharing inconvenience and offering several ways to contribute.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "417b9d18624a8ff22cff934c71225d91260b922b0406e7c9369977c78412a203"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The meeting across time zones\", the word \"burden\" is closest in meaning to _____.",
+          "options": {
+            "A": "a difficulty or responsibility someone carries",
+            "B": "the organisation of people working together",
+            "C": "enough for the purpose",
+            "D": "an agreed way of doing something"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，burden 的含义为 a difficulty or responsibility someone carries。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "09830a9fa4f60febb780f2ae3a77047a2367707bda41a528e8e68f4a445f0c6a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"The meeting across time zones\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ef1421ce6c89debbd7e9a9195462471981bb6599e2248bc3ecf46bff3179efda"
+        }
+      ],
+      "contentFingerprint": "24bff15c86f0fca2c6ced25c06bc9802fb28ec2f8201d49b8208049a670fbba1"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A document with too many copies",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Three colleagues edited separate copies of a proposal and emailed them with names such as 'final' and 'final-new'. When the versions were combined, an approved paragraph disappeared. The team chose a shared document as the main version and recorded major decisions in its change notes. Draft ideas could still be explored elsewhere, but any agreed change had to reach the main document. The tool alone did not solve the problem; the convention about where decisions belonged was essential. A common place for work became useful because everyone understood how to use it.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"A document with too many copies\"?",
+          "options": {
+            "A": "Clarifying when a team message needs attention",
+            "B": "Sharing the demands of collaboration across time zones",
+            "C": "Managing document versions through a clear shared practice",
+            "D": "Making remote decisions easy to find and use"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Managing document versions through a clear shared practice”展开：A shared tool needs a shared practice to prevent confusion.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6e51ceabd77f70c0857c1f3877d3e2f6f3ca1a86dc65ef45ff2ae91532128ed3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"A document with too many copies\", what convention did the team adopt?",
+          "options": {
+            "A": "Every writer should keep a separate final version.",
+            "B": "Approved paragraphs could remain only in email.",
+            "C": "File names should become longer after every edit.",
+            "D": "Agreed changes had to be entered in one main document."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Agreed changes had to be entered in one main document.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "bd40f9c4f8c974074ae6c111cd64a8d74525ca58c0999bdd69b8a1ec1bd8c356"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"A document with too many copies\"?",
+          "options": {
+            "A": "A shared tool needs a shared practice to prevent confusion.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：A shared tool needs a shared practice to prevent confusion.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ef40975f9cb4dd13066e5a2221408ef023de6029194f359c74f6db4046a97c48"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"A document with too many copies\", the word \"convention\" is closest in meaning to _____.",
+          "options": {
+            "A": "a difficulty or responsibility someone carries",
+            "B": "an agreed way of doing something",
+            "C": "the organisation of people working together",
+            "D": "enough for the purpose"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，convention 的含义为 an agreed way of doing something。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "cfab53ffb928340caec1299299213c661a6e0a20c4b5501da855afa72200fa7f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"A document with too many copies\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ce5af9401ca3ee1e14a409c6345711c757130aba3ba0b2149d421b674a6ae658"
+        }
+      ],
+      "contentFingerprint": "8998e92270ae9663e3663167e35e39445c1358696d58dff25caeb3427eb88b7f"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Before using a conference speaker, please read the _____ printed beside the controls.",
+      "options": {
+        "A": "instructions",
+        "B": "instruments",
+        "C": "institutions",
+        "D": "invitations"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "instructions 指操作说明，而 instruments 是仪器。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "17920e8d0c46885b0564c5e258a5a3bf3ed5a9b1f150b11f4baf353a400669b3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The volunteers at Beacon Design Office shared _____ for checking the room after each session.",
+      "options": {
+        "A": "probability",
+        "B": "responsibility",
+        "C": "possibility",
+        "D": "popularity"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share responsibility for 表示共同承担……责任。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "72cb7ff13abe2aa345d471540284d628f22f310c3c1b157c6b6bf2bb0977b58c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The distributed-team induction attracted people from a wide _____ of backgrounds.",
+      "options": {
+        "A": "rate",
+        "B": "route",
+        "C": "range",
+        "D": "rank"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "a wide range of 是广泛、多种多样的固定表达。",
+      "knowledgePoints": [
+        "量词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0c675f4fbde42e8a25a984ad4f516570a23c68eac4a96303b8d110ed047a3b7a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The organiser at Beacon Design Office asked for _____ examples rather than general complaints.",
+      "options": {
+        "A": "sensitive",
+        "B": "separate",
+        "C": "similar",
+        "D": "specific"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "specific 表示具体的，与 general 构成对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dfb6329b0b96e774ddd07886227ae48e00c0edcbc36205fe1d0570198533f64f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A visible crack in a conference speaker should never be _____ simply because the item still seems to work.",
+      "options": {
+        "A": "ignored",
+        "B": "included",
+        "C": "imagined",
+        "D": "improved"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ignored 表示被忽视；裂痕是不能忽视的故障迹象。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7fe4f9ccb728e7d2de8680060ec7c8f92e249bba9feb10e1431609feed1dd665"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The distributed-team induction was designed to _____ beginners to take the first practical step.",
+      "options": {
+        "A": "endanger",
+        "B": "encourage",
+        "C": "encounter",
+        "D": "enclose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "encourage somebody to do 表示鼓励某人做某事。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8df5035702fe756b6a0c7282f84065a7e5db51f59c191817078cffe36af6e8e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The updated notice at Beacon Design Office is more _____ because it gives exact times and contact details.",
+      "options": {
+        "A": "invisible",
+        "B": "impatient",
+        "C": "informative",
+        "D": "informal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "informative 表示提供有用信息的，具体时间和联系信息体现这一点。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2de681aaadd2a32a478cd62934874ceb4beed1010258dc2546d123bc010be05b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The instructor said that learning at the distributed-team induction would be a _____ process rather than an instant change.",
+      "options": {
+        "A": "grateful",
+        "B": "grand",
+        "C": "guilty",
+        "D": "gradual"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "gradual 表示逐步的，与 instant change 对照。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f80bfade7de473701b91f80e34d427c6ce7acb40d1db4025cc3127e2259fa1ac"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The organisers at Beacon Design Office agreed to _____ the session until the damaged equipment was replaced.",
+      "options": {
+        "A": "postpone",
+        "B": "predict",
+        "C": "preserve",
+        "D": "purchase"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "postpone 表示推迟；因设备损坏而延后活动。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "643086049abf80a7bd341da697ebbde81a902b6d703d0a7cc154b9b7d273743c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Clear instructions made the distributed-team induction _____ to people with little previous experience.",
+      "options": {
+        "A": "absent",
+        "B": "accessible",
+        "C": "accidental",
+        "D": "anxious"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "accessible 表示易于使用或理解，符合缺乏经验者也能参与的语境。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "22d59aa2f0e17eb64b2fe0fe610c4b47612793a81bf1d0be21b4d93e558f5d50"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The assistant had a conference speaker _____ by a qualified technician yesterday.",
+      "options": {
+        "A": "check",
+        "B": "checked",
+        "C": "checking",
+        "D": "to check"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "have something done 表示让他人完成某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "152ccd22367c1ac0afb7cedefdb4dcacde30bdbd29f5bd04f9300edb7fd382af"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "_____ the detailed map, some visitors still had difficulty finding the distributed-team induction.",
+      "options": {
+        "A": "Because",
+        "B": "Unless",
+        "C": "Despite",
+        "D": "Although"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Despite 后接名词短语；although 等连词需接从句。",
+      "knowledgePoints": [
+        "让步介词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "61ebe7c16155e41e8848780ca9b9bf93828723b235c99ba2609eeee7f929e519"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Only after reading the instructions _____ how the booking system at Beacon Design Office worked.",
+      "options": {
+        "A": "I understood",
+        "B": "I did understood",
+        "C": "understood I did",
+        "D": "did I understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only + 状语前置引起主句部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "25df39c5383982c864de9f8ee599685e70f501395920a8e2723cde2a26b3db87"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The tutor encouraged the learners at the distributed-team induction _____ questions freely.",
+      "options": {
+        "A": "to ask",
+        "B": "asking",
+        "C": "ask",
+        "D": "asked"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "encourage somebody to do 为固定结构。",
+      "knowledgePoints": [
+        "不定式宾补"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5dc851c90d3be224d43235e28eb798f5be8f9c1c70bd8bf9d309777ccfb7763b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The return desk at Beacon Design Office, along with the storage room, _____ closed on Sundays.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "are",
+        "D": "have been"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "along with 不改变主语 return desk 的单数属性。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7981682ea3260f7bf5674cdb32db134370106aa457c0ce9e4c974be426dd34ff"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If a conference speaker is damaged, do not try to repair it _____ you have the appropriate skills.",
+      "options": {
+        "A": "because",
+        "B": "so that",
+        "C": "unless",
+        "D": "if"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless 表示除非，与主句否定构成条件限制。",
+      "knowledgePoints": [
+        "条件连词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "177056343bb12e517138b11155cd7e417521a3c774a1f364981c14a770e38a10"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The more carefully participants prepare for the distributed-team induction, _____ they are likely to learn.",
+      "options": {
+        "A": "more",
+        "B": "most",
+        "C": "the most",
+        "D": "the more"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the + 比较级..., the + 比较级... 表示越……越……。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a7fb2277635fead32a6b880cf56442758f41e19d30d37185a3b43f980d4028a8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The volunteers at Beacon Design Office would rather _____ the schedule now than change it during the session.",
+      "options": {
+        "A": "discuss",
+        "B": "to discuss",
+        "C": "discussing",
+        "D": "discussed"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "would rather do...than do... 两边均用动词原形。",
+      "knowledgePoints": [
+        "固定句式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "201922c78882c99de9e42ac1fd0199c3b223e5705fadd1e5dae1c71871ee6cf4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "If the staff at Beacon Design Office _____ earlier, the visitors would not have waited outside yesterday.",
+      "options": {
+        "A": "will arrive",
+        "B": "had arrived",
+        "C": "arrive",
+        "D": "have arrived"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去虚拟条件句：if 从句用 had done，主句用 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "330b4246ef4fcaafd41adc58dd660bdd59e05371049551f42d117f1cfabe9612"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The leaflet for the distributed-team induction, _____ was revised last week, now includes a clear map.",
+      "options": {
+        "A": "that",
+        "B": "whose",
+        "C": "which",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "非限制性定语从句指代 leaflet，关系代词用 which。",
+      "knowledgePoints": [
+        "非限制性定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "955db051f49336e2f74b1ddbb0eddf8cda21f7c740806c75c5ddb8cbe73b1b30"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nWorking in different places makes clear communication especially important. A message that seems obvious to its writer may confuse someone who lacks the background. Recording decisions gives everyone a reliable point of reference. It also reduces the need to repeat the same discussion.",
+      "referenceAnswer": "在不同地点工作会使清晰沟通变得格外重要。在作者看来很明显的一条信息，可能会让缺少背景知识的人感到困惑。记录决定能为每个人提供可靠的参考，也能减少反复讨论同一问题的需要。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "ab799ca5a62973d7152bbf7a034f91aba62425ed06a350f595624b384337925c",
+      "referenceAnswerFingerprint": "de998a1a86b35153db2f345a50a4f6ba326dc9ccc650637a8c15dd9981d3b53b"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss how a team in different locations can communicate effectively. Propose rules for meetings and written updates while respecting personal time.",
+      "sampleAnswer": "A team working in different locations needs clear agreements about both information and time. Important decisions should be summarised in one shared document, including the reason for the choice and the next person responsible. This prevents absent colleagues from searching long recordings for a brief decision. Meetings should have a specific purpose, and inconvenient times should rotate when members live in different time zones. Written comments can allow participation before a live discussion. Ordinary messages should state when a reply is needed, while urgent problems should use an agreed contact method. Managers must follow these rules too. Effective communication does not mean everyone is always available; it means everyone knows where to find information and when action is expected.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "e4128768742c51d7fa2394e3bec316e510419cba203e95f30791fa7d0579c4ea",
+      "sampleAnswerFingerprint": "35f0e983873e5bea1ca40503a29b5e24e7bb20a2d3a6267e9d3928158a1833ab"
+    }
+  ],
+  "fingerprintManifest": [
+    "6dda38a65a5eff47b6a266f660609bfbec72c715b2ead97ddc6e069e76ee9d0f",
+    "9ce6941bcb6020f5e3923924f8d353e3dfbdb1e0e4f57f7951e6b290c6a49101",
+    "5f795598b406aab9a3d0a7e7af0cb9d266707284b3eee97ad7ff49fa709b121b",
+    "dc645f9ad0071366511ab112ba8463a115fe332e17f2b704e8476e6a8a78ac9c",
+    "aa46b65ec9e967b8c3367c2deed3fd290cf988ccf4dc5ab4ddc04e8c7d91b6d1",
+    "21c1475ccd12f39bbb60d063e0c939f59b44ea9c8860b46ece56de0638c09cdb",
+    "7aed3d74f8349f776536d2f908a7b9dfa347d2d889f9be4ad71d748773b1c9b2",
+    "ed2a153c7f25161b8d8cf1def59f0c4700be79eda4a04aff5772371ba9b6a570",
+    "8a55c983a1e5c1d47087eb7b43fdb2588309d22fe71599303a501723ce2256eb",
+    "19ab4fc2ff6de27736c4da131e96de783f448fbda8580e2120e62a523350defc",
+    "fc06c2e9d5ed74fa658c81486a6898e3077aba2929213749a59b73ae3f3cc101",
+    "017b9fcb8e9b9e70f34e970b195c2b375050819133f42fcfd48dbe57d1ae7e19",
+    "f1c69dcf8618b5050f99de0ed573c3d357c6d4fdbcf17ca7de78ad27e388a84b",
+    "f9cdbd0f46f388fb697509d8111be38efdc55b25f41e2a71de218a1fb2ec5b4e",
+    "04201905425df1310d71cc2ad0fc25cef2363087ee1851ce2c042492eeddf90a",
+    "91c15916d7d82d24023860b9e64eb9df51990650b15e0ad85ee25f6c8168d88c",
+    "acf4fe176b5df7dbaa6f4894c322d9cd48a2d172f73b99431dadeaa6b81f734d",
+    "a3b48f23098005635e6347faf14fb18825103527000e723b8e40f9b7a98559e5",
+    "be540fa67addb887b26092ce9572afe78b52f0ce451419e2f588a21561539673",
+    "7cda12ae35f7db5d2eb7c51a6141a29715547cecb509623627cf692c0a7fbba0",
+    "4fe64e9c6f13738f1a33d72e94bf21bd5366ddd62befded2ec0a0ba4c9d11712",
+    "f1b5daa8031167d231d605c212373ab9b41765339711f1d171d3e8558200b189",
+    "282f74f3a4f440ffb6d365ab58663dd21c917ea95b010810a032d26060fa3fae",
+    "d8b5cf491781a583a8e80138413cca19053b4ab0b890031f459621a725ed8619",
+    "e57552c51b22246d57641532aa38a2aff3b3ae56187e3b5ecde13b7bd583c579",
+    "24bff15c86f0fca2c6ced25c06bc9802fb28ec2f8201d49b8208049a670fbba1",
+    "89048373f7c0b667a3fd21fa07366fd58b377d6a2dffe9cfb85cdcbb0e22648e",
+    "01bf3be04572f773c33dd9c66175155d9319fbabdff3d0fce3460aa5623abe04",
+    "417b9d18624a8ff22cff934c71225d91260b922b0406e7c9369977c78412a203",
+    "09830a9fa4f60febb780f2ae3a77047a2367707bda41a528e8e68f4a445f0c6a",
+    "ef1421ce6c89debbd7e9a9195462471981bb6599e2248bc3ecf46bff3179efda",
+    "8998e92270ae9663e3663167e35e39445c1358696d58dff25caeb3427eb88b7f",
+    "6e51ceabd77f70c0857c1f3877d3e2f6f3ca1a86dc65ef45ff2ae91532128ed3",
+    "bd40f9c4f8c974074ae6c111cd64a8d74525ca58c0999bdd69b8a1ec1bd8c356",
+    "ef40975f9cb4dd13066e5a2221408ef023de6029194f359c74f6db4046a97c48",
+    "cfab53ffb928340caec1299299213c661a6e0a20c4b5501da855afa72200fa7f",
+    "ce5af9401ca3ee1e14a409c6345711c757130aba3ba0b2149d421b674a6ae658",
+    "17920e8d0c46885b0564c5e258a5a3bf3ed5a9b1f150b11f4baf353a400669b3",
+    "72cb7ff13abe2aa345d471540284d628f22f310c3c1b157c6b6bf2bb0977b58c",
+    "0c675f4fbde42e8a25a984ad4f516570a23c68eac4a96303b8d110ed047a3b7a",
+    "dfb6329b0b96e774ddd07886227ae48e00c0edcbc36205fe1d0570198533f64f",
+    "7fe4f9ccb728e7d2de8680060ec7c8f92e249bba9feb10e1431609feed1dd665",
+    "8df5035702fe756b6a0c7282f84065a7e5db51f59c191817078cffe36af6e8e2",
+    "2de681aaadd2a32a478cd62934874ceb4beed1010258dc2546d123bc010be05b",
+    "f80bfade7de473701b91f80e34d427c6ce7acb40d1db4025cc3127e2259fa1ac",
+    "643086049abf80a7bd341da697ebbde81a902b6d703d0a7cc154b9b7d273743c",
+    "22d59aa2f0e17eb64b2fe0fe610c4b47612793a81bf1d0be21b4d93e558f5d50",
+    "152ccd22367c1ac0afb7cedefdb4dcacde30bdbd29f5bd04f9300edb7fd382af",
+    "61ebe7c16155e41e8848780ca9b9bf93828723b235c99ba2609eeee7f929e519",
+    "25df39c5383982c864de9f8ee599685e70f501395920a8e2723cde2a26b3db87",
+    "5dc851c90d3be224d43235e28eb798f5be8f9c1c70bd8bf9d309777ccfb7763b",
+    "7981682ea3260f7bf5674cdb32db134370106aa457c0ce9e4c974be426dd34ff",
+    "177056343bb12e517138b11155cd7e417521a3c774a1f364981c14a770e38a10",
+    "a7fb2277635fead32a6b880cf56442758f41e19d30d37185a3b43f980d4028a8",
+    "201922c78882c99de9e42ac1fd0199c3b223e5705fadd1e5dae1c71871ee6cf4",
+    "330b4246ef4fcaafd41adc58dd660bdd59e05371049551f42d117f1cfabe9612",
+    "955db051f49336e2f74b1ddbb0eddf8cda21f7c740806c75c5ddb8cbe73b1b30",
+    "ab799ca5a62973d7152bbf7a034f91aba62425ed06a350f595624b384337925c",
+    "de998a1a86b35153db2f345a50a4f6ba326dc9ccc650637a8c15dd9981d3b53b",
+    "e4128768742c51d7fa2394e3bec316e510419cba203e95f30791fa7d0579c4ea",
+    "35f0e983873e5bea1ca40503a29b5e24e7bb20a2d3a6267e9d3928158a1833ab"
+  ],
+  "contentFingerprint": "8e9327c40670bc2b43ce437129cec8c1ca0002bc655f32e5d91a95e85d350b2f"
+}

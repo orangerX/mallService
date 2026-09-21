@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-10",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 10 · 数字服务与包容性",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 10,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the online-form guidance session",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the online-form guidance session at Riverbank Service Desk.\nCoordinator: (1) _____\nVisitor: Wednesday afternoon would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Please come to the civic help room.",
+        "B": "Bring a notebook; we can provide a large-key keyboard.",
+        "C": "Contact Riverbank Service Desk before the session so that we can offer your place to someone else.",
+        "D": "Which day would be convenient for you to attend?"
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the online-form guidance session\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please come to the civic help room.",
+            "B": "Bring a notebook; we can provide a large-key keyboard.",
+            "C": "Contact Riverbank Service Desk before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "83e5f1f850ef645de2e64a0c8f0eb5668de605e9d12dde715d07d50d11382d8a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the online-form guidance session\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please come to the civic help room.",
+            "B": "Bring a notebook; we can provide a large-key keyboard.",
+            "C": "Contact Riverbank Service Desk before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "726dd3ed7092c920e552340d289987b87b6cfe2eb397af4e7931e5f5754056fa"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the online-form guidance session\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please come to the civic help room.",
+            "B": "Bring a notebook; we can provide a large-key keyboard.",
+            "C": "Contact Riverbank Service Desk before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "59b0a09096300b9e6d18835686d7165d38da464cf5fd7ab1c06d7c2a6c7d0391"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the online-form guidance session\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Please come to the civic help room.",
+            "B": "Bring a notebook; we can provide a large-key keyboard.",
+            "C": "Contact Riverbank Service Desk before the session so that we can offer your place to someone else.",
+            "D": "Which day would be convenient for you to attend?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "216a285d5aebeba2bc3bc5783abf94ca98ccbd3f708a6c212308af225cbff7e7"
+        }
+      ],
+      "contentFingerprint": "9d80f229cb26a0a1d9ccd9432a22882a26cb755f7c0473dc58a88680d2ea75b5"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Riverbank Service Desk",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a large-key keyboard from Riverbank Service Desk, but I think something is wrong.\nAssistant: (1) _____\nBorrower: Two keys fail to respond. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the online-form guidance session?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "Please leave it with us and complete a short fault report.",
+        "B": "You must purchase every item you use at the session.",
+        "C": "Could you describe the fault you noticed?",
+        "D": "Yes. You can try the spare keyboard near the window."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Riverbank Service Desk\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can try the spare keyboard near the window."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "904a68920965652cc69f227095841eb97e663d5c776ab9ee6255182880ac2cc3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Riverbank Service Desk\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can try the spare keyboard near the window."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5885974f1a52d62cd4529404fec47f40b4a484090459cb40b46ddc1fbaf63509"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Riverbank Service Desk\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Please leave it with us and complete a short fault report.",
+            "B": "You must purchase every item you use at the session.",
+            "C": "Could you describe the fault you noticed?",
+            "D": "Yes. You can try the spare keyboard near the window."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9fde902c773894d5270335eea565523ce94c9dd5db11f1e59e3295c783edd5e6"
+        }
+      ],
+      "contentFingerprint": "f3ce08b836f744d512025c05e0897a32d45bb1ac6b461f664cb5c3cd28c60db7"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Riverbank Service Desk",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the online-form guidance session, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You should promise to solve every problem without asking anyone.",
+        "B": "You could welcome visitors at the civic help room while the other volunteers prepare.",
+        "C": "Use the current map of Riverbank Service Desk and the list of rooms for the online-form guidance session.",
+        "D": "Ask the session coordinator to help; you do not have to guess."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Riverbank Service Desk\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the civic help room while the other volunteers prepare.",
+            "C": "Use the current map of Riverbank Service Desk and the list of rooms for the online-form guidance session.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "92a245757272a5a0a9939ae48d98c6b30c8864cfe9578fe31e95da46662e5520"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Riverbank Service Desk\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the civic help room while the other volunteers prepare.",
+            "C": "Use the current map of Riverbank Service Desk and the list of rooms for the online-form guidance session.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "408460e320fa9c4a840149a99bd1c74f79e4a4ea66ea0f2e814bf69e5bef592d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Riverbank Service Desk\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You should promise to solve every problem without asking anyone.",
+            "B": "You could welcome visitors at the civic help room while the other volunteers prepare.",
+            "C": "Use the current map of Riverbank Service Desk and the list of rooms for the online-form guidance session.",
+            "D": "Ask the session coordinator to help; you do not have to guess."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0a2aa14e5df6ad5e1c3f684e0e77b4ed84cd375497f335e997dd1253fcffca9f"
+        }
+      ],
+      "contentFingerprint": "f76d3d89e91d139bd62545463ebbd9cb9a1cfc088a135465ac99180b165bc354"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A form with fewer surprises",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Riverbank Service Desk watched volunteers try a new online application form. Many stopped at a page asking for a document they had not prepared. Designers added an opening checklist and allowed users to save progress before uploading files. Completion became easier, although some residents still preferred assistance at the desk. Staff kept that option and explained how saved information could be deleted. The improvement came from observing where people became stuck, rather than from adding a more attractive welcome image. A service was easier to use when its requirements became visible before the user had invested time.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"A form with fewer surprises\"?",
+          "options": {
+            "A": "Making online requirements clear before users begin",
+            "B": "Providing digital help that builds independence",
+            "C": "Using clear language to explain a digital action",
+            "D": "Looking beyond call numbers when judging digital access"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Making online requirements clear before users begin”展开：Unexpected requirements can create barriers even in a technically working service.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "79cea682e5e6483beff6fb1d49b79f69b7d3e85e0965751ff84107d920c9cd8b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"A form with fewer surprises\", what did designers add at the beginning of the form?",
+          "options": {
+            "A": "A requirement to complete everything at once.",
+            "B": "A checklist of required documents.",
+            "C": "A longer decorative animation.",
+            "D": "A final submission button without explanation."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 A checklist of required documents.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "978aa5123eeeb3ac6b6cc054faa90d228dd74fbca2f412c524a65c516d710e72"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"A form with fewer surprises\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Unexpected requirements can create barriers even in a technically working service.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Unexpected requirements can create barriers even in a technically working service.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "8e8987868c3461570bd170626561fd8648aa510c36ebef14c30cbf4e42383017"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"A form with fewer surprises\", the word \"invested\" is closest in meaning to _____.",
+          "options": {
+            "A": "a strong desire to do something",
+            "B": "begin",
+            "C": "a means of communication or access",
+            "D": "spent for a purpose"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，invested 的含义为 spent for a purpose。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "85d6f64e4cdd157f8c3f8b1077820f118d922dc8814d8c6bc1e3b43c6be2b436"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"A form with fewer surprises\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "67c3d92e1fc395b5a46c3603e1fb069200363e6c09cebb1e6b4c273223f3f35e"
+        }
+      ],
+      "contentFingerprint": "e026c7ef93e41b1d87b28fe22f00de8b06a309844882dca12494dfb724863d6c"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The helper who kept her hands back",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "During a digital-skills session, a volunteer could complete a visitor's task much faster by taking the mouse. She resisted that temptation and explained one step at a time while the visitor remained in control. When private information was needed, she turned away and reminded the visitor not to share passwords. The task took longer, but the visitor repeated several steps without help the following week. Assistance had supported both learning and privacy. The session was not successful merely because a form was submitted; it also mattered whether the person could understand and control what happened.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"The helper who kept her hands back\"?",
+          "options": {
+            "A": "Looking beyond call numbers when judging digital access",
+            "B": "Providing digital help that builds independence",
+            "C": "Making online requirements clear before users begin",
+            "D": "Using clear language to explain a digital action"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Providing digital help that builds independence”展开：Helpful support should preserve the user's control and privacy.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "2f9d6c826a46845249bd3f222ab521c2e558880a44ab4fc876231edb65d21555"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The helper who kept her hands back\", who operated the mouse during the guided task?",
+          "options": {
+            "A": "The service manager controlled it remotely.",
+            "B": "No one was allowed to use it.",
+            "C": "The visitor receiving assistance.",
+            "D": "The helper completed every step alone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 The visitor receiving assistance.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "cf6e7334ab89c9fa0b543ad4f1bb4e5ad0267f856d762c89b3703af1b49df09c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"The helper who kept her hands back\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Helpful support should preserve the user's control and privacy."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Helpful support should preserve the user's control and privacy.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ca71f0076aaf0dc8f0ae61061775b963056d44a2c05df85b3fc32b33f14c8557"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The helper who kept her hands back\", the word \"temptation\" is closest in meaning to _____.",
+          "options": {
+            "A": "a strong desire to do something",
+            "B": "spent for a purpose",
+            "C": "begin",
+            "D": "a means of communication or access"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，temptation 的含义为 a strong desire to do something。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "fd8336890ee0626eae8081a1facb731d1618bcff758e18bb09e18c51a9202057"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"The helper who kept her hands back\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "62e7ada4892ab61cbf891e295d02f76f49e62b3a44161f6f40eec4a898aa0d65"
+        }
+      ],
+      "contentFingerprint": "c4e7c202eea1f74696ed141b5da4868cd7d4daeb38ec442b27c605adf3f77853"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Plain words on a public notice",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A council notice used the phrase 'commence the renewal procedure' beside a button. In a short session with residents, several people hesitated because they were unsure whether clicking would submit a final request. The wording was changed to 'Start renewing your permit', and the next steps were shown underneath. This did not make the legal conditions shorter or simpler than they really were. Those conditions remained available with an explanation. Clear language helped users know what an action would do. The team learnt that formal wording could create uncertainty without adding useful precision.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"Plain words on a public notice\"?",
+          "options": {
+            "A": "Providing digital help that builds independence",
+            "B": "Looking beyond call numbers when judging digital access",
+            "C": "Using clear language to explain a digital action",
+            "D": "Making online requirements clear before users begin"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Using clear language to explain a digital action”展开：Formal language may make an ordinary action harder to understand.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "55c15706c4223e165d342e20602d0c8970c86455ea47653fa4461d7c5bb25695"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Plain words on a public notice\", what uncertainty did residents have about the button?",
+          "options": {
+            "A": "Whether the button would change their computer language.",
+            "B": "Whether the button would buy a new permit printer.",
+            "C": "Whether the council had closed permanently.",
+            "D": "Whether clicking it would submit a final request."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 Whether clicking it would submit a final request.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4710b40bf29b67893405e94e7ee8b930c50b6e971cf4cdbacfc2bf24174f0e14"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"Plain words on a public notice\"?",
+          "options": {
+            "A": "Formal language may make an ordinary action harder to understand.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：Formal language may make an ordinary action harder to understand.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "0cb28377e82fc6c2a296a8055b90b9d184803573ad739b034e810df59dea651d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Plain words on a public notice\", the word \"commence\" is closest in meaning to _____.",
+          "options": {
+            "A": "a means of communication or access",
+            "B": "begin",
+            "C": "spent for a purpose",
+            "D": "a strong desire to do something"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，commence 的含义为 begin。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f11ecd6350a3ade27ff0a3598b7d4a8224feddb21c9818883732cb17960ff256"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"Plain words on a public notice\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "0c0a99e74d4d95d0b3ca266ace35a287f039bfb2d8cbbeaee7ce1cd02cff92e5"
+        }
+      ],
+      "contentFingerprint": "5b3da453585770c5d7de20abae50be32ee3bc389b032f2d247e5c19b01310707"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The queue outside the website",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "When a booking service moved online, telephone calls initially fell. Managers took this as evidence that everyone found the website easy. At a community meeting, however, several residents said they had given up trying because they lacked internet access at home. Staff then compared completed bookings with calls and face-to-face requests. They introduced assisted booking hours and publicised the telephone option again. The original fall in calls had measured only one part of the experience. A quieter channel could indicate success, but it could also mean that some people had stopped reaching the service at all.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"The queue outside the website\"?",
+          "options": {
+            "A": "Making online requirements clear before users begin",
+            "B": "Providing digital help that builds independence",
+            "C": "Using clear language to explain a digital action",
+            "D": "Looking beyond call numbers when judging digital access"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Looking beyond call numbers when judging digital access”展开：A fall in requests for help does not always mean a service has improved.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "c71742816f5a645e823ac6f572b18e38760c8fc9f5cc0fc030216787d38d1684"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The queue outside the website\", why had some residents stopped trying to book?",
+          "options": {
+            "A": "They lacked home internet access.",
+            "B": "The service had stopped accepting any applications.",
+            "C": "They had already booked every available place.",
+            "D": "Telephone calls had become compulsory."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 They lacked home internet access.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7fcbeb7432e1f2e5bee7b49efdcb87217e196b4b9bb8c4a959dc1876899f9ff4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"The queue outside the website\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A fall in requests for help does not always mean a service has improved.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A fall in requests for help does not always mean a service has improved.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "5dc6989bff008911888d8bf0862ce69c14637c4008c98004eceef684eb83d2b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The queue outside the website\", the word \"channel\" is closest in meaning to _____.",
+          "options": {
+            "A": "a strong desire to do something",
+            "B": "begin",
+            "C": "a means of communication or access",
+            "D": "spent for a purpose"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，channel 的含义为 a means of communication or access。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "723abec55a8dedd00dea99599de6c85d58ef3714e5004593680328bbc4ffd104"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"The queue outside the website\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "621b6ba685e9473aa75902833a1c6f7d7460003190060e437416818ce47e5f72"
+        }
+      ],
+      "contentFingerprint": "e74b57421a6ad7181e06cc453c4776801aa2f04bb37f125268026736b18d4a23"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The leaflet for the online-form guidance session clearly states the _____ for cancelling a reservation.",
+      "options": {
+        "A": "prediction",
+        "B": "procedure",
+        "C": "profession",
+        "D": "proportion"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "procedure 表示办理某事的步骤、程序。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "42e8deda75297b23ceb3615e1e6c6292882d273d4f0cd50020dc76a156633761"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Because costs were still uncertain, the cautious manager at Riverbank Service Desk was _____ to expand the service immediately.",
+      "options": {
+        "A": "eager",
+        "B": "determined",
+        "C": "reluctant",
+        "D": "ready"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reluctant to 表示不情愿，符合先弄清成本再扩展的谨慎态度。",
+      "knowledgePoints": [
+        "态度词汇"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d049e3dc497887e82327f9a3273d1aec490664ec7206285a4dff60ab8970931b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A protective case helps _____ accidental damage to a large-key keyboard during transport.",
+      "options": {
+        "A": "present",
+        "B": "pretend",
+        "C": "prefer",
+        "D": "prevent"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "prevent damage 表示防止损坏。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9517cb8c0ff96e4f9533fd0550c3b8eb8d809a8620325cedc2d55c7a7e73127c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The examples used in the online-form guidance session were chosen to _____ the main idea, not to cover every possible case.",
+      "options": {
+        "A": "illustrate",
+        "B": "isolate",
+        "C": "interrupt",
+        "D": "imitate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "illustrate 表示用例子说明；与 examples 对应。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "071c1ee9a93455dfa5dab6fe49cca59fee3f1c87c06b614d5fa9d6a02bf07710"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The staff at Riverbank Service Desk asked whether the proposed opening hours were _____ for working residents.",
+      "options": {
+        "A": "considerable",
+        "B": "convenient",
+        "C": "confident",
+        "D": "convincing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "convenient 表示方便的，评价开放时间是否适合上班居民。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dade7b62aca53f170165c900c58ddaddeb7122f7ed1828c0af5dd50c3d221a97"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "A small _____ is required when borrowing a large-key keyboard; it is returned when the item comes back undamaged.",
+      "options": {
+        "A": "discount",
+        "B": "donation",
+        "C": "deposit",
+        "D": "debt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "可退还的借用保证金为 deposit，而非捐款或折扣。",
+      "knowledgePoints": [
+        "生活词汇"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8ede06333e263735d0a106d5e74f3d5c2b9a587f5f5b9894e79648495bc302a8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "After the online-form guidance session, the tutor asked learners to _____ on what they had found most difficult.",
+      "options": {
+        "A": "reject",
+        "B": "rely",
+        "C": "recover",
+        "D": "reflect"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reflect on 表示回顾、认真思考。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "532133b953a5eafb31094fa685db20696dd10de9c5bedbef3cef966ddd836744"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The plan at Riverbank Service Desk must remain _____ enough to accommodate changing work schedules.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "formal",
+        "D": "frequent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "flexible 表示灵活，符合适应工作时间变化的需求。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bf97576ba2f3f1c13ed885bbd74e0e2cf1ff5487fc5b8db130c06f8b566f9703"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The notes from the online-form guidance session are meant to _____ practical experience, not replace it.",
+      "options": {
+        "A": "separate",
+        "B": "supplement",
+        "C": "suppress",
+        "D": "surround"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "supplement 表示补充，与 not replace 对照。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d7dfb87a17c9c37aa431a6bc66e89dba4999949d626dde8baf51000a6b209e71"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Before using a large-key keyboard, please read the _____ printed beside the controls.",
+      "options": {
+        "A": "institutions",
+        "B": "invitations",
+        "C": "instructions",
+        "D": "instruments"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "instructions 指操作说明，而 instruments 是仪器。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ecaf10eba21df48dcae1bf84b6d23cea7a869e4e0e0834b3a5ed3e8300341eb8"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The learners wanted to know _____ they needed to bring to the online-form guidance session.",
+      "options": {
+        "A": "which of",
+        "B": "how many of",
+        "C": "what",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "宾语从句中 bring 缺宾语，用 what。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "436ca6e43e6722dbfe4250e2019886e5b609dcd79a8031ff2e4840ef4314fef8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The coordinator at Riverbank Service Desk is responsible for _____ the timetable up to date.",
+      "options": {
+        "A": "keep",
+        "B": "to keep",
+        "C": "kept",
+        "D": "keeping"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "介词 for 后接动名词 keeping。",
+      "knowledgePoints": [
+        "介词与动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b6a4607642d0a74ec6a5bf63293113384c1fae55393503898c634f4f3769954e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Hardly had the online-form guidance session started _____ the fire alarm rang.",
+      "options": {
+        "A": "when",
+        "B": "than",
+        "C": "then",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "hardly...when 为固定结构，表示刚……就……。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ebf19982bbceb6154e601ca8561f4d3261c349f2d58deb3542e1429dccb79e50"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "A visitor who had damaged a large-key keyboard asked _____ a replacement was available.",
+      "options": {
+        "A": "which",
+        "B": "whether",
+        "C": "that",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ask whether 引导是否有替代品的间接疑问句。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d51f06647f3be007ad9811c27e8e46a88e69653bbb131c864e2e074932f8e036"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The number of people attending activities at Riverbank Service Desk _____ steadily increasing.",
+      "options": {
+        "A": "have",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the number of... 作主语，谓语用单数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4666b808caf3722aff5b68f655e082004a5f627de31e7ac7f3b096f998dc1d44"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "I remember _____ the instructor at the online-form guidance session, but I cannot recall her name.",
+      "options": {
+        "A": "to meet",
+        "B": "meet",
+        "C": "to meeting",
+        "D": "meeting"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "remember doing 表示记得过去做过某事。",
+      "knowledgePoints": [
+        "动名词与不定式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "707ac86b7a1b6c0f4b7371929d037f79db8e4a12a93657361d8c8e140545fdbd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "You _____ return a large-key keyboard today; the borrowing period ends tomorrow.",
+      "options": {
+        "A": "need not",
+        "B": "must not",
+        "C": "cannot",
+        "D": "may not ever"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "need not 表示不必；后文到期日为明天，与禁止归还不同。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d97129c0b533f091926ae7a432e302064a81fe552a6aae20710ba668d3fa5b07"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "This is the first time the online-form guidance session _____ in this building.",
+      "options": {
+        "A": "had held",
+        "B": "has been held",
+        "C": "was holding",
+        "D": "is holding"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "This is the first time... 后用现在完成时；活动被举办，故被动。",
+      "knowledgePoints": [
+        "现在完成时被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0cb0daa59dc5f69bb85a4237a595b7075e0062e3687265e838ad7706125c50d3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The office at Riverbank Service Desk will contact you as soon as a place _____ available.",
+      "options": {
+        "A": "became",
+        "B": "would become",
+        "C": "becomes",
+        "D": "will become"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "as soon as 时间从句用一般现在时表示将来。",
+      "knowledgePoints": [
+        "时间状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "14582f58f0cca81ee89467d38399220b9fe0bf5fb9e460bd26c6f69d0cd245e4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The assistant had a large-key keyboard _____ by a qualified technician yesterday.",
+      "options": {
+        "A": "checking",
+        "B": "to check",
+        "C": "check",
+        "D": "checked"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "have something done 表示让他人完成某事。",
+      "knowledgePoints": [
+        "使役结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8a5193344766536c67999980eb18688575f9b9d46b78535aa08fee166aeb4173"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nMoving a public service online can save time, but convenience is not the same for everyone. Some people need assistance with an unfamiliar form or device. A well-designed service offers clear language and another way to ask for help. Technology should widen access rather than create a new barrier.",
+      "referenceAnswer": "把公共服务搬到网上可以节省时间，但并非每个人都能同样方便地使用。有些人在面对不熟悉的表格或设备时需要协助。设计良好的服务应提供清晰的语言以及其他求助方式。技术应扩大服务的可及性，而不是制造新的障碍。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "4995c28bd581a1df1b4c2205142c026d76d8b3925b1ba06adb645a47c79cf646",
+      "referenceAnswerFingerprint": "989710c7adeba0e635a9e80fcdc8fcdc2b786c99467a0d0a97b1271a40720386"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nWrite a short article on making online public services easier to use. Consider people with limited digital experience and propose support.",
+      "sampleAnswer": "Online public services should be designed around the tasks people need to complete. Forms should use familiar words and list required documents before the first page, so users do not discover an unexpected requirement halfway through. Saving progress would help those who need to pause. People with limited digital experience should be able to obtain assistance by telephone or at a local service desk. A helper should guide the user without taking control of private accounts or asking for passwords. The service should also listen to people who fail to complete an application, not only to successful users. Easier digital access is valuable, but it works best when clear information and human support remain available together.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "bbe6ff00d2f6d6f12d5197ebc1d12e6e903dce29f1504365dc22c0cfd65cfa9d",
+      "sampleAnswerFingerprint": "87cc21f5407267b0931eddc4b6c1feeed6c7887950474f6d290b707155b91f9f"
+    }
+  ],
+  "fingerprintManifest": [
+    "9d80f229cb26a0a1d9ccd9432a22882a26cb755f7c0473dc58a88680d2ea75b5",
+    "83e5f1f850ef645de2e64a0c8f0eb5668de605e9d12dde715d07d50d11382d8a",
+    "726dd3ed7092c920e552340d289987b87b6cfe2eb397af4e7931e5f5754056fa",
+    "59b0a09096300b9e6d18835686d7165d38da464cf5fd7ab1c06d7c2a6c7d0391",
+    "216a285d5aebeba2bc3bc5783abf94ca98ccbd3f708a6c212308af225cbff7e7",
+    "f3ce08b836f744d512025c05e0897a32d45bb1ac6b461f664cb5c3cd28c60db7",
+    "904a68920965652cc69f227095841eb97e663d5c776ab9ee6255182880ac2cc3",
+    "5885974f1a52d62cd4529404fec47f40b4a484090459cb40b46ddc1fbaf63509",
+    "9fde902c773894d5270335eea565523ce94c9dd5db11f1e59e3295c783edd5e6",
+    "f76d3d89e91d139bd62545463ebbd9cb9a1cfc088a135465ac99180b165bc354",
+    "92a245757272a5a0a9939ae48d98c6b30c8864cfe9578fe31e95da46662e5520",
+    "408460e320fa9c4a840149a99bd1c74f79e4a4ea66ea0f2e814bf69e5bef592d",
+    "0a2aa14e5df6ad5e1c3f684e0e77b4ed84cd375497f335e997dd1253fcffca9f",
+    "e026c7ef93e41b1d87b28fe22f00de8b06a309844882dca12494dfb724863d6c",
+    "79cea682e5e6483beff6fb1d49b79f69b7d3e85e0965751ff84107d920c9cd8b",
+    "978aa5123eeeb3ac6b6cc054faa90d228dd74fbca2f412c524a65c516d710e72",
+    "8e8987868c3461570bd170626561fd8648aa510c36ebef14c30cbf4e42383017",
+    "85d6f64e4cdd157f8c3f8b1077820f118d922dc8814d8c6bc1e3b43c6be2b436",
+    "67c3d92e1fc395b5a46c3603e1fb069200363e6c09cebb1e6b4c273223f3f35e",
+    "c4e7c202eea1f74696ed141b5da4868cd7d4daeb38ec442b27c605adf3f77853",
+    "2f9d6c826a46845249bd3f222ab521c2e558880a44ab4fc876231edb65d21555",
+    "cf6e7334ab89c9fa0b543ad4f1bb4e5ad0267f856d762c89b3703af1b49df09c",
+    "ca71f0076aaf0dc8f0ae61061775b963056d44a2c05df85b3fc32b33f14c8557",
+    "fd8336890ee0626eae8081a1facb731d1618bcff758e18bb09e18c51a9202057",
+    "62e7ada4892ab61cbf891e295d02f76f49e62b3a44161f6f40eec4a898aa0d65",
+    "5b3da453585770c5d7de20abae50be32ee3bc389b032f2d247e5c19b01310707",
+    "55c15706c4223e165d342e20602d0c8970c86455ea47653fa4461d7c5bb25695",
+    "4710b40bf29b67893405e94e7ee8b930c50b6e971cf4cdbacfc2bf24174f0e14",
+    "0cb28377e82fc6c2a296a8055b90b9d184803573ad739b034e810df59dea651d",
+    "f11ecd6350a3ade27ff0a3598b7d4a8224feddb21c9818883732cb17960ff256",
+    "0c0a99e74d4d95d0b3ca266ace35a287f039bfb2d8cbbeaee7ce1cd02cff92e5",
+    "e74b57421a6ad7181e06cc453c4776801aa2f04bb37f125268026736b18d4a23",
+    "c71742816f5a645e823ac6f572b18e38760c8fc9f5cc0fc030216787d38d1684",
+    "7fcbeb7432e1f2e5bee7b49efdcb87217e196b4b9bb8c4a959dc1876899f9ff4",
+    "5dc6989bff008911888d8bf0862ce69c14637c4008c98004eceef684eb83d2b7",
+    "723abec55a8dedd00dea99599de6c85d58ef3714e5004593680328bbc4ffd104",
+    "621b6ba685e9473aa75902833a1c6f7d7460003190060e437416818ce47e5f72",
+    "42e8deda75297b23ceb3615e1e6c6292882d273d4f0cd50020dc76a156633761",
+    "d049e3dc497887e82327f9a3273d1aec490664ec7206285a4dff60ab8970931b",
+    "9517cb8c0ff96e4f9533fd0550c3b8eb8d809a8620325cedc2d55c7a7e73127c",
+    "071c1ee9a93455dfa5dab6fe49cca59fee3f1c87c06b614d5fa9d6a02bf07710",
+    "dade7b62aca53f170165c900c58ddaddeb7122f7ed1828c0af5dd50c3d221a97",
+    "8ede06333e263735d0a106d5e74f3d5c2b9a587f5f5b9894e79648495bc302a8",
+    "532133b953a5eafb31094fa685db20696dd10de9c5bedbef3cef966ddd836744",
+    "bf97576ba2f3f1c13ed885bbd74e0e2cf1ff5487fc5b8db130c06f8b566f9703",
+    "d7dfb87a17c9c37aa431a6bc66e89dba4999949d626dde8baf51000a6b209e71",
+    "ecaf10eba21df48dcae1bf84b6d23cea7a869e4e0e0834b3a5ed3e8300341eb8",
+    "436ca6e43e6722dbfe4250e2019886e5b609dcd79a8031ff2e4840ef4314fef8",
+    "b6a4607642d0a74ec6a5bf63293113384c1fae55393503898c634f4f3769954e",
+    "ebf19982bbceb6154e601ca8561f4d3261c349f2d58deb3542e1429dccb79e50",
+    "d51f06647f3be007ad9811c27e8e46a88e69653bbb131c864e2e074932f8e036",
+    "4666b808caf3722aff5b68f655e082004a5f627de31e7ac7f3b096f998dc1d44",
+    "707ac86b7a1b6c0f4b7371929d037f79db8e4a12a93657361d8c8e140545fdbd",
+    "d97129c0b533f091926ae7a432e302064a81fe552a6aae20710ba668d3fa5b07",
+    "0cb0daa59dc5f69bb85a4237a595b7075e0062e3687265e838ad7706125c50d3",
+    "14582f58f0cca81ee89467d38399220b9fe0bf5fb9e460bd26c6f69d0cd245e4",
+    "8a5193344766536c67999980eb18688575f9b9d46b78535aa08fee166aeb4173",
+    "4995c28bd581a1df1b4c2205142c026d76d8b3925b1ba06adb645a47c79cf646",
+    "989710c7adeba0e635a9e80fcdc8fcdc2b786c99467a0d0a97b1271a40720386",
+    "bbe6ff00d2f6d6f12d5197ebc1d12e6e903dce29f1504365dc22c0cfd65cfa9d",
+    "87cc21f5407267b0931eddc4b6c1feeed6c7887950474f6d290b707155b91f9f"
+  ],
+  "contentFingerprint": "19e5469d4c3d87521f108194c6f4107346bcbcc554009e3f9af123cc0f99e171"
+}

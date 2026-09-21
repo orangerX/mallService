@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-03",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 03 · 天气记录与公共信息",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 3,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Arranging the rain-gauge demonstration",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to join the rain-gauge demonstration at Cedar Weather Club.\nCoordinator: (1) _____\nVisitor: Saturday morning would suit me.\nCoordinator: There is a place on that day.\nVisitor: Where should I go?\nCoordinator: (2) _____\nVisitor: Do I need to bring any equipment?\nCoordinator: (3) _____\nVisitor: And what should I do if my plans change?\nCoordinator: (4) _____\nVisitor: I understand. Someone else may need the place.",
+      "sharedOptions": {
+        "A": "Bring a notebook; we can provide a measuring cylinder.",
+        "B": "Contact Cedar Weather Club before the session so that we can offer your place to someone else.",
+        "C": "Which day would be convenient for you to attend?",
+        "D": "Please come to the east schoolyard."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In \"Arranging the rain-gauge demonstration\", choose the response that completes blank (1).",
+          "options": {
+            "A": "Bring a notebook; we can provide a measuring cylinder.",
+            "B": "Contact Cedar Weather Club before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the east schoolyard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下一句回答能参加的日期，因此空格应询问方便的时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3119fe43d4bd0a03c860658c255bd0b0d2134be0bab580a275b19799d07fe929"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In \"Arranging the rain-gauge demonstration\", choose the response that completes blank (2).",
+          "options": {
+            "A": "Bring a notebook; we can provide a measuring cylinder.",
+            "B": "Contact Cedar Weather Club before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the east schoolyard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前一句询问地点，答句应给出活动场所。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5de8dd87b9b56a824c258564533fb0f97fd544d97a98d52505dadceebafaa1ad"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In \"Arranging the rain-gauge demonstration\", choose the response that completes blank (3).",
+          "options": {
+            "A": "Bring a notebook; we can provide a measuring cylinder.",
+            "B": "Contact Cedar Weather Club before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the east schoolyard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "前一句询问要带的设备，答句说明个人用品与现场提供的物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "f2b086f2a6366b1391e6b0dfed1125311964f92cd29d72f82c67cef921b7e9f7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In \"Arranging the rain-gauge demonstration\", choose the response that completes blank (4).",
+          "options": {
+            "A": "Bring a notebook; we can provide a measuring cylinder.",
+            "B": "Contact Cedar Weather Club before the session so that we can offer your place to someone else.",
+            "C": "Which day would be convenient for you to attend?",
+            "D": "Please come to the east schoolyard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "前句询问计划改变后的处理方式，后句提及他人需要名额，因此应提前联系释放预约。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "68b6b0ca5174f220fba17a557e043cc7f9a8e4a0d6cb6d7d9455290f809fd672"
+        }
+      ],
+      "contentFingerprint": "c8940f1e2bdc901ac15e88c2e46e3ae6fea3adfc5dc3d4c91eb7f13b8066d6a1"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A faulty item at Cedar Weather Club",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Borrower: I collected a measuring cylinder from Cedar Weather Club, but I think something is wrong.\nAssistant: (1) _____\nBorrower: The scale has faded. I stopped using it.\nAssistant: That was sensible. We should have it checked.\nBorrower: Can I still take part in the rain-gauge demonstration?\nAssistant: (2) _____\nBorrower: Thank you. Shall I leave the faulty one here?\nAssistant: (3) _____\nBorrower: All right. I will explain exactly what happened.",
+      "sharedOptions": {
+        "A": "You must purchase every item you use at the session.",
+        "B": "Could you describe the fault you noticed?",
+        "C": "Yes. You can use the marked spare in the cupboard.",
+        "D": "Please leave it with us and complete a short fault report."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In \"A faulty item at Cedar Weather Club\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the marked spare in the cupboard.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文描述具体故障，前句应要求说明故障。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4557adf9e8ec1c7978b53f9d60f367a1d3e8ce0e14bde99cccfa2ebb29da97a9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In \"A faulty item at Cedar Weather Club\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the marked spare in the cupboard.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问题关注能否继续参加；答句给出可继续活动的替代办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7529ca2ede6112b428700e845cd3e29935fddb89630aa0b414c0b54dc12bc565"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In \"A faulty item at Cedar Weather Club\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You must purchase every item you use at the session.",
+            "B": "Could you describe the fault you noticed?",
+            "C": "Yes. You can use the marked spare in the cupboard.",
+            "D": "Please leave it with us and complete a short fault report."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "前句询问是否留下故障物品，后句同意说明经过；答句应要求留下并登记。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "25ba9f977c6671d7b599122b044ef2c6c188b020c29b33c51376220580fff67f"
+        }
+      ],
+      "contentFingerprint": "d7bb5d4e0983db2789739877b7bb3eb365ce8db2e944161567ef0e87c5cf77d8"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Helping newcomers at Cedar Weather Club",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: I would like to help with the rain-gauge demonstration, but I have only half an hour before it starts.\nCoordinator: (1) _____\nVolunteer: Greeting people would be useful. What information will I need?\nCoordinator: (2) _____\nVolunteer: I can show them that. What if somebody asks a question I cannot answer?\nCoordinator: (3) _____\nVolunteer: Good. I would rather check than give incorrect directions.",
+      "sharedOptions": {
+        "A": "You could welcome visitors at the east schoolyard while the other volunteers prepare.",
+        "B": "Use the current map of Cedar Weather Club and the list of rooms for the rain-gauge demonstration.",
+        "C": "Ask the session coordinator to help; you do not have to guess.",
+        "D": "You should promise to solve every problem without asking anyone."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In \"Helping newcomers at Cedar Weather Club\", choose the response that completes blank (1).",
+          "options": {
+            "A": "You could welcome visitors at the east schoolyard while the other volunteers prepare.",
+            "B": "Use the current map of Cedar Weather Club and the list of rooms for the rain-gauge demonstration.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "志愿者仅有活动前半小时，答语确认接待工作，因此应建议迎接来访者。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a1995e787598f879b5fec8317eccc11722e3acef4f5bcc8f689d114e302f33cf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In \"Helping newcomers at Cedar Weather Club\", choose the response that completes blank (2).",
+          "options": {
+            "A": "You could welcome visitors at the east schoolyard while the other volunteers prepare.",
+            "B": "Use the current map of Cedar Weather Club and the list of rooms for the rain-gauge demonstration.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问题询问接待所需信息，答句提供地图与房间清单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8dda0a5c1cc1c6006df8456720daea66b34e79fa2ce67408a6468839cf467c8c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In \"Helping newcomers at Cedar Weather Club\", choose the response that completes blank (3).",
+          "options": {
+            "A": "You could welcome visitors at the east schoolyard while the other volunteers prepare.",
+            "B": "Use the current map of Cedar Weather Club and the list of rooms for the rain-gauge demonstration.",
+            "C": "Ask the session coordinator to help; you do not have to guess.",
+            "D": "You should promise to solve every problem without asking anyone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇到无法回答的问题应求助负责人；下句核实而不误导支持该选项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "93f29a0f781f5fe340d0ba1222089f052c4503a948b0dfcb3430a0144702a570"
+        }
+      ],
+      "contentFingerprint": "214f1dcc822e4b2d1cb805ac2f9aececaf71b2638756b2a3fe53bdf52ceeeff9"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Rain on opposite sides of town",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "Two volunteer weather groups reported different rainfall totals after the same storm. Some residents assumed one group had made a mistake. The coordinators compared the locations and discovered that the gauges were several kilometres apart. Both had been installed properly, and the storm had passed more heavily over the western district. The groups published a map with their readings instead of producing a single average. They also explained how measurements were taken. Differences were therefore presented as useful information about the storm, while equipment checks remained part of the routine.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Which is the best title for the passage \"Rain on opposite sides of town\"?",
+          "options": {
+            "A": "Using an old diary without overstating its evidence",
+            "B": "Understanding variation in local weather records",
+            "C": "Communicating a practical response to uncertainty",
+            "D": "Improving a small temperature investigation"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕“Understanding variation in local weather records”展开：Different measurements need not indicate careless work.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "822899209dbf85b7243f3cdc8b74a052b674e3fa64f5df6ef7e7b2abaa4c73bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"Rain on opposite sides of town\", why did the two rainfall totals differ?",
+          "options": {
+            "A": "The two groups used different calendar dates.",
+            "B": "Neither group checked its equipment.",
+            "C": "The storm was heavier over one district.",
+            "D": "One gauge was deliberately altered."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中明确支持 The storm was heavier over one district.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8e69f0317240f19c7a3f295cc62bb1b4a944ce5c39a2faf0afc19e3e66143f98"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "What can reasonably be inferred from \"Rain on opposite sides of town\"?",
+          "options": {
+            "A": "The example proves that the same arrangement will succeed in every setting.",
+            "B": "Once the reported change is made, no further attention is necessary.",
+            "C": "People's individual circumstances have no bearing on the issue.",
+            "D": "Different measurements need not indicate careless work."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "结合具体情境可推断：Different measurements need not indicate careless work.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ec1803c3c5317bbbeb05de6dbb98c7c992cb78cffa8e6657ccbd9fedd17894de"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"Rain on opposite sides of town\", the word \"routine\" is closest in meaning to _____.",
+          "options": {
+            "A": "a regular way of doing things",
+            "B": "changed to improve it",
+            "C": "allowing air to move through",
+            "D": "exact"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据该词所在句的语境，routine 的含义为 a regular way of doing things。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2db4d1ac4b2f5fd08134b226a57cc7ecdd7d74c3f5c8180fee32c6bd47b5b41d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Which description best fits the writer’s approach in \"Rain on opposite sides of town\"?",
+          "options": {
+            "A": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "B": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "C": "The writer argues that the initial arrangement was beyond improvement.",
+            "D": "The writer treats a single example as final proof of universal success."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ec7411806b81ab879d7aa88bd9c2b8160622adb3f4ad06bbb09c5ae33ee4fda1"
+        }
+      ],
+      "contentFingerprint": "5d5b63e798c21551f56ecb368e5050a9cbcd4e4a208b8cc2173e78cf3d092fcb"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A warning people could use",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A village notice warned residents of a strong wind but gave no advice about the outdoor market scheduled for that afternoon. Traders kept calling the office to ask whether they should travel. The organiser added a clear decision time and explained where the final announcement would appear. She also described the sheltered alternative location. The revised notice did not make the forecast more certain, but it reduced confusion about what would happen next. Residents could distinguish the uncertain weather from the definite process for making a decision. The office adopted the same approach for later public events.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Which is the best title for the passage \"A warning people could use\"?",
+          "options": {
+            "A": "Improving a small temperature investigation",
+            "B": "Using an old diary without overstating its evidence",
+            "C": "Communicating a practical response to uncertainty",
+            "D": "Understanding variation in local weather records"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文围绕“Communicating a practical response to uncertainty”展开：A clear decision process can help even when a forecast is uncertain.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "0d8308cffff5b44c60fdf4f271a5fd096647f80ef3ffac1533a7bab874c19273"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A warning people could use\", what did the revised notice specify?",
+          "options": {
+            "A": "A promise that the wind would stop.",
+            "B": "A rule that traders must travel immediately.",
+            "C": "A permanent cancellation of the market.",
+            "D": "When and where a final decision would be announced."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文中明确支持 When and where a final decision would be announced.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "e3ac97f4abdb3298f01529990ec21ab4ae342b021a33572f3c596a3c35dcc049"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "What can reasonably be inferred from \"A warning people could use\"?",
+          "options": {
+            "A": "A clear decision process can help even when a forecast is uncertain.",
+            "B": "The example proves that the same arrangement will succeed in every setting.",
+            "C": "Once the reported change is made, no further attention is necessary.",
+            "D": "People's individual circumstances have no bearing on the issue."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结合具体情境可推断：A clear decision process can help even when a forecast is uncertain.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "961a09ee68972de57c0851ef39a4688d0ef264455383a986d2c53074503f9254"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A warning people could use\", the word \"revised\" is closest in meaning to _____.",
+          "options": {
+            "A": "exact",
+            "B": "changed to improve it",
+            "C": "a regular way of doing things",
+            "D": "allowing air to move through"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据该词所在句的语境，revised 的含义为 changed to improve it。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "70782bb9c10840e27a7d519b9d0f9ff02ba6d4c350459700a62c42ecabf4cc15"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Which description best fits the writer’s approach in \"A warning people could use\"?",
+          "options": {
+            "A": "The writer treats a single example as final proof of universal success.",
+            "B": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "C": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "D": "The writer argues that the initial arrangement was beyond improvement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "5969d1276242fc8dc4d37bd51a7c6848fae77fb647e0704502b1b2f32eae7f35"
+        }
+      ],
+      "contentFingerprint": "16f6ceaa40da0f7d9f72ab04b1cfa24a09e7022019d806b50702aede05203913"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Shade and the thermometer",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "A school club wanted to compare temperatures in its courtyard and garden. One pupil placed a thermometer in direct sunlight because the courtyard felt hot. Another put a device under a tree. Their first comparison mixed two questions: how warm the air was and how much sunlight heated the instruments. With guidance, they placed matching thermometers in shaded, ventilated covers at the same height. The courtyard still recorded higher afternoon temperatures on several days. The club described its method and avoided claiming that the results represented every season. Improving the comparison made its limited conclusion more useful.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Which is the best title for the passage \"Shade and the thermometer\"?",
+          "options": {
+            "A": "Understanding variation in local weather records",
+            "B": "Communicating a practical response to uncertainty",
+            "C": "Using an old diary without overstating its evidence",
+            "D": "Improving a small temperature investigation"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "全文围绕“Improving a small temperature investigation”展开：A fair comparison requires attention to measurement conditions.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "38b663a3f65ef9ed0302f480edfd46e2eaf8ddccf973127c259387c1f6f1d6fd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Shade and the thermometer\", what did the club make the same for both instruments?",
+          "options": {
+            "A": "Their height and protective conditions.",
+            "B": "The number of pupils holding each device.",
+            "C": "The brand of every plant nearby.",
+            "D": "The amount of direct sunlight on each thermometer."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文中明确支持 Their height and protective conditions.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4b51adb4c38fcc7ccc5bd3fad3577c118c2c275eb1d96e8e4595a913a7e31b69"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "What can reasonably be inferred from \"Shade and the thermometer\"?",
+          "options": {
+            "A": "People's individual circumstances have no bearing on the issue.",
+            "B": "A fair comparison requires attention to measurement conditions.",
+            "C": "The example proves that the same arrangement will succeed in every setting.",
+            "D": "Once the reported change is made, no further attention is necessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结合具体情境可推断：A fair comparison requires attention to measurement conditions.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "b2e90ad6c2d8eeca66c79fc4f786b900983666f729ccf4b2fcd5f3ae0a89d6b8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Shade and the thermometer\", the word \"ventilated\" is closest in meaning to _____.",
+          "options": {
+            "A": "changed to improve it",
+            "B": "exact",
+            "C": "allowing air to move through",
+            "D": "a regular way of doing things"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据该词所在句的语境，ventilated 的含义为 allowing air to move through。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "c326fc5538e1923ea17900d2b9fbb7afe1145366ef305b6f7e3cd0618dd68881"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Which description best fits the writer’s approach in \"Shade and the thermometer\"?",
+          "options": {
+            "A": "The writer argues that the initial arrangement was beyond improvement.",
+            "B": "The writer treats a single example as final proof of universal success.",
+            "C": "The writer dismisses the concerns of the people affected as irrelevant.",
+            "D": "The writer explains a practical issue using a specific example and a measured conclusion."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "97f3113e65d5ca675f17a034e121ed4ecc49a69da68a5fced36d410982b395a7"
+        }
+      ],
+      "contentFingerprint": "32485300e57ead8fedb0053d750b3ce483b42e6848a9f66e92f178b72b354023"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Reading the old weather diary",
+      "instruction": "Read the original simulation passage and choose the best answer to each question.",
+      "content": "An archive volunteer found a gardener's diary containing descriptions of frost, flowering trees and muddy paths. It was tempting to turn every entry into a precise temperature estimate. An experienced researcher warned that words such as 'cold' depended on the writer's experience. The diary was still valuable when combined with dated photographs and other records. It could show when particular plants flowered and how weather affected daily work. The archive therefore kept the original wording and added notes explaining uncertainty. Preserving a record did not require pretending it answered questions it had never been designed to answer.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读：主旨、细节、推断与语境词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Which is the best title for the passage \"Reading the old weather diary\"?",
+          "options": {
+            "A": "Using an old diary without overstating its evidence",
+            "B": "Understanding variation in local weather records",
+            "C": "Communicating a practical response to uncertainty",
+            "D": "Improving a small temperature investigation"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文围绕“Using an old diary without overstating its evidence”展开：Historical observations are useful when interpreted within their limits.",
+          "knowledgePoints": [
+            "阅读：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d63bb7407dfe7a920335f8997bfba5121a257e83c1545d2d25a44828aa55c2c8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Reading the old weather diary\", how did the archive present uncertain descriptions?",
+          "options": {
+            "A": "It chose only the most confident account.",
+            "B": "It retained them and added explanatory notes.",
+            "C": "It replaced every description with an exact number.",
+            "D": "It discarded all uncertain passages."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "文中明确支持 It retained them and added explanatory notes.；其余选项与所述措施、原因或事实不符。",
+          "knowledgePoints": [
+            "阅读：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "88e94b4a159c28d1c96c3f991f447d782db743d9e28abbc7604cb680fca4ad3b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "What can reasonably be inferred from \"Reading the old weather diary\"?",
+          "options": {
+            "A": "Once the reported change is made, no further attention is necessary.",
+            "B": "People's individual circumstances have no bearing on the issue.",
+            "C": "Historical observations are useful when interpreted within their limits.",
+            "D": "The example proves that the same arrangement will succeed in every setting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结合具体情境可推断：Historical observations are useful when interpreted within their limits.。文章并未将个案推广为无条件结论。",
+          "knowledgePoints": [
+            "阅读：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "7bd3e71737848b3c060a96da377816f94d7af96abfa28fddba84988954b75173"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Reading the old weather diary\", the word \"precise\" is closest in meaning to _____.",
+          "options": {
+            "A": "a regular way of doing things",
+            "B": "changed to improve it",
+            "C": "allowing air to move through",
+            "D": "exact"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据该词所在句的语境，precise 的含义为 exact。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "9ace959e3a79349d20facc61aaac44c0e8bf1779905212a40f608db12181fe6b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Which description best fits the writer’s approach in \"Reading the old weather diary\"?",
+          "options": {
+            "A": "The writer explains a practical issue using a specific example and a measured conclusion.",
+            "B": "The writer argues that the initial arrangement was beyond improvement.",
+            "C": "The writer treats a single example as final proof of universal success.",
+            "D": "The writer dismisses the concerns of the people affected as irrelevant."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "作者描述具体问题、背景与应对方式，并保留适用条件；语气客观审慎，而非绝对化或否定参与者意见。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "dc29772271eebe290094996107479c80a27cdbd6c8998eead59ec082e04f7193"
+        }
+      ],
+      "contentFingerprint": "5accebe003da73fc6807d835dc8f038bccd98ee2a3396a6ad8274b62d87647bb"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The organiser changed the room for the rain-gauge demonstration in _____ to a request for easier access.",
+      "options": {
+        "A": "return",
+        "B": "reward",
+        "C": "response",
+        "D": "respect"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "in response to 表示回应、应……要求。",
+      "knowledgePoints": [
+        "介词短语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7a874ddf18c432e613981156437830af044c1d0462d3a2ce877182f788285aae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "At Cedar Weather Club, a dated checklist provides a reliable _____ of the latest equipment inspection.",
+      "options": {
+        "A": "reward",
+        "B": "retreat",
+        "C": "recipe",
+        "D": "record"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "record of inspection 表示检查记录。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6f6219968cac5685f1f72e9f7098a66cef27d5d733133d96cd6236b8810e5133"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The assistant _____ the visitor that a replacement for a measuring cylinder would be available.",
+      "options": {
+        "A": "assured",
+        "B": "insured",
+        "C": "endured",
+        "D": "acquired"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "assure somebody that 表示向某人保证。",
+      "knowledgePoints": [
+        "近形词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "40aa18a6c7e26c01a2212c2414c8f9a8169fa57a20eb9636bc20b9960d90ff2f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Participants found the practical example at the rain-gauge demonstration especially _____ to their daily needs.",
+      "options": {
+        "A": "reluctant",
+        "B": "relevant",
+        "C": "resistant",
+        "D": "remote"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "relevant to 表示与……有关、适用。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f54e866d0f0c4dd9649592458e4e054ed9aeeae3115af43ba86efe3cdd287446"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The staff at Cedar Weather Club made an _____ to the timetable after several visitors reported a clash.",
+      "options": {
+        "A": "allowance",
+        "B": "argument",
+        "C": "adjustment",
+        "D": "achievement"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "make an adjustment to 表示对……作出调整。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "65a4b8d40db64a5ec05d9fdfbf21c588503bd30e0bee25bb3505605c90460e8e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The borrowed a measuring cylinder must be returned _____ so that the next person can use it as arranged.",
+      "options": {
+        "A": "rarely",
+        "B": "roughly",
+        "C": "secretly",
+        "D": "promptly"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "promptly 表示及时地，与保证下一位使用者按计划使用相符。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a3c280d9e39db7bb9c363667c40936aa6f812614cdd26cbdf4c2066c72d6c8fc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The coordinator at Cedar Weather Club tried to _____ the disagreement before it affected the whole group.",
+      "options": {
+        "A": "resolve",
+        "B": "reserve",
+        "C": "reverse",
+        "D": "receive"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "resolve a disagreement 表示解决分歧。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a436fb4363b931d587f3cc24b354c203e9462880253b1fa7cf6c5ea0802ff58d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "At the rain-gauge demonstration, learners were encouraged to ask for _____ whenever an instruction was unclear.",
+      "options": {
+        "A": "compensation",
+        "B": "clarification",
+        "C": "celebration",
+        "D": "classification"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clarification 表示澄清、进一步说明，针对不清楚的指示。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dd998bbb5f8466acd76b96150991c6abb2f74f65ad0fad37cadf34cbe9cc3d9c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The new storage arrangement at Cedar Weather Club proved _____: it saved time without requiring extra staff.",
+      "options": {
+        "A": "emotional",
+        "B": "external",
+        "C": "efficient",
+        "D": "enormous"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "efficient 表示高效，后句节省时间且无需额外人手解释其含义。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f7345f5d3476d6004aa4a59beb96ddaea31b8e9309ad1fed862065c1e4b191c2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The leaflet for the rain-gauge demonstration clearly states the _____ for cancelling a reservation.",
+      "options": {
+        "A": "profession",
+        "B": "proportion",
+        "C": "prediction",
+        "D": "procedure"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "procedure 表示办理某事的步骤、程序。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bd6e3bc00a08305ded15fd1cc039bf88259f9d4b1fd0f22d4b9a11f07eef7426"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "_____ the instructions carefully, the participant began the activity at the rain-gauge demonstration.",
+      "options": {
+        "A": "To have read",
+        "B": "Read",
+        "C": "Being read",
+        "D": "Having read"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "先完成阅读再开始活动，用 having done 作状语，逻辑主语一致。",
+      "knowledgePoints": [
+        "分词状语"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c821ec0e46ab5c975f60aa2b954e5dcd2179687aee6b5bde9aa8c1def4ded47e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The room at Cedar Weather Club is not large enough _____ all the visitors at once.",
+      "options": {
+        "A": "to seat",
+        "B": "seating",
+        "C": "seat",
+        "D": "seated"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "形容词 + enough + to do 表示足以做某事。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2203ed7119d367678d73232674d61a745beadabe403a64f2cc16222f10158d45"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "I would have borrowed a measuring cylinder if I _____ that it was available last week.",
+      "options": {
+        "A": "will know",
+        "B": "had known",
+        "C": "know",
+        "D": "have known"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，if 从句用 had known。",
+      "knowledgePoints": [
+        "虚拟条件句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3ba2e91d1185bd3875610defd4cdfdf73956d2c949a21cbc51198438177071b6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The tutor explained _____ the rain-gauge demonstration had been moved to another room.",
+      "options": {
+        "A": "due to",
+        "B": "owing to",
+        "C": "why",
+        "D": "because"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "explain 后接 why 引导的宾语从句表示原因。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3cafd4d0c52e95aca440b197c71cb0e5687185b9e6bc89e9087ecc749e98ce76"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Staff at Cedar Weather Club have used this booking system _____ three years.",
+      "options": {
+        "A": "since",
+        "B": "during of",
+        "C": "from",
+        "D": "for"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "现在完成时与 for + 时间段连用。",
+      "knowledgePoints": [
+        "现在完成时"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "99c8481da160db6a0d5c9d6fbe28bdedfe606b99aa82330f8f696e38c0c762ed"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "It is essential _____ a measuring cylinder before passing it to another borrower.",
+      "options": {
+        "A": "to inspect",
+        "B": "inspecting",
+        "C": "inspect",
+        "D": "inspected"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "It is + 形容词 + to do，it 为形式主语。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0397b055b32ad39252dcbe4b85e5499f4072432d5dfef88d6f1decb8f36abbfd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The rain-gauge demonstration will go ahead _____ enough people confirm their attendance.",
+      "options": {
+        "A": "because of",
+        "B": "provided that",
+        "C": "even if not",
+        "D": "in spite of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "provided that 引导条件从句，后接完整句子。",
+      "knowledgePoints": [
+        "条件状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cf22b4d3ab471e502bc3baf8be9716d210f30158cdf97e5cf121b5e3dc611507"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The notice at Cedar Weather Club is much _____ to read than the old version.",
+      "options": {
+        "A": "easiest",
+        "B": "more easier",
+        "C": "easier",
+        "D": "easy"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "much 修饰比较级；easy 的比较级为 easier。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3b3eaa7e08d219fa883c85a2a7df8ebc6ed7a391a2b4651c2f3c4ed298652bd2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "When _____ correctly, a measuring cylinder should remain in good condition for a long time.",
+      "options": {
+        "A": "storing",
+        "B": "to store",
+        "C": "stores",
+        "D": "stored"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "when stored correctly 相当于 when it is stored correctly，主语为被储存的物品。",
+      "knowledgePoints": [
+        "省略与被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "33520c9b1efd83d323f2af513c52f9a3c50d46935bda50d10c11285ceeab573a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The learners wanted to know _____ they needed to bring to the rain-gauge demonstration.",
+      "options": {
+        "A": "what",
+        "B": "that",
+        "C": "which of",
+        "D": "how many of"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "宾语从句中 bring 缺宾语，用 what。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "03f11be082c40f25cda511a7aca3c262bee1f0b819936b89620401455ece6c71"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following original passage into Chinese. Preserve the meaning and logical relationships.\n\nWeather information is most useful when people understand its limits. A forecast describes what is likely to happen, not what is certain to happen. Local observations can add valuable detail, but a single unusual day does not establish a long-term pattern. Careful records make comparisons more meaningful.",
+      "referenceAnswer": "天气信息在人们理解其局限时最为有用。天气预报描述的是可能发生的情况，而不是必然发生的情况。当地观测能补充有价值的细节，但某一天的异常情况并不能证明长期规律。细致的记录能使比较更有意义。",
+      "explanation": "参考译文仅示范一种表达。评分时关注信息完整性、转折和条件等逻辑关系；意思准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息、对象和逻辑关系；按遗漏或误译程度酌情扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "中文自然通顺，句间衔接合理；不拘泥于英语词序。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法贴合语境，指代清楚，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与逻辑衔接"
+      ],
+      "score": 15,
+      "contentFingerprint": "7137b0ff1a1df99e9309f921efbe8fab5e5a7e48351acde025a85ce675936f65",
+      "referenceAnswerFingerprint": "a5a28f434950f27b5e52f13b62274196d92c081158c7f111d77617ef340239ea"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write an English response of about 120 words to the following original simulation task. Use your own examples and organise your ideas clearly.\n\nDiscuss why local weather records can be useful. Suggest how volunteers can collect and communicate observations responsibly.",
+      "sampleAnswer": "Local weather records can help a community understand differences between nearby areas and plan outdoor activities. For example, rainfall recorded near a garden may explain why its soil is wetter than expected. Volunteers should use suitable equipment, follow the same method and note the location and time of each observation. They should also record unusual conditions that might affect a reading. When sharing results, the group must distinguish observations from predictions. A wet week does not by itself prove a long-term change. A simple chart with dates and a short explanation would be useful. Keeping original records and correcting mistakes openly would make the project more trustworthy. Careful local work can contribute useful detail without claiming to answer every weather question.",
+      "explanation": "范文供完成作答后对照。允许不同立场与例子；围绕题目要求论述清楚、理由充分、语言准确即可。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目所有要求，观点明确，包含相关理由、具体例子或可行建议。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息顺序合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "词汇使用恰当，句式基本准确，表达清晰；错误按其对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：观点、建议与应用文"
+      ],
+      "score": 15,
+      "contentFingerprint": "9afc7eaef7c721e3ddd4a872689774e18569d20341a6fe35f62dbf03d4d4b7af",
+      "sampleAnswerFingerprint": "505ab8958ba558ff90ba49a22377f761c71fe6a7045d9fb307dacb193a08feb9"
+    }
+  ],
+  "fingerprintManifest": [
+    "c8940f1e2bdc901ac15e88c2e46e3ae6fea3adfc5dc3d4c91eb7f13b8066d6a1",
+    "3119fe43d4bd0a03c860658c255bd0b0d2134be0bab580a275b19799d07fe929",
+    "5de8dd87b9b56a824c258564533fb0f97fd544d97a98d52505dadceebafaa1ad",
+    "f2b086f2a6366b1391e6b0dfed1125311964f92cd29d72f82c67cef921b7e9f7",
+    "68b6b0ca5174f220fba17a557e043cc7f9a8e4a0d6cb6d7d9455290f809fd672",
+    "d7bb5d4e0983db2789739877b7bb3eb365ce8db2e944161567ef0e87c5cf77d8",
+    "4557adf9e8ec1c7978b53f9d60f367a1d3e8ce0e14bde99cccfa2ebb29da97a9",
+    "7529ca2ede6112b428700e845cd3e29935fddb89630aa0b414c0b54dc12bc565",
+    "25ba9f977c6671d7b599122b044ef2c6c188b020c29b33c51376220580fff67f",
+    "214f1dcc822e4b2d1cb805ac2f9aececaf71b2638756b2a3fe53bdf52ceeeff9",
+    "a1995e787598f879b5fec8317eccc11722e3acef4f5bcc8f689d114e302f33cf",
+    "8dda0a5c1cc1c6006df8456720daea66b34e79fa2ce67408a6468839cf467c8c",
+    "93f29a0f781f5fe340d0ba1222089f052c4503a948b0dfcb3430a0144702a570",
+    "5d5b63e798c21551f56ecb368e5050a9cbcd4e4a208b8cc2173e78cf3d092fcb",
+    "822899209dbf85b7243f3cdc8b74a052b674e3fa64f5df6ef7e7b2abaa4c73bd",
+    "8e69f0317240f19c7a3f295cc62bb1b4a944ce5c39a2faf0afc19e3e66143f98",
+    "ec1803c3c5317bbbeb05de6dbb98c7c992cb78cffa8e6657ccbd9fedd17894de",
+    "2db4d1ac4b2f5fd08134b226a57cc7ecdd7d74c3f5c8180fee32c6bd47b5b41d",
+    "ec7411806b81ab879d7aa88bd9c2b8160622adb3f4ad06bbb09c5ae33ee4fda1",
+    "16f6ceaa40da0f7d9f72ab04b1cfa24a09e7022019d806b50702aede05203913",
+    "0d8308cffff5b44c60fdf4f271a5fd096647f80ef3ffac1533a7bab874c19273",
+    "e3ac97f4abdb3298f01529990ec21ab4ae342b021a33572f3c596a3c35dcc049",
+    "961a09ee68972de57c0851ef39a4688d0ef264455383a986d2c53074503f9254",
+    "70782bb9c10840e27a7d519b9d0f9ff02ba6d4c350459700a62c42ecabf4cc15",
+    "5969d1276242fc8dc4d37bd51a7c6848fae77fb647e0704502b1b2f32eae7f35",
+    "32485300e57ead8fedb0053d750b3ce483b42e6848a9f66e92f178b72b354023",
+    "38b663a3f65ef9ed0302f480edfd46e2eaf8ddccf973127c259387c1f6f1d6fd",
+    "4b51adb4c38fcc7ccc5bd3fad3577c118c2c275eb1d96e8e4595a913a7e31b69",
+    "b2e90ad6c2d8eeca66c79fc4f786b900983666f729ccf4b2fcd5f3ae0a89d6b8",
+    "c326fc5538e1923ea17900d2b9fbb7afe1145366ef305b6f7e3cd0618dd68881",
+    "97f3113e65d5ca675f17a034e121ed4ecc49a69da68a5fced36d410982b395a7",
+    "5accebe003da73fc6807d835dc8f038bccd98ee2a3396a6ad8274b62d87647bb",
+    "d63bb7407dfe7a920335f8997bfba5121a257e83c1545d2d25a44828aa55c2c8",
+    "88e94b4a159c28d1c96c3f991f447d782db743d9e28abbc7604cb680fca4ad3b",
+    "7bd3e71737848b3c060a96da377816f94d7af96abfa28fddba84988954b75173",
+    "9ace959e3a79349d20facc61aaac44c0e8bf1779905212a40f608db12181fe6b",
+    "dc29772271eebe290094996107479c80a27cdbd6c8998eead59ec082e04f7193",
+    "7a874ddf18c432e613981156437830af044c1d0462d3a2ce877182f788285aae",
+    "6f6219968cac5685f1f72e9f7098a66cef27d5d733133d96cd6236b8810e5133",
+    "40aa18a6c7e26c01a2212c2414c8f9a8169fa57a20eb9636bc20b9960d90ff2f",
+    "f54e866d0f0c4dd9649592458e4e054ed9aeeae3115af43ba86efe3cdd287446",
+    "65a4b8d40db64a5ec05d9fdfbf21c588503bd30e0bee25bb3505605c90460e8e",
+    "a3c280d9e39db7bb9c363667c40936aa6f812614cdd26cbdf4c2066c72d6c8fc",
+    "a436fb4363b931d587f3cc24b354c203e9462880253b1fa7cf6c5ea0802ff58d",
+    "dd998bbb5f8466acd76b96150991c6abb2f74f65ad0fad37cadf34cbe9cc3d9c",
+    "f7345f5d3476d6004aa4a59beb96ddaea31b8e9309ad1fed862065c1e4b191c2",
+    "bd6e3bc00a08305ded15fd1cc039bf88259f9d4b1fd0f22d4b9a11f07eef7426",
+    "c821ec0e46ab5c975f60aa2b954e5dcd2179687aee6b5bde9aa8c1def4ded47e",
+    "2203ed7119d367678d73232674d61a745beadabe403a64f2cc16222f10158d45",
+    "3ba2e91d1185bd3875610defd4cdfdf73956d2c949a21cbc51198438177071b6",
+    "3cafd4d0c52e95aca440b197c71cb0e5687185b9e6bc89e9087ecc749e98ce76",
+    "99c8481da160db6a0d5c9d6fbe28bdedfe606b99aa82330f8f696e38c0c762ed",
+    "0397b055b32ad39252dcbe4b85e5499f4072432d5dfef88d6f1decb8f36abbfd",
+    "cf22b4d3ab471e502bc3baf8be9716d210f30158cdf97e5cf121b5e3dc611507",
+    "3b3eaa7e08d219fa883c85a2a7df8ebc6ed7a391a2b4651c2f3c4ed298652bd2",
+    "33520c9b1efd83d323f2af513c52f9a3c50d46935bda50d10c11285ceeab573a",
+    "03f11be082c40f25cda511a7aca3c262bee1f0b819936b89620401455ece6c71",
+    "7137b0ff1a1df99e9309f921efbe8fab5e5a7e48351acde025a85ce675936f65",
+    "a5a28f434950f27b5e52f13b62274196d92c081158c7f111d77617ef340239ea",
+    "9afc7eaef7c721e3ddd4a872689774e18569d20341a6fe35f62dbf03d4d4b7af",
+    "505ab8958ba558ff90ba49a22377f761c71fe6a7045d9fb307dacb193a08feb9"
+  ],
+  "contentFingerprint": "e27bc1dd4486c2b5da432ce8b1f6ce8a25c6563ae7d548ab1c65845ad4337eb6"
+}
