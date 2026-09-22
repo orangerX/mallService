@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-29",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 29 · 公共空间与居民参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 29,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "A room for two activities",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Organiser: Our chess club and the singing group have both booked the hall.\nCaretaker: (1) _____\nOrganiser: Ours says two o'clock; theirs says three.\nCaretaker: The system allowed an overlap during your clearing-up time.\nOrganiser: (2) _____\nCaretaker: Yes, the smaller room is free from two.\nOrganiser: Will it hold ten players?\nCaretaker: (3) _____\nOrganiser: How can we avoid this next time?\nCaretaker: (4) _____",
+      "sharedOptions": {
+        "A": "Include preparation and clearing-up time in the booking request.",
+        "B": "Can we compare the times on your confirmations?",
+        "C": "Could the chess club use another room this afternoon?",
+        "D": "It has twelve seats and five tables."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A room for two activities\".",
+          "options": {
+            "A": "Include preparation and clearing-up time in the booking request.",
+            "B": "Can we compare the times on your confirmations?",
+            "C": "Could the chess club use another room this afternoon?",
+            "D": "It has twelve seats and five tables."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "核对双方确认时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fcd4d0c9218c8f112ce76f3de57cc4f3b60c64835dcf650f87168bb1240c705e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A room for two activities\".",
+          "options": {
+            "A": "Include preparation and clearing-up time in the booking request.",
+            "B": "Can we compare the times on your confirmations?",
+            "C": "Could the chess club use another room this afternoon?",
+            "D": "It has twelve seats and five tables."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "提出使用替代房间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "45e46f39b1333c5abe43a4a68674d09f1ecf36252fa73f082dd5393a0d0a8123"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A room for two activities\".",
+          "options": {
+            "A": "Include preparation and clearing-up time in the booking request.",
+            "B": "Can we compare the times on your confirmations?",
+            "C": "Could the chess club use another room this afternoon?",
+            "D": "It has twelve seats and five tables."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "用座位桌子说明容量。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1c83390a31559734c38fe60415e31cada01dea73142ecb39d21f8e1d7e5e61f6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"A room for two activities\".",
+          "options": {
+            "A": "Include preparation and clearing-up time in the booking request.",
+            "B": "Can we compare the times on your confirmations?",
+            "C": "Could the chess club use another room this afternoon?",
+            "D": "It has twelve seats and five tables."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "预约应覆盖准备和收拾时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f1b0b09062838f8514ca7cbe06c9127f465ed34a670bedb19386202737c292d4"
+        }
+      ],
+      "contentFingerprint": "61aed05dcdf95487ad56ba87e30849002116da8cd3baf6fd011e6ace81b842a0"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Commenting on the new square",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Planner: We are collecting views on the proposed town square.\nResident: (1) _____\nPlanner: They are displayed in the library entrance.\nResident: Can I comment without attending the evening meeting?\nPlanner: (2) _____\nResident: (3) _____\nPlanner: Please send it by the end of next week.",
+      "sharedOptions": {
+        "A": "When is the deadline for written comments?",
+        "B": "Only people who own shops may respond.",
+        "C": "Where can I see the drawings?",
+        "D": "Yes, a written response is equally welcome."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Commenting on the new square\".",
+          "options": {
+            "A": "When is the deadline for written comments?",
+            "B": "Only people who own shops may respond.",
+            "C": "Where can I see the drawings?",
+            "D": "Yes, a written response is equally welcome."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后句提供图纸展示地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ea21d322f0a9e400346e7397c7a49131b7267eadb39b5bd8f67e2372d652a8c2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Commenting on the new square\".",
+          "options": {
+            "A": "When is the deadline for written comments?",
+            "B": "Only people who own shops may respond.",
+            "C": "Where can I see the drawings?",
+            "D": "Yes, a written response is equally welcome."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "明确非会议参与渠道。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "829592a201d91ac3c03eebdf7ff63e673e999b8a4beb1908d1a7937c58185023"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Commenting on the new square\".",
+          "options": {
+            "A": "When is the deadline for written comments?",
+            "B": "Only people who own shops may respond.",
+            "C": "Where can I see the drawings?",
+            "D": "Yes, a written response is equally welcome."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问书面意见截止日期。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "cf6b05f8e495326262820d1dca96b3ff31654aa33d4526847ba90418e400bbd1"
+        }
+      ],
+      "contentFingerprint": "d5468babab8a9cbff8d31ca5f26f0eff263739dd480a16498924b43c3fe569f4"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "The bench near the windows",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Neighbour: The proposed bench is directly below our bedroom window.\nCoordinator: (1) _____\nNeighbour: Mainly noise late at night.\nCoordinator: (2) _____\nNeighbour: Moving it nearer the path might help.\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "Would a different position address part of the concern?",
+        "B": "Let's mark that alternative on the plan for discussion.",
+        "C": "The bench has already disappeared.",
+        "D": "What effect are you most concerned about?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"The bench near the windows\".",
+          "options": {
+            "A": "Would a different position address part of the concern?",
+            "B": "Let's mark that alternative on the plan for discussion.",
+            "C": "The bench has already disappeared.",
+            "D": "What effect are you most concerned about?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先明确具体顾虑。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8f38d7c550e84b69bdce9a23a0d22e1cebc9b33b36adb691532578aea21c7061"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"The bench near the windows\".",
+          "options": {
+            "A": "Would a different position address part of the concern?",
+            "B": "Let's mark that alternative on the plan for discussion.",
+            "C": "The bench has already disappeared.",
+            "D": "What effect are you most concerned about?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "探索位置调整能否缓解。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a8aa2688c951ca081d947e015f2de7099a1f1200c67f0058e66705de748d8a1f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"The bench near the windows\".",
+          "options": {
+            "A": "Would a different position address part of the concern?",
+            "B": "Let's mark that alternative on the plan for discussion.",
+            "C": "The bench has already disappeared.",
+            "D": "What effect are you most concerned about?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "把替代位置记录供讨论。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "32d85af196b00afba2cae143d01ce10f452e0a59188292ecc63d26407700e332"
+        }
+      ],
+      "contentFingerprint": "9344d1d9bb88b1ac4728deba2d682d87870c64f9da5995923a0a6f1301eeba9d"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The path people actually used",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A park plan placed a new path around the edge of a lawn. Before construction, volunteers observed that most walkers crossed diagonally between the gate and the bus stop. The designer adjusted the route to follow that connection while protecting a planted corner. Observation did not decide every design question, but it revealed a need that the first drawing had missed. A path was more likely to be used when it connected places people already travelled between.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The path people actually used\", Where was the path first planned?",
+          "options": {
+            "A": "Around the lawn's edge.",
+            "B": "Across a river.",
+            "C": "Inside the bus station.",
+            "D": "Through every flower bed."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "初稿沿草坪边缘。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "42ebf847fe81d4bdaf8a77dbd352310c78fe4003180d43a8dec65b43a4d02dc8",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The path people actually used\", Which connection did walkers prefer?",
+          "options": {
+            "A": "Two private houses.",
+            "B": "Gate to bus stop.",
+            "C": "Shop to hospital.",
+            "D": "Library to car factory."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "人们常从门口斜穿至公交站。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9b3ceb50166775ab0e8f102bb6635972c67250d96d51a3f76b61510b5fe30623",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The path people actually used\", What was protected in the revised plan?",
+          "options": {
+            "A": "Every existing shortcut.",
+            "B": "A closed office.",
+            "C": "A planted corner.",
+            "D": "An unused ticket machine."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "调整时保留种植角。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c7dabbe312b857a4ac0717bc9fa52953ff48f0e8d2075aeba6f23431e2594845",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The path people actually used\", What did observation contribute?",
+          "options": {
+            "A": "An answer to every design issue.",
+            "B": "A guarantee of no maintenance.",
+            "C": "A ban on all paths.",
+            "D": "A previously overlooked travel need."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "观察揭示初稿忽略的需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ce771b02aa453b01e19fca7381067070cb05ff4d5cf702220adcfe103b615e79",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The path people actually used\", What makes the new path likely to be used?",
+          "options": {
+            "A": "It follows a meaningful everyday connection.",
+            "B": "It ignores existing journeys.",
+            "C": "It has the longest distance.",
+            "D": "It crosses all planted areas."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "符合人们实际出行联系。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "fd26d48bf4990877a0fa31bf45aab73b6f59596696d233c6687e9501cbf622a1",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "d306bb9d3c8ee2065fa2ed096e9f4b0daf1c72a212e34571f9f5010e597cc5b7"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The consultation at lunchtime",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A town held meetings about its public square at seven in the evening. Responses came mainly from people with flexible schedules. A shop assistant suggested a lunchtime display near the market, where residents could leave short comments. The planning team also kept the evening meetings. The additional channel brought views from carers and shift workers. The team did not treat more comments as automatic agreement; it recorded where opinions differed and explained which choices remained open.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The consultation at lunchtime\", Who was underrepresented in the initial meetings?",
+          "options": {
+            "A": "Every shop owner.",
+            "B": "People unable to attend in the evening.",
+            "C": "People with flexible schedules.",
+            "D": "All town planners."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原渠道主要覆盖时间灵活者。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "41a9cede1c55323cc8976e9bed2810da2fb0e34de7b0a4d1c47af9fc5d8d8e2f",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The consultation at lunchtime\", What additional channel was proposed?",
+          "options": {
+            "A": "A private invitation to planners.",
+            "B": "A charge for each opinion.",
+            "C": "A lunchtime display with written comments.",
+            "D": "Meetings at midnight only."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "市场旁午间展板收集短评。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1a20a046f67c155c5c80f5f8e4eef1d2a3615e2bb25a2c41f17d442d3c60f9a6",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The consultation at lunchtime\", What happened to evening meetings?",
+          "options": {
+            "A": "They were all cancelled.",
+            "B": "They became compulsory.",
+            "C": "They moved abroad.",
+            "D": "They continued."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "新增渠道而非取消夜间会议。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "77d6aca518238c6dc262ce32aa3af1a4a222d8770054b8f0e8ae281a619e39a5",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The consultation at lunchtime\", How were conflicting views handled?",
+          "options": {
+            "A": "Differences were recorded.",
+            "B": "All disagreement was deleted.",
+            "C": "Only the longest comment counted.",
+            "D": "Every comment was called agreement."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "记录不同意见。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ce45a10df008315d4dd2f3cbbac4f65f4d3a2c14014ad61cd75264b481d4375a",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The consultation at lunchtime\", What does the passage suggest about participation?",
+          "options": {
+            "A": "Short comments are never useful.",
+            "B": "Different channels can broaden whose views are heard.",
+            "C": "More comments always mean consent.",
+            "D": "Evening meetings suit everyone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "多渠道扩大可参与人群。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d3f53591ad499a7ef40870e87eed3ae129eb2fe7fa4d065dabad6a2a01ea0ecc",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "34fd964e706988219264bd2caf420287225523237d5c5501ed4b4c22ae3d225a"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A garden with an owner for each job",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Residents created a small garden beside a community hall. Enthusiasm was high at the opening, but watering soon became irregular because everyone assumed someone else would do it. The group made a weekly rota, named a contact for absences and placed a simple record beside the tap. The garden recovered. Shared ownership did not mean leaving every task unnamed. Practical cooperation needed a way to connect collective interest with individual actions.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"A garden with an owner for each job\", What caused irregular watering?",
+          "options": {
+            "A": "The removal of every plant.",
+            "B": "A ban on volunteers.",
+            "C": "Unclear responsibility.",
+            "D": "A permanent lack of water."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "每人以为别人会浇水。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7b837162b5bae6b8cfb8fcb6b5f6f08efd44136071e3da75d8770eab44dddddb",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A garden with an owner for each job\", What did the group introduce?",
+          "options": {
+            "A": "A ticket charge.",
+            "B": "A new hall roof.",
+            "C": "A private fence.",
+            "D": "A weekly rota."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "制定每周排班。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "bf6f62b03b8a35a0917d0e8802ff739a70ce5ecd8c211362c062cda75aa4b3c7",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"A garden with an owner for each job\", Why name a contact for absences?",
+          "options": {
+            "A": "To arrange cover when someone could not attend.",
+            "B": "To remove all volunteers.",
+            "C": "To sell garden equipment.",
+            "D": "To replace the tap."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "缺席时可协调补位。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "46353672d6d606aed0414bd3d45ef1ba1341555159f42d9ec5f800f89f6ab99b",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A garden with an owner for each job\", Where was the record placed?",
+          "options": {
+            "A": "Under the soil.",
+            "B": "Beside the tap.",
+            "C": "Inside a locked office.",
+            "D": "At the bus depot."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原文明确位置。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "54beb31a7e12c58bffe67da9b8faa7f58d9403baf1e20086fc90c16e9b77c297",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"A garden with an owner for each job\", What is the main message?",
+          "options": {
+            "A": "Public gardens require no records.",
+            "B": "Collective interest prevents responsibility.",
+            "C": "Shared projects need clear individual tasks.",
+            "D": "Enthusiasm alone maintains gardens."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "共同兴趣要落实到个人行动。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ae67330e441844afc67ac5ee04f399a6fd51fed79b752656ad4e3fbd9ae18155",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "bf60601532d4ff3502d2310ba947fe58e9351e6d2b3b7a7958b9d5479ef79ca2"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The movable seats",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A library courtyard installed light chairs instead of fixing every seat to the ground. Readers could sit alone or form small groups, and staff stored the chairs indoors during severe weather. Some neighbours worried that flexible seating would create disorder. After a month, staff found several regular arrangements that users recreated each day. They photographed these patterns to guide future furniture choices. Flexibility revealed how people preferred to use the space before a permanent layout was chosen.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The movable seats\", What did light chairs allow readers to do?",
+          "options": {
+            "A": "Enter the library after closing.",
+            "B": "Avoid returning books.",
+            "C": "Control the weather.",
+            "D": "Choose individual or group arrangements."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "可独坐或组成小组。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8abb7d2c9fdff831d3f89ac5419a5f2b47847bf5af86347d393d0dae60256b56",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The movable seats\", When were chairs moved indoors?",
+          "options": {
+            "A": "During severe weather.",
+            "B": "At every lunchtime.",
+            "C": "Whenever one reader arrived.",
+            "D": "Only on sunny days."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "恶劣天气收回。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ba143299fa1164a207376f340fb92a5d1a27a3d2a20dc91ab66342e41d28088c",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The movable seats\", What concern did neighbours express?",
+          "options": {
+            "A": "The disappearance of trees.",
+            "B": "Possible disorder.",
+            "C": "Lack of printed books.",
+            "D": "Higher bus fares."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "担心灵活座椅带来混乱。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "00d990f998dc4f351b7450fa9f433b45891983cdddb2a4e4485ec36f7abbf995",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The movable seats\", What did staff record with photographs?",
+          "options": {
+            "A": "Visitors' identification cards.",
+            "B": "The price of every chair.",
+            "C": "Recurring seating patterns.",
+            "D": "Private book contents."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "记录使用者反复形成的布局。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5f6ea35839e5ebe4f3fff23921a13aa18086b500bdc710ba02d92e4603201ee0",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The movable seats\", Why delay a permanent layout?",
+          "options": {
+            "A": "To prevent all courtyard activity.",
+            "B": "To remove every seat.",
+            "C": "To avoid any future decision.",
+            "D": "To learn users' preferences from actual use."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先观察实际使用偏好再定型。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8d1c262f7c2d1e63768033c357aaff3bc521c5b9edf492684b2c9c018a9abd31",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "2015758cfd8ce684755c92c75d6b7a23836dd36fa7c946217674f1f2e0cdc368"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The revised path reflects the actual _____ of pedestrians.",
+      "options": {
+        "A": "illness",
+        "B": "movement",
+        "C": "ingredient",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "movement 指行走流动。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "97cbf5616d0307db48dfb5c553c53de4a0d96b7be29a074ee62f6569557edf40"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The council invited residents to _____ on the square's design.",
+      "options": {
+        "A": "consist",
+        "B": "depend",
+        "C": "comment",
+        "D": "compete"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "comment on 表示评论。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "503bd5388f8e223ea5460c0bff691025bbc89a5b2e88fbd1048ce0bf2e2d25e5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A weekly _____ makes watering responsibilities clear.",
+      "options": {
+        "A": "rumour",
+        "B": "receipt",
+        "C": "ribbon",
+        "D": "rota"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "rota 指轮值表。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7eb9b4300ac0749c046aa95e996f917b5e5d2dc93da392b3ffd8f0a82346734a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The display provided an additional _____ for participation.",
+      "options": {
+        "A": "channel",
+        "B": "ceiling",
+        "C": "symptom",
+        "D": "cargo"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "channel 指渠道。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "50d55abc3869361423daadf4780f2cfb60dbfc1f494210b2c8452cae47a5d7fc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The planner _____ a corner of the garden from construction.",
+      "options": {
+        "A": "translated",
+        "B": "protected",
+        "C": "borrowed",
+        "D": "accused"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "protect 表示保护。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "872262c3b5f7ef240dd73028501a2dab45219246db61d65cbe9e2f0382988815"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Flexible chairs allow users to _____ the courtyard to different activities.",
+      "options": {
+        "A": "owe",
+        "B": "confess",
+        "C": "adapt",
+        "D": "resent"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "adapt...to 表示使适应。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "de94ec10c207723a3412c32305c918e5131b1c3004b2d4faf197092cbe023daf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The report should _____ disagreement rather than conceal it.",
+      "options": {
+        "A": "erase",
+        "B": "purchase",
+        "C": "scatter",
+        "D": "acknowledge"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "acknowledge 表示承认。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c55bd341be40b1008bfdf0c9e78a046529409b6d83b548a6ce2e1906383f1631"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The opening attracted great _____, but regular work still needed organising.",
+      "options": {
+        "A": "enthusiasm",
+        "B": "congestion",
+        "C": "poverty",
+        "D": "confusion"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "enthusiasm 指热情。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "98307bd644cfacc28b6eacd6cfc21891528b27024c807a0fb3e45f6a4b4bdcef"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "A _____ arrangement can reveal preferences before permanent work begins.",
+      "options": {
+        "A": "hostile",
+        "B": "temporary",
+        "C": "compulsory",
+        "D": "identical"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "temporary 表示临时的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "130ce1ea22bb7ee234160218ad6380675dca182a48ef60a566e2062d65612112"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Residents proposed a _____ position for the bench.",
+      "options": {
+        "A": "guilty",
+        "B": "mechanical",
+        "C": "different",
+        "D": "delicious"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "different 表示不同的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3641930a9736a04f4d8206fcc810006fc598907ad63c71f689331678993732ca"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The path will follow the route _____ most residents already take.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "从句缺 take 的宾语，指路线用 that。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2a103e86eb2c6518fc980f3c10905a4449345e9972c924bcf7179cf598fd583a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "A list of watering duties _____ posted beside the tap.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "be",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "主语 list 单数。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "dac586834e844658c61381fdcefc49b46687481de122961399a8a0148a80c48b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The planner encouraged residents _____ written comments as well as attend meetings.",
+      "options": {
+        "A": "to submit",
+        "B": "submitting",
+        "C": "submitted",
+        "D": "submit"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "encourage somebody to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "969a6640b4ad8974d15735acde693c6e22c8a5f880b6bf295ec647e8e993071a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "If the chairs were fixed, users _____ able to form different groups so easily.",
+      "options": {
+        "A": "are not being",
+        "B": "would not be",
+        "C": "will not be",
+        "D": "had not been"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在虚拟条件句结果用 would。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2d48611a2d421ace0b8e49fb9ee0e7b0c4b5e68a8a2d47e2782cfe785d7b3d50"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The drawings _____ in the library since Monday.",
+      "options": {
+        "A": "were displaying",
+        "B": "have displaying",
+        "C": "have been displayed",
+        "D": "has displayed"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "since Monday 用现在完成时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3ade87dd55f08d214b181dc3cdf58dc349294e7d77072b27c6224ca62865d75e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The courtyard is large enough for ten people _____ comfortably.",
+      "options": {
+        "A": "sitting",
+        "B": "sat",
+        "C": "sit",
+        "D": "to sit"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "enough for somebody to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7fb8201f389f96d4977c8f52ebe96f6a800a40cceb46597ac4dce52d967780da"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Only after the lunchtime display _____ comments from several shift workers.",
+      "options": {
+        "A": "did we receive",
+        "B": "we received",
+        "C": "we did receive",
+        "D": "received we did"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only 状语前置部分倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "862e8e601372872d49fd28e8f07383efafbce5755efd0827e693b19be2f14f15"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The resident asked _____ the bench could be moved closer to the path.",
+      "options": {
+        "A": "what to",
+        "B": "whether",
+        "C": "whose",
+        "D": "which of"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "whether 引导是否的宾语从句。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2a46e14240baf8c2ef23c47068354e5213e01a27f7d4e5c4a316b6a490cf191f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Everyone should know whom _____ if they cannot take their watering turn.",
+      "options": {
+        "A": "contacted",
+        "B": "contacts",
+        "C": "to contact",
+        "D": "contacting"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "疑问词加不定式。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "107ffa0bcb55a4b491cf0f190730000771c58a1c4e711b41434506039ae086ff"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The consultation offered two ways to respond, neither of _____ required a smartphone.",
+      "options": {
+        "A": "them",
+        "B": "that",
+        "C": "whose",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "非限制性从句介词后用 which。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d8472782b612be622667b82604a6f91c364f0a1941f74e9ebe1cecf1f7e11069"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nA public place serves people whose routines and preferences may differ greatly. Observing how they already use a space can reveal needs that a drawing alone does not show. Consultation is stronger when people have more than one way to contribute. Listening does not mean accepting every suggestion, but it does mean explaining how suggestions affect the final choice.",
+      "referenceAnswer": "公共场所服务的人们，日常安排和偏好可能有很大差异。观察他们已经如何使用一个空间，能够发现仅靠图纸无法显示的需求。当人们有不止一种参与途径时，意见征询就更加充分。倾听并不意味着接受每条建议，但意味着说明建议如何影响最终选择。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "66151dbcbae7e824d5ad37248cb6aa93f02e9ac083f83d79591ad1397d6c6320",
+      "referenceAnswerFingerprint": "a89a81e33b74dd067db16b9bf396148ba5aa7ad8ec742968f4495b21d3f9f8b2"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nWrite a proposal for gathering residents' views before redesigning a community courtyard. Include two participation methods, one useful observation, and a way to report the final decision.",
+      "sampleAnswer": "Before redesigning the courtyard, I suggest combining a short public meeting with a display where residents can leave written comments during the day. These methods would include people who work evenings or cannot stay for a long discussion. Volunteers should also observe how the courtyard is currently used, noting common walking routes and places where people choose to sit. They should record patterns without collecting personal details. After comparing suggestions, the committee could display the selected plan with a brief explanation of the main choices. Where a popular request cannot be included, the reason should be stated clearly. This process would help residents see how their experience contributed, even when the final design cannot satisfy every preference.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "3e04bee58b4c878874290e88957244e8f34222d1a3c1594e38252e6d886e368a",
+      "sampleAnswerFingerprint": "52d07af22cc8f0b0374e9f09f14af875d5cfd5e2c2c6c88af2b242a85e03d5d0"
+    }
+  ],
+  "fingerprintManifest": [
+    "61aed05dcdf95487ad56ba87e30849002116da8cd3baf6fd011e6ace81b842a0",
+    "fcd4d0c9218c8f112ce76f3de57cc4f3b60c64835dcf650f87168bb1240c705e",
+    "45e46f39b1333c5abe43a4a68674d09f1ecf36252fa73f082dd5393a0d0a8123",
+    "1c83390a31559734c38fe60415e31cada01dea73142ecb39d21f8e1d7e5e61f6",
+    "f1b0b09062838f8514ca7cbe06c9127f465ed34a670bedb19386202737c292d4",
+    "d5468babab8a9cbff8d31ca5f26f0eff263739dd480a16498924b43c3fe569f4",
+    "ea21d322f0a9e400346e7397c7a49131b7267eadb39b5bd8f67e2372d652a8c2",
+    "829592a201d91ac3c03eebdf7ff63e673e999b8a4beb1908d1a7937c58185023",
+    "cf6b05f8e495326262820d1dca96b3ff31654aa33d4526847ba90418e400bbd1",
+    "9344d1d9bb88b1ac4728deba2d682d87870c64f9da5995923a0a6f1301eeba9d",
+    "8f38d7c550e84b69bdce9a23a0d22e1cebc9b33b36adb691532578aea21c7061",
+    "a8aa2688c951ca081d947e015f2de7099a1f1200c67f0058e66705de748d8a1f",
+    "32d85af196b00afba2cae143d01ce10f452e0a59188292ecc63d26407700e332",
+    "d306bb9d3c8ee2065fa2ed096e9f4b0daf1c72a212e34571f9f5010e597cc5b7",
+    "42ebf847fe81d4bdaf8a77dbd352310c78fe4003180d43a8dec65b43a4d02dc8",
+    "9b3ceb50166775ab0e8f102bb6635972c67250d96d51a3f76b61510b5fe30623",
+    "c7dabbe312b857a4ac0717bc9fa52953ff48f0e8d2075aeba6f23431e2594845",
+    "ce771b02aa453b01e19fca7381067070cb05ff4d5cf702220adcfe103b615e79",
+    "fd26d48bf4990877a0fa31bf45aab73b6f59596696d233c6687e9501cbf622a1",
+    "34fd964e706988219264bd2caf420287225523237d5c5501ed4b4c22ae3d225a",
+    "41a9cede1c55323cc8976e9bed2810da2fb0e34de7b0a4d1c47af9fc5d8d8e2f",
+    "1a20a046f67c155c5c80f5f8e4eef1d2a3615e2bb25a2c41f17d442d3c60f9a6",
+    "77d6aca518238c6dc262ce32aa3af1a4a222d8770054b8f0e8ae281a619e39a5",
+    "ce45a10df008315d4dd2f3cbbac4f65f4d3a2c14014ad61cd75264b481d4375a",
+    "d3f53591ad499a7ef40870e87eed3ae129eb2fe7fa4d065dabad6a2a01ea0ecc",
+    "bf60601532d4ff3502d2310ba947fe58e9351e6d2b3b7a7958b9d5479ef79ca2",
+    "7b837162b5bae6b8cfb8fcb6b5f6f08efd44136071e3da75d8770eab44dddddb",
+    "bf6f62b03b8a35a0917d0e8802ff739a70ce5ecd8c211362c062cda75aa4b3c7",
+    "46353672d6d606aed0414bd3d45ef1ba1341555159f42d9ec5f800f89f6ab99b",
+    "54beb31a7e12c58bffe67da9b8faa7f58d9403baf1e20086fc90c16e9b77c297",
+    "ae67330e441844afc67ac5ee04f399a6fd51fed79b752656ad4e3fbd9ae18155",
+    "2015758cfd8ce684755c92c75d6b7a23836dd36fa7c946217674f1f2e0cdc368",
+    "8abb7d2c9fdff831d3f89ac5419a5f2b47847bf5af86347d393d0dae60256b56",
+    "ba143299fa1164a207376f340fb92a5d1a27a3d2a20dc91ab66342e41d28088c",
+    "00d990f998dc4f351b7450fa9f433b45891983cdddb2a4e4485ec36f7abbf995",
+    "5f6ea35839e5ebe4f3fff23921a13aa18086b500bdc710ba02d92e4603201ee0",
+    "8d1c262f7c2d1e63768033c357aaff3bc521c5b9edf492684b2c9c018a9abd31",
+    "97cbf5616d0307db48dfb5c553c53de4a0d96b7be29a074ee62f6569557edf40",
+    "503bd5388f8e223ea5460c0bff691025bbc89a5b2e88fbd1048ce0bf2e2d25e5",
+    "7eb9b4300ac0749c046aa95e996f917b5e5d2dc93da392b3ffd8f0a82346734a",
+    "50d55abc3869361423daadf4780f2cfb60dbfc1f494210b2c8452cae47a5d7fc",
+    "872262c3b5f7ef240dd73028501a2dab45219246db61d65cbe9e2f0382988815",
+    "de94ec10c207723a3412c32305c918e5131b1c3004b2d4faf197092cbe023daf",
+    "c55bd341be40b1008bfdf0c9e78a046529409b6d83b548a6ce2e1906383f1631",
+    "98307bd644cfacc28b6eacd6cfc21891528b27024c807a0fb3e45f6a4b4bdcef",
+    "130ce1ea22bb7ee234160218ad6380675dca182a48ef60a566e2062d65612112",
+    "3641930a9736a04f4d8206fcc810006fc598907ad63c71f689331678993732ca",
+    "2a103e86eb2c6518fc980f3c10905a4449345e9972c924bcf7179cf598fd583a",
+    "dac586834e844658c61381fdcefc49b46687481de122961399a8a0148a80c48b",
+    "969a6640b4ad8974d15735acde693c6e22c8a5f880b6bf295ec647e8e993071a",
+    "2d48611a2d421ace0b8e49fb9ee0e7b0c4b5e68a8a2d47e2782cfe785d7b3d50",
+    "3ade87dd55f08d214b181dc3cdf58dc349294e7d77072b27c6224ca62865d75e",
+    "7fb8201f389f96d4977c8f52ebe96f6a800a40cceb46597ac4dce52d967780da",
+    "862e8e601372872d49fd28e8f07383efafbce5755efd0827e693b19be2f14f15",
+    "2a46e14240baf8c2ef23c47068354e5213e01a27f7d4e5c4a316b6a490cf191f",
+    "107ffa0bcb55a4b491cf0f190730000771c58a1c4e711b41434506039ae086ff",
+    "d8472782b612be622667b82604a6f91c364f0a1941f74e9ebe1cecf1f7e11069",
+    "66151dbcbae7e824d5ad37248cb6aa93f02e9ac083f83d79591ad1397d6c6320",
+    "a89a81e33b74dd067db16b9bf396148ba5aa7ad8ec742968f4495b21d3f9f8b2",
+    "3e04bee58b4c878874290e88957244e8f34222d1a3c1594e38252e6d886e368a",
+    "52d07af22cc8f0b0374e9f09f14af875d5cfd5e2c2c6c88af2b242a85e03d5d0"
+  ],
+  "contentFingerprint": "d2ec09d6cb4b52689642a228ae6d2a9fa7bc7f9c78c718ed4593078a02dabd9c"
+}

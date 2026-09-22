@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-36",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 36 · 语言交流与跨文化合作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 36,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Preparing a bilingual notice",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Manager: We need this closure notice in two languages by tomorrow.\nTranslator: (1) _____\nManager: The building closes at noon, but the online service stays open.\nTranslator: (2) _____\nManager: Good point. Can you keep both versions on one page?\nTranslator: (3) _____\nManager: Who should look at it before we print?\nTranslator: (4) _____",
+      "sharedOptions": {
+        "A": "Please confirm exactly which services will be unavailable.",
+        "B": "I'll make that distinction explicit in both versions.",
+        "C": "Yes, provided the text remains large enough to read.",
+        "D": "A speaker of each language should check the instructions."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Preparing a bilingual notice\", select the response for blank (1).",
+          "options": {
+            "A": "Please confirm exactly which services will be unavailable.",
+            "B": "I'll make that distinction explicit in both versions.",
+            "C": "Yes, provided the text remains large enough to read.",
+            "D": "A speaker of each language should check the instructions."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先明确受影响服务，后句提供范围。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "615b4bf3f8948c74b4d06be716f96d99d46dbb3623e3ab7bb31e2bbde649704a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Preparing a bilingual notice\", select the response for blank (2).",
+          "options": {
+            "A": "Please confirm exactly which services will be unavailable.",
+            "B": "I'll make that distinction explicit in both versions.",
+            "C": "Yes, provided the text remains large enough to read.",
+            "D": "A speaker of each language should check the instructions."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "楼宇与线上不同状态必须明确区分。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "84f103a8d8cf81f3b7d0a5ef0815634eb35cabaf5532b87120848b94b5a93fc6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Preparing a bilingual notice\", select the response for blank (3).",
+          "options": {
+            "A": "Please confirm exactly which services will be unavailable.",
+            "B": "I'll make that distinction explicit in both versions.",
+            "C": "Yes, provided the text remains large enough to read.",
+            "D": "A speaker of each language should check the instructions."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "一页排版仍需保证可读字号。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "2b7dfbb398fab2b4194498ea5bae8483b179b63d970c7be889df553254444114"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Preparing a bilingual notice\", select the response for blank (4).",
+          "options": {
+            "A": "Please confirm exactly which services will be unavailable.",
+            "B": "I'll make that distinction explicit in both versions.",
+            "C": "Yes, provided the text remains large enough to read.",
+            "D": "A speaker of each language should check the instructions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "打印前由对应语言使用者查说明。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "6bf7b5dd57c985dd757a5c2e856c360b2d0cd06edbe8908efbda9cb44d32af1f"
+        }
+      ],
+      "contentFingerprint": "4431fc42c92c12b0009e5dd91761ce963ef078f4deb88c8e9eba03c991dc44cb"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A phrase with two meanings",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: My colleague said the proposal was interesting. Does that mean she approved it?\nTutor: (1) _____\nLearner: Her tone was uncertain, and she asked several questions.\nTutor: (2) _____\nLearner: How could I ask without sounding rude?\nTutor: (3) _____",
+      "sharedOptions": {
+        "A": "That depends on the context and how she said it.",
+        "B": "Then it would be better to clarify her view.",
+        "C": "You could ask which parts she supports and which need more work.",
+        "D": "The proposal is printed on white paper."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"A phrase with two meanings\", select the response for blank (1).",
+          "options": {
+            "A": "That depends on the context and how she said it.",
+            "B": "Then it would be better to clarify her view.",
+            "C": "You could ask which parts she supports and which need more work.",
+            "D": "The proposal is printed on white paper."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "interesting 的含义需结合语境语气。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "ffe93ac2b6802edb8aa4a165c019886a6cbfc8f49fcccb846c194d8f5488468d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"A phrase with two meanings\", select the response for blank (2).",
+          "options": {
+            "A": "That depends on the context and how she said it.",
+            "B": "Then it would be better to clarify her view.",
+            "C": "You could ask which parts she supports and which need more work.",
+            "D": "The proposal is printed on white paper."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "不确定语气与问题提示应澄清。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "45f93f081cb83a923d35307fd65c64e6356570086b124421305b9aa3bae12fb0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"A phrase with two meanings\", select the response for blank (3).",
+          "options": {
+            "A": "That depends on the context and how she said it.",
+            "B": "Then it would be better to clarify her view.",
+            "C": "You could ask which parts she supports and which need more work.",
+            "D": "The proposal is printed on white paper."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "询问支持与待改部分属于礼貌具体问法。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "78c476d45d78f66def832b17594a2c519ef82f4cc4965053f4a46deb2fbcad17"
+        }
+      ],
+      "contentFingerprint": "1828dfc35850758ed16fde5a179635ae9599b245a3fee69ea31398eff5287d6c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Choosing a discussion language",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Host: Two new members find rapid English discussion difficult.\nParticipant: (1) _____\nHost: That would help. Could we also share key terms beforehand?\nParticipant: (2) _____\nHost: What should we do if someone still misses a point?\nParticipant: (3) _____",
+      "sharedOptions": {
+        "A": "Let's speak in shorter turns and pause between ideas.",
+        "B": "I can prepare a short glossary with examples.",
+        "C": "Invite questions and restate the idea in different words.",
+        "D": "The room has a newer ceiling."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"Choosing a discussion language\", select the response for blank (1).",
+          "options": {
+            "A": "Let's speak in shorter turns and pause between ideas.",
+            "B": "I can prepare a short glossary with examples.",
+            "C": "Invite questions and restate the idea in different words.",
+            "D": "The room has a newer ceiling."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "较短发言与停顿可降低快速交流困难。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5a72cdd716625eb77531ec19ef74f5af36abbe6a0dcfe3ac6c06224560eb767f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"Choosing a discussion language\", select the response for blank (2).",
+          "options": {
+            "A": "Let's speak in shorter turns and pause between ideas.",
+            "B": "I can prepare a short glossary with examples.",
+            "C": "Invite questions and restate the idea in different words.",
+            "D": "The room has a newer ceiling."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "术语表与例子回应预先分享关键词。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "007dd2e42fff2bf6a7fd4485551048c5f61c4ab46ac0ea5583463afb5d8b44de"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"Choosing a discussion language\", select the response for blank (3).",
+          "options": {
+            "A": "Let's speak in shorter turns and pause between ideas.",
+            "B": "I can prepare a short glossary with examples.",
+            "C": "Invite questions and restate the idea in different words.",
+            "D": "The room has a newer ceiling."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "换说法与鼓励提问帮助遗漏者理解。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "dc164494917f8ef2908f6a05a65e753de6045655d686fcd94c6538a6d5ec7ccd"
+        }
+      ],
+      "contentFingerprint": "b675c3e1859bf7d33cdf4dbc6b361a9597aeb2d3bb763c54698fb0483e6017d9"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The invitation nobody answered",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A community centre sent new residents a translated invitation to an open meeting. Few replied. Staff first wondered whether the translation was inaccurate. A volunteer pointed out that the message asked readers to 'confirm attendance' without explaining how or whether a reply was required to enter. The next invitation gave a phone number, a deadline and a statement that drop-in visitors were welcome. Replies increased, and more people attended without booking. Translation had carried the words into another language, but practical clarity required examining what readers needed to do. The revised message helped long-term residents as well as newcomers.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The invitation nobody answered\": What problem followed the first invitation?",
+          "options": {
+            "A": "Few recipients replied.",
+            "B": "The meeting room flooded.",
+            "C": "Every place was booked.",
+            "D": "No translation was provided."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首封邀请回应很少。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d11012b109731d14c530adfd2dd9f58f36837547a1c02b089189adc154342d61"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The invitation nobody answered\": What information was missing from the request to confirm?",
+          "options": {
+            "A": "The centre's history",
+            "B": "How to reply and whether it was necessary",
+            "C": "The volunteer's age",
+            "D": "The price of translation software"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "未说明回复方法或是否必须回复才能参加。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "e33b871b631e07304ff6fb96c8d35b1b46d835a3b8a304f7c6e05ffa5784eb93"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The invitation nobody answered\": What did the revised invitation clarify about unbooked visitors?",
+          "options": {
+            "A": "They had to leave early.",
+            "B": "They needed two forms.",
+            "C": "They were welcome.",
+            "D": "They should use another building."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "明确欢迎未预约直接到场者。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d0ebda679add33a9e08016e62e5a1884b196c3fa732f59942132a1da63eb4351"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The invitation nobody answered\": Who benefited from the clearer message?",
+          "options": {
+            "A": "Only professional translators",
+            "B": "Only staff members",
+            "C": "Only people living abroad",
+            "D": "Both new and established residents"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "老居民也从清晰说明中受益。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "8509915e99af524801f926d26cabf7095be485b08ae457f0a5a651ddda6369a1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The invitation nobody answered\": What distinction does the passage emphasise?",
+          "options": {
+            "A": "Accurate wording and practical instructions are related but different needs.",
+            "B": "A translation is always worse than its source.",
+            "C": "Meetings should never require replies.",
+            "D": "New residents dislike public events."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "语言转换之外仍需考虑行动信息是否清楚。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "fb14a504a03f52ad4fc42fac74d5d60a627c0b314da3aba5b48b2b698f6d88be"
+        }
+      ],
+      "contentFingerprint": "d6c30fac3d3258ce7ac7d95ddbcc0defcb8178dd900c162bd48095a839d5e461"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A word list built together",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An adult class studying workplace English received a long list of technical words. Learners memorised definitions but struggled to use them in conversations. Their tutor asked each person to bring one real situation in which a term was needed. A cleaner described reporting a loose cable; a driver explained a delivery delay. The class built short exchanges around these examples and added common alternatives. The list became shorter but more closely connected to use. Learners still needed precise terms, yet understanding included knowing when a word was useful, whom to say it to and what response might follow.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"A word list built together\": What difficulty remained after learners memorised definitions?",
+          "options": {
+            "A": "Writing their names",
+            "B": "Using the terms in conversation",
+            "C": "Finding classroom chairs",
+            "D": "Reading a timetable"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "记住释义但不会在交流中应用。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "1159cd161577f83de722e0d8ae86d62756e4c08ade426e898bb6fed1df8e9bf0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A word list built together\": What did the tutor ask learners to contribute?",
+          "options": {
+            "A": "A new dictionary",
+            "B": "A formal examination",
+            "C": "A real situation requiring a term",
+            "D": "A list of unrelated verbs"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "每人提供真实使用场景。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "bd517962b1bbfa8189bf953251a0b2d8e7744c55d0c8b1963b0b29f51ce97c6c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"A word list built together\": How did the revised word list change?",
+          "options": {
+            "A": "It contained only translations.",
+            "B": "It lost all technical terms.",
+            "C": "It grew without examples.",
+            "D": "It became shorter and more practical."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "更短但与实际使用联系更紧。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "0df9b25f08c990b056a6b0784a2394bcee1ef60791929104cf6b26969f421f19"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A word list built together\": Why were the cleaner's and driver's examples useful?",
+          "options": {
+            "A": "They connected language to workplace purposes.",
+            "B": "They proved all jobs use identical words.",
+            "C": "They replaced the tutor's role entirely.",
+            "D": "They avoided any conversation."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "实例将词汇与工作沟通目的关联。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "178f0f095dc36bef3d105b96007b1901d21eb08845a4f0d340c9b6a8aa77b41f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"A word list built together\": What broader view of word knowledge is presented?",
+          "options": {
+            "A": "Knowing a definition is always sufficient.",
+            "B": "Use, audience and likely responses also matter.",
+            "C": "Technical vocabulary should be banned.",
+            "D": "Alternative expressions prevent learning."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "掌握词汇包括何时、向谁用及后续反应。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "152b82af2b91e9719347b575bdb1a4af959d8e26ed2709661f318a013e7c1029"
+        }
+      ],
+      "contentFingerprint": "e380253159c488fca20445658b17733496a44b7eecdefa5676e3ff1c785114ef"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The pause in the meeting",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "During a joint project, Arun noticed that one colleague rarely spoke immediately after a question. He assumed she had little to contribute and often filled the silence himself. Later, she sent detailed written observations that changed the team's plan. Arun realised that his quick response habit left little room for people who preferred time to organise thoughts in a second language. At the next meeting, he circulated questions in advance and allowed a short thinking pause. More members contributed. The adjustment did not lower expectations; it changed the conditions under which different people could meet them.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The pause in the meeting\": What did Arun first assume about the quiet colleague?",
+          "options": {
+            "A": "She knew the plan already.",
+            "B": "She disliked written work.",
+            "C": "She had little to contribute.",
+            "D": "She wanted to chair every meeting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "他将不立即说话误认为缺少贡献。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "64e6ffbf1fb88383d6552f8d3d51d13737b186aca6f1d3778e0b51537961b336"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The pause in the meeting\": What challenged Arun's assumption?",
+          "options": {
+            "A": "A cancelled meeting",
+            "B": "A new office rule",
+            "C": "Her rapid typing",
+            "D": "Her detailed written observations"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "她的书面意见改变团队计划。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "1b19539f3d4a382c099686b49954cc5f5a8e0a5eddc158cce48c3674f4284c7f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The pause in the meeting\": What did Arun change before the next meeting?",
+          "options": {
+            "A": "He sent questions ahead of time.",
+            "B": "He removed all questions.",
+            "C": "He required instant answers.",
+            "D": "He shortened the project deadline."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "会前分发问题，会上留思考停顿。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "d411c53b34eef4d3cdceff0768e0731b49bc2a8d6eabea0a764f5fffe50b77f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The pause in the meeting\": What followed the adjusted discussion format?",
+          "options": {
+            "A": "Fewer people received information.",
+            "B": "More members participated.",
+            "C": "All work became written only.",
+            "D": "The colleague left the project."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "更多成员贡献意见。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "dc1fec85032a7d8d78f90562299f622eafdedf0dc36c15ec64ae93dda6a1d06b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The pause in the meeting\": How does the writer view the adjustment?",
+          "options": {
+            "A": "As reducing the quality expected",
+            "B": "As avoiding difficult ideas",
+            "C": "As enabling different people to meet shared expectations",
+            "D": "As favouring silence over discussion"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "改变参与条件，未降低期待。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "1336ce97e8b8f6efe2ceff21673cf503955918be8d1acc3ec1582034a4599acb"
+        }
+      ],
+      "contentFingerprint": "3c8252a87ea5159a2f9b8fc6856e53b32d0006d5266fdf3cd32cb22893a7f181"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The name on the badge",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "At a training event, organisers printed participants' names from a registration form. Several badges shortened unfamiliar names without asking. One participant explained that the shortened form was not a name she used. The organiser apologised and offered blank badges so everyone could choose how to be addressed. She also added a preferred-name field to future forms. The change was small, but it affected the opening conversation: participants no longer had to begin by correcting an unwanted label. Accuracy in a name was not merely an administrative detail; it was part of making space for a person to introduce themselves.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The name on the badge\": What caused concern about some badges?",
+          "options": {
+            "A": "They were too colourful.",
+            "B": "They showed no event date.",
+            "C": "They were printed late.",
+            "D": "Names were shortened without permission."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "陌生名字未经询问被缩短。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "c7247be104457358bc582712b1023d3fa9707627be71fd3e2ae5961350c9cbdc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The name on the badge\": What immediate remedy did the organiser offer?",
+          "options": {
+            "A": "Blank badges participants could complete",
+            "B": "A ban on introductions",
+            "C": "A second registration fee",
+            "D": "An identical name for everyone"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供空白胸牌由本人选择称呼。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "28b031e7ed8b7224714d8a343daffc81079a31520e49fa8399b2ba99e9188a65"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The name on the badge\": What was added to later registration forms?",
+          "options": {
+            "A": "A handwriting test",
+            "B": "A preferred-name field",
+            "C": "A request for job references",
+            "D": "A compulsory nickname"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "新增偏好称呼字段。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "e424a53ab783505db39ab232767cf01e552e432c60da682d95a296f2eab7a374"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The name on the badge\": How did the change improve opening conversations?",
+          "options": {
+            "A": "It removed all need to speak.",
+            "B": "It made the event shorter.",
+            "C": "People no longer began by correcting unwanted labels.",
+            "D": "It forced everyone to use full legal names."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "避免以纠正不认可称呼开场。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e5f0bb70cf92310246a7821d782e4ff3a2c3e90f85b3506f6eea862e6c1313b6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The name on the badge\": What does the story suggest about name accuracy?",
+          "options": {
+            "A": "It matters only to printers.",
+            "B": "It is less useful than a nickname.",
+            "C": "It prevents informal conversation.",
+            "D": "It can express respect for personal identity."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "正确称呼是尊重个人自我介绍和身份的一部分。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "54d8ef61b71f12e06a919c732aac4fe20050ef86799ea39b76aa5faaabd13cde"
+        }
+      ],
+      "contentFingerprint": "c8298ea54bef8f678b3f64fb2c67a837e264ff47baa2db3c3436524fb7d4e753"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Please _____ the instruction in simpler words; the technical expression is unfamiliar.",
+      "options": {
+        "A": "rephrase",
+        "B": "replace",
+        "C": "refuse",
+        "D": "recover"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "rephrase 指换一种说法。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f5608b26e04b3a69529f8ae448923399173992761e6eec64bd7c97faba6e9cf2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The interpreter remained _____ and translated both sides without adding personal opinions.",
+      "options": {
+        "A": "anxious",
+        "B": "neutral",
+        "C": "narrow",
+        "D": "negative"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neutral 指中立。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e591a54bdbd91b87eacb8a2131f1124854833bdf7772704f7680abbed0d28c98"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A short example can make an abstract explanation more _____.",
+      "options": {
+        "A": "reluctant",
+        "B": "reckless",
+        "C": "concrete",
+        "D": "constant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "concrete 指具体的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "84665f82558d48c67a1085efed0e04ec297eb6297a7f184f17b64c8e1d0ae3c1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The tutor noticed a _____ between knowing a word and using it naturally.",
+      "options": {
+        "A": "gear",
+        "B": "grant",
+        "C": "glance",
+        "D": "gap"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "gap 指差距。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c19ac027841420b6ad438b6d3c1da26a40a4bcd7b8987370e84208a0ce75adfd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The notice was _____ because it did not say which entrance would close.",
+      "options": {
+        "A": "ambiguous",
+        "B": "accurate",
+        "C": "automatic",
+        "D": "available"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ambiguous 为有歧义、不明确的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "18401b0c622bd9d1c4a2b1e75b2712851563ca1c375215b4a8d89bd645aa92a0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "We asked participants to state their preferred _____ before introducing them.",
+      "options": {
+        "A": "forecast",
+        "B": "pronunciation",
+        "C": "equipment",
+        "D": "distance"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "preferred pronunciation 指姓名偏好读法。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5794750b8f28db6d5fd020c0a60e3e3b636d6ba818bc1e774bfc63de29c13afd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A glossary should include terms that are _____ to the readers' actual tasks.",
+      "options": {
+        "A": "resistant",
+        "B": "remote",
+        "C": "relevant",
+        "D": "reluctant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "relevant to 表与之相关。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fc733c0cb2d95b7d7960fead87c4fba255306cbcaf542a2805e8b179f4b4a2d6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Her careful questions helped _____ a misunderstanding before it grew.",
+      "options": {
+        "A": "lend",
+        "B": "raise",
+        "C": "count",
+        "D": "resolve"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "resolve a misunderstanding 为消除误会。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9d61f4325de29b76cb79efc47297f5c2afe0fcf4cf9dc2a82faa29f9ef499bdf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Use a friendly _____ when reminding guests about the closing time.",
+      "options": {
+        "A": "tone",
+        "B": "tune",
+        "C": "tool",
+        "D": "tour"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "tone 指语气。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0366e4526a8785b7c265f866edfb61053c7ab860038ab85771eb71c1dd0d2dcb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The speaker paused _____ to give the interpreter enough time.",
+      "options": {
+        "A": "accidentally",
+        "B": "deliberately",
+        "C": "previously",
+        "D": "barely"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "deliberately 指有意地。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "30e9207e2f782976ee24929a7d4b3f481d6edb8430a43bc3531d4be305cba949"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Would you mind _____ that expression one more time?",
+      "options": {
+        "A": "explaining",
+        "B": "explain",
+        "C": "explained",
+        "D": "to explain"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "mind 后接动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f75d8b742ae83c9ed19fa3b3e3441d88783b02b58189cd8f32e68169cee0d3d6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The name _____ on this badge is not the form I usually use.",
+      "options": {
+        "A": "printing",
+        "B": "printed",
+        "C": "prints",
+        "D": "to printing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词定语，名字被印在胸牌上。",
+      "knowledgePoints": [
+        "分词定语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bdc28b2a77a278208192efb99d064fe01fc02059471fda7df37298caf0e40631"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "She asked me _____ I wanted to be introduced to the group.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "how",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "询问希望以何种方式被介绍，选 how。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "32552c59cf66dfb2f58810ac367b449072da19b8df1fb9ae29952f7a5fdc8fdb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "If I _____ his meaning correctly, he wants another day to decide.",
+      "options": {
+        "A": "will understand",
+        "B": "had understanding",
+        "C": "would understand",
+        "D": "understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "真实条件句用一般现在时。",
+      "knowledgePoints": [
+        "条件从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f4f972a5451809ccd3a96abfb5a8c1bf16a68b1d0c854fa71d680309d0874f16"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The interpreter, _____ had received the speech beforehand, was well prepared.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制定语从句缺主语且先行词为人。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b872773e6fee11a74503df6830a9418192196cc6fd6e9257fc9661254b931f7b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "It is important that the translated notice _____ the same deadline as the original.",
+      "options": {
+        "A": "gives",
+        "B": "give",
+        "C": "gave",
+        "D": "giving"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "important 主语从句常用 should 省略后的原形。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "47417c0b6e399954a03f2dcca90018aabf80a67bf766b0a76fe828d68174776e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Neither of the alternative expressions _____ suitable for this formal invitation.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "neither of 作主语按单数。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f3204a3b68a64c5bb6a35e535536c387330c71d0b718905176f50cfe2d2c1190"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Not until she gave an example _____ what the phrase meant.",
+      "options": {
+        "A": "I understood",
+        "B": "I had understood",
+        "C": "understood I",
+        "D": "did I understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Not until 前置，主句部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f526a0f717913c0c222d87b69e0cabbd03e5bf3af389260d038e053ed1d5880f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The instructions are simple enough for newcomers _____ without assistance.",
+      "options": {
+        "A": "to follow",
+        "B": "following",
+        "C": "followed",
+        "D": "follow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "enough for somebody to do。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a85e6ae409e817de812e6adb0fdac6c474c6744ca92efb1370ec6fa0c470c5ae"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "By the time the visitors arrived, the welcome message _____ into three languages.",
+      "options": {
+        "A": "translates",
+        "B": "had been translated",
+        "C": "has translated",
+        "D": "was translating"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "到过去到达时已被翻译，过去完成被动。",
+      "knowledgePoints": [
+        "时态语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "aa444177a4a2f42f589aa51592c335a2589a486224425781cce3c43fae4d2f6e"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nUnderstanding another person is not always a matter of finding an equivalent word. People bring different expectations about politeness, silence and agreement to a conversation. Asking a respectful question can reveal these differences before they become a source of conflict. Effective communication grows when participants are willing to examine their own assumptions as well as explain their intentions.",
+      "referenceAnswer": "理解另一个人并不总是找到对应词语那么简单。人们对礼貌、沉默和同意抱有不同的期待，并把这些期待带入交谈。在差异成为冲突来源之前，尊重地提问能使其显现。参与者既愿意解释自身意图，也愿意审视自己的假设时，有效沟通才能发展。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "d70a55d060f8c70fbd01787aa9c05778aa49d4e038aa6c264e342a1969856503",
+      "referenceAnswerFingerprint": "91b4f717388494c18037f5c3fef79f82a00ed9d9f3e8d9d6466058d57bc74af1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nWrite advice for a project group whose members have different first languages. Include ways to prepare for meetings, support participation and confirm decisions.",
+      "sampleAnswer": "Before a meeting, our group should share a short agenda and explain unfamiliar terms with examples. Members can then prepare ideas without the pressure of understanding everything immediately. During discussion, speakers should use clear sentences and allow others time to respond. A pause does not necessarily mean that someone has nothing to contribute. The chair can invite comments without forcing anyone to speak before they are ready. Important points should be restated when needed, and questions should be welcomed. After the meeting, one member should circulate a brief record of decisions, responsibilities and deadlines. Everyone can confirm or correct that record. These habits help the group work accurately while respecting different ways of expressing ideas.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "824df83d3e97cbfc032c131fa54028e20996ded35d24f4c59a657fc7d880392e",
+      "sampleAnswerFingerprint": "71a74626efffd52553996657e88473d922995d2f16947178e2f482e7dd47313f"
+    }
+  ],
+  "fingerprintManifest": [
+    "4431fc42c92c12b0009e5dd91761ce963ef078f4deb88c8e9eba03c991dc44cb",
+    "615b4bf3f8948c74b4d06be716f96d99d46dbb3623e3ab7bb31e2bbde649704a",
+    "84f103a8d8cf81f3b7d0a5ef0815634eb35cabaf5532b87120848b94b5a93fc6",
+    "2b7dfbb398fab2b4194498ea5bae8483b179b63d970c7be889df553254444114",
+    "6bf7b5dd57c985dd757a5c2e856c360b2d0cd06edbe8908efbda9cb44d32af1f",
+    "1828dfc35850758ed16fde5a179635ae9599b245a3fee69ea31398eff5287d6c",
+    "ffe93ac2b6802edb8aa4a165c019886a6cbfc8f49fcccb846c194d8f5488468d",
+    "45f93f081cb83a923d35307fd65c64e6356570086b124421305b9aa3bae12fb0",
+    "78c476d45d78f66def832b17594a2c519ef82f4cc4965053f4a46deb2fbcad17",
+    "b675c3e1859bf7d33cdf4dbc6b361a9597aeb2d3bb763c54698fb0483e6017d9",
+    "5a72cdd716625eb77531ec19ef74f5af36abbe6a0dcfe3ac6c06224560eb767f",
+    "007dd2e42fff2bf6a7fd4485551048c5f61c4ab46ac0ea5583463afb5d8b44de",
+    "dc164494917f8ef2908f6a05a65e753de6045655d686fcd94c6538a6d5ec7ccd",
+    "d6c30fac3d3258ce7ac7d95ddbcc0defcb8178dd900c162bd48095a839d5e461",
+    "d11012b109731d14c530adfd2dd9f58f36837547a1c02b089189adc154342d61",
+    "e33b871b631e07304ff6fb96c8d35b1b46d835a3b8a304f7c6e05ffa5784eb93",
+    "d0ebda679add33a9e08016e62e5a1884b196c3fa732f59942132a1da63eb4351",
+    "8509915e99af524801f926d26cabf7095be485b08ae457f0a5a651ddda6369a1",
+    "fb14a504a03f52ad4fc42fac74d5d60a627c0b314da3aba5b48b2b698f6d88be",
+    "e380253159c488fca20445658b17733496a44b7eecdefa5676e3ff1c785114ef",
+    "1159cd161577f83de722e0d8ae86d62756e4c08ade426e898bb6fed1df8e9bf0",
+    "bd517962b1bbfa8189bf953251a0b2d8e7744c55d0c8b1963b0b29f51ce97c6c",
+    "0df9b25f08c990b056a6b0784a2394bcee1ef60791929104cf6b26969f421f19",
+    "178f0f095dc36bef3d105b96007b1901d21eb08845a4f0d340c9b6a8aa77b41f",
+    "152b82af2b91e9719347b575bdb1a4af959d8e26ed2709661f318a013e7c1029",
+    "3c8252a87ea5159a2f9b8fc6856e53b32d0006d5266fdf3cd32cb22893a7f181",
+    "64e6ffbf1fb88383d6552f8d3d51d13737b186aca6f1d3778e0b51537961b336",
+    "1b19539f3d4a382c099686b49954cc5f5a8e0a5eddc158cce48c3674f4284c7f",
+    "d411c53b34eef4d3cdceff0768e0731b49bc2a8d6eabea0a764f5fffe50b77f9",
+    "dc1fec85032a7d8d78f90562299f622eafdedf0dc36c15ec64ae93dda6a1d06b",
+    "1336ce97e8b8f6efe2ceff21673cf503955918be8d1acc3ec1582034a4599acb",
+    "c8298ea54bef8f678b3f64fb2c67a837e264ff47baa2db3c3436524fb7d4e753",
+    "c7247be104457358bc582712b1023d3fa9707627be71fd3e2ae5961350c9cbdc",
+    "28b031e7ed8b7224714d8a343daffc81079a31520e49fa8399b2ba99e9188a65",
+    "e424a53ab783505db39ab232767cf01e552e432c60da682d95a296f2eab7a374",
+    "e5f0bb70cf92310246a7821d782e4ff3a2c3e90f85b3506f6eea862e6c1313b6",
+    "54d8ef61b71f12e06a919c732aac4fe20050ef86799ea39b76aa5faaabd13cde",
+    "f5608b26e04b3a69529f8ae448923399173992761e6eec64bd7c97faba6e9cf2",
+    "e591a54bdbd91b87eacb8a2131f1124854833bdf7772704f7680abbed0d28c98",
+    "84665f82558d48c67a1085efed0e04ec297eb6297a7f184f17b64c8e1d0ae3c1",
+    "c19ac027841420b6ad438b6d3c1da26a40a4bcd7b8987370e84208a0ce75adfd",
+    "18401b0c622bd9d1c4a2b1e75b2712851563ca1c375215b4a8d89bd645aa92a0",
+    "5794750b8f28db6d5fd020c0a60e3e3b636d6ba818bc1e774bfc63de29c13afd",
+    "fc733c0cb2d95b7d7960fead87c4fba255306cbcaf542a2805e8b179f4b4a2d6",
+    "9d61f4325de29b76cb79efc47297f5c2afe0fcf4cf9dc2a82faa29f9ef499bdf",
+    "0366e4526a8785b7c265f866edfb61053c7ab860038ab85771eb71c1dd0d2dcb",
+    "30e9207e2f782976ee24929a7d4b3f481d6edb8430a43bc3531d4be305cba949",
+    "f75d8b742ae83c9ed19fa3b3e3441d88783b02b58189cd8f32e68169cee0d3d6",
+    "bdc28b2a77a278208192efb99d064fe01fc02059471fda7df37298caf0e40631",
+    "32552c59cf66dfb2f58810ac367b449072da19b8df1fb9ae29952f7a5fdc8fdb",
+    "f4f972a5451809ccd3a96abfb5a8c1bf16a68b1d0c854fa71d680309d0874f16",
+    "b872773e6fee11a74503df6830a9418192196cc6fd6e9257fc9661254b931f7b",
+    "47417c0b6e399954a03f2dcca90018aabf80a67bf766b0a76fe828d68174776e",
+    "f3204a3b68a64c5bb6a35e535536c387330c71d0b718905176f50cfe2d2c1190",
+    "f526a0f717913c0c222d87b69e0cabbd03e5bf3af389260d038e053ed1d5880f",
+    "a85e6ae409e817de812e6adb0fdac6c474c6744ca92efb1370ec6fa0c470c5ae",
+    "aa444177a4a2f42f589aa51592c335a2589a486224425781cce3c43fae4d2f6e",
+    "d70a55d060f8c70fbd01787aa9c05778aa49d4e038aa6c264e342a1969856503",
+    "91b4f717388494c18037f5c3fef79f82a00ed9d9f3e8d9d6466058d57bc74af1",
+    "824df83d3e97cbfc032c131fa54028e20996ded35d24f4c59a657fc7d880392e",
+    "71a74626efffd52553996657e88473d922995d2f16947178e2f482e7dd47313f"
+  ],
+  "contentFingerprint": "5262ee49e587a1818d1acd91d4ba897b33c67523d60cb9c4434033f5dff25ceb"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-37",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 37 · 城市树木与空间规划",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 37,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Choosing a tree for a courtyard",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: Could we plant the fastest-growing tree in this courtyard?\nPlanner: (1) _____\nResident: There are water pipes below and balconies above. What should we compare?\nPlanner: (2) _____\nResident: Who will water it during the first summer?\nPlanner: (3) _____\nResident: Can we decide the exact spot today?\nPlanner: (4) _____",
+      "sharedOptions": {
+        "A": "First we need to consider the space it will need when mature.",
+        "B": "The likely root spread and canopy size, not just growth speed.",
+        "C": "Let's agree on a named maintenance group before planting.",
+        "D": "Only after the underground services have been located."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Choosing a tree for a courtyard\", select the response for blank (1).",
+          "options": {
+            "A": "First we need to consider the space it will need when mature.",
+            "B": "The likely root spread and canopy size, not just growth speed.",
+            "C": "Let's agree on a named maintenance group before planting.",
+            "D": "Only after the underground services have been located."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "最快生长不等于合适，先考虑成熟空间。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "05ab51310926778844035a2ae4625e93928b33e424e0f349b643ef72da85e316"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Choosing a tree for a courtyard\", select the response for blank (2).",
+          "options": {
+            "A": "First we need to consider the space it will need when mature.",
+            "B": "The likely root spread and canopy size, not just growth speed.",
+            "C": "Let's agree on a named maintenance group before planting.",
+            "D": "Only after the underground services have been located."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "管道与阳台限制对应根系和树冠。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2ce7e218ee44bb138a3585426b6b226a1dba811681c8644ba04a12be3b0fe2c2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Choosing a tree for a courtyard\", select the response for blank (3).",
+          "options": {
+            "A": "First we need to consider the space it will need when mature.",
+            "B": "The likely root spread and canopy size, not just growth speed.",
+            "C": "Let's agree on a named maintenance group before planting.",
+            "D": "Only after the underground services have been located."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "养护问题需落实负责团队。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9b8ca76bb180121b09211c7032b44b3ffbdd0b167fd1444aef0c046ec7f6e487"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Choosing a tree for a courtyard\", select the response for blank (4).",
+          "options": {
+            "A": "First we need to consider the space it will need when mature.",
+            "B": "The likely root spread and canopy size, not just growth speed.",
+            "C": "Let's agree on a named maintenance group before planting.",
+            "D": "Only after the underground services have been located."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "确认地下设施后才能确定种植点。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "720c644dddbf9082ab235520f86b6f0e4110b4f5b3c435647add2804b22761c3"
+        }
+      ],
+      "contentFingerprint": "44d6d1f6cda4260ba59fead6071c69ea41d65e17310abb2c04ea718cc6536b1b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Reporting a damaged branch",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Walker: A branch has broken and is hanging over the path.\nPark officer: (1) _____\nWalker: It is beside the eastern pond, near the wooden bench.\nPark officer: (2) _____\nWalker: Shall I try to pull it down with a rope?\nPark officer: (3) _____",
+      "sharedOptions": {
+        "A": "Can you describe its location precisely?",
+        "B": "Thank you; I will send the trained maintenance team there.",
+        "C": "Please leave it alone and keep away from the area.",
+        "D": "The fountain operates only on weekends."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"Reporting a damaged branch\", select the response for blank (1).",
+          "options": {
+            "A": "Can you describe its location precisely?",
+            "B": "Thank you; I will send the trained maintenance team there.",
+            "C": "Please leave it alone and keep away from the area.",
+            "D": "The fountain operates only on weekends."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先问准确位置便于处理。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "1f0d1dc93f81bde28f57bb9ed381f47e4e16867268a3fe2ba9e48494f5c79e20"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"Reporting a damaged branch\", select the response for blank (2).",
+          "options": {
+            "A": "Can you describe its location precisely?",
+            "B": "Thank you; I will send the trained maintenance team there.",
+            "C": "Please leave it alone and keep away from the area.",
+            "D": "The fountain operates only on weekends."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "获得地点后派专业养护人员。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d703b1aeabb40c44546cccdd42bab9c7f9b8785537516fa830bb19af5a5fe8ea"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"Reporting a damaged branch\", select the response for blank (3).",
+          "options": {
+            "A": "Can you describe its location precisely?",
+            "B": "Thank you; I will send the trained maintenance team there.",
+            "C": "Please leave it alone and keep away from the area.",
+            "D": "The fountain operates only on weekends."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "不自行拉扯悬挂断枝，等待人员处置。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9a730d32e775ec15461a66e605d692d8c45cb6e6639e8c0fb6b4362d1a2c61e4"
+        }
+      ],
+      "contentFingerprint": "d71ebe4e4bc3aa4ca9521e37f6635e22ca7735790d0e8a6b923e11e0392fba26"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "A path around the roots",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Designer: The new path crosses the roots of this old tree.\nEngineer: (1) _____\nDesigner: A curve would add a few metres. Would that be acceptable?\nEngineer: (2) _____\nDesigner: How should we explain the change to residents?\nEngineer: (3) _____",
+      "sharedOptions": {
+        "A": "Could we curve the route around the root area?",
+        "B": "Yes, if the surface remains accessible and the slope stays gentle.",
+        "C": "Show the old and revised routes with the reason for protecting the roots.",
+        "D": "The opening ceremony needs a microphone."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"A path around the roots\", select the response for blank (1).",
+          "options": {
+            "A": "Could we curve the route around the root area?",
+            "B": "Yes, if the surface remains accessible and the slope stays gentle.",
+            "C": "Show the old and revised routes with the reason for protecting the roots.",
+            "D": "The opening ceremony needs a microphone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "路径与根区冲突可考虑绕行。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "59876bbf85485cf3a641a7ede27e3ba1ee05ea6ce9ccd6b0af747a5fe0907cee"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"A path around the roots\", select the response for blank (2).",
+          "options": {
+            "A": "Could we curve the route around the root area?",
+            "B": "Yes, if the surface remains accessible and the slope stays gentle.",
+            "C": "Show the old and revised routes with the reason for protecting the roots.",
+            "D": "The opening ceremony needs a microphone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "绕行需仍可通行、坡度平缓。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "467bc77a532a6d74065b84bdf8a18b8bdb3e8ff827e6ad16fa46603ba1001cc1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"A path around the roots\", select the response for blank (3).",
+          "options": {
+            "A": "Could we curve the route around the root area?",
+            "B": "Yes, if the surface remains accessible and the slope stays gentle.",
+            "C": "Show the old and revised routes with the reason for protecting the roots.",
+            "D": "The opening ceremony needs a microphone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "用前后路线与原因说明设计取舍。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "e5d5c613d8e3f1aa23d9e8136f34aa3b511f05ed2e50eba7b505438e970ae08f"
+        }
+      ],
+      "contentFingerprint": "44d59c965665eb1e49fb3a3e0a85091ad25f73162eb87730079eab0a4c0e9bb9"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Counting shade instead of trunks",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A housing estate proudly reported that it had planted eighty trees. Residents still complained that the main walking route was hot and exposed. The landscape team mapped where people walked at midday and where existing trees cast shade. Many new trees stood on an unused grass strip far from the route. The team did not remove them, but it placed future planting beside heavily used paths where space allowed. It also explained that young trees would take time to provide substantial cover. Counting trunks described an activity; mapping useful shade brought the estate closer to understanding the benefit residents were seeking.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"Counting shade instead of trunks\": What did the estate's first report emphasise?",
+          "options": {
+            "A": "The number of trees planted",
+            "B": "The length of the walking route",
+            "C": "Residents' daily schedules",
+            "D": "The cost of every bench"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首报突出种下八十棵树。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "263e27c50d97f4456a617cabfc76a7e0260fb2848b8fb799975d8c3b3b3041e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"Counting shade instead of trunks\": Why were residents still dissatisfied?",
+          "options": {
+            "A": "No trees survived.",
+            "B": "A main route remained exposed to the sun.",
+            "C": "Grass had covered the pavement.",
+            "D": "Walking had been prohibited."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "主要步行路线仍炎热无遮挡。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "86e25c886077c0964f3c73ecdbf34661910f21575753d637ad599b6fb5850040"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"Counting shade instead of trunks\": What did the landscape team discover about many new trees?",
+          "options": {
+            "A": "They were already fully mature.",
+            "B": "They grew beside every entrance.",
+            "C": "They stood far from the route people used.",
+            "D": "They had been counted twice."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "很多在很少使用且远离路线的草地带。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "e75caf034b95f74d77837611fcaabba4ffe3b6f6a558e3e02873bc5d37400374"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"Counting shade instead of trunks\": What limitation did the team explain about future shade?",
+          "options": {
+            "A": "Only artificial trees provide shade.",
+            "B": "Paths could no longer be used.",
+            "C": "Residents must plant every tree.",
+            "D": "Young trees need time to produce substantial cover."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "幼树提供较大遮阴需要时间。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "a656e3737856750d206b8eede7f11369090601a7537e542de1e134faa9e227cf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"Counting shade instead of trunks\": What contrast is central to the passage?",
+          "options": {
+            "A": "Counting an action versus understanding its useful effect",
+            "B": "Grass versus every kind of tree",
+            "C": "Public paths versus private gardens",
+            "D": "Summer weather versus winter snow"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "种植数量是行动，实用遮阴是居民需要的效果。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "3d0d0a21bd4639fdf414d8de8c101c906e812e3ba9cd990331c3b4e65f18d2ff"
+        }
+      ],
+      "contentFingerprint": "a58a12f8ee5fc7b46d61534ee71dc424e328fe7ed2903df50b5834034ae00486"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The bench under discussion",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "When a park proposed moving a bench closer to a tree, a drawing made the change look simple. Consultation revealed competing needs. Older walkers liked the shade, while wheelchair users noted that the ground beneath the tree was uneven. Maintenance staff needed room to inspect the trunk. The final layout put the bench near the shade edge on a firm surface, leaving a clear space beside it and access behind it. No participant received the first arrangement they imagined, but each could identify a need that had shaped the result. The discussion improved the design by making hidden requirements visible.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The bench under discussion\": Why did the initial drawing seem simpler than the real decision?",
+          "options": {
+            "A": "It showed every maintenance task.",
+            "B": "It did not reveal all users' needs.",
+            "C": "It used too many colours.",
+            "D": "It contained no tree."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "图纸没显现多方需求。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d7c3d2c568aba9999fa3bae33ea407d73acf0933d0019179f05b31f26605a6dc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The bench under discussion\": What concern did wheelchair users raise?",
+          "options": {
+            "A": "Too much consultation",
+            "B": "The bench's name",
+            "C": "Uneven ground beneath the tree",
+            "D": "The number of drawing copies"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "轮椅使用者指出树下地面不平。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8a63827f44621657f559966bb6aca2fdf8c789bee33e315c1955f7905e761d4a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The bench under discussion\": What did maintenance workers require?",
+          "options": {
+            "A": "A new entrance fee",
+            "B": "The removal of all shade",
+            "C": "A larger drawing",
+            "D": "Access for trunk inspection"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "需要检查树干的空间。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "2d6b5bb52709027b94915df3156539584dcfddd0b298549be434822bfcc8e8c5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The bench under discussion\": Where was the bench finally placed?",
+          "options": {
+            "A": "Near the shade edge on firm ground",
+            "B": "Directly against the trunk",
+            "C": "In the centre of a road",
+            "D": "Outside the park"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "放在阴影边缘附近的坚实地面。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2f9b95bd3a62a52534c381978ff83eb81534ec49d8d0ac5379f24f40f9b8fd14"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The bench under discussion\": Why did the consultation improve the design?",
+          "options": {
+            "A": "It eliminated every compromise.",
+            "B": "It exposed requirements that were initially unseen.",
+            "C": "It let only one group decide.",
+            "D": "It guaranteed everyone their first choice."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "把隐藏需求显现出来以形成综合设计。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "64821065f48e4a746102e2b762a57122fa0109d5a8036a3dd15e01e6c1bede08"
+        }
+      ],
+      "contentFingerprint": "77a65c5f0fc43e7a53a5016a9eae5e8fd630b380a5d60cdb0330bffba6ee2a10"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The photograph taken in winter",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A resident posted a winter photograph of a street and claimed that its trees provided almost no shade. A gardening club used the image in a lesson about evidence. The photograph accurately showed bare branches on that date, but it could not establish conditions throughout the year. Members took additional photographs from the same point in spring and summer and recorded the time of day. The series revealed changes that a single image could not show. The club did not dismiss the original photograph as false. It distinguished a valid observation from a claim that extended beyond the observation's scope.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The photograph taken in winter\": What claim accompanied the winter photograph?",
+          "options": {
+            "A": "The street had no buildings.",
+            "B": "The camera was defective.",
+            "C": "The trees offered almost no shade.",
+            "D": "The road had recently closed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "照片被用来声称树木几乎不遮阴。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "e18bb8db70742cd2f956444cc935e7fd76b5931c12d359c360d86c431dc8e217"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The photograph taken in winter\": What did the club accept about the original image?",
+          "options": {
+            "A": "It represented every season.",
+            "B": "It predicted future growth.",
+            "C": "It showed summer conditions.",
+            "D": "It accurately showed that winter date."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "照片真实展现当日光秃树枝。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "aab79cf4fd84630b4147db5b5ad8f8f5583fcbf290575f479a1f8313224e263e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The photograph taken in winter\": How did the club extend the evidence?",
+          "options": {
+            "A": "By photographing the same view in other seasons and noting the time",
+            "B": "By deleting every winter image",
+            "C": "By using pictures from another country",
+            "D": "By counting only vehicles"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "同地点跨季拍摄并记录时间。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "b20c6eea7e72677951eeb0055e2a28f373174531f82de39043d73871793a5af5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The photograph taken in winter\": What did the series reveal?",
+          "options": {
+            "A": "The price of the camera",
+            "B": "Seasonal changes hidden by a single photograph",
+            "C": "The identity of every resident",
+            "D": "That winter never occurs"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "一张照片无法展现季节变化。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "7591e168d3f22cc03b9242e8073f4b1800bc4cbf03e7cd97e00907e98fe28a3e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The photograph taken in winter\": What distinction did the lesson make?",
+          "options": {
+            "A": "Photography versus all other art",
+            "B": "Residents versus gardeners",
+            "C": "An accurate observation versus an overly broad conclusion",
+            "D": "Trees versus every public service"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "有效观察不必支持超出其范围的结论。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "0f21cbf37dc9403f98ffb3a4a5d4a0af2c35a52475c779aec2d41420fd2abe76"
+        }
+      ],
+      "contentFingerprint": "aaf1b8031611c2879c55f81e4a0299357651852f11e22db9a07142b8633954e4"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A planting day with a second date",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A company sponsored a neighbourhood planting day and invited employees for photographs. The community gardener welcomed the help but asked the organisers to set another date six weeks later. On the return visit, volunteers checked labels, cleared competing growth around young plants and recorded losses for the gardener to assess. Fewer people attended the second event, but those who came understood why the original celebration was only a beginning. The company subsequently funded a season of maintenance rather than another large opening event. The gardener valued enthusiasm most when it developed into dependable care over time.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"A planting day with a second date\": What extra request did the gardener make?",
+          "options": {
+            "A": "A larger photography team",
+            "B": "Another opening speech",
+            "C": "A new company name",
+            "D": "A follow-up visit six weeks later"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "要求六周后再次到场。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "fc3de0e7430a2f3658c1ec08b192a53576022c1f5f22b03e8c137f856b84d306"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"A planting day with a second date\": What did volunteers do during the return visit?",
+          "options": {
+            "A": "Checked labels and recorded plant losses",
+            "B": "Replaced the gardener with a photographer",
+            "C": "Removed all young plants",
+            "D": "Held a second opening ceremony"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "检查标签、清理竞争性植被并记录损失。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2fdd53eb49433ef6dd6d88669934c59ba7e5de02942b566d5232803e190f5424"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"A planting day with a second date\": What was different about attendance at the follow-up?",
+          "options": {
+            "A": "Every employee came twice.",
+            "B": "Fewer people attended.",
+            "C": "No volunteer attended.",
+            "D": "Only the photographer came."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二次参与者较少。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1207e4facf4fd123b9cfbdef3bad9f3d478a04429a3abca1ed5741835a582962"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"A planting day with a second date\": How did the company's support subsequently change?",
+          "options": {
+            "A": "It stopped all community contact.",
+            "B": "It bought more opening banners.",
+            "C": "It funded ongoing maintenance.",
+            "D": "It cancelled every staff visit."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "转向资助一个季度的维护。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0a39b7ca0982722d1e9cbdfb1d99bcb536126ebb50af2af054d1e82c0f489337"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"A planting day with a second date\": What did the gardener especially value?",
+          "options": {
+            "A": "The largest first-day audience",
+            "B": "Perfect publicity photographs",
+            "C": "Planting without records",
+            "D": "Enthusiasm sustained through reliable care"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "热情转化为长期可靠照料更有价值。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "b9af2ca89c2eb2a3c4935c05197ce2f7c631bc1742794cce3e74fc7c74806417"
+        }
+      ],
+      "contentFingerprint": "fdd00848ee5c14c45d8bb5ee55480a245695c76f353032b4cb110b1eb189853c"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The roots need sufficient _____ to develop without damaging nearby structures.",
+      "options": {
+        "A": "space",
+        "B": "speed",
+        "C": "speech",
+        "D": "spice"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "sufficient space 为足够空间。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3698c7710619765b4b0d1600b46b4b1a2333bdd3038f8009d01ee0dda4b8172a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The planner considered the tree's size at _____ rather than its height when purchased.",
+      "options": {
+        "A": "majority",
+        "B": "maturity",
+        "C": "minority",
+        "D": "mobility"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "at maturity 指成熟时。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "90d9ff15351fdbf9551b148211c8645cb951301d0dc3503b661cb5095e64f424"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A firm path improves _____ for visitors who use walking aids.",
+      "options": {
+        "A": "absence",
+        "B": "argument",
+        "C": "access",
+        "D": "appetite"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "access 指通达、进入便利。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5377fd30eaf666cf8cc7509a88ec61748d7d69b547fc2509b866483cafa3ba21"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The gardeners will _____ the young trees regularly during their first growing season.",
+      "options": {
+        "A": "mention",
+        "B": "manufacture",
+        "C": "measure up",
+        "D": "monitor"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "monitor 指持续观察、监测。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c85634278f540753dcd978ad7a2b06d717b94596d46f76ecb65595e5de14c3a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Moving the seat slightly was a practical _____ between shade and access.",
+      "options": {
+        "A": "compromise",
+        "B": "competition",
+        "C": "complaint",
+        "D": "comparison"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "compromise 指兼顾不同需求的折中。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e73ce8a8c4e0b7c7580da75d2204fb1fc1d655994d6108c2420c11af62f59125"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The map shows the _____ of tree cover across different streets.",
+      "options": {
+        "A": "destination",
+        "B": "distribution",
+        "C": "distinction",
+        "D": "decoration"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "distribution 为分布。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ab0c60d7dfe4661729c78017fb0ad12aa772923daf9b902bd59e033120a93e0f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A single winter image is not _____ evidence of summer shade.",
+      "options": {
+        "A": "reluctant",
+        "B": "regular",
+        "C": "sufficient",
+        "D": "separate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "sufficient evidence 为充分证据。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "23d157669e4b6de6755b9ea8fa844b626064dabaa78e830e130f839c619d76bc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The project requires a long-term _____ to maintenance after the planting celebration.",
+      "options": {
+        "A": "comment",
+        "B": "command",
+        "C": "committee",
+        "D": "commitment"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "commitment to 为对某事的承诺、投入。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ab42f5eff8f33525edfee841e2cc6f0b285a331377a233fae591dbe50375d898"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Please describe the broken branch's location as _____ as possible.",
+      "options": {
+        "A": "precisely",
+        "B": "previously",
+        "C": "politely",
+        "D": "privately"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "precisely 指准确地。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "efc49d41e3b15bb0d27cbcb8dc1f6274a021b4bfe1c894f04cc92e1155d67d7e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The redesign kept a clear _____ for maintenance staff behind the bench.",
+      "options": {
+        "A": "purchase",
+        "B": "passage",
+        "C": "package",
+        "D": "percentage"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "passage 为通道。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "43fcff4aefbc598aae11e6294ea952e85c7333b6f88fec6a48ce7f4a04235b31"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The tree beside the gates _____ planted when the school first opened.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "have",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "单数 tree 的过去被动。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "506b3dd245e6400d29de965a61bf4f462266c14cbdc24b19ab195ee7d8f753ab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "We avoided _____ the path directly across the largest roots.",
+      "options": {
+        "A": "build",
+        "B": "building",
+        "C": "built",
+        "D": "to build"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "avoid 后用动名词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ab1073f99947370bfe9d28655b040747cdc854b36e04612b1f54fede854e40b1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The resident _____ suggestion changed the bench layout uses a wheelchair.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "whose suggestion 表所属。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0dc81114613c00d464049e5864b11e68e9cb205a325e2796f886263432aef1b5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The new trees will need regular care until their roots _____ established.",
+      "options": {
+        "A": "will be",
+        "B": "have being",
+        "C": "would be",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "until 时间从句一般现在时表达将来。",
+      "knowledgePoints": [
+        "时间从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ac28d273fff3df0a5875cc933b0fcc7366a0db293552b7168fc04e9f99759bb7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "_____ near the existing pipes, the proposed site was unsuitable.",
+      "options": {
+        "A": "Located",
+        "B": "Locating",
+        "C": "To locating",
+        "D": "Locates"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "site 与 locate 为被动，过去分词状语。",
+      "knowledgePoints": [
+        "分词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cf053360ec1632ee3ce48f5a26eca7ba0cbe5295b2f9bedbc7e3d0531ef3644a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If more space were available, the team _____ a wider curve.",
+      "options": {
+        "A": "designs",
+        "B": "would design",
+        "C": "had designed",
+        "D": "will have designed"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在虚拟条件对应 would do。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4051d3b5fcbc62482bc9f673dbcc921791e6a76098b8fb3a294b72dc39e0b6f0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Not until the leaves appeared _____ how much shade the tree could provide.",
+      "options": {
+        "A": "we realised",
+        "B": "we had realised",
+        "C": "did we realise",
+        "D": "realised we"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Not until 前置用部分倒装。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "db2a17537865b3e8890ab754fa4feffc74a2b938c758558b0901480aea2f16f5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The number of volunteers at the second planting visit _____ smaller than at the first.",
+      "options": {
+        "A": "were",
+        "B": "have been",
+        "C": "are",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the number 作主语用单数，过去语境 was。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "50728d05c2b597acee7ff86eed15e8fe2c9ac69c3c6d708d03dbc2b18e53b4a5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "It is easier _____ a young tree when its label remains readable.",
+      "options": {
+        "A": "to identify",
+        "B": "identifying",
+        "C": "identified",
+        "D": "identify"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "It is + 形容词 + to do。",
+      "knowledgePoints": [
+        "形式主语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4aac851d80487e7fa09daebbfe16be885be1a56d992ea804dd33c5512ba7ff32"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The path, _____ was resurfaced last month, now reaches the shaded seating area.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "非限制定语从句缺主语用 which。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6b3d424d85de43e5c9ce6149b2403cabf5dbe0bb454f7a1fd33459c226d4158c"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nA tree planted today becomes part of a place that will continue to change. Its future size, the needs of nearby residents and the work required to care for it all deserve attention. A successful planting programme therefore looks beyond the number planted on one occasion. It asks whether living trees will remain useful and well supported over many years.",
+      "referenceAnswer": "今天种下的一棵树，会成为一个持续变化的地方的一部分。它未来的体量、附近居民的需求和照料它所需的工作，都值得关注。因此，成功的种植计划不会只看某次种下的数量，而会思考这些活树在多年后是否仍有用，并得到妥善支持。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "7fe21e9ba39c1ddd4d9b5b20eb254781633b31170dae23c0ee75a98efc0cafb6",
+      "referenceAnswerFingerprint": "e88e27241742052fab56888c2aae1cd578259611fc51459d036d5b3f4c8ee4fc"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nYour neighbourhood has funding for trees and seating near a walking route. Write a proposal explaining how to choose locations, consult users and organise continuing care.",
+      "sampleAnswer": "I suggest that we first observe where people walk and rest during different parts of the day. This will help identify places where shade and seating would be useful. Before selecting trees, a qualified planner should consider their mature size and underground services. Residents should comment on a simple layout, especially people who use wheelchairs or walking aids. Seats need firm ground and enough clear space around them. We should also name a maintenance coordinator and reserve part of the funding for continuing care. A planting day can bring neighbours together, but progress should be reported through later visits as well. The aim is a comfortable route that remains useful after the opening celebration.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "a6d982de7a2216a30907552699cf45cc77c7343aea289ebe35a3222559662018",
+      "sampleAnswerFingerprint": "bf34cc877371828b352485b04f54590288132e9b8a40434eda49c786862e1a04"
+    }
+  ],
+  "fingerprintManifest": [
+    "44d6d1f6cda4260ba59fead6071c69ea41d65e17310abb2c04ea718cc6536b1b",
+    "05ab51310926778844035a2ae4625e93928b33e424e0f349b643ef72da85e316",
+    "2ce7e218ee44bb138a3585426b6b226a1dba811681c8644ba04a12be3b0fe2c2",
+    "9b8ca76bb180121b09211c7032b44b3ffbdd0b167fd1444aef0c046ec7f6e487",
+    "720c644dddbf9082ab235520f86b6f0e4110b4f5b3c435647add2804b22761c3",
+    "d71ebe4e4bc3aa4ca9521e37f6635e22ca7735790d0e8a6b923e11e0392fba26",
+    "1f0d1dc93f81bde28f57bb9ed381f47e4e16867268a3fe2ba9e48494f5c79e20",
+    "d703b1aeabb40c44546cccdd42bab9c7f9b8785537516fa830bb19af5a5fe8ea",
+    "9a730d32e775ec15461a66e605d692d8c45cb6e6639e8c0fb6b4362d1a2c61e4",
+    "44d59c965665eb1e49fb3a3e0a85091ad25f73162eb87730079eab0a4c0e9bb9",
+    "59876bbf85485cf3a641a7ede27e3ba1ee05ea6ce9ccd6b0af747a5fe0907cee",
+    "467bc77a532a6d74065b84bdf8a18b8bdb3e8ff827e6ad16fa46603ba1001cc1",
+    "e5d5c613d8e3f1aa23d9e8136f34aa3b511f05ed2e50eba7b505438e970ae08f",
+    "a58a12f8ee5fc7b46d61534ee71dc424e328fe7ed2903df50b5834034ae00486",
+    "263e27c50d97f4456a617cabfc76a7e0260fb2848b8fb799975d8c3b3b3041e2",
+    "86e25c886077c0964f3c73ecdbf34661910f21575753d637ad599b6fb5850040",
+    "e75caf034b95f74d77837611fcaabba4ffe3b6f6a558e3e02873bc5d37400374",
+    "a656e3737856750d206b8eede7f11369090601a7537e542de1e134faa9e227cf",
+    "3d0d0a21bd4639fdf414d8de8c101c906e812e3ba9cd990331c3b4e65f18d2ff",
+    "77a65c5f0fc43e7a53a5016a9eae5e8fd630b380a5d60cdb0330bffba6ee2a10",
+    "d7c3d2c568aba9999fa3bae33ea407d73acf0933d0019179f05b31f26605a6dc",
+    "8a63827f44621657f559966bb6aca2fdf8c789bee33e315c1955f7905e761d4a",
+    "2d6b5bb52709027b94915df3156539584dcfddd0b298549be434822bfcc8e8c5",
+    "2f9b95bd3a62a52534c381978ff83eb81534ec49d8d0ac5379f24f40f9b8fd14",
+    "64821065f48e4a746102e2b762a57122fa0109d5a8036a3dd15e01e6c1bede08",
+    "aaf1b8031611c2879c55f81e4a0299357651852f11e22db9a07142b8633954e4",
+    "e18bb8db70742cd2f956444cc935e7fd76b5931c12d359c360d86c431dc8e217",
+    "aab79cf4fd84630b4147db5b5ad8f8f5583fcbf290575f479a1f8313224e263e",
+    "b20c6eea7e72677951eeb0055e2a28f373174531f82de39043d73871793a5af5",
+    "7591e168d3f22cc03b9242e8073f4b1800bc4cbf03e7cd97e00907e98fe28a3e",
+    "0f21cbf37dc9403f98ffb3a4a5d4a0af2c35a52475c779aec2d41420fd2abe76",
+    "fdd00848ee5c14c45d8bb5ee55480a245695c76f353032b4cb110b1eb189853c",
+    "fc3de0e7430a2f3658c1ec08b192a53576022c1f5f22b03e8c137f856b84d306",
+    "2fdd53eb49433ef6dd6d88669934c59ba7e5de02942b566d5232803e190f5424",
+    "1207e4facf4fd123b9cfbdef3bad9f3d478a04429a3abca1ed5741835a582962",
+    "0a39b7ca0982722d1e9cbdfb1d99bcb536126ebb50af2af054d1e82c0f489337",
+    "b9af2ca89c2eb2a3c4935c05197ce2f7c631bc1742794cce3e74fc7c74806417",
+    "3698c7710619765b4b0d1600b46b4b1a2333bdd3038f8009d01ee0dda4b8172a",
+    "90d9ff15351fdbf9551b148211c8645cb951301d0dc3503b661cb5095e64f424",
+    "5377fd30eaf666cf8cc7509a88ec61748d7d69b547fc2509b866483cafa3ba21",
+    "c85634278f540753dcd978ad7a2b06d717b94596d46f76ecb65595e5de14c3a3",
+    "e73ce8a8c4e0b7c7580da75d2204fb1fc1d655994d6108c2420c11af62f59125",
+    "ab0c60d7dfe4661729c78017fb0ad12aa772923daf9b902bd59e033120a93e0f",
+    "23d157669e4b6de6755b9ea8fa844b626064dabaa78e830e130f839c619d76bc",
+    "ab42f5eff8f33525edfee841e2cc6f0b285a331377a233fae591dbe50375d898",
+    "efc49d41e3b15bb0d27cbcb8dc1f6274a021b4bfe1c894f04cc92e1155d67d7e",
+    "43fcff4aefbc598aae11e6294ea952e85c7333b6f88fec6a48ce7f4a04235b31",
+    "506b3dd245e6400d29de965a61bf4f462266c14cbdc24b19ab195ee7d8f753ab",
+    "ab1073f99947370bfe9d28655b040747cdc854b36e04612b1f54fede854e40b1",
+    "0dc81114613c00d464049e5864b11e68e9cb205a325e2796f886263432aef1b5",
+    "ac28d273fff3df0a5875cc933b0fcc7366a0db293552b7168fc04e9f99759bb7",
+    "cf053360ec1632ee3ce48f5a26eca7ba0cbe5295b2f9bedbc7e3d0531ef3644a",
+    "4051d3b5fcbc62482bc9f673dbcc921791e6a76098b8fb3a294b72dc39e0b6f0",
+    "db2a17537865b3e8890ab754fa4feffc74a2b938c758558b0901480aea2f16f5",
+    "50728d05c2b597acee7ff86eed15e8fe2c9ac69c3c6d708d03dbc2b18e53b4a5",
+    "4aac851d80487e7fa09daebbfe16be885be1a56d992ea804dd33c5512ba7ff32",
+    "6b3d424d85de43e5c9ce6149b2403cabf5dbe0bb454f7a1fd33459c226d4158c",
+    "7fe21e9ba39c1ddd4d9b5b20eb254781633b31170dae23c0ee75a98efc0cafb6",
+    "e88e27241742052fab56888c2aae1cd578259611fc51459d036d5b3f4c8ee4fc",
+    "a6d982de7a2216a30907552699cf45cc77c7343aea289ebe35a3222559662018",
+    "bf34cc877371828b352485b04f54590288132e9b8a40434eda49c786862e1a04"
+  ],
+  "contentFingerprint": "3dcab23f365c5a1a55237bf8b06ebe3fbdaa71a7f832bb7837a9e5ba80cbbd60"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-33",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 33 · 纺织循环与消费选择",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 33,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Discussing a coat repair",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Customer: The coat fits well, but the lining is torn. Must I replace the coat?\nTailor: (1) _____\nCustomer: I'd prefer that. Will the repair show from outside?\nTailor: (2) _____\nCustomer: How soon could I collect it?\nTailor: (3) _____\nCustomer: Shall I pay the full cost now?\nTailor: (4) _____",
+      "sharedOptions": {
+        "A": "No, I can replace just the damaged lining.",
+        "B": "The stitching will be hidden inside.",
+        "C": "It will be ready after four on Thursday.",
+        "D": "A small deposit is enough; pay the rest on collection."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Discussing a coat repair\", select the response for blank (1).",
+          "options": {
+            "A": "No, I can replace just the damaged lining.",
+            "B": "The stitching will be hidden inside.",
+            "C": "It will be ready after four on Thursday.",
+            "D": "A small deposit is enough; pay the rest on collection."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "对应仅换破损衬里而非整件外套。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d25d78f35470fcdaab0aba958dd68c17656b0fe11f9aa64c930230e0f69e39f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Discussing a coat repair\", select the response for blank (2).",
+          "options": {
+            "A": "No, I can replace just the damaged lining.",
+            "B": "The stitching will be hidden inside.",
+            "C": "It will be ready after four on Thursday.",
+            "D": "A small deposit is enough; pay the rest on collection."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "外观问题应回答缝线藏在内侧。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2561685688facb728b89ee526a39542671349a054e5f3c25f6542a834f51d9b8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Discussing a coat repair\", select the response for blank (3).",
+          "options": {
+            "A": "No, I can replace just the damaged lining.",
+            "B": "The stitching will be hidden inside.",
+            "C": "It will be ready after four on Thursday.",
+            "D": "A small deposit is enough; pay the rest on collection."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "取件时间对应周四四点后。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "86036076573fb398a0809e971d560a250284f597b83bf3b6ea76ae7046433231"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Discussing a coat repair\", select the response for blank (4).",
+          "options": {
+            "A": "No, I can replace just the damaged lining.",
+            "B": "The stitching will be hidden inside.",
+            "C": "It will be ready after four on Thursday.",
+            "D": "A small deposit is enough; pay the rest on collection."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "是否全额付款对应先付订金。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "a99d80314e783d8410ffdc7760d056699378edf57904a1ca4ac571230c3fc91b"
+        }
+      ],
+      "contentFingerprint": "b5e077064a23e7fcee6a96841a74ed8a71a70379655510cf40fefb6c7b445b20"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Sorting a bag of donated fabric",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Volunteer: Shall these wet curtains go straight into the donation box?\nOrganiser: (1) _____\nVolunteer: I see. They might damage the dry things. What about this stained piece?\nOrganiser: (2) _____\nVolunteer: And where do the usable pieces go?\nOrganiser: (3) _____",
+      "sharedOptions": {
+        "A": "Please dry them fully before packing them.",
+        "B": "Set it aside for the fabric technician to assess.",
+        "C": "Place them on the shelf marked by material type.",
+        "D": "The fashion show starts next month."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"Sorting a bag of donated fabric\", select the response for blank (1).",
+          "options": {
+            "A": "Please dry them fully before packing them.",
+            "B": "Set it aside for the fabric technician to assess.",
+            "C": "Place them on the shelf marked by material type.",
+            "D": "The fashion show starts next month."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "湿布料应先晾干，避免影响干燥捐赠物。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "79121fc73f7717ba9bceaa9b4becc70efe5857f0e0e218551d0d3f0a214e24a7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"Sorting a bag of donated fabric\", select the response for blank (2).",
+          "options": {
+            "A": "Please dry them fully before packing them.",
+            "B": "Set it aside for the fabric technician to assess.",
+            "C": "Place them on the shelf marked by material type.",
+            "D": "The fashion show starts next month."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "污渍布料需先评估适用性。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5b8b68fe009b51ecc3283d908d4d9654fde2048db8e62fc3ac8b0b04f5c0fdb3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"Sorting a bag of donated fabric\", select the response for blank (3).",
+          "options": {
+            "A": "Please dry them fully before packing them.",
+            "B": "Set it aside for the fabric technician to assess.",
+            "C": "Place them on the shelf marked by material type.",
+            "D": "The fashion show starts next month."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "可用布料按材质标注分类存放。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "8741e2ff1a481aae4073e28f11322723c6683626b20e2f2b6b3c570bbbdb14d3"
+        }
+      ],
+      "contentFingerprint": "5063b9cf1974cc3f0ebdf0c06a62b8209fcc6a950c004a2365303c0559431f35"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Checking a clothing label",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Shopper: This shirt says it uses recovered fibres. Does that mean all of it does?\nAssistant: (1) _____\nShopper: It lists sixty percent. Can I put it in a hot wash?\nAssistant: (2) _____\nShopper: Do you have written care advice?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The percentage on the inner label gives the exact share.",
+        "B": "Follow the temperature shown on the care label.",
+        "C": "Yes, this card explains washing and drying.",
+        "D": "Every item in the window has the same colour."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"Checking a clothing label\", select the response for blank (1).",
+          "options": {
+            "A": "The percentage on the inner label gives the exact share.",
+            "B": "Follow the temperature shown on the care label.",
+            "C": "Yes, this card explains washing and drying.",
+            "D": "Every item in the window has the same colour."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "exact share 回应是否全部为回收纤维。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "ef2008ce4ea6530ea7fe19682b68e54000739b9de3f9d715cfd58124ce71b8f9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"Checking a clothing label\", select the response for blank (2).",
+          "options": {
+            "A": "The percentage on the inner label gives the exact share.",
+            "B": "Follow the temperature shown on the care label.",
+            "C": "Yes, this card explains washing and drying.",
+            "D": "Every item in the window has the same colour."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "洗涤温度应查护理标签。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "ab8818527abe7ac34479aeed3f418e774b4900819145b11d581be05902b06e69"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"Checking a clothing label\", select the response for blank (3).",
+          "options": {
+            "A": "The percentage on the inner label gives the exact share.",
+            "B": "Follow the temperature shown on the care label.",
+            "C": "Yes, this card explains washing and drying.",
+            "D": "Every item in the window has the same colour."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "书面说明对应洗涤与干燥卡片。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1bc2b96cb35629bfa24fe2035f306440477370e0d8a6931dd26fc2ebd1a2cc15"
+        }
+      ],
+      "contentFingerprint": "daa13dc30ed333de29bcd71ecb20b1ad42117e32516faff8663c85ca6e837624"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A uniform for another season",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A hotel replaced its staff uniforms every spring, even when many garments were still usable. Its laundry manager suggested keeping jackets and replacing only badly worn shirts. A small trial showed that a consistent appearance did not require every item to be new. The hotel then hired a local tailor to adjust jackets for incoming employees. Some sizes could not be altered successfully, so those garments were kept for future staff rather than forced into poor fits. Spending fell, and employees reported greater comfort. The change depended on flexible purchasing and careful fitting, not simply a request to buy less.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"A uniform for another season\": What practice did the laundry manager question?",
+          "options": {
+            "A": "Replacing all uniforms annually",
+            "B": "Hiring new employees",
+            "C": "Washing shirts regularly",
+            "D": "Using one hotel entrance"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "经理质疑每春更换全部制服。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d8b7be3f04340293464ea24a85d66608e27838f1a3d63d03a4332615689f2ebd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"A uniform for another season\": What did the hotel trial demonstrate?",
+          "options": {
+            "A": "Old clothes always fit everyone.",
+            "B": "A consistent look can include usable older garments.",
+            "C": "Jackets never wear out.",
+            "D": "Tailoring is unnecessary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "一致外观不要求每件服装都全新。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "1e2c40bb6fd3511dcf6ee50c53793b7ed4bbcaa467328ff7c6123958b0cdffb1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"A uniform for another season\": Why were some jackets stored for future employees?",
+          "options": {
+            "A": "They were too fashionable.",
+            "B": "The laundry was closed.",
+            "C": "They could not be altered to fit current wearers.",
+            "D": "Every employee refused jackets."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "部分尺码不能成功修改，留给以后合适员工。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "78d538d56eb5d02cbc6ef7083c3f98856f704ef8312a89b05b8586ac5139593e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"A uniform for another season\": What benefit did employees report?",
+          "options": {
+            "A": "Longer holidays",
+            "B": "Higher room prices",
+            "C": "A new workplace",
+            "D": "More comfortable clothing"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "员工表示更加舒适。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "84c0d2b3c1c9d07366048bbfcbd7239c2dac0209a1289b2768a24d4ca0a313b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"A uniform for another season\": What made the purchasing change effective?",
+          "options": {
+            "A": "Attention to fit as well as replacement needs",
+            "B": "A ban on all new shirts",
+            "C": "An identical size for everyone",
+            "D": "Removing the laundry service"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "购买策略和认真改衣共同发挥作用。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "64dc878166dce9bf54e12ab0e75ef005d1b007ae767446f97d354c54f0898b81"
+        }
+      ],
+      "contentFingerprint": "0553f2d563a1a4dc9d916b4c7309e50cb8264c8fbf344f9fc069166a69fd4a20"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The mysterious fibre mixture",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "At a textile workshop, visitors tried to identify fabrics by touch. Several confidently described a soft cloth as cotton, although its label showed a mixture of three fibres. The instructor explained that finishing processes could change how a fabric felt. She then asked participants to compare labels, expected use and care requirements. A strong outdoor cover and a light summer shirt had different needs, so there was no single best fibre for every product. Visitors left with a more useful habit: asking what evidence supported a claim instead of relying entirely on how a material looked or felt.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The mysterious fibre mixture\": What mistake did several workshop visitors make?",
+          "options": {
+            "A": "They ignored the soft cloth completely.",
+            "B": "They judged fibre composition by touch alone.",
+            "C": "They confused labels with prices.",
+            "D": "They thought the cloth was metal."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "凭触感就断言是棉而实际是混纺。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "c64b56ce92d60d19a3a489e25edd093b665e2a7e85232d6d41905b3806586781"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The mysterious fibre mixture\": What can alter a fabric's feel according to the instructor?",
+          "options": {
+            "A": "The shop's address",
+            "B": "The buyer's age",
+            "C": "Finishing processes",
+            "D": "The label's font"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "整理加工会改变面料手感。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "901f2f9306a3591225569d8950ae12741f433971b3a601c33c693ed39c549809"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The mysterious fibre mixture\": Why compare an outdoor cover with a summer shirt?",
+          "options": {
+            "A": "To advertise one shop",
+            "B": "To show identical care needs",
+            "C": "To recommend only cotton",
+            "D": "To illustrate different material requirements"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "不同用途需要不同材料性能。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "5f8fd0b9f5df4f8c6f1810bd9d410b9229264b2fc8499b01a9f1f716a812f4ad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The mysterious fibre mixture\": Which new habit did visitors develop?",
+          "options": {
+            "A": "Looking for evidence behind material claims",
+            "B": "Avoiding every mixed fabric",
+            "C": "Buying only the softest cloth",
+            "D": "Removing all care labels"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结束时学会询问判断依据。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "de38727674e0f249aa7984e08a56ee296afe1efe944d418bd25a75681eda4936"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The mysterious fibre mixture\": Which statement best reflects the instructor's position?",
+          "options": {
+            "A": "Natural fibres are always the strongest.",
+            "B": "Material suitability depends on intended use.",
+            "C": "Touch is never useful in any situation.",
+            "D": "Every product should use three fibres."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "不存在适合所有产品的唯一最佳纤维。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "829329341b6dc28f60b4fd1ed413d464c5754549b91b6ce1d1772ed9fa039400"
+        }
+      ],
+      "contentFingerprint": "7e2e5eb5954d889701939e90feaa4add76634624e863e7dbbad3c36a7f993747"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "When a repair class changed direction",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An evening sewing class initially planned to teach decorative stitches. On the first night, learners brought trousers with loose hems, bags with broken straps and shirts missing buttons. The tutor realised that practical repairs mattered more to this group than decoration. She reorganised lessons around the items people had brought, while still introducing the same basic hand movements. Attendance rose because learners could see immediate results. Decorative work returned later as an optional project. The tutor did not abandon her expertise; she found a different route into it by listening to the purposes that learners brought to class.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"When a repair class changed direction\": What had the sewing class originally emphasised?",
+          "options": {
+            "A": "Industrial production",
+            "B": "Clothing history",
+            "C": "Decorative stitches",
+            "D": "Online shopping"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "课程起初计划教装饰针法。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "598376f9faf9c8e8d204a9560723afde6a81adfa5b8844f7a4679033b2227f10"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"When a repair class changed direction\": What revealed the learners' priorities?",
+          "options": {
+            "A": "A written examination",
+            "B": "A visitor's lecture",
+            "C": "A fashion magazine",
+            "D": "The damaged objects they brought"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "学员带来待修裤脚、包带和纽扣，表明实用需求。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "f608f4a82e7bc7513de64fc0510e4a4ba980c0201f2728984b4c7a5ff981d0d1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"When a repair class changed direction\": What stayed part of the revised lessons?",
+          "options": {
+            "A": "Basic hand movements",
+            "B": "Mandatory decoration",
+            "C": "Large machines",
+            "D": "Hotel uniforms"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "调整主题后仍教同样基础手法。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "323c379f757eb8c5fe5c8e07009d4ade215c68c5917fd32e7e868e1b3d123d07"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"When a repair class changed direction\": Why did attendance increase?",
+          "options": {
+            "A": "The classes became free.",
+            "B": "Learners saw immediate practical benefits.",
+            "C": "Homework disappeared completely.",
+            "D": "The tutor shortened every lesson."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "可见的即时修补成果促进参与。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "09d49f6f0a6cc1fd5183677fc555f71dbb440e4e757c953a21fc5b346bdbbbe2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"When a repair class changed direction\": How does the writer interpret the tutor's change?",
+          "options": {
+            "A": "As a loss of professional knowledge",
+            "B": "As a rejection of learners' interests",
+            "C": "As adapting expertise to learners' purposes",
+            "D": "As evidence that decoration has no value"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据学习者目的调整教学路径，而非抛弃专业。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7e183218529877712edfb989aafdc52425bb15c9ea3340ea134cb56e02a943f5"
+        }
+      ],
+      "contentFingerprint": "ad7fce998b6b1a7e945263cbe26ac8b1a1df75047169a40ff3b57596827f8d04"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The swap that needed a mirror",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A neighbourhood clothing swap attracted many visitors, but a large number left without taking anything. Organisers first assumed the selection was too small. Conversations revealed another reason: people could not judge fit, because the hall had neither a mirror nor a private changing area. At the next event, organisers borrowed folding screens and placed a full-length mirror nearby. They also labelled sizes as approximate because older clothes sometimes stretched or shrank. More items found new users, although the number donated was similar. Improving the conditions for making a choice proved more useful than merely collecting additional stock.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The swap that needed a mirror\": What problem did the first clothing swap experience?",
+          "options": {
+            "A": "Too few volunteers arrived.",
+            "B": "All clothes were sold.",
+            "C": "The hall closed early.",
+            "D": "Many visitors took nothing."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "多人离开时未取走服装。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "608d92d97a4028a85eac3872ea65da7c8bf8bb9f2556c27708d3773b7018a65d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The swap that needed a mirror\": What did organisers initially suspect?",
+          "options": {
+            "A": "An insufficient selection",
+            "B": "Too many mirrors",
+            "C": "Excessive fitting space",
+            "D": "Inaccurate opening hours"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "起初误以为可选衣物太少。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "43815f903ad6cf7a640dbdb8f39559bc051a272011be149470fa0d6ab565070d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The swap that needed a mirror\": Why were size labels described as approximate?",
+          "options": {
+            "A": "The labels showed prices.",
+            "B": "Used clothes could have changed shape.",
+            "C": "No one understood numbers.",
+            "D": "Screens blocked the lights."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "衣物可能拉伸或缩水，尺码仅作参考。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "402e3ac0842ef16ceda8c039986d8f4a03c314432ea2bfdaff8599914280b81e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The swap that needed a mirror\": What remained similar across the two events?",
+          "options": {
+            "A": "The absence of mirrors",
+            "B": "The number of uncollected items",
+            "C": "The amount of donated clothing",
+            "D": "Visitors' ability to try clothes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "捐赠数量相近，但更多衣物被使用。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "e8cfb0bcbedf7ba86f92d5711ae651763d8163a4dc8d6f3080e9e009a94e9b2d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The swap that needed a mirror\": What principle does the swap example illustrate?",
+          "options": {
+            "A": "More stock always creates better choices.",
+            "B": "Visitors dislike second-hand clothes.",
+            "C": "Privacy matters only to organisers.",
+            "D": "Practical support can make existing choices more usable."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "通过镜子与试衣空间改善选择条件。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "c91515367ce40e9668d6989ba184f0daf4ea79ed2bec1fff482432f7ef53b98e"
+        }
+      ],
+      "contentFingerprint": "6d0f28b81ce0f75bb5819fd8de1a6a7a041820669e75cf834aa8624e85c74a94"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The tailor can _____ the sleeves without changing the shape of the shoulders.",
+      "options": {
+        "A": "shorten",
+        "B": "broaden",
+        "C": "threaten",
+        "D": "deepen"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "shorten sleeves 为缩短袖子。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1777bf96c9f608108608d2b082d1ce2de3b97e1b19ea9254358fe79e08369c9c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A loose button is a minor _____ that can usually be repaired quickly.",
+      "options": {
+        "A": "fortune",
+        "B": "defect",
+        "C": "harvest",
+        "D": "custom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "defect 为缺陷。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "05b37d3216eaa016bf4a9dcf622b4f899431d9d952f55054be1e7192c72411e1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The shop asked for a written _____ before it began the expensive alterations.",
+      "options": {
+        "A": "collision",
+        "B": "conclusion",
+        "C": "approval",
+        "D": "arrival"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "开始昂贵改衣前需书面认可 approval。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1d64be63f31719bbff67d4920ebd9c46dd767c0f8d4eef98b530debe99335218"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Cotton and wool have different _____ and may need different washing methods.",
+      "options": {
+        "A": "passengers",
+        "B": "boundaries",
+        "C": "headquarters",
+        "D": "properties"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "properties 指材料特性。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "22de123ee385dba9590cd3a281193e55bac9881219806d492e2fe30dfac876f1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "This fabric is _____ enough for daily use; it does not tear easily.",
+      "options": {
+        "A": "durable",
+        "B": "doubtful",
+        "C": "distant",
+        "D": "delicate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "durable 表示耐用。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b98f74ff13eaeb4006a01654369d3137d7bbb9b8e083e1f4d14c7bef8649b0e0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "We should not _____ a garment merely because its colour is no longer fashionable.",
+      "options": {
+        "A": "install",
+        "B": "discard",
+        "C": "translate",
+        "D": "assemble"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "discard 指丢弃。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7871ed181299c7b808597cc37f661b24c4d9e6af92f6aa86811a9f55337b6c74"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The care symbol is barely _____ because repeated washing has faded the ink.",
+      "options": {
+        "A": "flexible",
+        "B": "available",
+        "C": "legible",
+        "D": "eligible"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "legible 为字迹清楚可读的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1a2f4141758c053fd8d3977ddd75caf0983ec2f0e6e1ed0e1ea206b9fba1d53e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The donation centre sorts cloth _____ to its condition and fibre content.",
+      "options": {
+        "A": "contrary",
+        "B": "owing",
+        "C": "opposite",
+        "D": "according"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "according to 为根据。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7bda803ae7668fc7ae1168690b06a4be8c8b40a1363272508f60b14372c9fa15"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "A repair may extend the useful _____ of a well-made bag.",
+      "options": {
+        "A": "lifespan",
+        "B": "landscape",
+        "C": "lifestyle",
+        "D": "landmark"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "lifespan 表示使用寿命。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3055fb87f9828feac8555b44e13996bc68dbb08569b4a35a99d531509a58ee3d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The instructor demonstrated each stitch _____ so beginners could follow.",
+      "options": {
+        "A": "violently",
+        "B": "slowly",
+        "C": "roughly",
+        "D": "blindly"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "slowly 便于初学者跟随动作。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "48f8f28500e3428118709c17a54ac9c5165321d8a415c4d56790157a276408f4"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The coat needs _____ before it can be displayed in the swap.",
+      "options": {
+        "A": "cleaning",
+        "B": "clean",
+        "C": "to cleaning",
+        "D": "cleaned"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "need doing 表被动意义，需要被清洗。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5467eb0dbd3bc8d17975e7acf35694ab067caa85b4a27c3470efe3be47e5ea04"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "I wish I _____ how to replace a zip when my bag broke yesterday.",
+      "options": {
+        "A": "know",
+        "B": "had known",
+        "C": "will know",
+        "D": "am knowing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "wish 表过去遗憾，用过去完成时。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "de4f203f6badfe218c69ca1ed50ae12685abe7b77329d1ace451cd3907bb226e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The cloth _____ on the top shelf belongs to the tailoring class.",
+      "options": {
+        "A": "place",
+        "B": "placing",
+        "C": "placed",
+        "D": "to placing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作定语表示被放置。",
+      "knowledgePoints": [
+        "分词定语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "89ad010fb99fa38511f2991830470b1f53c4e2de078b527daf5ab4e3508c7ee8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Not only the shirts but also the jacket _____ ready for collection.",
+      "options": {
+        "A": "are",
+        "B": "have",
+        "C": "were",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近单数 jacket 对应 is。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "584c2430b7c724a218b46bafd0c3abccdf6c487155bb73a09e4d93467f0dc1d0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The customer would rather _____ the lining than buy another coat.",
+      "options": {
+        "A": "replace",
+        "B": "replacing",
+        "C": "replaced",
+        "D": "to replace"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "would rather 后接动词原形。",
+      "knowledgePoints": [
+        "动词形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "20251bce9fe7f32e3eb16f5b815639f889ecf994cdbae8abce36e7f7a9266b91"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "This is the pattern _____ the instructor referred during the demonstration.",
+      "options": {
+        "A": "which",
+        "B": "to which",
+        "C": "for that",
+        "D": "that to"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "refer to，介词前置为 to which。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f333aa1ddadfc1619ac7fbd8e55d330050cd41a5d6fb227d332d4c2b44a76883"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The more carefully you measure, the fewer mistakes you _____ likely to make.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "are",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "主语 you，be likely to 用 are。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "563fa45aba1364178b80d6d7c86b87722f73a68f1dc160707221017c2978044b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Please leave the label attached _____ the buyer can read the care instructions.",
+      "options": {
+        "A": "unless",
+        "B": "even though",
+        "C": "as if",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "保留标签目的是让买家阅读。",
+      "knowledgePoints": [
+        "目的从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6acfe04d5521d42fe859e93259b80b0fe9566b329d6e140a070ce5de7ab11558"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "She showed me _____ to thread the needle without a special tool.",
+      "options": {
+        "A": "how",
+        "B": "what",
+        "C": "which",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "how to do 表示方法。",
+      "knowledgePoints": [
+        "疑问词不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "812ac5e758a51698cf81622ba7519d88cd23ab94aa0af5633e86e3818dad964e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The torn pocket _____ by the time its owner returned.",
+      "options": {
+        "A": "repairs",
+        "B": "had been repaired",
+        "C": "has repaired",
+        "D": "was repairing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去时间前已修复，用过去完成被动。",
+      "knowledgePoints": [
+        "时态与语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "959518d94e4eeca6b872d643213eadf5ac2fcfb70b77f1044ec176c82172db8e"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nThe value of a garment does not disappear when a small part wears out. A replaced button or repaired pocket may allow it to serve for another year. Yet repair becomes less likely when people cannot find spare parts or clear instructions. Designing products for continued use therefore involves the services around them as well as the materials inside them.",
+      "referenceAnswer": "一件衣服不会因为某个小部位磨损就失去价值。更换纽扣或修补口袋，可能使它再用一年。然而，如果人们找不到零配件或清楚的说明，就更不可能进行修补。因此，为持续使用而设计产品，既涉及产品本身的材料，也涉及配套服务。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "9141bcc275a2299b901d69443916406d60b7ddef88f8bccf91af6a5eff8c4f98",
+      "referenceAnswerFingerprint": "be7e1995511e02abe7d6db469728a03e311c1a98a826aeb6f4631b79fa21620a"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nWrite a suggestion to a clothing shop asking it to offer a small repair service. Explain which repairs to include, how customers would benefit and how the shop could manage demand.",
+      "sampleAnswer": "I suggest that our local clothing shop offer a basic repair service one afternoon each week. Replacing buttons, repairing loose seams and shortening simple hems would be useful starting points. These small jobs could help customers continue wearing garments that already fit them well. The shop could publish clear prices and ask customers to book a short assessment before leaving an item. A tailor should explain when a repair is unsuitable or would cost more than expected. Limiting the first month's appointments would prevent long delays while staff learn how much work they can handle. Customers would gain convenient help, and the shop would build relationships based on care that continues after a purchase.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "dda1d97a8f13ab9997713740b5f1fe1a254c561879f5b598bffa1e58cb5eb4a7",
+      "sampleAnswerFingerprint": "dbfabcb4a6211269bd3cfbaf6893a48e0093a19939c20c40f174247991711f6f"
+    }
+  ],
+  "fingerprintManifest": [
+    "b5e077064a23e7fcee6a96841a74ed8a71a70379655510cf40fefb6c7b445b20",
+    "d25d78f35470fcdaab0aba958dd68c17656b0fe11f9aa64c930230e0f69e39f8",
+    "2561685688facb728b89ee526a39542671349a054e5f3c25f6542a834f51d9b8",
+    "86036076573fb398a0809e971d560a250284f597b83bf3b6ea76ae7046433231",
+    "a99d80314e783d8410ffdc7760d056699378edf57904a1ca4ac571230c3fc91b",
+    "5063b9cf1974cc3f0ebdf0c06a62b8209fcc6a950c004a2365303c0559431f35",
+    "79121fc73f7717ba9bceaa9b4becc70efe5857f0e0e218551d0d3f0a214e24a7",
+    "5b8b68fe009b51ecc3283d908d4d9654fde2048db8e62fc3ac8b0b04f5c0fdb3",
+    "8741e2ff1a481aae4073e28f11322723c6683626b20e2f2b6b3c570bbbdb14d3",
+    "daa13dc30ed333de29bcd71ecb20b1ad42117e32516faff8663c85ca6e837624",
+    "ef2008ce4ea6530ea7fe19682b68e54000739b9de3f9d715cfd58124ce71b8f9",
+    "ab8818527abe7ac34479aeed3f418e774b4900819145b11d581be05902b06e69",
+    "1bc2b96cb35629bfa24fe2035f306440477370e0d8a6931dd26fc2ebd1a2cc15",
+    "0553f2d563a1a4dc9d916b4c7309e50cb8264c8fbf344f9fc069166a69fd4a20",
+    "d8b7be3f04340293464ea24a85d66608e27838f1a3d63d03a4332615689f2ebd",
+    "1e2c40bb6fd3511dcf6ee50c53793b7ed4bbcaa467328ff7c6123958b0cdffb1",
+    "78d538d56eb5d02cbc6ef7083c3f98856f704ef8312a89b05b8586ac5139593e",
+    "84c0d2b3c1c9d07366048bbfcbd7239c2dac0209a1289b2768a24d4ca0a313b7",
+    "64dc878166dce9bf54e12ab0e75ef005d1b007ae767446f97d354c54f0898b81",
+    "7e2e5eb5954d889701939e90feaa4add76634624e863e7dbbad3c36a7f993747",
+    "c64b56ce92d60d19a3a489e25edd093b665e2a7e85232d6d41905b3806586781",
+    "901f2f9306a3591225569d8950ae12741f433971b3a601c33c693ed39c549809",
+    "5f8fd0b9f5df4f8c6f1810bd9d410b9229264b2fc8499b01a9f1f716a812f4ad",
+    "de38727674e0f249aa7984e08a56ee296afe1efe944d418bd25a75681eda4936",
+    "829329341b6dc28f60b4fd1ed413d464c5754549b91b6ce1d1772ed9fa039400",
+    "ad7fce998b6b1a7e945263cbe26ac8b1a1df75047169a40ff3b57596827f8d04",
+    "598376f9faf9c8e8d204a9560723afde6a81adfa5b8844f7a4679033b2227f10",
+    "f608f4a82e7bc7513de64fc0510e4a4ba980c0201f2728984b4c7a5ff981d0d1",
+    "323c379f757eb8c5fe5c8e07009d4ade215c68c5917fd32e7e868e1b3d123d07",
+    "09d49f6f0a6cc1fd5183677fc555f71dbb440e4e757c953a21fc5b346bdbbbe2",
+    "7e183218529877712edfb989aafdc52425bb15c9ea3340ea134cb56e02a943f5",
+    "6d0f28b81ce0f75bb5819fd8de1a6a7a041820669e75cf834aa8624e85c74a94",
+    "608d92d97a4028a85eac3872ea65da7c8bf8bb9f2556c27708d3773b7018a65d",
+    "43815f903ad6cf7a640dbdb8f39559bc051a272011be149470fa0d6ab565070d",
+    "402e3ac0842ef16ceda8c039986d8f4a03c314432ea2bfdaff8599914280b81e",
+    "e8cfb0bcbedf7ba86f92d5711ae651763d8163a4dc8d6f3080e9e009a94e9b2d",
+    "c91515367ce40e9668d6989ba184f0daf4ea79ed2bec1fff482432f7ef53b98e",
+    "1777bf96c9f608108608d2b082d1ce2de3b97e1b19ea9254358fe79e08369c9c",
+    "05b37d3216eaa016bf4a9dcf622b4f899431d9d952f55054be1e7192c72411e1",
+    "1d64be63f31719bbff67d4920ebd9c46dd767c0f8d4eef98b530debe99335218",
+    "22de123ee385dba9590cd3a281193e55bac9881219806d492e2fe30dfac876f1",
+    "b98f74ff13eaeb4006a01654369d3137d7bbb9b8e083e1f4d14c7bef8649b0e0",
+    "7871ed181299c7b808597cc37f661b24c4d9e6af92f6aa86811a9f55337b6c74",
+    "1a2f4141758c053fd8d3977ddd75caf0983ec2f0e6e1ed0e1ea206b9fba1d53e",
+    "7bda803ae7668fc7ae1168690b06a4be8c8b40a1363272508f60b14372c9fa15",
+    "3055fb87f9828feac8555b44e13996bc68dbb08569b4a35a99d531509a58ee3d",
+    "48f8f28500e3428118709c17a54ac9c5165321d8a415c4d56790157a276408f4",
+    "5467eb0dbd3bc8d17975e7acf35694ab067caa85b4a27c3470efe3be47e5ea04",
+    "de4f203f6badfe218c69ca1ed50ae12685abe7b77329d1ace451cd3907bb226e",
+    "89ad010fb99fa38511f2991830470b1f53c4e2de078b527daf5ab4e3508c7ee8",
+    "584c2430b7c724a218b46bafd0c3abccdf6c487155bb73a09e4d93467f0dc1d0",
+    "20251bce9fe7f32e3eb16f5b815639f889ecf994cdbae8abce36e7f7a9266b91",
+    "f333aa1ddadfc1619ac7fbd8e55d330050cd41a5d6fb227d332d4c2b44a76883",
+    "563fa45aba1364178b80d6d7c86b87722f73a68f1dc160707221017c2978044b",
+    "6acfe04d5521d42fe859e93259b80b0fe9566b329d6e140a070ce5de7ab11558",
+    "812ac5e758a51698cf81622ba7519d88cd23ab94aa0af5633e86e3818dad964e",
+    "959518d94e4eeca6b872d643213eadf5ac2fcfb70b77f1044ec176c82172db8e",
+    "9141bcc275a2299b901d69443916406d60b7ddef88f8bccf91af6a5eff8c4f98",
+    "be7e1995511e02abe7d6db469728a03e311c1a98a826aeb6f4631b79fa21620a",
+    "dda1d97a8f13ab9997713740b5f1fe1a254c561879f5b598bffa1e58cb5eb4a7",
+    "dbfabcb4a6211269bd3cfbaf6893a48e0093a19939c20c40f174247991711f6f"
+  ],
+  "contentFingerprint": "d651c68531794a7222987177240c0b2d722a97eeb36b48a1856c3af165a06139"
+}

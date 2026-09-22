@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-35",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 35 · 展览策划与公共理解",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 35,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Making a display label shorter",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Curator: This label is too long for visitors standing in the gallery.\nWriter: (1) _____\nCurator: The purpose of the tool matters most. What can we move elsewhere?\nWriter: (2) _____\nCurator: That would leave room for a larger font.\nWriter: (3) _____\nCurator: How can we tell whether the revised version works?\nWriter: (4) _____",
+      "sharedOptions": {
+        "A": "Which single idea should a visitor take away?",
+        "B": "The technical history could go in the optional booklet.",
+        "C": "Then people will be able to read it from a comfortable distance.",
+        "D": "Ask a few visitors to explain the label in their own words."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Making a display label shorter\", select the response for blank (1).",
+          "options": {
+            "A": "Which single idea should a visitor take away?",
+            "B": "The technical history could go in the optional booklet.",
+            "C": "Then people will be able to read it from a comfortable distance.",
+            "D": "Ask a few visitors to explain the label in their own words."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先确定标签最重要的一点。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f8245e27f60491577abb0199c76c3a4af2ff96f85a3273d5d19c526e0f2ea18d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Making a display label shorter\", select the response for blank (2).",
+          "options": {
+            "A": "Which single idea should a visitor take away?",
+            "B": "The technical history could go in the optional booklet.",
+            "C": "Then people will be able to read it from a comfortable distance.",
+            "D": "Ask a few visitors to explain the label in their own words."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "可将技术史移至扩展手册。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d167c70a0e5dffc9a35c851bc9acc341f1d00b59c3164f8e7182ebb31472a36e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Making a display label shorter\", select the response for blank (3).",
+          "options": {
+            "A": "Which single idea should a visitor take away?",
+            "B": "The technical history could go in the optional booklet.",
+            "C": "Then people will be able to read it from a comfortable distance.",
+            "D": "Ask a few visitors to explain the label in their own words."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "大字体提高舒适距离上的可读性。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "af73d7fa1fe129de587e6a1d40242bdf525871268e0b4dfcc701c3549c06c700"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Making a display label shorter\", select the response for blank (4).",
+          "options": {
+            "A": "Which single idea should a visitor take away?",
+            "B": "The technical history could go in the optional booklet.",
+            "C": "Then people will be able to read it from a comfortable distance.",
+            "D": "Ask a few visitors to explain the label in their own words."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "让访客复述可了解实际理解。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "22cf41a8d0fbee89980ca00dbce10a9dcb2b618af6a2badf8d80bcfb4d29325f"
+        }
+      ],
+      "contentFingerprint": "1d5db925c43186973a1489df503097c8b8d155e653034c3589d3e2339260cb7c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "An object that cannot be touched",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: May I lift this old kitchen scale?\nGuide: (1) _____\nVisitor: I understand. Is there another way to feel its weight?\nGuide: (2) _____\nVisitor: Is the replica exactly the same in every detail?\nGuide: (3) _____",
+      "sharedOptions": {
+        "A": "The original is fragile, so please leave it on its support.",
+        "B": "You can handle the replica on the lower table.",
+        "C": "Its weight and size match, but the surface material is different.",
+        "D": "The kitchen closes after lunch."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"An object that cannot be touched\", select the response for blank (1).",
+          "options": {
+            "A": "The original is fragile, so please leave it on its support.",
+            "B": "You can handle the replica on the lower table.",
+            "C": "Its weight and size match, but the surface material is different.",
+            "D": "The kitchen closes after lunch."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "原件脆弱因此不能搬动。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f512c25f4fbb41c9f9a082c6f709a0afeb9f91fdbe08bdb8b674c8588334bae0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"An object that cannot be touched\", select the response for blank (2).",
+          "options": {
+            "A": "The original is fragile, so please leave it on its support.",
+            "B": "You can handle the replica on the lower table.",
+            "C": "Its weight and size match, but the surface material is different.",
+            "D": "The kitchen closes after lunch."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "复制品提供可触摸体验。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "b92c8ac129e862540a6d9c9bbe42ce94d291f4ae97e9460826ab18b3774a60b9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"An object that cannot be touched\", select the response for blank (3).",
+          "options": {
+            "A": "The original is fragile, so please leave it on its support.",
+            "B": "You can handle the replica on the lower table.",
+            "C": "Its weight and size match, but the surface material is different.",
+            "D": "The kitchen closes after lunch."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "明确复制品相同与不同之处。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f5fb8671134167054c890bddd14f705af387727fde0f82817ea671a92f298762"
+        }
+      ],
+      "contentFingerprint": "44efd0da01143716d267cf02c65a0db05676443b0382833c8487c433de396d52"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Keeping the doorway clear",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Volunteer: Visitors keep stopping in front of the narrow entrance.\nCoordinator: (1) _____\nVolunteer: The introduction panel is there. Should we move it?\nCoordinator: (2) _____\nVolunteer: What about visitors who need a seat?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "What are they looking at when they stop?",
+        "B": "Yes, place it beside the wider wall beyond the doorway.",
+        "C": "Put a bench nearby while keeping the walking route open.",
+        "D": "Tickets are printed in three colours."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"Keeping the doorway clear\", select the response for blank (1).",
+          "options": {
+            "A": "What are they looking at when they stop?",
+            "B": "Yes, place it beside the wider wall beyond the doorway.",
+            "C": "Put a bench nearby while keeping the walking route open.",
+            "D": "Tickets are printed in three colours."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先调查停留原因。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "7d7eb690891fe2e0c0da28072680d4bb9b6773a95eb770fac7fe15aa57429a26"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"Keeping the doorway clear\", select the response for blank (2).",
+          "options": {
+            "A": "What are they looking at when they stop?",
+            "B": "Yes, place it beside the wider wall beyond the doorway.",
+            "C": "Put a bench nearby while keeping the walking route open.",
+            "D": "Tickets are printed in three colours."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "把引导展板移到宽敞墙面避免堵门。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6b99ae285270e41bc22ccade5c66b7923d2bf90ff5dd1bcb60d4a449f45cfd6c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"Keeping the doorway clear\", select the response for blank (3).",
+          "options": {
+            "A": "What are they looking at when they stop?",
+            "B": "Yes, place it beside the wider wall beyond the doorway.",
+            "C": "Put a bench nearby while keeping the walking route open.",
+            "D": "Tickets are printed in three colours."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "座位与通行空间需同时照顾。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "498efbbfc45d953dec5c205e6d07739971841d8c2d46d2c5684e0d298529a653"
+        }
+      ],
+      "contentFingerprint": "c83df06f169116e93fb3bd5bc4cd9117d17c761dcbc07db67de7902e26b7e554"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The label that asked a question",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A local museum displayed an ordinary lunch box from a former factory. Its first label listed the date, material and donor. Few visitors paused. A new label began by asking where workers ate when there was no canteen. It then used the box to introduce the short meal breaks and shared outdoor spaces of that period. Visitors spent longer at the case and discussed their own workplace meals. The facts about the object had not changed. What changed was the connection between those facts and a recognisable human question. The curator kept the original catalogue details available in a separate record.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The label that asked a question\": What did the original lunch-box label mainly provide?",
+          "options": {
+            "A": "Basic catalogue facts",
+            "B": "A worker's full diary",
+            "C": "A cooking lesson",
+            "D": "A map of all factories"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "原标签列日期、材质、捐赠者。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6561c5a9b9366ddd4658fecf605cef67d517f7a86fae9297cce8bd4ff8d74000"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The label that asked a question\": How did the replacement label begin?",
+          "options": {
+            "A": "With an advertisement",
+            "B": "With a question about workers' meals",
+            "C": "With a price list",
+            "D": "With a warning about food"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "开头问无食堂时工人在哪吃饭。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6d6ee5284ebba985ceefea6df51c95eb2b8e56bc262ef4a742249fb64b49dfbc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The label that asked a question\": What response followed the new label?",
+          "options": {
+            "A": "Visitors stopped discussing work.",
+            "B": "The object was removed.",
+            "C": "People stayed longer and shared related experiences.",
+            "D": "The factory reopened."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "访客停留更久并谈自己的工作餐。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "bffe99d934bf0efd1757cb0f9e9861f3106c0d35caddc96f8fbdf037f4a5bc78"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The label that asked a question\": What remained unchanged?",
+          "options": {
+            "A": "The label's opening sentence",
+            "B": "The display's wording",
+            "C": "Every visitor's opinion",
+            "D": "The facts about the lunch box"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "物件事实未变，呈现联系改变。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "51ba9f04aa69256ef5d8ee27b82ab368bdeab42b4a724b3b2e3f37b2683231ff"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The label that asked a question\": Why was the new label more engaging?",
+          "options": {
+            "A": "It connected the object to a familiar human concern.",
+            "B": "It removed every historical detail.",
+            "C": "It claimed the box was extremely valuable.",
+            "D": "It used only technical vocabulary."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "与人们熟悉的用餐问题建立联系。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "650cc7368e30ab65d68bef1f45736d9d06e8893b783b82654599fa67ee6f8f21"
+        }
+      ],
+      "contentFingerprint": "b985962c1c4b9bb78f6ac9e9cfaf9ac17641840bcbc47cecdde28b6743ecc858"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The route visitors chose",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An exhibition designer arranged five rooms in a historical sequence. She expected everyone to begin with the earliest period. During opening week, visitors often entered the brightest room first and moved in several directions. Rather than forcing them back to the planned route, the team added short context panels at each entrance. A complete timeline remained near the centre for people who wanted an overview. Visitors could now understand a room without having seen all the others. The designer learned that a coherent exhibition could support different journeys if each part offered enough orientation.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The route visitors chose\": How had the designer originally organised the exhibition?",
+          "options": {
+            "A": "By visitors' height",
+            "B": "In historical order",
+            "C": "By ticket price",
+            "D": "Around five colours"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "五个展室按历史先后排列。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "3082665dc745dd6249c59fd620402d896a6716eb7b9da11cf23f0358ee754490"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The route visitors chose\": What influenced many visitors' first choice?",
+          "options": {
+            "A": "The oldest date",
+            "B": "A strict instruction",
+            "C": "The brightness of a room",
+            "D": "The longest queue"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "常先进入最明亮展室。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "432dc17a7a3fb6bb472baf5fad7e19003e488302a0f115dc4b7b1b68989aa445"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The route visitors chose\": What did the team add at room entrances?",
+          "options": {
+            "A": "Locked gates",
+            "B": "Extra ticket machines",
+            "C": "Sales counters",
+            "D": "Brief context panels"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "入口增加简短背景说明。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "237b5c73518ec8dd9c2df7ab29703249ef341af7ffe7954048fc6a037f7b63f4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The route visitors chose\": What function did the central timeline serve?",
+          "options": {
+            "A": "Providing an overall historical picture",
+            "B": "Preventing movement between rooms",
+            "C": "Replacing every object",
+            "D": "Measuring queue length"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "时间轴供希望总览的人使用。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "8ab1b28018178885ec4d6d55da6bc0f0078a7aaa7f308c5db1bc92955d4f6719"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The route visitors chose\": What did the designer learn about coherence?",
+          "options": {
+            "A": "It requires every visitor to follow one route.",
+            "B": "It can be preserved across different visitor routes.",
+            "C": "It depends entirely on bright lights.",
+            "D": "It is incompatible with short labels."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "每部分提供定位信息，不同路线仍能形成理解。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "a8b43fa56977538825ffa58ea8bec5cee9e9372e0b21cc616f26d3e1c3b7cf62"
+        }
+      ],
+      "contentFingerprint": "455b60de7822e279d408cd85b8952ef04473ae6aea4b786b6019b34735351cf2"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The borrowed cup",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "For an exhibition about migration, a resident lent a cup carried during a move many years earlier. The museum wanted to show it beside an enlarged family photograph. The lender agreed to display the cup but was uncertain about making the photograph public. Staff initially saw the two items as one story. After further conversation, they separated the permissions and used a simple map instead of the photograph. The display still communicated the journey without exposing relatives who had not participated in the decision. The experience reminded the team that a compelling interpretation does not remove a contributor's right to set limits.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The borrowed cup\": Why was the cup borrowed?",
+          "options": {
+            "A": "To serve drinks at an opening",
+            "B": "To sell in the museum shop",
+            "C": "To illustrate a migration story",
+            "D": "To replace broken kitchen equipment"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "杯子用于迁移主题展览。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "99d8d2f46c3b1dd9e1182abd936c17f908f9f7f10db5e4168ebe5ffc8769de52"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The borrowed cup\": What concerned the lender?",
+          "options": {
+            "A": "The colour of the map",
+            "B": "The height of the shelf",
+            "C": "The cup's weight",
+            "D": "Public display of the family photograph"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "对公开家庭照片持保留。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "0e9346edaa4bbee4286e1da3fd2aa84f40f772e95c4ad434a5061a7648fab298"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The borrowed cup\": What did staff use instead of the photograph?",
+          "options": {
+            "A": "A simple map",
+            "B": "Another family's photograph",
+            "C": "A price card",
+            "D": "An empty frame only"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "改用简明地图表达旅程。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "faa9867e7ac9687c781e8c69154be4a1ac080c977ed7a675fc0e8081904c08a8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The borrowed cup\": Why did separating permissions matter?",
+          "options": {
+            "A": "It allowed the museum to ignore the lender.",
+            "B": "It respected different boundaries for different materials.",
+            "C": "It made every loan permanent.",
+            "D": "It removed the need for conversation."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "杯子与照片的公开许可可各自决定。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "283de87c66aa5925999abfbbb64a00889b7f265a4ff5b18646331b757b5e706c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The borrowed cup\": Which principle is supported by this example?",
+          "options": {
+            "A": "A strong story justifies any disclosure.",
+            "B": "All family photographs should be destroyed.",
+            "C": "Interpretation should respect contributors' limits.",
+            "D": "Maps always communicate more than photographs."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "有力叙事也不能取消贡献者设定边界的权利。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "236df6eb7176223e74662b0f5851d96f51c89b2cd5e96c1a3fa862683e252ed1"
+        }
+      ],
+      "contentFingerprint": "3c3d286e03e5bee194e478ffce77f222d91e94714eb3c3089635ff6630da07d0"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A trial with empty frames",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Before buying screens for a new gallery, staff taped paper rectangles to the walls at proposed heights. They invited adults of different heights, including seated visitors, to read sample text inside the rectangles. Several screens would have been too high, and one would have reflected a bright window. Adjusting paper cost almost nothing. The team changed the placement before ordering mounts and wiring. The temporary display looked unfinished, but that was part of its usefulness: participants felt comfortable suggesting changes. A rough model made decisions visible while they were still inexpensive to revise.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"A trial with empty frames\": What did the paper rectangles represent?",
+          "options": {
+            "A": "Future paintings for sale",
+            "B": "Windows to be removed",
+            "C": "Staff noticeboards",
+            "D": "Proposed information screens"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "纸矩形模拟计划安装的屏幕。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "0388d0478d9da75f3277906bd5260fd915c32468b0d373166bb5a2a2eb725938"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"A trial with empty frames\": Who was invited to try the sample display?",
+          "options": {
+            "A": "Adults with different viewing heights, including seated visitors",
+            "B": "Only the tallest staff",
+            "C": "Only screen manufacturers",
+            "D": "People attending online"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "不同身高包括坐姿访客参加。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "80ae80789f03b4fbd48088d3abc122389a25adf5acd645b3c007000542b7d245"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"A trial with empty frames\": What issue was identified besides excessive height?",
+          "options": {
+            "A": "A missing lift",
+            "B": "Reflection from a bright window",
+            "C": "A broken frame",
+            "D": "A narrow ticket design"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "一个位置会受明亮窗户反光影响。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "c9ea65c534293a08766aaa82841a9a06fc9a1bcd12a8b74b696758f3dcd015df"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"A trial with empty frames\": Why did the unfinished appearance help?",
+          "options": {
+            "A": "It reduced all interest.",
+            "B": "It concealed the purpose.",
+            "C": "It encouraged suggestions before decisions seemed final.",
+            "D": "It made wiring unnecessary forever."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "粗略模型使人更愿意提出修改。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "fbf9df18281b820b8f1c9448e1d75349f15ed6a682a6cac16296807c70ca9995"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"A trial with empty frames\": What is the main advantage illustrated by the trial?",
+          "options": {
+            "A": "Buying equipment before planning",
+            "B": "Avoiding all public input",
+            "C": "Making every screen identical",
+            "D": "Finding placement problems while changes are cheap"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "在安装支架布线前低成本发现问题。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f5a7ea420acbaff441082d4711b5040e86baac0961a12bc0dc4c0a82545cbc49"
+        }
+      ],
+      "contentFingerprint": "b80120663845a5bd1efac7501171a220b018c6b39e80f3ea9fc238ea956adc2a"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The introduction should _____ the main idea of the exhibition in two sentences.",
+      "options": {
+        "A": "convey",
+        "B": "confine",
+        "C": "convict",
+        "D": "convert"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "convey 指传达信息。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "832085ae92168568bfc5a50a92422cc5b959c3a2eda0367cdf1612e3523561ef"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The object is too _____ to be handled without special support.",
+      "options": {
+        "A": "frequent",
+        "B": "fragile",
+        "C": "familiar",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "fragile 为易碎、脆弱的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "65acda37856b60c815023b8520a20dfa60db48fd7eea8a1dbb15551ec60072a5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The gallery added a bench for visitors who needed a brief _____.",
+      "options": {
+        "A": "debate",
+        "B": "defeat",
+        "C": "rest",
+        "D": "risk"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "a brief rest 为短暂休息。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8b974ac063cf6aa91b9b7eb8810ef02142e431644be4bb071520e9cf0db9d2fa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The caption provides historical _____ for the unfamiliar photograph.",
+      "options": {
+        "A": "contract",
+        "B": "contrast",
+        "C": "contact",
+        "D": "context"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "historical context 为历史背景。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0e8003641f3d667df1d330eae7397c6f4d161192a9769761dca24aeca65edb3e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ of the original tool lets visitors explore its shape safely.",
+      "options": {
+        "A": "replica",
+        "B": "receipt",
+        "C": "request",
+        "D": "remark"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "replica 指复制品。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "037b295fb6c8c86642d814c21277a35c874d218abd81be7de0191b745b67d0f3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The museum had to obtain the owner's _____ before displaying the private letter.",
+      "options": {
+        "A": "pressure",
+        "B": "consent",
+        "C": "expense",
+        "D": "resistance"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "consent 为同意、许可。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f874e19eee6033ea55c1262f13ff97e29357fb6ee7b86758416ce60443b2bbc4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Place the sign where it is clearly _____ from the entrance.",
+      "options": {
+        "A": "valuable",
+        "B": "variable",
+        "C": "visible",
+        "D": "vulnerable"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "visible 指看得见的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6a98d834bd980e6bc1a3f4cd16012ff0ddc2fd5770013b36fa39727aaf766f59"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The exhibition invites people to _____ on how their town has changed.",
+      "options": {
+        "A": "insist",
+        "B": "depend",
+        "C": "operate",
+        "D": "reflect"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reflect on 指思考。",
+      "knowledgePoints": [
+        "动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "30d49a3302b9f0629e02973be859d13874050655d637ac1cc571041ef1f9efd7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The final panel offers a _____ account that includes several viewpoints.",
+      "options": {
+        "A": "balanced",
+        "B": "borrowed",
+        "C": "broken",
+        "D": "bitter"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "balanced account 为兼顾多方的叙述。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6f69e4ef073a291104f6f18e362607d68eda01d259d2f71aaa855e743be71dfc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The donor's contribution was _____ acknowledged beside the display case.",
+      "options": {
+        "A": "narrowly",
+        "B": "gratefully",
+        "C": "scarcely",
+        "D": "accidentally"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "gratefully acknowledged 表示感谢并致意。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4103cb89afff68f71533757f8e114a95f55fa920339598e0b73bfd848014ef8f"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The objects on this shelf _____ donated by former railway workers.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "has",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "objects 复数，过去被动 were donated。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "95cd07806b6ae122df3f7e14379a6fe53fe94df642260381e1d1d31d8f68d88d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Visitors are allowed _____ the replica but not the original.",
+      "options": {
+        "A": "handling",
+        "B": "to handle",
+        "C": "handled",
+        "D": "handle to"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "be allowed to do。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "52f1633c6fc5c666fe94d309628355e08aec64e0c8b7764f0585c602ea13bae2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The curator explained the reason _____ the photograph had been removed.",
+      "options": {
+        "A": "which",
+        "B": "what",
+        "C": "why",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reason 后 why 引导原因定语从句。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "554894f347e1b162bbed60d26c5851408900a5e1ec6b68d8ed5cc2cbab61520d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "If the label had used larger letters, more visitors _____ it yesterday.",
+      "options": {
+        "A": "read",
+        "B": "will read",
+        "C": "are reading",
+        "D": "could have read"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件对应 could have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5d38701558551af3c440cd5e897a0b39e47f81b50762dc4b2f333a2956e3c4cf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "_____ the room was small, its displays attracted lengthy discussion.",
+      "options": {
+        "A": "Although",
+        "B": "Because of",
+        "C": "Unless",
+        "D": "Despite"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "后接完整从句，表达让步。",
+      "knowledgePoints": [
+        "让步从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cf1cd1e9a90be9cd70ca467e1a08b14bfbc135037f19fe285ec1aa9ad5d65285"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The portrait is believed _____ more than a century ago.",
+      "options": {
+        "A": "painting",
+        "B": "to have been painted",
+        "C": "to paint",
+        "D": "having painted"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "据信过去已被绘制，用完成被动不定式。",
+      "knowledgePoints": [
+        "非谓语与被动"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3ad025f2369d76511921df2083bc430bbc4952fba5742ad81ee45ab94d1dbd1f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "We found the new directions much _____ than the old arrows.",
+      "options": {
+        "A": "clear",
+        "B": "clearest",
+        "C": "clearer",
+        "D": "more clearer"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "much 修饰比较级 clearer。",
+      "knowledgePoints": [
+        "比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d2e1d0588a8b38d35d7adb05e2e8662fba4d45f9d7b19fc38d333d83e9d5e6f8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The guide spoke slowly so that everyone _____ follow the explanation.",
+      "options": {
+        "A": "must",
+        "B": "shall",
+        "C": "ought",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用 could 表能够。",
+      "knowledgePoints": [
+        "情态动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "52bfafdf8267861c7da580a9a629c2498875bb796a5a6cd0f81ac6687e0d538c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The display designer asked me _____ the sample text was easy to read.",
+      "options": {
+        "A": "whether",
+        "B": "that",
+        "C": "what",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "询问是否易读，whether 引导宾语从句。",
+      "knowledgePoints": [
+        "宾语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b07917f262d9f02e39613f49d49540e7a56638c5c28d7fa4ad14343eff7ede2b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "By the time the gallery opens, all the loan agreements _____.",
+      "options": {
+        "A": "sign",
+        "B": "will have been signed",
+        "C": "had signed",
+        "D": "are signing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "到将来开馆时已签妥，未来完成被动。",
+      "knowledgePoints": [
+        "将来完成时"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "55789b559c72667e39927e5c7c467c0a27a9d824ca143ce65429eaad17588804"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nAn exhibition helps people notice relationships that may not be obvious when objects stand alone. The words beside an object can invite curiosity or close it down. Clear language does not require a simple history with every difficulty removed. It can introduce uncertainty honestly and encourage visitors to consider why different people remember the same event in different ways.",
+      "referenceAnswer": "展览帮助人们注意到物件单独陈列时不明显的关系。物件旁边的文字既能激发好奇，也可能使好奇止步。清晰的语言并不要求把历史简化到抹去所有复杂之处。它可以诚实地呈现不确定性，并鼓励参观者思考不同的人为何以不同方式记住同一事件。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "33b7b79e516e41540bfefcba591978286ea8e6dc1d1e337d4cf188f61d86054b",
+      "referenceAnswerFingerprint": "5a054448c60f9a3868b54c4ccc8dcfda7238701fd8b3785dceb7154f0a3749c1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nYour learning centre will display objects showing changes in everyday life. Propose one object, explain the story it could tell, and suggest an accessible way to present it.",
+      "sampleAnswer": "I would display a paper bus ticket beside a photograph of a modern payment screen. The ticket could introduce changes in how people prepare for journeys and ask for help. A short label might describe buying a ticket from a conductor and invite visitors to compare that experience with paying by phone. The display should avoid suggesting that everyone welcomes the same change. Some travellers appreciate speed, while others value speaking to a person. Large print and a recorded version of the label would support different visitors. A clearly marked replica ticket could be handled. Finally, a small comment board could collect memories and practical difficulties, making the display a conversation about daily travel.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "9c8d76fa4aba2a183cd1b2a7355c1f63b138f2073b8420adca0755892a5e4bb5",
+      "sampleAnswerFingerprint": "cf45e15d5942be3a1dd74adc1bb47e2d6eb998e9c8313a3cf9f82e65002bf756"
+    }
+  ],
+  "fingerprintManifest": [
+    "1d5db925c43186973a1489df503097c8b8d155e653034c3589d3e2339260cb7c",
+    "f8245e27f60491577abb0199c76c3a4af2ff96f85a3273d5d19c526e0f2ea18d",
+    "d167c70a0e5dffc9a35c851bc9acc341f1d00b59c3164f8e7182ebb31472a36e",
+    "af73d7fa1fe129de587e6a1d40242bdf525871268e0b4dfcc701c3549c06c700",
+    "22cf41a8d0fbee89980ca00dbce10a9dcb2b618af6a2badf8d80bcfb4d29325f",
+    "44efd0da01143716d267cf02c65a0db05676443b0382833c8487c433de396d52",
+    "f512c25f4fbb41c9f9a082c6f709a0afeb9f91fdbe08bdb8b674c8588334bae0",
+    "b92c8ac129e862540a6d9c9bbe42ce94d291f4ae97e9460826ab18b3774a60b9",
+    "f5fb8671134167054c890bddd14f705af387727fde0f82817ea671a92f298762",
+    "c83df06f169116e93fb3bd5bc4cd9117d17c761dcbc07db67de7902e26b7e554",
+    "7d7eb690891fe2e0c0da28072680d4bb9b6773a95eb770fac7fe15aa57429a26",
+    "6b99ae285270e41bc22ccade5c66b7923d2bf90ff5dd1bcb60d4a449f45cfd6c",
+    "498efbbfc45d953dec5c205e6d07739971841d8c2d46d2c5684e0d298529a653",
+    "b985962c1c4b9bb78f6ac9e9cfaf9ac17641840bcbc47cecdde28b6743ecc858",
+    "6561c5a9b9366ddd4658fecf605cef67d517f7a86fae9297cce8bd4ff8d74000",
+    "6d6ee5284ebba985ceefea6df51c95eb2b8e56bc262ef4a742249fb64b49dfbc",
+    "bffe99d934bf0efd1757cb0f9e9861f3106c0d35caddc96f8fbdf037f4a5bc78",
+    "51ba9f04aa69256ef5d8ee27b82ab368bdeab42b4a724b3b2e3f37b2683231ff",
+    "650cc7368e30ab65d68bef1f45736d9d06e8893b783b82654599fa67ee6f8f21",
+    "455b60de7822e279d408cd85b8952ef04473ae6aea4b786b6019b34735351cf2",
+    "3082665dc745dd6249c59fd620402d896a6716eb7b9da11cf23f0358ee754490",
+    "432dc17a7a3fb6bb472baf5fad7e19003e488302a0f115dc4b7b1b68989aa445",
+    "237b5c73518ec8dd9c2df7ab29703249ef341af7ffe7954048fc6a037f7b63f4",
+    "8ab1b28018178885ec4d6d55da6bc0f0078a7aaa7f308c5db1bc92955d4f6719",
+    "a8b43fa56977538825ffa58ea8bec5cee9e9372e0b21cc616f26d3e1c3b7cf62",
+    "3c3d286e03e5bee194e478ffce77f222d91e94714eb3c3089635ff6630da07d0",
+    "99d8d2f46c3b1dd9e1182abd936c17f908f9f7f10db5e4168ebe5ffc8769de52",
+    "0e9346edaa4bbee4286e1da3fd2aa84f40f772e95c4ad434a5061a7648fab298",
+    "faa9867e7ac9687c781e8c69154be4a1ac080c977ed7a675fc0e8081904c08a8",
+    "283de87c66aa5925999abfbbb64a00889b7f265a4ff5b18646331b757b5e706c",
+    "236df6eb7176223e74662b0f5851d96f51c89b2cd5e96c1a3fa862683e252ed1",
+    "b80120663845a5bd1efac7501171a220b018c6b39e80f3ea9fc238ea956adc2a",
+    "0388d0478d9da75f3277906bd5260fd915c32468b0d373166bb5a2a2eb725938",
+    "80ae80789f03b4fbd48088d3abc122389a25adf5acd645b3c007000542b7d245",
+    "c9ea65c534293a08766aaa82841a9a06fc9a1bcd12a8b74b696758f3dcd015df",
+    "fbf9df18281b820b8f1c9448e1d75349f15ed6a682a6cac16296807c70ca9995",
+    "f5a7ea420acbaff441082d4711b5040e86baac0961a12bc0dc4c0a82545cbc49",
+    "832085ae92168568bfc5a50a92422cc5b959c3a2eda0367cdf1612e3523561ef",
+    "65acda37856b60c815023b8520a20dfa60db48fd7eea8a1dbb15551ec60072a5",
+    "8b974ac063cf6aa91b9b7eb8810ef02142e431644be4bb071520e9cf0db9d2fa",
+    "0e8003641f3d667df1d330eae7397c6f4d161192a9769761dca24aeca65edb3e",
+    "037b295fb6c8c86642d814c21277a35c874d218abd81be7de0191b745b67d0f3",
+    "f874e19eee6033ea55c1262f13ff97e29357fb6ee7b86758416ce60443b2bbc4",
+    "6a98d834bd980e6bc1a3f4cd16012ff0ddc2fd5770013b36fa39727aaf766f59",
+    "30d49a3302b9f0629e02973be859d13874050655d637ac1cc571041ef1f9efd7",
+    "6f69e4ef073a291104f6f18e362607d68eda01d259d2f71aaa855e743be71dfc",
+    "4103cb89afff68f71533757f8e114a95f55fa920339598e0b73bfd848014ef8f",
+    "95cd07806b6ae122df3f7e14379a6fe53fe94df642260381e1d1d31d8f68d88d",
+    "52f1633c6fc5c666fe94d309628355e08aec64e0c8b7764f0585c602ea13bae2",
+    "554894f347e1b162bbed60d26c5851408900a5e1ec6b68d8ed5cc2cbab61520d",
+    "5d38701558551af3c440cd5e897a0b39e47f81b50762dc4b2f333a2956e3c4cf",
+    "cf1cd1e9a90be9cd70ca467e1a08b14bfbc135037f19fe285ec1aa9ad5d65285",
+    "3ad025f2369d76511921df2083bc430bbc4952fba5742ad81ee45ab94d1dbd1f",
+    "d2e1d0588a8b38d35d7adb05e2e8662fba4d45f9d7b19fc38d333d83e9d5e6f8",
+    "52bfafdf8267861c7da580a9a629c2498875bb796a5a6cd0f81ac6687e0d538c",
+    "b07917f262d9f02e39613f49d49540e7a56638c5c28d7fa4ad14343eff7ede2b",
+    "55789b559c72667e39927e5c7c467c0a27a9d824ca143ce65429eaad17588804",
+    "33b7b79e516e41540bfefcba591978286ea8e6dc1d1e337d4cf188f61d86054b",
+    "5a054448c60f9a3868b54c4ccc8dcfda7238701fd8b3785dceb7154f0a3749c1",
+    "9c8d76fa4aba2a183cd1b2a7355c1f63b138f2073b8420adca0755892a5e4bb5",
+    "cf45e15d5942be3a1dd74adc1bb47e2d6eb998e9c8313a3cf9f82e65002bf756"
+  ],
+  "contentFingerprint": "dcf353c03c1be9bb3d0dbd1c9b78a780f516e67ab4c841efb008997f17b6d7e1"
+}

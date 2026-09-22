@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-39",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 39 · 本地配送与小型经营",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 39,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Changing a vegetable-box order",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Customer: I ordered a box for Friday, but I will be away that day.\nSeller: (1) _____\nCustomer: Wednesday afternoon would work.\nSeller: We still have space on that delivery round.\nCustomer: Can I keep the same box size?\nSeller: (2) _____\nCustomer: How will I know the change has been recorded?\nSeller: (3) _____\nCustomer: Should I place another order online?\nSeller: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, the contents and price will remain the same.",
+        "B": "You will receive an updated confirmation this afternoon.",
+        "C": "No, I will amend the existing order so it is not duplicated.",
+        "D": "Would another delivery day suit you?"
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Changing a vegetable-box order\".",
+          "options": {
+            "A": "Yes, the contents and price will remain the same.",
+            "B": "You will receive an updated confirmation this afternoon.",
+            "C": "No, I will amend the existing order so it is not duplicated.",
+            "D": "Would another delivery day suit you?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先询问替代送货日。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "17cf022a1606a2000aeda3b401831e5882a4fec4a7809284544b12e4f6e68548"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Changing a vegetable-box order\".",
+          "options": {
+            "A": "Yes, the contents and price will remain the same.",
+            "B": "You will receive an updated confirmation this afternoon.",
+            "C": "No, I will amend the existing order so it is not duplicated.",
+            "D": "Would another delivery day suit you?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认规格和价格不变。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6b58c71af03fa381faea141b567d9f9ff9f6f9b7ed6713b321c1c0ef44ae07f0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Changing a vegetable-box order\".",
+          "options": {
+            "A": "Yes, the contents and price will remain the same.",
+            "B": "You will receive an updated confirmation this afternoon.",
+            "C": "No, I will amend the existing order so it is not duplicated.",
+            "D": "Would another delivery day suit you?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明通过更新确认单获知。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e700ca65518e0b64e66dad515da8643c4ae5783d4da1df5c3cefcbda90a88663"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Changing a vegetable-box order\".",
+          "options": {
+            "A": "Yes, the contents and price will remain the same.",
+            "B": "You will receive an updated confirmation this afternoon.",
+            "C": "No, I will amend the existing order so it is not duplicated.",
+            "D": "Would another delivery day suit you?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "修改原单避免重复下单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "16ffe7057f722f6ddda55c16ecc8e12da1c4979d530cde030a131b0b53de3115"
+        }
+      ],
+      "contentFingerprint": "025ded9aa302fc5408b6cff53fa2e8acd8423d4fd90a3c3cc0c97231aa36cda1"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Returning the delivery crates",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Driver: We are collecting the reusable crates today.\nResident: (1) _____\nDriver: The two labelled with the farm's name.\nResident: One still contains my own vegetables.\nDriver: (2) _____\nResident: Of course. Shall I leave them outside next time?\nDriver: (3) _____",
+      "sharedOptions": {
+        "A": "Which crates should I return?",
+        "B": "Could you empty that one before I load it?",
+        "C": "Please use the sheltered collection point agreed in your order.",
+        "D": "You need to return your kitchen cupboards as well."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Returning the delivery crates\".",
+          "options": {
+            "A": "Which crates should I return?",
+            "B": "Could you empty that one before I load it?",
+            "C": "Please use the sheltered collection point agreed in your order.",
+            "D": "You need to return your kitchen cupboards as well."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "明确应退还哪些箱子。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d04b0161bbd40edd1a8fdb002a105d6af380f573f18426db6ea4b6b8be52046e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Returning the delivery crates\".",
+          "options": {
+            "A": "Which crates should I return?",
+            "B": "Could you empty that one before I load it?",
+            "C": "Please use the sheltered collection point agreed in your order.",
+            "D": "You need to return your kitchen cupboards as well."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "装车前应取出个人物品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9652ea80e096188d6633b53643fdb0b11abf2a8b0632d89b7abae096590d7e2c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Returning the delivery crates\".",
+          "options": {
+            "A": "Which crates should I return?",
+            "B": "Could you empty that one before I load it?",
+            "C": "Please use the sheltered collection point agreed in your order.",
+            "D": "You need to return your kitchen cupboards as well."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "指定约定的有遮蔽收集点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3f5f1f84f592fb439eb7ef41c2505a7daf6248a40ef2a1283a2fa2841331c504"
+        }
+      ],
+      "contentFingerprint": "bd109f35fc9825f6834f5dd335c08513febe9f5b29fd5627c6d1642a90b8ddcd"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "An unexpected item in the basket",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Buyer: My basket contains beans, but I selected peas.\nAssistant: (1) _____\nBuyer: Here it is; peas are listed.\nAssistant: I can see the difference. Today's peas sold out early.\nBuyer: (2) _____\nAssistant: You are right; we should have asked before substituting them.\nBuyer: Can you remove the beans from my bill?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "Beans and peas are always identical.",
+        "B": "May I see your order confirmation?",
+        "C": "Why was the substitution made without contacting me?",
+        "D": "Yes, I will correct the bill and give you an updated receipt."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"An unexpected item in the basket\".",
+          "options": {
+            "A": "Beans and peas are always identical.",
+            "B": "May I see your order confirmation?",
+            "C": "Why was the substitution made without contacting me?",
+            "D": "Yes, I will correct the bill and give you an updated receipt."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "先查看订单确认差异。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5ad382acf18d20317f3de8c5e9cb813850cfff53e92dd964752b4ade1a1423db"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"An unexpected item in the basket\".",
+          "options": {
+            "A": "Beans and peas are always identical.",
+            "B": "May I see your order confirmation?",
+            "C": "Why was the substitution made without contacting me?",
+            "D": "Yes, I will correct the bill and give you an updated receipt."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "对未经联系替换提出问题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "6c8e8359b9eeeb04b9e70aa7004f4ed96ed5c7fbf3dfbca6d0bf5518f1fecdcc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"An unexpected item in the basket\".",
+          "options": {
+            "A": "Beans and peas are always identical.",
+            "B": "May I see your order confirmation?",
+            "C": "Why was the substitution made without contacting me?",
+            "D": "Yes, I will correct the bill and give you an updated receipt."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "确认改账并出具更新收据。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3e49876b4b953478ce7e35dbdc8ab120181a0133018a46abaa9f54983ee4d4c8"
+        }
+      ],
+      "contentFingerprint": "0759c52c4c1a36b3119b333d71d5b6ac68f79b694776d21778f05fb8a8a85d63"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The box with a closing time",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A small farm offered weekly produce boxes but accepted changes until the delivery van left. Packing was repeatedly interrupted, and labels sometimes no longer matched the contents. The farm introduced a clear order deadline the previous evening. Customers could still contact the office about urgent problems, but ordinary changes moved to the next delivery. Packing became more orderly. The deadline was explained as a way to prepare accurately, rather than as a penalty for customers who changed their minds.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The box with a closing time\", What caused repeated packing interruptions?",
+          "options": {
+            "A": "Labels were never printed.",
+            "B": "Customers collected only empty boxes.",
+            "C": "Orders changed until departure.",
+            "D": "The farm had no produce."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "原先一直允许修改到发车前。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "37325f1e87c45b3adc69aa3143fef0d07ec146b0921038b9e2e2b3eba1cef207",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The box with a closing time\", What new rule was introduced?",
+          "options": {
+            "A": "A ban on every customer call.",
+            "B": "Delivery only once a year.",
+            "C": "A charge for reading labels.",
+            "D": "An order deadline the evening before."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "设置前一晚截止时间。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5383573e190460cec11c701cf74bd837705827cc2d690304d69bfa19e723604f",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The box with a closing time\", How were urgent problems handled?",
+          "options": {
+            "A": "Customers could still contact the office.",
+            "B": "All messages were automatically deleted.",
+            "C": "Drivers invented replacements.",
+            "D": "The farm closed its phone line."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "急事仍能联系办公室。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c6318981841b8fe02e8f65c81b775113261d6e09d01b6d32e213644ce0642512",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The box with a closing time\", What improvement followed?",
+          "options": {
+            "A": "All produce became identical.",
+            "B": "More orderly packing.",
+            "C": "Every customer ordered more.",
+            "D": "The van travelled faster."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "准备工作更有序。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ae39c7e86afdf901bd01a6eb94a34869e39e5f552f293aaff98f2e3b88b713d5",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The box with a closing time\", How was the deadline presented to customers?",
+          "options": {
+            "A": "As a guarantee of perfect weather.",
+            "B": "As a reason to stop deliveries.",
+            "C": "As support for accurate preparation.",
+            "D": "As punishment for asking questions."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "解释目的在于准确准备。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8e31d4ac3057c2b48f10663a6366b1cb3c655c8ddfccd51f2b29ca11794cc71b",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "ce918dfe0c93ffd3f53691545d9c2513e9b79e773c2d809e505cf28a8410d19e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Three streets, one collection point",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A neighbourhood delivery scheme stopped at every house, even when several customers lived around the same small square. With residents' agreement, the organiser tried a shared collection point for one afternoon a week. Customers who could not reach it retained doorstep delivery. The driver made fewer repeated turns, and most boxes were collected within an hour. The organiser counted uncollected boxes as well as travel time, recognising that an efficient route was not useful if customers could not receive their orders.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"Three streets, one collection point\", What made the original route inefficient?",
+          "options": {
+            "A": "A lack of customers.",
+            "B": "A single distant warehouse.",
+            "C": "No delivery vehicles.",
+            "D": "Repeated stops around one square."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "相邻家庭逐户停靠造成重复绕行。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "20aa799dbeaa9b5c85c17fc15197d7c3b759855235de7f118c592d75bd0ef4df",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Three streets, one collection point\", What was required before the shared point was tried?",
+          "options": {
+            "A": "Residents' agreement.",
+            "B": "A new railway station.",
+            "C": "The closure of every house.",
+            "D": "A ban on doorstep delivery."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先取得居民同意。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6df2beef300a41a3cee6fd15ccf02b6a21a8e7148b0ead4d9123980fe85ef5fe",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"Three streets, one collection point\", Who retained doorstep service?",
+          "options": {
+            "A": "Everyone who ordered a small box.",
+            "B": "Customers unable to reach the collection point.",
+            "C": "Only the driver.",
+            "D": "No customers."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "不能到取货点的人仍送上门。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8be3ab8a96ae4f2c610c370abd3acee6c77c9267bc9627346d95e2f90ef6da2d",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Three streets, one collection point\", Which measure supplemented travel time?",
+          "options": {
+            "A": "The colour of the square.",
+            "B": "The age of the delivery van.",
+            "C": "The number of uncollected boxes.",
+            "D": "The driver's shoe size."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "还记录未领取箱数。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e611e0eae607a5663549e4a285f66bdb1546851aeb9ca97fd27ed5cc6227059a",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"Three streets, one collection point\", What balance concerned the organiser?",
+          "options": {
+            "A": "More boxes and fewer vegetables.",
+            "B": "Advertisements and school timetables.",
+            "C": "House prices and traffic fines.",
+            "D": "Route efficiency and customers' ability to receive orders."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "效率必须兼顾实际可收货。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "44453ba207911762485c2a698e3a8e6d6817a2e79a29d0516eb24b59c59aaaf3",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "652d59176be52ff5671eba5bbb996494054a4e382d895e13a9e6bfc0904a58af"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The crate's second journey",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A vegetable cooperative bought strong reusable crates and expected packaging purchases to fall. In the first month, however, many crates remained in customers' homes. A reminder alone did little because people were unsure where to leave them. The cooperative added a return instruction to delivery confirmations and collected empties with the next order. More crates came back into circulation. Buying a reusable object was only the start; its repeated use depended on a convenient return journey.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The crate's second journey\", Why did packaging purchases not fall as expected at first?",
+          "options": {
+            "A": "Many crates were not returned.",
+            "B": "All crates broke immediately.",
+            "C": "Customers refused vegetables.",
+            "D": "The cooperative stopped trading."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "周转箱滞留客户家。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0e77760faca4ca81be7123dd9318137223286010ca8d8a297f80e951c28fb742",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The crate's second journey\", Why was a reminder insufficient?",
+          "options": {
+            "A": "Reminders were written in code.",
+            "B": "The return location was unclear.",
+            "C": "Everyone lacked a telephone.",
+            "D": "The crates had no handles."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "客户不清楚往何处放回。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "02e0510b9e44a5f5c61907d0c6a4255c4ee60ad36794d13687053f8cd4f8efe6",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The crate's second journey\", What information was added to confirmations?",
+          "options": {
+            "A": "A new lesson timetable.",
+            "B": "A list of forbidden foods.",
+            "C": "Instructions for crate return.",
+            "D": "Every farmer's private address."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "确认单增加回收说明。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "05295a0f22992e142e44180cd7d916551ca0534d6a484e2851af9295038fe9d1",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The crate's second journey\", When were empty crates collected?",
+          "options": {
+            "A": "Only after five years.",
+            "B": "Before customers received vegetables.",
+            "C": "At midnight without agreement.",
+            "D": "With the next delivery."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下次送货时带回空箱。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9ef2235ade2f93387ceb5ae937b27e64f0377c16a617a32169e27485c4d554a8",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The crate's second journey\", What does the passage emphasise about reuse?",
+          "options": {
+            "A": "It needs a workable return process.",
+            "B": "Durability alone ensures repeated use.",
+            "C": "Buying more crates solves every problem.",
+            "D": "Customers never cooperate."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "可重复使用还需便利回收流程。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "437b5acac1150a3f530186765a06c7baaaa4dd258d9831bea6411a116fac1ca4",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "3bef96a03a93c4ac81b1bdb8e7f076cd3ae716ea328d14c42868db723d269965"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The price beside the weight",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "At a market stall, one bag of apples cost less than another, but the bags contained different weights. A customer asked which offered better value. The seller added a price per kilogram beside each bag price and explained that the varieties also differed. Customers could now compare quantities while still choosing by taste or intended use. The extra number did not decide the purchase for them; it made one part of the comparison clearer.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The price beside the weight\", Why was comparing bag prices alone difficult?",
+          "options": {
+            "A": "All apples were damaged.",
+            "B": "The bags had different weights.",
+            "C": "Both bags were empty.",
+            "D": "The market used no prices."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "袋装重量不同。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8a7e084416aa3116accd1bb174052be96cbd3ae0beb5d3c239e50f75138fa7c9",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The price beside the weight\", What figure did the seller add?",
+          "options": {
+            "A": "Last year's rainfall.",
+            "B": "The stall's electricity bill.",
+            "C": "Price per kilogram.",
+            "D": "The customer's income."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "添加每千克单价。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d1ead6d43a7fb74b4edf72858d13b46a727d48e14a713a34240ae1a102a96d69",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The price beside the weight\", What other difference was explained?",
+          "options": {
+            "A": "The seller's travel route.",
+            "B": "The market's founding date.",
+            "C": "The size of every tree.",
+            "D": "Apple varieties."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "品种也不同。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "bfeb7a4a16b7159b656ae12b363ddc74de1b536ec43013e5494e2c9d4a32f08a",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The price beside the weight\", Could customers still choose by taste?",
+          "options": {
+            "A": "Yes, unit price was only one comparison.",
+            "B": "No, the cheapest bag became compulsory.",
+            "C": "No, varieties were removed.",
+            "D": "Yes, because weights were hidden."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "单价清楚不排除口味等偏好。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "75fc9b6639d7c6457c3a750f10c66306a140339f8f8c40615129f4d18abf9c3e",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The price beside the weight\", What is the main benefit of the additional figure?",
+          "options": {
+            "A": "An end to all customer choices.",
+            "B": "A clearer comparison of quantities and cost.",
+            "C": "A guarantee that every apple tastes alike.",
+            "D": "A reason to ignore weight."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "统一单位有助比较数量与价格。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a1503ed64d542c6f42a80fe55afa6e2c135accf80f820c4e368f0ff98adc20fd",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "43c22f331b24b1c7aa82c1e7e9bb20ca14ba7c8e4cba2df6c5765d2209af1b8c"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The farmer set a firm _____ for changes to weekly orders.",
+      "options": {
+        "A": "portrait",
+        "B": "shelter",
+        "C": "symptom",
+        "D": "deadline"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "deadline 指截止时间。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "42f7090b29413adc8a9cd76df1133efab210387b2b016b770dffd3efcbe8de35"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Please _____ the existing booking instead of placing a second one.",
+      "options": {
+        "A": "amend",
+        "B": "admire",
+        "C": "accuse",
+        "D": "assemble"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "amend 表示修改。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b217ae3e1857280355e0d26dcb200ecd9551bf7d8e4b2c0df51736708c4eb876"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Reusable crates need a convenient _____ system.",
+      "options": {
+        "A": "reference",
+        "B": "return",
+        "C": "retirement",
+        "D": "rescue"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "return system 指归还回收机制。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cb475bcc07a6e49a3c04b68e0eac3d7f2de69cdd31954696f829691c1c65cabe"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The new route reduced _____ turns around the square.",
+      "options": {
+        "A": "edible",
+        "B": "permanent",
+        "C": "unnecessary",
+        "D": "generous"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unnecessary 表示不必要的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c54c82fe5449904e9d322da2679d4aab09d208e0e6a8f4dbc6f8527539e661d7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The seller displayed the price per _____ of weight.",
+      "options": {
+        "A": "union",
+        "B": "uniform",
+        "C": "universe",
+        "D": "unit"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "unit 指计量单位。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7f1d50dc71ef489e27959125962748fca209e576a290d3dd814ebb44460c6b4b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "A replacement item should not be supplied without the customer's _____.",
+      "options": {
+        "A": "agreement",
+        "B": "landscape",
+        "C": "appetite",
+        "D": "furniture"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "agreement 表示同意。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "802bd95532ff98043b389c5231a37477803e6c94bdf3cdbd96b872348ce5f9f5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The collection point is _____ to residents who walk home from the station.",
+      "options": {
+        "A": "bitter",
+        "B": "convenient",
+        "C": "hostile",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "convenient to 表示对某人便利。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d37642dacdbf20e6912fae68cab5b6160cf83bc8c492f2aaaebabfe37020309c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The packing team checked that labels _____ the contents.",
+      "options": {
+        "A": "delayed",
+        "B": "suspected",
+        "C": "matched",
+        "D": "borrowed"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "match 表示相符。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e1694e3ad1ad22f31750367f36dc5118e7127b0d5c66bdd4310082cad3dcfe2f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Strong crates remain useful only when they stay in _____.",
+      "options": {
+        "A": "celebration",
+        "B": "decoration",
+        "C": "hesitation",
+        "D": "circulation"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "in circulation 表示持续流转使用。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9b914a4fd433aff431614445dad627e6ae178507278c74c017719586d5d808f9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The stallholder gave a _____ explanation of the two apple prices.",
+      "options": {
+        "A": "clear",
+        "B": "damp",
+        "C": "jealous",
+        "D": "vacant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "clear 表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1660d7bdb5a0a2dff813434a143ae772c6d238eab8ad45962f5beadb66ab03fc"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The boxes _____ before the van leaves each morning.",
+      "options": {
+        "A": "are labelled",
+        "B": "label",
+        "C": "is labelling",
+        "D": "have labelling"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "boxes 与 label 为被动关系，习惯性现在时。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e498f0abd55b6f7ccb15b64e14eb49636feeee623579690b335ccab46e976949"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Customers who cannot reach the square _____ still receive doorstep delivery.",
+      "options": {
+        "A": "had better to",
+        "B": "can",
+        "C": "ought",
+        "D": "must to"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "can 后接原形表示能。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "be27c60aa04ef9d54900ec009f0aeb899319503108d13c8b43946e2d40df5fba"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "By the time the deadline passed, the farmer _____ all the revised orders.",
+      "options": {
+        "A": "receives",
+        "B": "will receive",
+        "C": "had received",
+        "D": "has received"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去某时之前已收到，用过去完成时。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c30b90b4ad6b336967860328a7f31910da3c937c2468c1fca2659e04748723b7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The bag _____ price is lower contains fewer apples.",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "whose 修饰 price。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7c2cf682397f84b6a91f674ea444fcfcaa42d401f1bd7ac437c193ed1d91447a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "If the return point were clearer, more customers _____ their crates back.",
+      "options": {
+        "A": "would bring",
+        "B": "will bring",
+        "C": "had brought",
+        "D": "bring to"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "现在虚拟条件，主句 would do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a000844f19e2aa2e6ed61c0316a361c5ce9553141f30acb69c316bb18f85b634"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The driver asked residents _____ empty crates near the agreed collection point.",
+      "options": {
+        "A": "leave",
+        "B": "to leave",
+        "C": "leaving",
+        "D": "left"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ask somebody to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4ea4ba1508426aec1a488e94f945a6bdd1d4154349cc38099b62a4b8071414a2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Comparing unit prices is often easier than _____ total bag prices.",
+      "options": {
+        "A": "compared",
+        "B": "to comparing",
+        "C": "comparing",
+        "D": "compare"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "than 后动名词与主语 comparing 平行。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "21e5ec76025cb14543811bd134fd95d296e8ed86b9aba8e7dd0462c5c9d1c058"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither of the delivery labels _____ the change made this morning.",
+      "options": {
+        "A": "show",
+        "B": "showing",
+        "C": "to show",
+        "D": "shows"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither of 单数谓语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3ed6b40c20d6e371de2a6ed17bc61b99329ef033fa7186d87e507b6ae19b45f2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The cooperative had the return instructions _____ on each confirmation.",
+      "options": {
+        "A": "printed",
+        "B": "print",
+        "C": "printing",
+        "D": "to print"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "have something done 表使某物被做。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ab5ece69a5b46024c0f5940d6264b6ed047c2e8896dbebb469108b7dfa78a02f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Not until the crates were collected _____ how many had been missing.",
+      "options": {
+        "A": "realised the organiser did",
+        "B": "did the organiser realise",
+        "C": "the organiser realised",
+        "D": "the organiser did realise"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "not until 前置主句倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "731aaf5dc6bd40ad4dd18c6bd2beff9561c7f181b132f4b0d06f84bde332295f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nA local delivery service connects many small decisions. An order affects packing, a packing label guides the driver, and a return instruction helps a container be used again. When one link is unclear, work may be repeated elsewhere. Improving the service often begins by making these connections visible to both workers and customers.",
+      "referenceAnswer": "本地配送服务把许多小决定连接起来。订单影响打包，包装标签指引司机，归还说明帮助容器再次使用。当其中一个环节不清楚时，别处的工作就可能重复。改进服务往往始于让工作人员和客户都看清这些联系。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "ead8af6f5ac1a211733f9f2f32e93b53a181e37b31d19b61f8127be29a9858de",
+      "referenceAnswerFingerprint": "d2adffcb89300e24185ea903fc8a35a8e0f51c7ce8a7f5cecfa1a63e3f28d562"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nWrite a customer notice for a fictional vegetable-box service introducing a reusable-crate return arrangement. Explain when and where to return crates, what to do if the usual arrangement is unsuitable, and why returns matter.",
+      "sampleAnswer": "From next month, our vegetable boxes will arrive in reusable crates. Please empty your crate and leave it at the sheltered collection point named in your delivery confirmation before your next order arrives. The driver will collect it while delivering your new box. If you will be away or cannot use that collection point, contact the office so that we can agree on another arrangement. Please do not leave crates where they block a doorway or public path. Returning them promptly lets us use the same containers for many journeys and reduces the need to buy new packaging. We will send a reminder with each order, and your comments will help us make the return process convenient. Thank you for taking part.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "59ca94202f165083b2cd88e8cd1e75fc2158aed0c60803c2d82ca33ac18069f7",
+      "sampleAnswerFingerprint": "bfdfa213d21ebfd12791a124328f74c8d86ae19007555d683401fd39b973d107"
+    }
+  ],
+  "fingerprintManifest": [
+    "025ded9aa302fc5408b6cff53fa2e8acd8423d4fd90a3c3cc0c97231aa36cda1",
+    "17cf022a1606a2000aeda3b401831e5882a4fec4a7809284544b12e4f6e68548",
+    "6b58c71af03fa381faea141b567d9f9ff9f6f9b7ed6713b321c1c0ef44ae07f0",
+    "e700ca65518e0b64e66dad515da8643c4ae5783d4da1df5c3cefcbda90a88663",
+    "16ffe7057f722f6ddda55c16ecc8e12da1c4979d530cde030a131b0b53de3115",
+    "bd109f35fc9825f6834f5dd335c08513febe9f5b29fd5627c6d1642a90b8ddcd",
+    "d04b0161bbd40edd1a8fdb002a105d6af380f573f18426db6ea4b6b8be52046e",
+    "9652ea80e096188d6633b53643fdb0b11abf2a8b0632d89b7abae096590d7e2c",
+    "3f5f1f84f592fb439eb7ef41c2505a7daf6248a40ef2a1283a2fa2841331c504",
+    "0759c52c4c1a36b3119b333d71d5b6ac68f79b694776d21778f05fb8a8a85d63",
+    "5ad382acf18d20317f3de8c5e9cb813850cfff53e92dd964752b4ade1a1423db",
+    "6c8e8359b9eeeb04b9e70aa7004f4ed96ed5c7fbf3dfbca6d0bf5518f1fecdcc",
+    "3e49876b4b953478ce7e35dbdc8ab120181a0133018a46abaa9f54983ee4d4c8",
+    "ce918dfe0c93ffd3f53691545d9c2513e9b79e773c2d809e505cf28a8410d19e",
+    "37325f1e87c45b3adc69aa3143fef0d07ec146b0921038b9e2e2b3eba1cef207",
+    "5383573e190460cec11c701cf74bd837705827cc2d690304d69bfa19e723604f",
+    "c6318981841b8fe02e8f65c81b775113261d6e09d01b6d32e213644ce0642512",
+    "ae39c7e86afdf901bd01a6eb94a34869e39e5f552f293aaff98f2e3b88b713d5",
+    "8e31d4ac3057c2b48f10663a6366b1cb3c655c8ddfccd51f2b29ca11794cc71b",
+    "652d59176be52ff5671eba5bbb996494054a4e382d895e13a9e6bfc0904a58af",
+    "20aa799dbeaa9b5c85c17fc15197d7c3b759855235de7f118c592d75bd0ef4df",
+    "6df2beef300a41a3cee6fd15ccf02b6a21a8e7148b0ead4d9123980fe85ef5fe",
+    "8be3ab8a96ae4f2c610c370abd3acee6c77c9267bc9627346d95e2f90ef6da2d",
+    "e611e0eae607a5663549e4a285f66bdb1546851aeb9ca97fd27ed5cc6227059a",
+    "44453ba207911762485c2a698e3a8e6d6817a2e79a29d0516eb24b59c59aaaf3",
+    "3bef96a03a93c4ac81b1bdb8e7f076cd3ae716ea328d14c42868db723d269965",
+    "0e77760faca4ca81be7123dd9318137223286010ca8d8a297f80e951c28fb742",
+    "02e0510b9e44a5f5c61907d0c6a4255c4ee60ad36794d13687053f8cd4f8efe6",
+    "05295a0f22992e142e44180cd7d916551ca0534d6a484e2851af9295038fe9d1",
+    "9ef2235ade2f93387ceb5ae937b27e64f0377c16a617a32169e27485c4d554a8",
+    "437b5acac1150a3f530186765a06c7baaaa4dd258d9831bea6411a116fac1ca4",
+    "43c22f331b24b1c7aa82c1e7e9bb20ca14ba7c8e4cba2df6c5765d2209af1b8c",
+    "8a7e084416aa3116accd1bb174052be96cbd3ae0beb5d3c239e50f75138fa7c9",
+    "d1ead6d43a7fb74b4edf72858d13b46a727d48e14a713a34240ae1a102a96d69",
+    "bfeb7a4a16b7159b656ae12b363ddc74de1b536ec43013e5494e2c9d4a32f08a",
+    "75fc9b6639d7c6457c3a750f10c66306a140339f8f8c40615129f4d18abf9c3e",
+    "a1503ed64d542c6f42a80fe55afa6e2c135accf80f820c4e368f0ff98adc20fd",
+    "42f7090b29413adc8a9cd76df1133efab210387b2b016b770dffd3efcbe8de35",
+    "b217ae3e1857280355e0d26dcb200ecd9551bf7d8e4b2c0df51736708c4eb876",
+    "cb475bcc07a6e49a3c04b68e0eac3d7f2de69cdd31954696f829691c1c65cabe",
+    "c54c82fe5449904e9d322da2679d4aab09d208e0e6a8f4dbc6f8527539e661d7",
+    "7f1d50dc71ef489e27959125962748fca209e576a290d3dd814ebb44460c6b4b",
+    "802bd95532ff98043b389c5231a37477803e6c94bdf3cdbd96b872348ce5f9f5",
+    "d37642dacdbf20e6912fae68cab5b6160cf83bc8c492f2aaaebabfe37020309c",
+    "e1694e3ad1ad22f31750367f36dc5118e7127b0d5c66bdd4310082cad3dcfe2f",
+    "9b914a4fd433aff431614445dad627e6ae178507278c74c017719586d5d808f9",
+    "1660d7bdb5a0a2dff813434a143ae772c6d238eab8ad45962f5beadb66ab03fc",
+    "e498f0abd55b6f7ccb15b64e14eb49636feeee623579690b335ccab46e976949",
+    "be27c60aa04ef9d54900ec009f0aeb899319503108d13c8b43946e2d40df5fba",
+    "c30b90b4ad6b336967860328a7f31910da3c937c2468c1fca2659e04748723b7",
+    "7c2cf682397f84b6a91f674ea444fcfcaa42d401f1bd7ac437c193ed1d91447a",
+    "a000844f19e2aa2e6ed61c0316a361c5ce9553141f30acb69c316bb18f85b634",
+    "4ea4ba1508426aec1a488e94f945a6bdd1d4154349cc38099b62a4b8071414a2",
+    "21e5ec76025cb14543811bd134fd95d296e8ed86b9aba8e7dd0462c5c9d1c058",
+    "3ed6b40c20d6e371de2a6ed17bc61b99329ef033fa7186d87e507b6ae19b45f2",
+    "ab5ece69a5b46024c0f5940d6264b6ed047c2e8896dbebb469108b7dfa78a02f",
+    "731aaf5dc6bd40ad4dd18c6bd2beff9561c7f181b132f4b0d06f84bde332295f",
+    "ead8af6f5ac1a211733f9f2f32e93b53a181e37b31d19b61f8127be29a9858de",
+    "d2adffcb89300e24185ea903fc8a35a8e0f51c7ce8a7f5cecfa1a63e3f28d562",
+    "59ca94202f165083b2cd88e8cd1e75fc2158aed0c60803c2d82ca33ac18069f7",
+    "bfdfa213d21ebfd12791a124328f74c8d86ae19007555d683401fd39b973d107"
+  ],
+  "contentFingerprint": "efafd714c1bc5ea51b5f5376c30b090c7075421f8067e91de24234077c9ee077"
+}

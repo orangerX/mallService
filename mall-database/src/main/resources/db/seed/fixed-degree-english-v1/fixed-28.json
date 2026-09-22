@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-28",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 28 · 岗位学习与实践技能",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 28,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Watching the first demonstration",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Trainee: You completed the adjustment quickly, but I missed the middle step.\nTrainer: (1) _____\nTrainee: Could you show it again more slowly?\nTrainer: (2) _____\nTrainee: May I try when you finish?\nTrainer: (3) _____\nTrainee: What should I do if I am uncertain?\nTrainer: (4) _____",
+      "sharedOptions": {
+        "A": "Which part would you like to see again?",
+        "B": "Of course; this time I will explain each movement.",
+        "C": "Yes, on the practice unit while I supervise.",
+        "D": "Stop and ask before continuing."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Watching the first demonstration\".",
+          "options": {
+            "A": "Which part would you like to see again?",
+            "B": "Of course; this time I will explain each movement.",
+            "C": "Yes, on the practice unit while I supervise.",
+            "D": "Stop and ask before continuing."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先定位未理解步骤。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b35eb6ed8f423e8102a122dec0550091b1727a37429066abd01edee3f1190ff5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Watching the first demonstration\".",
+          "options": {
+            "A": "Which part would you like to see again?",
+            "B": "Of course; this time I will explain each movement.",
+            "C": "Yes, on the practice unit while I supervise.",
+            "D": "Stop and ask before continuing."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "同意放慢并逐步解释。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e79f605f67c8d6b920aa04a80c1d9ec39f3778773ccdcee54aa9f1cc3cb687b4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Watching the first demonstration\".",
+          "options": {
+            "A": "Which part would you like to see again?",
+            "B": "Of course; this time I will explain each movement.",
+            "C": "Yes, on the practice unit while I supervise.",
+            "D": "Stop and ask before continuing."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "允许在练习设备上监督操作。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ca0573ab2d6aefb703b92f17146ef56165058de2de9300b688088925e3fc28dd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Watching the first demonstration\".",
+          "options": {
+            "A": "Which part would you like to see again?",
+            "B": "Of course; this time I will explain each movement.",
+            "C": "Yes, on the practice unit while I supervise.",
+            "D": "Stop and ask before continuing."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "不确定时先停下询问。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2db69c88d02e5b1e0d4891c0f34ca06998a049992ebfc35c7fe78a464b25b138"
+        }
+      ],
+      "contentFingerprint": "4b22bd15a476d0cc0fec0eddf01f0b2f345c308a91468451921520d3321b3dd7"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Feedback on the practice task",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Trainee: My finished piece looks uneven.\nInstructor: (1) _____\nTrainee: I noticed it after the final measurement.\nInstructor: Let's compare your measurement notes.\nTrainee: Should I start the whole task again?\nInstructor: (2) _____\nTrainee: Could you watch the next attempt?\nInstructor: (3) _____",
+      "sharedOptions": {
+        "A": "Every mistake means you should leave the course.",
+        "B": "At which stage did you first notice the difference?",
+        "C": "First identify where the error began, so the repetition has a purpose.",
+        "D": "Yes, and you can explain your choices as you work."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Feedback on the practice task\".",
+          "options": {
+            "A": "Every mistake means you should leave the course.",
+            "B": "At which stage did you first notice the difference?",
+            "C": "First identify where the error began, so the repetition has a purpose.",
+            "D": "Yes, and you can explain your choices as you work."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "询问何时发现偏差。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a88d15085a4ce0b8900e2828d8d9af29a1ca9bfce3cbde52142025e3eef7032a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Feedback on the practice task\".",
+          "options": {
+            "A": "Every mistake means you should leave the course.",
+            "B": "At which stage did you first notice the difference?",
+            "C": "First identify where the error began, so the repetition has a purpose.",
+            "D": "Yes, and you can explain your choices as you work."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先查错因再有目的练习。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5b621b6a9d64a7b13c85c33c682a516b5863e121f4421ccce7d532f119e09b6c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Feedback on the practice task\".",
+          "options": {
+            "A": "Every mistake means you should leave the course.",
+            "B": "At which stage did you first notice the difference?",
+            "C": "First identify where the error began, so the repetition has a purpose.",
+            "D": "Yes, and you can explain your choices as you work."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "同意观察并让学员说明决策。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "694ea4272ef092df9f7525a11089223cf3330515d4406acb0c18f21f18693f8f"
+        }
+      ],
+      "contentFingerprint": "5cefaa5d79613e72fb82a59c838d38443ae4bc51ad042b1b85100a609aefae94"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Recording experience for a course",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Applicant: I have maintained office equipment for years, but I lack a certificate.\nAdviser: (1) _____\nApplicant: I could collect job records and photographs.\nAdviser: Those may help show the work you have done.\nApplicant: Will that automatically replace every module?\nAdviser: (2) _____\nApplicant: How can I find out what evidence is required?\nAdviser: (3) _____",
+      "sharedOptions": {
+        "A": "I can give you the portfolio guidance and arrange an adviser meeting.",
+        "B": "A photograph always proves every skill.",
+        "C": "Have you considered submitting evidence of prior learning?",
+        "D": "No, an assessor must compare your experience with the course outcomes."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Recording experience for a course\".",
+          "options": {
+            "A": "I can give you the portfolio guidance and arrange an adviser meeting.",
+            "B": "A photograph always proves every skill.",
+            "C": "Have you considered submitting evidence of prior learning?",
+            "D": "No, an assessor must compare your experience with the course outcomes."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "提出提交先前学习证据。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "517f38af1f41c22fbfefb63d199efc1364970cd8a02e1e1fd02a3ab20597e592"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Recording experience for a course\".",
+          "options": {
+            "A": "I can give you the portfolio guidance and arrange an adviser meeting.",
+            "B": "A photograph always proves every skill.",
+            "C": "Have you considered submitting evidence of prior learning?",
+            "D": "No, an assessor must compare your experience with the course outcomes."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "需评估与课程要求的对应。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8cdd006c74a0594f718f633c9133db965164c201b82dab52b5c8ab888569f5bf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Recording experience for a course\".",
+          "options": {
+            "A": "I can give you the portfolio guidance and arrange an adviser meeting.",
+            "B": "A photograph always proves every skill.",
+            "C": "Have you considered submitting evidence of prior learning?",
+            "D": "No, an assessor must compare your experience with the course outcomes."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供具体指南和咨询安排。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "f71dfc83bd1127fd9d34e88060aebaeb8b7fc9ab91a6dffb7b1bf2a139e53f3b"
+        }
+      ],
+      "contentFingerprint": "c95dffacd7220dd12c4c2a0c5067793b008025c1fa6a2789673bea6fa6cc3a02"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The expert's invisible pause",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A skilled assembler demonstrated a task without speaking. New staff copied her movements but often chose the wrong moment to tighten a part. She realised that she paused to feel resistance, a judgment invisible to observers. In the next demonstration she described that signal and asked learners to explain when they would proceed. Their actions became more consistent. Expertise included decisions that could not be learned merely by watching hands move.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The expert's invisible pause\", What did newcomers copy initially?",
+          "options": {
+            "A": "Her whole work history.",
+            "B": "Her written exam.",
+            "C": "The factory timetable.",
+            "D": "The assembler's movements."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "学员模仿动作。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c937bfa3f11333d83527744b606bf325f1f092c50f298cd6194c052fdb604d8f",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The expert's invisible pause\", What judgment had remained invisible?",
+          "options": {
+            "A": "Feeling resistance before tightening.",
+            "B": "Reading the clock at lunch.",
+            "C": "Choosing a uniform colour.",
+            "D": "Counting staff members."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "高手凭阻力判断时机。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ac6a17de1169346d321a2c1394cdc779755ee4fe418e9c5695a249bfdab1d515",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The expert's invisible pause\", What changed in the second demonstration?",
+          "options": {
+            "A": "She changed every trainee.",
+            "B": "She explained the signal for proceeding.",
+            "C": "She refused to speak.",
+            "D": "She removed all practice."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明动作背后的判断信号。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "03b5224a97c095c844f8a5b22e626ec2811bfc32691a241446ea32f19b59fc1e",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The expert's invisible pause\", How were learners involved?",
+          "options": {
+            "A": "They selected lunch menus.",
+            "B": "They watched unrelated videos.",
+            "C": "They explained when they would proceed.",
+            "D": "They only signed attendance."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "学员要解释继续操作的时机。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f85ca5f9fc73547eb6d6bae558a92ae443b771b44defff1a9020010aef45f7bf",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The expert's invisible pause\", What is the main lesson?",
+          "options": {
+            "A": "Hand movements reveal all knowledge.",
+            "B": "Experts never need to reflect.",
+            "C": "New staff cannot learn practical work.",
+            "D": "Teaching a skill includes making decisions explicit."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "隐性判断也需明确传授。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e1907f7288bb84995a2678ff3c0ac938b09a4dbd014240bc3ff0b72cb4378812",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "2690badc928884824f60321ef5ae82d2dc59ba569fa2bab737e8ba86ec7de591"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The mistake used twice",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A trainee cut a practice board too short. The instructor kept it as a teaching example, with the trainee's agreement, but removed his name. The class compared the marked line with the measurement record and found a unit conversion error. The board was then used to practise another joint. One mistake supported two lessons without becoming a public label attached to its maker. The instructor wanted errors to provide information rather than discourage questions.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The mistake used twice\", What caused the incorrect cut?",
+          "options": {
+            "A": "A unit conversion error.",
+            "B": "A missing classroom.",
+            "C": "An unpaid course fee.",
+            "D": "A late lunch."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "比较记录发现单位转换错误。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e22a7be9c6defd2da97de386663a708ffa7b870b17d81821c68145f68bc2e525",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The mistake used twice\", Whose agreement was sought?",
+          "options": {
+            "A": "A customer's.",
+            "B": "The trainee's.",
+            "C": "Only the cleaner's.",
+            "D": "No one's."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "使用失误作品先征得学员同意。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fad8780c865ae4deedbed39cdb7889c98be34b9d34ac2a6ea5009562dc8a5c4a",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The mistake used twice\", Why remove the name?",
+          "options": {
+            "A": "To increase the board's price.",
+            "B": "To prevent any learning.",
+            "C": "To avoid publicly labelling its maker.",
+            "D": "To hide the length."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "保护学员免被贴标签。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b3be96b8744818f620f4f3028afdfdcbc304a70ccb89e418d40066cc4cbc76cb",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The mistake used twice\", How was the board used again?",
+          "options": {
+            "A": "As an official certificate.",
+            "B": "As a finished customer order.",
+            "C": "For measuring rainfall.",
+            "D": "For practising another joint."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "再用来练习另一种接合。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d6343b398e635bf143203131b6ec576c83be139607cd8e1580d6749dd2422c47",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The mistake used twice\", What teaching attitude is illustrated?",
+          "options": {
+            "A": "Errors can inform learning without humiliating learners.",
+            "B": "Mistakes should never be discussed.",
+            "C": "Names make every lesson better.",
+            "D": "Only perfect objects have value."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "把错误作为学习信息且尊重人。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c14fa2b6c66d3e07306258d1ac21b65072b89f9cd874fea1b3ce5fd8601fdf4c",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "4d2d8d10e23828e4efacff94c073e4d974c6c91fd9325cf20f9f601db6e30793"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Evidence from everyday work",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Jon applied for credit towards a facilities course using his previous workplace experience. His first portfolio contained many photographs of finished repairs. The adviser asked for notes explaining the problem, his decision and the result. A tidy photograph could not show whether he understood why a method was appropriate. Jon added selected examples with supervisors' confirmations. The portfolio became shorter but more informative, linking claims of experience to the skills the course actually required.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"Evidence from everyday work\", What did Jon initially submit in large numbers?",
+          "options": {
+            "A": "Empty forms.",
+            "B": "Photographs of completed repairs.",
+            "C": "Travel tickets.",
+            "D": "Course examinations."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "初稿有大量成品维修照片。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b7c14da5dfe6be2fbee92e161e6673bf64b24c202b940620555a568f05a84408",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Evidence from everyday work\", What did the adviser request?",
+          "options": {
+            "A": "Only longer captions of names.",
+            "B": "No workplace evidence.",
+            "C": "Explanations of problems, decisions and results.",
+            "D": "More decorative covers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "需呈现过程及理由。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9a3948c3bee26f61d3a5dbaa1d663889004e96b2f892feadbf776a3ab7fcdf4a",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"Evidence from everyday work\", What could a tidy photograph fail to show?",
+          "options": {
+            "A": "The existence of an object.",
+            "B": "The colour of a repair.",
+            "C": "The camera's view.",
+            "D": "Understanding of method choice."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "不能证明为何选该方法的理解。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f67da8055d07ebd437c8c1cd16d0c01c61f643812e1dc8b1de8f9dec535012e2",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Evidence from everyday work\", What supported the selected examples?",
+          "options": {
+            "A": "Supervisors' confirmations.",
+            "B": "Unrelated advertisements.",
+            "C": "Unsigned rumours.",
+            "D": "Random page numbers."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "附监督者确认。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "07d5f721169afe4364cff5bf07c64c2261d0b770c975ac7a0a226499f3d3d831",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"Evidence from everyday work\", What made the revised portfolio stronger?",
+          "options": {
+            "A": "Fewer explanations.",
+            "B": "Relevant evidence linked to required skills.",
+            "C": "Greater length alone.",
+            "D": "More repeated images."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "质量在证据与课程技能相对应。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "386f6a211f7fc7554a679f915cfe4135c3470d86d5a26820bc25b9afdad67b9e",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "83b8b1f480635e70a36289b8b5caaf5668cc5255735943aec209f0b560084858"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Practice before the busy season",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A repair team usually trained new workers during its busiest month, when mistakes were costly and explanations were rushed. The manager set aside two quieter mornings before demand increased. Staff practised common tasks on spare materials and discussed when to seek help. The sessions did not cover every possible situation. They established a shared starting point and a contact for unfamiliar problems. The manager treated training time as preparation for work, rather than time taken away from it.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"Practice before the busy season\", What made the old training arrangement difficult?",
+          "options": {
+            "A": "Materials were always free.",
+            "B": "All jobs were identical.",
+            "C": "It occurred during peak demand.",
+            "D": "There were no new workers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "忙季压力大，解释仓促。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6806d0303144b59c0b5f8d2e0970d247266a71624bd0116c8fbef8f5c6bb724c",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"Practice before the busy season\", When were new sessions held?",
+          "options": {
+            "A": "After every employee left.",
+            "B": "Only during emergencies.",
+            "C": "Throughout every night.",
+            "D": "On two quieter mornings beforehand."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "在忙季前较空闲的两个上午。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "10df56c9b261ce778413752de5e1a7b72f554a4bca19d13bf70ac5a472e4e736",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"Practice before the busy season\", What materials were used for practice?",
+          "options": {
+            "A": "Spare materials.",
+            "B": "Customers' completed orders.",
+            "C": "Office windows.",
+            "D": "Personal jewellery."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "用备用材料练习。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "da58b1778f0201bf3266885c8670f41c41f500a20d5c85123f0caaadc684eebb",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"Practice before the busy season\", What did sessions establish besides basic practice?",
+          "options": {
+            "A": "An end to further training.",
+            "B": "A contact for unfamiliar problems.",
+            "C": "A rule never to ask questions.",
+            "D": "A guarantee against every mistake."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "确立遇陌生问题时的求助对象。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "11f2e4c2c8df1193283653683c5d26fa3ae3c68c5c76b9627aeb77e1a62ec148",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"Practice before the busy season\", How did the manager view training time?",
+          "options": {
+            "A": "As unrelated recreation.",
+            "B": "As a substitute for all experience.",
+            "C": "As preparation for productive work.",
+            "D": "As an unavoidable punishment."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "把培训看作工作准备。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "53ddef524b8c3bdc08898bb8152a7426d23d1a3468b78db0d22a40f08422b26b",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "eda656335e5160047abbea2f529b9a72d22fcee711737c015ee154b582b5f48e"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The instructor asked the trainee to _____ each decision during the demonstration.",
+      "options": {
+        "A": "justify",
+        "B": "decorate",
+        "C": "scatter",
+        "D": "inherit"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "justify 表示说明理由。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4bac44c96e0f4ec0def71774ce9cc23a7f92c7dcebe914c918384d1b0b44b576"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Practical knowledge may remain _____ unless an expert explains it.",
+      "options": {
+        "A": "edible",
+        "B": "implicit",
+        "C": "enormous",
+        "D": "vacant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "implicit 指隐含的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4a02722ddeceef9b24f5669d095b2a1e79836ed68fc2f9a01f0347e09736c028"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The learner used spare material for repeated _____.",
+      "options": {
+        "A": "property",
+        "B": "weather",
+        "C": "practice",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "practice 指练习。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ab23575ea70fff4637cb86ef4ef1d93d0763bab699c65e015e07ce7b80694112"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "A portfolio should contain _____ evidence of the skills claimed.",
+      "options": {
+        "A": "random",
+        "B": "hostile",
+        "C": "fragile",
+        "D": "relevant"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "relevant 表示相关的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e74e2674e78589e9cfd9b387f902e25abe454c812a29731e52fe9cdfa14a7172"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The trainer offered _____ feedback rather than a general complaint.",
+      "options": {
+        "A": "specific",
+        "B": "distant",
+        "C": "bitter",
+        "D": "weekly"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "specific 表示具体的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8bfdfdc266b9d6ce4aaecc49a267a4fce1885ff139c6df9a37f05e3c07bb6411"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team identified the _____ of the measurement error.",
+      "options": {
+        "A": "flavour",
+        "B": "source",
+        "C": "shelter",
+        "D": "salary"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "source 指来源或根由。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3397c360ee7ade36335b9899a005da8cf200f325df21f6967f7dd0f484d41dfa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The course helped workers _____ experience into recognised skills.",
+      "options": {
+        "A": "whisper",
+        "B": "borrow",
+        "C": "translate",
+        "D": "tremble"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "translate...into 在此为转化。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bba98be9f24f49b35bb544d69ca15eada785ebf20f0135296512cf5959fd43e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Learning improves when staff feel able to _____ uncertainty.",
+      "options": {
+        "A": "conceal",
+        "B": "punish",
+        "C": "export",
+        "D": "acknowledge"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "acknowledge 表示承认。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "06f9133d12b4fc6fe5a6992250b414ef18c2c30bb9d7f06310792464bba91a5d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The quieter period provided an _____ for supervised practice.",
+      "options": {
+        "A": "opportunity",
+        "B": "obstacle",
+        "C": "appetite",
+        "D": "invoice"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "opportunity 指机会。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8b064dd896fd90966b799537ded889a00d4c0fd208661b2e819ca2ec39fe61cb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The instructor kept the trainee's identity _____.",
+      "options": {
+        "A": "temporary",
+        "B": "confidential",
+        "C": "mechanical",
+        "D": "transparent to all"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "confidential 表示保密的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8788361052d1689cee4f9ab2352a0acd0a7a02673bb104c6e21c03d8a6f0861e"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The trainee was asked _____ why he had chosen that method.",
+      "options": {
+        "A": "explained",
+        "B": "to explain",
+        "C": "explaining",
+        "D": "explain"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ask somebody to do 的被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "27873de18a8c29e4799c31f5c8bf425cd6064aadb1f6d01821f3882dd96666d4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The photographs alone do not show whether the applicant _____ the procedure.",
+      "options": {
+        "A": "understanding",
+        "B": "to understand",
+        "C": "understands",
+        "D": "understand"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "applicant 单数，从句需谓语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c8b89d58f6862b22ffacaef1edd3cb670205d92032edad73188a03f7e0985f0d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If more time had been allowed, the instructor _____ the middle step again.",
+      "options": {
+        "A": "can demonstrate",
+        "B": "demonstrates",
+        "C": "could demonstrating",
+        "D": "could have demonstrated"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟结果用 could have done。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b2594f436c0938bdc7576a2c21d50faae0f6d95fc4b1edcebfb7a8b49fc05503"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The practice board, _____ had been cut too short, was reused.",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "whose",
+        "D": "who"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制性从句指物用 which。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a44cdfbba412ddd540fadb14df7b0ec98f938a79534acb578c669a33829c3bc8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "It is essential that each trainee _____ whom to contact for help.",
+      "options": {
+        "A": "has known",
+        "B": "know",
+        "C": "knows",
+        "D": "knew"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "essential 后 that 从句虚拟用原形。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "489cdf01a4dfd319695b157b612a96b60c8668235290afbf6388f6f4c9e04e9f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The instructor let us _____ on spare materials first.",
+      "options": {
+        "A": "practising",
+        "B": "practised",
+        "C": "practise",
+        "D": "to practise"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "let somebody do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "21b6baad1adf305e081c77c48cbb18b66147c55fc46fdecfd04648444ba1e6dd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The portfolio became shorter after several repeated examples _____ removed.",
+      "options": {
+        "A": "have being",
+        "B": "were been",
+        "C": "had",
+        "D": "had been"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去之前已被移除，用完成时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "97c2fc34b3e67207744dc129dc906965b59d02d5c22201cc51bd926ce8d0bf4d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Without the measurement notes, we _____ unable to locate the mistake yesterday.",
+      "options": {
+        "A": "would have been",
+        "B": "will be",
+        "C": "are",
+        "D": "would being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "without 隐含过去虚拟条件。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "30a302db12137d34708350b1a9f08686412c92d436343af2e1c46371afbea014"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The worker _____ experience was being assessed supplied two references.",
+      "options": {
+        "A": "where",
+        "B": "whose",
+        "C": "which",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "whose 修饰 experience。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2d649d0be00805e7bd7912ed88b18b0f447f291d5f22a10b0ca5ae2cd324f909"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Only when she explained the resistance _____ the correct moment to stop.",
+      "options": {
+        "A": "we did recognise",
+        "B": "recognised we did",
+        "C": "did we recognise",
+        "D": "we recognised"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only 状语前置，主句倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c153f93e502a8838b628a73e08bd275ec2a4165f574ba35008fd6e767df2e03e"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nExperienced workers often make judgments so quickly that they forget to explain them. A beginner may copy the visible movement while missing the reason behind it. Good instruction slows the process down enough to reveal those choices. When learners can explain why they act, they are better prepared to respond to a situation they have not seen before.",
+      "referenceAnswer": "有经验的工人往往判断得很快，以至于忘记解释这些判断。初学者可能模仿看得见的动作，却忽略其背后的理由。良好的指导会适当放慢过程，让这些选择显现出来。当学习者能够解释行动的原因时，他们就能更好地应对未曾见过的情况。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "be81fcbb3e07a4321bbe484bfce13dff105fb3e873f471ac109b0d8c132ceb9e",
+      "referenceAnswerFingerprint": "03baa52f79f4033fe7fb87dea3061950905235aee39c219a1f3f6fbd24a3ecaf"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nWrite a plan for welcoming a new colleague who must learn a practical workplace task. Include demonstration, supervised practice and feedback, and explain how the colleague should seek help.",
+      "sampleAnswer": "I would introduce the task in three stages. First, an experienced colleague should demonstrate it slowly and explain the decisions that are not obvious from watching. The newcomer should be encouraged to ask why a step is necessary. Next, supervised practice on spare materials would provide a chance to try the method without the pressure of a customer order. Feedback should identify one specific improvement and recognise what was done correctly. Before working independently, the newcomer should know which situations require stopping and whom to contact. A short follow-up meeting after the first week would reveal questions that did not arise during training. This approach gives the colleague both a method to follow and a clear way to handle uncertainty.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "481d2ff4d17571b0155819e8916a0c7d91ffbc1daa7165c72687ea8bb38c4aa8",
+      "sampleAnswerFingerprint": "310cb81fb75e3bffc70e6c744d872316313e32e0374142d882e7542f54dbcbfa"
+    }
+  ],
+  "fingerprintManifest": [
+    "4b22bd15a476d0cc0fec0eddf01f0b2f345c308a91468451921520d3321b3dd7",
+    "b35eb6ed8f423e8102a122dec0550091b1727a37429066abd01edee3f1190ff5",
+    "e79f605f67c8d6b920aa04a80c1d9ec39f3778773ccdcee54aa9f1cc3cb687b4",
+    "ca0573ab2d6aefb703b92f17146ef56165058de2de9300b688088925e3fc28dd",
+    "2db69c88d02e5b1e0d4891c0f34ca06998a049992ebfc35c7fe78a464b25b138",
+    "5cefaa5d79613e72fb82a59c838d38443ae4bc51ad042b1b85100a609aefae94",
+    "a88d15085a4ce0b8900e2828d8d9af29a1ca9bfce3cbde52142025e3eef7032a",
+    "5b621b6a9d64a7b13c85c33c682a516b5863e121f4421ccce7d532f119e09b6c",
+    "694ea4272ef092df9f7525a11089223cf3330515d4406acb0c18f21f18693f8f",
+    "c95dffacd7220dd12c4c2a0c5067793b008025c1fa6a2789673bea6fa6cc3a02",
+    "517f38af1f41c22fbfefb63d199efc1364970cd8a02e1e1fd02a3ab20597e592",
+    "8cdd006c74a0594f718f633c9133db965164c201b82dab52b5c8ab888569f5bf",
+    "f71dfc83bd1127fd9d34e88060aebaeb8b7fc9ab91a6dffb7b1bf2a139e53f3b",
+    "2690badc928884824f60321ef5ae82d2dc59ba569fa2bab737e8ba86ec7de591",
+    "c937bfa3f11333d83527744b606bf325f1f092c50f298cd6194c052fdb604d8f",
+    "ac6a17de1169346d321a2c1394cdc779755ee4fe418e9c5695a249bfdab1d515",
+    "03b5224a97c095c844f8a5b22e626ec2811bfc32691a241446ea32f19b59fc1e",
+    "f85ca5f9fc73547eb6d6bae558a92ae443b771b44defff1a9020010aef45f7bf",
+    "e1907f7288bb84995a2678ff3c0ac938b09a4dbd014240bc3ff0b72cb4378812",
+    "4d2d8d10e23828e4efacff94c073e4d974c6c91fd9325cf20f9f601db6e30793",
+    "e22a7be9c6defd2da97de386663a708ffa7b870b17d81821c68145f68bc2e525",
+    "fad8780c865ae4deedbed39cdb7889c98be34b9d34ac2a6ea5009562dc8a5c4a",
+    "b3be96b8744818f620f4f3028afdfdcbc304a70ccb89e418d40066cc4cbc76cb",
+    "d6343b398e635bf143203131b6ec576c83be139607cd8e1580d6749dd2422c47",
+    "c14fa2b6c66d3e07306258d1ac21b65072b89f9cd874fea1b3ce5fd8601fdf4c",
+    "83b8b1f480635e70a36289b8b5caaf5668cc5255735943aec209f0b560084858",
+    "b7c14da5dfe6be2fbee92e161e6673bf64b24c202b940620555a568f05a84408",
+    "9a3948c3bee26f61d3a5dbaa1d663889004e96b2f892feadbf776a3ab7fcdf4a",
+    "f67da8055d07ebd437c8c1cd16d0c01c61f643812e1dc8b1de8f9dec535012e2",
+    "07d5f721169afe4364cff5bf07c64c2261d0b770c975ac7a0a226499f3d3d831",
+    "386f6a211f7fc7554a679f915cfe4135c3470d86d5a26820bc25b9afdad67b9e",
+    "eda656335e5160047abbea2f529b9a72d22fcee711737c015ee154b582b5f48e",
+    "6806d0303144b59c0b5f8d2e0970d247266a71624bd0116c8fbef8f5c6bb724c",
+    "10df56c9b261ce778413752de5e1a7b72f554a4bca19d13bf70ac5a472e4e736",
+    "da58b1778f0201bf3266885c8670f41c41f500a20d5c85123f0caaadc684eebb",
+    "11f2e4c2c8df1193283653683c5d26fa3ae3c68c5c76b9627aeb77e1a62ec148",
+    "53ddef524b8c3bdc08898bb8152a7426d23d1a3468b78db0d22a40f08422b26b",
+    "4bac44c96e0f4ec0def71774ce9cc23a7f92c7dcebe914c918384d1b0b44b576",
+    "4a02722ddeceef9b24f5669d095b2a1e79836ed68fc2f9a01f0347e09736c028",
+    "ab23575ea70fff4637cb86ef4ef1d93d0763bab699c65e015e07ce7b80694112",
+    "e74e2674e78589e9cfd9b387f902e25abe454c812a29731e52fe9cdfa14a7172",
+    "8bfdfdc266b9d6ce4aaecc49a267a4fce1885ff139c6df9a37f05e3c07bb6411",
+    "3397c360ee7ade36335b9899a005da8cf200f325df21f6967f7dd0f484d41dfa",
+    "bba98be9f24f49b35bb544d69ca15eada785ebf20f0135296512cf5959fd43e2",
+    "06f9133d12b4fc6fe5a6992250b414ef18c2c30bb9d7f06310792464bba91a5d",
+    "8b064dd896fd90966b799537ded889a00d4c0fd208661b2e819ca2ec39fe61cb",
+    "8788361052d1689cee4f9ab2352a0acd0a7a02673bb104c6e21c03d8a6f0861e",
+    "27873de18a8c29e4799c31f5c8bf425cd6064aadb1f6d01821f3882dd96666d4",
+    "c8b89d58f6862b22ffacaef1edd3cb670205d92032edad73188a03f7e0985f0d",
+    "b2594f436c0938bdc7576a2c21d50faae0f6d95fc4b1edcebfb7a8b49fc05503",
+    "a44cdfbba412ddd540fadb14df7b0ec98f938a79534acb578c669a33829c3bc8",
+    "489cdf01a4dfd319695b157b612a96b60c8668235290afbf6388f6f4c9e04e9f",
+    "21b6baad1adf305e081c77c48cbb18b66147c55fc46fdecfd04648444ba1e6dd",
+    "97c2fc34b3e67207744dc129dc906965b59d02d5c22201cc51bd926ce8d0bf4d",
+    "30a302db12137d34708350b1a9f08686412c92d436343af2e1c46371afbea014",
+    "2d649d0be00805e7bd7912ed88b18b0f447f291d5f22a10b0ca5ae2cd324f909",
+    "c153f93e502a8838b628a73e08bd275ec2a4165f574ba35008fd6e767df2e03e",
+    "be81fcbb3e07a4321bbe484bfce13dff105fb3e873f471ac109b0d8c132ceb9e",
+    "03baa52f79f4033fe7fb87dea3061950905235aee39c219a1f3f6fbd24a3ecaf",
+    "481d2ff4d17571b0155819e8916a0c7d91ffbc1daa7165c72687ea8bb38c4aa8",
+    "310cb81fb75e3bffc70e6c744d872316313e32e0374142d882e7542f54dbcbfa"
+  ],
+  "contentFingerprint": "f14b355e1fb4484b8b3a48d0733d3d9e20058692749d560008650ab6f24114f6"
+}

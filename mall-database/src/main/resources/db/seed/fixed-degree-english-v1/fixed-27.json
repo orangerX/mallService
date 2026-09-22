@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-27",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 27 · 数字信息与阅读判断",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 27,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "A message about the account",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "User: This email says my library account will close unless I follow its link.\nLibrarian: (1) _____\nUser: It seems unusual, and the sender's address looks strange.\nLibrarian: (2) _____\nUser: Should I send you my password so you can check?\nLibrarian: (3) _____\nUser: Where should I report the message?\nLibrarian: (4) _____",
+      "sharedOptions": {
+        "A": "Open the library website directly and check your account there.",
+        "B": "No, keep your password private.",
+        "C": "Forward it to the support address listed on our official website.",
+        "D": "Were you expecting an account notice from us?"
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A message about the account\".",
+          "options": {
+            "A": "Open the library website directly and check your account there.",
+            "B": "No, keep your password private.",
+            "C": "Forward it to the support address listed on our official website.",
+            "D": "Were you expecting an account notice from us?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先核是否预期通知。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f6343575efc08d1c311ebd6ea0007c1b78203f18d498566b02a620b29677b125"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A message about the account\".",
+          "options": {
+            "A": "Open the library website directly and check your account there.",
+            "B": "No, keep your password private.",
+            "C": "Forward it to the support address listed on our official website.",
+            "D": "Were you expecting an account notice from us?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "建议直接访问官网查证。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b421b1ff3647570484ffb23a7cd04fc92b2411dd9d95baaf1b0a8a193032a33a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A message about the account\".",
+          "options": {
+            "A": "Open the library website directly and check your account there.",
+            "B": "No, keep your password private.",
+            "C": "Forward it to the support address listed on our official website.",
+            "D": "Were you expecting an account notice from us?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "明确不要分享密码。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "975202af4dbd34cad1c7db6042c262d615113f13d08770ecdb20170cd8c62f4a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"A message about the account\".",
+          "options": {
+            "A": "Open the library website directly and check your account there.",
+            "B": "No, keep your password private.",
+            "C": "Forward it to the support address listed on our official website.",
+            "D": "Were you expecting an account notice from us?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "报告渠道应来自官方网站。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d5b473ce386de08ab70f4653650b322dae289f27ad7e29edd6c81d548bab6802"
+        }
+      ],
+      "contentFingerprint": "33dcac33ac48754b2c04214fb43266f433d45dab51fa3a74f6a10f774029ea04"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding the original report",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Reader: This post says a study proves that everyone learns better at night.\nColleague: (1) _____\nReader: Only a link to another short post.\nColleague: (2) _____\nReader: I found it; the study involved twelve volunteers doing one task.\nColleague: (3) _____",
+      "sharedOptions": {
+        "A": "Does it link to the actual study?",
+        "B": "Let's trace the claim back to its original source.",
+        "C": "Then we should be cautious about applying it to everyone.",
+        "D": "Twelve people always represent every learner."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Finding the original report\".",
+          "options": {
+            "A": "Does it link to the actual study?",
+            "B": "Let's trace the claim back to its original source.",
+            "C": "Then we should be cautious about applying it to everyone.",
+            "D": "Twelve people always represent every learner."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问是否有原研究链接。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "76f0af1aea345711d988905bfbd6ea46c1f6a6698ea15b0e272a237b05148bec"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Finding the original report\".",
+          "options": {
+            "A": "Does it link to the actual study?",
+            "B": "Let's trace the claim back to its original source.",
+            "C": "Then we should be cautious about applying it to everyone.",
+            "D": "Twelve people always represent every learner."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "追溯原始来源。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d9d19d197bfbcb1baa09f16839a1dda57350469c7995f45ff82f6caf157c6ca6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Finding the original report\".",
+          "options": {
+            "A": "Does it link to the actual study?",
+            "B": "Let's trace the claim back to its original source.",
+            "C": "Then we should be cautious about applying it to everyone.",
+            "D": "Twelve people always represent every learner."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "样本与任务有限，不能泛化所有人。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "c96a07215da7277c5bb63ebdde5d0e3937acacf812ad1f3703f3823ee0ccfc68"
+        }
+      ],
+      "contentFingerprint": "3e0dff2b3a1a35558a0cb38c2695db6a5689ebed8041027823c37eba245466eb"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "A photograph from another year",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Editor: Can we use this photo for the article about yesterday's festival?\nReporter: (1) _____\nEditor: The file name suggests it was taken three years ago.\nReporter: (2) _____\nEditor: Yes, an accurate caption would make its context clear.\nReporter: (3) _____\nEditor: Good; permission and date both need checking.",
+      "sharedOptions": {
+        "A": "The date never affects a photograph's meaning.",
+        "B": "Have we checked when it was taken?",
+        "C": "Could we use it only as an archive image with a clear date?",
+        "D": "I will also confirm that we have permission to publish it."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A photograph from another year\".",
+          "options": {
+            "A": "The date never affects a photograph's meaning.",
+            "B": "Have we checked when it was taken?",
+            "C": "Could we use it only as an archive image with a clear date?",
+            "D": "I will also confirm that we have permission to publish it."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "先核拍摄时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2e92a1f6f97533b482dd3b715482ae1a19f1801bf8f45b6bde0fc0487ecd3c49"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A photograph from another year\".",
+          "options": {
+            "A": "The date never affects a photograph's meaning.",
+            "B": "Have we checked when it was taken?",
+            "C": "Could we use it only as an archive image with a clear date?",
+            "D": "I will also confirm that we have permission to publish it."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作为资料图明确日期，避免误导。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1f1d82faa5942e33017ce31890f130b0e93bfbe2dc6e8fd685b81cb597c04968"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A photograph from another year\".",
+          "options": {
+            "A": "The date never affects a photograph's meaning.",
+            "B": "Have we checked when it was taken?",
+            "C": "Could we use it only as an archive image with a clear date?",
+            "D": "I will also confirm that we have permission to publish it."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "补充核实发表许可。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7f598f6307e11f9860437e1f62e56cb31b9a647f4267ba70444bb30df1216ec4"
+        }
+      ],
+      "contentFingerprint": "6bf8aae5ed3ae4386707df0c812125baebd7fc30b85ba22fd8fae94045dda00e"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The number without its base",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A newsletter announced that attendance at a workshop had risen by fifty percent. The previous session had eight participants and the new one had twelve. Both numbers were accurate, but the percentage alone made some readers imagine a much larger event. The editor added the actual counts beside the percentage. She did not remove the positive result; she gave readers the scale needed to interpret it. A correct figure can still leave an incomplete impression.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The number without its base\", What were the two attendance counts?",
+          "options": {
+            "A": "Twelve and eighteen.",
+            "B": "Four and twelve.",
+            "C": "Eight and twelve.",
+            "D": "Fifty and one hundred."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "原文明确列出八人与十二人。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e74f31730fbd8890ed52b425007c88a412192bed70bd033bf1c35d69c4fe3f76",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The number without its base\", Why could the percentage mislead readers?",
+          "options": {
+            "A": "It was mathematically false.",
+            "B": "Attendance had fallen.",
+            "C": "The workshop never happened.",
+            "D": "It omitted the small starting number."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "缺少基数导致规模错觉。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9d89c37d24cc83f173bc65ae0165ab4f94aed28d078c8a2cfe0285b2824283e3",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The number without its base\", What did the editor add?",
+          "options": {
+            "A": "The actual participant counts.",
+            "B": "A new unsupported percentage.",
+            "C": "Private attendee addresses.",
+            "D": "A claim of national success."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "把实际人数放在百分比旁。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b4e98a2e0716260a332cfdccd8b91a6baeca22d6e24b2474eb6f0d6c681a6bb8",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The number without its base\", Did the revision deny that attendance increased?",
+          "options": {
+            "A": "No, it claimed tenfold growth.",
+            "B": "No, it supplied the scale.",
+            "C": "Yes, it changed twelve to zero.",
+            "D": "Yes, it deleted the workshop."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "保留增长事实，补足规模。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a55a61c48f5011fd556e1513d42345c7da51e203152128f76531c133be6de6a4",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The number without its base\", What is the passage's lesson?",
+          "options": {
+            "A": "Small events cannot improve.",
+            "B": "Editors should avoid all numbers.",
+            "C": "Accurate figures still need context.",
+            "D": "Percentages are always wrong."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "数字正确仍需背景。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c703a1ea0477cd0715abced379fb0c288be52e54843d8291f6e90d4949c06b25",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "c0e65511630a6d0ce53951dc5a15a7cfb24ebd69b404dd1003fbcc6c93b1004e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A correction beside the headline",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A local website incorrectly reported that a museum would close permanently. The actual closure was for a two-week roof repair. After noticing the mistake, the editor changed the headline and added a visible correction stating what had been wrong. She also posted the correction where the earlier story had been shared. Simply changing the page would not reach everyone who had already read it. Correcting information involved following its path as well as editing its source.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"A correction beside the headline\", What was wrong in the original report?",
+          "options": {
+            "A": "It gave the museum a new name.",
+            "B": "It claimed the roof was open.",
+            "C": "It listed the wrong ticket colour.",
+            "D": "It described a temporary closure as permanent."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "把两周修缮误报为永久关闭。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "99e32b6535c989f69710cc8cabda83beda60e0b7f178665f207819120613b90a",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A correction beside the headline\", How long was the actual closure?",
+          "options": {
+            "A": "Two weeks.",
+            "B": "Two years.",
+            "C": "One afternoon.",
+            "D": "Six months."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "真实关闭期为两周。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cb8c2df9860a92648367dc270dd4dd52aa1e8b6d8d3248f803240a9182f919ec",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"A correction beside the headline\", What accompanied the revised headline?",
+          "options": {
+            "A": "A new unsupported rumour.",
+            "B": "A visible explanation of the error.",
+            "C": "A hidden advertisement.",
+            "D": "A demand to forget the story."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "增加清楚的更正说明。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "316ec1688f5edc910f5eaecc38eb0555bf162200558e924294b1240bb29a7268",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A correction beside the headline\", Why repost the correction on sharing channels?",
+          "options": {
+            "A": "Repairs had been cancelled.",
+            "B": "The editor wanted fewer facts.",
+            "C": "Earlier readers might not revisit the page.",
+            "D": "The museum sold social accounts."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "传播过的读者未必重访原页。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "979fc8604e6dd4ef41a4446c090654ad5aa3962da5ebde975ca353a144147480",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"A correction beside the headline\", What does 'following its path' mean?",
+          "options": {
+            "A": "Walking around the museum roof.",
+            "B": "Finding a new office.",
+            "C": "Reading every museum book.",
+            "D": "Reaching places where the false report had spread."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "沿信息传播路径发布更正。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f79ad517fa938e1bc7b6f14c15aeec65f2252b85bb3d8635238d8b55942ad20a",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "5b7101c9271e679fb526371a71b1f487b252146147fb403a7da7788922caee7d"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The search result at the top",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "While comparing training courses, Kira clicked the first result in a search engine. She later noticed that it was labelled as an advertisement. This did not prove the course was poor, but it meant the position was not an independent recommendation. She compared course outlines, teacher experience and cancellation terms from several providers. The label changed how she interpreted the result, not whether she was allowed to consider it. Visibility and suitability were different questions.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The search result at the top\", What did Kira notice about the first result?",
+          "options": {
+            "A": "It was an advertisement.",
+            "B": "It was a government guarantee.",
+            "C": "It had no title.",
+            "D": "It was already cancelled."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首条结果带广告标识。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "95eacc978865a44b896c2cb033f6fe5eca3ec704bff6d29b51d4eee69838d521",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The search result at the top\", What did its position fail to establish?",
+          "options": {
+            "A": "That Kira used a search engine.",
+            "B": "Independent recommendation.",
+            "C": "That a website existed.",
+            "D": "That text could be read."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "广告排名不等于独立推荐。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2d65b7bdc30c7873280704433aacaed1a892a2bc5a50eef1b5ff645f08bcf2ed",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The search result at the top\", Which information did she compare?",
+          "options": {
+            "A": "Teachers' home addresses.",
+            "B": "The number of animated pictures.",
+            "C": "Outlines, experience and cancellation terms.",
+            "D": "Only logo colours."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "文中三项比较标准。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8cf72bd542901a8cfa883f182599ed97e46f92ebcd0a0b3949653b1ac9ec5ba3",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The search result at the top\", Did the advertisement label automatically disqualify the course?",
+          "options": {
+            "A": "Yes, it proved fraud.",
+            "B": "Yes, it banned enrolment.",
+            "C": "No, it guaranteed excellence.",
+            "D": "No, it changed how she evaluated it."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "广告身份不能直接判断课程好坏。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "75da1ef9647f28ab451353a1ef25643d8854bca91b137401140b146620bbe1a2",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The search result at the top\", What distinction closes the passage?",
+          "options": {
+            "A": "Visibility and suitability.",
+            "B": "Cost and currency.",
+            "C": "Study and sleep.",
+            "D": "Books and notebooks."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "被看见不等于适合需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fd24635a21a3f7e685f1e4b8658cd6b5a51fa86088b3ab05ec3cde04f5ffda71",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "327376d00dc64f8027072dc47a2b4b3e606425f5d01ca61182fe5eaf87bef425"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The screenshot without the reply",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An online discussion circulated as a screenshot of one frustrated message. Readers criticised the writer. A colleague found the full conversation, including an earlier question and a later apology. The message still sounded impatient, but its purpose was easier to understand. The colleague shared a link to the complete exchange rather than claiming that the writer had done nothing wrong. Additional context allowed a more proportionate judgment without excusing every word.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The screenshot without the reply\", What circulated first?",
+          "options": {
+            "A": "A printed course guide.",
+            "B": "One message without its surrounding exchange.",
+            "C": "A complete meeting recording.",
+            "D": "The writer's final apology alone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "孤立的一条消息截图。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "482c91a67efee6c54b756f63f01a93f49d0c8c6afe2cf64939aa81b3b7c7b687",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The screenshot without the reply\", What did the full conversation include?",
+          "options": {
+            "A": "An unrelated advertisement.",
+            "B": "No additional words.",
+            "C": "An earlier question and a later apology.",
+            "D": "A different person's bank details."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "完整上下文有前问后道歉。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d27b2ea4ec62750d6e6cd13e412bb1e023652caec504631f333c6395c5cc3b01",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The screenshot without the reply\", How did context affect the impatient message?",
+          "options": {
+            "A": "It became perfectly polite.",
+            "B": "It disappeared entirely.",
+            "C": "It changed into a photograph.",
+            "D": "Its purpose became easier to understand."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "更理解意图，不否认语气急躁。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "83b22b1be8d6a057aa52ca79a16e301c98db29bd70bb1f5af3b4744ac066cf16",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The screenshot without the reply\", What did the colleague share?",
+          "options": {
+            "A": "A link to the full exchange.",
+            "B": "A claim that no mistake occurred.",
+            "C": "A second cropped screenshot.",
+            "D": "An invented quotation."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "分享完整交流链接。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a5c93871225d976fdb4dfeb27b0f17106d3600ec9c591affa18a5d63dd77fa66",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The screenshot without the reply\", What does 'proportionate' most nearly mean?",
+          "options": {
+            "A": "Based only on popularity.",
+            "B": "Appropriate to the full circumstances.",
+            "C": "Automatically favourable.",
+            "D": "Entirely emotional."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "与完整事实相称的判断。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d8a18f576b6a681bf9c676ff537bff281e857ed3a471fb7b2d08299c317e2cf9",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "495304f46eb6bdcce298ae6b294d8f2989759d0ae6bc32c5d569de6b7c2b79ec"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The headline omitted the _____ that the closure was temporary.",
+      "options": {
+        "A": "decoration",
+        "B": "destination",
+        "C": "invitation",
+        "D": "qualification"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "qualification 在此指限定说明。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4ba013057e1d33d9f6127129bed0a7f51321f93d9f07efc88ea59f8547653753"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "We should _____ the source before sharing the claim.",
+      "options": {
+        "A": "verify",
+        "B": "amuse",
+        "C": "bury",
+        "D": "owe"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "verify 表示核实。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2db9910879d668ed6c5336e53edb96ed80ec718be77c63ca232a7232d375b3e5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A visible correction can help _____ public trust.",
+      "options": {
+        "A": "confuse",
+        "B": "restore",
+        "C": "scatter",
+        "D": "borrow"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "restore trust 指恢复信任。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9f6c68d1b1895fd1c807ff1a77a674d0e56ab3d76ae744687faed91c348e092a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The advertisement's position does not _____ its quality.",
+      "options": {
+        "A": "tremble",
+        "B": "belong",
+        "C": "establish",
+        "D": "apologise"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "establish 表示确立、证明。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "746a2cfe2aaea6fed0f154eeb246e4ea7e7ba5b65cf12ec61aa22e3378d71c3b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The screenshot offered only a _____ view of the conversation.",
+      "options": {
+        "A": "complete",
+        "B": "permanent",
+        "C": "physical",
+        "D": "partial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "partial 表示局部的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "403eabc6f0bb24c48777f9b678cfffc5ca634816edf996822aa0523196b0a779"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Adding actual counts gives readers a sense of _____.",
+      "options": {
+        "A": "scale",
+        "B": "silk",
+        "C": "shelter",
+        "D": "flavour"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "scale 指规模。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8c90e7e7efe3836c2a5399231143cfdfd5d6ffd58351fca4cea99c04ea9ab679"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The editor made the correction _____ rather than hiding it at the bottom.",
+      "options": {
+        "A": "hostile",
+        "B": "prominent",
+        "C": "reluctant",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "prominent 表示醒目的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "214ea0f9ef103f131956a71c7c3c4251aa51136fb969d5014b066d3321fa18bc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Kira compared several providers before making a _____.",
+      "options": {
+        "A": "landscape",
+        "B": "symptom",
+        "C": "commitment",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "commitment 在此指作出报名承诺。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d625bcf50e92ce89edaeb237cde4d184de12eebe7662a8a5982798f2087aa397"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "An impatient phrase should be interpreted in its _____.",
+      "options": {
+        "A": "costume",
+        "B": "ceiling",
+        "C": "cargo",
+        "D": "context"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "context 指语境。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "24033bb71ced3c128cf8a32506847e5b06fcdd46fcc21d2be7ead59085841460"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The report's conclusion goes _____ what the small study can support.",
+      "options": {
+        "A": "beyond",
+        "B": "beneath",
+        "C": "beside",
+        "D": "within"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "go beyond 表示超出。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "06b018360243e7d0678fe23e671dce962d0035afca556e90cb01d4eea4bea88c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The number of people attending the workshop _____ increased from eight to twelve.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the number 作主语为单数。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "27f8a1b91de396c4d61dc2af272193bed726b9ddff9893d4870d04e0687d9250"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The museum will reopen after the roof _____ repaired.",
+      "options": {
+        "A": "is repairing",
+        "B": "has been",
+        "C": "has being",
+        "D": "will have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用完成时表先完成，被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "33d5afdfc1131e4c5239946cc461513a9274f9df680077718300c74693745f6c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Kira avoided _____ a course solely because it appeared first.",
+      "options": {
+        "A": "chosen",
+        "B": "to choose",
+        "C": "choosing",
+        "D": "choose"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "avoid 后接动名词。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d2a07e18b0e9bbe130b0fd210464d2549dba07759e1b417017982aca44c42206"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The advertisement, _____ appeared above the other results, was clearly labelled.",
+      "options": {
+        "A": "that",
+        "B": "who",
+        "C": "whose",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "非限制性从句指物用 which。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a4a8cdad097dc51f45957a72996fbe0721233a758a62847c37fb6bdce98707e3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Had the editor checked the notice, she _____ the wrong closure date.",
+      "options": {
+        "A": "would not have published",
+        "B": "will not publish",
+        "C": "does not publish",
+        "D": "had not publishing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去虚拟主句 would have done。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "69dfe5e9660158d53e1c62fd6c17126a292771eb78f31dbc6256df2b71b6d1f9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "It was the original report _____ we needed to read.",
+      "options": {
+        "A": "whose",
+        "B": "that",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "强调句 it was...that。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bedccb497692a42d12a024a4f1e31334430fcee088ff24eb62cf26a7a23518d5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The full discussion is worth _____ before forming a judgment.",
+      "options": {
+        "A": "to read",
+        "B": "reads",
+        "C": "reading",
+        "D": "read"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "be worth doing。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ce69a0a8d2b23d2823a2cb7a66cc5e61c8012a76f59895d2a3f6521d6df3891a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither of the two posts _____ a link to the actual study.",
+      "options": {
+        "A": "provide",
+        "B": "providing",
+        "C": "to provide",
+        "D": "provides"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither of 作主语通常单数谓语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d9947ff3fa33a333e74b06e9ac338cc422c08d7f63c2cc66573c911881756ad2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The editor asked where the incorrect story _____ shared.",
+      "options": {
+        "A": "had been",
+        "B": "has being",
+        "C": "was been",
+        "D": "would had"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去之前已被分享，用过去完成时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6161855e3a10c6bd1bfc4a3753e133e92516ba304b44301c86dbd7aaf662abf3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "A claim is not necessarily true just because _____ widely repeated.",
+      "options": {
+        "A": "has it",
+        "B": "it is",
+        "C": "is it",
+        "D": "it has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "because 引导陈述语序从句；be repeated 被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "13d89e965b4966bf2ea08acd2d2312d69bd7e0aadec4b2d100f8417cfde09358"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nA short message can travel much farther than the explanation that originally surrounded it. Before judging a claim, readers should look for the source, the date and the information that has been left out. This habit does not require distrusting everything. It means giving a statement no more weight than its evidence can reasonably carry.",
+      "referenceAnswer": "一条简短信息的传播距离，可能远远超过最初伴随它的解释。在判断一种说法之前，读者应查找来源、日期以及被省略的信息。这种习惯并不要求怀疑一切，而是意味着赋予一个说法的分量，不应超过其证据能够合理支持的程度。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "6ef259051ef3671315e41f34f46b1c6a86a74d271e056c1e43c348cdbceab2ed",
+      "referenceAnswerFingerprint": "afd06e7a4b55976fadcfc2bccb1e63fef766979944af56b5ae68fd70ae12d84e"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nWrite a short article for adult learners on checking online course advertisements. Explain two useful checks and why the first search result is not necessarily the best choice.",
+      "sampleAnswer": "Online course advertisements can introduce useful opportunities, but their position in search results should not decide our choice. A sponsored result may appear first because a provider paid for visibility. I would begin by comparing the course outline with my actual learning needs. A familiar title does not guarantee that the topics or level will suit me. Next, I would read the practical terms, including study hours, total fees and cancellation arrangements, on the provider's own website. If something remains unclear, a specific question is better than an assumption. Comparing several providers takes time, but it can prevent a much larger waste of time later. The best course is the one supported by relevant information and suited to the learner.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "7f039c4b491836f68a44ee83287e7e4c5a70294f391d93951ba484fd990f57a0",
+      "sampleAnswerFingerprint": "16875fec0de6c09a43e4cbe69148b269b7279424d778a16028d443167ffe8863"
+    }
+  ],
+  "fingerprintManifest": [
+    "33dcac33ac48754b2c04214fb43266f433d45dab51fa3a74f6a10f774029ea04",
+    "f6343575efc08d1c311ebd6ea0007c1b78203f18d498566b02a620b29677b125",
+    "b421b1ff3647570484ffb23a7cd04fc92b2411dd9d95baaf1b0a8a193032a33a",
+    "975202af4dbd34cad1c7db6042c262d615113f13d08770ecdb20170cd8c62f4a",
+    "d5b473ce386de08ab70f4653650b322dae289f27ad7e29edd6c81d548bab6802",
+    "3e0dff2b3a1a35558a0cb38c2695db6a5689ebed8041027823c37eba245466eb",
+    "76f0af1aea345711d988905bfbd6ea46c1f6a6698ea15b0e272a237b05148bec",
+    "d9d19d197bfbcb1baa09f16839a1dda57350469c7995f45ff82f6caf157c6ca6",
+    "c96a07215da7277c5bb63ebdde5d0e3937acacf812ad1f3703f3823ee0ccfc68",
+    "6bf8aae5ed3ae4386707df0c812125baebd7fc30b85ba22fd8fae94045dda00e",
+    "2e92a1f6f97533b482dd3b715482ae1a19f1801bf8f45b6bde0fc0487ecd3c49",
+    "1f1d82faa5942e33017ce31890f130b0e93bfbe2dc6e8fd685b81cb597c04968",
+    "7f598f6307e11f9860437e1f62e56cb31b9a647f4267ba70444bb30df1216ec4",
+    "c0e65511630a6d0ce53951dc5a15a7cfb24ebd69b404dd1003fbcc6c93b1004e",
+    "e74f31730fbd8890ed52b425007c88a412192bed70bd033bf1c35d69c4fe3f76",
+    "9d89c37d24cc83f173bc65ae0165ab4f94aed28d078c8a2cfe0285b2824283e3",
+    "b4e98a2e0716260a332cfdccd8b91a6baeca22d6e24b2474eb6f0d6c681a6bb8",
+    "a55a61c48f5011fd556e1513d42345c7da51e203152128f76531c133be6de6a4",
+    "c703a1ea0477cd0715abced379fb0c288be52e54843d8291f6e90d4949c06b25",
+    "5b7101c9271e679fb526371a71b1f487b252146147fb403a7da7788922caee7d",
+    "99e32b6535c989f69710cc8cabda83beda60e0b7f178665f207819120613b90a",
+    "cb8c2df9860a92648367dc270dd4dd52aa1e8b6d8d3248f803240a9182f919ec",
+    "316ec1688f5edc910f5eaecc38eb0555bf162200558e924294b1240bb29a7268",
+    "979fc8604e6dd4ef41a4446c090654ad5aa3962da5ebde975ca353a144147480",
+    "f79ad517fa938e1bc7b6f14c15aeec65f2252b85bb3d8635238d8b55942ad20a",
+    "327376d00dc64f8027072dc47a2b4b3e606425f5d01ca61182fe5eaf87bef425",
+    "95eacc978865a44b896c2cb033f6fe5eca3ec704bff6d29b51d4eee69838d521",
+    "2d65b7bdc30c7873280704433aacaed1a892a2bc5a50eef1b5ff645f08bcf2ed",
+    "8cf72bd542901a8cfa883f182599ed97e46f92ebcd0a0b3949653b1ac9ec5ba3",
+    "75da1ef9647f28ab451353a1ef25643d8854bca91b137401140b146620bbe1a2",
+    "fd24635a21a3f7e685f1e4b8658cd6b5a51fa86088b3ab05ec3cde04f5ffda71",
+    "495304f46eb6bdcce298ae6b294d8f2989759d0ae6bc32c5d569de6b7c2b79ec",
+    "482c91a67efee6c54b756f63f01a93f49d0c8c6afe2cf64939aa81b3b7c7b687",
+    "d27b2ea4ec62750d6e6cd13e412bb1e023652caec504631f333c6395c5cc3b01",
+    "83b22b1be8d6a057aa52ca79a16e301c98db29bd70bb1f5af3b4744ac066cf16",
+    "a5c93871225d976fdb4dfeb27b0f17106d3600ec9c591affa18a5d63dd77fa66",
+    "d8a18f576b6a681bf9c676ff537bff281e857ed3a471fb7b2d08299c317e2cf9",
+    "4ba013057e1d33d9f6127129bed0a7f51321f93d9f07efc88ea59f8547653753",
+    "2db9910879d668ed6c5336e53edb96ed80ec718be77c63ca232a7232d375b3e5",
+    "9f6c68d1b1895fd1c807ff1a77a674d0e56ab3d76ae744687faed91c348e092a",
+    "746a2cfe2aaea6fed0f154eeb246e4ea7e7ba5b65cf12ec61aa22e3378d71c3b",
+    "403eabc6f0bb24c48777f9b678cfffc5ca634816edf996822aa0523196b0a779",
+    "8c90e7e7efe3836c2a5399231143cfdfd5d6ffd58351fca4cea99c04ea9ab679",
+    "214ea0f9ef103f131956a71c7c3c4251aa51136fb969d5014b066d3321fa18bc",
+    "d625bcf50e92ce89edaeb237cde4d184de12eebe7662a8a5982798f2087aa397",
+    "24033bb71ced3c128cf8a32506847e5b06fcdd46fcc21d2be7ead59085841460",
+    "06b018360243e7d0678fe23e671dce962d0035afca556e90cb01d4eea4bea88c",
+    "27f8a1b91de396c4d61dc2af272193bed726b9ddff9893d4870d04e0687d9250",
+    "33d5afdfc1131e4c5239946cc461513a9274f9df680077718300c74693745f6c",
+    "d2a07e18b0e9bbe130b0fd210464d2549dba07759e1b417017982aca44c42206",
+    "a4a8cdad097dc51f45957a72996fbe0721233a758a62847c37fb6bdce98707e3",
+    "69dfe5e9660158d53e1c62fd6c17126a292771eb78f31dbc6256df2b71b6d1f9",
+    "bedccb497692a42d12a024a4f1e31334430fcee088ff24eb62cf26a7a23518d5",
+    "ce69a0a8d2b23d2823a2cb7a66cc5e61c8012a76f59895d2a3f6521d6df3891a",
+    "d9947ff3fa33a333e74b06e9ac338cc422c08d7f63c2cc66573c911881756ad2",
+    "6161855e3a10c6bd1bfc4a3753e133e92516ba304b44301c86dbd7aaf662abf3",
+    "13d89e965b4966bf2ea08acd2d2312d69bd7e0aadec4b2d100f8417cfde09358",
+    "6ef259051ef3671315e41f34f46b1c6a86a74d271e056c1e43c348cdbceab2ed",
+    "afd06e7a4b55976fadcfc2bccb1e63fef766979944af56b5ae68fd70ae12d84e",
+    "7f039c4b491836f68a44ee83287e7e4c5a70294f391d93951ba484fd990f57a0",
+    "16875fec0de6c09a43e4cbe69148b269b7279424d778a16028d443167ffe8863"
+  ],
+  "contentFingerprint": "c2476af5836cac071091d5920de6760653497c8e484fb585ae97cde78dbcf473"
+}

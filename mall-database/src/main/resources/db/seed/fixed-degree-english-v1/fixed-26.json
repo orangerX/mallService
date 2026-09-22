@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-26",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 26 · 日常通勤与交通信息",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 26,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "The stop during roadworks",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Passenger: My usual bus stop has a cover over its sign.\nDriver: (1) _____\nPassenger: Is the temporary stop far away?\nDriver: (2) _____\nPassenger: Will the same ticket be valid?\nDriver: (3) _____\nPassenger: How long will the move last?\nDriver: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, the route and fare have not changed.",
+        "B": "The notice says until Friday evening, subject to the work finishing.",
+        "C": "It is closed while workers repair the pavement.",
+        "D": "It is about two hundred metres ahead, outside the post office."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"The stop during roadworks\".",
+          "options": {
+            "A": "Yes, the route and fare have not changed.",
+            "B": "The notice says until Friday evening, subject to the work finishing.",
+            "C": "It is closed while workers repair the pavement.",
+            "D": "It is about two hundred metres ahead, outside the post office."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "解释站牌覆盖的原因。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d23d58b9d9371c6f66d312836d29057c44c64337db633660db83123f0d63d1dd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"The stop during roadworks\".",
+          "options": {
+            "A": "Yes, the route and fare have not changed.",
+            "B": "The notice says until Friday evening, subject to the work finishing.",
+            "C": "It is closed while workers repair the pavement.",
+            "D": "It is about two hundred metres ahead, outside the post office."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答临时站距离和位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0a7affd8e60c9770771465cd4d730b70bf49e7451b9345bc760996cfb867c5ed"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"The stop during roadworks\".",
+          "options": {
+            "A": "Yes, the route and fare have not changed.",
+            "B": "The notice says until Friday evening, subject to the work finishing.",
+            "C": "It is closed while workers repair the pavement.",
+            "D": "It is about two hundred metres ahead, outside the post office."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认票价线路不变。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "698319c5f496d7cffe81a75b03b106ba8b6ebae538a2df0c882d086e8c3523b9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"The stop during roadworks\".",
+          "options": {
+            "A": "Yes, the route and fare have not changed.",
+            "B": "The notice says until Friday evening, subject to the work finishing.",
+            "C": "It is closed while workers repair the pavement.",
+            "D": "It is about two hundred metres ahead, outside the post office."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出预计期限及条件。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c02caa7ebb81aafd2da2b78722df84ca46645e70ff9987f6212b767eccdf4c13"
+        }
+      ],
+      "contentFingerprint": "a5f43137a3ba81269b5210ecf9c6b0b00f723550306b9e5b320f784c7b1ed337"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A bicycle space on the train",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Traveller: I would like to take my bicycle on the morning train.\nAgent: (1) _____\nTraveller: The departure at nine forty.\nAgent: That service has bookable bicycle spaces.\nTraveller: Can I reserve one with my ticket?\nAgent: (2) _____\nTraveller: Where should I wait on the platform?\nAgent: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, I can add the bicycle reservation now.",
+        "B": "The platform display will show the bicycle carriage position.",
+        "C": "You must ride your bicycle inside the station.",
+        "D": "Which departure do you plan to use?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A bicycle space on the train\".",
+          "options": {
+            "A": "Yes, I can add the bicycle reservation now.",
+            "B": "The platform display will show the bicycle carriage position.",
+            "C": "You must ride your bicycle inside the station.",
+            "D": "Which departure do you plan to use?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先确定具体车次。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5b7a9700cb92fbf7a6c479f534b8306d3fff79d0b55986981eec79c5be2f3462"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A bicycle space on the train\".",
+          "options": {
+            "A": "Yes, I can add the bicycle reservation now.",
+            "B": "The platform display will show the bicycle carriage position.",
+            "C": "You must ride your bicycle inside the station.",
+            "D": "Which departure do you plan to use?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "同意同时预订自行车位。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "42bef3fc9b96cc0389d897e47d0cf6a642fa86fad066ddd015a837a09639dba5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A bicycle space on the train\".",
+          "options": {
+            "A": "Yes, I can add the bicycle reservation now.",
+            "B": "The platform display will show the bicycle carriage position.",
+            "C": "You must ride your bicycle inside the station.",
+            "D": "Which departure do you plan to use?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "告知车厢位置的查阅方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f1ea835e2b7e5c4861147cd63e87a1f30f51a0a4bb0b1c3daf88ad129e804823"
+        }
+      ],
+      "contentFingerprint": "4e69e52f8c065c394723a36c0d25eef47fbe70f4d9b552bf003190bc55f47141"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "A missed connection",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Commuter: Our bus arrived late, and the connecting service has gone.\nAssistant: (1) _____\nCommuter: Westford Industrial Park.\nAssistant: Another bus leaves from Bay Three in fifteen minutes.\nCommuter: (2) _____\nAssistant: Yes, it stops at the park entrance.\nCommuter: (3) _____\nAssistant: Please show your transfer ticket to the driver.",
+      "sharedOptions": {
+        "A": "Where are you trying to get to?",
+        "B": "Does it go directly to the park?",
+        "C": "Can I use my existing transfer ticket?",
+        "D": "The last bus left yesterday."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A missed connection\".",
+          "options": {
+            "A": "Where are you trying to get to?",
+            "B": "Does it go directly to the park?",
+            "C": "Can I use my existing transfer ticket?",
+            "D": "The last bus left yesterday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问目的地方能给替代方案。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0c5c5cc448e55fa475f3e1c0d34b8f8460df8c86163a0d360c3532af59d859f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A missed connection\".",
+          "options": {
+            "A": "Where are you trying to get to?",
+            "B": "Does it go directly to the park?",
+            "C": "Can I use my existing transfer ticket?",
+            "D": "The last bus left yesterday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "确认是否直达园区。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "681e01f00708ae558234c883349d1ee2c2df88903da3fd0f3b6a79cacaf9a4ee"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A missed connection\".",
+          "options": {
+            "A": "Where are you trying to get to?",
+            "B": "Does it go directly to the park?",
+            "C": "Can I use my existing transfer ticket?",
+            "D": "The last bus left yesterday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后句说明换乘票使用方法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "bbe3d34b530080daee197ca6bfc452d901be12d36f7197bf5d82bfcee7235d9f"
+        }
+      ],
+      "contentFingerprint": "040e8478438fbf68164f66278530c4e5945a5ca7b7d3e468ce09c05ad2f00a8f"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The map that omitted the bridge",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A workplace encouraged staff to walk from the station and printed a map showing the shortest route. Several employees reported that the route crossed a footbridge with steep steps. The transport coordinator added a longer route using a level crossing and marked the difference in distance. Neither route was labelled best for everyone. Staff could choose according to their needs, luggage and available time. A useful map supported decisions rather than hiding the trade-off.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The map that omitted the bridge\", What problem did employees identify?",
+          "options": {
+            "A": "A closed level crossing.",
+            "B": "Steep steps on the footbridge.",
+            "C": "A missing railway station.",
+            "D": "An incorrect office name."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最短路线经过陡台阶天桥。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "62c17bc2678a17a7688f58fbc7bf8ee260d22bbc1fa10623a03df49b8990b2d9",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The map that omitted the bridge\", What alternative was added?",
+          "options": {
+            "A": "A route through a private house.",
+            "B": "A shorter tunnel with stairs.",
+            "C": "A longer route without the bridge steps.",
+            "D": "A helicopter service."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "增加经平面道口的较长线路。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "23463ee2f313f32f9160639fcfb17f9e1c6c2e5d44345ee7d20693f793c920f0",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The map that omitted the bridge\", What information helped staff compare routes?",
+          "options": {
+            "A": "The coordinator's age.",
+            "B": "Office meal prices.",
+            "C": "Train colours.",
+            "D": "The difference in distance."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "标明路程差异。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cedb10ca267e60451bc2d43c44b2ece9a433bc0e2d5fc1fc924419bdabb88b13",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The map that omitted the bridge\", Why was neither route called best for everyone?",
+          "options": {
+            "A": "Travellers had different needs.",
+            "B": "Both routes were imaginary.",
+            "C": "Walking was prohibited.",
+            "D": "Every employee carried no luggage."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "需求、行李和时间各异。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "706641ed6760f7fa0102320b7694ffc80c5584e4faf34c497a730d427c5311c4",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The map that omitted the bridge\", What does 'trade-off' refer to here?",
+          "options": {
+            "A": "Exchanging office furniture.",
+            "B": "Balancing distance against route accessibility.",
+            "C": "Trading train tickets.",
+            "D": "Selling a map."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "在较短距离与便于通行之间权衡。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f48c9a50c1fccbf00d994ee3d055f8df30859b29d7077b04560d89808930dd45",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "1ac19fe54156fd7f7f53a0002cea894ca283f18b78ca9296477b60b5bfeabe89"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "When the arrival time moved",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A bus display showed arrival in four minutes, then changed to nine. Passengers assumed the display was broken. The operator added a brief explanation: predictions used the bus's current movement and could change with traffic. It also labelled scheduled times separately from live estimates. Complaints about unexplained changes fell, although delays continued. Better information could not remove congestion, but it helped passengers understand what kind of promise the display was not making.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"When the arrival time moved\", What confused passengers initially?",
+          "options": {
+            "A": "The stop sold no maps.",
+            "B": "Tickets had no numbers.",
+            "C": "An estimated arrival time increased.",
+            "D": "The bus changed colour."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "四分钟变九分钟造成困惑。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a56a18807bd9d5e76db9417f6072438d36c98688fe9fd07d1671703e06b3df5b",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"When the arrival time moved\", What affected live predictions?",
+          "options": {
+            "A": "Passengers' birthdays.",
+            "B": "The driver's favourite music.",
+            "C": "The price of maps.",
+            "D": "The bus's movement and traffic."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "预测随车辆位置和交通变化。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "84c5b4fba01492ddeb564640523f0b04d6075f477ee70078781c81f4bfc3a82d",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"When the arrival time moved\", How were scheduled times presented after the change?",
+          "options": {
+            "A": "Separately from live estimates.",
+            "B": "As guaranteed live arrivals.",
+            "C": "Only on bus seats.",
+            "D": "Without any label."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "计划时间和实时估计分开标注。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b75070cf637d75ac685b89ff43215429e2b1aa7568328e0fa67ca2604c838f95",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"When the arrival time moved\", What decreased despite continuing delays?",
+          "options": {
+            "A": "The cost of congestion.",
+            "B": "Complaints about unexplained changes.",
+            "C": "The number of traffic lights.",
+            "D": "All travel times."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "对变化不明的投诉减少。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6ebc66a45ad79bfe5b7832606b2820ab1accd503ac7ca34ca7e282e726594a4b",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"When the arrival time moved\", What is the passage's main point?",
+          "options": {
+            "A": "Every estimate is a guarantee.",
+            "B": "Passengers should never read displays.",
+            "C": "Explaining uncertainty can improve travel information.",
+            "D": "Predictions eliminate congestion."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "清楚解释预测性质和不确定性。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "435892d08603b6611d0da302141438bf7b606a222658e6039530fde3cb92f820",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "20637aa5e56a877ddb13a8e806cdd0767ea003ede5208a66234c206a7614482b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The empty return journey",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A village minibus took residents to an afternoon market but returned before many stalls closed. Some passengers found lifts home, leaving the return service nearly empty. The operator initially considered cancelling it. A short survey revealed that the departure time, rather than lack of interest, was the problem. Moving the return journey forty minutes later attracted more users. Counting passengers had identified a symptom; asking about their plans helped explain it.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The empty return journey\", What was unusual about the return service?",
+          "options": {
+            "A": "It had no driver.",
+            "B": "It lasted all night.",
+            "C": "It ran only in winter.",
+            "D": "It had very few passengers."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "返程车客少。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f675074b7cf56fba60808d2a04e7b457e42db062aa52e7840348a6191b84f9d0",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The empty return journey\", Why did some residents arrange lifts?",
+          "options": {
+            "A": "The minibus returned too early.",
+            "B": "They disliked every market.",
+            "C": "The village had no road.",
+            "D": "All fares doubled."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "返程早于许多摊位收摊。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "faad2432c2e16e7f0648678d91bc7445beb7ec405eafd35406c6d8577c41bc23",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The empty return journey\", What action was initially considered?",
+          "options": {
+            "A": "Banning lifts.",
+            "B": "Cancelling the return service.",
+            "C": "Opening more stalls.",
+            "D": "Buying a railway."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "运营方最初考虑取消。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2e7acac2889ca00767fffdbf3bc63a3af3828e8c0a623e8a02200b12383ad5df",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The empty return journey\", What change attracted more users?",
+          "options": {
+            "A": "Removing all seats.",
+            "B": "Closing the survey.",
+            "C": "A later return departure.",
+            "D": "An earlier market opening."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "返程推迟四十分钟。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3dae7b5bbd95953bff245a03b047c798eb12578db28574ef340a1e84fefc7753",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The empty return journey\", What does the final sentence distinguish?",
+          "options": {
+            "A": "Markets and hospitals.",
+            "B": "Drivers and vehicles.",
+            "C": "Afternoons and winters.",
+            "D": "Noticing a problem and understanding its cause."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "客流计数见现象，询问出行计划知原因。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2d77596dbde4a7539a9ab272bd82d12c59deefaad793d1e197c4c4fdf8b263b6",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "859f37a31cf6e052631ab51e6451003410349c1f70505d3a556cf80a35c2b1bb"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The travel plan revisited",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Before changing jobs, Dana compared two commutes using a single journey planner result. The shorter trip required two transfers. She tried both routes during her actual working hours and found the longer direct bus more predictable. She also noted the last departure for days when work finished late. Dana chose the direct service most days, while keeping the other route as a backup. Her decision used more than the smallest number on a screen.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The travel plan revisited\", What did the shorter route require?",
+          "options": {
+            "A": "Two transfers.",
+            "B": "A bicycle purchase.",
+            "C": "An overnight stay.",
+            "D": "A boat journey."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "短路线需要两次换乘。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "24076034600efe902ed68d046d52e143950eb9b9d40fb1339368197aa54ff155",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The travel plan revisited\", When did Dana try the routes?",
+          "options": {
+            "A": "Before the bus system opened.",
+            "B": "During her real commuting hours.",
+            "C": "Only at midnight.",
+            "D": "During a foreign holiday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "按实际工作时间体验。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1d4e53bfe51811daa37a2d4be72c5251247e7fc6ba6b557aee7a4317e0a23069",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The travel plan revisited\", What advantage did the direct bus offer?",
+          "options": {
+            "A": "Guaranteed empty seats.",
+            "B": "No timetable.",
+            "C": "More predictable travel.",
+            "D": "Always free tickets."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "直达线路更稳定可预期。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e0b0ff7c25a12d43678609433f5561820a5481bc340b57a325a03f03c0128623",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The travel plan revisited\", Why note the last departure?",
+          "options": {
+            "A": "She wanted to drive the bus.",
+            "B": "Morning travel was impossible.",
+            "C": "Transfers were free only then.",
+            "D": "Work might finish late."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "考虑加班晚下班情况。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "526fa3ef51b0a82bccc269b2cb265e556b604cd9e84882c1ef438512ba2dcd47",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The travel plan revisited\", How did Dana use the alternative route?",
+          "options": {
+            "A": "As a backup.",
+            "B": "As proof that maps were useless.",
+            "C": "As a compulsory daily journey.",
+            "D": "As a route for visitors only."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "保留另一条作为备用。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3d9357c654e01c29f0c95475380a0937b46d491a9a0bbc1b92e1373518411263",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "f67f4cade96771b72d8190dc292469f176f61add2f2342fb4a127353a9c82195"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The temporary stop is _____ beside the post office.",
+      "options": {
+        "A": "borrowed",
+        "B": "cooked",
+        "C": "located",
+        "D": "accused"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "located 表示位于。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "02fdc59ea57b4f0279470d7709a9205bb4d2a4314e20d86d2f18253538da0535"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A direct bus avoids the need to _____ between services.",
+      "options": {
+        "A": "translate",
+        "B": "tremble",
+        "C": "graduate",
+        "D": "transfer"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "transfer 在交通中指换乘。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cccc9c0345cf02fe12a77498dde03ab0768c415b41ac744a2a13b770ca261647"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The arrival display provides an _____ based on current traffic.",
+      "options": {
+        "A": "estimate",
+        "B": "oath",
+        "C": "invoice",
+        "D": "argument"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "estimate 指估计。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3ed0af2da6c2eea3674c02c3cc72fb839b9e6aae74e2281ed2e4cec2685306ed"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The bridge is a _____ for travellers who cannot manage steps.",
+      "options": {
+        "A": "resource",
+        "B": "barrier",
+        "C": "benefit",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "barrier 指障碍。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b473d12e8d1e9f53ebc7fec56a9b9f9a3cbf15fd1ab09141f7388f634b8a40eb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "We kept the second route as a _____ in case the direct bus was cancelled.",
+      "options": {
+        "A": "deadline",
+        "B": "shelter",
+        "C": "backup",
+        "D": "burden"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "backup 为备用方案。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ac67064e7a03f7c9a4819abbbfcaf062956faf1cac5e038f7bb714c62154f305"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Traffic _____ delayed the bus near the market.",
+      "options": {
+        "A": "confidence",
+        "B": "generosity",
+        "C": "permission",
+        "D": "congestion"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "congestion 指拥堵。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fbdfb2da2c13747c2a0b7eb5ede888bdc478a64cf5b5d73a4aba54972468847a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The operator will _____ the return departure by forty minutes.",
+      "options": {
+        "A": "postpone",
+        "B": "predict",
+        "C": "purchase",
+        "D": "permit"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "postpone 表示推迟。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "44ae42bc6d4b3f7429c32539be806cced2cdafd7feb5f3b5dd6eedf5a43d6f60"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A map should show the _____ between the two walking routes.",
+      "options": {
+        "A": "ceiling",
+        "B": "difference",
+        "C": "loyalty",
+        "D": "appetite"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "difference between 表示差异。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e35ed11b97c1fd9924d3ad0ea935809999876d199cfcd438d28f4133f267dccd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The revised schedule made the village service more _____.",
+      "options": {
+        "A": "guilty",
+        "B": "damp",
+        "C": "convenient",
+        "D": "reluctant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "convenient 表示便利。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "03b3897b8e7b7a01879ad09d2154fc081a5d79ca1ccfebf405682c67cd22485b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Passengers need to know whether the connection is _____.",
+      "options": {
+        "A": "decorated",
+        "B": "whispered",
+        "C": "folded",
+        "D": "guaranteed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "guaranteed 表示有保障。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "37ab317321884a273129640106e82172c233ed6f9a8e9523781172e86768f308"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The bridge _____ while the pavement repairs are taking place.",
+      "options": {
+        "A": "is inspecting",
+        "B": "has inspecting",
+        "C": "was inspect",
+        "D": "is being inspected"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "正在被检查，用进行时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c0bd4e5d51742abc5b9707c5199982dd4d0dacabf12cd12759d186c05c348e66"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "If I _____ the direct bus yesterday, I would have arrived on time.",
+      "options": {
+        "A": "had taken",
+        "B": "take",
+        "C": "have taken",
+        "D": "would take"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去虚拟条件用 had done。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a8a566569d082dc6dc0f05ee44643c915cb63c2e8b9687f7ca1acf3c05ad6e20"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The route with fewer transfers _____ often more predictable.",
+      "options": {
+        "A": "be",
+        "B": "is",
+        "C": "are",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "主语 route 单数。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2f15eda637f98ddafd3b5a0b66ea6903f123c592f6a99c3f056ae4f4a8881b56"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The driver told passengers _____ at the temporary stop.",
+      "options": {
+        "A": "waited",
+        "B": "waits",
+        "C": "to wait",
+        "D": "waiting"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "tell somebody to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "01618bf1b3b51133cd0d5b13a8f47806a548d98fd3175aec2d431e6a5e6a0229"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The later bus is not as crowded _____ the earlier one.",
+      "options": {
+        "A": "than",
+        "B": "that",
+        "C": "like to",
+        "D": "as"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "as...as 同级比较。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "31758c6cbd1ce3c4696436fd8403d21026845e0ba293747475d30cf2ca114949"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "We chose the service _____ last departure suited our working hours.",
+      "options": {
+        "A": "whose",
+        "B": "which",
+        "C": "who",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "whose 修饰 last departure。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0cbf28eca0cd1dc6df0211b86c4bbf1c0fadbe8cd37670a5aa9271133e99ee9d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Despite the delay, there was still enough time _____ the connection.",
+      "options": {
+        "A": "catch",
+        "B": "to catch",
+        "C": "catching",
+        "D": "caught"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "enough time to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "25d216e198d5a6cf47b5bc27eb8452a1da7a1e1ed241bbfc62beed4c2ae35bab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Hardly had we reached Bay Three _____ the bus arrived.",
+      "options": {
+        "A": "that",
+        "B": "as if",
+        "C": "when",
+        "D": "than"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "hardly...when 固定结构。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b09c5c4af1cd9da3650699549d8ab41000c125a9f296dec446efc03647da3c02"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The planner showed me _____ to change buses, but not how steep the walk was.",
+      "options": {
+        "A": "what",
+        "B": "whose",
+        "C": "which of",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where to do 表地点。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "46f6e49539ffddbb2628ad7339e33d075bf79314c4835228a1a3923e0a585174"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "All passengers are requested _____ their transfer tickets ready.",
+      "options": {
+        "A": "to have",
+        "B": "having",
+        "C": "had",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "be requested to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "053943695696ad472d76b06b0f8d040464c85d9423e7f38800fc57e53c5a51be"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nThe fastest route on a map is not always the most practical journey. Steps, waiting time and uncertain connections can matter as much as distance. Travellers make better choices when these features are explained clearly. Reliable information does not promise that nothing will change; it helps people prepare for the changes that are possible.",
+      "referenceAnswer": "地图上最快的路线并不总是最实用的出行方式。台阶、等候时间和不确定的换乘可能与距离同样重要。清楚说明这些因素，能帮助出行者作出更好的选择。可靠的信息并不承诺一切不会改变，而是帮助人们为可能发生的变化作准备。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "082d477754ea022bd44d4f8c3ab5b10d0c0ab0bfb609b580890f8946680a87e3",
+      "referenceAnswerFingerprint": "855d1e464e35d0c693db73cd94ffca68c695f0cf0cd8c0fd1227378f63e252ed"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nYour workplace is preparing a commuting guide for new employees. Recommend what the guide should include beyond the shortest route, and explain how it should be kept current.",
+      "sampleAnswer": "A commuting guide should help new employees choose a journey that fits their circumstances. Besides the shortest route, it should show direct services, transfer points and walking routes without steps. The last departure is also important for colleagues who occasionally work late. Scheduled times should be clearly distinguished from live estimates, and the guide should link to current service notices. I suggest putting an update date on every printed copy and asking one staff member to check key information each month. Employees could report temporary changes through a shared contact address. A good guide will not choose for everyone. It will give people enough relevant information to compare speed, convenience and reliability for themselves.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "17080bfd6443965d381ce192d3f653ae07627403f094f9fab440c135ee54bba1",
+      "sampleAnswerFingerprint": "84089b8d8e6715bcb3330e304da87c946071b8a974f9347be551f8f4ced884c6"
+    }
+  ],
+  "fingerprintManifest": [
+    "a5f43137a3ba81269b5210ecf9c6b0b00f723550306b9e5b320f784c7b1ed337",
+    "d23d58b9d9371c6f66d312836d29057c44c64337db633660db83123f0d63d1dd",
+    "0a7affd8e60c9770771465cd4d730b70bf49e7451b9345bc760996cfb867c5ed",
+    "698319c5f496d7cffe81a75b03b106ba8b6ebae538a2df0c882d086e8c3523b9",
+    "c02caa7ebb81aafd2da2b78722df84ca46645e70ff9987f6212b767eccdf4c13",
+    "4e69e52f8c065c394723a36c0d25eef47fbe70f4d9b552bf003190bc55f47141",
+    "5b7a9700cb92fbf7a6c479f534b8306d3fff79d0b55986981eec79c5be2f3462",
+    "42bef3fc9b96cc0389d897e47d0cf6a642fa86fad066ddd015a837a09639dba5",
+    "f1ea835e2b7e5c4861147cd63e87a1f30f51a0a4bb0b1c3daf88ad129e804823",
+    "040e8478438fbf68164f66278530c4e5945a5ca7b7d3e468ce09c05ad2f00a8f",
+    "0c5c5cc448e55fa475f3e1c0d34b8f8460df8c86163a0d360c3532af59d859f8",
+    "681e01f00708ae558234c883349d1ee2c2df88903da3fd0f3b6a79cacaf9a4ee",
+    "bbe3d34b530080daee197ca6bfc452d901be12d36f7197bf5d82bfcee7235d9f",
+    "1ac19fe54156fd7f7f53a0002cea894ca283f18b78ca9296477b60b5bfeabe89",
+    "62c17bc2678a17a7688f58fbc7bf8ee260d22bbc1fa10623a03df49b8990b2d9",
+    "23463ee2f313f32f9160639fcfb17f9e1c6c2e5d44345ee7d20693f793c920f0",
+    "cedb10ca267e60451bc2d43c44b2ece9a433bc0e2d5fc1fc924419bdabb88b13",
+    "706641ed6760f7fa0102320b7694ffc80c5584e4faf34c497a730d427c5311c4",
+    "f48c9a50c1fccbf00d994ee3d055f8df30859b29d7077b04560d89808930dd45",
+    "20637aa5e56a877ddb13a8e806cdd0767ea003ede5208a66234c206a7614482b",
+    "a56a18807bd9d5e76db9417f6072438d36c98688fe9fd07d1671703e06b3df5b",
+    "84c5b4fba01492ddeb564640523f0b04d6075f477ee70078781c81f4bfc3a82d",
+    "b75070cf637d75ac685b89ff43215429e2b1aa7568328e0fa67ca2604c838f95",
+    "6ebc66a45ad79bfe5b7832606b2820ab1accd503ac7ca34ca7e282e726594a4b",
+    "435892d08603b6611d0da302141438bf7b606a222658e6039530fde3cb92f820",
+    "859f37a31cf6e052631ab51e6451003410349c1f70505d3a556cf80a35c2b1bb",
+    "f675074b7cf56fba60808d2a04e7b457e42db062aa52e7840348a6191b84f9d0",
+    "faad2432c2e16e7f0648678d91bc7445beb7ec405eafd35406c6d8577c41bc23",
+    "2e7acac2889ca00767fffdbf3bc63a3af3828e8c0a623e8a02200b12383ad5df",
+    "3dae7b5bbd95953bff245a03b047c798eb12578db28574ef340a1e84fefc7753",
+    "2d77596dbde4a7539a9ab272bd82d12c59deefaad793d1e197c4c4fdf8b263b6",
+    "f67f4cade96771b72d8190dc292469f176f61add2f2342fb4a127353a9c82195",
+    "24076034600efe902ed68d046d52e143950eb9b9d40fb1339368197aa54ff155",
+    "1d4e53bfe51811daa37a2d4be72c5251247e7fc6ba6b557aee7a4317e0a23069",
+    "e0b0ff7c25a12d43678609433f5561820a5481bc340b57a325a03f03c0128623",
+    "526fa3ef51b0a82bccc269b2cb265e556b604cd9e84882c1ef438512ba2dcd47",
+    "3d9357c654e01c29f0c95475380a0937b46d491a9a0bbc1b92e1373518411263",
+    "02fdc59ea57b4f0279470d7709a9205bb4d2a4314e20d86d2f18253538da0535",
+    "cccc9c0345cf02fe12a77498dde03ab0768c415b41ac744a2a13b770ca261647",
+    "3ed0af2da6c2eea3674c02c3cc72fb839b9e6aae74e2281ed2e4cec2685306ed",
+    "b473d12e8d1e9f53ebc7fec56a9b9f9a3cbf15fd1ab09141f7388f634b8a40eb",
+    "ac67064e7a03f7c9a4819abbbfcaf062956faf1cac5e038f7bb714c62154f305",
+    "fbdfb2da2c13747c2a0b7eb5ede888bdc478a64cf5b5d73a4aba54972468847a",
+    "44ae42bc6d4b3f7429c32539be806cced2cdafd7feb5f3b5dd6eedf5a43d6f60",
+    "e35ed11b97c1fd9924d3ad0ea935809999876d199cfcd438d28f4133f267dccd",
+    "03b3897b8e7b7a01879ad09d2154fc081a5d79ca1ccfebf405682c67cd22485b",
+    "37ab317321884a273129640106e82172c233ed6f9a8e9523781172e86768f308",
+    "c0bd4e5d51742abc5b9707c5199982dd4d0dacabf12cd12759d186c05c348e66",
+    "a8a566569d082dc6dc0f05ee44643c915cb63c2e8b9687f7ca1acf3c05ad6e20",
+    "2f15eda637f98ddafd3b5a0b66ea6903f123c592f6a99c3f056ae4f4a8881b56",
+    "01618bf1b3b51133cd0d5b13a8f47806a548d98fd3175aec2d431e6a5e6a0229",
+    "31758c6cbd1ce3c4696436fd8403d21026845e0ba293747475d30cf2ca114949",
+    "0cbf28eca0cd1dc6df0211b86c4bbf1c0fadbe8cd37670a5aa9271133e99ee9d",
+    "25d216e198d5a6cf47b5bc27eb8452a1da7a1e1ed241bbfc62beed4c2ae35bab",
+    "b09c5c4af1cd9da3650699549d8ab41000c125a9f296dec446efc03647da3c02",
+    "46f6e49539ffddbb2628ad7339e33d075bf79314c4835228a1a3923e0a585174",
+    "053943695696ad472d76b06b0f8d040464c85d9423e7f38800fc57e53c5a51be",
+    "082d477754ea022bd44d4f8c3ab5b10d0c0ab0bfb609b580890f8946680a87e3",
+    "855d1e464e35d0c693db73cd94ffca68c695f0cf0cd8c0fd1227378f63e252ed",
+    "17080bfd6443965d381ce192d3f653ae07627403f094f9fab440c135ee54bba1",
+    "84089b8d8e6715bcb3330e304da87c946071b8a974f9347be551f8f4ced884c6"
+  ],
+  "contentFingerprint": "c732abd406891836c729d73b41d3b4d859d0beefb82aec3b3eb8f86e322d1eb2"
+}

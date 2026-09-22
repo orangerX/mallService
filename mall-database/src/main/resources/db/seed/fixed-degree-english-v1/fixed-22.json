@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-22",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 22 · 交接记录与工作协作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 22,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "The missing delivery note",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Nora: The boxes arrived, but I cannot find a delivery note.\nSam: (1) _____\nNora: I checked there; only the address label remains.\nSam: I'll ask the driver for an electronic copy.\nNora: Can I put the boxes into available stock?\nSam: (2) _____\nNora: Where shall I keep them meanwhile?\nSam: (3) _____\nNora: Will you tell the next shift?\nSam: (4) _____",
+      "sharedOptions": {
+        "A": "Use the marked holding area beside the desk.",
+        "B": "Yes, I will record the pending check in the handover log.",
+        "C": "Could the note be inside the outer wrapping?",
+        "D": "Wait until we match the quantities to the order."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"The missing delivery note\".",
+          "options": {
+            "A": "Use the marked holding area beside the desk.",
+            "B": "Yes, I will record the pending check in the handover log.",
+            "C": "Could the note be inside the outer wrapping?",
+            "D": "Wait until we match the quantities to the order."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "下句说明检查结果，先建议检查外包装。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a18574a490d666ddb6237d4bd7b1168ee03ec2405755019984e3af955b97bcd4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"The missing delivery note\".",
+          "options": {
+            "A": "Use the marked holding area beside the desk.",
+            "B": "Yes, I will record the pending check in the handover log.",
+            "C": "Could the note be inside the outer wrapping?",
+            "D": "Wait until we match the quantities to the order."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答库存入账问题，要求先核数量。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "15819d4c9e6d25668fb71ffbc19bf87ca599816d8b884c5874f73961fec776b6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"The missing delivery note\".",
+          "options": {
+            "A": "Use the marked holding area beside the desk.",
+            "B": "Yes, I will record the pending check in the handover log.",
+            "C": "Could the note be inside the outer wrapping?",
+            "D": "Wait until we match the quantities to the order."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "回答暂存地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "19b6590c15c3a0c099309a8a914e3820061decb888fcee30eae326fb4ac01769"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"The missing delivery note\".",
+          "options": {
+            "A": "Use the marked holding area beside the desk.",
+            "B": "Yes, I will record the pending check in the handover log.",
+            "C": "Could the note be inside the outer wrapping?",
+            "D": "Wait until we match the quantities to the order."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "答应向下一班传递未完成的核对事项。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9817d1e6c63bc1613cd93eb79072ce141ea97c6ac928be8f185387b000dbb742"
+        }
+      ],
+      "contentFingerprint": "651e38bff5906286d040f66c788cad539c2fe640f670451987c7d53288b41ba4"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying responsibility",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Manager: Two people have contacted the same supplier this morning.\nIris: (1) _____\nManager: Yes, neither knew the other had called.\nIris: (2) _____\nManager: A named contact would help. Could you take that role this week?\nIris: Certainly. (3) _____\nManager: Put them in the shared request list.",
+      "sharedOptions": {
+        "A": "Shall we choose one person to handle supplier calls?",
+        "B": "Where should colleagues send their questions?",
+        "C": "We should place the order twice.",
+        "D": "Were they asking about the same order?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Clarifying responsibility\".",
+          "options": {
+            "A": "Shall we choose one person to handle supplier calls?",
+            "B": "Where should colleagues send their questions?",
+            "C": "We should place the order twice.",
+            "D": "Were they asking about the same order?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "核实是否同一订单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4351e9c7b873c0179fa87add5fd88cda49f566c71ad49730c58d658325fee4f1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Clarifying responsibility\".",
+          "options": {
+            "A": "Shall we choose one person to handle supplier calls?",
+            "B": "Where should colleagues send their questions?",
+            "C": "We should place the order twice.",
+            "D": "Were they asking about the same order?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提出专人联系，后句认可。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6690c7f09c3b2b0a79e1380d4c18b3e1d480be899ade4f4eb3efb4de711b0a79"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Clarifying responsibility\".",
+          "options": {
+            "A": "Shall we choose one person to handle supplier calls?",
+            "B": "Where should colleagues send their questions?",
+            "C": "We should place the order twice.",
+            "D": "Were they asking about the same order?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后句给出问题收集位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "42e8a741abe41675cc2ac269ee1bec91d493319b4193db43cce35e839132def7"
+        }
+      ],
+      "contentFingerprint": "92f17b7fc8ad647b99b22cc42a801d7bfb4f12cb68e2477ab4250a1566b2f80b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Correcting a shift entry",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Joel: My handover says the pump was inspected at six, but it was actually seven.\nAva: (1) _____\nJoel: Should I erase the original time?\nAva: (2) _____\nJoel: I'll add a dated correction now.\nAva: (3) _____\nJoel: Good point; they are planning the next check.",
+      "sharedOptions": {
+        "A": "Please correct it before the next team relies on it.",
+        "B": "Keep the original entry readable and add the correct time.",
+        "C": "Also tell the incoming supervisor about the change.",
+        "D": "Leave the mistake until next month."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Correcting a shift entry\".",
+          "options": {
+            "A": "Please correct it before the next team relies on it.",
+            "B": "Keep the original entry readable and add the correct time.",
+            "C": "Also tell the incoming supervisor about the change.",
+            "D": "Leave the mistake until next month."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提醒记录将被使用，应及时更正。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0cf41ca3d20dd1fddfcdbd5b2378103abcf15d5e345089f690c3045768038f31"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Correcting a shift entry\".",
+          "options": {
+            "A": "Please correct it before the next team relies on it.",
+            "B": "Keep the original entry readable and add the correct time.",
+            "C": "Also tell the incoming supervisor about the change.",
+            "D": "Leave the mistake until next month."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "保留原记录并追加更正。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ff0103914543804d437b3e1cdf4a2ad289e67e7250a54f11e6ef05251e5be132"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Correcting a shift entry\".",
+          "options": {
+            "A": "Please correct it before the next team relies on it.",
+            "B": "Keep the original entry readable and add the correct time.",
+            "C": "Also tell the incoming supervisor about the change.",
+            "D": "Leave the mistake until next month."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "安排下一次检查的人也需获知。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d9a50df336a168c0f5b084c4aff8fff7d725e18ff1c4a4ac851d36aa5a88fdb7"
+        }
+      ],
+      "contentFingerprint": "c5181f5ef9cb05adfb5db91f7a19b8664d054b2464efc1adda3540dc0fb6596a"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A question beside the number",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "At a packing workshop, the handover sheet listed output but rarely explained delays. When output fell, the morning team often repeated checks already completed at night. Supervisor Ellis added a space headed 'What still needs attention?' Workers recorded a loose belt there and named the mechanic they had contacted. The morning team could begin with that information. Ellis kept the form to one page, fearing that a long report would be ignored during a busy change of shift.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"A question beside the number\", What was missing from the original handover?",
+          "options": {
+            "A": "The workshop address.",
+            "B": "Reasons for delays.",
+            "C": "Production numbers.",
+            "D": "Workers' lunch choices."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原表有产量，少有延误说明。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fb1f2500299ea5f3776e2c79f79c8115dfe3271d82a372aefd8a87a2a3ffa137",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"A question beside the number\", Why did the morning team repeat checks?",
+          "options": {
+            "A": "The mechanic demanded repetition.",
+            "B": "The workshop had no supervisor.",
+            "C": "Earlier work was not clearly recorded.",
+            "D": "All belts were new."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "记录缺少说明导致重复检查。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8deb12bd17030e02dacefcfcaa5399176ddfc74271a95b5fdee00d2a801b1b96",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"A question beside the number\", What did the new space ask workers to record?",
+          "options": {
+            "A": "Personal holidays.",
+            "B": "Every previous order.",
+            "C": "Their favourite machines.",
+            "D": "Unresolved matters."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "栏目关注仍需处理的问题。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ec5ac9c2be8559ea0df3d83b74d7df4d1a3fdd5d9a845691b85f4544afbd1253",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"A question beside the number\", Why was the mechanic named?",
+          "options": {
+            "A": "To show who had been contacted.",
+            "B": "To replace the supervisor.",
+            "C": "To publish a private biography.",
+            "D": "To remove responsibility."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "姓名让接班者知道已联系谁。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3e4c16a30ae4067c8f79d7243a954f8866049c22087b4760cab4eb3ceea59379",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"A question beside the number\", What concern shaped Ellis's one-page form?",
+          "options": {
+            "A": "Only managers could write.",
+            "B": "A lengthy report might go unread.",
+            "C": "Paper was prohibited.",
+            "D": "Output could not be counted."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "他担心交班繁忙时忽略长报告。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e57aac59352f6aab14df3c54232db4ed14fbc59e0baaf327bedb4c92c04e844e",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "8ee7172490df9dd95592d010bbb13b9dbc6478b5da45a413c93fdff3547cd8a9"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The promise on the telephone",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A customer asked a repair company for a completion date. Two employees had previously offered different dates because each checked a separate schedule. The company introduced one visible booking board, and only confirmed bookings could support a promise. Staff could still give estimates, but had to label them clearly. Customers did not always receive earlier dates. They did, however, receive fewer conflicting messages. The manager judged consistency as valuable as speed because customers arranged their own work around the information.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The promise on the telephone\", What caused the conflicting dates?",
+          "options": {
+            "A": "All repairs took one day.",
+            "B": "The booking board was empty.",
+            "C": "Employees consulted different schedules.",
+            "D": "Customers refused to call."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "此前每人查看不同时间表。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b98351b3b6f5da53a5922c2cb65f2a99542968a2208678d405aeae52273cc99d",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The promise on the telephone\", What could support a firm promise after the change?",
+          "options": {
+            "A": "An employee's guess.",
+            "B": "An old advertisement.",
+            "C": "A customer's preference alone.",
+            "D": "A confirmed booking."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "只有确认的预约可支持承诺。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4acd5bc9e06f7a09d58a50084781375f7b8f51f6476de341bbab9210e9b4ba0f",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The promise on the telephone\", How should estimates be communicated?",
+          "options": {
+            "A": "Clearly identified as estimates.",
+            "B": "Presented as guarantees.",
+            "C": "Hidden from every customer.",
+            "D": "Printed without dates."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "估计仍可给出，但要标明性质。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "484b18de152d06296008a1f73ab95a3f53c39d817a4a6a3fb8f8886567490547",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The promise on the telephone\", What improved even when repairs were not earlier?",
+          "options": {
+            "A": "The number of separate schedules.",
+            "B": "Consistency of messages.",
+            "C": "The size of the workshop.",
+            "D": "The price of every service."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "信息矛盾减少，时间未必提前。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "20f4352a769430a7fe0bf514d67fbf2c59f1b59299012c6f012f8db7e6312d9a",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The promise on the telephone\", Why did consistency matter to customers?",
+          "options": {
+            "A": "They preferred confusing calls.",
+            "B": "They never needed repairs.",
+            "C": "They planned their work around the dates.",
+            "D": "They managed the repair staff."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "客户依据信息安排自己的工作。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "adf3458438969a6e36c7f70007a7392d52b9b4955d749030c3f17faca95dd24d",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "8b83b5f79e10e29d267d9f431fcc5e0759e16b54ba982d9b87d074bee0ba8c15"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A trial with a return path",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An office replaced its paper request form with a digital version for a two-week trial. Instead of discarding the old forms, the coordinator kept a small supply for interruptions. During the trial, a network failure lasted one morning. Staff used numbered paper forms and entered them online when service returned, marking the originals as transferred. This prevented duplicate requests. The coordinator's report included the recovery process as well as the usual processing time: a system's usefulness depended partly on what happened when it stopped working.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"A trial with a return path\", How long was the digital-form trial?",
+          "options": {
+            "A": "One morning.",
+            "B": "Six months.",
+            "C": "Three days.",
+            "D": "Two weeks."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "首句明确为两周。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d980f9540a205fec661265dbb30a9b1ed150e942044f5b57dc3704c588970ae4",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A trial with a return path\", Why were paper forms retained?",
+          "options": {
+            "A": "To handle service interruptions.",
+            "B": "To double every request.",
+            "C": "To cancel the trial immediately.",
+            "D": "To avoid collecting any data."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "留备用纸表应对中断。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4b897f2b616c151f9773b5af3fca4612263372b87b788f2544919c74f260fc14",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"A trial with a return path\", What happened after network service returned?",
+          "options": {
+            "A": "Staff stopped processing requests.",
+            "B": "Paper requests were entered online.",
+            "C": "All requests were destroyed.",
+            "D": "Numbers were removed."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "恢复后将纸表信息录入系统。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9d1ff6ba60c73e712d8dfced26f2e82e09722f9b7cb4a9b5e168c640220376f4",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A trial with a return path\", Why mark originals as transferred?",
+          "options": {
+            "A": "To increase paper use.",
+            "B": "To delay recovery.",
+            "C": "To prevent duplicate requests.",
+            "D": "To hide the failure."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "转录标记防止重复处理。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7e22cb660d0b76a1ed1b9f3b00ee9f3d3438de717c04d5746332636003511a2c",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"A trial with a return path\", What broader lesson does the report suggest?",
+          "options": {
+            "A": "Digital systems never fail.",
+            "B": "Speed is the only useful measure.",
+            "C": "Paper must always replace computers.",
+            "D": "Recovery arrangements affect system usefulness."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "报告把恢复流程纳入评价。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3ae43afe57743da2e830e38e0b5b12cd956be60043216969d5a2700b460dd60d",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "5fe5f22ccf7c91d055b6a1ecc8cea6f279c5e7eefcc4937942a6b18af0b13b90"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The instruction written by its reader",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A technician wrote a guide for changing printer labels. She initially used abbreviations familiar to her team. A new colleague followed the guide while she watched silently and stopped at an unexplained code. Rather than merely telling him its meaning, she revised the sentence and added a small drawing. Another newcomer then completed the task without help. The technician had not made the procedure less precise. She had removed assumptions about what a reader already knew.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The instruction written by its reader\", Who first encountered difficulty using the guide?",
+          "options": {
+            "A": "A new colleague.",
+            "B": "The printer manufacturer.",
+            "C": "Every experienced technician.",
+            "D": "A customer ordering labels."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "新同事不理解缩写。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4fba5b7ca93e520fe515d7f0a5e5e6c7358e1ce32e2bd6dcbaf6c280f0c49ab1",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The instruction written by its reader\", What caused the pause?",
+          "options": {
+            "A": "A cancelled order.",
+            "B": "An unexplained code.",
+            "C": "A missing printer.",
+            "D": "A locked door."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原文明确为未解释的代码。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b0c3f3f152fb85a04d03798f96cbf8097c90dd088c120324edc14c94c4507789",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The instruction written by its reader\", What did the technician change?",
+          "options": {
+            "A": "The colleague's job.",
+            "B": "The label supplier.",
+            "C": "A sentence and an illustration.",
+            "D": "The entire machine."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "修改句子并增加小图。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "04f3bb1fc206d0ebd3501f0d8a998190bbdcc3f569bc28eb765f63286f76d628",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The instruction written by its reader\", What did the second newcomer demonstrate?",
+          "options": {
+            "A": "The task was unnecessary.",
+            "B": "Abbreviations were always clearer.",
+            "C": "All drawings should be removed.",
+            "D": "The revised guide could be used independently."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后来者无帮助完成任务。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6c4b476b151b7a41004539e651bdaaeb19fddb355c54b1b2d6a2f679418e28c1",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The instruction written by its reader\", What is the passage mainly about?",
+          "options": {
+            "A": "Writing instructions with readers' knowledge in mind.",
+            "B": "Buying faster printers.",
+            "C": "Avoiding all technical accuracy.",
+            "D": "Selecting experienced customers."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "核心是消除对读者既有知识的假设。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "02576ed2478258a225b34bcfff21256a43d0210f54370ae08065a4f06c702101",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "ef757afb9b7f98cadbb9397e1bf258d679f77bed33281f916daeec627a2c08d9"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The handover note should _____ any unfinished repairs.",
+      "options": {
+        "A": "freeze",
+        "B": "wander",
+        "C": "identify",
+        "D": "entertain"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "identify 表示明确指出。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1d84e9fed6d349ba4115b075b3549efe7a66cb175a211e18eca8e0a95ddb4901"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A _____ record helps the next shift understand events in order.",
+      "options": {
+        "A": "portable",
+        "B": "generous",
+        "C": "damp",
+        "D": "chronological"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "chronological 指按时间顺序。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6fe6374308ed4411bb520d809ae3fc2997b79251424ff0f1ff697ccbd32757c3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Do not make a delivery _____ until the booking is confirmed.",
+      "options": {
+        "A": "promise",
+        "B": "shadow",
+        "C": "journey",
+        "D": "remedy"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "make a promise 表示作出承诺。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "549d85974a6a418f724d7ef38f898a60d2a0c750fd11fa1ec3b007f58f80f184"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The new diagram _____ the written instructions.",
+      "options": {
+        "A": "withdraws",
+        "B": "supplements",
+        "C": "suspects",
+        "D": "trembles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "supplement 表示补充。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "516db1996e02e1deaa060943a88b1cf1a4da176017f0fb7eec88cf51e1fb0371"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "We need a _____ supply of forms during network interruptions.",
+      "options": {
+        "A": "remote",
+        "B": "delicate",
+        "C": "reserve",
+        "D": "violent"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "reserve supply 为备用供应。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bfa0ea2bc30f2054b907f76ca2ae2ce4756c5b51f5cd19f38ffe2284c80240fc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The supervisor accepted _____ for the incorrect entry.",
+      "options": {
+        "A": "temperature",
+        "B": "distance",
+        "C": "furniture",
+        "D": "responsibility"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accept responsibility 表示承担责任。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "44d6aa4c3ec762bd42014de198797a9e08ec65e26bca899881bb9eb5b484877d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The two reports _____ each other on the time of the failure.",
+      "options": {
+        "A": "contradict",
+        "B": "resemble",
+        "C": "support",
+        "D": "complete"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "不同时间记载相互矛盾。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "80d2469002238015c71dff1ec13a8724cc6a6b0fa0516ce368fac9d91cbe2235"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Please _____ the customer that the quoted date is only an estimate.",
+      "options": {
+        "A": "reward",
+        "B": "remind",
+        "C": "remove",
+        "D": "repair"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "remind somebody that 提醒某人。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d5ae9d9f8725bbc761fec22ba39543b98102bee0035b07b5e4a0db659c943ecc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The redesigned log reduced _____ work across shifts.",
+      "options": {
+        "A": "invisible",
+        "B": "annual",
+        "C": "duplicate",
+        "D": "tropical"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "duplicate work 指重复工作。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a9dc5851e2a1f15ddd989468272b49a5f7a681a2971efe933df5634e94c84823"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "A useful procedure remains clear under _____ conditions.",
+      "options": {
+        "A": "edible",
+        "B": "musical",
+        "C": "circular",
+        "D": "ordinary"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "ordinary conditions 指正常情况。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f3cf61a9972883869bf5d961eecb91e59e3b6e026fcb103d8a31df31b1d9cec0"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The spare forms _____ in the blue cabinet whenever the network fails.",
+      "options": {
+        "A": "keeps",
+        "B": "is keeping",
+        "C": "has keeping",
+        "D": "are kept"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "forms 与 keep 为被动关系。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "21eeeb6131753932eb997a76b8be2b8a11d4e6062849783642994828e7a46901"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "No sooner had the shift ended _____ the supplier called.",
+      "options": {
+        "A": "than",
+        "B": "when",
+        "C": "that",
+        "D": "as"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "no sooner...than 为固定搭配。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "535753a04933c75549cdb896e6fb647ad8942b52d990089ce6ceae8816b6b759"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The employee to _____ I gave the delivery note has left.",
+      "options": {
+        "A": "what",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "介词后指人用 whom。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "baa7c5a0867610b0f6080d2768ec1f0fcd15108f0941f793096e18bbcb74f6b6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Unless the quantities match, the stock _____ released.",
+      "options": {
+        "A": "has not being",
+        "B": "not is",
+        "C": "will not be",
+        "D": "would not have"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless 条件从句一般现在时，主句可用将来时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7beba7849d56cadab6d4c0849a3ee98bc081eb43fef41e55275e8381ac4223d2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The coordinator made every team member _____ the updated schedule.",
+      "options": {
+        "A": "to read",
+        "B": "reading",
+        "C": "reads",
+        "D": "read"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "make somebody do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "91453cd2e0a8be54bfbd6db1e9563730572855d1e53a0d4a8d0dfd87b14c5dc9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "There _____ several reasons for keeping a paper backup.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "be"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "several reasons 为复数。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "231ef7d242e54bbfd433e2475ef73a8ed4002f2ff097251e42dbc60594d2f5a2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The date recorded here is different from _____ we agreed yesterday.",
+      "options": {
+        "A": "where",
+        "B": "what",
+        "C": "which of",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "what 引导宾语从句，作 agreed 的宾语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "87217ec732902a54ef951df6d40b1681759dd9895bb41d1fc75d0ff1002a54df"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Having _____ the correction, Joel informed the incoming team.",
+      "options": {
+        "A": "entering",
+        "B": "to enter",
+        "C": "entered",
+        "D": "enter"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "having done 为完成式分词结构。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d91c95c70d892078acd457aadc858a4d1e3420f203e1f2ea1d9deca1507f3ee7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The supervisor asked whether the mechanic _____ contacted already.",
+      "options": {
+        "A": "has being",
+        "B": "was being to",
+        "C": "would had",
+        "D": "had been"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去视角下此前已被联系，用过去完成时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "19acd22d3a2135316fc1f687ea630db3b5e409cd5620c9724fe1bf66821b69a7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The report was clear enough _____ without a phone call.",
+      "options": {
+        "A": "to understand",
+        "B": "understanding",
+        "C": "understood",
+        "D": "understands"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "形容词 enough 后接不定式。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "434c64732f1b79b5f5b5906c8fae5383b91ecfb88ceb7410a0f3e78df41dd8ee"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nA handover record is a conversation between people who may never meet. Numbers show what has been completed, while short explanations show what remains uncertain. The writer should imagine the next person's first question. A useful record makes that question easier to answer and reduces the need to repeat work that has already been done.",
+      "referenceAnswer": "交接记录是可能从未见面的人之间的对话。数字表明已经完成了什么，而简短说明则表明还有哪些不确定之处。记录者应设想接班人会提出的第一个问题。有用的记录能使这个问题更容易得到回答，并减少重复已经完成的工作的必要。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "1f145e002e4113d30d80a232a525f282e03697913637a2de8ee813edb355b83b",
+      "referenceAnswerFingerprint": "ceca327a0e960455d9ef2a5cfe1b782dcf6a94ff0b1b6838be7a9219798be39b"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nYour department often repeats unfinished checks after shift changes. Write a proposal for a one-page handover form. Describe three fields it should include and explain how staff should use it.",
+      "sampleAnswer": "Our department needs a handover form that helps the next team act quickly. I propose three main fields: completed work, unresolved problems, and the person already contacted about each problem. Staff should record facts briefly rather than write a long account of the whole shift. If a repair is waiting for a specialist, the next team should be able to see that immediately. The outgoing supervisor could spend five minutes checking the form with a colleague before leaving. Corrections should be dated so that nobody mistakes an old entry for current information. After a month, we could ask both shifts which fields they actually use. This would help us improve the form while keeping it short.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "2c3a3883bef339325505a1d51b1fc3b954a72db65d6658d9828d8efd5080d383",
+      "sampleAnswerFingerprint": "0a800cda4f04d175ccbb534bbdbfd58128d2d2114a1e6ee253f9f395cb99d181"
+    }
+  ],
+  "fingerprintManifest": [
+    "651e38bff5906286d040f66c788cad539c2fe640f670451987c7d53288b41ba4",
+    "a18574a490d666ddb6237d4bd7b1168ee03ec2405755019984e3af955b97bcd4",
+    "15819d4c9e6d25668fb71ffbc19bf87ca599816d8b884c5874f73961fec776b6",
+    "19b6590c15c3a0c099309a8a914e3820061decb888fcee30eae326fb4ac01769",
+    "9817d1e6c63bc1613cd93eb79072ce141ea97c6ac928be8f185387b000dbb742",
+    "92f17b7fc8ad647b99b22cc42a801d7bfb4f12cb68e2477ab4250a1566b2f80b",
+    "4351e9c7b873c0179fa87add5fd88cda49f566c71ad49730c58d658325fee4f1",
+    "6690c7f09c3b2b0a79e1380d4c18b3e1d480be899ade4f4eb3efb4de711b0a79",
+    "42e8a741abe41675cc2ac269ee1bec91d493319b4193db43cce35e839132def7",
+    "c5181f5ef9cb05adfb5db91f7a19b8664d054b2464efc1adda3540dc0fb6596a",
+    "0cf41ca3d20dd1fddfcdbd5b2378103abcf15d5e345089f690c3045768038f31",
+    "ff0103914543804d437b3e1cdf4a2ad289e67e7250a54f11e6ef05251e5be132",
+    "d9a50df336a168c0f5b084c4aff8fff7d725e18ff1c4a4ac851d36aa5a88fdb7",
+    "8ee7172490df9dd95592d010bbb13b9dbc6478b5da45a413c93fdff3547cd8a9",
+    "fb1f2500299ea5f3776e2c79f79c8115dfe3271d82a372aefd8a87a2a3ffa137",
+    "8deb12bd17030e02dacefcfcaa5399176ddfc74271a95b5fdee00d2a801b1b96",
+    "ec5ac9c2be8559ea0df3d83b74d7df4d1a3fdd5d9a845691b85f4544afbd1253",
+    "3e4c16a30ae4067c8f79d7243a954f8866049c22087b4760cab4eb3ceea59379",
+    "e57aac59352f6aab14df3c54232db4ed14fbc59e0baaf327bedb4c92c04e844e",
+    "8b83b5f79e10e29d267d9f431fcc5e0759e16b54ba982d9b87d074bee0ba8c15",
+    "b98351b3b6f5da53a5922c2cb65f2a99542968a2208678d405aeae52273cc99d",
+    "4acd5bc9e06f7a09d58a50084781375f7b8f51f6476de341bbab9210e9b4ba0f",
+    "484b18de152d06296008a1f73ab95a3f53c39d817a4a6a3fb8f8886567490547",
+    "20f4352a769430a7fe0bf514d67fbf2c59f1b59299012c6f012f8db7e6312d9a",
+    "adf3458438969a6e36c7f70007a7392d52b9b4955d749030c3f17faca95dd24d",
+    "5fe5f22ccf7c91d055b6a1ecc8cea6f279c5e7eefcc4937942a6b18af0b13b90",
+    "d980f9540a205fec661265dbb30a9b1ed150e942044f5b57dc3704c588970ae4",
+    "4b897f2b616c151f9773b5af3fca4612263372b87b788f2544919c74f260fc14",
+    "9d1ff6ba60c73e712d8dfced26f2e82e09722f9b7cb4a9b5e168c640220376f4",
+    "7e22cb660d0b76a1ed1b9f3b00ee9f3d3438de717c04d5746332636003511a2c",
+    "3ae43afe57743da2e830e38e0b5b12cd956be60043216969d5a2700b460dd60d",
+    "ef757afb9b7f98cadbb9397e1bf258d679f77bed33281f916daeec627a2c08d9",
+    "4fba5b7ca93e520fe515d7f0a5e5e6c7358e1ce32e2bd6dcbaf6c280f0c49ab1",
+    "b0c3f3f152fb85a04d03798f96cbf8097c90dd088c120324edc14c94c4507789",
+    "04f3bb1fc206d0ebd3501f0d8a998190bbdcc3f569bc28eb765f63286f76d628",
+    "6c4b476b151b7a41004539e651bdaaeb19fddb355c54b1b2d6a2f679418e28c1",
+    "02576ed2478258a225b34bcfff21256a43d0210f54370ae08065a4f06c702101",
+    "1d84e9fed6d349ba4115b075b3549efe7a66cb175a211e18eca8e0a95ddb4901",
+    "6fe6374308ed4411bb520d809ae3fc2997b79251424ff0f1ff697ccbd32757c3",
+    "549d85974a6a418f724d7ef38f898a60d2a0c750fd11fa1ec3b007f58f80f184",
+    "516db1996e02e1deaa060943a88b1cf1a4da176017f0fb7eec88cf51e1fb0371",
+    "bfa0ea2bc30f2054b907f76ca2ae2ce4756c5b51f5cd19f38ffe2284c80240fc",
+    "44d6aa4c3ec762bd42014de198797a9e08ec65e26bca899881bb9eb5b484877d",
+    "80d2469002238015c71dff1ec13a8724cc6a6b0fa0516ce368fac9d91cbe2235",
+    "d5ae9d9f8725bbc761fec22ba39543b98102bee0035b07b5e4a0db659c943ecc",
+    "a9dc5851e2a1f15ddd989468272b49a5f7a681a2971efe933df5634e94c84823",
+    "f3cf61a9972883869bf5d961eecb91e59e3b6e026fcb103d8a31df31b1d9cec0",
+    "21eeeb6131753932eb997a76b8be2b8a11d4e6062849783642994828e7a46901",
+    "535753a04933c75549cdb896e6fb647ad8942b52d990089ce6ceae8816b6b759",
+    "baa7c5a0867610b0f6080d2768ec1f0fcd15108f0941f793096e18bbcb74f6b6",
+    "7beba7849d56cadab6d4c0849a3ee98bc081eb43fef41e55275e8381ac4223d2",
+    "91453cd2e0a8be54bfbd6db1e9563730572855d1e53a0d4a8d0dfd87b14c5dc9",
+    "231ef7d242e54bbfd433e2475ef73a8ed4002f2ff097251e42dbc60594d2f5a2",
+    "87217ec732902a54ef951df6d40b1681759dd9895bb41d1fc75d0ff1002a54df",
+    "d91c95c70d892078acd457aadc858a4d1e3420f203e1f2ea1d9deca1507f3ee7",
+    "19acd22d3a2135316fc1f687ea630db3b5e409cd5620c9724fe1bf66821b69a7",
+    "434c64732f1b79b5f5b5906c8fae5383b91ecfb88ceb7410a0f3e78df41dd8ee",
+    "1f145e002e4113d30d80a232a525f282e03697913637a2de8ee813edb355b83b",
+    "ceca327a0e960455d9ef2a5cfe1b782dcf6a94ff0b1b6838be7a9219798be39b",
+    "2c3a3883bef339325505a1d51b1fc3b954a72db65d6658d9828d8efd5080d383",
+    "0a800cda4f04d175ccbb534bbdbfd58128d2d2114a1e6ee253f9f395cb99d181"
+  ],
+  "contentFingerprint": "32e338111a8d704a611076c2281cbfb7b71e7f7443971fab51f041a306059e8e"
+}

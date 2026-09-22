@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-23",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 23 · 公共窗口与无障碍服务",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 23,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "A ticket without a smartphone",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The sign asks me to scan a code, but my phone cannot do that.\nClerk: (1) _____\nVisitor: Thank you. I need to update my address.\nClerk: (2) _____\nVisitor: I brought both documents.\nClerk: Then I can give you a paper ticket.\nVisitor: How will I know when it is my turn?\nClerk: (3) _____\nVisitor: I find small screens difficult to read.\nClerk: (4) _____",
+      "sharedOptions": {
+        "A": "Do you have identification and proof of the new address?",
+        "B": "Your number will be displayed and announced.",
+        "C": "Please sit nearby; I can help you notice the announcement.",
+        "D": "You can also register at this desk."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A ticket without a smartphone\".",
+          "options": {
+            "A": "Do you have identification and proof of the new address?",
+            "B": "Your number will be displayed and announced.",
+            "C": "Please sit nearby; I can help you notice the announcement.",
+            "D": "You can also register at this desk."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供不用手机的办理途径。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e939cc6c8816632a6b7d0032de906b9feabdf60e7345b3d186d1ca8ce7a19756"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A ticket without a smartphone\".",
+          "options": {
+            "A": "Do you have identification and proof of the new address?",
+            "B": "Your number will be displayed and announced.",
+            "C": "Please sit nearby; I can help you notice the announcement.",
+            "D": "You can also register at this desk."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下句说带齐两份文件。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c7ab7fc2ee1b6834183ce3f2e8764b72084d3d402210b00c7fbb5c1fd1872ab1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A ticket without a smartphone\".",
+          "options": {
+            "A": "Do you have identification and proof of the new address?",
+            "B": "Your number will be displayed and announced.",
+            "C": "Please sit nearby; I can help you notice the announcement.",
+            "D": "You can also register at this desk."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "回应如何知道轮到自己。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "befca4e2e38a5c9b672b291b2998e0bde9e685e17a9c6c35e060c43499ade7d7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"A ticket without a smartphone\".",
+          "options": {
+            "A": "Do you have identification and proof of the new address?",
+            "B": "Your number will be displayed and announced.",
+            "C": "Please sit nearby; I can help you notice the announcement.",
+            "D": "You can also register at this desk."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "对屏幕阅读困难提供帮助。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "654c9c380a59cc20f9b83006491acdf5df4596f2ae7e582129bd1c88b2e11a36"
+        }
+      ],
+      "contentFingerprint": "af6e841f6a9a35628819e76f2c0275a493e3960aed4313bbddfde4638a89da5b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Checking the ramp route",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Guide: The main entrance has steps.\nGuest: (1) _____\nGuide: Yes, through the east courtyard.\nGuest: Is that door open now?\nGuide: (2) _____\nGuest: Could you show me where the courtyard begins?\nGuide: (3) _____",
+      "sharedOptions": {
+        "A": "Is there a step-free entrance?",
+        "B": "It stays open during all service hours.",
+        "C": "Certainly, I will walk with you to the corner.",
+        "D": "You must climb the stairs alone."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Checking the ramp route\".",
+          "options": {
+            "A": "Is there a step-free entrance?",
+            "B": "It stays open during all service hours.",
+            "C": "Certainly, I will walk with you to the corner.",
+            "D": "You must climb the stairs alone."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问无台阶入口。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "98aa7ba640386dc4efdb84d293188a6a9862f3407cdc3f03f74b017280a690ef"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Checking the ramp route\".",
+          "options": {
+            "A": "Is there a step-free entrance?",
+            "B": "It stays open during all service hours.",
+            "C": "Certainly, I will walk with you to the corner.",
+            "D": "You must climb the stairs alone."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "回应开放时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "09b44410ccc9ffae62fbf5903700ee7217e80f154d757039bd051a26520884e7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Checking the ramp route\".",
+          "options": {
+            "A": "Is there a step-free entrance?",
+            "B": "It stays open during all service hours.",
+            "C": "Certainly, I will walk with you to the corner.",
+            "D": "You must climb the stairs alone."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "同意带路到入口位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fe4fc01f1ff8fcff25617c2c23d552721c6b04fef70867472605078a91b5988c"
+        }
+      ],
+      "contentFingerprint": "9e2d62a32b17690cdbfc10f09b3243b9efbcb688fad111f13f894fb08bcdaa3a"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "An interpreter for the appointment",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Resident: I booked an appointment, but my father needs language assistance.\nAssistant: (1) _____\nResident: Thursday at ten.\nAssistant: We can request an interpreter if you tell us the language today.\nResident: (2) _____\nAssistant: There is no additional charge for this service.\nResident: (3) _____\nAssistant: Yes, please arrive together a little early.",
+      "sharedOptions": {
+        "A": "The office accepts cash only.",
+        "B": "When is his appointment?",
+        "C": "Will there be an extra fee?",
+        "D": "May I accompany him as well?"
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"An interpreter for the appointment\".",
+          "options": {
+            "A": "The office accepts cash only.",
+            "B": "When is his appointment?",
+            "C": "Will there be an extra fee?",
+            "D": "May I accompany him as well?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后句提供预约时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "32498b1e110b83fc56d4d63eebdded65f513b3383d038c58830510e906a2e93c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"An interpreter for the appointment\".",
+          "options": {
+            "A": "The office accepts cash only.",
+            "B": "When is his appointment?",
+            "C": "Will there be an extra fee?",
+            "D": "May I accompany him as well?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "答句说明无附加费用。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5a495226a8f672c2d7ce72a3f69191f4426faabbac5f92a8aee93588c3f92327"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"An interpreter for the appointment\".",
+          "options": {
+            "A": "The office accepts cash only.",
+            "B": "When is his appointment?",
+            "C": "Will there be an extra fee?",
+            "D": "May I accompany him as well?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "答句确认可陪同且一同提前到达。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "02a5fdea14e8c03850bfcfd321ffb526757efd0b7970cd730b681851aa47e9b1"
+        }
+      ],
+      "contentFingerprint": "4b0f1df666c017f3df081a92b315fbbf8dfa791c1c608c90db328bb9bc2c2326"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The queue that could be heard",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Fern Service Centre displayed queue numbers silently. Some visitors kept standing near the screen because they feared missing their turn. Staff added spoken announcements and placed seats where both the screen and speaker were easy to notice. A paper-ticket option remained. During the next month, fewer visitors crowded the counter. The centre did not remove personal assistance: an announcement could help many people without meeting every person's needs.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The queue that could be heard\", Why did visitors stand near the screen?",
+          "options": {
+            "A": "Paper tickets were banned.",
+            "B": "The counter sold screens.",
+            "C": "They feared missing their turn.",
+            "D": "Seats cost money."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "原文给出担心错过叫号的原因。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3d33317715e4b5135949a12edf7c5a74b0bdd93c97b0f24bdfa05d5db11e31df",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The queue that could be heard\", What was added to the number display?",
+          "options": {
+            "A": "A second registration fee.",
+            "B": "Private customer details.",
+            "C": "Music without numbers.",
+            "D": "Spoken announcements."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "增加声音叫号。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4aef5599a3eef4e081229fcd0c930e116a284050b289742d42ebd556a43c0af2",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The queue that could be heard\", Which option remained available?",
+          "options": {
+            "A": "Paper tickets.",
+            "B": "Appointments only by phone.",
+            "C": "Standing for all visitors.",
+            "D": "Silent service exclusively."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "明确保留纸票。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "52552e6669633b5cd184b847a779796429b558f73f8c895f50d4e04e8ba94662",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The queue that could be heard\", What changed during the following month?",
+          "options": {
+            "A": "Everyone used a smartphone.",
+            "B": "Less crowding at the counter.",
+            "C": "All assistance disappeared.",
+            "D": "Service hours doubled."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "柜台前聚集减少。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "dbf068f8453b52a9756b86ff9065d9fe052dcbcffde7a307751b624db9618db8",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The queue that could be heard\", What does the final sentence imply?",
+          "options": {
+            "A": "Staff assistance is useless.",
+            "B": "Technology should always be removed.",
+            "C": "Several forms of support may be needed.",
+            "D": "One announcement serves every need."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "声音提示不能满足所有个体需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9a5242cb25245a3d7b5c9edf18206291dfa11812907ac0f2b173cfcd15c25d9d",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "daa461fce61af10ceebd29e0fde9ce55c2f92aac33c10ac1f98aa4cf7d64c6ea"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A form with two explanations",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A housing office replaced the phrase 'evidence of residence' on its checklist with examples such as a recent utility statement. The formal term remained in brackets because applicants might encounter it elsewhere. Staff asked first-time visitors to explain the checklist in their own words. Their responses revealed that one example appeared to be compulsory. The office added 'for example' before the list. Clear writing required checking how readers interpreted even familiar words.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"A form with two explanations\", What did the housing office add?",
+          "options": {
+            "A": "A new housing charge.",
+            "B": "More unexplained terms.",
+            "C": "Personal stories of staff.",
+            "D": "Examples of acceptable documents."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "加入具体证明材料示例。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "241f68b729916a84314b344a777c15ea7f496f829ee271d4b50b9fd5c56f9250",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A form with two explanations\", Why retain the formal term?",
+          "options": {
+            "A": "Applicants might see it elsewhere.",
+            "B": "It was easier than every example.",
+            "C": "Only lawyers could apply.",
+            "D": "The form had no space."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "保留正式术语帮助应对其他场景。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c9f110aae2b437bee6122b059ab288f4cadd572b71343ced0aca0e66a65235b5",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"A form with two explanations\", How did staff learn about interpretation?",
+          "options": {
+            "A": "Called the utility company.",
+            "B": "Asked visitors to restate the checklist.",
+            "C": "Counted pages only.",
+            "D": "Removed all visitors."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "让首次来访者用自己的话解释。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e852b4e6d930396c847b722920b6653557aae33e3e0b06eb12c412d4396f3709",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A form with two explanations\", What misunderstanding emerged?",
+          "options": {
+            "A": "All documents seemed forbidden.",
+            "B": "Brackets meant a discount.",
+            "C": "An example seemed compulsory.",
+            "D": "The office appeared closed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "有人把示例理解为必需文件。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f662ed9cdbe35da90816920614191676e21788595fad408efca0e0a82e33eded",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"A form with two explanations\", Why add 'for example'?",
+          "options": {
+            "A": "To increase the legal charge.",
+            "B": "To require one exact document.",
+            "C": "To hide the formal term.",
+            "D": "To clarify that the list illustrated possibilities."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "明确列出的只是示例。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fd3fd47c2479525958fed8d4c2b62d56afa58d0c11e3733c95012f25ad67833d",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "e9a303fb6692304c6cf174a065096b85c144b850df53dcb27e5092604972bcb5"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The appointment and the bus",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A rural advice desk offered twenty-minute appointments beginning at nine. The first bus arrived at nine ten, so bus users routinely missed the first slot. A volunteer compared the timetable with booking records and suggested beginning at nine twenty. The desk tried this on market days, when demand was highest. Attendance improved without adding staff hours. The change arose from looking beyond the office door to the journey people had to make.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The appointment and the bus\", What caused people to miss the first slot?",
+          "options": {
+            "A": "The bus arrived after it began.",
+            "B": "The office lost all records.",
+            "C": "Appointments lasted two hours.",
+            "D": "The market opened at night."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "公交到达晚于首个预约。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4e3453d6528f18eb0888795f26fb877ed56ed25954a402dfabe3fd05cfa8a812",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The appointment and the bus\", What information did the volunteer compare?",
+          "options": {
+            "A": "Door sizes and signs.",
+            "B": "Bus times and booking records.",
+            "C": "Food prices and weather.",
+            "D": "Staff ages and wages."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "明确对照时刻表和预约记录。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "72d7003df3390de6552a07eff41fa972cb40de335249f1eb8b501891c6ce2cb3",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The appointment and the bus\", When was the later start tried?",
+          "options": {
+            "A": "Only during holidays.",
+            "B": "Before the first bus.",
+            "C": "On market days.",
+            "D": "Every night."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "在需求最高的集市日试行。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fb68f4180ca7cbb9e9aefc2e3debe5728f6f399fadbc09090cca9aedcfb0b177",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The appointment and the bus\", What improved without more staff hours?",
+          "options": {
+            "A": "The number of bus seats.",
+            "B": "Office rent.",
+            "C": "Market prices.",
+            "D": "Appointment attendance."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "到访率提高而未增加工时。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6700b2eceed48b31d1b8d1c42af4f5c081ab08ffbaaefc61e8a0ee7fa51f0ed4",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The appointment and the bus\", What is the central lesson?",
+          "options": {
+            "A": "Service schedules should consider users' journeys.",
+            "B": "Offices should ignore transport.",
+            "C": "Longer appointments always help.",
+            "D": "Rural advice is unnecessary."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "从到达服务的实际路程出发设计时间。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6af33bf7f81296b6dedf0721f24b51bb3d41c9cab1e40ffd557faab94741a674",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "ecf141a0315f37edb8803dcb1f3b0d65c66108d15a8e2b115455f791f170590f"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The desk at eye level",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "When a community centre ordered new furniture, it included one lower counter. Staff initially used that space to store boxes. A visitor using a wheelchair explained that the counter would let her read and sign documents comfortably. The boxes were moved, and the space became available to anyone who preferred to sit. The purchase had created a possibility, but everyday use determined whether that possibility became a real improvement.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The desk at eye level\", What prevented use of the lower counter initially?",
+          "options": {
+            "A": "A fee for sitting.",
+            "B": "Boxes stored on it.",
+            "C": "A broken lift.",
+            "D": "A missing signature."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "柜台被储物占用。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9e5691024f7e7a7806b8a74eb8ae7e73f6fbc00732ea8cfc3f09c2ffe168c54f",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The desk at eye level\", What did the visitor want to do comfortably?",
+          "options": {
+            "A": "Deliver the boxes.",
+            "B": "Train every employee.",
+            "C": "Read and sign documents.",
+            "D": "Repair the furniture."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "访客说明读写文件的需要。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "13894a19e4b1b8e03302b1cba46d82f11c09859d74820413143beb30c86c2dad",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The desk at eye level\", Who could use the cleared space?",
+          "options": {
+            "A": "Only furniture suppliers.",
+            "B": "Only centre managers.",
+            "C": "No one without a booking.",
+            "D": "Anyone preferring to sit."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "开放给任何愿意坐下的人。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8da96fba66c1ab56f3cfbd297298c045d7e3522e8c1b9c484646bbdc2031c7be",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The desk at eye level\", What distinction does the passage make?",
+          "options": {
+            "A": "Buying equipment and making it usable.",
+            "B": "Old visitors and young staff.",
+            "C": "Paper forms and legal advice.",
+            "D": "Local firms and foreign goods."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "设施购置与日常有效使用的区别。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "77158d3b343f10b261ae2964b9fdf6d3667800fe8d6175fec7cb257911924dbf",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The desk at eye level\", Which title best reflects the lesson?",
+          "options": {
+            "A": "A centre without documents.",
+            "B": "Accessibility in everyday practice.",
+            "C": "Storage above all else.",
+            "D": "Why counters must be tall."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "无障碍价值通过日常使用实现。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9ea585790428b2c87d5ffadce4676c0c509a597e13e76cbc680e091cd8245889",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "18c4df9a076da0b579a0a6b9873f29024212196eb703422bb20fd6b1058b07ab"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The public notice should be _____ to people with little technical knowledge.",
+      "options": {
+        "A": "hostile",
+        "B": "costly",
+        "C": "secret",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible 指易理解或可使用。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7a1c626903b9d9347c74db872dc488a62fae6b75aedc27641ba649c088312faa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The clerk offered an _____ route without steps.",
+      "options": {
+        "A": "alternative",
+        "B": "identical",
+        "C": "accidental",
+        "D": "internal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "alternative 表示另一种可选方案。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4ec9a4ed20a578a2d9cc54550e941dbe711b1fcffacb92ca4a9ba76b65363d62"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Please _____ your ticket until your appointment ends.",
+      "options": {
+        "A": "defeat",
+        "B": "retain",
+        "C": "scatter",
+        "D": "invent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "retain 表示保留。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fb5cc5f9de855b38a7265a181a8e2d207a3141b935cecef74ff58ea370dd35ef"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The examples are intended to _____ the formal requirement.",
+      "options": {
+        "A": "damage",
+        "B": "export",
+        "C": "clarify",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "clarify 表示阐明。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "34b467e0a9f4889044adfd5023ef5e78e630d6e9367d4962b07ce28f99c80503"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The office moved the opening time to _____ bus passengers.",
+      "options": {
+        "A": "suspect",
+        "B": "punish",
+        "C": "divide",
+        "D": "accommodate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accommodate 在此指照顾需求。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ab3caaa77e2357a89fd29090870842b566bc39cff8bf2d224820d60c1b9423cf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The receptionist treated each visitor with _____.",
+      "options": {
+        "A": "courtesy",
+        "B": "hunger",
+        "C": "absence",
+        "D": "thunder"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "courtesy 指礼貌。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "24d0fc11766cc6cc42d935ab4701fd461883e8a0b0a35e681226142cef1d741a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A large screen is not a complete _____ for personal assistance.",
+      "options": {
+        "A": "symptom",
+        "B": "substitute",
+        "C": "boundary",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "substitute for 表示替代物。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fae82b01a96ac65463bd874fe1e09fb1d3aeef4ca44e732666715a894e3730d9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The arrangement was changed after a visitor raised a practical _____.",
+      "options": {
+        "A": "decoration",
+        "B": "voyage",
+        "C": "concern",
+        "D": "harvest"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "concern 指关切的问题。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3796e95ee7938e3ee96eef0a02319ef0b4156246868466f37e784580ad9a43d6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The office will _____ the new timetable on market days first.",
+      "options": {
+        "A": "float",
+        "B": "owe",
+        "C": "hesitate",
+        "D": "implement"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "implement 表示实施。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0a81b0a5c05442825096c7497edb8fd306ba936bc4f6f4525f7525f764ebf498"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The notice gave _____ instructions about which desk to use.",
+      "options": {
+        "A": "explicit",
+        "B": "bitter",
+        "C": "shallow",
+        "D": "timid"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "explicit 表示明确的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "323643e784fa5ebc6d0126d03614a47327f899b3696868373601016042a48b68"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Visitors who require language assistance _____ contact reception in advance.",
+      "options": {
+        "A": "should",
+        "B": "ought",
+        "C": "must to",
+        "D": "had better to"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "should 后接动词原形。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7533fac5ced72b881b5de173f62beef107981acb4e27fce0791a0f353b186103"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The lower counter _____ by a stack of boxes when Maya arrived.",
+      "options": {
+        "A": "was block",
+        "B": "was blocked",
+        "C": "blocked",
+        "D": "has blocking"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去被占据，用过去时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3da2e23d3ee7104776656143b7fd8b6e2647b57b1f5abefa817ecb70f2cb5d6b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "It is helpful _____ examples beside an unfamiliar term.",
+      "options": {
+        "A": "provided",
+        "B": "provides",
+        "C": "to provide",
+        "D": "provide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "it 作形式主语，不定式作实际主语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "af85e49440d0c226f282f4492f7a28bcbf2eaf27ec667817a181d2e2f44357c6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The clerk spoke slowly so that everyone _____ hear the number.",
+      "options": {
+        "A": "must to",
+        "B": "had",
+        "C": "were",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去目的从句可用 could。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b6586bc2bcceed66a647e2446a086d9479a0ad0c4f45d8da991278dc15cdd213"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Neither the screen nor the speakers _____ working this morning.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "be"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近原则，speakers 为复数，且为过去时间。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "49a25cab5a9074bc96af73ed456d791ee1a2a3f2777bc7ae0af806fb2e90107b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "This is the courtyard _____ the accessible entrance is located.",
+      "options": {
+        "A": "whose",
+        "B": "where",
+        "C": "which",
+        "D": "who"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "从句缺地点状语，用 where。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6758be7656d222e234877b96955ddeee5604a31715be3297332277c7904029a5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Had the bus arrived earlier, the first visitor _____ the appointment.",
+      "options": {
+        "A": "keeps",
+        "B": "had keeping",
+        "C": "would have kept",
+        "D": "will keep"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "省略 if 的过去虚拟条件句。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "474a62d4fa259f2adfd43fdabce8d6ed4a91394f974fc5a6e0963eb03df4f5b1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The instructions need _____ before the new forms are printed.",
+      "options": {
+        "A": "revise",
+        "B": "revised",
+        "C": "to revising",
+        "D": "revising"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "need doing 表被动含义。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b3c24e2a771ae95cc228c8687e7bbae704c05a25750a7467091fb183106bceb2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The volunteer asked me _____ I preferred a printed notice.",
+      "options": {
+        "A": "whether",
+        "B": "what",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "询问是否，whether 引导宾语从句。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "19da4b2d9dabdc5004db05f2c37e2e203c11d05f981a43e7fb657568577095b8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Only after the boxes were removed _____ usable.",
+      "options": {
+        "A": "became the counter did",
+        "B": "did the counter become",
+        "C": "the counter became",
+        "D": "the counter did become"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only 加状语前置，主句部分倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6dde1a8be97529af4a55fa4412b48b5cce0bffee4cda380eeb41e54470717982"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nPublic services begin before a person reaches the counter. A clear sign, a suitable opening time and an entrance without steps can determine whether a visit is possible. Staff can learn a great deal by listening to people who find ordinary procedures difficult. Their experiences reveal barriers that may be invisible from behind a desk.",
+      "referenceAnswer": "公共服务在人们走到柜台之前就已经开始了。清晰的标识、合适的开放时间以及没有台阶的入口，可能决定一次到访能否实现。工作人员倾听那些在办理普通手续时遇到困难的人，可以学到很多。他们的经历揭示了坐在办公桌后可能看不到的障碍。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "9e19e8d2b57aa5d7a016c7ca5b60f910c8cb0a751f7fade414b7d8c93cb2aea7",
+      "referenceAnswerFingerprint": "93c2abb450678df2b77d24e4ebbbb321646b05d4990421bdb678f560e410110f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nWrite to a community service centre suggesting two improvements for visitors who do not use smartphones. Explain how the changes would help and how the centre could introduce them.",
+      "sampleAnswer": "Dear Centre Manager, I would like to suggest two changes for visitors who do not use smartphones. First, please keep a staffed registration desk where people can receive a paper ticket. This would allow them to join the same queue without borrowing a phone or asking strangers for help. Second, essential appointment information should be available on a printed sheet with clear headings and a telephone contact. Visitors could take it home and prepare their documents. The centre could introduce both changes for a month and ask users whether they could complete their visit independently. A volunteer might collect comments near the exit. These modest arrangements would make the service easier to use for a wider range of residents. Yours faithfully, Mei.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "08c7a97751fb3bbb1c6409e7f186611d2bd32d1d4060eb92ae682dd5d045cc8f",
+      "sampleAnswerFingerprint": "f295986a553165c4f9ccf18f3667b445f7f96795ef9fb28ce16ff97e4fbefe7b"
+    }
+  ],
+  "fingerprintManifest": [
+    "af6e841f6a9a35628819e76f2c0275a493e3960aed4313bbddfde4638a89da5b",
+    "e939cc6c8816632a6b7d0032de906b9feabdf60e7345b3d186d1ca8ce7a19756",
+    "c7ab7fc2ee1b6834183ce3f2e8764b72084d3d402210b00c7fbb5c1fd1872ab1",
+    "befca4e2e38a5c9b672b291b2998e0bde9e685e17a9c6c35e060c43499ade7d7",
+    "654c9c380a59cc20f9b83006491acdf5df4596f2ae7e582129bd1c88b2e11a36",
+    "9e2d62a32b17690cdbfc10f09b3243b9efbcb688fad111f13f894fb08bcdaa3a",
+    "98aa7ba640386dc4efdb84d293188a6a9862f3407cdc3f03f74b017280a690ef",
+    "09b44410ccc9ffae62fbf5903700ee7217e80f154d757039bd051a26520884e7",
+    "fe4fc01f1ff8fcff25617c2c23d552721c6b04fef70867472605078a91b5988c",
+    "4b0f1df666c017f3df081a92b315fbbf8dfa791c1c608c90db328bb9bc2c2326",
+    "32498b1e110b83fc56d4d63eebdded65f513b3383d038c58830510e906a2e93c",
+    "5a495226a8f672c2d7ce72a3f69191f4426faabbac5f92a8aee93588c3f92327",
+    "02a5fdea14e8c03850bfcfd321ffb526757efd0b7970cd730b681851aa47e9b1",
+    "daa461fce61af10ceebd29e0fde9ce55c2f92aac33c10ac1f98aa4cf7d64c6ea",
+    "3d33317715e4b5135949a12edf7c5a74b0bdd93c97b0f24bdfa05d5db11e31df",
+    "4aef5599a3eef4e081229fcd0c930e116a284050b289742d42ebd556a43c0af2",
+    "52552e6669633b5cd184b847a779796429b558f73f8c895f50d4e04e8ba94662",
+    "dbf068f8453b52a9756b86ff9065d9fe052dcbcffde7a307751b624db9618db8",
+    "9a5242cb25245a3d7b5c9edf18206291dfa11812907ac0f2b173cfcd15c25d9d",
+    "e9a303fb6692304c6cf174a065096b85c144b850df53dcb27e5092604972bcb5",
+    "241f68b729916a84314b344a777c15ea7f496f829ee271d4b50b9fd5c56f9250",
+    "c9f110aae2b437bee6122b059ab288f4cadd572b71343ced0aca0e66a65235b5",
+    "e852b4e6d930396c847b722920b6653557aae33e3e0b06eb12c412d4396f3709",
+    "f662ed9cdbe35da90816920614191676e21788595fad408efca0e0a82e33eded",
+    "fd3fd47c2479525958fed8d4c2b62d56afa58d0c11e3733c95012f25ad67833d",
+    "ecf141a0315f37edb8803dcb1f3b0d65c66108d15a8e2b115455f791f170590f",
+    "4e3453d6528f18eb0888795f26fb877ed56ed25954a402dfabe3fd05cfa8a812",
+    "72d7003df3390de6552a07eff41fa972cb40de335249f1eb8b501891c6ce2cb3",
+    "fb68f4180ca7cbb9e9aefc2e3debe5728f6f399fadbc09090cca9aedcfb0b177",
+    "6700b2eceed48b31d1b8d1c42af4f5c081ab08ffbaaefc61e8a0ee7fa51f0ed4",
+    "6af33bf7f81296b6dedf0721f24b51bb3d41c9cab1e40ffd557faab94741a674",
+    "18c4df9a076da0b579a0a6b9873f29024212196eb703422bb20fd6b1058b07ab",
+    "9e5691024f7e7a7806b8a74eb8ae7e73f6fbc00732ea8cfc3f09c2ffe168c54f",
+    "13894a19e4b1b8e03302b1cba46d82f11c09859d74820413143beb30c86c2dad",
+    "8da96fba66c1ab56f3cfbd297298c045d7e3522e8c1b9c484646bbdc2031c7be",
+    "77158d3b343f10b261ae2964b9fdf6d3667800fe8d6175fec7cb257911924dbf",
+    "9ea585790428b2c87d5ffadce4676c0c509a597e13e76cbc680e091cd8245889",
+    "7a1c626903b9d9347c74db872dc488a62fae6b75aedc27641ba649c088312faa",
+    "4ec9a4ed20a578a2d9cc54550e941dbe711b1fcffacb92ca4a9ba76b65363d62",
+    "fb5cc5f9de855b38a7265a181a8e2d207a3141b935cecef74ff58ea370dd35ef",
+    "34b467e0a9f4889044adfd5023ef5e78e630d6e9367d4962b07ce28f99c80503",
+    "ab3caaa77e2357a89fd29090870842b566bc39cff8bf2d224820d60c1b9423cf",
+    "24d0fc11766cc6cc42d935ab4701fd461883e8a0b0a35e681226142cef1d741a",
+    "fae82b01a96ac65463bd874fe1e09fb1d3aeef4ca44e732666715a894e3730d9",
+    "3796e95ee7938e3ee96eef0a02319ef0b4156246868466f37e784580ad9a43d6",
+    "0a81b0a5c05442825096c7497edb8fd306ba936bc4f6f4525f7525f764ebf498",
+    "323643e784fa5ebc6d0126d03614a47327f899b3696868373601016042a48b68",
+    "7533fac5ced72b881b5de173f62beef107981acb4e27fce0791a0f353b186103",
+    "3da2e23d3ee7104776656143b7fd8b6e2647b57b1f5abefa817ecb70f2cb5d6b",
+    "af85e49440d0c226f282f4492f7a28bcbf2eaf27ec667817a181d2e2f44357c6",
+    "b6586bc2bcceed66a647e2446a086d9479a0ad0c4f45d8da991278dc15cdd213",
+    "49a25cab5a9074bc96af73ed456d791ee1a2a3f2777bc7ae0af806fb2e90107b",
+    "6758be7656d222e234877b96955ddeee5604a31715be3297332277c7904029a5",
+    "474a62d4fa259f2adfd43fdabce8d6ed4a91394f974fc5a6e0963eb03df4f5b1",
+    "b3c24e2a771ae95cc228c8687e7bbae704c05a25750a7467091fb183106bceb2",
+    "19da4b2d9dabdc5004db05f2c37e2e203c11d05f981a43e7fb657568577095b8",
+    "6dde1a8be97529af4a55fa4412b48b5cce0bffee4cda380eeb41e54470717982",
+    "9e19e8d2b57aa5d7a016c7ca5b60f910c8cb0a751f7fade414b7d8c93cb2aea7",
+    "93c2abb450678df2b77d24e4ebbbb321646b05d4990421bdb678f560e410110f",
+    "08c7a97751fb3bbb1c6409e7f186611d2bd32d1d4060eb92ae682dd5d045cc8f",
+    "f295986a553165c4f9ccf18f3667b445f7f96795ef9fb28ce16ff97e4fbefe7b"
+  ],
+  "contentFingerprint": "82a2e155674c0f089e19da4394c5959b7e9eed9336da3e1a2df2cace8e5fa375"
+}

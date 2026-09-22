@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-31",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 31 · 声音档案与公共记忆",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 31,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Choosing an oral-history clip",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Editor: This recording is forty minutes long. Which part should visitors hear?\nAssistant: (1) _____\nEditor: Yes, her account of the closed ferry is vivid. Shall I remove the pauses?\nAssistant: (2) _____\nEditor: Agreed. What about the loud clock in the background?\nAssistant: (3) _____\nEditor: Can we publish the speaker's full name?\nAssistant: (4) _____",
+      "sharedOptions": {
+        "A": "Use the passage where she describes her first crossing.",
+        "B": "Keep the natural pauses that help convey her feelings.",
+        "C": "Reduce it carefully without making her voice unclear.",
+        "D": "Only if her permission covers public identification."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Choosing an oral-history clip\", select the response for blank (1).",
+          "options": {
+            "A": "Use the passage where she describes her first crossing.",
+            "B": "Keep the natural pauses that help convey her feelings.",
+            "C": "Reduce it carefully without making her voice unclear.",
+            "D": "Only if her permission covers public identification."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问题询问选取哪段内容，回答指定首次渡河片段。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "44118357bae07f65f35ab42b0af7b49f220f53a8133638ef6d07466b9e658f4e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Choosing an oral-history clip\", select the response for blank (2).",
+          "options": {
+            "A": "Use the passage where she describes her first crossing.",
+            "B": "Keep the natural pauses that help convey her feelings.",
+            "C": "Reduce it carefully without making her voice unclear.",
+            "D": "Only if her permission covers public identification."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "是否删除停顿的问题对应保留有表达作用的停顿。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "79ee2b379f614f3124fc6294609c1aa3d35a20c18eb4254594157ab4c8d54eea"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Choosing an oral-history clip\", select the response for blank (3).",
+          "options": {
+            "A": "Use the passage where she describes her first crossing.",
+            "B": "Keep the natural pauses that help convey her feelings.",
+            "C": "Reduce it carefully without making her voice unclear.",
+            "D": "Only if her permission covers public identification."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "讨论背景钟声，回答应为适度降低噪声。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "34cd7e75aeaab56165e5adcb29f116cd4e9e7fb793120bec150cc6b381131e20"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Choosing an oral-history clip\", select the response for blank (4).",
+          "options": {
+            "A": "Use the passage where she describes her first crossing.",
+            "B": "Keep the natural pauses that help convey her feelings.",
+            "C": "Reduce it carefully without making her voice unclear.",
+            "D": "Only if her permission covers public identification."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "公开全名须对应身份公开的授权。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "50db5a7e3158c847a03298ddfd845013d3c8ce9e8f1dbeab3aabc899fc8e952b"
+        }
+      ],
+      "contentFingerprint": "26cfae26efa568335ef6c8e765ce31b9106add8cc51421443b200a8ad23ed9d1"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A missing recording date",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Archivist: The envelope says 1978, but the speaker mentions a bridge opened later.\nResearcher: (1) _____\nArchivist: Good idea. The recorder's notebook may give the date.\nResearcher: (2) _____\nArchivist: I'll label it uncertain until then.\nResearcher: (3) _____",
+      "sharedOptions": {
+        "A": "Let's compare the label with another source.",
+        "B": "We should record both clues before deciding.",
+        "C": "That will prevent an unsupported date from looking certain.",
+        "D": "The bridge is too narrow for buses."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"A missing recording date\", select the response for blank (1).",
+          "options": {
+            "A": "Let's compare the label with another source.",
+            "B": "We should record both clues before deciding.",
+            "C": "That will prevent an unsupported date from looking certain.",
+            "D": "The bridge is too narrow for buses."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "随后建议查笔记，说明要比较其他来源。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "acb47ab24ff5d7f192cd783ac07cdf613b4339d3e6eb7ebde4398012e263c1b4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"A missing recording date\", select the response for blank (2).",
+          "options": {
+            "A": "Let's compare the label with another source.",
+            "B": "We should record both clues before deciding.",
+            "C": "That will prevent an unsupported date from looking certain.",
+            "D": "The bridge is too narrow for buses."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "在决定日期前应记录相互矛盾的线索。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4248ac7ac4639206e4c23c19a31db475666533bedd5f749a3a811d911993eaa6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"A missing recording date\", select the response for blank (3).",
+          "options": {
+            "A": "Let's compare the label with another source.",
+            "B": "We should record both clues before deciding.",
+            "C": "That will prevent an unsupported date from looking certain.",
+            "D": "The bridge is too narrow for buses."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "uncertain 标签能防止把未经支持的日期当定论。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "693bd4d037086694f0695ce03db757135757153125dcb34582077a64e826431d"
+        }
+      ],
+      "contentFingerprint": "22ea4c1e2a7b9a69d19bd5a166324caedaf9c4aefb1bbad682ffbea27cd7ce6d"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Listening with captions",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I cannot make out the voice in this exhibition.\nGuide: (1) _____\nVisitor: Captions would help. Where can I turn them on?\nGuide: (2) _____\nVisitor: The words still disappear too quickly.\nGuide: (3) _____",
+      "sharedOptions": {
+        "A": "You can read a written version alongside the audio.",
+        "B": "Tap the speech symbol below the picture.",
+        "C": "Try the slower playback setting beside the volume control.",
+        "D": "The next exhibition opens in winter."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"Listening with captions\", select the response for blank (1).",
+          "options": {
+            "A": "You can read a written version alongside the audio.",
+            "B": "Tap the speech symbol below the picture.",
+            "C": "Try the slower playback setting beside the volume control.",
+            "D": "The next exhibition opens in winter."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "听不清时提供文字版本与后句 captions 一致。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "425bd1575002a7d1b457b738a099578861f5436d14f1ad1cb9b1b92fb68ad31b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"Listening with captions\", select the response for blank (2).",
+          "options": {
+            "A": "You can read a written version alongside the audio.",
+            "B": "Tap the speech symbol below the picture.",
+            "C": "Try the slower playback setting beside the volume control.",
+            "D": "The next exhibition opens in winter."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "询问打开方式，应说明界面操作。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "5d09867bc50aa9e0f8b00b4040fad9bb52cc4897487b1a1d12ccdb3371ce7602"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"Listening with captions\", select the response for blank (3).",
+          "options": {
+            "A": "You can read a written version alongside the audio.",
+            "B": "Tap the speech symbol below the picture.",
+            "C": "Try the slower playback setting beside the volume control.",
+            "D": "The next exhibition opens in winter."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "字幕过快应调整播放速度。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "59598904d64105a6b141145d9a86ac6c54e48a940cd398a23bd3cf33b4d8d44c"
+        }
+      ],
+      "contentFingerprint": "825556545c9a3bc26dd13f997537cd0b81544cbf539500d7233437340ad34f4b"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The repair remembered",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "When the North Quay archive collected memories of an old ferry, several residents described a dramatic rescue. One retired mechanic instead spoke about an ordinary repair. He explained how workers borrowed tools from a nearby bakery after a handle broke. The interviewer almost omitted this account because nothing dangerous had happened. Later, a teacher used it to discuss cooperation between local businesses. Students asked why such practical relationships rarely appeared in official reports. The archive then added a search term for everyday work. Its curator concluded that an event need not be spectacular to reveal how a community functioned.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The repair remembered\": Why was the mechanic's story initially at risk of exclusion?",
+          "options": {
+            "A": "It lacked dramatic events.",
+            "B": "It contradicted every resident.",
+            "C": "It contained no local people.",
+            "D": "It was impossible to hear."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "采访者因没有危险事件而差点省略。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b6b7e8203c9a79d2cf6911bdc967e4e76950079eb51861e8a24d36eeebad7c07"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The repair remembered\": What did the bakery contribute to the ferry repair?",
+          "options": {
+            "A": "A new boat",
+            "B": "Some tools",
+            "C": "An official report",
+            "D": "A rescue team"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "工人向附近面包店借了工具。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d04cf5bb905ae96514cd200a72c56f7539622a340cbc6146df927912081289e9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The repair remembered\": How did the teacher use the repair account?",
+          "options": {
+            "A": "To prove ferries were unsafe",
+            "B": "To teach baking methods",
+            "C": "To discuss business cooperation",
+            "D": "To compare rescue equipment"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "教师用它讨论当地商户之间的合作。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3f8e44398a580bc1f0a7e1fe93f78a16aa19868d93d9ed5c28c02de3bdea9833"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The repair remembered\": The added search term made it easier to find stories about what?",
+          "options": {
+            "A": "Major disasters",
+            "B": "Famous leaders",
+            "C": "Tourist prices",
+            "D": "Routine employment"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "everyday work 指日常工作。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d05f5fd5bffd961a4c6f87a01cd09f3a23cc8851470b629b34ee1e2a2b35ec40"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The repair remembered\": Which conclusion best represents the curator's view?",
+          "options": {
+            "A": "Ordinary experiences can have historical value.",
+            "B": "Only official reports deserve preservation.",
+            "C": "Danger is essential to an interesting record.",
+            "D": "Mechanics should conduct all interviews."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "结尾指出平凡事件也能揭示社区运作。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "052d0f67486640f535298242374dd04b876c98ed01190528b6366163cc26648f"
+        }
+      ],
+      "contentFingerprint": "fdd963a27d67aa7e4cf34e3499988b88b96a45e106cc25e90e389ae80abc98af"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A room that changed the sound",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A language centre purchased excellent microphones, yet recordings from its meeting room sounded unclear. Staff first blamed the equipment. An audio technician noticed that speech bounced between bare walls, creating echoes. Instead of recommending another purchase, she hung temporary curtains and placed a rug on the floor. The next recording was easier to understand even though the microphone settings stayed the same. The centre kept the curtains but chose a washable floor covering for daily use. Its experience showed that better results can come from changing the surroundings of a tool, rather than the tool itself.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"A room that changed the sound\": What did staff first suspect caused the unclear recordings?",
+          "options": {
+            "A": "The microphone equipment",
+            "B": "The lesson schedule",
+            "C": "The speakers' vocabulary",
+            "D": "The electricity bill"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "员工起初将原因归于设备。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5d9d422df26b15c0ad8268946875dc9d498f7cb15def8da58f0b62dff47daeec"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"A room that changed the sound\": What feature produced echoes in the meeting room?",
+          "options": {
+            "A": "A low chair",
+            "B": "Bare walls",
+            "C": "Washable curtains",
+            "D": "A crowded timetable"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "声音在光墙面之间反射形成回声。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d53f118b2e7b7e691386e4ba9d5a47fc08cb8dc1a04c8b2a0c8cbe117eebb43e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"A room that changed the sound\": What remained unchanged during the successful adjustment?",
+          "options": {
+            "A": "The floor material",
+            "B": "The wall covering",
+            "C": "The microphone settings",
+            "D": "The listening quality"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "原文明确说麦克风设置未变。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "54e01799db2159350acc13d0233928df163cdaa5094d9d143ef61cc880b0951c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"A room that changed the sound\": Why was the final floor covering washable?",
+          "options": {
+            "A": "To attract sponsors",
+            "B": "To increase echoes",
+            "C": "To hide the microphones",
+            "D": "To suit everyday use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "可清洗材料适合日常使用。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "90a8f3e38b32beb51b30ea5adff836d2fd253bd4cd9e2bbd21843ae269f5f8f6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"A room that changed the sound\": What general lesson does the room experiment offer?",
+          "options": {
+            "A": "Consider a tool's environment when solving performance problems.",
+            "B": "Expensive microphones cannot record speech.",
+            "C": "Every meeting room requires a new floor.",
+            "D": "Staff should never seek technical advice."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "改变工具周围环境可能比换工具更有效。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7af647b84a08f420093b971c9c1fee2f434bbcd2f16b5e81817deea7407179e7"
+        }
+      ],
+      "contentFingerprint": "164cbf75ff4b4c667f6ef3a45f9837045868a1028b7743caf49c640beecc0bd6"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Permission after an interview",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Before being interviewed, Mara agreed that her words could be used in a small research class. Months later, the interviewer was invited to post the recording on a public website. He contacted her again rather than treating the first agreement as unlimited. Mara welcomed wider access but asked him to remove a section about a former colleague. They prepared an edited version and attached a note explaining that some material was omitted at the speaker's request. The note did not reveal the missing details. The researcher believed openness about editing could coexist with respect for a contributor's boundaries.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"Permission after an interview\": What use had Mara originally approved?",
+          "options": {
+            "A": "A television advertisement",
+            "B": "A limited research class",
+            "C": "An unrestricted website",
+            "D": "A commercial audio book"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最初许可仅限小型研究课堂。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "93f7933bc7b9f918f532c7323902e97a47e029fa040a425f8dbba2c86564a2d2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Permission after an interview\": Why did the interviewer contact Mara a second time?",
+          "options": {
+            "A": "Her voice had changed.",
+            "B": "The research class was cancelled.",
+            "C": "The intended audience had expanded.",
+            "D": "He had lost every recording."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "公开网站超出原先使用范围。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "16b6d6c28d5fa3e9ff519298ae5003931f013e69fddb0f5b228bf2ba5461093f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"Permission after an interview\": Which part did Mara ask to have removed?",
+          "options": {
+            "A": "The date of the interview",
+            "B": "A description of the room",
+            "C": "The researcher's introduction",
+            "D": "A section about a former colleague"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "她要求删除关于前同事的内容。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "6a527cfadbe1fd9eaa0c83bf0d0dc4526484603520842005a746a61b0880ccc8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Permission after an interview\": What did the editing note disclose?",
+          "options": {
+            "A": "That an omission was requested, without its private details",
+            "B": "The entire missing conversation",
+            "C": "The colleague's address",
+            "D": "That the original recording was false"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明删节及原因类别，但不公开细节。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "ca12b92be7596c4395e00879779acff3761e8e0c15e956155518a0441383ac0e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"Permission after an interview\": How does the researcher view openness and personal boundaries?",
+          "options": {
+            "A": "They are never compatible.",
+            "B": "They can be respected together.",
+            "C": "Only boundaries matter.",
+            "D": "Only publicity matters."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末句 coexist 表示两者能够并存。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ccefed38a3c261a39562abde7184acec2befb39c3f8c1abe562ef4b4e294ef8c"
+        }
+      ],
+      "contentFingerprint": "9955cbabed32e93b16564957e39f54be1c3b4222266dde85e0f8147cab38521b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The useful imperfect transcript",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Volunteers at a sound archive tested automatic transcripts of market interviews. The software handled clear speech well but confused unfamiliar stall names. Rather than correcting every hesitation first, volunteers marked names, prices and place references for careful checking. They kept a link from each paragraph to the corresponding audio. Visitors could therefore listen when a wording seemed doubtful. A sign described the transcript as a guide, not a replacement for the recording. After a month, users reported fewer serious misunderstandings. The team had improved usefulness by concentrating effort on errors that could change a listener's understanding.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The useful imperfect transcript\": Which words most often confused the transcription software?",
+          "options": {
+            "A": "Common greetings",
+            "B": "Short numbers only",
+            "C": "Unfamiliar stall names",
+            "D": "Every English verb"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "软件容易识别错陌生摊位名。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "0b437e3431538e551b41c0d0a5e851d584a5204ab808afada21fe27cc264d3e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The useful imperfect transcript\": What did volunteers give priority to?",
+          "options": {
+            "A": "Removing all pauses",
+            "B": "Changing speakers' opinions",
+            "C": "Shortening every sentence",
+            "D": "Checking information-bearing details"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "优先查名字、价格、地点等影响信息的细节。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "4d6efe18f6d1eaa6561f7aab63204e6ee74dcecea94e81457d66834712b3cb36"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The useful imperfect transcript\": Why link transcript paragraphs to audio?",
+          "options": {
+            "A": "To let visitors check doubtful wording",
+            "B": "To prevent anyone reading",
+            "C": "To advertise headphones",
+            "D": "To replace the original speech"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "链接便于对疑问文字回听核对。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "4aed13cdc1939c61de013f74df50297b0204918c01e7017be07ffdfaa989ada3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The useful imperfect transcript\": In this passage, a transcript is presented primarily as what?",
+          "options": {
+            "A": "A perfect legal record",
+            "B": "An aid to using the recording",
+            "C": "A list of interview questions",
+            "D": "A form of market payment"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "标示称文字稿为 guide。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f2c1c666676bee7fef48831d06ea480546c686c29b28f68b308ffff6e7e4d04e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The useful imperfect transcript\": What explains the improvement after one month?",
+          "options": {
+            "A": "Fewer people visited the archive.",
+            "B": "All recordings became shorter.",
+            "C": "Effort targeted consequential errors.",
+            "D": "Volunteers stopped checking names."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "将精力集中在影响理解的错误上提高实用性。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f6934cd889337d1d8e1cc74a46cd2354126acb2535d631a0d23f7d9b4d165ace"
+        }
+      ],
+      "contentFingerprint": "c75a9d09e31eb769f5ca27ff208ebe19c6301cafd293fccac202232b33b4cc35"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The archivist asked the donor to _____ the origin of the unsigned photograph.",
+      "options": {
+        "A": "clarify",
+        "B": "decorate",
+        "C": "interrupt",
+        "D": "multiply"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "clarify 表示澄清，符合确定照片来源。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "41b8ce8f12b7268c1a93803cf386b88f394462f45b456d0362500f8c5ce6dc0d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The cassette was badly damaged, but part of the interview remained _____.",
+      "options": {
+        "A": "edible",
+        "B": "audible",
+        "C": "portable",
+        "D": "visible"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "audible 指听得见的，对应录音。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8a738505d18c2e4221816ace93eb3795142947e69a9b1d1a804780ca38198c74"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The museum made a digital copy to _____ the fragile original.",
+      "options": {
+        "A": "persuade",
+        "B": "perform",
+        "C": "preserve",
+        "D": "predict"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "preserve 表示保存。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2397bb0c42d9cbc85e27cb33bc822799eff52f9622688162c6575ff638f1539d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Her description gave us an _____ into working life beside the river.",
+      "options": {
+        "A": "income",
+        "B": "interval",
+        "C": "ingredient",
+        "D": "insight"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "an insight into 为洞察、深入了解。",
+      "knowledgePoints": [
+        "名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6dc3de3e8772ca2350a25d765d88103eccfbd4b87e3f31bd1d01d2de3729df88"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Two independent diaries _____ the speaker's account of the power cut.",
+      "options": {
+        "A": "confirmed",
+        "B": "consumed",
+        "C": "confused",
+        "D": "contained"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "confirmed 表示证实，与独立日记佐证相符。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a720f8f132639a305c123404ffa21ecb77d05c8451ec7e5b16666a79a50c81af"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Please keep the recording at a _____ volume so nearby readers are not disturbed.",
+      "options": {
+        "A": "remote",
+        "B": "moderate",
+        "C": "vacant",
+        "D": "bitter"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "moderate volume 为适中的音量。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1e54309166a24320bb4c012cfedc0c36f53f485b2bcffcb4a5a6fb3920ee3e3e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The label must distinguish fact from personal _____.",
+      "options": {
+        "A": "permission",
+        "B": "equipment",
+        "C": "interpretation",
+        "D": "occupation"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "interpretation 指个人解释或理解。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5843c6da2e7f15a78e98015aac276c9c82f40afdad7b3820c25098898b37c709"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The collection is _____ to visitors who cannot climb stairs because it is on the ground floor.",
+      "options": {
+        "A": "hostile",
+        "B": "identical",
+        "C": "temporary",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible to 指能使用或到达的。",
+      "knowledgePoints": [
+        "形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6219ec6c2338270bb786138331d2a0c83d4698761b02084a3c9949d01f963e1e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The researcher quoted only a short _____ from the lengthy conversation.",
+      "options": {
+        "A": "extract",
+        "B": "estate",
+        "C": "expense",
+        "D": "entrance"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "extract 指摘录。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f9fe90e8c1f5d1260900dde70ad9cdd70f033b3d6329a7347764411c36567a61"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "A backup should be stored _____ from the device holding the working copy.",
+      "options": {
+        "A": "briefly",
+        "B": "separately",
+        "C": "nearly",
+        "D": "equally"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "separately from 指分开存放。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0b5cd35690a104a76ab5c472a9d73ca95e003702f1e0054361361f37a6ecb89b"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The oldest of these recordings _____ made on a machine powered by batteries.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "have",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "主语核心为单数 the oldest，过去被动用 was。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "93238d480eb4baa4948598794df5ccadbb434e73af5e015ca5a6bccee8772bb5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "No sooner had the interview begun _____ the fire alarm rang.",
+      "options": {
+        "A": "when",
+        "B": "than",
+        "C": "that",
+        "D": "as"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "no sooner ... than 为固定结构。",
+      "knowledgePoints": [
+        "倒装结构"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e3a898b28465530361ffc0043921efd16b205d5d281d1c65fb93c0f453a6bca9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The donor asked whether her letters _____ returned after scanning.",
+      "options": {
+        "A": "will be",
+        "B": "have been",
+        "C": "would be",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去 asked 下将来被动用 would be。",
+      "knowledgePoints": [
+        "时态与被动"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "971625c83c6a3d5beb14e0c308360b8a561291a24fcb682a8a6dc4720dc378e9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The woman _____ voice you hear in the clip once drove the village bus.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "whose voice 表所属关系。",
+      "knowledgePoints": [
+        "定语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "91ec896fb2f0b35a470bb863e33958393c570ee17a194c1e7b84d1e71f5ea99b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Had the tape been kept dry, it _____ so quickly.",
+      "options": {
+        "A": "would not have deteriorated",
+        "B": "does not deteriorate",
+        "C": "will not deteriorate",
+        "D": "did not deteriorate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去虚拟条件对应 would have done。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a3f383000475df387938dda7f4699b15f5c3014d9111e7f1cd8a20331c75024c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Lina is accustomed to _____ notes while listening to long interviews.",
+      "options": {
+        "A": "take",
+        "B": "taking",
+        "C": "taken",
+        "D": "takes"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "be accustomed to 中 to 为介词。",
+      "knowledgePoints": [
+        "动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "32798a080a73f098b24784d31437ff4286b1bc1b69a7d266252296de2afbfb93"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "We cannot tell from the label _____ recorded this conversation.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "who",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "从句缺 recorded 的主语，选 who。",
+      "knowledgePoints": [
+        "名词性从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b9fef165ab653ee9dbca9f26f531b82a3b06bd59a45ccbc444b45df68710b3f4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The curator had the damaged cover _____ by a specialist.",
+      "options": {
+        "A": "repair",
+        "B": "repairing",
+        "C": "to repair",
+        "D": "repaired"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "have an object done 表示请人完成。",
+      "knowledgePoints": [
+        "过去分词补语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bc68ecbf2d2622bc1f3c8e3447cbc03249ba0130a2320aa9b348f5b027456ad0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Neither the original tape nor its digital copies _____ available yesterday.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近主语 copies 为复数，时间为过去。",
+      "knowledgePoints": [
+        "主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "19f6d869f45848255200722bc0eb017e76ce20d5d01349e00e9e1b42a899d245"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "By next June, the team _____ on the oral-history project for two years.",
+      "options": {
+        "A": "works",
+        "B": "will have worked",
+        "C": "has worked",
+        "D": "worked"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "到将来时间点持续两年用将来完成时。",
+      "knowledgePoints": [
+        "将来完成时"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "41417d04a574023f798b90ec134eeb474b6deea65727ec7ce413d73d37d02231"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nA voice recording carries more than the words a person chooses. A pause may suggest uncertainty, while laughter can change the meaning of an ordinary sentence. Written transcripts help people locate information, but they cannot preserve every feature of speech. Keeping the original sound allows future listeners to ask questions that today's editors have not considered.",
+      "referenceAnswer": "声音录音承载的不只是一个人选择的词语。停顿可能暗示不确定，而笑声会改变一句普通话语的意思。文字稿有助于人们查找信息，却无法保留口语的所有特征。保存原始声音，使未来的听众能够提出今天的编辑尚未考虑过的问题。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "ae158f2695560958a17a7a92e2e2fa1c836b691afffce978677843f88baae439",
+      "referenceAnswerFingerprint": "9dac45446b819d7f1bc0ec994f420c1ec938b1aa3b250a878c7d294c95ebe059"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nYour town archive wants short recordings from residents. Write an invitation explaining the purpose, suggesting one kind of experience to share, and describing how contributors can choose whether their names appear.",
+      "sampleAnswer": "Our town archive invites residents to record a memory of everyday life. We hope to show how people worked, travelled and helped one another, including experiences that seldom appear in official documents. You might describe a journey to your first job or explain how your street prepared for a local celebration. A clear story matters more than a polished speaking style. Before recording, a volunteer will explain where the material may be used. You can choose to be named, use a different name or remain unnamed in the public collection. We will discuss any sensitive passages with you before publication. Please contact the archive desk to arrange a convenient time.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "783873db0232a09d544cf72467f30074639570b9568ae30e85c5e534bebdd8fd",
+      "sampleAnswerFingerprint": "2a2509f41ce1d72d67cc6c3ad492870a5631d8cb5c765f1b8e72b71f44047199"
+    }
+  ],
+  "fingerprintManifest": [
+    "26cfae26efa568335ef6c8e765ce31b9106add8cc51421443b200a8ad23ed9d1",
+    "44118357bae07f65f35ab42b0af7b49f220f53a8133638ef6d07466b9e658f4e",
+    "79ee2b379f614f3124fc6294609c1aa3d35a20c18eb4254594157ab4c8d54eea",
+    "34cd7e75aeaab56165e5adcb29f116cd4e9e7fb793120bec150cc6b381131e20",
+    "50db5a7e3158c847a03298ddfd845013d3c8ce9e8f1dbeab3aabc899fc8e952b",
+    "22ea4c1e2a7b9a69d19bd5a166324caedaf9c4aefb1bbad682ffbea27cd7ce6d",
+    "acb47ab24ff5d7f192cd783ac07cdf613b4339d3e6eb7ebde4398012e263c1b4",
+    "4248ac7ac4639206e4c23c19a31db475666533bedd5f749a3a811d911993eaa6",
+    "693bd4d037086694f0695ce03db757135757153125dcb34582077a64e826431d",
+    "825556545c9a3bc26dd13f997537cd0b81544cbf539500d7233437340ad34f4b",
+    "425bd1575002a7d1b457b738a099578861f5436d14f1ad1cb9b1b92fb68ad31b",
+    "5d09867bc50aa9e0f8b00b4040fad9bb52cc4897487b1a1d12ccdb3371ce7602",
+    "59598904d64105a6b141145d9a86ac6c54e48a940cd398a23bd3cf33b4d8d44c",
+    "fdd963a27d67aa7e4cf34e3499988b88b96a45e106cc25e90e389ae80abc98af",
+    "b6b7e8203c9a79d2cf6911bdc967e4e76950079eb51861e8a24d36eeebad7c07",
+    "d04cf5bb905ae96514cd200a72c56f7539622a340cbc6146df927912081289e9",
+    "3f8e44398a580bc1f0a7e1fe93f78a16aa19868d93d9ed5c28c02de3bdea9833",
+    "d05f5fd5bffd961a4c6f87a01cd09f3a23cc8851470b629b34ee1e2a2b35ec40",
+    "052d0f67486640f535298242374dd04b876c98ed01190528b6366163cc26648f",
+    "164cbf75ff4b4c667f6ef3a45f9837045868a1028b7743caf49c640beecc0bd6",
+    "5d9d422df26b15c0ad8268946875dc9d498f7cb15def8da58f0b62dff47daeec",
+    "d53f118b2e7b7e691386e4ba9d5a47fc08cb8dc1a04c8b2a0c8cbe117eebb43e",
+    "54e01799db2159350acc13d0233928df163cdaa5094d9d143ef61cc880b0951c",
+    "90a8f3e38b32beb51b30ea5adff836d2fd253bd4cd9e2bbd21843ae269f5f8f6",
+    "7af647b84a08f420093b971c9c1fee2f434bbcd2f16b5e81817deea7407179e7",
+    "9955cbabed32e93b16564957e39f54be1c3b4222266dde85e0f8147cab38521b",
+    "93f7933bc7b9f918f532c7323902e97a47e029fa040a425f8dbba2c86564a2d2",
+    "16b6d6c28d5fa3e9ff519298ae5003931f013e69fddb0f5b228bf2ba5461093f",
+    "6a527cfadbe1fd9eaa0c83bf0d0dc4526484603520842005a746a61b0880ccc8",
+    "ca12b92be7596c4395e00879779acff3761e8e0c15e956155518a0441383ac0e",
+    "ccefed38a3c261a39562abde7184acec2befb39c3f8c1abe562ef4b4e294ef8c",
+    "c75a9d09e31eb769f5ca27ff208ebe19c6301cafd293fccac202232b33b4cc35",
+    "0b437e3431538e551b41c0d0a5e851d584a5204ab808afada21fe27cc264d3e2",
+    "4d6efe18f6d1eaa6561f7aab63204e6ee74dcecea94e81457d66834712b3cb36",
+    "4aed13cdc1939c61de013f74df50297b0204918c01e7017be07ffdfaa989ada3",
+    "f2c1c666676bee7fef48831d06ea480546c686c29b28f68b308ffff6e7e4d04e",
+    "f6934cd889337d1d8e1cc74a46cd2354126acb2535d631a0d23f7d9b4d165ace",
+    "41b8ce8f12b7268c1a93803cf386b88f394462f45b456d0362500f8c5ce6dc0d",
+    "8a738505d18c2e4221816ace93eb3795142947e69a9b1d1a804780ca38198c74",
+    "2397bb0c42d9cbc85e27cb33bc822799eff52f9622688162c6575ff638f1539d",
+    "6dc3de3e8772ca2350a25d765d88103eccfbd4b87e3f31bd1d01d2de3729df88",
+    "a720f8f132639a305c123404ffa21ecb77d05c8451ec7e5b16666a79a50c81af",
+    "1e54309166a24320bb4c012cfedc0c36f53f485b2bcffcb4a5a6fb3920ee3e3e",
+    "5843c6da2e7f15a78e98015aac276c9c82f40afdad7b3820c25098898b37c709",
+    "6219ec6c2338270bb786138331d2a0c83d4698761b02084a3c9949d01f963e1e",
+    "f9fe90e8c1f5d1260900dde70ad9cdd70f033b3d6329a7347764411c36567a61",
+    "0b5cd35690a104a76ab5c472a9d73ca95e003702f1e0054361361f37a6ecb89b",
+    "93238d480eb4baa4948598794df5ccadbb434e73af5e015ca5a6bccee8772bb5",
+    "e3a898b28465530361ffc0043921efd16b205d5d281d1c65fb93c0f453a6bca9",
+    "971625c83c6a3d5beb14e0c308360b8a561291a24fcb682a8a6dc4720dc378e9",
+    "91ec896fb2f0b35a470bb863e33958393c570ee17a194c1e7b84d1e71f5ea99b",
+    "a3f383000475df387938dda7f4699b15f5c3014d9111e7f1cd8a20331c75024c",
+    "32798a080a73f098b24784d31437ff4286b1bc1b69a7d266252296de2afbfb93",
+    "b9fef165ab653ee9dbca9f26f531b82a3b06bd59a45ccbc444b45df68710b3f4",
+    "bc68ecbf2d2622bc1f3c8e3447cbc03249ba0130a2320aa9b348f5b027456ad0",
+    "19f6d869f45848255200722bc0eb017e76ce20d5d01349e00e9e1b42a899d245",
+    "41417d04a574023f798b90ec134eeb474b6deea65727ec7ce413d73d37d02231",
+    "ae158f2695560958a17a7a92e2e2fa1c836b691afffce978677843f88baae439",
+    "9dac45446b819d7f1bc0ec994f420c1ec938b1aa3b250a878c7d294c95ebe059",
+    "783873db0232a09d544cf72467f30074639570b9568ae30e85c5e534bebdd8fd",
+    "2a2509f41ce1d72d67cc6c3ad492870a5631d8cb5c765f1b8e72b71f44047199"
+  ],
+  "contentFingerprint": "5fb677ee7d2fbe7b577194fd8ddb6fd7e2394e9215874391fe7ad5c3bc85e279"
+}

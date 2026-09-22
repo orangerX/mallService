@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-30",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 30 · 小型活动与准备工作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 30,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "The speaker's delayed train",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Coordinator: Our guest speaker's train is delayed by half an hour.\nHost: (1) _____\nCoordinator: Yes, she has confirmed that she is still coming.\nHost: Then we can start with the audience activity.\nCoordinator: (2) _____\nHost: Tell them about the revised order when they arrive.\nCoordinator: Should I print a completely new programme?\nHost: (3) _____\nCoordinator: Who will lead the opening activity?\nHost: (4) _____",
+      "sharedOptions": {
+        "A": "A clear notice beside the original programme will be enough.",
+        "B": "I will lead it, using the materials we prepared yesterday.",
+        "C": "Have you spoken to her directly?",
+        "D": "How should we explain the change to visitors?"
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"The speaker's delayed train\".",
+          "options": {
+            "A": "A clear notice beside the original programme will be enough.",
+            "B": "I will lead it, using the materials we prepared yesterday.",
+            "C": "Have you spoken to her directly?",
+            "D": "How should we explain the change to visitors?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先直接确认演讲者仍会出席。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8d9011cf7f4d25a1bc5ad5633cb368a188cfb7dc9cf879107cbeb793d5bebd25"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"The speaker's delayed train\".",
+          "options": {
+            "A": "A clear notice beside the original programme will be enough.",
+            "B": "I will lead it, using the materials we prepared yesterday.",
+            "C": "Have you spoken to her directly?",
+            "D": "How should we explain the change to visitors?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "后句说明如何通知观众。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9429945b350f10d46011f29a3203cfbedbfa543c72a7cc6b58387fecab75765a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"The speaker's delayed train\".",
+          "options": {
+            "A": "A clear notice beside the original programme will be enough.",
+            "B": "I will lead it, using the materials we prepared yesterday.",
+            "C": "Have you spoken to her directly?",
+            "D": "How should we explain the change to visitors?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出更新节目单的具体方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b67d77dd6c843ee0f8d0e8c2b1bacfddc4f36363453563dbd8dd8a7095d207f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"The speaker's delayed train\".",
+          "options": {
+            "A": "A clear notice beside the original programme will be enough.",
+            "B": "I will lead it, using the materials we prepared yesterday.",
+            "C": "Have you spoken to her directly?",
+            "D": "How should we explain the change to visitors?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "明确开场活动负责人。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "85c39fda21dcbed52e94cde9b4f972defa61fe0b67e13a814117c413ae236284"
+        }
+      ],
+      "contentFingerprint": "f876eda7eb3681b9b7879e5da13d92e90901f2e09b1f703099507562b7e7da2c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Checking the presentation room",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Presenter: My slides include a short recording.\nTechnician: (1) _____\nPresenter: I have brought it on this drive.\nTechnician: Let's try it through the room speakers now.\nPresenter: (2) _____\nTechnician: Yes, we can close the front blinds.\nPresenter: What if the recording will not play?\nTechnician: (3) _____",
+      "sharedOptions": {
+        "A": "Can we reduce the light near the screen?",
+        "B": "Keep a written summary ready so you can explain its main point.",
+        "C": "You must cancel the entire talk immediately.",
+        "D": "Do you have the file with you?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Checking the presentation room\".",
+          "options": {
+            "A": "Can we reduce the light near the screen?",
+            "B": "Keep a written summary ready so you can explain its main point.",
+            "C": "You must cancel the entire talk immediately.",
+            "D": "Do you have the file with you?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先确认有可测试的文件。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4b464b3488eba925f508ca0d8fd2af8050521dcbe83c285a567e54d4af18d8a1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Checking the presentation room\".",
+          "options": {
+            "A": "Can we reduce the light near the screen?",
+            "B": "Keep a written summary ready so you can explain its main point.",
+            "C": "You must cancel the entire talk immediately.",
+            "D": "Do you have the file with you?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "回应投影区域光线问题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3db440faa0edb4b46015091585fdc409a7dcdc8d6a8c0815d68f16d69ccc9d6f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Checking the presentation room\".",
+          "options": {
+            "A": "Can we reduce the light near the screen?",
+            "B": "Keep a written summary ready so you can explain its main point.",
+            "C": "You must cancel the entire talk immediately.",
+            "D": "Do you have the file with you?"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "提供音频失败时的备用讲述办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "60685439a92eb4ba83bce1cc4ccb0884730ce915a24046e96c6eea4fac86cead"
+        }
+      ],
+      "contentFingerprint": "e949c99a290606134c6ecc295a2fd9117f556ae6421c76e70ebb9b6a3650560a"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Asking for useful feedback",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Volunteer: Shall we ask visitors whether they enjoyed the event?\nOrganiser: (1) _____\nVolunteer: Such as which activity they would use again?\nOrganiser: Exactly. We also need to know what was unclear.\nVolunteer: (2) _____\nOrganiser: Put it near the exit, with a box for completed forms.\nVolunteer: (3) _____\nOrganiser: No, names should be optional.",
+      "sharedOptions": {
+        "A": "Yes, but add a question that helps us improve the next one.",
+        "B": "Where should we place the feedback table?",
+        "C": "Must visitors write their names?",
+        "D": "Only positive comments should be accepted."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Asking for useful feedback\".",
+          "options": {
+            "A": "Yes, but add a question that helps us improve the next one.",
+            "B": "Where should we place the feedback table?",
+            "C": "Must visitors write their names?",
+            "D": "Only positive comments should be accepted."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "建议从笼统满意度转向可改进信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "946afcc8b22496a1a77d83475867551b064de863566ed4e54c650098512fbee3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Asking for useful feedback\".",
+          "options": {
+            "A": "Yes, but add a question that helps us improve the next one.",
+            "B": "Where should we place the feedback table?",
+            "C": "Must visitors write their names?",
+            "D": "Only positive comments should be accepted."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后句给出反馈桌位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d5997cc9c03c74ad37f0bec9a4a1dcae68f7910ceea086378126f7254fc94469"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Asking for useful feedback\".",
+          "options": {
+            "A": "Yes, but add a question that helps us improve the next one.",
+            "B": "Where should we place the feedback table?",
+            "C": "Must visitors write their names?",
+            "D": "Only positive comments should be accepted."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "确认是否需要姓名，答句说自愿。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "353eebed3c56a1a0343bc0d3c91486525a779431d8a58f4bc0bf635d643a60d9"
+        }
+      ],
+      "contentFingerprint": "d95c9b89f78be655bdad4bdc5d8d34785c45cd146e83196fb7782479ce10776a"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The rehearsal from the doorway",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Organisers rehearsed their welcome talk from the stage and thought the event was ready. A volunteer then walked in from the street as a first-time visitor. She found no sign at the side entrance and could not tell which desk handled registration. Two simple arrows and a clearly labelled table solved the problem. The rehearsal had improved when it began where the audience's experience began, rather than where the organisers usually stood.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The rehearsal from the doorway\", What did the first rehearsal focus on?",
+          "options": {
+            "A": "The building's entire history.",
+            "B": "The welcome talk from the stage.",
+            "C": "The visitor's route from the street.",
+            "D": "The bus timetable."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原排练只从舞台致欢迎词开始。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "02c316dba2e452de5566922118b90cf77a74c95859cbc77e892c44668e32944a",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The rehearsal from the doorway\", How did the volunteer approach the rehearsal?",
+          "options": {
+            "A": "As an invited performer.",
+            "B": "As a ticket inspector.",
+            "C": "As a first-time visitor.",
+            "D": "As the building owner."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "模拟首次到访者。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "33db729af0b8dc0ba6006c957011a950c1e37a87868a6a676dd5cf8763c14427",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The rehearsal from the doorway\", What was unclear at the entrance?",
+          "options": {
+            "A": "The date of next year's event.",
+            "B": "The speaker's birthplace.",
+            "C": "The cost of the building.",
+            "D": "Where to register."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "入口指示不足，不知注册桌在哪里。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fc7d677d135ca64e0d636fa0f713f19ab776b89a204e8ccb40f7bda4d0a06d6e",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The rehearsal from the doorway\", What changes addressed the problem?",
+          "options": {
+            "A": "Arrows and a labelled table.",
+            "B": "A longer speech.",
+            "C": "A larger stage curtain.",
+            "D": "More seats backstage."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "两个箭头和桌子标识解决问题。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4d98f8044ea69747e18c59ffb3fd37d9e8dce46a2d5f037d5f782f06a498c299",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The rehearsal from the doorway\", What lesson did organisers learn?",
+          "options": {
+            "A": "Registration is unnecessary.",
+            "B": "Rehearsal should include the visitor's starting point.",
+            "C": "A good speech answers every practical question.",
+            "D": "Volunteers should never enter from outside."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "从观众体验起点检查活动。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3304138d5972189f7a7275b4aa341c082686575540caa5560de8b527ff4126ce",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "089e2b1bd5bd6a4cff016943c3c4e10e19ea52bc34883bf70de3bc0f84bf892b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The talk without the slides",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A projector stopped working just before a local history talk. The speaker had brought a one-page outline and three printed photographs because the venue had warned that equipment could be unreliable. She used these materials and invited more questions between sections. The talk differed from her plan but still covered its main purpose. Afterwards, she noted which images genuinely needed projection and which had only repeated words she could easily explain.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The talk without the slides\", What equipment failed?",
+          "options": {
+            "A": "The entrance door.",
+            "B": "The ticket printer.",
+            "C": "The projector.",
+            "D": "The room heater."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "开头明确投影仪故障。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b29f4f90c5e411b195a2bb295b26c3fce3169578263185af8067b1c8ce10ede7",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The talk without the slides\", Why had the speaker prepared printed material?",
+          "options": {
+            "A": "The audience demanded no images.",
+            "B": "She had no subject to discuss.",
+            "C": "The talk had already been cancelled.",
+            "D": "The venue had warned about reliability."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "场地方提前告知设备可能不稳定。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4a990675c8524498c13d94bbd2130927445b96cfddbd769ccf5a196cbc6e1e9c",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The talk without the slides\", How did the revised talk involve the audience?",
+          "options": {
+            "A": "More questions between sections.",
+            "B": "A compulsory written examination.",
+            "C": "No opportunity to speak.",
+            "D": "A vote on every sentence."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "分段增加提问。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b1364a16a1002590ca60bdb01e5daab597b2cfb6241898b44ee5de91f2ffdbba",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The talk without the slides\", What remained intact despite the change?",
+          "options": {
+            "A": "The projector's operation.",
+            "B": "The talk's main purpose.",
+            "C": "Every original slide transition.",
+            "D": "The exact planned format."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "虽然形式变，核心目的仍实现。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8eb31430a8548adca56c4eea008b63a94a9450a1adc85512526794801f4d8766",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The talk without the slides\", What did the speaker reconsider afterwards?",
+          "options": {
+            "A": "The visitors' private addresses.",
+            "B": "How to avoid all preparation.",
+            "C": "Which images truly needed projection.",
+            "D": "Whether history existed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "区分必要投影与可直接说明的内容。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "920a0e115a5d7e2a0909317970865ea25d862c185df2155f38d5c743703d6a0d",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "e194a6ee74bbf66bbfc41541994d65b32f357217fd0d50e3c11b4b8b846da49b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The form after the applause",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A community workshop received many feedback forms marked 'excellent', but organisers did not know which features to repeat. At the next workshop they asked visitors to name one useful activity and one confusing moment. Fewer forms contained only a tick, and several comments identified an instruction that needed rewriting. Satisfaction remained worth knowing, but more specific questions produced information the organisers could act on. They reported the resulting change at the following session.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"The form after the applause\", What was missing from the first feedback?",
+          "options": {
+            "A": "Positive ratings.",
+            "B": "Completed forms.",
+            "C": "A workshop audience.",
+            "D": "Details about useful features."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "笼统好评未说明哪部分有效。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d7704dd120bd25cf41d60d043d78647024cddbda3267f7404f0ddb163180f0ce",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"The form after the applause\", What did the revised form ask for?",
+          "options": {
+            "A": "One useful activity and one confusing moment.",
+            "B": "Every visitor's salary.",
+            "C": "A full essay on the venue.",
+            "D": "Only a signature."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "新增具体正面与困惑问题。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6b4b5b08dfeb2f895350942d3e3a618be14ae0dd7a97206b0b209cde0778f036",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"The form after the applause\", What issue appeared in several comments?",
+          "options": {
+            "A": "An incorrect town name.",
+            "B": "An unclear instruction.",
+            "C": "A missing building.",
+            "D": "A cancelled next session."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "多条反馈指向说明需改写。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5b9316b3ecc430d4c9c5df93a4299457612bb30190c0a1c249d32ea4fdb8bdc9",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"The form after the applause\", How were visitors told their feedback mattered?",
+          "options": {
+            "A": "Names were ranked publicly.",
+            "B": "All questions were removed.",
+            "C": "The resulting change was reported later.",
+            "D": "Every form was hidden."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "后续活动说明据反馈做的调整。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "98eed2c03b5c5450994df0c9607c858dff4428fb64ef69c98c49767b8307a6f1",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"The form after the applause\", What is the main point of the passage?",
+          "options": {
+            "A": "Positive ratings are always dishonest.",
+            "B": "Fewer forms always mean success.",
+            "C": "Feedback should be collected only once.",
+            "D": "Specific questions make feedback more actionable."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "具体问题产生可采取行动的信息。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "18cdd71caca0e09470b9f6b9875cd3ae86166408e07e91b419e593fa5c0981aa",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "881600966cb07efdc1d070cd32a6f66513ab8c8e67641e9f892bac486b0e5482"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The contact list that fitted a pocket",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A volunteer event relied on a long planning document kept in the coordinator's bag. When a delivery arrived at the wrong entrance, helpers did not know whom to call. For the next event, the coordinator gave each team a small card with roles, contact numbers and the agreed meeting point. Detailed plans remained available separately. The card did not replace planning; it made the most urgent information easy to find at the moment someone needed it.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The contact list that fitted a pocket\", Where was the original detailed plan kept?",
+          "options": {
+            "A": "In the coordinator's bag.",
+            "B": "On every visitor's chair.",
+            "C": "At the bus station.",
+            "D": "Inside the delivery van."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "长文档只有协调员随身携带。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a31732925af0ea817fef04465b9f105e36bffbf5635c09738ec254c6db460a4d",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The contact list that fitted a pocket\", What problem exposed its limitation?",
+          "options": {
+            "A": "The meeting point was underwater.",
+            "B": "Helpers could not identify the right contact.",
+            "C": "The event had no deliveries.",
+            "D": "Every phone was broken."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "误送时助手不知道联系谁。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "24956e8002f87d8bc0ca75a6efcae98ab343c234193da8d56aa27b10ba325527",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The contact list that fitted a pocket\", What did the pocket card contain?",
+          "options": {
+            "A": "Visitors' shopping lists.",
+            "B": "Only the event logo.",
+            "C": "Roles, contacts and a meeting point.",
+            "D": "Every past event report."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "卡片含三类关键操作信息。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "48e93aa8885bbc8fd25f0ac11e17a6e5769ec10e7913f4826c5211f109bc7c49",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The contact list that fitted a pocket\", What happened to detailed plans?",
+          "options": {
+            "A": "They were all destroyed.",
+            "B": "They became secret permanently.",
+            "C": "They were replaced by advertisements.",
+            "D": "They remained available separately."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "详细方案另行保留。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ede75194c3fb9c6118ca3284eec2fc29711beaab773e63338a63d61a547f4cd7",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The contact list that fitted a pocket\", What distinguishes the card's purpose?",
+          "options": {
+            "A": "Quick access to urgent information.",
+            "B": "Collecting more personal data.",
+            "C": "Eliminating all preparation.",
+            "D": "Recording every speech word."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "在需要时迅速找到关键信息。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "584b1145e0ae52746893d8425d40577d25653c1668c874c914fc81c8e90008cf",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "c1cc1b02331f1f48dc65fb411c76bdc4be189d824abd0d0a35a5a738a8ab9d2a"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team held a _____ to discover practical problems before visitors arrived.",
+      "options": {
+        "A": "refund",
+        "B": "rumour",
+        "C": "rehearsal",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "rehearsal 表示预演。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "45305abc679cc84b3e9cb560aa67afd809e849433baa09c473b1147be0a40e6a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A printed outline provided a useful _____ when the projector failed.",
+      "options": {
+        "A": "deadline",
+        "B": "portrait",
+        "C": "burden",
+        "D": "fallback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "fallback 指备用办法。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d42bb9d4901ff368e759744f0ab7e32ff89535f95b32cfe79efd1a31ce5a70fa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The organiser made a small _____ to the order of activities.",
+      "options": {
+        "A": "adjustment",
+        "B": "appetite",
+        "C": "distance",
+        "D": "illness"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "adjustment 表示调整。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5fa8115d256b61c399d10f8e41767b5f2d0193e6b9ce1d7f2c00647e797809ec"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Feedback should be specific enough to be _____.",
+      "options": {
+        "A": "hostile",
+        "B": "actionable",
+        "C": "invisible",
+        "D": "edible"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "actionable 指可据以行动。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d15be6a4a8b191c70698bbe0465a073d6b831d11646f887d4598132a9b85c8f4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A short notice explained the _____ schedule.",
+      "options": {
+        "A": "fragile",
+        "B": "vacant",
+        "C": "revised",
+        "D": "reluctant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "revised 表示修改后的。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4328001dfc842ad14c4043736821b30c00466745aec2340ddc8cfe0b1cea3aba"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The contact card helps volunteers _____ the correct person quickly.",
+      "options": {
+        "A": "owe",
+        "B": "inherit",
+        "C": "admire",
+        "D": "reach"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reach 指联系到。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c08f353617903c5adb406649012a2435ca3d94c87de224f48da23cdcdeafa595"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The speaker kept the audience _____ by inviting questions.",
+      "options": {
+        "A": "engaged",
+        "B": "folded",
+        "C": "borrowed",
+        "D": "accused"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "engaged 表示投入参与。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0eb6a4a55a9aa1ef9ca48867ce4272e646d70dec92a665ff9d9727b170e1c6cf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Clear signs prevent _____ at the registration desk.",
+      "options": {
+        "A": "ambition",
+        "B": "confusion",
+        "C": "nutrition",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "confusion 指混乱或困惑。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5c70cc8984ef2beaa2cbae1ef3a9558edd3ef4bd36d9c164a53caf39af5a1e45"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The programme must allow a small _____ for unexpected delays.",
+      "options": {
+        "A": "costume",
+        "B": "ceiling",
+        "C": "margin",
+        "D": "ingredient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "margin 指余地。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6c4a482e9dd12c4c54b129a9656b2b0331bc8a498c6556dfff534169920901e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "We need to know which images are _____ to the argument.",
+      "options": {
+        "A": "accidental",
+        "B": "annual",
+        "C": "distant",
+        "D": "essential"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "essential 表示不可或缺。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5ed2a6b99b33039c54f316205bbfebed53e69a7ac21639ecb06a891e0f5945bc"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The welcome activity _____ before the delayed speaker arrived.",
+      "options": {
+        "A": "has begun",
+        "B": "begins",
+        "C": "will begin",
+        "D": "had begun"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去时间前已开始，用过去完成时。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1b3ff657dafce3e00693e7585b3dac51c7e429d04b7dc5aa928ee832722a6663"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Please make sure that every volunteer _____ a contact card.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "having",
+        "D": "to have"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "every volunteer 单数主语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "72aa2856f72b07d5b5e7304634fd1c33a362b531a081f9189145004fd1f587d3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The organiser suggested that the revised order _____ announced at the entrance.",
+      "options": {
+        "A": "has",
+        "B": "be",
+        "C": "is",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "suggest 建议的从句用虚拟原形。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d38bee8ddd0fe3d5f432c02d139726e852029b5b721b7a9f45d86e8a9656fec3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The outline enabled the speaker _____ without the projector.",
+      "options": {
+        "A": "continued",
+        "B": "continue",
+        "C": "to continue",
+        "D": "continuing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "enable somebody to do。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "62b55767678182b40b7fbb7ca29eebec23f6144cdc05dda57546263c479fe8d3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The registration desk, _____ was near the side door, needed a clearer sign.",
+      "options": {
+        "A": "that",
+        "B": "where",
+        "C": "who",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "非限制性从句缺主语，用 which。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e8db60c80ac653229dea3ce99a8968da2092739da146a61cbd6b790ae1c98cb0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If the team had rehearsed the visitor's route, it _____ the missing sign.",
+      "options": {
+        "A": "would have noticed",
+        "B": "will notice",
+        "C": "notices",
+        "D": "would noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去虚拟条件主句。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cfa6859cad0dd5eb06dcf7cdce94e83701bd84db2e45a3b2530e5650cc4f23f4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Only after reading the comments _____ which instruction was unclear.",
+      "options": {
+        "A": "realised the organisers did",
+        "B": "did the organisers realise",
+        "C": "the organisers realised",
+        "D": "the organisers did realise"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only 状语前置引起倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7f7ff7b3bf6b7078cf9198196cd0de4c85b82462eb9183dc748980f67e931a71"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The new feedback form asks visitors _____ they found most useful.",
+      "options": {
+        "A": "whether",
+        "B": "whose",
+        "C": "what",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "what 引导宾语从句并作 found 的宾语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "93781f817957bb39f3e3e617a5cec01384e4b7a3c22b3cf6090a58d24688da82"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The event was so well signposted _____ newcomers found the desk easily.",
+      "options": {
+        "A": "than",
+        "B": "as",
+        "C": "what",
+        "D": "that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "so...that 结果从句。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9ac1f4fa2e40bfdbc9a19b08f1edf4461b76f6dcb4fe28f0e1dc28a6a2ae7bec"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Instead of _____ every slide aloud, the speaker explained three main ideas.",
+      "options": {
+        "A": "reading",
+        "B": "read",
+        "C": "reads",
+        "D": "to read"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "instead of 后接动名词。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e69be232f1a2385e9020644a736eb72c5bdc16c3c0354cb1c2930e3e2aa6bb4f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nPreparing an event means thinking about the moments when the original plan may no longer work. A short outline, a clear contact list or a spare activity can keep a small problem from interrupting the whole programme. These preparations are most useful when everyone knows where to find them. A backup that nobody can locate offers little practical help.",
+      "referenceAnswer": "筹备活动意味着考虑原计划可能无法继续执行的时刻。简短提纲、清晰的联系人名单或备用活动，可以防止小问题打断整个流程。当每个人都知道去哪里找到这些准备材料时，它们最有用。无人能找到的备用方案，在实际中帮助很小。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "451f7cd7b379b67d00adef7b7e164aa4832865a32b998a00664997595cff5b09",
+      "referenceAnswerFingerprint": "7a01718d76b72b8eb2d2ff9447b5e8d7fd100026999b6ac2a3825a57327b8822"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nYou are organising a community learning event. Write a message to volunteers explaining the arrival procedure, one backup arrangement, and how useful feedback will be collected.",
+      "sampleAnswer": "Dear Volunteers, Thank you for helping with Saturday's learning event. Please arrive at nine and meet at the registration table beside the main entrance. Each team will receive a card showing its role and the coordinator's contact number. Walk the visitor route once before the doors open so that missing signs can be corrected. If the guest speaker is delayed, we will begin with the prepared small-group activity; the host will announce the change. At the end, please invite visitors to name one useful activity and one point that was unclear on the feedback form. Names are optional. We will discuss these comments together next week and record one practical improvement for our next event. Best wishes, The Organising Team.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "6405077801a58a6aac45597942e87956fccbbd3764eee32a42292d804d8fef54",
+      "sampleAnswerFingerprint": "2f5c24e35236c276cb1f04e48c9c0d5a9b0c5b82ceb7fb381347bfc0a498be74"
+    }
+  ],
+  "fingerprintManifest": [
+    "f876eda7eb3681b9b7879e5da13d92e90901f2e09b1f703099507562b7e7da2c",
+    "8d9011cf7f4d25a1bc5ad5633cb368a188cfb7dc9cf879107cbeb793d5bebd25",
+    "9429945b350f10d46011f29a3203cfbedbfa543c72a7cc6b58387fecab75765a",
+    "b67d77dd6c843ee0f8d0e8c2b1bacfddc4f36363453563dbd8dd8a7095d207f8",
+    "85c39fda21dcbed52e94cde9b4f972defa61fe0b67e13a814117c413ae236284",
+    "e949c99a290606134c6ecc295a2fd9117f556ae6421c76e70ebb9b6a3650560a",
+    "4b464b3488eba925f508ca0d8fd2af8050521dcbe83c285a567e54d4af18d8a1",
+    "3db440faa0edb4b46015091585fdc409a7dcdc8d6a8c0815d68f16d69ccc9d6f",
+    "60685439a92eb4ba83bce1cc4ccb0884730ce915a24046e96c6eea4fac86cead",
+    "d95c9b89f78be655bdad4bdc5d8d34785c45cd146e83196fb7782479ce10776a",
+    "946afcc8b22496a1a77d83475867551b064de863566ed4e54c650098512fbee3",
+    "d5997cc9c03c74ad37f0bec9a4a1dcae68f7910ceea086378126f7254fc94469",
+    "353eebed3c56a1a0343bc0d3c91486525a779431d8a58f4bc0bf635d643a60d9",
+    "089e2b1bd5bd6a4cff016943c3c4e10e19ea52bc34883bf70de3bc0f84bf892b",
+    "02c316dba2e452de5566922118b90cf77a74c95859cbc77e892c44668e32944a",
+    "33db729af0b8dc0ba6006c957011a950c1e37a87868a6a676dd5cf8763c14427",
+    "fc7d677d135ca64e0d636fa0f713f19ab776b89a204e8ccb40f7bda4d0a06d6e",
+    "4d98f8044ea69747e18c59ffb3fd37d9e8dce46a2d5f037d5f782f06a498c299",
+    "3304138d5972189f7a7275b4aa341c082686575540caa5560de8b527ff4126ce",
+    "e194a6ee74bbf66bbfc41541994d65b32f357217fd0d50e3c11b4b8b846da49b",
+    "b29f4f90c5e411b195a2bb295b26c3fce3169578263185af8067b1c8ce10ede7",
+    "4a990675c8524498c13d94bbd2130927445b96cfddbd769ccf5a196cbc6e1e9c",
+    "b1364a16a1002590ca60bdb01e5daab597b2cfb6241898b44ee5de91f2ffdbba",
+    "8eb31430a8548adca56c4eea008b63a94a9450a1adc85512526794801f4d8766",
+    "920a0e115a5d7e2a0909317970865ea25d862c185df2155f38d5c743703d6a0d",
+    "881600966cb07efdc1d070cd32a6f66513ab8c8e67641e9f892bac486b0e5482",
+    "d7704dd120bd25cf41d60d043d78647024cddbda3267f7404f0ddb163180f0ce",
+    "6b4b5b08dfeb2f895350942d3e3a618be14ae0dd7a97206b0b209cde0778f036",
+    "5b9316b3ecc430d4c9c5df93a4299457612bb30190c0a1c249d32ea4fdb8bdc9",
+    "98eed2c03b5c5450994df0c9607c858dff4428fb64ef69c98c49767b8307a6f1",
+    "18cdd71caca0e09470b9f6b9875cd3ae86166408e07e91b419e593fa5c0981aa",
+    "c1cc1b02331f1f48dc65fb411c76bdc4be189d824abd0d0a35a5a738a8ab9d2a",
+    "a31732925af0ea817fef04465b9f105e36bffbf5635c09738ec254c6db460a4d",
+    "24956e8002f87d8bc0ca75a6efcae98ab343c234193da8d56aa27b10ba325527",
+    "48e93aa8885bbc8fd25f0ac11e17a6e5769ec10e7913f4826c5211f109bc7c49",
+    "ede75194c3fb9c6118ca3284eec2fc29711beaab773e63338a63d61a547f4cd7",
+    "584b1145e0ae52746893d8425d40577d25653c1668c874c914fc81c8e90008cf",
+    "45305abc679cc84b3e9cb560aa67afd809e849433baa09c473b1147be0a40e6a",
+    "d42bb9d4901ff368e759744f0ab7e32ff89535f95b32cfe79efd1a31ce5a70fa",
+    "5fa8115d256b61c399d10f8e41767b5f2d0193e6b9ce1d7f2c00647e797809ec",
+    "d15be6a4a8b191c70698bbe0465a073d6b831d11646f887d4598132a9b85c8f4",
+    "4328001dfc842ad14c4043736821b30c00466745aec2340ddc8cfe0b1cea3aba",
+    "c08f353617903c5adb406649012a2435ca3d94c87de224f48da23cdcdeafa595",
+    "0eb6a4a55a9aa1ef9ca48867ce4272e646d70dec92a665ff9d9727b170e1c6cf",
+    "5c70cc8984ef2beaa2cbae1ef3a9558edd3ef4bd36d9c164a53caf39af5a1e45",
+    "6c4a482e9dd12c4c54b129a9656b2b0331bc8a498c6556dfff534169920901e2",
+    "5ed2a6b99b33039c54f316205bbfebed53e69a7ac21639ecb06a891e0f5945bc",
+    "1b3ff657dafce3e00693e7585b3dac51c7e429d04b7dc5aa928ee832722a6663",
+    "72aa2856f72b07d5b5e7304634fd1c33a362b531a081f9189145004fd1f587d3",
+    "d38bee8ddd0fe3d5f432c02d139726e852029b5b721b7a9f45d86e8a9656fec3",
+    "62b55767678182b40b7fbb7ca29eebec23f6144cdc05dda57546263c479fe8d3",
+    "e8db60c80ac653229dea3ce99a8968da2092739da146a61cbd6b790ae1c98cb0",
+    "cfa6859cad0dd5eb06dcf7cdce94e83701bd84db2e45a3b2530e5650cc4f23f4",
+    "7f7ff7b3bf6b7078cf9198196cd0de4c85b82462eb9183dc748980f67e931a71",
+    "93781f817957bb39f3e3e617a5cec01384e4b7a3c22b3cf6090a58d24688da82",
+    "9ac1f4fa2e40bfdbc9a19b08f1edf4461b76f6dcb4fe28f0e1dc28a6a2ae7bec",
+    "e69be232f1a2385e9020644a736eb72c5bdc16c3c0354cb1c2930e3e2aa6bb4f",
+    "451f7cd7b379b67d00adef7b7e164aa4832865a32b998a00664997595cff5b09",
+    "7a01718d76b72b8eb2d2ff9447b5e8d7fd100026999b6ac2a3825a57327b8822",
+    "6405077801a58a6aac45597942e87956fccbbd3764eee32a42292d804d8fef54",
+    "2f5c24e35236c276cb1f04e48c9c0d5a9b0c5b82ceb7fb381347bfc0a498be74"
+  ],
+  "contentFingerprint": "7e28e53ed927036a9a7f4dd2eaf1d476475f4ecab43420fe9fc631e12fa7f85c"
+}

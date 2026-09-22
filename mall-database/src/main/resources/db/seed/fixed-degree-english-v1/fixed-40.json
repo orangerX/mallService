@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-40",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 40 · 建筑更新与资源再用",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 40,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "A reading room during renovation",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Reader: The library's main reading room is closed for renovation.\nAssistant: (1) _____\nReader: I need a quiet place for two hours this afternoon.\nAssistant: The temporary room upstairs has individual desks.\nReader: Is there a lift to that floor?\nAssistant: (2) _____\nReader: Will I need to book a desk?\nAssistant: (3) _____\nReader: Where can I find changes to the temporary opening hours?\nAssistant: (4) _____",
+      "sharedOptions": {
+        "A": "What kind of space are you looking for?",
+        "B": "Yes, it is beside the reception desk.",
+        "C": "Booking is recommended; I can check this afternoon's spaces for you.",
+        "D": "They are posted at the entrance and on the library's service page."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"A reading room during renovation\".",
+          "options": {
+            "A": "What kind of space are you looking for?",
+            "B": "Yes, it is beside the reception desk.",
+            "C": "Booking is recommended; I can check this afternoon's spaces for you.",
+            "D": "They are posted at the entrance and on the library's service page."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先了解空间用途和需求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f726f2a95d193a1974fb0812d4897fccdfb737e9aa4a1ff2c84891569cef6d8b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"A reading room during renovation\".",
+          "options": {
+            "A": "What kind of space are you looking for?",
+            "B": "Yes, it is beside the reception desk.",
+            "C": "Booking is recommended; I can check this afternoon's spaces for you.",
+            "D": "They are posted at the entrance and on the library's service page."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明电梯位置回应楼层可达性。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2ee1ef9b2e41074ccb9b43bf31fb517431b46395bbd671014203e7c180d1dd2f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"A reading room during renovation\".",
+          "options": {
+            "A": "What kind of space are you looking for?",
+            "B": "Yes, it is beside the reception desk.",
+            "C": "Booking is recommended; I can check this afternoon's spaces for you.",
+            "D": "They are posted at the entrance and on the library's service page."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答座位预约并提供查询帮助。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "81a7a138f6e80c1894d32bd1c7018a3fa2cab274820742129601d2e39c475aa3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"A reading room during renovation\".",
+          "options": {
+            "A": "What kind of space are you looking for?",
+            "B": "Yes, it is beside the reception desk.",
+            "C": "Booking is recommended; I can check this afternoon's spaces for you.",
+            "D": "They are posted at the entrance and on the library's service page."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "告知临时开放时间变更渠道。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "45fb4e3e9b3485ba78c32678fe73289b53adeea85fd0caf564d18f810dc6dabe"
+        }
+      ],
+      "contentFingerprint": "075d9f3e7a936a313b39a7cc1c7c2e1e453a47484b5a45df8110f10a775af758"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Offering old shelves for reuse",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Resident: Our club has wooden shelves that may suit the renovated hall.\nProject worker: (1) _____\nResident: I have measurements and photographs here.\nProject worker: Thank you; we must check their condition and suitability first.\nResident: Shall I deliver them tomorrow?\nProject worker: (2) _____\nResident: If they cannot be used, will you let me know?\nProject worker: (3) _____",
+      "sharedOptions": {
+        "A": "Every old shelf is suitable for every building.",
+        "B": "Could you tell me their dimensions?",
+        "C": "Please wait until the project team confirms that it can accept them.",
+        "D": "Certainly, we will explain the decision before any collection is arranged."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Offering old shelves for reuse\".",
+          "options": {
+            "A": "Every old shelf is suitable for every building.",
+            "B": "Could you tell me their dimensions?",
+            "C": "Please wait until the project team confirms that it can accept them.",
+            "D": "Certainly, we will explain the decision before any collection is arranged."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "先获取尺寸信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1cdca21e9c4bcb1b3914e9870f2987b09c111a2f655a24917ec96d3e2a306c52"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Offering old shelves for reuse\".",
+          "options": {
+            "A": "Every old shelf is suitable for every building.",
+            "B": "Could you tell me their dimensions?",
+            "C": "Please wait until the project team confirms that it can accept them.",
+            "D": "Certainly, we will explain the decision before any collection is arranged."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "确认适用与可接收前不要送货。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "46989b93170308292663b7386ca874509c2c5cf8a5bf2fc1b8c6179fe2f78cdd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Offering old shelves for reuse\".",
+          "options": {
+            "A": "Every old shelf is suitable for every building.",
+            "B": "Could you tell me their dimensions?",
+            "C": "Please wait until the project team confirms that it can accept them.",
+            "D": "Certainly, we will explain the decision before any collection is arranged."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "答应在收取前说明决定。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d4671ac31e779170c0f4edc0cf606a48d004917a8ed4606dad2fcb470192815a"
+        }
+      ],
+      "contentFingerprint": "6ecb8345ae0a986c7c808985facdb6afa7e466c49dcd2aaf51da875cf1ec0626"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "The noisy work schedule",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Tenant: The drilling has interrupted our afternoon language group.\nSite contact: (1) _____\nTenant: On Tuesdays and Thursdays from two to four.\nSite contact: (2) _____\nTenant: We could use the rear room if it is quieter.\nSite contact: (3) _____",
+      "sharedOptions": {
+        "A": "Let us check that room together before changing your booking.",
+        "B": "You should stop all language learning permanently.",
+        "C": "At what times does the group meet?",
+        "D": "I will compare those times with the work schedule and discuss a temporary room."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：回应意图与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"The noisy work schedule\".",
+          "options": {
+            "A": "Let us check that room together before changing your booking.",
+            "B": "You should stop all language learning permanently.",
+            "C": "At what times does the group meet?",
+            "D": "I will compare those times with the work schedule and discuss a temporary room."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先核活动时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0f659fc7536e1f2b72f469673a6401b479ad094317cff6132ed92176c730bf57"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"The noisy work schedule\".",
+          "options": {
+            "A": "Let us check that room together before changing your booking.",
+            "B": "You should stop all language learning permanently.",
+            "C": "At what times does the group meet?",
+            "D": "I will compare those times with the work schedule and discuss a temporary room."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "将课程和施工安排比较并商量临时空间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ae6bb2a138c4e7a388f26142e6a8b0ce5a8b4d3052ba74926aa30ca07c71f07b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"The noisy work schedule\".",
+          "options": {
+            "A": "Let us check that room together before changing your booking.",
+            "B": "You should stop all language learning permanently.",
+            "C": "At what times does the group meet?",
+            "D": "I will compare those times with the work schedule and discuss a temporary room."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "迁移前一同核对房间是否合适。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "63d4506cfb6d878c8f0dc76ce02882a407cc86c0fe00d16e60c37ff975840632"
+        }
+      ],
+      "contentFingerprint": "1c193494e7b3bcb07d8577e3e53bcc240bef39f1882b8e202f198ce1cdb9cd0d"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The room inside the old station",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "An unused railway waiting room became a small study centre. The first design replaced every original bench with new furniture. Residents suggested keeping two benches because they showed how the room had once been used. The designer retained them along one wall while adding desks with suitable lighting elsewhere. Visitors could recognise the building's history without being asked to study in uncomfortable positions. Reuse involved deciding what should remain and what needed to change.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The room inside the old station\", What was the waiting room converted into?",
+          "options": {
+            "A": "A food warehouse.",
+            "B": "A ticket factory.",
+            "C": "A private car park.",
+            "D": "A study centre."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "旧候车室改成学习中心。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ff68a3b24118ce1d0ba8bdd6e35d25a3bec004009facd66c237f3b852b10b41a",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The room inside the old station\", What did the first design propose?",
+          "options": {
+            "A": "Replacing every original bench.",
+            "B": "Keeping every surface untouched.",
+            "C": "Removing the building entirely.",
+            "D": "Closing the centre indefinitely."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "初稿替换所有旧长椅。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "08a27c92adfa3ce904cba83b5825314dd774ca27bd2ab7f3f06cb8405e45d821",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The room inside the old station\", Why did residents value two benches?",
+          "options": {
+            "A": "They guaranteed silence.",
+            "B": "They showed the room's earlier use.",
+            "C": "They contained hidden desks.",
+            "D": "They were the only lights."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "长椅体现历史用途。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "92bb7ccf3bfda371b1b1ce278dabd1920802fe5546a1ebb14526fa8c2f9c5171",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The room inside the old station\", How were study needs addressed?",
+          "options": {
+            "A": "All historical objects were removed.",
+            "B": "The room opened only at night.",
+            "C": "New desks and suitable lighting were added.",
+            "D": "Learners stood throughout lessons."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "另设合适桌椅照明满足新用途。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "986715cf32280735867b69e7fca29ddb8e5f2f508c406151cc7c04e81a573895",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The room inside the old station\", What approach to reuse is illustrated?",
+          "options": {
+            "A": "Preserving every object regardless of use.",
+            "B": "Replacing everything automatically.",
+            "C": "Ignoring both residents and learners.",
+            "D": "Balancing retained history with present needs."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "保留历史与适应当下之间作选择。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c1ab2be96b2a2b8eb3e2e9ab1c497af647f72af5fe6061cea5524a8072767195",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "57db677dec9671d2c7c0b5d98627973fb5f5b160a414f3f15b2a50c07b3a5267"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The window with three comments",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "Staff described a renovated office as bright, but afternoon users complained about glare on screens. The facilities team collected comments at several times of day and measured where sunlight fell. Adjustable blinds reduced the glare while allowing daylight when it was useful. The team avoided judging the room from a single morning visit. A comfortable design had to work across changing conditions and for people carrying out different tasks.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"The window with three comments\", What problem did afternoon users report?",
+          "options": {
+            "A": "Glare on screens.",
+            "B": "A total lack of windows.",
+            "C": "Frozen door handles.",
+            "D": "Too many evening buses."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "下午屏幕眩光。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "79f0ab11544748e6dc50746d37d3004bf4a364a059ddd48eb5079e8eabfac693",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"The window with three comments\", How did the team gather a fuller picture?",
+          "options": {
+            "A": "Counted chairs without visiting.",
+            "B": "Collected comments at different times and observed sunlight.",
+            "C": "Asked only one morning visitor.",
+            "D": "Removed all office tasks."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "跨时间反馈并测看日照位置。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4cc3188ad5f532af82b9fcd7d13faab9be617ccc228280162ccb9a775e024c95",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"The window with three comments\", What solution was used?",
+          "options": {
+            "A": "No desks at all.",
+            "B": "Brighter advertising signs.",
+            "C": "Adjustable blinds.",
+            "D": "Permanently covered windows."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "可调百叶帘。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "27d0d7e5f17efbf6d76020aae3070df994b4345fce5bf76d2a01cbd02650500c",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"The window with three comments\", What did the team avoid?",
+          "options": {
+            "A": "Listening to staff.",
+            "B": "Using daylight at any time.",
+            "C": "Considering different tasks.",
+            "D": "Judging the room from one morning visit."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "避免仅凭早上一次体验下判断。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fafeb215c11fa4f9a8553ec9c37620b40add35e405eeb7f8b4d51c7ba4357757",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"The window with three comments\", What broader requirement does the passage identify?",
+          "options": {
+            "A": "Design should suit changing conditions and activities.",
+            "B": "Brightness is the only measure of comfort.",
+            "C": "Every user has the same needs.",
+            "D": "A renovated room needs no further attention."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "空间要适应时段变化和工作差异。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1adcae06a45399adb06083f6de1a31c0c5bcfdb555655e7e6f91a722a26de558",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "6b7e2c2466b4cc1d8f636e9e2196a9f08c42b7e27df7e00eba0b1e27a4385a6b"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A door waiting for a home",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "During a hall renovation, workers saved several solid doors for possible reuse. At first they leaned against a wall without labels. Later, a team searching for a matching size had to measure every door again. Volunteers then attached dimensions, condition notes and the place each door had come from. The collection became easier to use. Saving materials avoided immediate disposal, but organised information helped turn a pile of objects into a useful supply.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"A door waiting for a home\", How were saved doors first stored?",
+          "options": {
+            "A": "Inside delivery envelopes.",
+            "B": "Against a wall without labels.",
+            "C": "In labelled display cases.",
+            "D": "At every volunteer's home."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最初靠墙堆放未贴标。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c3c1bf6455fadf174d87254173b3f675b9a2a92f03c3dffb7cd07c4ab3e8eab8",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"A door waiting for a home\", What work had to be repeated?",
+          "options": {
+            "A": "Digging a new entrance.",
+            "B": "Printing tickets.",
+            "C": "Measuring every door.",
+            "D": "Painting the whole hall."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "找尺寸时重新逐一测量。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "06b23cc8bc77bd45bf338b2f734294d4afd4be45a53d7a351640dda08f9eba70",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"A door waiting for a home\", What information was added?",
+          "options": {
+            "A": "Only the volunteers' names.",
+            "B": "The weather on opening day.",
+            "C": "Visitors' ages and incomes.",
+            "D": "Dimensions, condition and origin."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "标签加尺寸、状态和出处。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "53720738679a4c030205379ec898ec560d78a8b7d97307fbf7e26a49eec00972",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"A door waiting for a home\", Why did labels improve the collection?",
+          "options": {
+            "A": "Suitable doors could be identified more easily.",
+            "B": "They made every door identical.",
+            "C": "They eliminated all building work.",
+            "D": "They increased the weight of wood."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "便于筛选可用材料。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d3dffb2375b0ab2f80cdd5741bbee495fa4e3fbdb58ae99a08ba4462bf0f4b8a",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"A door waiting for a home\", What distinction does the passage make?",
+          "options": {
+            "A": "Volunteers and paid readers.",
+            "B": "Saving materials and making them practically reusable.",
+            "C": "Doors and windows as weather forecasts.",
+            "D": "Old halls and new railway lines."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "保存下来还要组织信息才能再利用。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "de5a9da45e271062c064124fcc53ee3d089b880d9b0b5c304bb22a0103b49149",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "f8d1d8bf717591c179876b1f214024746d9083ae633c5fd8af3ef69b93121cbe"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The repair plan in stages",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A community centre could not close for an entire renovation because several groups depended on its rooms. The project team divided the work into stages and published which rooms would be available each month. A contact person handled changes when work took longer than expected. The staged approach required extra coordination, but activities continued. The team included this coordination effort in its final report instead of describing uninterrupted service as something that had happened automatically.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：主旨、细节、推断与词义"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The repair plan in stages\", Why was a complete closure avoided?",
+          "options": {
+            "A": "The centre had no entrance.",
+            "B": "Workers refused every schedule.",
+            "C": "Community groups depended on the rooms.",
+            "D": "No repairs were needed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "很多社团依赖场所。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ea2b31487408fee209d4b7625fb464b002e8a13e5c329ddb83c7c19c7491362d",
+          "groupSortOrder": 1
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The repair plan in stages\", How was the work organised?",
+          "options": {
+            "A": "Without any dates.",
+            "B": "Only during one lunch break.",
+            "C": "By replacing every group.",
+            "D": "In stages."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "将施工分阶段。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "2911fb1e5085c41b26458a17b1c72e0f8b7f1e4f0105552668f189500ed551e9",
+          "groupSortOrder": 2
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The repair plan in stages\", What information was published?",
+          "options": {
+            "A": "Monthly room availability.",
+            "B": "Private information about every learner.",
+            "C": "The workers' bank accounts.",
+            "D": "A list of unrelated buildings."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "逐月公布可用房间。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d044b8ff633aff81700983e884354ba35a9a033dcd60adf5bbd860b0b59e49e6",
+          "groupSortOrder": 3
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The repair plan in stages\", Who handled unexpected changes?",
+          "options": {
+            "A": "Only the book supplier.",
+            "B": "A designated contact person.",
+            "C": "Every visitor independently.",
+            "D": "No one."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指定联系人协调变动。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7990916433d84966469465485b71115b06a3f7f4888a7175c1e6184b2be92d30",
+          "groupSortOrder": 4
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The repair plan in stages\", Why mention coordination effort in the final report?",
+          "options": {
+            "A": "No activities had continued.",
+            "B": "The schedule had never changed.",
+            "C": "Continued service required deliberate work.",
+            "D": "The centre wanted to hide delays."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "服务不中断靠有意协调，非自动实现。",
+          "knowledgePoints": [
+            "阅读理解：细节、推断与篇章含义"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e0f73c9c62f81670a6e69bf238d23e813e9b8de447e83c999f048f636198a169",
+          "groupSortOrder": 5
+        }
+      ],
+      "contentFingerprint": "f710f8bf5e62e8b662a069b45e61b8f34c5a27c99d917eada8f6ef699e969b0f"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The renovation aims to _____ the building for present-day activities.",
+      "options": {
+        "A": "adapt",
+        "B": "accuse",
+        "C": "borrow",
+        "D": "scatter"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "adapt 表示改造使适应。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b102153389576bfccd20f57b2857e9364e4cf36f85197788a8353c2ffd233e6f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Some original features were _____ to show the station's history.",
+      "options": {
+        "A": "exported",
+        "B": "retained",
+        "C": "rejected",
+        "D": "invented"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "retain 表示保留。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d35451edfb3c79c801b9534a79c771fdec972123d247376f55ca84c6d6842670"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Strong sunlight caused _____ on the computer screens.",
+      "options": {
+        "A": "silence",
+        "B": "leisure",
+        "C": "glare",
+        "D": "flavour"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "glare 指刺眼反光。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4d42d81aa912bb53dde84b649b3a7764cabe5380a486e1a3acb4c0a33598d300"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Each salvaged door carries a note describing its _____.",
+      "options": {
+        "A": "ambition",
+        "B": "appetite",
+        "C": "opinion",
+        "D": "condition"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "condition 指状态。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bc72fb93d4b21407ce1c66e61d8b83381c4455a03a4197e96b54def977d62a5c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Clear labels make stored materials easier to _____.",
+      "options": {
+        "A": "identify",
+        "B": "resent",
+        "C": "owe",
+        "D": "confess"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "identify 表示识别。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "019eef67134d8ddaf7aa0cff22440843847afc4ca7f56937fb6e785a835e2ba5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The work will proceed in several _____ rather than one complete closure.",
+      "options": {
+        "A": "shadows",
+        "B": "stages",
+        "C": "symptoms",
+        "D": "salaries"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "stages 指阶段。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f93c18a316818d43aca6e238bc3ceb666867e5543ba6749e4713e62f83867fd8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Continuing activities during repairs requires careful _____.",
+      "options": {
+        "A": "hesitation",
+        "B": "imagination alone",
+        "C": "coordination",
+        "D": "decoration"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "coordination 指协调。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec5bc18a66a1d76275cb86848ecdb7f968611ffec96890bcb9e26b6a4694445e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Adjustable blinds offer more _____ over the light entering the room.",
+      "options": {
+        "A": "permission",
+        "B": "distance",
+        "C": "weather",
+        "D": "control"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "control over 表示控制。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "193b3e68e6acfa52aeeb1d0c3ee9c510efc09f1e1919f59f7f7eda01faa3c56b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The project checked whether donated shelves were _____ for the new space.",
+      "options": {
+        "A": "appropriate",
+        "B": "guilty",
+        "C": "edible",
+        "D": "jealous"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "appropriate 表示适用。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4928f5bed2de64a65e3e407ad8ba555b87fa66c7c98499e4b3ec0efafd30335b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Recording the origin of an object preserves useful _____ about its earlier life.",
+      "options": {
+        "A": "luggage",
+        "B": "information",
+        "C": "furniture",
+        "D": "traffic"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "information 表示相关信息。",
+      "knowledgePoints": [
+        "词汇：语境与词义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8cb9df3d8f65c927b2b27a591d997fa67d32e52712a8a57cf6d206c899a0338c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The old waiting room _____ into a study centre last year.",
+      "options": {
+        "A": "was convert",
+        "B": "was converted",
+        "C": "converted",
+        "D": "has converting"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去被改造，用过去时被动。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bcce5ddde7515d3b237d3fdc89b49cbb85fb417a515327c9c92c9bca1b02c057"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The two benches _____ were retained stand along the west wall.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "定语从句缺主语，指物用 that。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9f39def54c67fbd599fdf079843f0a3d099efe0fcfc44d2517b364fc2963e270"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If the team had labelled the doors earlier, it _____ them all again.",
+      "options": {
+        "A": "will not measure",
+        "B": "does not measure",
+        "C": "had not measuring",
+        "D": "would not have measured"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟结果用 would have done。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e4130c51f3cc8d4c636cca30d3852007bb02f93b9238596c46419943f56d5ff3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The donated shelves are too wide _____ through the temporary entrance.",
+      "options": {
+        "A": "to fit",
+        "B": "fitting",
+        "C": "fitted",
+        "D": "fit"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "too...to 不定式结构。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "33af1a2448c1349e79d90dc2e44ef0fa9ddd20d800aeb3bc338d32fdb267d121"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The manager asked _____ rooms would remain available in October.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "whose",
+        "D": "whether to"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "which 修饰 rooms，询问哪些房间。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "df2806334374edb1a435aea448baf09d184ce6a03a0db0acffff3464be773ffd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Several activities continued while the roof _____ repaired.",
+      "options": {
+        "A": "was been",
+        "B": "had",
+        "C": "was being",
+        "D": "has being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "while 表同时过去过程，被动进行时。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "edb374a89f5d13aeccccd3f1f139dc2ced9b1f3cbcf3292dad280950dda84131"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The project team recommended _____ the work into three stages.",
+      "options": {
+        "A": "divide",
+        "B": "divided",
+        "C": "to dividing",
+        "D": "dividing"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "recommend 后接动名词。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "593bae092ddf26d55cc74c616f3a3463a87a986ce816ada744f109402b405b6b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither of the original benches _____ suitable as a study desk.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "neither of 通常接单数谓语。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7575ba3066127e3aecb05bdc3daa782d2cedca7ad8d86375dc555994fc303236"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only when users described the afternoon glare _____ the need for blinds.",
+      "options": {
+        "A": "understood we did",
+        "B": "did we understand",
+        "C": "we understood",
+        "D": "we did understand"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only 引导状语前置，主句倒装。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "434e0a993d5a4185c3a94248ec7826e0b27a3706e76305e6d7772eff9851ebc6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more accurately materials are labelled, _____ it is to find a suitable item.",
+      "options": {
+        "A": "easiest",
+        "B": "the easiest of",
+        "C": "the easier",
+        "D": "easier than"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the easier 比较结构。",
+      "knowledgePoints": [
+        "语法：句法关系与正确形式"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "de47458805eaeeafe942b00d56f3dbddcab2d4868297a61d993dde149374d7e5"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into natural Chinese, preserving its meaning and logical connections.\n\nGiving an old building a new use requires more than preserving its appearance. The space must support the activities that will take place inside it. Some features may tell an important story, while others may prevent comfortable use. Thoughtful renovation makes these choices explicit and explains how the building's past can remain visible within its changing role.",
+      "referenceAnswer": "赋予旧建筑新用途，不仅仅是保留其外观。空间必须支持将在其中开展的活动。有些特征可能承载重要的故事，另一些则可能妨碍舒适使用。经过周全考虑的改造会明确这些选择，并解释建筑在角色变化的同时，如何仍让人看见它的过去。",
+      "explanation": "参考译文不是唯一答案；信息完整、逻辑准确且中文自然的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整与准确",
+            "maxScore": 9,
+            "description": "准确传达原文各句核心信息和逻辑关系，按误译或遗漏程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，指代清楚，符合中文行文习惯。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词符合语境，标点和文字规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义、指代与逻辑关系"
+      ],
+      "score": 15,
+      "contentFingerprint": "7598d965f6b3a2f9747c6f0dd4bbd75c0d807b39486f396fa5ada4d2bba688e6",
+      "referenceAnswerFingerprint": "e73afbd81e286034c7fe67adaf33ee08cc1976c61112e4faba45a72ae5e5d718"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 words in English for this original simulation task.\n\nA former station waiting room will become an adult study centre. Write a proposal explaining one historical feature to retain, two practical needs to address, and how future users should be consulted.",
+      "sampleAnswer": "I propose retaining one original bench and a short account of the waiting room's history near the entrance. This would help learners understand the building without making old furniture serve every modern purpose. The main study area needs comfortable desks and lighting that works for reading as well as screens. It also needs a clear route that people with different mobility needs can use. Before final decisions, the project team should invite adult learners to walk through a temporary arrangement and describe any difficulties. Comments should be gathered during both daytime and evening visits because conditions may differ. The finished centre could show which suggestions influenced the design. Reusing the building should preserve a recognisable history while supporting the people who will study there.",
+      "explanation": "范文展示一种可行的回应；允许不同观点和例子，按任务完成、组织和语言评分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成与内容",
+            "maxScore": 6,
+            "description": "回应题目全部要求，观点明确，理由、例子或建议与情境相关。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "段落信息顺序合理，衔接自然，格式适合写作目的。"
+          },
+          {
+            "name": "语言与表达",
+            "maxScore": 5,
+            "description": "用词恰当，语法准确；按错误对理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英语写作：任务回应与连贯表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "701c5581e8c55d7475c28746a0d589f33f720887d7a9a4d06481c653dcd7bbcb",
+      "sampleAnswerFingerprint": "992e95bfe79821040c0807b5b08fe7fa99b2cbe575742612de43867b8bc5553a"
+    }
+  ],
+  "fingerprintManifest": [
+    "075d9f3e7a936a313b39a7cc1c7c2e1e453a47484b5a45df8110f10a775af758",
+    "f726f2a95d193a1974fb0812d4897fccdfb737e9aa4a1ff2c84891569cef6d8b",
+    "2ee1ef9b2e41074ccb9b43bf31fb517431b46395bbd671014203e7c180d1dd2f",
+    "81a7a138f6e80c1894d32bd1c7018a3fa2cab274820742129601d2e39c475aa3",
+    "45fb4e3e9b3485ba78c32678fe73289b53adeea85fd0caf564d18f810dc6dabe",
+    "6ecb8345ae0a986c7c808985facdb6afa7e466c49dcd2aaf51da875cf1ec0626",
+    "1cdca21e9c4bcb1b3914e9870f2987b09c111a2f655a24917ec96d3e2a306c52",
+    "46989b93170308292663b7386ca874509c2c5cf8a5bf2fc1b8c6179fe2f78cdd",
+    "d4671ac31e779170c0f4edc0cf606a48d004917a8ed4606dad2fcb470192815a",
+    "1c193494e7b3bcb07d8577e3e53bcc240bef39f1882b8e202f198ce1cdb9cd0d",
+    "0f659fc7536e1f2b72f469673a6401b479ad094317cff6132ed92176c730bf57",
+    "ae6bb2a138c4e7a388f26142e6a8b0ce5a8b4d3052ba74926aa30ca07c71f07b",
+    "63d4506cfb6d878c8f0dc76ce02882a407cc86c0fe00d16e60c37ff975840632",
+    "57db677dec9671d2c7c0b5d98627973fb5f5b160a414f3f15b2a50c07b3a5267",
+    "ff68a3b24118ce1d0ba8bdd6e35d25a3bec004009facd66c237f3b852b10b41a",
+    "08a27c92adfa3ce904cba83b5825314dd774ca27bd2ab7f3f06cb8405e45d821",
+    "92bb7ccf3bfda371b1b1ce278dabd1920802fe5546a1ebb14526fa8c2f9c5171",
+    "986715cf32280735867b69e7fca29ddb8e5f2f508c406151cc7c04e81a573895",
+    "c1ab2be96b2a2b8eb3e2e9ab1c497af647f72af5fe6061cea5524a8072767195",
+    "6b7e2c2466b4cc1d8f636e9e2196a9f08c42b7e27df7e00eba0b1e27a4385a6b",
+    "79f0ab11544748e6dc50746d37d3004bf4a364a059ddd48eb5079e8eabfac693",
+    "4cc3188ad5f532af82b9fcd7d13faab9be617ccc228280162ccb9a775e024c95",
+    "27d0d7e5f17efbf6d76020aae3070df994b4345fce5bf76d2a01cbd02650500c",
+    "fafeb215c11fa4f9a8553ec9c37620b40add35e405eeb7f8b4d51c7ba4357757",
+    "1adcae06a45399adb06083f6de1a31c0c5bcfdb555655e7e6f91a722a26de558",
+    "f8d1d8bf717591c179876b1f214024746d9083ae633c5fd8af3ef69b93121cbe",
+    "c3c1bf6455fadf174d87254173b3f675b9a2a92f03c3dffb7cd07c4ab3e8eab8",
+    "06b23cc8bc77bd45bf338b2f734294d4afd4be45a53d7a351640dda08f9eba70",
+    "53720738679a4c030205379ec898ec560d78a8b7d97307fbf7e26a49eec00972",
+    "d3dffb2375b0ab2f80cdd5741bbee495fa4e3fbdb58ae99a08ba4462bf0f4b8a",
+    "de5a9da45e271062c064124fcc53ee3d089b880d9b0b5c304bb22a0103b49149",
+    "f710f8bf5e62e8b662a069b45e61b8f34c5a27c99d917eada8f6ef699e969b0f",
+    "ea2b31487408fee209d4b7625fb464b002e8a13e5c329ddb83c7c19c7491362d",
+    "2911fb1e5085c41b26458a17b1c72e0f8b7f1e4f0105552668f189500ed551e9",
+    "d044b8ff633aff81700983e884354ba35a9a033dcd60adf5bbd860b0b59e49e6",
+    "7990916433d84966469465485b71115b06a3f7f4888a7175c1e6184b2be92d30",
+    "e0f73c9c62f81670a6e69bf238d23e813e9b8de447e83c999f048f636198a169",
+    "b102153389576bfccd20f57b2857e9364e4cf36f85197788a8353c2ffd233e6f",
+    "d35451edfb3c79c801b9534a79c771fdec972123d247376f55ca84c6d6842670",
+    "4d42d81aa912bb53dde84b649b3a7764cabe5380a486e1a3acb4c0a33598d300",
+    "bc72fb93d4b21407ce1c66e61d8b83381c4455a03a4197e96b54def977d62a5c",
+    "019eef67134d8ddaf7aa0cff22440843847afc4ca7f56937fb6e785a835e2ba5",
+    "f93c18a316818d43aca6e238bc3ceb666867e5543ba6749e4713e62f83867fd8",
+    "ec5bc18a66a1d76275cb86848ecdb7f968611ffec96890bcb9e26b6a4694445e",
+    "193b3e68e6acfa52aeeb1d0c3ee9c510efc09f1e1919f59f7f7eda01faa3c56b",
+    "4928f5bed2de64a65e3e407ad8ba555b87fa66c7c98499e4b3ec0efafd30335b",
+    "8cb9df3d8f65c927b2b27a591d997fa67d32e52712a8a57cf6d206c899a0338c",
+    "bcce5ddde7515d3b237d3fdc89b49cbb85fb417a515327c9c92c9bca1b02c057",
+    "9f39def54c67fbd599fdf079843f0a3d099efe0fcfc44d2517b364fc2963e270",
+    "e4130c51f3cc8d4c636cca30d3852007bb02f93b9238596c46419943f56d5ff3",
+    "33af1a2448c1349e79d90dc2e44ef0fa9ddd20d800aeb3bc338d32fdb267d121",
+    "df2806334374edb1a435aea448baf09d184ce6a03a0db0acffff3464be773ffd",
+    "edb374a89f5d13aeccccd3f1f139dc2ced9b1f3cbcf3292dad280950dda84131",
+    "593bae092ddf26d55cc74c616f3a3463a87a986ce816ada744f109402b405b6b",
+    "7575ba3066127e3aecb05bdc3daa782d2cedca7ad8d86375dc555994fc303236",
+    "434e0a993d5a4185c3a94248ec7826e0b27a3706e76305e6d7772eff9851ebc6",
+    "de47458805eaeeafe942b00d56f3dbddcab2d4868297a61d993dde149374d7e5",
+    "7598d965f6b3a2f9747c6f0dd4bbd75c0d807b39486f396fa5ada4d2bba688e6",
+    "e73afbd81e286034c7fe67adaf33ee08cc1976c61112e4faba45a72ae5e5d718",
+    "701c5581e8c55d7475c28746a0d589f33f720887d7a9a4d06481c653dcd7bbcb",
+    "992e95bfe79821040c0807b5b08fe7fa99b2cbe575742612de43867b8bc5553a"
+  ],
+  "contentFingerprint": "2b0fb4eba6d0c7a2e4ba98a1cb3b5a48e5ec43db6eca30b9307bb163e7dd7105"
+}

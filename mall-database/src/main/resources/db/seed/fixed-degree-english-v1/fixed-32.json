@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-32",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 32 · 夜班协作与城市服务",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、单位和事件均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 32,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Handing over a late bus",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Driver: Has the replacement vehicle arrived?\nDispatcher: (1) _____\nDriver: Then I can move the passengers across. Is the ramp working?\nDispatcher: (2) _____\nDriver: Good. Who will explain the delay at the next stop?\nDispatcher: (3) _____\nDriver: Where should I leave this bus afterwards?\nDispatcher: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, it is waiting behind yours.",
+        "B": "The mechanic checked it five minutes ago.",
+        "C": "Our street supervisor is already speaking to the waiting passengers.",
+        "D": "Park it in bay six and hand the keys to the duty mechanic."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "stem": "In \"Handing over a late bus\", select the response for blank (1).",
+          "options": {
+            "A": "Yes, it is waiting behind yours.",
+            "B": "The mechanic checked it five minutes ago.",
+            "C": "Our street supervisor is already speaking to the waiting passengers.",
+            "D": "Park it in bay six and hand the keys to the duty mechanic."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "has arrived 对应已在后方等待。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "cdc647308bc48b17a1077f38bd695c853285943421e39ee869baf88d08798805"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "stem": "In \"Handing over a late bus\", select the response for blank (2).",
+          "options": {
+            "A": "Yes, it is waiting behind yours.",
+            "B": "The mechanic checked it five minutes ago.",
+            "C": "Our street supervisor is already speaking to the waiting passengers.",
+            "D": "Park it in bay six and hand the keys to the duty mechanic."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "坡道可用性对应技师刚检查的结果。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "93e359724084e4f62d19137cff3ae826b0fb26993f3698320724179374e2e22f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "stem": "In \"Handing over a late bus\", select the response for blank (3).",
+          "options": {
+            "A": "Yes, it is waiting behind yours.",
+            "B": "The mechanic checked it five minutes ago.",
+            "C": "Our street supervisor is already speaking to the waiting passengers.",
+            "D": "Park it in bay six and hand the keys to the duty mechanic."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "询问谁解释延误，回答指定现场主管。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "367b1f8cf5fe49c559cb61bbe091c8791abcca159974526e48c7fcb137109f8e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "stem": "In \"Handing over a late bus\", select the response for blank (4).",
+          "options": {
+            "A": "Yes, it is waiting behind yours.",
+            "B": "The mechanic checked it five minutes ago.",
+            "C": "Our street supervisor is already speaking to the waiting passengers.",
+            "D": "Park it in bay six and hand the keys to the duty mechanic."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "交代故障车停放点和钥匙交接。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0cca871baf77997558cd3263c5226627b33c0721595a07b007a7e8b7f41bb2a6"
+        }
+      ],
+      "contentFingerprint": "959e5d05d875fa3d61cd136460cf16804e9a09cbe9dad1a77b304f1ce15f443d"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "A clearer overnight note",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Nurse: This handover says the supply cabinet is nearly empty.\nAssistant: (1) _____\nNurse: Exactly; we need quantities, not guesses.\nAssistant: (2) _____\nNurse: Please add that the replacement box is in reception.\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "Would listing the remaining items be more useful?",
+        "B": "I'll count the sealed packs before rewriting it.",
+        "C": "I'll include both the location and who has the key.",
+        "D": "The cafeteria serves breakfast at seven."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "stem": "In \"A clearer overnight note\", select the response for blank (1).",
+          "options": {
+            "A": "Would listing the remaining items be more useful?",
+            "B": "I'll count the sealed packs before rewriting it.",
+            "C": "I'll include both the location and who has the key.",
+            "D": "The cafeteria serves breakfast at seven."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文 quantities 表明应列出准确物品数量。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "8c539c27f8617732609e42688621902f1f71074aee58a1a00a15c5d5db0325c7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "stem": "In \"A clearer overnight note\", select the response for blank (2).",
+          "options": {
+            "A": "Would listing the remaining items be more useful?",
+            "B": "I'll count the sealed packs before rewriting it.",
+            "C": "I'll include both the location and who has the key.",
+            "D": "The cafeteria serves breakfast at seven."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "计数后改写可避免猜测。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "775b121fe7b9379d266a4de9527cb73e33c1f463e818de861e694957ac18a7d8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "stem": "In \"A clearer overnight note\", select the response for blank (3).",
+          "options": {
+            "A": "Would listing the remaining items be more useful?",
+            "B": "I'll count the sealed packs before rewriting it.",
+            "C": "I'll include both the location and who has the key.",
+            "D": "The cafeteria serves breakfast at seven."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "柜外补货位置和取用钥匙有助于交接。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f3bddc8a252297572ce2152eb4edbe90e9f35134346a31a7e4e15c7ae5f46708"
+        }
+      ],
+      "contentFingerprint": "7bbee58dace1d7e2ecd4e06331adf0572fd86b1e5c750642c8b2d6ee7ab98cd2"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Rescheduling after a night shift",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Student: I finish my shift at six, so the eight o'clock seminar is difficult.\nTutor: (1) _____\nStudent: The afternoon group would work. Will I study the same material?\nTutor: (2) _____\nStudent: Do I need to explain my situation to both tutors?\nTutor: (3) _____",
+      "sharedOptions": {
+        "A": "There is another group that meets at two.",
+        "B": "Yes, both groups follow the same weekly outline.",
+        "C": "Send one message and copy us both into it.",
+        "D": "The assignment requires three references."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "交际功能与上下文衔接"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "stem": "In \"Rescheduling after a night shift\", select the response for blank (1).",
+          "options": {
+            "A": "There is another group that meets at two.",
+            "B": "Yes, both groups follow the same weekly outline.",
+            "C": "Send one message and copy us both into it.",
+            "D": "The assignment requires three references."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "上午难以参加，下午替代班符合需求。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f2eee243a1394135985a9237d59412ebd7e0fcd05047220c119cd4d289496fcb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "stem": "In \"Rescheduling after a night shift\", select the response for blank (2).",
+          "options": {
+            "A": "There is another group that meets at two.",
+            "B": "Yes, both groups follow the same weekly outline.",
+            "C": "Send one message and copy us both into it.",
+            "D": "The assignment requires three references."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "same material 对应同一周教学大纲。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "groupSortOrder": 2,
+          "contentFingerprint": "34f2f35988a8827c8c169560c01d260119441e8ec818eaac661bc48d1467825e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "stem": "In \"Rescheduling after a night shift\", select the response for blank (3).",
+          "options": {
+            "A": "There is another group that meets at two.",
+            "B": "Yes, both groups follow the same weekly outline.",
+            "C": "Send one message and copy us both into it.",
+            "D": "The assignment requires three references."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "询问如何通知两位老师，应说明一次抄送。",
+          "knowledgePoints": [
+            "交际语境"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9b1a01d81ab4b6523514311206499c8b7af104e7231e04238218ff527672de6a"
+        }
+      ],
+      "contentFingerprint": "4f4e0aa3598a6577b14999c999e673b08c6aac201ff05283108223ae2c2ce19d"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The handover board",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "The night team at a parcel depot once left long handwritten reports for the morning team. Important unfinished jobs were often buried among routine details. A supervisor introduced a board with three columns: completed work, unresolved issues and the next required action. Each unresolved issue also named a responsible person. Reports became shorter, but the change was not simply a reduction in writing. Workers now had to decide what the next team needed to act on. After an initial week of discussion, fewer parcels were processed twice. The supervisor retained a separate log for details needed in later investigations.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "In \"The handover board\": What weakness did the depot's old reports have?",
+          "options": {
+            "A": "Important unfinished tasks were hard to locate.",
+            "B": "They contained no handwriting.",
+            "C": "They named too many customers.",
+            "D": "They were delivered to another depot."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "未完成的重要工作被例行细节埋没。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "e9c2a41fbde0a1589ad78e27a10437b6a0929bdca10d29f7481650e3c019786c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "In \"The handover board\": What accompanied each unresolved issue on the board?",
+          "options": {
+            "A": "A customer rating",
+            "B": "A responsible person's name",
+            "C": "A price estimate",
+            "D": "A photograph of every parcel"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "每项未解决问题都标出负责人。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "784aaf466181510a2f26137ac7460798ac9e28bdbdda5b27847a3b0f3e593523"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "In \"The handover board\": Why was the board more than a way to shorten reports?",
+          "options": {
+            "A": "It eliminated all records.",
+            "B": "It increased the shift length.",
+            "C": "It required thinking about useful next actions.",
+            "D": "It replaced the morning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "工人必须判断接班者需要采取的行动。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "548fa971b4028c897a212cb5a67f55b09a7006be07b2f156bdcec5b403f84651"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "In \"The handover board\": What outcome followed the new handover method?",
+          "options": {
+            "A": "More parcels were sent abroad.",
+            "B": "All investigations ended.",
+            "C": "Staff stopped discussing work.",
+            "D": "Fewer parcels were handled twice."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "文章说明重复处理包裹减少。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d5c6d3ba755609f35942be840aae007b243f31ace8bfa6e7b6b59e107e6e7968"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "In \"The handover board\": Why did the supervisor keep another log?",
+          "options": {
+            "A": "To preserve details for later inquiries",
+            "B": "To copy the board without a purpose",
+            "C": "To avoid assigning responsibility",
+            "D": "To replace all verbal communication"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "单独日志保留未来调查需要的细节。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e950263f60f55fb585915aea1b5879d26002b8a6bd6f1b03a88b343a7ed793a8"
+        }
+      ],
+      "contentFingerprint": "a6a92b4919c0ac5abc0fb6802b2a26678244a5f51333238634bd27b4490a37e6"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Lights along the canal",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A maintenance crew inspected canal lights after midnight because faults were easier to see in darkness. Their manager initially compared teams by the number of lamps repaired. One crew appeared slow, yet residents along its route made fewer repeat complaints. The crew leader explained that his staff checked the wiring around each failed lamp instead of replacing only the visible part. The manager added repeat faults to the monthly report and allowed extra time for diagnosis. Repair totals still mattered, but they no longer stood alone. Measuring the immediate output had overlooked whether the same problem would soon return.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "In \"Lights along the canal\": Why were canal lights inspected after midnight?",
+          "options": {
+            "A": "Replacement parts were cheaper.",
+            "B": "Faults were more visible in darkness.",
+            "C": "Residents requested complete silence.",
+            "D": "The crew had no daytime tools."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "黑暗中更容易看出照明故障。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "7f641a8806c63716669c049e2868e555ab777e61b323031f10d31cf82ebad41d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "In \"Lights along the canal\": Why did one apparently slow crew receive fewer repeat complaints?",
+          "options": {
+            "A": "It ignored broken lights.",
+            "B": "It used a shorter route.",
+            "C": "It checked surrounding wiring.",
+            "D": "It repaired only new lamps."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "该队检查灯具周围电路，处理更深层原因。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "d0d38e41692239f173d758abe1026a9525925d46b0a1df0aca407b5e06deb508"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "In \"Lights along the canal\": What did the manager add to the report?",
+          "options": {
+            "A": "Employee birthdays",
+            "B": "Canal depth",
+            "C": "Tourist numbers",
+            "D": "Repeated faults"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "报告加入 repeat faults。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "7599646d193e269c7a627b5b0f7d85d4a4c30a343f1575c145dc1f7efbd6b6a5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "In \"Lights along the canal\": What does 'they no longer stood alone' refer to?",
+          "options": {
+            "A": "Repair totals were considered with other evidence.",
+            "B": "Workers were always in pairs.",
+            "C": "Canal lamps were moved together.",
+            "D": "Residents stopped reporting faults."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "维修数量需结合重复故障等指标理解。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d3de98e15355f6ec842f9e3df46eea1d3036c28b8a0f5e410963bd959706644e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "In \"Lights along the canal\": What is the passage mainly concerned with?",
+          "options": {
+            "A": "The history of canal transport",
+            "B": "Choosing measures that reflect lasting results",
+            "C": "The cost of working outdoors",
+            "D": "Replacing managers with machines"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "重点是衡量是否长期解决问题而非只看产量。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "381274de84c4ceaa70e81c7bccf235ec08b69de63ef9e8dc09ac24114e78cb7d"
+        }
+      ],
+      "contentFingerprint": "10c7f65dbb2875eba7f31a604c46c4fcb5ab4ee6cea5ed701953b3c5b307f3b9"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Learning at an unusual hour",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "When an adult college offered recorded lectures, many night workers watched them during breaks. Their quiz scores improved, but several still felt disconnected from classmates. The college added a discussion board where a tutor answered questions each morning. It also scheduled one live meeting at alternating times, so no group always carried the inconvenience. A warehouse worker said the recordings gave him access to information, while the discussions helped him discover what he had misunderstood. The college learned that flexible delivery solved one problem but did not automatically create a complete learning experience.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "In \"Learning at an unusual hour\": What improved after recorded lectures became available?",
+          "options": {
+            "A": "The length of work breaks",
+            "B": "The number of warehouse jobs",
+            "C": "Learners' quiz results",
+            "D": "Classroom heating"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "录播课使用后测验分数提高。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "40b773a7b9a474b75f07bb687a9beed9789ef2ffd3bec7acd626f46d7c5781c5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "In \"Learning at an unusual hour\": What concern remained for some night workers?",
+          "options": {
+            "A": "There were too many recordings.",
+            "B": "They could not afford notebooks.",
+            "C": "Every tutor worked at night.",
+            "D": "They felt isolated from classmates."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "一些人依然感觉与同学缺乏联系。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "f386b7be87a4812f96d03ea1f4071845c8143caedfeb9ca4d37803498959d06c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "In \"Learning at an unusual hour\": Why did the live meeting time alternate?",
+          "options": {
+            "A": "To distribute inconvenience more fairly",
+            "B": "To prevent tutors preparing",
+            "C": "To remove all discussions",
+            "D": "To shorten the academic year"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "使任何一组都不总承担时间不便。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "16312a59a5c6e86360a21245d57d2a96a334bbf440440de0e86ac11d1f002ba9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "In \"Learning at an unusual hour\": What did the warehouse worker gain especially from discussions?",
+          "options": {
+            "A": "An extra shift",
+            "B": "Awareness of misunderstandings",
+            "C": "A free computer",
+            "D": "A new qualification immediately"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "讨论帮他发现误解。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "3c803488e0f238ebdb6c06611934ee5d765c9a3d81c6c354d11763617779a4e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "In \"Learning at an unusual hour\": What broader point does the college's experience support?",
+          "options": {
+            "A": "Recordings should always replace teachers.",
+            "B": "Flexible access makes interaction unnecessary.",
+            "C": "Access and interaction meet different learning needs.",
+            "D": "Night workers dislike all live meetings."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "录播解决获取信息，互动解决理解与联系。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "aecbd694bdea77e6064fb872519fd6310c12f9cfb8ab5d5ce9072a45b5976151"
+        }
+      ],
+      "contentFingerprint": "5c6c584526080bb86d25bf33391afa22647c4e1a44718472e373b9a522a572cc"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The bakery's quiet hour",
+      "instruction": "Read the original passage and choose the best answer to each question.",
+      "content": "A bakery supplying early trains asked employees to suggest changes to its overnight routine. Several proposed a quiet hour without nonessential calls. Orders would still arrive on screen, and urgent messages could reach the shift leader. During a three-week trial, packers said they made fewer counting mistakes because they were interrupted less often. However, a driver missed an update when he assumed every call was prohibited. The bakery clarified the urgent-message route and displayed it beside the phone. The trial succeeded only after the boundary between a useful interruption and an avoidable one became clear.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读：细节、推断、词义与主旨"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "In \"The bakery's quiet hour\": What did employees propose for the overnight routine?",
+          "options": {
+            "A": "No customer orders",
+            "B": "A shorter train route",
+            "C": "A complete telephone ban",
+            "D": "An hour without unnecessary calls"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提议免除非必要电话的安静时段。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "48aab86fdc5ffc7d593ec56c8e1fff9b75ad09e4c854a1db05be3d8763e5d4b2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "In \"The bakery's quiet hour\": How could urgent information still reach the bakery?",
+          "options": {
+            "A": "Through the shift leader",
+            "B": "Only by post",
+            "C": "Through customers' reviews",
+            "D": "By waiting until the next day"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "紧急信息可联系当班负责人。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "c00ca20eea115de8cfe585aa4da602ab95e30c117628c35974204a77b3913808"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "In \"The bakery's quiet hour\": Why did packers report fewer counting mistakes?",
+          "options": {
+            "A": "Boxes became larger.",
+            "B": "Interruptions were reduced.",
+            "C": "Trains arrived later.",
+            "D": "Orders no longer changed."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "减少打断帮助减少计数失误。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1a6d8082d96c4393ed1451eb86c5944a314e54c00dede49d77bad52726aee3c1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "In \"The bakery's quiet hour\": What caused the driver's missed update?",
+          "options": {
+            "A": "A broken screen",
+            "B": "A lost delivery address",
+            "C": "A misunderstanding of the call policy",
+            "D": "An unpaid telephone bill"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "司机误以为所有电话均禁止。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "dfb354ca89c9f41014201d660b562b8d94221de2da79f535613a92d819e5de5f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "In \"The bakery's quiet hour\": What finally helped the quiet-hour policy work?",
+          "options": {
+            "A": "Removing every telephone",
+            "B": "Making all messages urgent",
+            "C": "Cancelling the trial",
+            "D": "Explaining the exception clearly"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "明确紧急信息渠道使规则有效执行。",
+          "knowledgePoints": [
+            "语境理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "a8df493d4cce4d759261e0b8238beb7c59f4ce81aed87393863f72de53a67a48"
+        }
+      ],
+      "contentFingerprint": "f4738684e86576e7a78e19ca798590a94e76b1dc5d19a9800be01df118d03be2"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The shift leader drew attention to an _____ fault that required action before the next departure.",
+      "options": {
+        "A": "urgent",
+        "B": "annual",
+        "C": "artificial",
+        "D": "elegant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "urgent 表示紧急的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "827c98ebac08d75f0ba11603ddb15592250c38e3527361849b316488364cfc4f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A detailed handover can _____ confusion when a new team takes over.",
+      "options": {
+        "A": "produce",
+        "B": "minimise",
+        "C": "borrow",
+        "D": "postpone"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "minimise confusion 指最大程度减少混乱。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a7b2f081f4ebc16d4997330a733755af33c9ef42d4ae2e1634f5766ac6316b7a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The repair crew carried a _____ lamp in case the fixed lights failed.",
+      "options": {
+        "A": "permanent",
+        "B": "reluctant",
+        "C": "portable",
+        "D": "sincere"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "portable 为便携的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "eecb02b00f970d0572bb6ba66580d3471de1d10a7ba5d5d81028ee0f41d13b02"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Workers take breaks in _____ so that someone is always available at the desk.",
+      "options": {
+        "A": "depth",
+        "B": "return",
+        "C": "advance",
+        "D": "rotation"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "in rotation 表示轮流。",
+      "knowledgePoints": [
+        "固定搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1ca26415083aab9af81f065d5fbf12b2dfd068af71494b46779b822da19fa70d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The driver remained _____ despite the passenger's angry remarks.",
+      "options": {
+        "A": "composed",
+        "B": "crowded",
+        "C": "curved",
+        "D": "costly"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "composed 指镇定的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f45d11e1058f768b797dc483f8f8e57ad72480713a832ede2740a1042f318262"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Our _____ of spare batteries must cover the entire overnight inspection.",
+      "options": {
+        "A": "sympathy",
+        "B": "supply",
+        "C": "summary",
+        "D": "symbol"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "supply 指供应量、储备。",
+      "knowledgePoints": [
+        "名词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "802681c0c077855422f9e4b9507369f0b5dc2d2256ffb309d1dc038c0cd265ee"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The supervisor will _____ the workload among the three night teams.",
+      "options": {
+        "A": "dismiss",
+        "B": "disguise",
+        "C": "distribute",
+        "D": "dissolve"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "distribute the workload 为分配工作量。",
+      "knowledgePoints": [
+        "动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8f3b1d7d5382c16358c6a8a2a4603048db1c5bbad56f93918f66f66ff879b9e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The depot keeps a _____ record of delays, including their duration and cause.",
+      "options": {
+        "A": "casual",
+        "B": "vacant",
+        "C": "shallow",
+        "D": "systematic"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "systematic record 指系统性记录。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "adfd13546c46de338d502206db649c70833f32d686960e4937d4a33aab0ab46c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "An alarm sounded _____ after the sensor detected smoke.",
+      "options": {
+        "A": "immediately",
+        "B": "eventually",
+        "C": "formerly",
+        "D": "occasionally"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "immediately 表示立即，对应及时报警。",
+      "knowledgePoints": [
+        "副词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "55e7d39b1a1ac5f6936779fdfccc3dabb5746ae7bab55650e25e49420e6c2725"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The printed timetable is _____; check the live screen for confirmed departures.",
+      "options": {
+        "A": "stubborn",
+        "B": "provisional",
+        "C": "generous",
+        "D": "industrial"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "provisional 意为暂定的。",
+      "knowledgePoints": [
+        "形容词辨析"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "55148f36bfd5b0cdc866e9f4d6dd9a2c8e76314a364c7d62f3d2b53e06c587ca"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "Only after the replacement driver arrived _____ the first driver leave.",
+      "options": {
+        "A": "could",
+        "B": "can",
+        "C": "has",
+        "D": "does"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Only 状语前置部分倒装，过去语境用 could。",
+      "knowledgePoints": [
+        "倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6c9af676d28843bf608b645f219b4ed40bcb78211497434bb58f3bd3a70d93d6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The late bus was delayed because its engine _____ before departure.",
+      "options": {
+        "A": "breaks down",
+        "B": "had broken down",
+        "C": "will break down",
+        "D": "is breaking down"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "故障早于过去的延误，用过去完成时。",
+      "knowledgePoints": [
+        "过去完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3f105e55a0b39ad63ee8f227a026dbc4087e7a0139a576b6b1654946ecde5062"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "All staff must sign the sheet before _____ the depot.",
+      "options": {
+        "A": "leave",
+        "B": "left",
+        "C": "leaving",
+        "D": "to leave"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "介词 before 后用动名词。",
+      "knowledgePoints": [
+        "非谓语"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4c98b49d929ce3d2ae4d1db180dd2cab9181e39c7cd4ab8bfac77486d43e1660"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The notice is intended for employees _____ shifts begin after midnight.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "whose shifts 表示员工的班次。",
+      "knowledgePoints": [
+        "关系代词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "561850ffa62b4c29a9e9e6c28b002b5a4c9ab67f47c2e32805f041f2fea5451c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "It was the missing key _____ prevented the mechanic from opening the store.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "who",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "It was ... that 强调主语。",
+      "knowledgePoints": [
+        "强调句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "adb5d7d0d9e4e1e0f21bdaba7216f2597fc2e839b4c59f52da0fd70e20316e4c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If the driver were less tired, she _____ the later route.",
+      "options": {
+        "A": "accepts",
+        "B": "would accept",
+        "C": "had accepted",
+        "D": "will have accepted"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在情况相反的虚拟条件对应 would do。",
+      "knowledgePoints": [
+        "虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b6b08c66b8dcc8c398da37aed54b02e54efe301f7be6264335b7c0f59c1730af"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The supervisor reminded us _____ personal bags near the emergency exit.",
+      "options": {
+        "A": "not leaving",
+        "B": "not leave",
+        "C": "not to leave",
+        "D": "to not leaving"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "remind somebody not to do。",
+      "knowledgePoints": [
+        "不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d76093d54362b9ce926742314c7db81b9608193a640ea48c631159e7d70eb549"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "A new cooling system _____ in the bakery at this time yesterday.",
+      "options": {
+        "A": "installs",
+        "B": "has installed",
+        "C": "was installing",
+        "D": "was being installed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去某时正在被安装，过去进行被动。",
+      "knowledgePoints": [
+        "被动语态"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9730c71f845fc4b64f303a1f6feee2823f0e1d8fba0080d10c11762fbd8d4d12"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "_____ the delivery was late, the driver completed every safety check.",
+      "options": {
+        "A": "Although",
+        "B": "Unless",
+        "C": "Because of",
+        "D": "Despite of"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "完整从句表达让步，选 Although。",
+      "knowledgePoints": [
+        "让步从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f68fa2a0699657eb3b6cacc31af94626f94c85a4ca4b988dd51bc09b643e3ab2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The earlier we report a fault, _____ it is to arrange a replacement.",
+      "options": {
+        "A": "easy",
+        "B": "the easier",
+        "C": "easiest",
+        "D": "easier than"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the 比较级 ... the 比较级。",
+      "knowledgePoints": [
+        "比较结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "97b2a67a905690e00e9f6611dda6cf4dabf06ee0959a8c87f8e5081edf700296"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate this original passage into Chinese.\n\nCities continue to depend on human attention when most residents are asleep. Clean platforms, fresh bread and reliable deliveries often result from work that is rarely noticed. Recognising these contributions means more than offering praise. It also requires clear communication between shifts and schedules that allow workers to participate in family and educational life.",
+      "referenceAnswer": "多数居民入睡时，城市仍然依赖人的细心工作。干净的站台、新鲜的面包和可靠的配送，往往来自很少受到关注的劳动。认可这些贡献不只是口头赞扬，还需要班次之间清晰的沟通，以及让劳动者能够参与家庭生活和教育活动的时间安排。",
+      "explanation": "参考译文展示一种可接受的表达；保留原文信息及逻辑、中文通顺的其他译法同样有效。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义准确完整",
+            "maxScore": 9,
+            "description": "准确传达各句核心信息，保留条件、因果、转折和指代关系；按误译、漏译程度扣分。"
+          },
+          {
+            "name": "中文表达",
+            "maxScore": 4,
+            "description": "表达通顺自然，符合中文习惯，句间逻辑清楚。"
+          },
+          {
+            "name": "细节与规范",
+            "maxScore": 2,
+            "description": "关键词译法符合语境，指代清晰，文字与标点规范。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：意义与逻辑"
+      ],
+      "score": 15,
+      "contentFingerprint": "b94bbb9a672b9447d1e0c49b9d89633843ef098c7217574aa7c34daad50a17df",
+      "referenceAnswerFingerprint": "e535d57f0f8aeb67c8ba249be746168503876efd360af2dd185b29a8f4034582"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write about 120 English words for this original simulation task.\n\nYou study with classmates who work different shifts. Propose a fair group-project arrangement, explaining how to share work, exchange updates and handle a missed meeting.",
+      "sampleAnswer": "Our project group should begin by collecting everyone's available hours. We can divide the research into independent sections, with each member choosing a realistic deadline. A shared document should record findings, sources and questions so that progress is visible even when we cannot meet together. Short live meetings can rotate between afternoon and evening instead of always favouring the same members. After each meeting, one person should post decisions and assigned actions. Anyone who misses a meeting can add comments within the following day. If a deadline becomes difficult, the member should tell the group early so we can adjust the work. Fair participation means a dependable contribution, not attendance at every conversation.",
+      "explanation": "范文用于作答后参考；观点与例子可以不同，但须回应全部要求并表达清楚。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "内容与任务完成",
+            "maxScore": 6,
+            "description": "回应题目全部要点，提供与主题相关的理由和具体建议或例子。"
+          },
+          {
+            "name": "组织与衔接",
+            "maxScore": 4,
+            "description": "结构清楚，信息排列合理，句段衔接自然，格式符合写作目的。"
+          },
+          {
+            "name": "语言表达",
+            "maxScore": 5,
+            "description": "用词准确，句式基本正确；根据错误对表达和理解的影响扣分。"
+          }
+        ]
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务回应、组织与表达"
+      ],
+      "score": 15,
+      "contentFingerprint": "6d6258500a461fd2a6b7187b1c9e48193490f88687242f5ef9041aaafd03bda3",
+      "sampleAnswerFingerprint": "04d5445bb102445938d552dd4d7af7cc94917bbd04cd1c7d1cd58ad989ab5ed8"
+    }
+  ],
+  "fingerprintManifest": [
+    "959e5d05d875fa3d61cd136460cf16804e9a09cbe9dad1a77b304f1ce15f443d",
+    "cdc647308bc48b17a1077f38bd695c853285943421e39ee869baf88d08798805",
+    "93e359724084e4f62d19137cff3ae826b0fb26993f3698320724179374e2e22f",
+    "367b1f8cf5fe49c559cb61bbe091c8791abcca159974526e48c7fcb137109f8e",
+    "0cca871baf77997558cd3263c5226627b33c0721595a07b007a7e8b7f41bb2a6",
+    "7bbee58dace1d7e2ecd4e06331adf0572fd86b1e5c750642c8b2d6ee7ab98cd2",
+    "8c539c27f8617732609e42688621902f1f71074aee58a1a00a15c5d5db0325c7",
+    "775b121fe7b9379d266a4de9527cb73e33c1f463e818de861e694957ac18a7d8",
+    "f3bddc8a252297572ce2152eb4edbe90e9f35134346a31a7e4e15c7ae5f46708",
+    "4f4e0aa3598a6577b14999c999e673b08c6aac201ff05283108223ae2c2ce19d",
+    "f2eee243a1394135985a9237d59412ebd7e0fcd05047220c119cd4d289496fcb",
+    "34f2f35988a8827c8c169560c01d260119441e8ec818eaac661bc48d1467825e",
+    "9b1a01d81ab4b6523514311206499c8b7af104e7231e04238218ff527672de6a",
+    "a6a92b4919c0ac5abc0fb6802b2a26678244a5f51333238634bd27b4490a37e6",
+    "e9c2a41fbde0a1589ad78e27a10437b6a0929bdca10d29f7481650e3c019786c",
+    "784aaf466181510a2f26137ac7460798ac9e28bdbdda5b27847a3b0f3e593523",
+    "548fa971b4028c897a212cb5a67f55b09a7006be07b2f156bdcec5b403f84651",
+    "d5c6d3ba755609f35942be840aae007b243f31ace8bfa6e7b6b59e107e6e7968",
+    "e950263f60f55fb585915aea1b5879d26002b8a6bd6f1b03a88b343a7ed793a8",
+    "10c7f65dbb2875eba7f31a604c46c4fcb5ab4ee6cea5ed701953b3c5b307f3b9",
+    "7f641a8806c63716669c049e2868e555ab777e61b323031f10d31cf82ebad41d",
+    "d0d38e41692239f173d758abe1026a9525925d46b0a1df0aca407b5e06deb508",
+    "7599646d193e269c7a627b5b0f7d85d4a4c30a343f1575c145dc1f7efbd6b6a5",
+    "d3de98e15355f6ec842f9e3df46eea1d3036c28b8a0f5e410963bd959706644e",
+    "381274de84c4ceaa70e81c7bccf235ec08b69de63ef9e8dc09ac24114e78cb7d",
+    "5c6c584526080bb86d25bf33391afa22647c4e1a44718472e373b9a522a572cc",
+    "40b773a7b9a474b75f07bb687a9beed9789ef2ffd3bec7acd626f46d7c5781c5",
+    "f386b7be87a4812f96d03ea1f4071845c8143caedfeb9ca4d37803498959d06c",
+    "16312a59a5c6e86360a21245d57d2a96a334bbf440440de0e86ac11d1f002ba9",
+    "3c803488e0f238ebdb6c06611934ee5d765c9a3d81c6c354d11763617779a4e2",
+    "aecbd694bdea77e6064fb872519fd6310c12f9cfb8ab5d5ce9072a45b5976151",
+    "f4738684e86576e7a78e19ca798590a94e76b1dc5d19a9800be01df118d03be2",
+    "48aab86fdc5ffc7d593ec56c8e1fff9b75ad09e4c854a1db05be3d8763e5d4b2",
+    "c00ca20eea115de8cfe585aa4da602ab95e30c117628c35974204a77b3913808",
+    "1a6d8082d96c4393ed1451eb86c5944a314e54c00dede49d77bad52726aee3c1",
+    "dfb354ca89c9f41014201d660b562b8d94221de2da79f535613a92d819e5de5f",
+    "a8df493d4cce4d759261e0b8238beb7c59f4ce81aed87393863f72de53a67a48",
+    "827c98ebac08d75f0ba11603ddb15592250c38e3527361849b316488364cfc4f",
+    "a7b2f081f4ebc16d4997330a733755af33c9ef42d4ae2e1634f5766ac6316b7a",
+    "eecb02b00f970d0572bb6ba66580d3471de1d10a7ba5d5d81028ee0f41d13b02",
+    "1ca26415083aab9af81f065d5fbf12b2dfd068af71494b46779b822da19fa70d",
+    "f45d11e1058f768b797dc483f8f8e57ad72480713a832ede2740a1042f318262",
+    "802681c0c077855422f9e4b9507369f0b5dc2d2256ffb309d1dc038c0cd265ee",
+    "8f3b1d7d5382c16358c6a8a2a4603048db1c5bbad56f93918f66f66ff879b9e2",
+    "adfd13546c46de338d502206db649c70833f32d686960e4937d4a33aab0ab46c",
+    "55e7d39b1a1ac5f6936779fdfccc3dabb5746ae7bab55650e25e49420e6c2725",
+    "55148f36bfd5b0cdc866e9f4d6dd9a2c8e76314a364c7d62f3d2b53e06c587ca",
+    "6c9af676d28843bf608b645f219b4ed40bcb78211497434bb58f3bd3a70d93d6",
+    "3f105e55a0b39ad63ee8f227a026dbc4087e7a0139a576b6b1654946ecde5062",
+    "4c98b49d929ce3d2ae4d1db180dd2cab9181e39c7cd4ab8bfac77486d43e1660",
+    "561850ffa62b4c29a9e9e6c28b002b5a4c9ab67f47c2e32805f041f2fea5451c",
+    "adb5d7d0d9e4e1e0f21bdaba7216f2597fc2e839b4c59f52da0fd70e20316e4c",
+    "b6b08c66b8dcc8c398da37aed54b02e54efe301f7be6264335b7c0f59c1730af",
+    "d76093d54362b9ce926742314c7db81b9608193a640ea48c631159e7d70eb549",
+    "9730c71f845fc4b64f303a1f6feee2823f0e1d8fba0080d10c11762fbd8d4d12",
+    "f68fa2a0699657eb3b6cacc31af94626f94c85a4ca4b988dd51bc09b643e3ab2",
+    "97b2a67a905690e00e9f6611dda6cf4dabf06ee0959a8c87f8e5081edf700296",
+    "b94bbb9a672b9447d1e0c49b9d89633843ef098c7217574aa7c34daad50a17df",
+    "e535d57f0f8aeb67c8ba249be746168503876efd360af2dd185b29a8f4034582",
+    "6d6258500a461fd2a6b7187b1c9e48193490f88687242f5ef9041aaafd03bda3",
+    "04d5445bb102445938d552dd4d7af7cc94917bbd04cd1c7d1cd58ad989ab5ed8"
+  ],
+  "contentFingerprint": "77f32e0a2d81defe7558b42f1cb10b062690c89e59365b4e195e1a769ec94c4b"
+}
