@@ -18,6 +18,7 @@ public interface AdminExamMapper {
     long countRecords(Map<String,Object> filters);
     List<QuestionEntity> groupQuestions(@Param("groupId") long groupId);
     List<Blueprint> blueprints();
+    List<FixedPaper> fixedPapers();
     List<Capacity> capacities(@Param("blueprintId") long blueprintId);
     List<DialogueGroupCount> dialogueGroupCounts();
     int sourceStatus(@Param("id") long id, @Param("enabled") int enabled);

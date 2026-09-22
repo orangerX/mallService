@@ -47,6 +47,37 @@
     <select id="blueprints" resultType="com.mall.exam.admin.dto.AdminExamResponses$Blueprint">
         SELECT id,blueprint_code,blueprint_name,version,status,duration_minutes,total_score FROM exam_blueprint ORDER BY id
     </select>
+    <!-- All versions remain visible to administrators, including drafts and disabled
+         versions. Reuse the student eligibility rule without loading any snapshots. -->
+    <select id="fixedPapers" resultType="com.mall.exam.admin.dto.AdminExamResponses$FixedPaper">
+        SELECT f.id,f.paper_code,f.version,f.title,f.blueprint_id,b.blueprint_code,b.blueprint_name,
+               f.blueprint_version_snapshot,f.duration_minutes,f.total_score,f.source_declaration,
+               f.display_order,f.status,f.published_at,
+               (SELECT COUNT(*) FROM exam_fixed_paper_group g WHERE g.fixed_paper_id=f.id) AS group_count,
+               COALESCE(items.item_count,0) AS item_count,
+               COALESCE(items.dialogue_count,0) AS dialogue_count,
+               COALESCE(items.reading_count,0) AS reading_count,
+               COALESCE(items.vocabulary_count,0) AS vocabulary_count,
+               COALESCE(items.grammar_count,0) AS grammar_count,
+               COALESCE(items.translation_count,0) AS translation_count,
+               COALESCE(items.writing_count,0) AS writing_count,
+               CASE WHEN <include refid="com.mall.exam.paper.template.mapper.FixedPaperTemplateMapper.selectablePublication"/>
+                    THEN 1 ELSE 0 END AS selectable
+        FROM exam_fixed_paper f
+        JOIN exam_blueprint b ON b.id=f.blueprint_id
+        JOIN exam_question_source s ON s.id=f.source_id
+        LEFT JOIN (
+            SELECT fixed_paper_id,COUNT(*) AS item_count,
+                   SUM(question_type='DIALOGUE_BLANK') AS dialogue_count,
+                   SUM(question_type='READING') AS reading_count,
+                   SUM(question_type='VOCABULARY') AS vocabulary_count,
+                   SUM(question_type='GRAMMAR') AS grammar_count,
+                   SUM(question_type='TRANSLATION') AS translation_count,
+                   SUM(question_type='WRITING') AS writing_count
+            FROM exam_fixed_paper_item GROUP BY fixed_paper_id
+        ) items ON items.fixed_paper_id=f.id
+        ORDER BY f.display_order,f.paper_code,f.version DESC,f.id
+    </select>
     <sql id="reusableSource">s.review_status='APPROVED' AND s.enabled=1 AND s.copyright_status IN ('ORIGINAL','AUTHORIZED','PUBLIC_OFFICIAL')</sql>
     <sql id="eligibleGroups">
         SELECT g.id,g.group_type,COUNT(q.id) AS item_count

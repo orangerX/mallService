@@ -41,4 +41,15 @@ public final class AdminExamResponses {
         public int memberCount;
         public long groupCount;
     }
+    /** Inventory metadata only: never include template question or answer snapshots. */
+    public static class FixedPaper {
+        public Long id, blueprintId;
+        public String paperCode, title, blueprintCode, blueprintName, blueprintVersionSnapshot;
+        public String sourceDeclaration, status;
+        public Integer version, displayOrder, durationMinutes;
+        public BigDecimal totalScore;
+        public LocalDateTime publishedAt;
+        public long groupCount, itemCount, dialogueCount, readingCount, vocabularyCount, grammarCount, translationCount, writingCount;
+        public boolean selectable;
+    }
 }

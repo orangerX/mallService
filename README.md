@@ -12,7 +12,7 @@
 | `mall-promotion` | 满减券模板、用户优惠券与核销 |
 | `mall-order` | 购物车、下单、库存扣减、订单查询 |
 | `mall-exam` | 学位英语题源、题库、蓝图、组卷、答题、判分与复盘 |
-| `mall-database` | Flyway V1–V13 数据库迁移，包含考试领域表、启用的蓝图与五套原创模拟题种子 |
+| `mall-database` | Flyway 数据库迁移至 V27，包含考试领域、原随机题库及五十套固定原创模拟试卷 |
 | `mall-shop-app` | 商城端与考生 API 应用，默认端口 `8080` |
 | `mall-admin-app` | 内管端应用，提供商城管理和考试内容管理，默认端口 `8081` |
 
@@ -145,7 +145,7 @@ Flyway 会集中校验历史迁移，V11 创建管理员表，V12 创建考试�
 | POST | `/admin/api/coupons/status` | 启用或停用优惠券 |
 | POST | `/admin/api/coupons/delete` | 删除无领取记录的优惠券 |
 
-考试管理另提供以下 16 个接口，全部使用管理员 Access Token；分页接口同样使用 `page=1&size=20`，`page >= 1`、`1 <= size <= 100`：
+考试管理提供以下接口，全部使用管理员 Access Token；分页接口同样使用 `page=1&size=20`，`page >= 1`、`1 <= size <= 100`：
 
 | 方法 | 路径 | 说明 |
 | --- | --- | --- |
@@ -165,6 +165,7 @@ Flyway 会集中校验历史迁移，V11 创建管理员表，V12 创建考试�
 | GET | `/admin/api/exam/blueprints` | 查看蓝图、部分结构与可用题库容量 |
 | POST | `/admin/api/exam/blueprints/status` | JSON Body 传 `blueprintId`、`status`，启用或停用蓝图 |
 | GET | `/admin/api/exam/records` | 按 `userId`、`paperNo`、`status` 分页查询考试记录，不返回答案正文 |
+| GET | `/admin/api/exam/fixed-papers` | 固定试卷所有版本的只读清单，含蓝图、各题型数量、原创声明、发布状态和当前可选性；不返回试题或答案快照 |
 
 ```bash
 curl -X POST 'http://127.0.0.1:8081/admin/api/auth/login' \
@@ -248,11 +249,13 @@ curl -X POST 'http://127.0.0.1:8081/admin/api/coupons/create' \
 
 ### 学位英语考生接口
 
-以下八个接口均要求商城用户 Access Token：`Authorization: Bearer ACCESS_TOKEN`。考生身份只取自登录上下文，请求不接受 `userId`；管理员 Token 不可用于考生接口。成功结果使用 `ApiResponse`，历史分页的 `data` 使用 `PageResponse`。
+以下接口均要求商城用户 Access Token：`Authorization: Bearer ACCESS_TOKEN`。考生身份只取自登录上下文，请求不接受 `userId`；管理员 Token 不可用于考生接口。成功结果使用 `ApiResponse`，历史分页的 `data` 使用 `PageResponse`。
 
 | 方法 | 路径 | 说明 |
 | --- | --- | --- |
-| POST | `/api/exams/generate` | 无需请求体，生成或恢复当前试卷 |
+| POST | `/api/exams/generate` | 保留的随机组卷接口，无需请求体，生成或恢复当前试卷 |
+| GET | `/api/exams/fixed-papers` | 可选固定原创试卷目录，每个编号只返回当前可选版本，无答案或参考材料 |
+| POST | `/api/exams/fixed-papers/generate` | JSON Body 传 `paperCode`（如 `fixed-01`），从固定模板创建个人试卷；已有进行中试卷时恢复该试卷 |
 | GET | `/api/exams/current` | 当前试卷、已保存答案、服务端时间和截止时间；无当前考试时 `data` 为 `null` |
 | POST | `/api/exams/answers/save` | JSON Body 传 `paperId`、`paperItemId`、`answerVersion`、`answerContent`，保存单题答案 |
 | POST | `/api/exams/submit` | JSON Body 只需 `paperId`，提前交卷或由服务端判定超时交卷，重复提交幂等返回结果 |
@@ -268,8 +271,10 @@ curl -X POST 'http://127.0.0.1:8081/admin/api/coupons/create' \
 首次保存的 `answerVersion` 为 `0`，成功后使用响应中的递增版本。版本冲突返回 HTTP 409、`code=EXAM_ANSWER_CONFLICT`，并在 `data.latestAnswer` 返回该考生的服务端答案及最新版本。保存请求到达时已超时会返回 `EXAM_EXPIRED`，前端使用同一 `paperId` 再次调用提交接口取得已完成的结果；交卷幂等，不重复判分或写入错题。
 
 ```bash
-curl -X POST 'http://127.0.0.1:8080/api/exams/generate' \
-  -H 'Authorization: Bearer ACCESS_TOKEN'
+curl -X POST 'http://127.0.0.1:8080/api/exams/fixed-papers/generate' \
+  -H 'Authorization: Bearer ACCESS_TOKEN' \
+  -H 'Content-Type: application/json' \
+  -d '{"paperCode":"fixed-01"}'
 
 curl -X POST 'http://127.0.0.1:8080/api/exams/answers/save' \
   -H 'Authorization: Bearer ACCESS_TOKEN' \
@@ -284,7 +289,31 @@ curl -X POST 'http://127.0.0.1:8080/api/exams/submit' \
 
 考试端浏览器通过开发服务器或 Nginx 将 `/api` 同源代理到商城服务 `8080`；管理端将 `/admin/api` 代理到内管服务 `8081`，代理须保留 `Authorization`。后端禁止 OPTIONS，不能依赖跨域预检直连。MySQL 保存试卷、答案和历史，Redis 同时用于登录会话和并发组卷锁，两个依赖均需运行。
 
-初始内容定位为五套容量的原创模拟题（`ORIGINAL_SIMULATION`），不是官方历年真题。V12 创建考试领域结构，V13 创建启用的 `DEGREE_ENGLISH_2016_V2` 蓝图，并导入已审核、启用的原创题源和五套种子内容；本次未运行迁移或容量验收。后续通过管理端导入提交的内容只生成草稿，题源和题目仍需审核发布；容量不足返回 `EXAM_BANK_INSUFFICIENT`。
+初始内容定位为五套容量的原创模拟题（`ORIGINAL_SIMULATION`），不是官方历年真题。V12 创建考试领域结构，V13 创建启用的 `DEGREE_ENGLISH_2016_V2` 蓝图，并导入已审核、启用的原创题源和五套随机题库种子；五十套固定模板由后续 V23–V27 单独发布。后续通过管理端普通导入提交的内容只生成题库草稿，题源和题目仍需审核发布，不会自动成为固定模板；随机容量不足返回 `EXAM_BANK_INSUFFICIENT`。
+
+### 固定原创模拟试卷发布与迁移
+
+五十套固定试卷使用稳定编号 `fixed-01` 至 `fixed-50`，初始版本为 `1`，源文件位于 `mall-database/src/main/resources/db/seed/fixed-degree-english-v1/`。每套为 120 分钟、100 分，共 52 道答题项：对话 3 组 / 10 空、阅读 4 篇 / 20 题、词汇 10 题、语法 10 题、翻译 1 题、写作 1 题。全部材料必须独立原创并明确声明“原创模拟”，不得复制官方真题或第三方题目；普通题库允许的已授权 / 官方公开题源不适用于这套固定原创数据集。
+
+V21 创建固定模板、题组和题目快照表；V22 将个人试卷关联到固定模板。五个后续 Java Flyway 迁移各发布十套：
+
+| 迁移 | 固定试卷编号 | UTF-8 内容文件 |
+| --- | --- | --- |
+| V23 | `fixed-01`–`fixed-10` | `fixed-01.json`–`fixed-10.json` |
+| V24 | `fixed-11`–`fixed-20` | `fixed-11.json`–`fixed-20.json` |
+| V25 | `fixed-21`–`fixed-30` | `fixed-21.json`–`fixed-30.json` |
+| V26 | `fixed-31`–`fixed-40` | `fixed-31.json`–`fixed-40.json` |
+| V27 | `fixed-41`–`fixed-50` | `fixed-41.json`–`fixed-50.json` |
+
+迁移前须完成同一数据库的可恢复备份，覆盖业务数据和 `flyway_schema_history`，并安排维护窗口；先由一个后端实例执行迁移，完成后再启动其他连接同库的实例。V23–V27 使用冻结的 `FixedPaperSeedV1`：先检查整批结构、顺序、总分、原创声明与指纹，再在自管事务中写入题源、题库、模板、快照与指纹预留，最后统一标记发布。每批独立提交；后续批次失败不会撤销此前成功批次。
+
+发布以 Flyway 历史为准，不提供绕过历史重复加载的幂等入口。失败时应先核对日志、备份、历史记录和已提交数据，再由运维决定恢复或修复历史；尤其要处理业务事务已提交但 Flyway 成功记录尚未写入的情况，不能盲目重跑或直接执行 repair。V12 / V13、已应用迁移、冻结加载器及已发布 JSON 都不得原地修改，文件字节参与迁移校验和。修订须追加新的迁移、模板版本及对应内容，不得覆盖原有模板或考生快照。
+
+管理端 `/exam/fixed-papers` 通过只读 GET 清单展示所有版本及发布状态，当前没有编辑、删除、发布或启停模板的页面 / 写接口。允许的发布状态治理也只能影响新考试的可选性，不能修改模板内容或历史快照。考生目录仅允许 `PUBLISHED`、启用的蓝图、审核通过且启用的 `ORIGINAL` 题源；若同编号存在更高的 `PUBLISHED` 或 `DISABLED` 版本，旧版本不会自动回退为可选。
+
+考生端默认先恢复进行中试卷，再显示固定试卷选择器；请求仅提交 `paperCode`，服务端选择当前可用版本并复制完整有序模板为个人快照。每位用户同时只能有一场进行中的考试，之后可重复练习同一编号。默认“下一套”仅依据当前账号在当前浏览器保存的开始记录，不是跨设备完成记录；全部记录过时可重新选择。仅显式配置 `VITE_EXAM_PAPER_MODE=random` 才在考生界面使用保留的随机模式，此配置不关闭后端随机接口。进行中响应继续排除答案、解析和主观题参考，交卷后的复盘、自评保持现有流程。
+
+本次固定试卷实现按用户要求仅交付生产代码与文档，未新增测试 / spec 文件，未运行迁移、测试、审查、构建、Maven、lint、类型检查、E2E、运行或视觉验证；上文描述实现与运维要求，不表示迁移已执行或验收通过。
 
 关于接口用于展示商城基础信息，当前版本为 `1.0.0`，商城主要售卖新鲜、优质的时令水果：
 

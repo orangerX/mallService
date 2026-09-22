@@ -36,6 +36,9 @@ public class AdminExamQueryService {
         Map<String,Object> p=page(page,size); p.put("userId",userId); p.put("paperNo",paperNo); p.put("status",status);
         return new PageResponse<>(mapper.records(p),page,size,mapper.countRecords(p));
     }
+    public List<FixedPaper> fixedPapers() {
+        return mapper.fixedPapers();
+    }
     public List<Blueprint> blueprints() {
         List<Blueprint> result=mapper.blueprints();
         for(Blueprint b:result) {
