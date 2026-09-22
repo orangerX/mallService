@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-50",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 50 · 社区决策与持续改进",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 50,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining a neighbourhood planning meeting",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I would like to attend the meeting about the empty ground floor.\nStaff: (1) _____\nVisitor: Do I need to prepare a formal proposal?\nStaff: (2) _____\nVisitor: Will people who cannot attend have a chance to comment?\nStaff: (3) _____\nVisitor: Where will the final decision be published?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, written comments can be submitted until Monday.",
+        "B": "The committee will post it on the noticeboard and its website.",
+        "C": "You are welcome; it starts at seven in the community room.",
+        "D": "No, a brief description of your idea is enough."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "5e851d7d525787f8493856bdc9c5711e365f923de59f0ef020703a1349573e9e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Joining a neighbourhood planning meeting\".",
+          "options": {
+            "A": "Yes, written comments can be submitted until Monday.",
+            "B": "The committee will post it on the noticeboard and its website.",
+            "C": "You are welcome; it starts at seven in the community room.",
+            "D": "No, a brief description of your idea is enough."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "欢迎参加并给出时间地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "453b86226e53515f5c1981bfa844b95024394fed5df42c3d6fec50507b09c94b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Joining a neighbourhood planning meeting\".",
+          "options": {
+            "A": "Yes, written comments can be submitted until Monday.",
+            "B": "The committee will post it on the noticeboard and its website.",
+            "C": "You are welcome; it starts at seven in the community room.",
+            "D": "No, a brief description of your idea is enough."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "降低提案形式门槛。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "adb0f0d8b0a3d544c6b14cd07a0b647fb1d9ad1ac9aa5d4f066dd46240e5c355"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Joining a neighbourhood planning meeting\".",
+          "options": {
+            "A": "Yes, written comments can be submitted until Monday.",
+            "B": "The committee will post it on the noticeboard and its website.",
+            "C": "You are welcome; it starts at seven in the community room.",
+            "D": "No, a brief description of your idea is enough."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明缺席者意见渠道。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "828a64115ee5fe234760037c1a3d625f205a80a44bcf2ff912bd02790edd5259"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Joining a neighbourhood planning meeting\".",
+          "options": {
+            "A": "Yes, written comments can be submitted until Monday.",
+            "B": "The committee will post it on the noticeboard and its website.",
+            "C": "You are welcome; it starts at seven in the community room.",
+            "D": "No, a brief description of your idea is enough."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明决策公开方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0d42f9d9e7ce44371f194c599680e3b96b826fe40ecf6fe1a57b6f2a6eda454c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Trying a shared repair table",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: Several neighbours want a repair table, but we do not know how often it would be used.\nStaff: (1) _____\nVisitor: Could we borrow a table for the first session?\nStaff: (2) _____\nVisitor: What should we record during the trial?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, the hall has a folding one we can reserve.",
+        "B": "Note attendance, the tasks attempted and any difficulties.",
+        "C": "The garden gate was painted last winter.",
+        "D": "A short trial could help us find out."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "afad0de7fa3952978cf81db8851b0b92caff4128ec5ef10ec2223cf6708c1b58",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Trying a shared repair table\".",
+          "options": {
+            "A": "Yes, the hall has a folding one we can reserve.",
+            "B": "Note attendance, the tasks attempted and any difficulties.",
+            "C": "The garden gate was painted last winter.",
+            "D": "A short trial could help us find out."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "建议用试行获取需求信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "b783cc19228d7429eda852bd1cd3da26a12d281cde94d83205e00d546d64b1e1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Trying a shared repair table\".",
+          "options": {
+            "A": "Yes, the hall has a folding one we can reserve.",
+            "B": "Note attendance, the tasks attempted and any difficulties.",
+            "C": "The garden gate was painted last winter.",
+            "D": "A short trial could help us find out."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认可借用设施。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fc764fdb189ea50f34dc86079ea1ad6de35f0a37f2bb5ac43e95e63acac58d86"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Trying a shared repair table\".",
+          "options": {
+            "A": "Yes, the hall has a folding one we can reserve.",
+            "B": "Note attendance, the tasks attempted and any difficulties.",
+            "C": "The garden gate was painted last winter.",
+            "D": "A short trial could help us find out."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "提出试行记录内容。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "cc12dec4daf3372ed3002a0217b897df6569a5685c1c45ff4c0ec44fa5a814a3"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Explaining a delayed committee decision",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The committee has not announced its choice yet.\nStaff: (1) _____\nVisitor: Can residents see which questions still need answers?\nStaff: (2) _____\nVisitor: Would publishing a new decision date help?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "We are waiting for information about the running costs.",
+        "B": "Yes, we can add those questions to the meeting notes.",
+        "C": "Certainly; it would give everyone a clearer expectation.",
+        "D": "The bicycle rack holds twelve bicycles."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "bc5ee33f4dca9a2d3cb4289cdae0e751b951cba5fc4e604ec2857f659a62d6c2",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Explaining a delayed committee decision\".",
+          "options": {
+            "A": "We are waiting for information about the running costs.",
+            "B": "Yes, we can add those questions to the meeting notes.",
+            "C": "Certainly; it would give everyone a clearer expectation.",
+            "D": "The bicycle rack holds twelve bicycles."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明延迟原因。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "55f97fbaf771574089a5a663cb940aee6890ac41bfa1267bd6c21d5dcbd2e6c8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Explaining a delayed committee decision\".",
+          "options": {
+            "A": "We are waiting for information about the running costs.",
+            "B": "Yes, we can add those questions to the meeting notes.",
+            "C": "Certainly; it would give everyone a clearer expectation.",
+            "D": "The bicycle rack holds twelve bicycles."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "公开待解决问题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ca637027c28dd61304a19157a1ae39d56d43bce91d48c547888105662744e759"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Explaining a delayed committee decision\".",
+          "options": {
+            "A": "We are waiting for information about the running costs.",
+            "B": "Yes, we can add those questions to the meeting notes.",
+            "C": "Certainly; it would give everyone a clearer expectation.",
+            "D": "The bicycle rack holds twelve bicycles."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "明确新时间改善预期。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e4174e6064db468011404372ed6b3dbfd1aa9ab10d16407b959394f7137729de"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A room chosen through a trial",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents disagreed about how to use an empty ground-floor room. Some wanted a reading space; others proposed a repair table. Rather than decide from the loudest discussion, the committee organised two temporary sessions for each idea. Volunteers recorded attendance, preparation time and the kind of help people requested. The reading sessions attracted fewer visitors but required little supervision. Repair sessions were busier and needed skilled volunteers. The final plan shared the room between both uses on different days. The trial made the costs and benefits visible enough for residents to discuss a practical arrangement.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "9e4ce926d467b18acaf23d7b50972a8a3c1eefe42105bde34c53c7c5a8d14199",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "A room chosen through a trial: What disagreement existed?",
+          "options": {
+            "A": "Which town to move to.",
+            "B": "How to use an empty room.",
+            "C": "Whether the building had a ground floor.",
+            "D": "Who owned every resident's books."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "争论空房用途。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "9b68bb761fd2797b69c079577fc54576b5cbdcd8f7c5021d4fdc3874ed226546"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "A room chosen through a trial: How were the ideas explored?",
+          "options": {
+            "A": "By accepting only the loudest opinion.",
+            "B": "By cancelling all meetings.",
+            "C": "Through temporary sessions.",
+            "D": "Through an immediate permanent purchase."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "分别短期试行。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2351698d1eb39cc785047e9ac5a48737501efe408743dea79290603d6507fa2b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "A room chosen through a trial: What did volunteers record besides attendance?",
+          "options": {
+            "A": "Residents' private income.",
+            "B": "Every visitor's passport number.",
+            "C": "The age of all furniture.",
+            "D": "Preparation time and requested help."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "记录准备时间和帮助需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "daca7feba0d6583b72a4b149900626501988038fe8642041b867a05d462f60f7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "A room chosen through a trial: What characterised the repair sessions?",
+          "options": {
+            "A": "More visitors and a need for skilled help.",
+            "B": "No attendance and no equipment.",
+            "C": "Only silent reading.",
+            "D": "No need for supervision."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "人多且需技能支持。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "8d50fb35f64cff5178ef5302a973291a8be503359809c958525898b7e2eaa13e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "A room chosen through a trial: What was the final arrangement?",
+          "options": {
+            "A": "A ban on volunteer participation.",
+            "B": "Different uses on different days.",
+            "C": "A permanent closure of the room.",
+            "D": "Only the busier activity every day."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "分日共享两种用途。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7411739d7d9ee247f9b4b918a84310f4c16bc3b866917ccee4be1aa76cd0f40a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Hearing people who missed the meeting",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community meeting about weekend activities attracted mostly retired residents. Shift workers and parents of young children were less able to attend. The organiser realised that a room full of people did not necessarily represent the whole neighbourhood. She circulated a short questionnaire through the school and local workplaces and offered a telephone response option. Later replies introduced requests for evening sessions and child-friendly spaces. The committee included a note about how opinions had been collected in its report. It could not claim to have heard everyone, but it had made a deliberate effort to reach beyond the meeting room.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "4aad2c9dabd7259262570a18693e3837872d9d784c699f744d21db54f4764cd1",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Hearing people who missed the meeting: Who attended in the largest numbers?",
+          "options": {
+            "A": "Parents with very young children.",
+            "B": "People from another town.",
+            "C": "Retired residents.",
+            "D": "Night-shift workers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "到会者多为退休居民。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a546d1c84a81c17f4b5b422fcac9f49b31e66db13c12564fe3d78a6aec9592b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "Hearing people who missed the meeting: What did the organiser recognise?",
+          "options": {
+            "A": "All absent residents opposed activities.",
+            "B": "The meeting room was too large.",
+            "C": "Questionnaires could replace every conversation.",
+            "D": "Attendance did not guarantee full representation."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "到场意见不等于整体代表。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "47039c8c83fde38696de4d163e20131bd8dcd542b14584cf69ffa370e544365a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "Hearing people who missed the meeting: Where was the questionnaire circulated?",
+          "options": {
+            "A": "Through schools and workplaces.",
+            "B": "Only at the same meeting.",
+            "C": "Only inside the committee office.",
+            "D": "At overseas airports."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "借学校和工作场所传播。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "b9d2fdb6bd1a4c3b6340a1031af4423d50a12f1ef1f7a572f4f81c6827bc54cd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "Hearing people who missed the meeting: What additional requests appeared?",
+          "options": {
+            "A": "More complicated application forms.",
+            "B": "Evening sessions and child-friendly spaces.",
+            "C": "A permanent end to all activities.",
+            "D": "Longer speeches at every meeting."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "补充傍晚活动与亲子空间需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0ffe4cbd7c1ab408f720fe6e3c75d260c1141b167f9fa1893abe0f93c005169e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Hearing people who missed the meeting: What did the report explain?",
+          "options": {
+            "A": "That every resident had replied.",
+            "B": "That telephone comments were ignored.",
+            "C": "How opinions had been collected.",
+            "D": "Why every absent person was wrong."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "交代征询方法及覆盖范围。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "8fe6919a3539fe34d334ed434923acc13006a8e3d693bc2dba7371f1ab463618"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A decision note that included reasons",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "After choosing new opening hours for a community workshop, the committee posted only the timetable. Members whose suggestions were not adopted felt ignored. The committee then published a short decision note. It listed the main options, explained the limits on staffing and described why the chosen schedule was feasible. The note also named a date for reconsidering the arrangement. Some members still preferred different hours, but they could see that their proposal had been considered. Giving reasons did not remove disagreement. It helped distinguish an unwelcome decision from one made without listening.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "d030dbc2b248c29ef1c4081cd73b693ada24ea69c791a63fa6c5f576b6da3440",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "A decision note that included reasons: What was missing from the first announcement?",
+          "options": {
+            "A": "Any opening hours at all.",
+            "B": "The name of the workshop.",
+            "C": "A colour photograph of the building.",
+            "D": "Reasons for the chosen timetable."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "最初只贴时间无理由。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "9a12f599f8aa5dbc8911e74d45529343d935ff96bea3f72f42b044d0b3e50d56"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "A decision note that included reasons: What limited the available options?",
+          "options": {
+            "A": "Staffing.",
+            "B": "The number of printed notes.",
+            "C": "The age of the noticeboard.",
+            "D": "The length of the street name."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "人力限制方案。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "8105798f585652bb057e21d4f5e4ed3d743b2b4745c686f70c12b206be7ddbb1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "A decision note that included reasons: What future information did the note include?",
+          "options": {
+            "A": "A promise never to change hours.",
+            "B": "A date for reconsidering the arrangement.",
+            "C": "A guarantee of agreement forever.",
+            "D": "The closure of every other workshop."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出重新考虑日期。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "dc47dfb784fff3b06b2122772fe38880d7f245a8c314ef9eeca75b9f0ec1b81d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "A decision note that included reasons: Did giving reasons remove all disagreement?",
+          "options": {
+            "A": "No, nobody read the note.",
+            "B": "Yes, all alternative proposals disappeared.",
+            "C": "No, some members still preferred other hours.",
+            "D": "Yes, every member immediately agreed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明理由后仍有偏好分歧。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "93b24be5e84623092787058b4f17a54c802273a47b603da6e8d8fb8dba49d4fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "A decision note that included reasons: What distinction became clearer?",
+          "options": {
+            "A": "Morning versus afternoon weather.",
+            "B": "Staff names versus room numbers.",
+            "C": "A workshop versus a library.",
+            "D": "An unwelcome decision versus a decision made without listening."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "不喜欢结果与未被倾听不同。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ebd2a8bebc469e8191a58d077ae349b77e03226a8d3f24084a200a2e57818fe4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Ending a trial without calling it a failure",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood association tried a weekly tool-swap desk for two months. Attendance was low, and volunteers spent long periods waiting. Interviews revealed that residents liked sharing tools but needed access at unpredictable times. The association ended the weekly desk and created a contact list through which neighbours could arrange exchanges directly. It published what the trial had taught them, including the volunteer time required. Ending the desk was not treated as proof that sharing was a bad idea. The trial had shown that one particular arrangement did not fit the way residents needed the service.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "6a867d6bc4424a7896199c8a604c49bf57d88794d70afb95240d971bd52ab6ec",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Ending a trial without calling it a failure: What problem occurred during the trial?",
+          "options": {
+            "A": "Low attendance and long volunteer waits.",
+            "B": "Too many tools being sold abroad.",
+            "C": "A lack of interest in all sharing.",
+            "D": "The building had no doors."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "出席少、志愿者空等。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f9227db723d9ca834705169be0238ec2152436aa46634d5569be280aad5d608a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "Ending a trial without calling it a failure: What did interviews reveal?",
+          "options": {
+            "A": "Residents disliked their neighbours.",
+            "B": "People needed tools at unpredictable times.",
+            "C": "Everyone wanted a longer weekly queue.",
+            "D": "All tools were broken."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "需求时间不固定。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "3a06fedd828a7dea1fa48363ed8ac673c2d5ffc52d839e56d60ff0e3bc018eaf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "Ending a trial without calling it a failure: What replaced the weekly desk?",
+          "options": {
+            "A": "A shop selling only new tools.",
+            "B": "A daily compulsory meeting.",
+            "C": "A contact list for direct exchanges.",
+            "D": "A permanent ban on tool sharing."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "建立名单直接联系交换。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9a5b5f8cd01e68644e57cf13bc819f152f01ad0138b8e34c446b1048477d477d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "Ending a trial without calling it a failure: What information was published?",
+          "options": {
+            "A": "Only a claim of complete success.",
+            "B": "Private details of every interview.",
+            "C": "No explanation of the change.",
+            "D": "Lessons from the trial, including volunteer time."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "公开试行经验与时间成本。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0015e02832d2b7073361be36931b52ae9023069721395913503ba96c561412ba"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Ending a trial without calling it a failure: What is the main conclusion?",
+          "options": {
+            "A": "An unsuitable arrangement can be changed while keeping the underlying aim.",
+            "B": "Ending a trial proves its aim was worthless.",
+            "C": "Low attendance should always be ignored.",
+            "D": "Every service should run on a fixed weekly schedule."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "调整形式可保留共享目标。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e1ed8b791c2b4f2a0a02ed0554a009f56c536596340cc66081ff33f439085bbe"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A short trial can _____ information before a permanent decision is made.",
+      "options": {
+        "A": "translate",
+        "B": "celebrate",
+        "C": "generate",
+        "D": "decorate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "generate information表示产生信息。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "41e8c7660f552f0b8ce7e7573fe34fed8a7936ca283c12d781e67074c999d681"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The chosen timetable must be _____ with the staff available.",
+      "options": {
+        "A": "familiar",
+        "B": "fragile",
+        "C": "fortunate",
+        "D": "feasible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "feasible表示可行。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fbdacbda8b07423b2d019526596147d4d95cf21adf1d8315d2c38b280861a030"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The questionnaire aimed to reach a more _____ range of residents.",
+      "options": {
+        "A": "representative",
+        "B": "repetitive",
+        "C": "resistant",
+        "D": "remote"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "representative表示有代表性的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ec25db77f5361cffec75d8cd2e5f270cd0217ed6748ec25d930d319cf04b222c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The decision note explains the _____ behind the new opening hours.",
+      "options": {
+        "A": "returning",
+        "B": "reasoning",
+        "C": "remaining",
+        "D": "reporting"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "reasoning表示推理依据。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "86a70574bc5c28466ea6afa4684c9090ff00e3cb3ba27c86279be0e1aef71618"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Volunteers recorded the time _____ to prepare each session.",
+      "options": {
+        "A": "recovered",
+        "B": "refused",
+        "C": "required",
+        "D": "retired"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "required表示所需的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "db5335444ff94a91ec798f28bb0ca181532523393956254d76a8259dde2b159b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Residents could submit comments through several _____.",
+      "options": {
+        "A": "chapters",
+        "B": "chances",
+        "C": "charges",
+        "D": "channels"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "channels表示渠道。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d152d60868ee23ea5b9e35941e894fa963e92ee3ea6a1b0a7e44df0d16dddae7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The committee will _____ the arrangement after three months.",
+      "options": {
+        "A": "reconsider",
+        "B": "recycle",
+        "C": "recognise",
+        "D": "recover"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reconsider表示重新考虑。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "395792db16a687bb721d2351876ef23f47848ac5fccd1f9ad9562ac8de5bbd61"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Tool-sharing needs arose at _____ times, making a weekly desk inconvenient.",
+      "options": {
+        "A": "uncomfortable",
+        "B": "unpredictable",
+        "C": "unforgettable",
+        "D": "unacceptable"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "unpredictable表示难以预测的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "44b76e5c251901d2be7d1631333802ddf68aaf6152038b8e0baaff917ac9987f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The report _____ that not every resident had been reached.",
+      "options": {
+        "A": "accompanies",
+        "B": "accomplishes",
+        "C": "acknowledges",
+        "D": "advertises"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "acknowledge表示承认。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4c347ae41d6091200aa34b79360035388be142af319573b47dcaaf3f78df03c0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "A practical _____ allowed the room to serve both reading and repairs.",
+      "options": {
+        "A": "comparison",
+        "B": "competition",
+        "C": "complaint",
+        "D": "compromise"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "compromise表示折中方案。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fc711377ea8d86871cc9a8ddb9f471bea98e01ac38dbaa5d0595057d3124f825"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The committee has not decided _____ the trial should continue.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "which",
+        "D": "whether"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "whether引导是否的宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8ee9fa43e764659769c33951f48f728b28322b407e2dacd48fa4dbe666a5a8ed"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Residents _____ could not attend were invited to reply by telephone.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "who指人作主语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7b9f01c65ce5df336835a16a94d8ed92696d39df575c541d82185af4210539f2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If more volunteers were available, the workshop _____ open later.",
+      "options": {
+        "A": "had stayed",
+        "B": "could stay",
+        "C": "has stayed",
+        "D": "will have stayed"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "现在虚拟条件主句could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9507d430d8ecfb0e5fc5dc18e71facac00d3a623b4a615b0083d144d57dca4ce"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The contact list allows neighbours _____ exchanges directly.",
+      "options": {
+        "A": "arranged",
+        "B": "arranging",
+        "C": "to arrange",
+        "D": "arrange"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "allow sb to do。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "afac846c29c1de99fda7bc8e29a4cb774d07034cf6d6982418094e1cb67835ac"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the report appeared, the weekly desk _____ already been closed.",
+      "options": {
+        "A": "has",
+        "B": "would",
+        "C": "was",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去某时之前完成用had。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fb3792c994a552de889468733156c2229f6021232106635d2e8868065a00c90c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The reasons for the decision _____ explained in a short note.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "has",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "复数reasons搭配were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3b9f513ab83a4c476fd6ebd94924a9502d7baf270d86d02ce0d8b26da389891e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The trial was useful despite _____ fewer visitors than expected.",
+      "options": {
+        "A": "to attract",
+        "B": "attracting",
+        "C": "attract",
+        "D": "attracted"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "despite后动名词。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4a7d66ac731f49081285de1180af71df2ec2b550a34f001dc6430c1c2d9aea5a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Only when the staffing limits were explained _____ why the hours were restricted.",
+      "options": {
+        "A": "understood members",
+        "B": "members had understand",
+        "C": "did members understand",
+        "D": "members understood"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only时间状语前置部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d944e0e59f0298fabec45a548c9565c639eba0fd31463c4bfe640c1e2fa70a3f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The question is not who spoke most loudly, but _____ each proposal would work.",
+      "options": {
+        "A": "what",
+        "B": "which",
+        "C": "whose",
+        "D": "how"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "how表示方案如何运作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9fc5af5d8d6af26e0c467fdd5dd1947e155e8fd93b317be72988bb74a514f215"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Had the committee consulted shift workers earlier, it _____ different requests.",
+      "options": {
+        "A": "might have received",
+        "B": "may receive",
+        "C": "receives",
+        "D": "has received"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去虚拟倒装，主句might have done。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d4a1651c810fdee8da3cdd766a7bb75553ecc2608d17c7541905eeade0297ec2"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA trial is useful only if people are willing to learn from its results. Continuing an arrangement simply because time has already been spent on it may waste further effort. A better question is whether it meets the needs it was designed to serve. When an approach is changed, explaining what was learned helps others understand the decision. The original goal can remain valuable even when the first method is abandoned.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意only if条件、whether表语从句以及even when让步关系。",
+      "referenceAnswer": "只有当人们愿意从结果中学习时，试行才有价值。仅仅因为已经在某项安排上花费了时间就继续它，可能会浪费更多精力。更值得问的是，它是否满足了原本要服务的需求。当方法发生改变时，解释从中学到了什么，有助于其他人理解决定。即使第一种方法被放弃，最初的目标仍然可能具有价值。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "a593d7a41aafc3227c2e20ad850c148da78418811c910ce4283e27e89f249eed",
+      "referenceAnswerFingerprint": "f3096f3d455294589ffb5e24dd3152a7bf549f65d15423421fac86e596d1c3a4"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English to a neighbourhood committee proposing a trial use for an empty room. Explain the activity, describe what information should be collected, and suggest how a final decision could be made.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "包含试行活动、记录指标以及基于结果公开决策的方法。",
+      "sampleAnswer": "Dear Committee Members,\nI suggest trying a monthly repair afternoon in the empty ground-floor room. Residents could bring small household items and work with experienced volunteers to explore whether they can be repaired. Clear limits should be agreed on the kinds of tasks volunteers can accept.\nA three-session trial would help us understand demand before making a permanent commitment. We should record attendance, preparation time, the help requested and any difficulties with the room. Comments from visitors and volunteers would be useful too.\nAfter the trial, the committee could publish a short summary and invite residents to discuss the results. The final decision should consider both the benefit to users and the effort needed to run the service. If the arrangement needs changing, the trial will still have provided valuable information.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "4a678f35b8a4ba7a30369ab5c5891c11a6f2c762c1d67f4658c5f56a1bde8c1c",
+      "sampleAnswerFingerprint": "4a37a8592aa8a31321ad6cbe90820a6f445030a121670434b866db9d20b61859"
+    }
+  ],
+  "fingerprintManifest": [
+    "5e851d7d525787f8493856bdc9c5711e365f923de59f0ef020703a1349573e9e",
+    "453b86226e53515f5c1981bfa844b95024394fed5df42c3d6fec50507b09c94b",
+    "adb0f0d8b0a3d544c6b14cd07a0b647fb1d9ad1ac9aa5d4f066dd46240e5c355",
+    "828a64115ee5fe234760037c1a3d625f205a80a44bcf2ff912bd02790edd5259",
+    "0d42f9d9e7ce44371f194c599680e3b96b826fe40ecf6fe1a57b6f2a6eda454c",
+    "afad0de7fa3952978cf81db8851b0b92caff4128ec5ef10ec2223cf6708c1b58",
+    "b783cc19228d7429eda852bd1cd3da26a12d281cde94d83205e00d546d64b1e1",
+    "fc764fdb189ea50f34dc86079ea1ad6de35f0a37f2bb5ac43e95e63acac58d86",
+    "cc12dec4daf3372ed3002a0217b897df6569a5685c1c45ff4c0ec44fa5a814a3",
+    "bc5ee33f4dca9a2d3cb4289cdae0e751b951cba5fc4e604ec2857f659a62d6c2",
+    "55f97fbaf771574089a5a663cb940aee6890ac41bfa1267bd6c21d5dcbd2e6c8",
+    "ca637027c28dd61304a19157a1ae39d56d43bce91d48c547888105662744e759",
+    "e4174e6064db468011404372ed6b3dbfd1aa9ab10d16407b959394f7137729de",
+    "9e4ce926d467b18acaf23d7b50972a8a3c1eefe42105bde34c53c7c5a8d14199",
+    "9b68bb761fd2797b69c079577fc54576b5cbdcd8f7c5021d4fdc3874ed226546",
+    "2351698d1eb39cc785047e9ac5a48737501efe408743dea79290603d6507fa2b",
+    "daca7feba0d6583b72a4b149900626501988038fe8642041b867a05d462f60f7",
+    "8d50fb35f64cff5178ef5302a973291a8be503359809c958525898b7e2eaa13e",
+    "7411739d7d9ee247f9b4b918a84310f4c16bc3b866917ccee4be1aa76cd0f40a",
+    "4aad2c9dabd7259262570a18693e3837872d9d784c699f744d21db54f4764cd1",
+    "a546d1c84a81c17f4b5b422fcac9f49b31e66db13c12564fe3d78a6aec9592b9",
+    "47039c8c83fde38696de4d163e20131bd8dcd542b14584cf69ffa370e544365a",
+    "b9d2fdb6bd1a4c3b6340a1031af4423d50a12f1ef1f7a572f4f81c6827bc54cd",
+    "0ffe4cbd7c1ab408f720fe6e3c75d260c1141b167f9fa1893abe0f93c005169e",
+    "8fe6919a3539fe34d334ed434923acc13006a8e3d693bc2dba7371f1ab463618",
+    "d030dbc2b248c29ef1c4081cd73b693ada24ea69c791a63fa6c5f576b6da3440",
+    "9a12f599f8aa5dbc8911e74d45529343d935ff96bea3f72f42b044d0b3e50d56",
+    "8105798f585652bb057e21d4f5e4ed3d743b2b4745c686f70c12b206be7ddbb1",
+    "dc47dfb784fff3b06b2122772fe38880d7f245a8c314ef9eeca75b9f0ec1b81d",
+    "93b24be5e84623092787058b4f17a54c802273a47b603da6e8d8fb8dba49d4fe",
+    "ebd2a8bebc469e8191a58d077ae349b77e03226a8d3f24084a200a2e57818fe4",
+    "6a867d6bc4424a7896199c8a604c49bf57d88794d70afb95240d971bd52ab6ec",
+    "f9227db723d9ca834705169be0238ec2152436aa46634d5569be280aad5d608a",
+    "3a06fedd828a7dea1fa48363ed8ac673c2d5ffc52d839e56d60ff0e3bc018eaf",
+    "9a5b5f8cd01e68644e57cf13bc819f152f01ad0138b8e34c446b1048477d477d",
+    "0015e02832d2b7073361be36931b52ae9023069721395913503ba96c561412ba",
+    "e1ed8b791c2b4f2a0a02ed0554a009f56c536596340cc66081ff33f439085bbe",
+    "41e8c7660f552f0b8ce7e7573fe34fed8a7936ca283c12d781e67074c999d681",
+    "fbdacbda8b07423b2d019526596147d4d95cf21adf1d8315d2c38b280861a030",
+    "ec25db77f5361cffec75d8cd2e5f270cd0217ed6748ec25d930d319cf04b222c",
+    "86a70574bc5c28466ea6afa4684c9090ff00e3cb3ba27c86279be0e1aef71618",
+    "db5335444ff94a91ec798f28bb0ca181532523393956254d76a8259dde2b159b",
+    "d152d60868ee23ea5b9e35941e894fa963e92ee3ea6a1b0a7e44df0d16dddae7",
+    "395792db16a687bb721d2351876ef23f47848ac5fccd1f9ad9562ac8de5bbd61",
+    "44b76e5c251901d2be7d1631333802ddf68aaf6152038b8e0baaff917ac9987f",
+    "4c347ae41d6091200aa34b79360035388be142af319573b47dcaaf3f78df03c0",
+    "fc711377ea8d86871cc9a8ddb9f471bea98e01ac38dbaa5d0595057d3124f825",
+    "8ee9fa43e764659769c33951f48f728b28322b407e2dacd48fa4dbe666a5a8ed",
+    "7b9f01c65ce5df336835a16a94d8ed92696d39df575c541d82185af4210539f2",
+    "9507d430d8ecfb0e5fc5dc18e71facac00d3a623b4a615b0083d144d57dca4ce",
+    "afac846c29c1de99fda7bc8e29a4cb774d07034cf6d6982418094e1cb67835ac",
+    "fb3792c994a552de889468733156c2229f6021232106635d2e8868065a00c90c",
+    "3b9f513ab83a4c476fd6ebd94924a9502d7baf270d86d02ce0d8b26da389891e",
+    "4a7d66ac731f49081285de1180af71df2ec2b550a34f001dc6430c1c2d9aea5a",
+    "d944e0e59f0298fabec45a548c9565c639eba0fd31463c4bfe640c1e2fa70a3f",
+    "9fc5af5d8d6af26e0c467fdd5dd1947e155e8fd93b317be72988bb74a514f215",
+    "d4a1651c810fdee8da3cdd766a7bb75553ecc2608d17c7541905eeade0297ec2",
+    "a593d7a41aafc3227c2e20ad850c148da78418811c910ce4283e27e89f249eed",
+    "f3096f3d455294589ffb5e24dd3152a7bf549f65d15423421fac86e596d1c3a4",
+    "4a678f35b8a4ba7a30369ab5c5891c11a6f2c762c1d67f4658c5f56a1bde8c1c",
+    "4a37a8592aa8a31321ad6cbe90820a6f445030a121670434b866db9d20b61859"
+  ],
+  "contentFingerprint": "d604bc0a966f1620d7c45bf1f0c55586cd64514497fc369041b5249247210946"
+}

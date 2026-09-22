@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-48",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 48 · 环境维护与长期行动",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 48,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Borrowing a litter-picking kit",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: Our group wants to clean the riverside path on Saturday.\nStaff: (1) _____\nVisitor: Do we need to collect the equipment in advance?\nStaff: (2) _____\nVisitor: What should we do with sharp objects?\nStaff: (3) _____\nVisitor: Where should we return the borrowed tools?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "You can borrow gloves, bags and picking tools from the centre.",
+        "B": "Yes, please collect it on Friday afternoon.",
+        "C": "Leave them untouched and notify the team leader.",
+        "D": "Bring them back to the same desk after cleaning them."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "8db73170009ad8f447ad9ba4b6194b22fbf51c97471df0b4c42f107889324909",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Borrowing a litter-picking kit\".",
+          "options": {
+            "A": "You can borrow gloves, bags and picking tools from the centre.",
+            "B": "Yes, please collect it on Friday afternoon.",
+            "C": "Leave them untouched and notify the team leader.",
+            "D": "Bring them back to the same desk after cleaning them."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供可借工具。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d5129d159e68ee9c0f633f467a6d96c10ab60a7436dc1369458a9581626861d1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Borrowing a litter-picking kit\".",
+          "options": {
+            "A": "You can borrow gloves, bags and picking tools from the centre.",
+            "B": "Yes, please collect it on Friday afternoon.",
+            "C": "Leave them untouched and notify the team leader.",
+            "D": "Bring them back to the same desk after cleaning them."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明领取时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a1fd8ca4d920fc7553019787cb1543b6d558a971f0746c697ecacfee9d717213"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Borrowing a litter-picking kit\".",
+          "options": {
+            "A": "You can borrow gloves, bags and picking tools from the centre.",
+            "B": "Yes, please collect it on Friday afternoon.",
+            "C": "Leave them untouched and notify the team leader.",
+            "D": "Bring them back to the same desk after cleaning them."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "遇尖锐物向负责人报告。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "dbf0274847f9cf499182665e06a91c63c54531e8caac9ea7f552cb3ae26aa963"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Borrowing a litter-picking kit\".",
+          "options": {
+            "A": "You can borrow gloves, bags and picking tools from the centre.",
+            "B": "Yes, please collect it on Friday afternoon.",
+            "C": "Leave them untouched and notify the team leader.",
+            "D": "Bring them back to the same desk after cleaning them."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明归还位置与要求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5ecb048dfe4bf6ccbb32dbedc6b98cb66361fb122cafa4cc35458124cd0cfcda"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Reporting a leaking park tap",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The tap beside the playground has been dripping all week.\nStaff: (1) _____\nVisitor: Would a photograph of its location be useful?\nStaff: (2) _____\nVisitor: How can I find out whether it has been repaired?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "The playground closes only during heavy snow.",
+        "B": "I will log a maintenance request for that tap.",
+        "C": "Yes, please include the nearest path sign.",
+        "D": "Use the request number to check the maintenance page."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "d87151455214195ce302bcd66632fe1cfa14cd2a8228971d25c28efcb5fccd42",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Reporting a leaking park tap\".",
+          "options": {
+            "A": "The playground closes only during heavy snow.",
+            "B": "I will log a maintenance request for that tap.",
+            "C": "Yes, please include the nearest path sign.",
+            "D": "Use the request number to check the maintenance page."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "登记维修请求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f7479daa56247b258d084c301ca04c755e3e0b8bb8fe6204033c2cce47266aa5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Reporting a leaking park tap\".",
+          "options": {
+            "A": "The playground closes only during heavy snow.",
+            "B": "I will log a maintenance request for that tap.",
+            "C": "Yes, please include the nearest path sign.",
+            "D": "Use the request number to check the maintenance page."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明定位照片需要信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d2f0ff845ae4d5046852adf91c5d4cb0bffb61bf3a86bfd4a17542acba6ddf78"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Reporting a leaking park tap\".",
+          "options": {
+            "A": "The playground closes only during heavy snow.",
+            "B": "I will log a maintenance request for that tap.",
+            "C": "Yes, please include the nearest path sign.",
+            "D": "Use the request number to check the maintenance page."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供进度查询办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a9d3a94ac86f338b1aab67e0a60e0705c6539d71bd10f0b725ce523df8274bcb"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Choosing a tree-care weekend",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: We planted trees last month. Should we organise another planting day?\nStaff: (1) _____\nVisitor: Would checking the existing trees be more useful first?\nStaff: (2) _____\nVisitor: Could we make a simple record for each tree?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Good idea; note its location and any work required.",
+        "B": "The painting workshop starts at two o'clock.",
+        "C": "Let's first see how the new trees are doing.",
+        "D": "Yes, some may need their supports adjusted."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "7c1afdcc9bd3772558ae9ef9cfb1e56a7af0a50535aef54d4ba695e76010f6bd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Choosing a tree-care weekend\".",
+          "options": {
+            "A": "Good idea; note its location and any work required.",
+            "B": "The painting workshop starts at two o'clock.",
+            "C": "Let's first see how the new trees are doing.",
+            "D": "Yes, some may need their supports adjusted."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先关心已有树木。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b42c93feb3431014b2b684d360680e13e2c096f8139b669015993f3824a9bc02"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Choosing a tree-care weekend\".",
+          "options": {
+            "A": "Good idea; note its location and any work required.",
+            "B": "The painting workshop starts at two o'clock.",
+            "C": "Let's first see how the new trees are doing.",
+            "D": "Yes, some may need their supports adjusted."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提出检查支撑需求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "be1fd067d4deb6fdeb40c40cb8d9218676515526c879275c36fc69f645f5e81a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Choosing a tree-care weekend\".",
+          "options": {
+            "A": "Good idea; note its location and any work required.",
+            "B": "The painting workshop starts at two o'clock.",
+            "C": "Let's first see how the new trees are doing.",
+            "D": "Yes, some may need their supports adjusted."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "认可逐树记录。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1addcda239fb6f85a8f140e7a3b7363cd40345a67a06baf7364502fe450a9e93"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "After the photograph of the planting day",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A company proudly shared photographs of employees planting trees near a walking path. Six months later, a volunteer noticed that several young trees were leaning and others had disappeared beneath weeds. The original budget had covered planting but no follow-up care. The company and a local group agreed on a maintenance schedule and named a contact person. They also recorded which trees survived through the next summer. The later report contained fewer dramatic photographs but more useful information. It showed that the value of the project depended on what happened after the public event.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "bc1f6aea35dc4347b64bdcf4b89bd39db9189a73c765d0f96fba3fdf3ac0d7ff",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "After the photograph of the planting day: What had the original budget omitted?",
+          "options": {
+            "A": "The purchase of cameras.",
+            "B": "Every employee's lunch.",
+            "C": "The opening of the walking path.",
+            "D": "Follow-up care."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "预算只含种植，没有后续养护。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "94663956c4666c697c9c0b786ec647e68a66e4c63f459980127b86fb823333f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "After the photograph of the planting day: What problems did the volunteer observe?",
+          "options": {
+            "A": "Leaning trees and weeds.",
+            "B": "Too many signs about trees.",
+            "C": "A complete absence of rain records.",
+            "D": "A closed company office."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "树倾斜及杂草覆盖。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7fef2ca80b824df30d10d4abc5392e7c147015ad1e8a345b610dcc3cdd2a7515"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "After the photograph of the planting day: What did the partners establish?",
+          "options": {
+            "A": "A plan to remove every young tree.",
+            "B": "A maintenance schedule and contact person.",
+            "C": "A new photography competition.",
+            "D": "A rule against visiting the path."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "安排养护时间与负责人。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "9cc9e395993c883fdb8a9f9272f02e8defa324fd8d798efa879306024bc0d480"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "After the photograph of the planting day: What did they record the next summer?",
+          "options": {
+            "A": "The price of every walking shoe.",
+            "B": "Employees' holiday destinations.",
+            "C": "Which trees survived.",
+            "D": "How many photographs were printed."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "记录存活情况。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "239f58f307e3ec0247aca7894b8e08c4dc4433ecbe642a504e5b694fd8327228"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "After the photograph of the planting day: What is the central idea?",
+          "options": {
+            "A": "Public events should never be photographed.",
+            "B": "Tree planting requires no planning.",
+            "C": "A budget is useful only on the first day.",
+            "D": "Long-term care determines the project's value."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "持续照顾决定项目实际价值。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "bf117d06a32a61b239ab9dc1209e898782c419a3bc97b1839b9421fa2734bdfe"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A bin placed where people paused",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A park had litter bins near its entrances, yet food wrappers collected beside a bench overlooking the pond. Staff first added a notice asking visitors to behave responsibly. The wrappers remained. Observations showed that many people ate snacks at the bench before continuing along a path that did not pass an entrance. Staff moved one bin closer to the resting area without blocking the path. They checked it regularly because a convenient bin that overflowed would create another problem. Litter decreased. The solution combined an understanding of actual movement with a practical maintenance routine.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "ca8cd446d0e09406210c81cae60c0dc73c59e559ac48d9d7d8ebd8737b520809",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "A bin placed where people paused: Where did wrappers collect?",
+          "options": {
+            "A": "Beside a pond-side bench.",
+            "B": "Inside the park office.",
+            "C": "Only at the entrances.",
+            "D": "On a closed railway line."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "垃圾集中在池塘旁长椅。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "951fea3d2a58f4cb67fd488c06fbcce7ac14d60f9c9d8f5b8ea72fd6ee40a9b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "A bin placed where people paused: Why was the first notice insufficient?",
+          "options": {
+            "A": "It asked everyone to leave the park.",
+            "B": "It did not address where people actually paused and walked.",
+            "C": "It was printed in the wrong year.",
+            "D": "Visitors were forbidden to read it."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "提示未解决垃圾桶位置问题。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "c9c0f6fe196e659b48aa53ad4d64c5139483e34ec25ab3c5ea3ce1aed84a4dbc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "A bin placed where people paused: Where was a bin moved?",
+          "options": {
+            "A": "Across the entrance path.",
+            "B": "Inside a locked shed.",
+            "C": "Near the resting area.",
+            "D": "Into the pond."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "移近休息区。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "ce1e41f971f5abfa6b0845738ebd9dd73f4c8eaf6adc440aa76e7c3fe9a7c35f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "A bin placed where people paused: Why was regular checking necessary?",
+          "options": {
+            "A": "To count the park's trees.",
+            "B": "To collect visitors' ticket numbers.",
+            "C": "To make the notice longer.",
+            "D": "To prevent the bin overflowing."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "及时清运防溢出。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "09e04fee9e26d1e9c112ee494e5ac1bb339f9e538c3953d832c22d57a097a255"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "A bin placed where people paused: Which factor helped solve the problem?",
+          "options": {
+            "A": "Observing real visitor behaviour.",
+            "B": "Assuming signs alone change every habit.",
+            "C": "Removing every bench.",
+            "D": "Closing the path permanently."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "基于实际行为改进设施。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "595962011832386d9049583c1ecc1b7b377a5ed1e172e614f34074368fe9b45f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Repairing the tap no one owned",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A dripping tap stood between a sports field and a community garden. Garden members assumed the sports club maintained it; the club thought it belonged to the garden. Several people mentioned the leak, but no request reached the town maintenance team. At a joint meeting, the groups agreed that either side could report a fault and that one person would track the request. A small label displayed the reporting contact. The tap was repaired the following week. The groups learned that noticing a shared problem does not ensure action when responsibility is left unclear.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "c07ed7ef1d24e5561018790f862e5f3a0e41826585c1894f01351aecb69bc822",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Repairing the tap no one owned: Why had the leak remained unresolved?",
+          "options": {
+            "A": "The town had banned repairs.",
+            "B": "Each group assumed the other was responsible.",
+            "C": "The tap was hidden underground.",
+            "D": "No one had noticed the dripping."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "双方误以为归对方负责。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "79b38f78bf955e435fdd79de86f6f9198deec3c3369c1ed1993fc779ac7898b3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "Repairing the tap no one owned: Who had not received a request?",
+          "options": {
+            "A": "The sports club's players.",
+            "B": "Visitors to the field.",
+            "C": "The town maintenance team.",
+            "D": "Every garden member."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "维修团队未收到报修。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "9fd5822366320ca3f9c61941209d748413ed2e171cfdcbfb80978325121194e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "Repairing the tap no one owned: What reporting rule was agreed?",
+          "options": {
+            "A": "Only visitors could report faults.",
+            "B": "No faults could be reported in writing.",
+            "C": "Every report needed a public vote.",
+            "D": "Either group could report a fault."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "任一方可报修。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "fb332615957ea213d9b170d8ddfc00fcb4449a6a8286713e1acde41b84496b3f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "Repairing the tap no one owned: What did one person undertake to do?",
+          "options": {
+            "A": "Track the request.",
+            "B": "Pay for all future town repairs.",
+            "C": "Close both community groups.",
+            "D": "Remove the garden's tools."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "明确跟进责任。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "96cd1252eafff163a31b77ea2a26e831e2f819aabd790a85c6a1627cab7d41a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Repairing the tap no one owned: What does the passage suggest?",
+          "options": {
+            "A": "Neighbouring groups cannot cooperate.",
+            "B": "Shared problems need clear arrangements for action.",
+            "C": "Noticing a fault always guarantees repair.",
+            "D": "Small leaks should be ignored."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "共同问题需明确行动责任。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "93f5d308a475ba4d824b5591737e94cf7ae6bcc3372e44ba7779e020d29e2c86"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Comparing energy use fairly",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An office celebrated a fall in monthly electricity use after installing efficient lights. An employee pointed out that the office had also closed for a week during that month. The facilities team compared daily use on working days and checked the same period the previous year. The lights still appeared to save energy, but the improvement was smaller than the original monthly total suggested. The team published the revised estimate and explained the difference. A fair comparison helped managers decide where further investment would be useful without giving the lighting project credit for days when the building was empty.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "b9e78dd8570f592b36a98340a2f3294bcca2b2a876d1f7dc30ff44616e175717",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Comparing energy use fairly: What other change affected the monthly total?",
+          "options": {
+            "A": "The lights were never switched on again.",
+            "B": "All staff began working at night.",
+            "C": "The office closed for a week.",
+            "D": "The building doubled in size."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "关闭一周影响总用电。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "c87c72c9babce66daa8b30dcba473673185c79fa6ab40df566362d23a29fbb9e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "Comparing energy use fairly: What did the team compare?",
+          "options": {
+            "A": "Only the price of light bulbs.",
+            "B": "Every employee's home energy bill.",
+            "C": "The office's furniture budget.",
+            "D": "Daily use on working days and a previous comparable period."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "以工作日和往年同期比较。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "acde9ee801211119d88c999b6387fba83717ac9fa1219a38ba29ed47345d2164"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "Comparing energy use fairly: What happened to the estimated saving?",
+          "options": {
+            "A": "It became smaller but remained apparent.",
+            "B": "It became proof of zero energy use.",
+            "C": "It was ignored entirely.",
+            "D": "It became exactly twice as large."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "修正后仍节电但幅度较小。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "45e60c7ea0fb5e3057f77844eaef034b98516fb3e0839280e775af7c1d508e87"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "Comparing energy use fairly: Why was the estimate revised?",
+          "options": {
+            "A": "To cancel every investment.",
+            "B": "To separate lighting effects from closure days.",
+            "C": "To avoid any discussion of energy.",
+            "D": "To claim credit for all empty days."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "排除停办公影响。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "a824e6bee37b927c4b2a197c8c2aa813c51ddd3febbf0f0b736b3d4d36b5227e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Comparing energy use fairly: What benefit did a fair comparison offer?",
+          "options": {
+            "A": "No need for further measurements.",
+            "B": "An excuse to keep lights on overnight.",
+            "C": "Better information for future investment.",
+            "D": "A guarantee that all equipment was efficient."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "公平比较支持投资判断。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "0e17f903e9e708b629e7c57368167563f2b13093994465d2759415bfb5037a18"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Young trees require regular _____ after the planting event.",
+      "options": {
+        "A": "maintenance",
+        "B": "membership",
+        "C": "movement",
+        "D": "measurement"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "maintenance表示养护维护。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "eb6a057401e89a7f1d9d063809ff230e8cb418bece4359312ba5b6d8ec547c6e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The park bin must be emptied before it _____.",
+      "options": {
+        "A": "overhears",
+        "B": "overflows",
+        "C": "overcomes",
+        "D": "overlooks"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "overflow表示溢出。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "27c49fffa44a8b9b5778eecebd95013f1492f2777f2eb997a831b7d6a3e353b9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The report gives a revised _____ of the energy savings.",
+      "options": {
+        "A": "exchange",
+        "B": "exercise",
+        "C": "estimate",
+        "D": "entrance"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "estimate表示估计值。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d4de808a93388f82ed2f00cb7af6933399844f2bdfa8d49ee22cd9e36ea140b7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Clear responsibility helps turn concern into _____.",
+      "options": {
+        "A": "admission",
+        "B": "absence",
+        "C": "attraction",
+        "D": "action"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "turn concern into action表示落实关注。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d2f80e55788d41a2eed1cd214e41a52553299fc042cae3f2cb70456be772dbee"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A volunteer will _____ the progress of the repair request.",
+      "options": {
+        "A": "track",
+        "B": "trade",
+        "C": "train",
+        "D": "trust"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "track表示跟踪。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f9a7e103984bf9bc6e35e3cfbfad9d04970113cc44d08fde6787d82841d356ab"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team compared electricity use during _____ periods.",
+      "options": {
+        "A": "complicated",
+        "B": "comparable",
+        "C": "comfortable",
+        "D": "considerable"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "comparable表示可比较的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "00969c22c1d719c2fad50749b1f6c2a064c5aadcf42cfa1e2772e291caa0d7ae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Moving the bin removed a practical _____ to disposing of wrappers properly.",
+      "options": {
+        "A": "balance",
+        "B": "budget",
+        "C": "barrier",
+        "D": "benefit"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "barrier表示障碍。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "889c96a1c727411a45b80c153e0b9094ca77b25c2392123d34a0a67023eeac3a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The original tree-planting budget did not _____ follow-up care.",
+      "options": {
+        "A": "count",
+        "B": "carry",
+        "C": "cross",
+        "D": "cover"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "cover表示包含费用。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "10a59003fb457a079c790c860fc62849a751545b35f7ddc57ba8e7e9d748bd21"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The two groups agreed on a _____ contact for reporting faults.",
+      "options": {
+        "A": "designated",
+        "B": "delighted",
+        "C": "damaged",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "designated表示指定的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d82a45451f205705762f7d5d3a4dd0a95336112299f60eae92b401f08b3bd188"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Observers recorded the _____ of trees that remained healthy after summer.",
+      "options": {
+        "A": "protection",
+        "B": "proportion",
+        "C": "permission",
+        "D": "performance"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "proportion表示比例。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0409d4bef76f2c3bfce47473bb63ac87224dff60f25d9942b5c888fa3580d125"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The trees _____ last spring need their supports checked.",
+      "options": {
+        "A": "to planting",
+        "B": "planted",
+        "C": "planting",
+        "D": "plant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词表示被种植。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "391a6170b0c7d8337af8df275f577d75ebf639b978a6198784cde7a35a844aee"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Unless the bin _____ regularly, it may overflow on busy days.",
+      "options": {
+        "A": "will empty",
+        "B": "has emptying",
+        "C": "is emptied",
+        "D": "empties"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless从句用一般现在时被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4d7782c932eaa1aad870f9441851d298e354a0150f53f9822e8fb06bc58705ff"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The monthly total was lower partly because the office _____ for a week.",
+      "options": {
+        "A": "has closed",
+        "B": "will close",
+        "C": "is closing",
+        "D": "had been closed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去之前的关闭状态。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8ddab9ade95ae3ddfa2d7e7699f14a9d4c38a54442e875ffb68a29961b443950"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "We need someone _____ responsibility is to follow up repair requests.",
+      "options": {
+        "A": "whose",
+        "B": "who",
+        "C": "which",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "whose表示职责所属。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2496ea715fe4cb9a7594c8e6ab966ac4b21f41c30f976ee5478a7b8621af60e1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Either the garden members or the club manager _____ able to report the leak.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "are",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "either...or就近manager单数。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e6d2fcdef55f1c1ae5483e6748b55a8881bf8456d92e73e3db88b802d697cd15"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The team suggested that the estimate _____ before publication.",
+      "options": {
+        "A": "was revising",
+        "B": "to revise",
+        "C": "be revised",
+        "D": "revises"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "建议从句虚拟be revised。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3948f27b96a3b90834fa547deecd9eaee82c95ad0228928998fbadfc4eff4561"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The closer the bin is to the bench, _____ it is for visitors to use.",
+      "options": {
+        "A": "easiest",
+        "B": "the easiest",
+        "C": "easy",
+        "D": "the easier"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "关联比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5b1b875d87f8f6ea032bc08c709ca378c824c719f502b3ee968b787017c6bc1e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The label tells residents _____ to contact about a fault.",
+      "options": {
+        "A": "whom",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "疑问词whom作contact宾语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "828a16c281672dc06d90059fc9c3a300500b837ff1a69b04ec3ddedccca7231f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "If follow-up care had been planned, fewer trees _____ lost.",
+      "options": {
+        "A": "have been",
+        "B": "would have been",
+        "C": "will be",
+        "D": "are"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去虚拟主句被动形式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9c34d7c7b4c40c8bae2d995d51d248453db51f81a509103a41b6d7d42abaa15d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Only by comparing similar working days _____ the effect fairly.",
+      "options": {
+        "A": "we judged",
+        "B": "judged we",
+        "C": "can we judge",
+        "D": "we can judge"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only方式状语前置，主句倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c9daf3679df4ce43570d5a8b3e0bb315eb5d74bed1f962358c4ecd78e719ab4c"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nMany public projects are remembered for the day they begin. Yet their success often depends on quiet work that continues afterwards. A new tree needs care, a convenient bin needs emptying, and a reported fault needs someone to follow it up. Planning these responsibilities from the start makes an improvement more likely to last. Without that planning, a good first impression may quickly fade.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意yet转折、三个并列例子以及make ... more likely to结构。",
+      "referenceAnswer": "许多公共项目因启动那一天而被人记住。然而，它们的成功往往取决于此后持续进行的默默无闻的工作。新栽的树需要照料，方便使用的垃圾桶需要清空，已经报告的故障需要有人跟进。从一开始就规划这些责任，更有可能让改进持续下去。缺少这样的规划，良好的第一印象可能很快就会消失。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "18f9da52e8b0361aed9f0f75f1de7489ba87c043f5e24a69130839b3779ea568",
+      "referenceAnswerFingerprint": "34ec682d4b3faa4ce98b64fdd38404c09cd639df7f138d2d582d2e488cd39006"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English to a community group after a tree-planting event. Propose a follow-up care plan, explain how responsibilities could be shared, and suggest how progress should be recorded.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "具体交代后续养护、分工和记录方式。",
+      "sampleAnswer": "Dear group members,\nOur planting day was enjoyable, but the young trees will need attention after the photographs have been shared. I suggest making a simple care plan for the next six months.\nWe could divide the path into three sections and assign a small volunteer team to each. Teams would check the trees regularly, note damaged supports or heavy weeds, and contact the coordinator when extra help is needed. Volunteers should follow the gardener's advice about any work they undertake.\nA shared record could show each tree's location, the date of the visit and the action required or completed. At the end of summer, we could report how the trees are doing and what we have learned. This would help our efforts produce a lasting improvement.\nBest wishes,\nA volunteer",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "44aaaacb7926f6575dd459637ede71d7591fb8154df7234ce69dde6d47723284",
+      "sampleAnswerFingerprint": "21bfd71e3207813c130bf838a16ba738d6c0e0775da561cf9fe161dc54c2deaa"
+    }
+  ],
+  "fingerprintManifest": [
+    "8db73170009ad8f447ad9ba4b6194b22fbf51c97471df0b4c42f107889324909",
+    "d5129d159e68ee9c0f633f467a6d96c10ab60a7436dc1369458a9581626861d1",
+    "a1fd8ca4d920fc7553019787cb1543b6d558a971f0746c697ecacfee9d717213",
+    "dbf0274847f9cf499182665e06a91c63c54531e8caac9ea7f552cb3ae26aa963",
+    "5ecb048dfe4bf6ccbb32dbedc6b98cb66361fb122cafa4cc35458124cd0cfcda",
+    "d87151455214195ce302bcd66632fe1cfa14cd2a8228971d25c28efcb5fccd42",
+    "f7479daa56247b258d084c301ca04c755e3e0b8bb8fe6204033c2cce47266aa5",
+    "d2f0ff845ae4d5046852adf91c5d4cb0bffb61bf3a86bfd4a17542acba6ddf78",
+    "a9d3a94ac86f338b1aab67e0a60e0705c6539d71bd10f0b725ce523df8274bcb",
+    "7c1afdcc9bd3772558ae9ef9cfb1e56a7af0a50535aef54d4ba695e76010f6bd",
+    "b42c93feb3431014b2b684d360680e13e2c096f8139b669015993f3824a9bc02",
+    "be1fd067d4deb6fdeb40c40cb8d9218676515526c879275c36fc69f645f5e81a",
+    "1addcda239fb6f85a8f140e7a3b7363cd40345a67a06baf7364502fe450a9e93",
+    "bc1f6aea35dc4347b64bdcf4b89bd39db9189a73c765d0f96fba3fdf3ac0d7ff",
+    "94663956c4666c697c9c0b786ec647e68a66e4c63f459980127b86fb823333f0",
+    "7fef2ca80b824df30d10d4abc5392e7c147015ad1e8a345b610dcc3cdd2a7515",
+    "9cc9e395993c883fdb8a9f9272f02e8defa324fd8d798efa879306024bc0d480",
+    "239f58f307e3ec0247aca7894b8e08c4dc4433ecbe642a504e5b694fd8327228",
+    "bf117d06a32a61b239ab9dc1209e898782c419a3bc97b1839b9421fa2734bdfe",
+    "ca8cd446d0e09406210c81cae60c0dc73c59e559ac48d9d7d8ebd8737b520809",
+    "951fea3d2a58f4cb67fd488c06fbcce7ac14d60f9c9d8f5b8ea72fd6ee40a9b7",
+    "c9c0f6fe196e659b48aa53ad4d64c5139483e34ec25ab3c5ea3ce1aed84a4dbc",
+    "ce1e41f971f5abfa6b0845738ebd9dd73f4c8eaf6adc440aa76e7c3fe9a7c35f",
+    "09e04fee9e26d1e9c112ee494e5ac1bb339f9e538c3953d832c22d57a097a255",
+    "595962011832386d9049583c1ecc1b7b377a5ed1e172e614f34074368fe9b45f",
+    "c07ed7ef1d24e5561018790f862e5f3a0e41826585c1894f01351aecb69bc822",
+    "79b38f78bf955e435fdd79de86f6f9198deec3c3369c1ed1993fc779ac7898b3",
+    "9fd5822366320ca3f9c61941209d748413ed2e171cfdcbfb80978325121194e2",
+    "fb332615957ea213d9b170d8ddfc00fcb4449a6a8286713e1acde41b84496b3f",
+    "96cd1252eafff163a31b77ea2a26e831e2f819aabd790a85c6a1627cab7d41a6",
+    "93f5d308a475ba4d824b5591737e94cf7ae6bcc3372e44ba7779e020d29e2c86",
+    "b9e78dd8570f592b36a98340a2f3294bcca2b2a876d1f7dc30ff44616e175717",
+    "c87c72c9babce66daa8b30dcba473673185c79fa6ab40df566362d23a29fbb9e",
+    "acde9ee801211119d88c999b6387fba83717ac9fa1219a38ba29ed47345d2164",
+    "45e60c7ea0fb5e3057f77844eaef034b98516fb3e0839280e775af7c1d508e87",
+    "a824e6bee37b927c4b2a197c8c2aa813c51ddd3febbf0f0b736b3d4d36b5227e",
+    "0e17f903e9e708b629e7c57368167563f2b13093994465d2759415bfb5037a18",
+    "eb6a057401e89a7f1d9d063809ff230e8cb418bece4359312ba5b6d8ec547c6e",
+    "27c49fffa44a8b9b5778eecebd95013f1492f2777f2eb997a831b7d6a3e353b9",
+    "d4de808a93388f82ed2f00cb7af6933399844f2bdfa8d49ee22cd9e36ea140b7",
+    "d2f80e55788d41a2eed1cd214e41a52553299fc042cae3f2cb70456be772dbee",
+    "f9a7e103984bf9bc6e35e3cfbfad9d04970113cc44d08fde6787d82841d356ab",
+    "00969c22c1d719c2fad50749b1f6c2a064c5aadcf42cfa1e2772e291caa0d7ae",
+    "889c96a1c727411a45b80c153e0b9094ca77b25c2392123d34a0a67023eeac3a",
+    "10a59003fb457a079c790c860fc62849a751545b35f7ddc57ba8e7e9d748bd21",
+    "d82a45451f205705762f7d5d3a4dd0a95336112299f60eae92b401f08b3bd188",
+    "0409d4bef76f2c3bfce47473bb63ac87224dff60f25d9942b5c888fa3580d125",
+    "391a6170b0c7d8337af8df275f577d75ebf639b978a6198784cde7a35a844aee",
+    "4d7782c932eaa1aad870f9441851d298e354a0150f53f9822e8fb06bc58705ff",
+    "8ddab9ade95ae3ddfa2d7e7699f14a9d4c38a54442e875ffb68a29961b443950",
+    "2496ea715fe4cb9a7594c8e6ab966ac4b21f41c30f976ee5478a7b8621af60e1",
+    "e6d2fcdef55f1c1ae5483e6748b55a8881bf8456d92e73e3db88b802d697cd15",
+    "3948f27b96a3b90834fa547deecd9eaee82c95ad0228928998fbadfc4eff4561",
+    "5b1b875d87f8f6ea032bc08c709ca378c824c719f502b3ee968b787017c6bc1e",
+    "828a16c281672dc06d90059fc9c3a300500b837ff1a69b04ec3ddedccca7231f",
+    "9c34d7c7b4c40c8bae2d995d51d248453db51f81a509103a41b6d7d42abaa15d",
+    "c9daf3679df4ce43570d5a8b3e0bb315eb5d74bed1f962358c4ecd78e719ab4c",
+    "18f9da52e8b0361aed9f0f75f1de7489ba87c043f5e24a69130839b3779ea568",
+    "34ec682d4b3faa4ce98b64fdd38404c09cd639df7f138d2d582d2e488cd39006",
+    "44aaaacb7926f6575dd459637ede71d7591fb8154df7234ce69dde6d47723284",
+    "21bfd71e3207813c130bf838a16ba738d6c0e0775da561cf9fe161dc54c2deaa"
+  ],
+  "contentFingerprint": "b868f79ec2d43b864cc0c2f573acc17b802472351bc08e63e0349116131951d3"
+}

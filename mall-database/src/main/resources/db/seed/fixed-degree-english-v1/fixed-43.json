@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-43",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 43 · 工作交接与服务协作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 43,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Preparing a dispatch handover",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I am taking over the afternoon dispatch desk today.\nStaff: (1) _____\nVisitor: Which orders still need attention?\nStaff: (2) _____\nVisitor: Has the customer been told about the delayed parcel?\nStaff: (3) _____\nVisitor: Where should I leave notes for tomorrow's team?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "The two marked in orange are awaiting collection.",
+        "B": "Yes, I called her and recorded the conversation.",
+        "C": "Use the shared log and include the order numbers.",
+        "D": "I will walk you through the handover sheet."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "ccc3b739541a58d1ec6e67c6b98b18247766fa0b90ef45e52ca2bf3213172e8f",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Preparing a dispatch handover\".",
+          "options": {
+            "A": "The two marked in orange are awaiting collection.",
+            "B": "Yes, I called her and recorded the conversation.",
+            "C": "Use the shared log and include the order numbers.",
+            "D": "I will walk you through the handover sheet."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明交接支持。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "81606e2935536a8d6ace195e8c2a9ddb9c56d8447d9130ed8d44c46f79a1650e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Preparing a dispatch handover\".",
+          "options": {
+            "A": "The two marked in orange are awaiting collection.",
+            "B": "Yes, I called her and recorded the conversation.",
+            "C": "Use the shared log and include the order numbers.",
+            "D": "I will walk you through the handover sheet."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "指出待处理订单。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "56ce4659632827ffb7a6371cbcb7b660d58e2e3232bc0bf24d4349a32ece5f2a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Preparing a dispatch handover\".",
+          "options": {
+            "A": "The two marked in orange are awaiting collection.",
+            "B": "Yes, I called her and recorded the conversation.",
+            "C": "Use the shared log and include the order numbers.",
+            "D": "I will walk you through the handover sheet."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "确认通知客户。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8095f834c9b5fe3a5f4ea2e742b52826a0044b018cbdc66346af9a40b523f6cb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Preparing a dispatch handover\".",
+          "options": {
+            "A": "The two marked in orange are awaiting collection.",
+            "B": "Yes, I called her and recorded the conversation.",
+            "C": "Use the shared log and include the order numbers.",
+            "D": "I will walk you through the handover sheet."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明记录位置及信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fd7d4535f5fad65e79460647f3973758eecaf26f6469948b1f9e60a0e1fe716e"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Changing a customer appointment",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: Our technician cannot reach your office at nine.\nStaff: (1) _____\nVisitor: Would eleven o'clock be possible instead?\nStaff: (2) _____\nVisitor: Should I notify the reception team?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Thanks for letting me know before the appointment.",
+        "B": "Eleven is fine; our meeting will have finished.",
+        "C": "Yes, please give them the technician's name.",
+        "D": "The parcel weighs less than one kilogram."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "ce0e25150041ac26fb7727b1d09bf7fae8216ccffab9dfd06dbc7776ad10d378",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Changing a customer appointment\".",
+          "options": {
+            "A": "Thanks for letting me know before the appointment.",
+            "B": "Eleven is fine; our meeting will have finished.",
+            "C": "Yes, please give them the technician's name.",
+            "D": "The parcel weighs less than one kilogram."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "回应提前通知。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5e6883f699569de8d814341c14d0077ee18a7a8508bfa30002653dd189fe0ece"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Changing a customer appointment\".",
+          "options": {
+            "A": "Thanks for letting me know before the appointment.",
+            "B": "Eleven is fine; our meeting will have finished.",
+            "C": "Yes, please give them the technician's name.",
+            "D": "The parcel weighs less than one kilogram."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "接受新时间并解释。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ef726ec58ed26b4a072811d0c6cc8553f2a643a7bfbe19c9e567ebe5141886d5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Changing a customer appointment\".",
+          "options": {
+            "A": "Thanks for letting me know before the appointment.",
+            "B": "Eleven is fine; our meeting will have finished.",
+            "C": "Yes, please give them the technician's name.",
+            "D": "The parcel weighs less than one kilogram."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明接待所需信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "675efcdbfc995d29c2e02be52768d878a18700cea1f6deaeea817f56125cf9f9"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Clarifying a shared instruction",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The note says 'send it soon', but no deadline is given.\nStaff: (1) _____\nVisitor: Should I contact the person who wrote it?\nStaff: (2) _____\nVisitor: I will update the shared note once I have an answer.\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Please switch off the lights in the storeroom.",
+        "B": "We need to find out the exact time required.",
+        "C": "Yes, ask whether it is needed before today's collection.",
+        "D": "That will help the next shift avoid the same uncertainty."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "5f522f70f19c0f5b45c7a9eec694f4361ce17124a8c84d433c7fab972b2cffef",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Clarifying a shared instruction\".",
+          "options": {
+            "A": "Please switch off the lights in the storeroom.",
+            "B": "We need to find out the exact time required.",
+            "C": "Yes, ask whether it is needed before today's collection.",
+            "D": "That will help the next shift avoid the same uncertainty."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出需要明确期限。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1198a5c73da2a5491cc8181ed230172f943f9d6ef549fe2cf66a2709736467b6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Clarifying a shared instruction\".",
+          "options": {
+            "A": "Please switch off the lights in the storeroom.",
+            "B": "We need to find out the exact time required.",
+            "C": "Yes, ask whether it is needed before today's collection.",
+            "D": "That will help the next shift avoid the same uncertainty."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "建议向作者核实。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1e79f26b93c28fc93702dd620d8867cf249c7725d174f92b52fe052c6e136db6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Clarifying a shared instruction\".",
+          "options": {
+            "A": "Please switch off the lights in the storeroom.",
+            "B": "We need to find out the exact time required.",
+            "C": "Yes, ask whether it is needed before today's collection.",
+            "D": "That will help the next shift avoid the same uncertainty."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "认可补充记录的价值。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "9285de09558e8714cc7b47c511139ad89e83c28bb9f759bb5da30016a4ab10e9"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The order that disappeared between shifts",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At a small distribution office, each employee kept a separate notebook. A customer asked to change a delivery address during the morning shift. The employee wrote it down, but the afternoon team used the original address. The manager did not solve the problem by asking everyone to remember more. Instead, the office created one shared change log linked to order numbers. Whoever accepted a change recorded it immediately. The next shift acknowledged reading it. Personal notebooks remained useful for reminders, but the shared log became the authoritative record of customer requests.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "842d1ccee68fc73f53317d1c047037ccf523201658f70f6725ab1b4eba9f6f6e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "The order that disappeared between shifts: Why was the wrong address used?",
+          "options": {
+            "A": "The delivery vehicle broke down.",
+            "B": "The afternoon office was closed.",
+            "C": "The change stayed in one employee's notebook.",
+            "D": "The customer refused to provide an address."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "私人记录未传递给下一班。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "ce5f2e05882e0400bde5e463ed91946e9a464c2ac95234eee15af743a5ab00bc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "The order that disappeared between shifts: What did the new log connect changes to?",
+          "options": {
+            "A": "Employees' birthdays.",
+            "B": "Room temperatures.",
+            "C": "Vehicle colours.",
+            "D": "Order numbers."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "日志以订单号关联变更。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "19dcaea1d176ab70829f672e31c1349d4f93967b61ac963b56936422947b6a46"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "The order that disappeared between shifts: When should an accepted change be recorded?",
+          "options": {
+            "A": "Immediately.",
+            "B": "At the end of the month.",
+            "C": "Only after a complaint.",
+            "D": "Before the customer speaks."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "接受后立即记录。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "6a272f4aa0d32df7722c5519ba5b51847e58bf46e952f9a989c570f3f6838838"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "The order that disappeared between shifts: What did the next shift have to acknowledge?",
+          "options": {
+            "A": "That all addresses were correct forever.",
+            "B": "That it had read the log.",
+            "C": "That it had delivered every parcel.",
+            "D": "That notebooks were forbidden."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "交班确认已读。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "4a910439b7302949ae86a3bea8abff7248ce98fec689a4fd2974b168623b44ab"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "The order that disappeared between shifts: What does 'authoritative' suggest here?",
+          "options": {
+            "A": "A private and optional suggestion.",
+            "B": "A collection of old advertisements.",
+            "C": "The record to rely on when accounts differ.",
+            "D": "A record written only by customers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "authoritative表示作为准确信息依据。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f0ede80e912f9e3450d1e1ab96e65164ae4b71e3ff7671bcdadd6bbd3b716907"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A repair team's realistic promise",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A repair company used to promise an exact arrival time for every home visit. Traffic and unexpected faults often made that promise impossible to keep. Customers became frustrated even when repairs were completed well. The company began offering a two-hour arrival window and a message when the technician left the previous job. It also asked customers whether they needed extra notice to return home. Some preferred the old system at first. After several weeks, fewer people complained about waiting without information. The company learned that a realistic promise supported by updates could be more valuable than a precise but unreliable one.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "a2fdcf90bd6e85810e6db02d5d83dae8100037ff47c42b23750eb8f4d43e2336",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "A repair team's realistic promise: Why did exact arrival promises fail?",
+          "options": {
+            "A": "Customers never answered calls.",
+            "B": "Technicians had no tools.",
+            "C": "The company stopped visiting homes.",
+            "D": "Travel and earlier repairs were unpredictable."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "交通和故障处理时间难以预测。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "3769c4ca59bea180af781d186b47105cbd22458b01388589decf8a1aabbea631"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "A repair team's realistic promise: When was a message sent?",
+          "options": {
+            "A": "When the technician left the previous job.",
+            "B": "Only after payment.",
+            "C": "A month before booking.",
+            "D": "At midnight after each visit."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "离开上一工作点即通知。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "69c29ffb9c80aedfc5e89a3cf9136759388608da0ae00779c0efdf5b37a70043"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "A repair team's realistic promise: What customer need was considered?",
+          "options": {
+            "A": "The size of their garden.",
+            "B": "Time to return home.",
+            "C": "A preference for new vehicles.",
+            "D": "A desire to learn accounting."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "额外提前通知用于返家。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "7af72e47caa5e5f5aa92892917698e109a66e1ace1e101dfe22d49e0ca68a616"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "A repair team's realistic promise: What decreased after the change?",
+          "options": {
+            "A": "All transport delays.",
+            "B": "The number of available technicians.",
+            "C": "Complaints about uninformed waiting.",
+            "D": "The length of every repair."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "等待而无信息的投诉减少。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f329ec071338307851df12be88afab8c7135719e1852b9862d0516d0e16787f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "A repair team's realistic promise: Which title would also fit?",
+          "options": {
+            "A": "Why precise promises are always best.",
+            "B": "Replacing repairs with telephone calls.",
+            "C": "A company that stopped making appointments.",
+            "D": "Promises that match real working conditions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "合理承诺与信息更新是重点。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "af5ee38cf43626466467f016d06e1feb75a8112fc99b9b68cd83093a6553175b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "One question before buying software",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The manager of a translation office considered buying a new scheduling system because projects were regularly delayed. Before choosing a product, she asked the team where work actually stopped. Translators said they often waited for clients to clarify unfamiliar terms. The office already had enough scheduling tools; it lacked a clear process for asking questions early. The team added a short clarification stage when a project arrived and assigned one contact person for each client. Delays became less frequent. The manager still planned to improve software later, but now knew which problem any new tool should address.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "6428b01bcdf54b0113cc78081cff210d0d349aaf9482fe23e0c4f9664754d433",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "One question before buying software: What problem prompted the manager's initial plan?",
+          "options": {
+            "A": "Regular project delays.",
+            "B": "A shortage of office chairs.",
+            "C": "Too many completed translations.",
+            "D": "A rise in electricity use."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "起因是项目经常延迟。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "5683d35ce007cb57c2a7d4a04c88aecc13ffced27d66d255f993c98ac748231e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "One question before buying software: What commonly stopped the translators?",
+          "options": {
+            "A": "Being unable to open the office.",
+            "B": "Waiting for clients to clarify terms.",
+            "C": "Waiting for new dictionaries to arrive.",
+            "D": "Having no internet at all."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "术语需客户说明。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "6242de17250020bc29d7bbc9fbef20cbe5369425617091f8949f8a087f8609f1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "One question before buying software: What did the office lack?",
+          "options": {
+            "A": "A way to charge clients.",
+            "B": "A list of employees.",
+            "C": "A process for asking questions early.",
+            "D": "Any scheduling tools."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "已有工具但缺早期澄清流程。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f5742c41938e960c4d28a27137d70046684f04c371e1137efd18c1cce62680a1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "One question before buying software: What was assigned to each client?",
+          "options": {
+            "A": "A separate building.",
+            "B": "A new computer.",
+            "C": "An extra translator for every sentence.",
+            "D": "One contact person."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "单一联系人负责沟通。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "5455ac0aecf6cbaf33e2b7bce52264d29412f2eb42f52edf96dd535f4b5e70b4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "One question before buying software: What can be inferred about choosing tools?",
+          "options": {
+            "A": "Understanding the cause should guide the purchase.",
+            "B": "The newest product solves every delay.",
+            "C": "Software is never useful in translation.",
+            "D": "Clients should choose every office tool."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先识别真实原因再选工具。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f774d4f027394900a5831dfea3cea1da7e1ed395af1cd1cc65e369e2b19aaf4f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Recognising help that remains unseen",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "In a hotel, performance reports once focused on the number of guests each employee checked in. This overlooked the colleague who explained procedures to new staff and helped solve difficult requests. Her own total sometimes looked low because she spent time helping others. The team added a brief weekly discussion about support work. They did not attach a score to every friendly action. Instead, supervisors recorded specific examples that affected the whole team's service. The change reminded staff that individual totals could not describe all useful work. It also made training contributions more visible during development conversations.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "ead8090ed27345e1fb8952cec78092392f340205e294b0de811dccfba00f267d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Recognising help that remains unseen: What did the old reports mainly count?",
+          "options": {
+            "A": "Customer travel distances.",
+            "B": "Guest check-ins per employee.",
+            "C": "Hours spent sleeping.",
+            "D": "The number of training books."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "旧指标是个人入住办理数。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "70603599efa3056ba6e13930438f4ea0c9ed37fd740eeda191facec332f75154"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "Recognising help that remains unseen: Why could a helpful colleague have a low total?",
+          "options": {
+            "A": "She worked in another hotel.",
+            "B": "She counted every guest twice.",
+            "C": "She spent time supporting other staff.",
+            "D": "She refused all customer requests."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "帮助他人占用个人办理时间。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "33d5a9b4c837e89de94a0440047b564566e93778602921ad6766e9000c8f80d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "Recognising help that remains unseen: What did supervisors start recording?",
+          "options": {
+            "A": "A score for every friendly action.",
+            "B": "Every private conversation.",
+            "C": "Only complaints from new staff.",
+            "D": "Specific examples of support work."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "记录具体影响服务的支援案例。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1756da49ba2f086590e1393eeca51c6f939d19d185dcaa182ff8b4cda0cfc4bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "Recognising help that remains unseen: What is the passage's main point?",
+          "options": {
+            "A": "Useful work is not fully captured by individual totals.",
+            "B": "Counting check-ins is illegal.",
+            "C": "Training should be done outside work.",
+            "D": "Employees should never compare results."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "个人数量指标不能完整反映价值。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "df26329700694e842ab56fe6134d04c45fab9f0fe1984f5917e53d1f5024dd84"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Recognising help that remains unseen: Where did training contributions become more visible?",
+          "options": {
+            "A": "In travel advertisements.",
+            "B": "In development conversations.",
+            "C": "In room price lists.",
+            "D": "In guest passports."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "用于员工发展沟通。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "34613a1e33d8911daf95e5c3c14aaed802eb7722f7deb3c74d04d17fbb07d788"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The new log will _____ confusion between the morning and evening shifts.",
+      "options": {
+        "A": "decorate",
+        "B": "borrow",
+        "C": "contain",
+        "D": "reduce"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "reduce confusion表示减少混乱。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "242a18faa466f42b92af79af3fd9d165d551659c08cf19a1c10c778906f7e5b8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Please _____ receipt of the updated delivery instructions.",
+      "options": {
+        "A": "acknowledge",
+        "B": "abandon",
+        "C": "disturb",
+        "D": "compete"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "acknowledge receipt表示确认收到。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2044565f6569364faccfab0f0897ec61a81d2657d916bc87c0600176f6ef751c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A _____ arrival window is better than an exact promise we cannot keep.",
+      "options": {
+        "A": "wooden",
+        "B": "realistic",
+        "C": "careless",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "realistic表示符合实际的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6cacf6cd9e9625dbd6fed7b29a90163d63b7114b9a05d7c13a7e9a4191b6a78f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The translator requested _____ of an unfamiliar technical term.",
+      "options": {
+        "A": "decoration",
+        "B": "transportation",
+        "C": "clarification",
+        "D": "celebration"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "clarification表示澄清。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f25cf78143c0048f3147c02a5f9731e76995d45d8c18e2aa5712d0381373b24b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "We appointed one _____ person for each overseas customer.",
+      "options": {
+        "A": "comfort",
+        "B": "contrast",
+        "C": "content",
+        "D": "contact"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "contact person表示联系人。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d7e0bfa995f1a6d8ad6aaeb2e5274b547f5d524bfd905e08e53d1d83860bb556"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Helping new staff is a valuable _____ to the whole team.",
+      "options": {
+        "A": "contribution",
+        "B": "construction",
+        "C": "competition",
+        "D": "conclusion"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "contribution表示贡献。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f46e5f7efdd4d09c298bb5905a1f4fec27323e4c9507b4152f9b8b2e2c52b7ee"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The parcel cannot be delivered until we receive the _____ address.",
+      "options": {
+        "A": "removed",
+        "B": "revised",
+        "C": "retired",
+        "D": "relaxed"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "revised表示修订后的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2919213b381864cce521320777a06afdd3ba0b2382c7d7a921e890af57e7272e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The supervisor asked us to give _____ examples of effective support.",
+      "options": {
+        "A": "passive",
+        "B": "severe",
+        "C": "specific",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "specific examples表示具体例子。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c20caee4b22da780ad10fcff391777bd29c7d3a35c915c2bb6310cc147ecae67"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The unexpected fault caused a further _____ in the technician's schedule.",
+      "options": {
+        "A": "degree",
+        "B": "detail",
+        "C": "debate",
+        "D": "delay"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "delay表示延迟。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8fa071aeae93e0252957fc06224c30992d469e672d9665e18b91e1b243e420fd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Customer requests should be handled with patience and _____.",
+      "options": {
+        "A": "respect",
+        "B": "distance",
+        "C": "noise",
+        "D": "expense"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "respect表示尊重。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "75f222c8e637e6c4c86a7798bbf0aa9179b5d5273804d953c40f55b499989cb6"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The customer asked whether her parcel _____ to the new address.",
+      "options": {
+        "A": "could be sent",
+        "B": "can sending",
+        "C": "could send",
+        "D": "can be send"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "宾语从句过去时配could，被动用be sent。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "92b0b528b0ca88aed1ffe25018babd66041f474d9bf7c694eecf71403a47e436"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Each of the handover sheets _____ an order number at the top.",
+      "options": {
+        "A": "were having",
+        "B": "has",
+        "C": "have",
+        "D": "are having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "each of作主语用单数。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1d95f1e663d2363dbed0d881800369934a5f2bf81231942a6c2ac08eaf8fa1f5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "We stopped _____ the unclear instruction before sending the goods.",
+      "options": {
+        "A": "discussed",
+        "B": "to discussing",
+        "C": "to discuss",
+        "D": "discuss"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "stop to do表示停下原活动来讨论。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e7266d5daab7799c8abec2cfe96c746fdc367d5df6040e09202bca9965e657c8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The technician will call as soon as she _____ the previous job.",
+      "options": {
+        "A": "will finish",
+        "B": "would finish",
+        "C": "had finished",
+        "D": "finishes"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "27d58c33ce3520c3098da7bc59bcfa203cc01f435ba6b7c3799faf573acee346"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Had the change been recorded, the afternoon team _____ the old address.",
+      "options": {
+        "A": "would not have used",
+        "B": "will not use",
+        "C": "does not use",
+        "D": "had not used"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "倒装的过去虚拟条件，主句would have done。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b69f70f1f517875bcc424962eb45461d4f34aef44ab8a0ee41d508972e8316ed"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The colleague _____ I asked for help explained the new booking process.",
+      "options": {
+        "A": "where",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "whom作asked的宾语，指人。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3157866584e15271d3f22519815b389360c895802dc331332de7f1cc27fc0c9d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This request is too urgent _____ until next week's meeting.",
+      "options": {
+        "A": "leave",
+        "B": "left",
+        "C": "to leave",
+        "D": "leaving"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "too ... to do结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e53197ef3404d848d1d8f96d2d1150a85e1b32ec414e03d135a6b9b1e1ace6f8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The office has used the shared change log _____ six months.",
+      "options": {
+        "A": "since",
+        "B": "from",
+        "C": "at",
+        "D": "for"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "for接时间段。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8d3845f22b4de64b0b4735fa1c1b75fcb81375bff1c0db898824d110e77f6b90"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the team discussed the delays _____ the real cause.",
+      "options": {
+        "A": "did the manager understand",
+        "B": "the manager understood",
+        "C": "understood the manager",
+        "D": "the manager had understand"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "56ba49c910d0e36c77fecdb9e1eaa9b1c18a547cf4f43ad35d45609080d61c64"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "More time should be spent _____ new staff how to handle difficult requests.",
+      "options": {
+        "A": "taught",
+        "B": "teaching",
+        "C": "to teaching",
+        "D": "teach"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "spend time doing结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "53a6062bf19f537d929abeb4f5a5b89da774739b517deb9b93321cfd587bf902"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA good handover makes unfinished work visible. It tells the next person what has happened, what still needs attention, and whom to contact if a question arises. This information should be easy to find and specific enough to act on. A vague instruction such as 'deal with it soon' may sound urgent, but it does not help a colleague decide what to do first.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "准确处理三个并列宾语从句及specific enough to act on的含义。",
+      "referenceAnswer": "良好的交接能让尚未完成的工作清楚地呈现出来。它告诉接手者已经发生了什么、哪些事情仍需关注，以及出现问题时应该联系谁。这些信息应当便于查找，并且具体到足以据此采取行动。像“尽快处理”这样模糊的指示听起来可能很紧急，却无法帮助同事判断应该先做什么。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "9efc408b95655de9290f98873dd56598a7d030b5f0c82fdec22982880928cc63",
+      "referenceAnswerFingerprint": "e27e522f50ef6cf90897cbfe2d4b4877e73a80192fe119102826a50b3b16237a"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English to your team proposing a clearer handover routine. Describe a current difficulty, suggest information that should be recorded, and explain how the team could introduce the routine.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "提出交接问题、记录字段与试行流程，形成可执行建议。",
+      "sampleAnswer": "Dear colleagues,\nRecently, several customer changes have reached the next shift too late. Important details sometimes remain in personal notebooks, so another person cannot easily find them.\nI suggest a shared handover log for all unfinished requests. Each entry should include the customer or order number, the action already taken, the next step, and the deadline. It should also name the person who can answer questions. At the start of a shift, one team member could confirm that the new entries have been read.\nWe could try this routine for two weeks and discuss whether any fields are unnecessary or missing. Keeping the log short should make it practical during busy periods. I believe this small change would help us give customers more reliable service.\nBest wishes,\nA team member",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "72d07c720fe7aab305e3eac82190833ae56fd981821cf2d7df83a638823f59b2",
+      "sampleAnswerFingerprint": "82db5af13b7bd7f9be2a82b97b146421f64ad641eb37eee7efe290741bb73e22"
+    }
+  ],
+  "fingerprintManifest": [
+    "ccc3b739541a58d1ec6e67c6b98b18247766fa0b90ef45e52ca2bf3213172e8f",
+    "81606e2935536a8d6ace195e8c2a9ddb9c56d8447d9130ed8d44c46f79a1650e",
+    "56ce4659632827ffb7a6371cbcb7b660d58e2e3232bc0bf24d4349a32ece5f2a",
+    "8095f834c9b5fe3a5f4ea2e742b52826a0044b018cbdc66346af9a40b523f6cb",
+    "fd7d4535f5fad65e79460647f3973758eecaf26f6469948b1f9e60a0e1fe716e",
+    "ce0e25150041ac26fb7727b1d09bf7fae8216ccffab9dfd06dbc7776ad10d378",
+    "5e6883f699569de8d814341c14d0077ee18a7a8508bfa30002653dd189fe0ece",
+    "ef726ec58ed26b4a072811d0c6cc8553f2a643a7bfbe19c9e567ebe5141886d5",
+    "675efcdbfc995d29c2e02be52768d878a18700cea1f6deaeea817f56125cf9f9",
+    "5f522f70f19c0f5b45c7a9eec694f4361ce17124a8c84d433c7fab972b2cffef",
+    "1198a5c73da2a5491cc8181ed230172f943f9d6ef549fe2cf66a2709736467b6",
+    "1e79f26b93c28fc93702dd620d8867cf249c7725d174f92b52fe052c6e136db6",
+    "9285de09558e8714cc7b47c511139ad89e83c28bb9f759bb5da30016a4ab10e9",
+    "842d1ccee68fc73f53317d1c047037ccf523201658f70f6725ab1b4eba9f6f6e",
+    "ce5f2e05882e0400bde5e463ed91946e9a464c2ac95234eee15af743a5ab00bc",
+    "19dcaea1d176ab70829f672e31c1349d4f93967b61ac963b56936422947b6a46",
+    "6a272f4aa0d32df7722c5519ba5b51847e58bf46e952f9a989c570f3f6838838",
+    "4a910439b7302949ae86a3bea8abff7248ce98fec689a4fd2974b168623b44ab",
+    "f0ede80e912f9e3450d1e1ab96e65164ae4b71e3ff7671bcdadd6bbd3b716907",
+    "a2fdcf90bd6e85810e6db02d5d83dae8100037ff47c42b23750eb8f4d43e2336",
+    "3769c4ca59bea180af781d186b47105cbd22458b01388589decf8a1aabbea631",
+    "69c29ffb9c80aedfc5e89a3cf9136759388608da0ae00779c0efdf5b37a70043",
+    "7af72e47caa5e5f5aa92892917698e109a66e1ace1e101dfe22d49e0ca68a616",
+    "f329ec071338307851df12be88afab8c7135719e1852b9862d0516d0e16787f9",
+    "af5ee38cf43626466467f016d06e1feb75a8112fc99b9b68cd83093a6553175b",
+    "6428b01bcdf54b0113cc78081cff210d0d349aaf9482fe23e0c4f9664754d433",
+    "5683d35ce007cb57c2a7d4a04c88aecc13ffced27d66d255f993c98ac748231e",
+    "6242de17250020bc29d7bbc9fbef20cbe5369425617091f8949f8a087f8609f1",
+    "f5742c41938e960c4d28a27137d70046684f04c371e1137efd18c1cce62680a1",
+    "5455ac0aecf6cbaf33e2b7bce52264d29412f2eb42f52edf96dd535f4b5e70b4",
+    "f774d4f027394900a5831dfea3cea1da7e1ed395af1cd1cc65e369e2b19aaf4f",
+    "ead8090ed27345e1fb8952cec78092392f340205e294b0de811dccfba00f267d",
+    "70603599efa3056ba6e13930438f4ea0c9ed37fd740eeda191facec332f75154",
+    "33d5a9b4c837e89de94a0440047b564566e93778602921ad6766e9000c8f80d9",
+    "1756da49ba2f086590e1393eeca51c6f939d19d185dcaa182ff8b4cda0cfc4bd",
+    "df26329700694e842ab56fe6134d04c45fab9f0fe1984f5917e53d1f5024dd84",
+    "34613a1e33d8911daf95e5c3c14aaed802eb7722f7deb3c74d04d17fbb07d788",
+    "242a18faa466f42b92af79af3fd9d165d551659c08cf19a1c10c778906f7e5b8",
+    "2044565f6569364faccfab0f0897ec61a81d2657d916bc87c0600176f6ef751c",
+    "6cacf6cd9e9625dbd6fed7b29a90163d63b7114b9a05d7c13a7e9a4191b6a78f",
+    "f25cf78143c0048f3147c02a5f9731e76995d45d8c18e2aa5712d0381373b24b",
+    "d7e0bfa995f1a6d8ad6aaeb2e5274b547f5d524bfd905e08e53d1d83860bb556",
+    "f46e5f7efdd4d09c298bb5905a1f4fec27323e4c9507b4152f9b8b2e2c52b7ee",
+    "2919213b381864cce521320777a06afdd3ba0b2382c7d7a921e890af57e7272e",
+    "c20caee4b22da780ad10fcff391777bd29c7d3a35c915c2bb6310cc147ecae67",
+    "8fa071aeae93e0252957fc06224c30992d469e672d9665e18b91e1b243e420fd",
+    "75f222c8e637e6c4c86a7798bbf0aa9179b5d5273804d953c40f55b499989cb6",
+    "92b0b528b0ca88aed1ffe25018babd66041f474d9bf7c694eecf71403a47e436",
+    "1d95f1e663d2363dbed0d881800369934a5f2bf81231942a6c2ac08eaf8fa1f5",
+    "e7266d5daab7799c8abec2cfe96c746fdc367d5df6040e09202bca9965e657c8",
+    "27d58c33ce3520c3098da7bc59bcfa203cc01f435ba6b7c3799faf573acee346",
+    "b69f70f1f517875bcc424962eb45461d4f34aef44ab8a0ee41d508972e8316ed",
+    "3157866584e15271d3f22519815b389360c895802dc331332de7f1cc27fc0c9d",
+    "e53197ef3404d848d1d8f96d2d1150a85e1b32ec414e03d135a6b9b1e1ace6f8",
+    "8d3845f22b4de64b0b4735fa1c1b75fcb81375bff1c0db898824d110e77f6b90",
+    "56ba49c910d0e36c77fecdb9e1eaa9b1c18a547cf4f43ad35d45609080d61c64",
+    "53a6062bf19f537d929abeb4f5a5b89da774739b517deb9b93321cfd587bf902",
+    "9efc408b95655de9290f98873dd56598a7d030b5f0c82fdec22982880928cc63",
+    "e27e522f50ef6cf90897cbfe2d4b4877e73a80192fe119102826a50b3b16237a",
+    "72d07c720fe7aab305e3eac82190833ae56fd981821cf2d7df83a638823f59b2",
+    "82db5af13b7bd7f9be2a82b97b146421f64ad641eb37eee7efe290741bb73e22"
+  ],
+  "contentFingerprint": "40a89385b3002d460eec415c87b385b3b5278ca6f6dd5f2c571b71ba7fae4eb8"
+}

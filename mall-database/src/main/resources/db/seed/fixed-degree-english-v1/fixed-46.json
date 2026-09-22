@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-46",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 46 · 数字沟通与个人信息",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 46,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Choosing notification settings",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The volunteer app sends too many messages while I am at work.\nStaff: (1) _____\nVisitor: Will I still receive urgent schedule changes?\nStaff: (2) _____\nVisitor: Can I change these settings again later?\nStaff: (3) _____\nVisitor: Could you show me where to save my choice?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "Certainly; the notification page is always available.",
+        "B": "Tap the save button at the bottom of this screen.",
+        "C": "You can turn off general discussion alerts in the settings.",
+        "D": "Yes, keep the schedule-change option switched on."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "5a348b66f2a5e9363163f5d3ff063802cd7cb9eca290352688b38f423f1c5914",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Choosing notification settings\".",
+          "options": {
+            "A": "Certainly; the notification page is always available.",
+            "B": "Tap the save button at the bottom of this screen.",
+            "C": "You can turn off general discussion alerts in the settings.",
+            "D": "Yes, keep the schedule-change option switched on."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "提供关闭一般提醒方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "08afde9142897d095e575b7518bba9447edc8011bd85a1a9dd14216380128dc3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Choosing notification settings\".",
+          "options": {
+            "A": "Certainly; the notification page is always available.",
+            "B": "Tap the save button at the bottom of this screen.",
+            "C": "You can turn off general discussion alerts in the settings.",
+            "D": "Yes, keep the schedule-change option switched on."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "保留重要通知。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "47325679ac5e41766e06e524ced1a6918c8dad91e289232106a857a46f22d21b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Choosing notification settings\".",
+          "options": {
+            "A": "Certainly; the notification page is always available.",
+            "B": "Tap the save button at the bottom of this screen.",
+            "C": "You can turn off general discussion alerts in the settings.",
+            "D": "Yes, keep the schedule-change option switched on."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认设置可改。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fb53fa0d40042e324c2665a40112e16480b8b26d9c48cd3bc24b090e0e165022"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Choosing notification settings\".",
+          "options": {
+            "A": "Certainly; the notification page is always available.",
+            "B": "Tap the save button at the bottom of this screen.",
+            "C": "You can turn off general discussion alerts in the settings.",
+            "D": "Yes, keep the schedule-change option switched on."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明保存位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "aadd7a9c6e585297cda0ba9cbdaaad3bb5e5bbc371dc38d6ef1cfe346f2cfd0f"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Requesting a smaller contact list",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The event form asks for my home address. Is that necessary?\nStaff: (1) _____\nVisitor: Could I register with an email address only?\nStaff: (2) _____\nVisitor: How long will you keep the registration details?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, that is enough to send you the joining link.",
+        "B": "We will remove the contact list after the follow-up message.",
+        "C": "The bus leaves from the south entrance.",
+        "D": "For this online event, we do not need a postal address."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "244fc8dcd6ea39ca531d43f7872da5e227981e679916dad092384d550129333a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Requesting a smaller contact list\".",
+          "options": {
+            "A": "Yes, that is enough to send you the joining link.",
+            "B": "We will remove the contact list after the follow-up message.",
+            "C": "The bus leaves from the south entrance.",
+            "D": "For this online event, we do not need a postal address."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据用途说明无需住址。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9fe46ad4ba89f2d30741cd203565d9bd53075e4a92eb7ea68a329c4bce7644b2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Requesting a smaller contact list\".",
+          "options": {
+            "A": "Yes, that is enough to send you the joining link.",
+            "B": "We will remove the contact list after the follow-up message.",
+            "C": "The bus leaves from the south entrance.",
+            "D": "For this online event, we do not need a postal address."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认邮箱足够。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "77fae15310fa78e70061851ee34895d484cdbba8fa55ef9654fa089bfff4ca70"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Requesting a smaller contact list\".",
+          "options": {
+            "A": "Yes, that is enough to send you the joining link.",
+            "B": "We will remove the contact list after the follow-up message.",
+            "C": "The bus leaves from the south entrance.",
+            "D": "For this online event, we do not need a postal address."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明保留时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "322ec71b4c8f4934e6921afdac78df7d626fec13942aceb58e51ea358108dc4c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Clarifying a message tone",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: My colleague read my short reply as a complaint.\nStaff: (1) _____\nVisitor: Should I send a longer explanation?\nStaff: (2) _____\nVisitor: Would a quick call be better if she is available?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "A brief message can sound sharper than you intended.",
+        "B": "You could explain what you meant and acknowledge the misunderstanding.",
+        "C": "Yes, hearing each other may clear it up more quickly.",
+        "D": "Please attach the parking receipt to the form."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "aad6a3713277984a2256d4f5c6ea2ec9c232f8f4c189713dbf72270b453e80e4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Clarifying a message tone\".",
+          "options": {
+            "A": "A brief message can sound sharper than you intended.",
+            "B": "You could explain what you meant and acknowledge the misunderstanding.",
+            "C": "Yes, hearing each other may clear it up more quickly.",
+            "D": "Please attach the parking receipt to the form."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "解释文字语气误解。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5be8547305e5e788b034b53d7046a5565b63b4acf55b44604a408b32dbf7d78f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Clarifying a message tone\".",
+          "options": {
+            "A": "A brief message can sound sharper than you intended.",
+            "B": "You could explain what you meant and acknowledge the misunderstanding.",
+            "C": "Yes, hearing each other may clear it up more quickly.",
+            "D": "Please attach the parking receipt to the form."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "提出澄清方法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e543f626d7e4067b5d8fd1b247a6505b892e59498cf0bdd9ac1daf285b490cdf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Clarifying a message tone\".",
+          "options": {
+            "A": "A brief message can sound sharper than you intended.",
+            "B": "You could explain what you meant and acknowledge the misunderstanding.",
+            "C": "Yes, hearing each other may clear it up more quickly.",
+            "D": "Please attach the parking receipt to the form."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "认可通话帮助理解。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "21205b829e7e863b0d0a118cbd06e2a61fd6cdc7c43dad09dc83eaefe1b7e88e"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A group chat with a clear purpose",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The residents of Linden Court used one chat group for urgent maintenance news, lost umbrellas and long discussions. Important notices were often buried. A volunteer suggested creating a separate announcement channel. Only building notices appeared there, while the original group remained open for conversation. Residents could silence the discussion group without missing a water-supply notice. The volunteer also posted a weekly summary for people who preferred checking less often. The arrangement did not reduce residents' freedom to talk. It made the purpose of each channel clearer and helped people choose how much attention to give it.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "a827f7cc304c79b0c69f70182a9c06b4e57b83d61940f6c51b446a3b5d63fa65",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "A group chat with a clear purpose: Why were important notices missed?",
+          "options": {
+            "A": "The volunteer deleted every notice.",
+            "B": "They were mixed with many other messages.",
+            "C": "The building had no residents.",
+            "D": "All notices were printed in tiny letters."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "混杂讨论导致公告被淹没。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "55f993b6066f58bb1f7bc9482f83144436ada103e7401706482d566fa1ee90ee"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "A group chat with a clear purpose: What appeared in the separate channel?",
+          "options": {
+            "A": "Only lost umbrellas.",
+            "B": "Advertisements from all residents.",
+            "C": "Building announcements.",
+            "D": "Every private complaint."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "新频道只发布楼宇公告。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "fb6e20190a640d7ece67c8dc917cfeb7d268549a239f16e58c20eae6ddc27f95"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "A group chat with a clear purpose: What could residents silence?",
+          "options": {
+            "A": "All water-supply notices.",
+            "B": "The building's alarm system.",
+            "C": "The volunteer's weekly work.",
+            "D": "The original discussion group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "可静音一般讨论。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "640e90c277237d9b3a0434fc3e7b8c4e15a4d8de51b912fdd2cafddf10fecabb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "A group chat with a clear purpose: Who benefited from the weekly summary?",
+          "options": {
+            "A": "People who checked messages less often.",
+            "B": "Only people moving away.",
+            "C": "Only maintenance workers.",
+            "D": "Visitors without permission to enter."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "周汇总适合低频查看者。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "cc7331b6be63ddf8864baa3cf8e49983f4f2358daa0ddadb996435884a5534c2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "A group chat with a clear purpose: What was the main improvement?",
+          "options": {
+            "A": "A requirement to read every discussion.",
+            "B": "Clearer purposes for different channels.",
+            "C": "A ban on resident conversation.",
+            "D": "More urgent messages every hour."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "信息渠道职责清晰。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7e6b3c986139c65cb42499cdbc99b0c0241796dfec3d2ea77fe8a3fe4ab43ab6"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Collecting only what an event needs",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An online book club copied a registration form from an earlier outdoor event. The form requested postal addresses and emergency contacts, although participants would now join from home. One organiser asked how each field would be used. The team removed fields unrelated to the online meeting and kept only a name and email address. They explained that the email was needed to send the joining link and a follow-up note. Fewer people abandoned the form. The exercise reminded the organisers that reusing a form also means reconsidering its assumptions, rather than treating every old field as necessary.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "2fcca7d0c9ace8f6bb22d48a28d4a61a0d12549e877b0d9ec3488375a0f1f706",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Collecting only what an event needs: Where did the form originally come from?",
+          "options": {
+            "A": "A railway ticket office.",
+            "B": "A language test.",
+            "C": "An outdoor event.",
+            "D": "A hospital examination."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "表格原用于户外活动。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "bb3906e3e5775e57ae59859112b6981ca17c0a751ec9a6695a55902cb0a5b336"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "Collecting only what an event needs: Why were some fields unnecessary?",
+          "options": {
+            "A": "No one wanted a joining link.",
+            "B": "Participants had no names.",
+            "C": "The organisers would visit every home.",
+            "D": "The event had moved online."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "活动方式改变，收集目的不再成立。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "f57e9bd203b0b0ac4e9b058001e90cc298eb8eb8668f4bf3f5a69041b3f7cb78"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "Collecting only what an event needs: What information was retained?",
+          "options": {
+            "A": "A name and email address.",
+            "B": "A full postal address only.",
+            "C": "An employer and salary.",
+            "D": "An emergency contact and passport number."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "保留姓名及邮箱。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "175f3a7d872871b03fd7a3cfa73f0afc9e9c2ab5b8793166071724a332a0b3ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "Collecting only what an event needs: Why was the email needed?",
+          "options": {
+            "A": "To arrange home inspections.",
+            "B": "To send meeting information and a follow-up note.",
+            "C": "To advertise unrelated products.",
+            "D": "To contact participants' neighbours."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "明确说明邮件用途。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "4369c33279340b19b630ea1f0e650eb6adaa46bdc148a901b896e7005b1948f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Collecting only what an event needs: What does the final sentence advise?",
+          "options": {
+            "A": "Create a longer form for each event.",
+            "B": "Avoid all online registration.",
+            "C": "Reconsider assumptions when reusing a form.",
+            "D": "Keep every field to save discussion."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "复用需要重新审视假设。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f518bb2a6214ba31ad24e84ad0f02acd311fe547549c22abc2b073d489cf6f34"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The pause before replying",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "After a difficult meeting, Arun received a short message asking why a task was unfinished. He read it as an accusation and began an angry reply. Before sending it, he reread the original message and realised it contained no criticism of his effort. The sender might simply need a progress update. Arun replied with the current status, the obstacle and a proposed completion time. His colleague thanked him and offered help. The pause did not guarantee agreement, but it allowed him to separate what the message actually said from the intention he had imagined.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "03de5d57e54df729f696c3ccf97c6c43469143e066a66e58a2fbb2c9e6d5e950",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "The pause before replying: How did Arun initially interpret the message?",
+          "options": {
+            "A": "As an invitation to dinner.",
+            "B": "As a completed report.",
+            "C": "As a request to change offices.",
+            "D": "As an accusation."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "最初认为是指责。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "04fe919665b81999f1b1c53d0c2fd2e77a071bfea95dd977f5336f95dbfde5a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "The pause before replying: What did rereading reveal?",
+          "options": {
+            "A": "The message did not criticise his effort.",
+            "B": "The sender had cancelled the task.",
+            "C": "The task had already been finished.",
+            "D": "The meeting had never happened."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "原文并无对努力的批评。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "99e604e84a715c607ce32b92eed681eb781fb96f46b129bd262391e1a5521a8b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "The pause before replying: What did Arun include in his reply?",
+          "options": {
+            "A": "A demand for a new colleague.",
+            "B": "Status, an obstacle and a proposed finish time.",
+            "C": "A list of unrelated complaints.",
+            "D": "Only an angry question."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "回复包含状态、障碍与时间。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "20a670bbc5d6e179ae555e81cf9ef588d689d54e83413d939190c4db6ba3f0f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "The pause before replying: How did the colleague respond?",
+          "options": {
+            "A": "By refusing to read the message.",
+            "B": "By repeating the same accusation.",
+            "C": "With thanks and an offer of help.",
+            "D": "By closing the project immediately."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "同事感谢并提供帮助。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "30ffed53e824b11926e56ac3132e9cf580abbed9721073b8991ffc2a0a9b9186"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "The pause before replying: What did the pause help Arun distinguish?",
+          "options": {
+            "A": "Work time from holiday dates.",
+            "B": "Two identical email addresses.",
+            "C": "Written reports from paper copies.",
+            "D": "Actual wording from assumed intention."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "区分文本内容与推测意图。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "121e9d6b8272ed803344fe2b51d149204ad83b9897e7da91383f6bbf34f664f3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A password lesson built around practice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community digital class once presented a long list of account-safety rules. Learners said they understood, yet many struggled when changing settings at home. The tutor replaced part of the lecture with practice on a demonstration account. Learners located the security menu, compared recovery options and explained the steps to a partner. They never entered real passwords into the shared classroom device. The tutor gave them a short illustrated guide to take home. Questions became more specific, revealing difficulties that a simple request to raise a hand if confused had not uncovered.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "d3c3d217f45a1aad8c0c583adeae76e1036c3bea9f530d14ae7580f5382d4814",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "A password lesson built around practice: What problem remained after the lecture?",
+          "options": {
+            "A": "Learners struggled to apply the advice at home.",
+            "B": "No one could hear the tutor.",
+            "C": "The classroom had no chairs.",
+            "D": "All demonstration accounts were deleted."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "理解规则但实际操作困难。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a79c28783ec5bacad8c8dfa8e746a4453addabfd2b5b43cc927b12a5f3160471"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "A password lesson built around practice: What was used for practice?",
+          "options": {
+            "A": "A customer's email inbox.",
+            "B": "A demonstration account.",
+            "C": "Each learner's private account.",
+            "D": "The tutor's personal bank account."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "使用示范账户。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "b41a714017a293492fa359e994c8cc013c77dfe23eb830625d8eda8102641950"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "A password lesson built around practice: What did learners avoid entering?",
+          "options": {
+            "A": "Questions about recovery.",
+            "B": "Their partners' suggested steps.",
+            "C": "Real passwords.",
+            "D": "Practice menu names."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "不在共享设备输入真实密码。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "aa9c6ae8e271479f1354d0f15b8205abfe08933ef74f0469ac9889aa077a3a96"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "A password lesson built around practice: What did learners take home?",
+          "options": {
+            "A": "The classroom computer.",
+            "B": "A list of everyone's passwords.",
+            "C": "An unmarked examination paper.",
+            "D": "A short illustrated guide."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "带走图解指南。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "291dd815ec190ef6b21efafba9bb4df59f7a0ddacea3301160ba06da04d87eec"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "A password lesson built around practice: Why was practical work useful?",
+          "options": {
+            "A": "It revealed specific difficulties.",
+            "B": "It removed the need for questions.",
+            "C": "It made every device identical.",
+            "D": "It proved no learner needed support."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "实践暴露具体障碍。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "7415947410ae449906544854f0a7a3cd10a6cfb679ca30cd2422b7b75593287b"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The announcement channel helps urgent notices remain _____.",
+      "options": {
+        "A": "portable",
+        "B": "flexible",
+        "C": "visible",
+        "D": "edible"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "visible表示可见、不被淹没。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dfae9a918e65f6abe3bf200d931b80f101fa2ef417370b2e9e13a36499e4eb15"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The organiser removed fields that were _____ to the online event.",
+      "options": {
+        "A": "immediate",
+        "B": "impressive",
+        "C": "individual",
+        "D": "irrelevant"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "irrelevant表示不相关。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1a18e6f4906fa941923b0250f9a65122dd947eb7ddd2d1d5e4dac1878c616d26"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Arun tried to separate the message's wording from his own _____.",
+      "options": {
+        "A": "assumptions",
+        "B": "appointments",
+        "C": "instruments",
+        "D": "investments"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "assumptions表示未经证实的假设。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "91ded1d45c5592aa253cf4e452c5855bd95a45e42e3f6290804b3b875eb1d47e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Please _____ your email address so we can send the joining link.",
+      "options": {
+        "A": "preserve",
+        "B": "provide",
+        "C": "pretend",
+        "D": "prevent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "provide表示提供。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3e9f6279c29aa29eaab6cd3d3923e1efb0e3b554fa8d0ab8bc1ef7ad073fc0ec"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A short pause can prevent an _____ response to a colleague.",
+      "options": {
+        "A": "annual",
+        "B": "ordinary",
+        "C": "impulsive",
+        "D": "accurate"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "impulsive表示冲动的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "15b5acd35e706632f3cfbd62ac9be06e086b1c3ecec9f91d195eb3d73a15a52f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The tutor used a demonstration account to _____ the settings procedure.",
+      "options": {
+        "A": "interrupt",
+        "B": "import",
+        "C": "inherit",
+        "D": "illustrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "illustrate表示演示说明。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dd349654690bfa57f313d9c241029af99f736a3fc59dd5b2cdedaef55d910dc5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Residents may _____ general discussion alerts during working hours.",
+      "options": {
+        "A": "disable",
+        "B": "discover",
+        "C": "describe",
+        "D": "distribute"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "disable表示关闭功能。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8788925dc58b2e25416dcc3c09816d1ed52969ec99e258851bd5cfc8334f835d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The weekly message gives a _____ of the building's main announcements.",
+      "options": {
+        "A": "salary",
+        "B": "summary",
+        "C": "surgery",
+        "D": "survey"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "summary表示摘要。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0abf3fb22380a0b4ba810a50b03c48112ee7eab7d5da0362b08dbaa78c25465e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The sender's _____ was to request an update, not to criticise.",
+      "options": {
+        "A": "instruction",
+        "B": "injection",
+        "C": "intention",
+        "D": "invention"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "intention表示意图。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b15afd050c3d4b0cf0c4505b765ba3a96484b48d919f8033a3c4b4bdf07dc58d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The form explains the _____ for collecting an email address.",
+      "options": {
+        "A": "purchase",
+        "B": "pressure",
+        "C": "progress",
+        "D": "purpose"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "purpose表示目的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "96c44eba21695f0a74cf83d51c05e56024a9cb38b8bdae84190e5aefcf20b4fc"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The message would have sounded friendlier if I _____ a greeting.",
+      "options": {
+        "A": "add",
+        "B": "will add",
+        "C": "have added",
+        "D": "had added"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b892ec8e1100c5e7820181cf10ff1b57812a32602f66aeb80cd8914dc995625c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "Please tell me _____ I can change the notification settings.",
+      "options": {
+        "A": "how",
+        "B": "what",
+        "C": "which",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "how引导方式宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2e428db7608954d70854b2e5e46c27176241a20a2cf4255f7fab5b6266101661"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The registration form requires only the information _____ is needed for this event.",
+      "options": {
+        "A": "whose",
+        "B": "that",
+        "C": "who",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "that指信息并作从句主语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "298f7b3bf2781d23deba38950e001bda762bee93a3b2d24521b641abc37743de"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "_____ the message twice, Arun decided to write a factual reply.",
+      "options": {
+        "A": "Reads",
+        "B": "To reading",
+        "C": "Having read",
+        "D": "Have read"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "完成式分词表示先读后决定。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6e2cffa026e95b761338304892e31f8b3ac1b78a800a061384c45ffd6be3189c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "No real passwords should _____ on the demonstration device.",
+      "options": {
+        "A": "entering",
+        "B": "to enter",
+        "C": "entered",
+        "D": "be entered"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "should后接被动be done。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fdf7681e5da48dd4db23fbbb365fbfb7dce746352151322e1750ab1b4b1650a0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "I would rather discuss the misunderstanding than _____ another angry message.",
+      "options": {
+        "A": "send",
+        "B": "to send",
+        "C": "sending",
+        "D": "sent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "would rather do than do。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "555006d00129affd88069cb34e34b88fe5476e1527ae55bfeef8e56c1488bdce"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The fewer unnecessary fields a form has, _____ it may be to complete.",
+      "options": {
+        "A": "easy",
+        "B": "the easier",
+        "C": "the easiest",
+        "D": "easiest"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "比较级关联结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d02fc8958e28d9e1d21dfc17e15006ce4cd9a2021752cb59c0aa9ac3abd6e666"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither the joining link nor the follow-up note _____ a postal address.",
+      "options": {
+        "A": "have required",
+        "B": "are requiring",
+        "C": "requires",
+        "D": "require"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近note单数。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "82a16ecbaa63958218541953506ec1934a0238ec8dc397db7fad2ab83f49d96a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The tutor suggested _____ the security menu with a practice account.",
+      "options": {
+        "A": "to explore",
+        "B": "explore",
+        "C": "explored",
+        "D": "exploring"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "suggest doing。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7f74df5f84c4c58f43c86cc61ff4ae986a73213ae588a608c0b24b716cc381d4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "It is important that each participant _____ why an email address is requested.",
+      "options": {
+        "A": "understand",
+        "B": "understands it",
+        "C": "understanding",
+        "D": "to understand"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "important后的从句可用should省略的原形。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d0297433e63d8e06c9b38d19383d9131ff8069ed57407697486f47d22b52613b"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nDigital communication asks us to make choices about attention. Not every message deserves an immediate reply, and not every group serves the same purpose. Clear channels and sensible notification settings can help people remain informed without checking their devices constantly. These arrangements work best when members understand which messages are urgent and where they can find a reliable summary of the rest.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意not every部分否定与without checking的方式表达。",
+      "referenceAnswer": "数字沟通要求我们对注意力的分配作出选择。并非每条消息都值得立即回复，也并非每个群组都有相同的用途。明确的沟通渠道和合理的通知设置，可以帮助人们在不必不断查看设备的情况下掌握信息。当成员清楚哪些消息紧急，以及在哪里能找到其余信息的可靠摘要时，这些安排最能发挥作用。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "1f59bb2cccdfce2ccc19552bed192cd5bf09234625b42a5efd99510bc999a48c",
+      "referenceAnswerFingerprint": "64ce1e7bed1ee845a2d8122da7795ee4ad0178700b95e292ee5655cce8609964"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English to members of a volunteer chat group. Propose rules for separating urgent notices from general discussion, explain the benefits, and invite members to comment.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "清晰区分紧急公告与一般讨论，说明益处并征求反馈。",
+      "sampleAnswer": "Dear volunteers,\nOur chat group is useful for sharing ideas, but schedule changes can disappear among long conversations. I suggest creating a separate channel for urgent announcements, such as changes to meeting places or session times.\nGeneral questions and photographs could remain in the current group. Members would then be free to silence casual discussion during work while keeping important alerts active. An organiser could post a short weekly summary for anyone who prefers to catch up less frequently.\nThe announcement channel should be used carefully so that ordinary messages are not labelled urgent. Please tell us whether this arrangement would suit your schedule and whether any important information might be missed. We could try it for a month and adjust it together.\nBest wishes,\nA fellow volunteer",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "e822e43b6252a1b4229a08ff890ee7dc74122cd13ed807ee7a47bf2d4b736792",
+      "sampleAnswerFingerprint": "658fd6eab54babc9e3843931e3f27214a39d299ed31e1c8a6b698969d44eb45b"
+    }
+  ],
+  "fingerprintManifest": [
+    "5a348b66f2a5e9363163f5d3ff063802cd7cb9eca290352688b38f423f1c5914",
+    "08afde9142897d095e575b7518bba9447edc8011bd85a1a9dd14216380128dc3",
+    "47325679ac5e41766e06e524ced1a6918c8dad91e289232106a857a46f22d21b",
+    "fb53fa0d40042e324c2665a40112e16480b8b26d9c48cd3bc24b090e0e165022",
+    "aadd7a9c6e585297cda0ba9cbdaaad3bb5e5bbc371dc38d6ef1cfe346f2cfd0f",
+    "244fc8dcd6ea39ca531d43f7872da5e227981e679916dad092384d550129333a",
+    "9fe46ad4ba89f2d30741cd203565d9bd53075e4a92eb7ea68a329c4bce7644b2",
+    "77fae15310fa78e70061851ee34895d484cdbba8fa55ef9654fa089bfff4ca70",
+    "322ec71b4c8f4934e6921afdac78df7d626fec13942aceb58e51ea358108dc4c",
+    "aad6a3713277984a2256d4f5c6ea2ec9c232f8f4c189713dbf72270b453e80e4",
+    "5be8547305e5e788b034b53d7046a5565b63b4acf55b44604a408b32dbf7d78f",
+    "e543f626d7e4067b5d8fd1b247a6505b892e59498cf0bdd9ac1daf285b490cdf",
+    "21205b829e7e863b0d0a118cbd06e2a61fd6cdc7c43dad09dc83eaefe1b7e88e",
+    "a827f7cc304c79b0c69f70182a9c06b4e57b83d61940f6c51b446a3b5d63fa65",
+    "55f993b6066f58bb1f7bc9482f83144436ada103e7401706482d566fa1ee90ee",
+    "fb6e20190a640d7ece67c8dc917cfeb7d268549a239f16e58c20eae6ddc27f95",
+    "640e90c277237d9b3a0434fc3e7b8c4e15a4d8de51b912fdd2cafddf10fecabb",
+    "cc7331b6be63ddf8864baa3cf8e49983f4f2358daa0ddadb996435884a5534c2",
+    "7e6b3c986139c65cb42499cdbc99b0c0241796dfec3d2ea77fe8a3fe4ab43ab6",
+    "2fcca7d0c9ace8f6bb22d48a28d4a61a0d12549e877b0d9ec3488375a0f1f706",
+    "bb3906e3e5775e57ae59859112b6981ca17c0a751ec9a6695a55902cb0a5b336",
+    "f57e9bd203b0b0ac4e9b058001e90cc298eb8eb8668f4bf3f5a69041b3f7cb78",
+    "175f3a7d872871b03fd7a3cfa73f0afc9e9c2ab5b8793166071724a332a0b3ae",
+    "4369c33279340b19b630ea1f0e650eb6adaa46bdc148a901b896e7005b1948f9",
+    "f518bb2a6214ba31ad24e84ad0f02acd311fe547549c22abc2b073d489cf6f34",
+    "03de5d57e54df729f696c3ccf97c6c43469143e066a66e58a2fbb2c9e6d5e950",
+    "04fe919665b81999f1b1c53d0c2fd2e77a071bfea95dd977f5336f95dbfde5a6",
+    "99e604e84a715c607ce32b92eed681eb781fb96f46b129bd262391e1a5521a8b",
+    "20a670bbc5d6e179ae555e81cf9ef588d689d54e83413d939190c4db6ba3f0f9",
+    "30ffed53e824b11926e56ac3132e9cf580abbed9721073b8991ffc2a0a9b9186",
+    "121e9d6b8272ed803344fe2b51d149204ad83b9897e7da91383f6bbf34f664f3",
+    "d3c3d217f45a1aad8c0c583adeae76e1036c3bea9f530d14ae7580f5382d4814",
+    "a79c28783ec5bacad8c8dfa8e746a4453addabfd2b5b43cc927b12a5f3160471",
+    "b41a714017a293492fa359e994c8cc013c77dfe23eb830625d8eda8102641950",
+    "aa9c6ae8e271479f1354d0f15b8205abfe08933ef74f0469ac9889aa077a3a96",
+    "291dd815ec190ef6b21efafba9bb4df59f7a0ddacea3301160ba06da04d87eec",
+    "7415947410ae449906544854f0a7a3cd10a6cfb679ca30cd2422b7b75593287b",
+    "dfae9a918e65f6abe3bf200d931b80f101fa2ef417370b2e9e13a36499e4eb15",
+    "1a18e6f4906fa941923b0250f9a65122dd947eb7ddd2d1d5e4dac1878c616d26",
+    "91ded1d45c5592aa253cf4e452c5855bd95a45e42e3f6290804b3b875eb1d47e",
+    "3e9f6279c29aa29eaab6cd3d3923e1efb0e3b554fa8d0ab8bc1ef7ad073fc0ec",
+    "15b5acd35e706632f3cfbd62ac9be06e086b1c3ecec9f91d195eb3d73a15a52f",
+    "dd349654690bfa57f313d9c241029af99f736a3fc59dd5b2cdedaef55d910dc5",
+    "8788925dc58b2e25416dcc3c09816d1ed52969ec99e258851bd5cfc8334f835d",
+    "0abf3fb22380a0b4ba810a50b03c48112ee7eab7d5da0362b08dbaa78c25465e",
+    "b15afd050c3d4b0cf0c4505b765ba3a96484b48d919f8033a3c4b4bdf07dc58d",
+    "96c44eba21695f0a74cf83d51c05e56024a9cb38b8bdae84190e5aefcf20b4fc",
+    "b892ec8e1100c5e7820181cf10ff1b57812a32602f66aeb80cd8914dc995625c",
+    "2e428db7608954d70854b2e5e46c27176241a20a2cf4255f7fab5b6266101661",
+    "298f7b3bf2781d23deba38950e001bda762bee93a3b2d24521b641abc37743de",
+    "6e2cffa026e95b761338304892e31f8b3ac1b78a800a061384c45ffd6be3189c",
+    "fdf7681e5da48dd4db23fbbb365fbfb7dce746352151322e1750ab1b4b1650a0",
+    "555006d00129affd88069cb34e34b88fe5476e1527ae55bfeef8e56c1488bdce",
+    "d02fc8958e28d9e1d21dfc17e15006ce4cd9a2021752cb59c0aa9ac3abd6e666",
+    "82a16ecbaa63958218541953506ec1934a0238ec8dc397db7fad2ab83f49d96a",
+    "7f74df5f84c4c58f43c86cc61ff4ae986a73213ae588a608c0b24b716cc381d4",
+    "d0297433e63d8e06c9b38d19383d9131ff8069ed57407697486f47d22b52613b",
+    "1f59bb2cccdfce2ccc19552bed192cd5bf09234625b42a5efd99510bc999a48c",
+    "64ce1e7bed1ee845a2d8122da7795ee4ad0178700b95e292ee5655cce8609964",
+    "e822e43b6252a1b4229a08ff890ee7dc74122cd13ed807ee7a47bf2d4b736792",
+    "658fd6eab54babc9e3843931e3f27214a39d299ed31e1c8a6b698969d44eb45b"
+  ],
+  "contentFingerprint": "52aea1f5b766496c89e5c5d7ee8d6a38ae1430fa276f1406bc871699ff35bc05"
+}

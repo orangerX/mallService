@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-44",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 44 · 城市出行与无障碍服务",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 44,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding a step-free station entrance",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I am travelling with a heavy suitcase. Is there an entrance without steps?\nStaff: (1) _____\nVisitor: Is that entrance far from here?\nStaff: (2) _____\nVisitor: Will I need a different ticket?\nStaff: (3) _____\nVisitor: What if the lift is out of service?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, use the entrance on Willow Street.",
+        "B": "It is about a three-minute walk around the building.",
+        "C": "No, your current ticket is valid there too.",
+        "D": "Press the help button and a member of staff will assist you."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "844f127f3ff5aba3252e9de338d89600a8ac8cd8bdd86f1a0a031a3c3d7af1ec",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Finding a step-free station entrance\".",
+          "options": {
+            "A": "Yes, use the entrance on Willow Street.",
+            "B": "It is about a three-minute walk around the building.",
+            "C": "No, your current ticket is valid there too.",
+            "D": "Press the help button and a member of staff will assist you."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供无台阶入口。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "93daf7f563fbce68c2c692d64a70ffdd1208a80257eeb620564dd24e9c0904d6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Finding a step-free station entrance\".",
+          "options": {
+            "A": "Yes, use the entrance on Willow Street.",
+            "B": "It is about a three-minute walk around the building.",
+            "C": "No, your current ticket is valid there too.",
+            "D": "Press the help button and a member of staff will assist you."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "回应距离问题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "71eca88037512a85e458031fe4953a40274bcca05a07705748c2a348d338a074"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Finding a step-free station entrance\".",
+          "options": {
+            "A": "Yes, use the entrance on Willow Street.",
+            "B": "It is about a three-minute walk around the building.",
+            "C": "No, your current ticket is valid there too.",
+            "D": "Press the help button and a member of staff will assist you."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "确认车票通用。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "87f7575bbcdaabda04bcc0e3b0eb2efee633ce553833aba4826307fddd1e6ae1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Finding a step-free station entrance\".",
+          "options": {
+            "A": "Yes, use the entrance on Willow Street.",
+            "B": "It is about a three-minute walk around the building.",
+            "C": "No, your current ticket is valid there too.",
+            "D": "Press the help button and a member of staff will assist you."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明电梯故障时求助办法。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b5765b2fc5c6a0a3c60ed403dd254e5744d27848ee489172b627275aa3d5bd01"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Reporting a confusing bus sign",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The temporary stop sign points towards a closed road.\nStaff: (1) _____\nVisitor: Could someone check it before the evening rush?\nStaff: (2) _____\nVisitor: Would a photograph help you locate the sign?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "The last bus fare has already been paid.",
+        "B": "Thank you; I will report the incorrect direction.",
+        "C": "I will ask the road team to treat it as urgent.",
+        "D": "Yes, please include the nearby shop name."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "63af40bb81c5b82f47595e0bec25bb948ed78528d075ed0493c571720457b64b",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Reporting a confusing bus sign\".",
+          "options": {
+            "A": "The last bus fare has already been paid.",
+            "B": "Thank you; I will report the incorrect direction.",
+            "C": "I will ask the road team to treat it as urgent.",
+            "D": "Yes, please include the nearby shop name."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "确认并上报方向问题。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "55223a98df7dabf2fdef3a3c7e4bbcda2c0e5455197d82c056c9b91e60dbb0e4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Reporting a confusing bus sign\".",
+          "options": {
+            "A": "The last bus fare has already been paid.",
+            "B": "Thank you; I will report the incorrect direction.",
+            "C": "I will ask the road team to treat it as urgent.",
+            "D": "Yes, please include the nearby shop name."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回应处理时间。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0b314320cdd8555cafed36e8449245d6b263079389d19f11f8f5d83ce8917fd5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Reporting a confusing bus sign\".",
+          "options": {
+            "A": "The last bus fare has already been paid.",
+            "B": "Thank you; I will report the incorrect direction.",
+            "C": "I will ask the road team to treat it as urgent.",
+            "D": "Yes, please include the nearby shop name."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明照片定位信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bc610228dc580d9cc52d1500e3a29f95f08d6e033976c8d011caba20fb0ed7b4"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Planning a slower walking route",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: My father would like to join the walking tour, but he needs regular rests.\nStaff: (1) _____\nVisitor: Does the shorter route still include the old square?\nStaff: (2) _____\nVisitor: Should we arrive early to speak with the guide?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "That would help the guide plan the pace with you.",
+        "B": "The museum tickets are printed in blue.",
+        "C": "The shorter route has benches at three stops.",
+        "D": "Yes, the group visits it before returning to the centre."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "cd6e5e8ff7981c3b330156dd2eadb7ff30ca81b3417e0aa69d3b928fb3277c71",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Planning a slower walking route\".",
+          "options": {
+            "A": "That would help the guide plan the pace with you.",
+            "B": "The museum tickets are printed in blue.",
+            "C": "The shorter route has benches at three stops.",
+            "D": "Yes, the group visits it before returning to the centre."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据休息需求推荐路线。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "84dd444f6d435ad6daa42ff125e8df0155ed0459d1fe39dc88542453c59a6b62"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Planning a slower walking route\".",
+          "options": {
+            "A": "That would help the guide plan the pace with you.",
+            "B": "The museum tickets are printed in blue.",
+            "C": "The shorter route has benches at three stops.",
+            "D": "Yes, the group visits it before returning to the centre."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "确认游览地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "febd42c5abeb90234ddaa638c8dbff4c5d2733e11a5dd04e0fd5570bfdd1a744"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Planning a slower walking route\".",
+          "options": {
+            "A": "That would help the guide plan the pace with you.",
+            "B": "The museum tickets are printed in blue.",
+            "C": "The shorter route has benches at three stops.",
+            "D": "Yes, the group visits it before returning to the centre."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明提前沟通步速的作用。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "404967dfd5e02df043cdbaeb584b802f0afb92c2435a5921d53f677d8b669b71"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The entrance that a map forgot",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town museum advertised itself as accessible because a ramp had been built at a side door. Visitors arriving by bus, however, followed the main map to a staircase. Some turned back before discovering the ramp. Staff invited wheelchair users and parents with pushchairs to travel from the bus stop to the entrance. The exercise revealed missing signs at two corners. The museum updated its map and placed directions where visitors actually made choices. The ramp had already removed a physical barrier; the new information made that improvement usable.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "fec70135dd495c412f0cc723061e43bd999578a2b212e055adcd4e2bdf69a018",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "The entrance that a map forgot: Why did some visitors turn back?",
+          "options": {
+            "A": "The ramp required an extra ticket.",
+            "B": "All museum doors were locked.",
+            "C": "Buses stopped outside the town.",
+            "D": "The main map led them to stairs."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "地图导向楼梯且未说明坡道。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "ddfd81d0016c9741b512772491f8309d99ef1aac865c51626dbc9ed6c6c7b1dc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "The entrance that a map forgot: Who helped examine the route?",
+          "options": {
+            "A": "Wheelchair users and parents with pushchairs.",
+            "B": "Only the museum's accountants.",
+            "C": "Visitors arriving by boat.",
+            "D": "People selling building materials."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "邀请实际有无障碍需求的使用者。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "9311c983af4bcb75e27ce172d0ce76d46c6251523c4f38a4f342256c2df159d2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "The entrance that a map forgot: What was missing at two corners?",
+          "options": {
+            "A": "Parking spaces.",
+            "B": "Direction signs.",
+            "C": "Ticket machines.",
+            "D": "Street lighting."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "实地发现缺少指路标识。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3b9820244ebd4188e10592dd1a8a147df70d52c6c278218e3a59680702ad19d0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "The entrance that a map forgot: Where were new directions placed?",
+          "options": {
+            "A": "On the roof of the museum.",
+            "B": "At every bus stop in the country.",
+            "C": "At points where visitors chose a route.",
+            "D": "Only inside the ticket office."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "标识布置在决策点。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f8a4432bbe8950313ee78b2397faa7644a2bf5b118b3afec8605671876f4e1e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "The entrance that a map forgot: What does the passage show?",
+          "options": {
+            "A": "Ramps are unnecessary in public buildings.",
+            "B": "Maps should never show main entrances.",
+            "C": "A bus stop should be moved for every museum.",
+            "D": "Access also depends on usable information."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "设施与信息共同实现可达性。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "ee7ed819b83a1a7583b3c3a8531e1eabfb49b13558b75acf5656421159ab79fb"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A bus shelter tested in the rain",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Designers showed residents a drawing of a new bus shelter. It looked attractive, but an older passenger asked where rain would fall when the wind blew from the west. The team built a simple full-size model and observed it on a wet afternoon. Water reached part of the bench, and the route display was hard to read from a seated position. The design was adjusted before permanent construction. Testing the model took extra time, but changing it was cheaper than rebuilding the finished shelter. Residents felt their practical experience had shaped the result.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "d7ba2d9bff6cfe6b2e4257097104ec9ff8e7d54f6347b2dc3fc30f96b2b1f413",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "A bus shelter tested in the rain: What concern did the older passenger raise?",
+          "options": {
+            "A": "Wind-driven rain.",
+            "B": "The colour of buses.",
+            "C": "The price of train tickets.",
+            "D": "The number of road names."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "关注西风时雨水落点。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "fff7e4e3d0ce5b378510a24b54b52495048a560249f72132df04e11a7e006f87"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "A bus shelter tested in the rain: How did the team investigate?",
+          "options": {
+            "A": "By making a smaller drawing.",
+            "B": "By observing a full-size model in rain.",
+            "C": "By asking only the supplier.",
+            "D": "By closing the bus route."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "实尺寸模型在雨中测试。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7500ab191009c36cae03906daa16ea6180e978af61af3e8d048c89d3ef9cc27b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "A bus shelter tested in the rain: What was difficult from a seated position?",
+          "options": {
+            "A": "Opening the museum door.",
+            "B": "Reaching the nearest shop.",
+            "C": "Reading the route display.",
+            "D": "Hearing the town clock."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "坐姿难读线路显示。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3b143b12d80182234cd5e1c4bfe622dbf9fbcc79be0815565abe0f720e57a665"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "A bus shelter tested in the rain: Why was testing worthwhile?",
+          "options": {
+            "A": "It removed the need for construction.",
+            "B": "It guaranteed that no rain would fall.",
+            "C": "It made resident participation unnecessary.",
+            "D": "Early changes cost less than rebuilding."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "早期修改比成品返工便宜。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "144fc7b72e19b21868b58c6446cb341d494ff849c3d9322c65cc0d2cc0793149"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "A bus shelter tested in the rain: How did residents view their involvement?",
+          "options": {
+            "A": "Their experience influenced the design.",
+            "B": "Their advice was entirely ignored.",
+            "C": "They had to fund the whole shelter.",
+            "D": "They were asked to stop using buses."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "实践经验影响了方案。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "26682c43d9018702e78848b13abbea55783675b7bcc8697efb7188516b2561a1"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "When a longer route became preferable",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A journey-planning app usually recommended the fastest walk between the station and hospital. That route included a steep hill. After receiving comments, the developers added information about slopes, steps and places to rest. Users could choose a gentler route that took seven minutes longer. The team did not label either route as best for everyone. A visitor carrying luggage might value fewer steps, while someone in a hurry might choose the shorter path. Showing the trade-off helped people make decisions according to their needs instead of relying on one hidden definition of convenience.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "f073edfac771d3a1472d0cc5fda3c61ee4a98e6afbd3036a96439500ee058b3d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "When a longer route became preferable: What feature of the fastest route caused difficulty?",
+          "options": {
+            "A": "A lack of street names.",
+            "B": "A steep hill.",
+            "C": "A river without any bridge.",
+            "D": "A closed railway station."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最快路线有陡坡。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d0dae2808a64752f6a3d5ed2a15b5c979e244ce23657e890c964c5db2ecdc0a1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "When a longer route became preferable: How much longer did the gentler route take?",
+          "options": {
+            "A": "One day.",
+            "B": "Thirty seconds.",
+            "C": "Seven minutes.",
+            "D": "Two hours."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "明确多七分钟。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "b980b79fe4cfd97524692d459d9fb6908b4cd415e25710f17de7acea976fc260"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "When a longer route became preferable: What information was added?",
+          "options": {
+            "A": "Hospital examination results.",
+            "B": "Every visitor's luggage weight.",
+            "C": "The developers' home addresses.",
+            "D": "Slopes, steps and resting places."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "增加路线实际负担信息。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "c1f0570db5e8af6ee6930ae8ebc18472e96578f6af3a5b75354a8aceee1b6edd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "When a longer route became preferable: Why was neither route called best for everyone?",
+          "options": {
+            "A": "Users had different needs.",
+            "B": "Both routes were permanently closed.",
+            "C": "The app could not measure distance.",
+            "D": "No user wanted to visit the hospital."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "个人需求不同。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "2d7f9355242a8df80b7a9a03e172d29d1b6191c000d16dafbe714d4642f9451b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "When a longer route became preferable: What is meant by showing the trade-off?",
+          "options": {
+            "A": "Displaying only the shortest distance.",
+            "B": "Explaining what is gained and what is given up.",
+            "C": "Hiding all journey estimates.",
+            "D": "Charging users for route changes."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "trade-off指耗时与便利之间的取舍。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "94b242952cfba253c7a9533ede7ba59f78da537be6cc2578a89d1fe6cd082ed0"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A crossing with enough time",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Near a community clinic, pedestrians had only a short period to cross a wide street. Complaints focused on slow walkers feeling rushed. Engineers first measured the average crossing speed, but an average concealed the experience of those who needed longer. They observed journeys by older residents and people using walking aids. The signal was then adjusted at busy clinic times. Traffic queues grew slightly, so the town monitored both waiting times and pedestrian comfort. The project treated safe access as an important purpose of the street, alongside moving vehicles efficiently.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "aba6195d02a4ec70ff1df2eaa3e114c1524f34e9670ada3c0274369c19af9768",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "A crossing with enough time: Who particularly felt rushed?",
+          "options": {
+            "A": "People inside the clinic.",
+            "B": "Cyclists on a separate path.",
+            "C": "Slow walkers.",
+            "D": "Train drivers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "慢行者感到时间不足。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "1ff6aa59fe0fab9ec5d2994b073500441c4eb051cb37813e87ddaeec6af28e7c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "A crossing with enough time: What did the average speed conceal?",
+          "options": {
+            "A": "The width of every town road.",
+            "B": "The number of clinic staff.",
+            "C": "The cost of traffic lights.",
+            "D": "The needs of people who required more time."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "平均值遮蔽较慢人群。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "59b4fd29126a45bbbf73819a48005a02feac327257d0177825839cfdf18a180a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "A crossing with enough time: When was the signal adjusted?",
+          "options": {
+            "A": "At busy clinic times.",
+            "B": "Only during school holidays.",
+            "C": "Only after midnight.",
+            "D": "Before the clinic was built."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "在诊所繁忙时段调整。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "4f6ad0ecca60426f7449abaf0173de63e379a4e26a17ff72fa01af47d6ab706e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "A crossing with enough time: What consequence was monitored?",
+          "options": {
+            "A": "The disappearance of walking aids.",
+            "B": "Slightly longer traffic queues.",
+            "C": "Fewer clinic appointment rooms.",
+            "D": "A rise in train fares."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "车辆排队略有增长，持续监测。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "d2746a3e3dae15c28b0f12390b672998afe71a30389c1f4b8f6af8fc45c90af9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "A crossing with enough time: What balance did the project seek?",
+          "options": {
+            "A": "Longer roads and fewer homes.",
+            "B": "More advertising and shorter appointments.",
+            "C": "Safe pedestrian access and efficient vehicle movement.",
+            "D": "Free parking and museum income."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "兼顾行人安全和车辆效率。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "f50ead8271f031a1d880bc5315b77045120125eb2fe7d8c6c5db38dcc150a1c6"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Clear signs make the side entrance more _____ to first-time visitors.",
+      "options": {
+        "A": "accessible",
+        "B": "expensive",
+        "C": "doubtful",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "accessible表示便于到达或使用。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "137f020376df8f5a417d80d465971e84ca526c5b0811a888ab8f1855f431a112"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The app offers an _____ route for travellers who wish to avoid steps.",
+      "options": {
+        "A": "identical",
+        "B": "alternative",
+        "C": "impossible",
+        "D": "imaginary"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "alternative表示可替代的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a9b515bac2a5089148168a1d0bfa8b7b91f0def12baccbf341b0d68803f7edec"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The new route display is easier to read from a seated _____.",
+      "options": {
+        "A": "decision",
+        "B": "condition",
+        "C": "position",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "position表示位置或姿势。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f6ae3a1d79f6544f9d1b4b5385d6e1fc7bc723dd563d51516b889c01a8e0177d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Engineers need to _____ the needs of slower pedestrians.",
+      "options": {
+        "A": "consume",
+        "B": "compose",
+        "C": "compete",
+        "D": "consider"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "consider表示考虑。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0d1950039175019bc5abbe91eb72f47b1228a721eda6e5dbb25c72162f7a4ca1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A full-size model helped the team identify design _____ before construction.",
+      "options": {
+        "A": "weaknesses",
+        "B": "celebrations",
+        "C": "invitations",
+        "D": "collections"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "weaknesses表示不足。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "09dcab2464bb4204fb84024a52d5a59e4238766b9b56271bb4a3a62204a45bc3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The gentler path requires an _____ seven minutes of walking.",
+      "options": {
+        "A": "absent",
+        "B": "additional",
+        "C": "ordinary",
+        "D": "annual"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "additional表示额外的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3c78a059d3930587ba41469cfd4107b1d2e2a8971788ff8916e75c514c066c41"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The guide will adjust the _____ of the tour to allow regular rests.",
+      "options": {
+        "A": "shape",
+        "B": "weight",
+        "C": "pace",
+        "D": "price"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "pace表示速度节奏。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0b4bd6ba2d4913272ff83e3129c65d27486345a7740195cedbdb74d32f13567c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The temporary road sign should point in the correct _____.",
+      "options": {
+        "A": "production",
+        "B": "tradition",
+        "C": "selection",
+        "D": "direction"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "direction表示方向。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0cd14d0ac0133d7e723183aeb91d1961b552e115c556e1f87c83d66e923daa8f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The museum asked volunteers to _____ the route from the bus stop.",
+      "options": {
+        "A": "follow",
+        "B": "borrow",
+        "C": "fold",
+        "D": "float"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "follow a route表示沿路线走。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a11dd20ae0ae49041299e562ac5826690e6b77b4031cd0f2c4a5a2e371c414f5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Averages can _____ important differences between individual travellers.",
+      "options": {
+        "A": "count",
+        "B": "conceal",
+        "C": "confirm",
+        "D": "create"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "conceal表示隐藏。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7e6ca2a7c274d30ded5d82ee0d322b264a861518fe47b95f277200b4687da22a"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The side door can be reached without _____ any stairs.",
+      "options": {
+        "A": "climbed",
+        "B": "climbing",
+        "C": "climb",
+        "D": "to climb"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "介词without后用动名词。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ba23a575e020a2210c2d4dddafe4123d5fdb1c363df43229d0d334407253d7ab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "There are three benches on the route, all of _____ face the river.",
+      "options": {
+        "A": "whose",
+        "B": "that",
+        "C": "which",
+        "D": "them"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "非限制性定语从句介词后用which。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "55aa2ac943d8bf49756fa4ddff4f051597377199b1ff5466664390ccb785ae41"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The longer path is _____ steep than the one beside the station.",
+      "options": {
+        "A": "fewer",
+        "B": "few",
+        "C": "little",
+        "D": "less"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "less修饰形容词构成比较。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bf0b22fd1674b2f4ef4b184047d9a947cb1becc89c2e929b64b9cd835e02c989"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Before the shelter was built, its design _____ twice.",
+      "options": {
+        "A": "had been changed",
+        "B": "has changed",
+        "C": "will be changed",
+        "D": "changes"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去之前发生的被动动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0433ccf037cbeb369797cab076f34632bd5e3190b7d5835f21ea8269f46c780e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The visitor asked me where the step-free entrance _____.",
+      "options": {
+        "A": "does it",
+        "B": "was",
+        "C": "is it",
+        "D": "did it be"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "间接疑问句用陈述语序和过去时。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f2c089e43fd153bfb1d4d045a7bbd9db5b5a4701f1670ce2e1749c996e88de1c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "If the signal allowed more time, older pedestrians _____ less rushed.",
+      "options": {
+        "A": "had felt",
+        "B": "have felt",
+        "C": "would feel",
+        "D": "will feel"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在情况相关的虚拟条件句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "855f518d882f43c749c910201a0c5287b48207460102185f0f0d6e74e908d332"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The signs are placed _____ visitors have to choose between two paths.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where引导地点状语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "181e0b76bf9aaadcf9cc1d33c5de5b0722c71eecca14fde4c22909be342423f0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "It was the passenger's comment _____ led to testing the shelter in rain.",
+      "options": {
+        "A": "that",
+        "B": "who",
+        "C": "what",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "强调句It was ... that。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4bbfc81bc2a55c3a8f91d2d428ffedf844d8b5a209f2241370e72ef7fefc848b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "A person with heavy luggage may prefer _____ the lift.",
+      "options": {
+        "A": "to using",
+        "B": "to use",
+        "C": "use",
+        "D": "used"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "prefer to do结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "00feb5704ebd364e4688f84561f597483d9040529a8356da79b920c6249a7433"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Both waiting times and pedestrian comfort _____ being monitored.",
+      "options": {
+        "A": "has",
+        "B": "was",
+        "C": "are",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "both ... and连接复数主语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8601bf9c1243fe38526116f09702786055f2e68666b3115655b3e75f53d44ed9"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA route that is convenient for one person may be difficult for another. Steps, steep slopes and a lack of resting places can all affect a journey. Providing this information allows travellers to make their own choices. Good public services do not assume that every user moves at the same speed or has the same priorities. They make differences visible and offer practical alternatives.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意that引导的定语从句、动名词主语及priorities在语境中的含义。",
+      "referenceAnswer": "对一个人来说方便的路线，对另一个人却可能很困难。台阶、陡坡以及缺少休息地点都可能影响行程。提供这些信息可以让出行者自己作出选择。良好的公共服务不会假定所有使用者都以同样的速度行动，或有同样的优先考虑。它们让差异清楚可见，并提供切实可行的替代方案。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "d1068b45d1dc9aec5837a2c64572da0f3788c7e6532852322d878bd005f9887e",
+      "referenceAnswerFingerprint": "47187b6f5a6f5cd3b0d20ac9349f682fab976fcd595201dcc16ba4d1f4ea7634"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English to a town transport office. Describe one difficulty faced by passengers with limited mobility, suggest an improvement, and explain how passengers could help assess it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "说明具体出行障碍、对应改善以及乘客参与评估的方式。",
+      "sampleAnswer": "Dear Transport Officer,\nI would like to raise a difficulty at the bus stop outside the community clinic. The route display is positioned high above the bench, so passengers who need to remain seated cannot easily read it.\nCould a second display be placed at a suitable height beside the seats? It should use clear lettering and include notices about temporary route changes. This would also help passengers carrying bags or travelling with children.\nBefore installing it permanently, the office could put up a temporary version for two weeks. Passengers could comment on its height, print size and visibility in different weather. Clinic volunteers might help collect these comments during busy hours. This small trial would give the office useful information before spending more money.\nYours faithfully,\nA local passenger",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "5b0507c6acf67273b0246ddae7889181b6c8e256a65f387c55d50e76b1ea49f3",
+      "sampleAnswerFingerprint": "0c2f40783752a47d27803c46c26f07b1ff192be5e97865f134ba7f685af05ce1"
+    }
+  ],
+  "fingerprintManifest": [
+    "844f127f3ff5aba3252e9de338d89600a8ac8cd8bdd86f1a0a031a3c3d7af1ec",
+    "93daf7f563fbce68c2c692d64a70ffdd1208a80257eeb620564dd24e9c0904d6",
+    "71eca88037512a85e458031fe4953a40274bcca05a07705748c2a348d338a074",
+    "87f7575bbcdaabda04bcc0e3b0eb2efee633ce553833aba4826307fddd1e6ae1",
+    "b5765b2fc5c6a0a3c60ed403dd254e5744d27848ee489172b627275aa3d5bd01",
+    "63af40bb81c5b82f47595e0bec25bb948ed78528d075ed0493c571720457b64b",
+    "55223a98df7dabf2fdef3a3c7e4bbcda2c0e5455197d82c056c9b91e60dbb0e4",
+    "0b314320cdd8555cafed36e8449245d6b263079389d19f11f8f5d83ce8917fd5",
+    "bc610228dc580d9cc52d1500e3a29f95f08d6e033976c8d011caba20fb0ed7b4",
+    "cd6e5e8ff7981c3b330156dd2eadb7ff30ca81b3417e0aa69d3b928fb3277c71",
+    "84dd444f6d435ad6daa42ff125e8df0155ed0459d1fe39dc88542453c59a6b62",
+    "febd42c5abeb90234ddaa638c8dbff4c5d2733e11a5dd04e0fd5570bfdd1a744",
+    "404967dfd5e02df043cdbaeb584b802f0afb92c2435a5921d53f677d8b669b71",
+    "fec70135dd495c412f0cc723061e43bd999578a2b212e055adcd4e2bdf69a018",
+    "ddfd81d0016c9741b512772491f8309d99ef1aac865c51626dbc9ed6c6c7b1dc",
+    "9311c983af4bcb75e27ce172d0ce76d46c6251523c4f38a4f342256c2df159d2",
+    "3b9820244ebd4188e10592dd1a8a147df70d52c6c278218e3a59680702ad19d0",
+    "f8a4432bbe8950313ee78b2397faa7644a2bf5b118b3afec8605671876f4e1e2",
+    "ee7ed819b83a1a7583b3c3a8531e1eabfb49b13558b75acf5656421159ab79fb",
+    "d7ba2d9bff6cfe6b2e4257097104ec9ff8e7d54f6347b2dc3fc30f96b2b1f413",
+    "fff7e4e3d0ce5b378510a24b54b52495048a560249f72132df04e11a7e006f87",
+    "7500ab191009c36cae03906daa16ea6180e978af61af3e8d048c89d3ef9cc27b",
+    "3b143b12d80182234cd5e1c4bfe622dbf9fbcc79be0815565abe0f720e57a665",
+    "144fc7b72e19b21868b58c6446cb341d494ff849c3d9322c65cc0d2cc0793149",
+    "26682c43d9018702e78848b13abbea55783675b7bcc8697efb7188516b2561a1",
+    "f073edfac771d3a1472d0cc5fda3c61ee4a98e6afbd3036a96439500ee058b3d",
+    "d0dae2808a64752f6a3d5ed2a15b5c979e244ce23657e890c964c5db2ecdc0a1",
+    "b980b79fe4cfd97524692d459d9fb6908b4cd415e25710f17de7acea976fc260",
+    "c1f0570db5e8af6ee6930ae8ebc18472e96578f6af3a5b75354a8aceee1b6edd",
+    "2d7f9355242a8df80b7a9a03e172d29d1b6191c000d16dafbe714d4642f9451b",
+    "94b242952cfba253c7a9533ede7ba59f78da537be6cc2578a89d1fe6cd082ed0",
+    "aba6195d02a4ec70ff1df2eaa3e114c1524f34e9670ada3c0274369c19af9768",
+    "1ff6aa59fe0fab9ec5d2994b073500441c4eb051cb37813e87ddaeec6af28e7c",
+    "59b4fd29126a45bbbf73819a48005a02feac327257d0177825839cfdf18a180a",
+    "4f6ad0ecca60426f7449abaf0173de63e379a4e26a17ff72fa01af47d6ab706e",
+    "d2746a3e3dae15c28b0f12390b672998afe71a30389c1f4b8f6af8fc45c90af9",
+    "f50ead8271f031a1d880bc5315b77045120125eb2fe7d8c6c5db38dcc150a1c6",
+    "137f020376df8f5a417d80d465971e84ca526c5b0811a888ab8f1855f431a112",
+    "a9b515bac2a5089148168a1d0bfa8b7b91f0def12baccbf341b0d68803f7edec",
+    "f6ae3a1d79f6544f9d1b4b5385d6e1fc7bc723dd563d51516b889c01a8e0177d",
+    "0d1950039175019bc5abbe91eb72f47b1228a721eda6e5dbb25c72162f7a4ca1",
+    "09dcab2464bb4204fb84024a52d5a59e4238766b9b56271bb4a3a62204a45bc3",
+    "3c78a059d3930587ba41469cfd4107b1d2e2a8971788ff8916e75c514c066c41",
+    "0b4bd6ba2d4913272ff83e3129c65d27486345a7740195cedbdb74d32f13567c",
+    "0cd14d0ac0133d7e723183aeb91d1961b552e115c556e1f87c83d66e923daa8f",
+    "a11dd20ae0ae49041299e562ac5826690e6b77b4031cd0f2c4a5a2e371c414f5",
+    "7e6ca2a7c274d30ded5d82ee0d322b264a861518fe47b95f277200b4687da22a",
+    "ba23a575e020a2210c2d4dddafe4123d5fdb1c363df43229d0d334407253d7ab",
+    "55aa2ac943d8bf49756fa4ddff4f051597377199b1ff5466664390ccb785ae41",
+    "bf0b22fd1674b2f4ef4b184047d9a947cb1becc89c2e929b64b9cd835e02c989",
+    "0433ccf037cbeb369797cab076f34632bd5e3190b7d5835f21ea8269f46c780e",
+    "f2c089e43fd153bfb1d4d045a7bbd9db5b5a4701f1670ce2e1749c996e88de1c",
+    "855f518d882f43c749c910201a0c5287b48207460102185f0f0d6e74e908d332",
+    "181e0b76bf9aaadcf9cc1d33c5de5b0722c71eecca14fde4c22909be342423f0",
+    "4bbfc81bc2a55c3a8f91d2d428ffedf844d8b5a209f2241370e72ef7fefc848b",
+    "00feb5704ebd364e4688f84561f597483d9040529a8356da79b920c6249a7433",
+    "8601bf9c1243fe38526116f09702786055f2e68666b3115655b3e75f53d44ed9",
+    "d1068b45d1dc9aec5837a2c64572da0f3788c7e6532852322d878bd005f9887e",
+    "47187b6f5a6f5cd3b0d20ac9349f682fab976fcd595201dcc16ba4d1f4ea7634",
+    "5b0507c6acf67273b0246ddae7889181b6c8e256a65f387c55d50e76b1ea49f3",
+    "0c2f40783752a47d27803c46c26f07b1ff192be5e97865f134ba7f685af05ce1"
+  ],
+  "contentFingerprint": "81be85754ec6e594930af57c56f440f455c3bb3b562cf627eeed5885a511e682"
+}

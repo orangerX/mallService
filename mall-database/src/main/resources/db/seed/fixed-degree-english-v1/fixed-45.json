@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-45",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 45 · 食物管理与日常选择",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 45,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the shared kitchen induction",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I have booked the community kitchen for Sunday. Is there anything to do first?\nStaff: (1) _____\nVisitor: How long does the introduction take?\nStaff: (2) _____\nVisitor: May I bring ingredients before the session starts?\nStaff: (3) _____\nVisitor: Where should I put the cleaning checklist afterwards?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "Leave the completed sheet beside the kitchen log.",
+        "B": "Please attend a short introduction to the equipment.",
+        "C": "Allow about twenty minutes before your booking.",
+        "D": "Yes, label them and use the shelf assigned to your group."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "3d809b4721e515c8760c586a97a55cda2bfe72305c3b4856e61d30ad7f79cb23",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Joining the shared kitchen induction\".",
+          "options": {
+            "A": "Leave the completed sheet beside the kitchen log.",
+            "B": "Please attend a short introduction to the equipment.",
+            "C": "Allow about twenty minutes before your booking.",
+            "D": "Yes, label them and use the shelf assigned to your group."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "先完成设备介绍。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c33301fb543a8f5cf19d5e5d6b44e495e1e56e42533221b281d68a3ecea13405"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Joining the shared kitchen induction\".",
+          "options": {
+            "A": "Leave the completed sheet beside the kitchen log.",
+            "B": "Please attend a short introduction to the equipment.",
+            "C": "Allow about twenty minutes before your booking.",
+            "D": "Yes, label them and use the shelf assigned to your group."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回应所需时长。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "21c31e112b85a54756afc3d8a7cff61becde2c4255f3235fc49ec57dceb8b727"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Joining the shared kitchen induction\".",
+          "options": {
+            "A": "Leave the completed sheet beside the kitchen log.",
+            "B": "Please attend a short introduction to the equipment.",
+            "C": "Allow about twenty minutes before your booking.",
+            "D": "Yes, label them and use the shelf assigned to your group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明食材存放要求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c0dcd7345667485dab8361ffaaf75756c008a024697e96c17af6e59fa74bbc31"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Joining the shared kitchen induction\".",
+          "options": {
+            "A": "Leave the completed sheet beside the kitchen log.",
+            "B": "Please attend a short introduction to the equipment.",
+            "C": "Allow about twenty minutes before your booking.",
+            "D": "Yes, label them and use the shelf assigned to your group."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明清单归档位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9945d9bbc7a5757ba5d490a673d95d4f744381cebace02e7ca21fb2e05187af9"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Adjusting a canteen portion",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The standard lunch portion is more than I can finish.\nStaff: (1) _____\nVisitor: Will a smaller portion include vegetables as well?\nStaff: (2) _____\nVisitor: Could I ask for more rice if I am still hungry?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Of course; please return to this counter.",
+        "B": "The dinner menu is printed on recycled paper.",
+        "C": "You can choose the smaller serving today.",
+        "D": "Yes, it includes the same dishes in smaller amounts."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "03acd29e0735436734fec13232e1857825169db9160102ae1c56c4361f03998d",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Adjusting a canteen portion\".",
+          "options": {
+            "A": "Of course; please return to this counter.",
+            "B": "The dinner menu is printed on recycled paper.",
+            "C": "You can choose the smaller serving today.",
+            "D": "Yes, it includes the same dishes in smaller amounts."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "提供小份选择。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "826ce9bfb85abe9a687d6d1edebf0e01758df0eb49472db1c6968171115fd835"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Adjusting a canteen portion\".",
+          "options": {
+            "A": "Of course; please return to this counter.",
+            "B": "The dinner menu is printed on recycled paper.",
+            "C": "You can choose the smaller serving today.",
+            "D": "Yes, it includes the same dishes in smaller amounts."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "确认菜品组成。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a476282e4f19b3b473557ce68d5555f181b3cfeb7d5b2aa39fe1b1c8b7d760aa"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Adjusting a canteen portion\".",
+          "options": {
+            "A": "Of course; please return to this counter.",
+            "B": "The dinner menu is printed on recycled paper.",
+            "C": "You can choose the smaller serving today.",
+            "D": "Yes, it includes the same dishes in smaller amounts."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "允许按需添饭。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "694ef45dc77ece6ea7a6e099364870fb5ba8752812f74f2102649bd15a2c6c47"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Labelling a shared refrigerator",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: Some containers in the shared fridge have no names.\nStaff: (1) _____\nVisitor: Should the label include the date as well?\nStaff: (2) _____\nVisitor: Where can I find blank labels?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, the date helps everyone identify their own recent items.",
+        "B": "There is a roll in the drawer beside the sink.",
+        "C": "No, the meeting is in the upstairs room.",
+        "D": "Please ask their owners to label them before tonight."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "8fa35c108f42d85def24e5b59a0e59c455a39cff057f980d6a47700382f0571b",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Labelling a shared refrigerator\".",
+          "options": {
+            "A": "Yes, the date helps everyone identify their own recent items.",
+            "B": "There is a roll in the drawer beside the sink.",
+            "C": "No, the meeting is in the upstairs room.",
+            "D": "Please ask their owners to label them before tonight."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "要求所有者加标签。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7ee83b4e76e0f1ccf777b5899940de4594927b73e182136ace9915c051767c64"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Labelling a shared refrigerator\".",
+          "options": {
+            "A": "Yes, the date helps everyone identify their own recent items.",
+            "B": "There is a roll in the drawer beside the sink.",
+            "C": "No, the meeting is in the upstairs room.",
+            "D": "Please ask their owners to label them before tonight."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "回应日期信息。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "62c97dd55ad17215a42cf2fd8dd450e37dafbb4640efa4fa34723d57847c6657"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Labelling a shared refrigerator\".",
+          "options": {
+            "A": "Yes, the date helps everyone identify their own recent items.",
+            "B": "There is a roll in the drawer beside the sink.",
+            "C": "No, the meeting is in the upstairs room.",
+            "D": "Please ask their owners to label them before tonight."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明标签存放位置。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "fbf9c0136aad3e0322dfe59c631d1b617d27412f2fd82e7ecd3810cf11bf8be1"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Smaller servings and a second helping",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A workplace canteen noticed that much of its cooked rice returned on unfinished plates. The staff initially considered removing rice from two menus. Interviews suggested a simpler explanation: everyone received the same large serving. The canteen introduced a smaller default portion and allowed free second helpings. During the first week, staff explained the change at the counter so diners would not mistake it for a reduction in value. Food left on plates fell, while people with larger appetites could still eat enough. The change addressed different needs without requiring diners to predict their appetite perfectly.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "284dc829b292db7ebc293f45a3c8af6bddc78d49c149d3d71e9d37b268eb11b7",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Smaller servings and a second helping: What problem did the canteen observe?",
+          "options": {
+            "A": "Large amounts of rice left on plates.",
+            "B": "A shortage of clean menus.",
+            "C": "No demand for vegetables.",
+            "D": "Too many requests for cold food."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "观察到米饭剩余多。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "100fc03c8bc4cec5b5d79542a611eeb6a4006f885d6969f342b14baff257216e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "Smaller servings and a second helping: What was the simpler explanation?",
+          "options": {
+            "A": "Every menu had the same price.",
+            "B": "Everyone received an equally large serving.",
+            "C": "Rice was never cooked properly.",
+            "D": "Workers had stopped eating lunch."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "统一大份与食量差异不匹配。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "854933116af462f02149d6b6efd5e31803b8fc0fcf034703dbd96981f6a95148"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "Smaller servings and a second helping: What remained free?",
+          "options": {
+            "A": "Takeaway containers.",
+            "B": "Cooking lessons.",
+            "C": "Second helpings.",
+            "D": "All lunches for visitors."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "可以免费添饭。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "43afe8d060da13c062b4a253bae722a225e255430f289f06f638e496b4e9bd3b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "Smaller servings and a second helping: Why did staff explain the change?",
+          "options": {
+            "A": "To announce that rice was banned.",
+            "B": "To ask workers to leave early.",
+            "C": "To sell a new kitchen device.",
+            "D": "To prevent people seeing it as poorer value."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "避免误以为减量降质。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "bbebde5217c33e86ab9b2b8ab1323f0b525211a16dc92bcd4faec40a041fb0d7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Smaller servings and a second helping: What principle does the change illustrate?",
+          "options": {
+            "A": "Flexible portions can accommodate different appetites.",
+            "B": "All diners need exactly the same meal.",
+            "C": "Smaller meals always cost more.",
+            "D": "Food waste cannot be reduced at work."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "份量灵活满足不同需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "86aabddbf5d302537cd0038d853587ff5d5a78d9abbc5e73fa9bdb91b4d3de0a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Planning meals from what is already there",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Before shopping, Tomas used to write a menu and buy every ingredient on it. Food already in his cupboard was often forgotten. He began spending ten minutes checking his shelves before choosing meals. A tin of beans or an unopened bag of noodles could become the starting point for dinner. His shopping list became shorter, but he did not try to avoid buying fresh food. He simply connected new purchases with what he already had. After a month, he found fewer forgotten items and spent less time deciding what to cook when he returned from work.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "794e1a131508b6c5282b3c281823b7c47f314239a5515927d9567766911eed13",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "Planning meals from what is already there: What did Tomas often overlook?",
+          "options": {
+            "A": "His working hours.",
+            "B": "Food already in his cupboard.",
+            "C": "The location of the supermarket.",
+            "D": "The names of all his neighbours."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "原有库存被遗忘。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "f165b0d3d75a1d5039e02974cb31a6cd89ec4fd5d00b039d5b495ccacb197e18"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "Planning meals from what is already there: What did he do before choosing meals?",
+          "options": {
+            "A": "Invited all his colleagues.",
+            "B": "Threw away every tin.",
+            "C": "Checked his shelves for ten minutes.",
+            "D": "Read every shop advertisement."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先查库存再选菜单。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2898b5d9e2c302d7fd9d04c2e90e3bf8f0e10df5d492d55f48cd09a8e1edcf0b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "Planning meals from what is already there: How did existing ingredients help?",
+          "options": {
+            "A": "They replaced every fresh purchase.",
+            "B": "They made shopping lists unnecessary forever.",
+            "C": "They required a new cupboard.",
+            "D": "They provided a starting point for meals."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "库存食材成为菜单起点。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a9ad880b466793d3ba58a2bc993d6918fe3aa327645bbd88669bb1f16bf19150"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "Planning meals from what is already there: What did he continue buying?",
+          "options": {
+            "A": "Fresh food.",
+            "B": "Only identical tins.",
+            "C": "A new cooker each month.",
+            "D": "Prepared dinners every night."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "明确没有停止买新鲜食物。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "379483eed798d63ca267ec18feeb20fe8d87855a80dfaa108ff9516a1dbad13a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "Planning meals from what is already there: What was one result of the new habit?",
+          "options": {
+            "A": "His cupboard was permanently empty.",
+            "B": "Fewer items were forgotten.",
+            "C": "He stopped cooking at home.",
+            "D": "He spent longer choosing every dinner."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "减少遗忘且简化决定。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "930d23cac0a76ae0d5cb210dd2608e8d90e754f8248169a2d6ebc497ffe0697c"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The price beside the package",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At a neighbourhood workshop, shoppers compared several packages of the same dry cereal. The largest package looked economical, but its price per kilogram was slightly higher than that of a smaller one on promotion. The instructor asked participants to compare unit prices rather than package size alone. She also reminded them to consider how much they would actually use. A low unit price was not a saving if half the food remained unwanted. Participants practised making a choice using both price and expected use. The workshop treated careful shopping as a matter of comparison, not simply buying more.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "41c66fbc498f08d9efa69f6d0adc748732a64d544754cb685af0de9a91add39f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "The price beside the package: What surprised the shoppers?",
+          "options": {
+            "A": "Small packages were unavailable.",
+            "B": "The workshop charged by weight.",
+            "C": "The largest package had a higher unit price.",
+            "D": "Every package contained a different cereal."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "大包装单位价格反而高。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "8f4a616f467af2d0f8229e41c20f31c4af79b59ff32db98b25f9762eb8a88b54"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "The price beside the package: What did the instructor recommend comparing?",
+          "options": {
+            "A": "Only the package colour.",
+            "B": "The height of store shelves.",
+            "C": "The length of the brand name.",
+            "D": "Price per unit of weight."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "比较单位价格。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "288c59f2cd80797cf698fd97b88f683fefcf5f21a97fd157de042728789147b8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "The price beside the package: What else should shoppers consider?",
+          "options": {
+            "A": "How much they will use.",
+            "B": "How many advertisements they remember.",
+            "C": "Whether neighbours own a car.",
+            "D": "Which package photographs best."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "预计使用量也重要。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1716dd10a014d5ff2cadd9d0c68d9dff5d46db5fcbc571cf2f3e786a4d6ac5d8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "The price beside the package: When might a low unit price fail to save money?",
+          "options": {
+            "A": "When the smaller package is available.",
+            "B": "When much of the food is unwanted.",
+            "C": "When the package has a clear label.",
+            "D": "When the shopper makes a list."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "浪费会抵消低单价。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "6e8e8ccaf80948e69d28bf693359536cb9ae37a1770d8cb76b2c5642ee56284e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "The price beside the package: What is the main message?",
+          "options": {
+            "A": "Promotions should never be considered.",
+            "B": "Unit prices are too difficult to compare.",
+            "C": "Good value depends on price and actual need.",
+            "D": "Large packages are always bad purchases."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "价值取决于单价与实际需求。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "86b1d53ee0d7e612d07b1f345f3a3317b90f22c132a7b4fdf5fe320b6ea490d3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A recipe recorded by more than one cook",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community kitchen collected recipes from its members. Some experienced cooks wrote instructions such as 'add enough water' or 'cook until ready'. These worked for them but confused beginners. The group invited a new member to follow each recipe while its author watched. Questions revealed missing details about quantities and signs of readiness. Authors then revised the instructions, sometimes adding photographs of texture rather than exact times. The finished collection preserved personal cooking styles while making the process easier to follow. Explaining familiar actions to someone else helped the experienced cooks notice knowledge they had never written down.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "facd6889e78fbc4014b8b7ed2624546cbdcfeb30cda8f1aa5196d1ad459f6bef",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "A recipe recorded by more than one cook: Why did some instructions confuse beginners?",
+          "options": {
+            "A": "They were all written in another language.",
+            "B": "They required unavailable ovens.",
+            "C": "They included too many photographs.",
+            "D": "They assumed knowledge that was not explained."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "隐含经验没有写明。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "a2a6571046bc72c56dd1b7dea245c434eb777cb1d0ca038d4bd993042e9047bc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "A recipe recorded by more than one cook: Who tried following each recipe?",
+          "options": {
+            "A": "A new member.",
+            "B": "Only its author.",
+            "C": "A food-package designer.",
+            "D": "The kitchen's landlord."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "让新成员实践。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "107393e0b21464130c568ab503545d3362806cb50f35d48f25d55776d635a9b6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "A recipe recorded by more than one cook: What did questions reveal?",
+          "options": {
+            "A": "A shortage of recipe titles.",
+            "B": "Missing quantities and readiness signs.",
+            "C": "The price of every meal.",
+            "D": "A plan to close the kitchen."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "发现份量和熟度等细节缺漏。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "1ff5b1f9af19b19187f472b9b4e10d2bfa1b8eedea85abce2b5ba4d45927a97b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "A recipe recorded by more than one cook: Why were texture photographs sometimes useful?",
+          "options": {
+            "A": "They made every cooking time identical.",
+            "B": "They concealed differences between dishes.",
+            "C": "They showed what cooks should look for.",
+            "D": "They removed all need for instructions."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "图示提供状态判断依据。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f79bdcefd13ecc14b60181a331b3e85dc5ec3191bf42d9848ac8480f836d7304"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "A recipe recorded by more than one cook: What did experienced cooks learn?",
+          "options": {
+            "A": "Beginners never ask useful questions.",
+            "B": "Personal styles must be removed.",
+            "C": "Only precise times matter in cooking.",
+            "D": "Some familiar knowledge had remained unwritten."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "教别人使隐性知识显现。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "665b37ff51903cbdfa32c256d13885662d6f65e07f5da98d464eac68d88750fe"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The kitchen asks every group to _____ its ingredients before storing them.",
+      "options": {
+        "A": "launch",
+        "B": "label",
+        "C": "fold",
+        "D": "repair"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "label表示贴标签。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "079ebc5f2d49471cfa928551297ccd22f32b5f5d464bc402e96b2b460559695b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The canteen serves a smaller _____ of rice unless a diner asks for more.",
+      "options": {
+        "A": "position",
+        "B": "purpose",
+        "C": "portion",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "portion表示一份食物。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "95d9bc15a4f605dca27899d16c5271d7898316e6993c97317306a40c2f5753df"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Checking the cupboard helps us avoid _____ purchases.",
+      "options": {
+        "A": "unusual",
+        "B": "uneven",
+        "C": "unfair",
+        "D": "unnecessary"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "unnecessary表示不必要的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1fa66b8cbc37ada129bc1b45d615a46208a6068513e7c99aaff03f35b321ca25"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Compare the _____ price when packages contain different amounts.",
+      "options": {
+        "A": "unit",
+        "B": "union",
+        "C": "united",
+        "D": "unique"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "unit price表示单位价格。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fed069539a0010f519a169c6cb1cbafeb3f7b43095bb30899af179fd5aedf46d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The recipe describes the _____ of the mixture when it is ready.",
+      "options": {
+        "A": "fixture",
+        "B": "texture",
+        "C": "lecture",
+        "D": "gesture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "texture表示质地。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c53994768252ff256fce637282a77bf6c465a063d291c531b20e1d0e77d3bcb9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The instructor asked beginners to _____ any unclear steps.",
+      "options": {
+        "A": "invent",
+        "B": "invite",
+        "C": "identify",
+        "D": "ignore"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "identify表示找出。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "870c3650ffe455fec0430cd3bb4c99ad4be019816fe76e3e0362c32300b991ad"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A second helping is _____ at no extra charge.",
+      "options": {
+        "A": "invisible",
+        "B": "impossible",
+        "C": "unrelated",
+        "D": "available"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "available表示可获得的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0ad48b03b7bb0edfce8377177cf4f938d8cef0a324170a6f081e2a25454bbd99"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "We should buy an amount that matches our _____ needs.",
+      "options": {
+        "A": "actual",
+        "B": "ancient",
+        "C": "artificial",
+        "D": "automatic"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "actual表示实际的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "595424689d006093ee3c151b03bcf15adbf58aaae1de2465d09e7e2189cc311b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The shopping list became shorter after Tomas checked his _____.",
+      "options": {
+        "A": "systems",
+        "B": "supplies",
+        "C": "surprises",
+        "D": "speeches"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "supplies表示现有物资。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5a9f0817238843e0d4a0ea6008d36b2f01139ee97d68b40daeb51c69422afd26"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "Clear quantities make the cooking instructions easier to _____.",
+      "options": {
+        "A": "force",
+        "B": "forgive",
+        "C": "follow",
+        "D": "float"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "follow instructions表示依照说明。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1f9638ca15df46fdf4e4eb08468d9b11fec37f63fc8b54785ea8c6c7e3a0706a"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "There is _____ rice left in the pan, so you can have another helping.",
+      "options": {
+        "A": "few",
+        "B": "a few",
+        "C": "some",
+        "D": "many"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "rice不可数，用some。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7044d7b3894da0df67bf51e3bc95fddb390cad21be41bae476194fac2b895aa4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The recipe needs to _____ before it is added to the collection.",
+      "options": {
+        "A": "revising",
+        "B": "revise",
+        "C": "been revised",
+        "D": "be revised"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "need to be done表示需要被修改。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aabb855d7e68c4b04ea1444f09c12f5433cb2cfe61e193928b2cbd6eeebd0573"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Tomas checks his cupboard before _____ a shopping list.",
+      "options": {
+        "A": "writing",
+        "B": "write",
+        "C": "wrote",
+        "D": "to write"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "before作介词接动名词。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "689717eab81b4cf7ba06f3d2c11242a4eb26117329f2759faa1c53eb2f731c5e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The smaller package costs less per kilogram _____ the larger one.",
+      "options": {
+        "A": "from",
+        "B": "than",
+        "C": "as",
+        "D": "to"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "比较级搭配than。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "012543d24b4b7e72d427639ee74e30a160e5838a6891195c4de1e0ab4205c5ac"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "If we had checked the shelves, we _____ another bag of noodles.",
+      "options": {
+        "A": "do not buy",
+        "B": "have not bought",
+        "C": "would not have bought",
+        "D": "will not buy"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去虚拟条件主句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3663a063ad15ba0bf28b998fa8236026cdfc3ac88c0b420a5c5273c181084708"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The cook explained _____ the mixture should look like when ready.",
+      "options": {
+        "A": "how",
+        "B": "where",
+        "C": "which it",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "what作like的宾语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d40113cdb2e0ca435e8784b5a3eb11db339769b7ed379d5b0b6fa7a9e17b3e93"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the first time I _____ a recipe for someone else to follow.",
+      "options": {
+        "A": "have written",
+        "B": "had written",
+        "C": "write",
+        "D": "will write"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "This is the first time后用现在完成时。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4ec8d237c68be94508ca18caab6770998fba7d5b4ccc76e76545bf6e464747d7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither the beans nor the unopened cereal _____ to be thrown away.",
+      "options": {
+        "A": "were",
+        "B": "needs",
+        "C": "need",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither...nor就近cereal单数。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "91107240e78c54dda202c07dcc8ca8915dc562aabb7fac9617b367ade2998e98"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The more clearly a recipe is written, _____ it is to use.",
+      "options": {
+        "A": "the easiest",
+        "B": "easy",
+        "C": "the easier",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more..., the more...结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "632dd80fae58a885a3d5f3eed6d6e0242ff88f812274e1922e8a0ce58f3647fa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The instructor made us _____ the unit prices ourselves.",
+      "options": {
+        "A": "to compare",
+        "B": "compared",
+        "C": "comparing",
+        "D": "compare"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "make sb do使役结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "018398c4f609195749572b010f69aa5ef7d1805acddec93c316ba76fd13b49c7"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nReducing waste often begins with noticing what we already have. A short check of the cupboard can change a shopping plan and suggest a meal. This does not require a perfect system or a strict rule against buying anything new. It requires a habit of connecting today's choices with existing supplies. Small decisions repeated regularly can make daily routines both simpler and less wasteful.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意what宾语从句、against buying以及both...and并列结构。",
+      "referenceAnswer": "减少浪费往往始于留意我们已经拥有的东西。简单查看一下食品柜，就可能改变购物计划，并带来一餐饭的灵感。这并不需要完美的系统，也不需要严格禁止购买任何新东西。它需要的是一种习惯，把今天的选择与现有物资联系起来。经常重复这些小小的决定，可以让日常生活既更简单，也更少浪费。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "bd06296a12f749e4edc1f3d49c7cf82cdb16173cc6c1b3700cc37311d98cd7ab",
+      "referenceAnswerFingerprint": "80acb6e80096e0f367b2a43e326895b568d033f63bf9c76676d818a8572a4db1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English for a workplace canteen notice. Propose a way to reduce food left on plates, explain how diners can still get enough food, and invite feedback on the proposal.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "覆盖减少剩食方法、吃饱保障和反馈渠道。",
+      "sampleAnswer": "Our canteen is considering a smaller first serving of rice to reduce food left on plates. Diners have different appetites, and the same large portion does not suit everyone.\nUnder the proposal, anyone who would like more rice can return to the counter for a free second helping. The choice of dishes will remain the same. Staff will explain the arrangement clearly, so nobody needs to worry about leaving lunch hungry.\nWe suggest trying this system for two weeks. During that time, please tell the canteen team whether the first portion is suitable and whether getting more food is convenient. Comments can be left on the short form beside the exit. Your experience will help us adjust the system and serve meals with less waste.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "7f451ca9e602c328004fcc7f8f8c866b5a988d80ea69a3224b540aaf237705a7",
+      "sampleAnswerFingerprint": "2d5f15f4dff1b3edfa1f062ad1c0c0afc63b721d05858628d2c0145ceb5a5a94"
+    }
+  ],
+  "fingerprintManifest": [
+    "3d809b4721e515c8760c586a97a55cda2bfe72305c3b4856e61d30ad7f79cb23",
+    "c33301fb543a8f5cf19d5e5d6b44e495e1e56e42533221b281d68a3ecea13405",
+    "21c31e112b85a54756afc3d8a7cff61becde2c4255f3235fc49ec57dceb8b727",
+    "c0dcd7345667485dab8361ffaaf75756c008a024697e96c17af6e59fa74bbc31",
+    "9945d9bbc7a5757ba5d490a673d95d4f744381cebace02e7ca21fb2e05187af9",
+    "03acd29e0735436734fec13232e1857825169db9160102ae1c56c4361f03998d",
+    "826ce9bfb85abe9a687d6d1edebf0e01758df0eb49472db1c6968171115fd835",
+    "a476282e4f19b3b473557ce68d5555f181b3cfeb7d5b2aa39fe1b1c8b7d760aa",
+    "694ef45dc77ece6ea7a6e099364870fb5ba8752812f74f2102649bd15a2c6c47",
+    "8fa35c108f42d85def24e5b59a0e59c455a39cff057f980d6a47700382f0571b",
+    "7ee83b4e76e0f1ccf777b5899940de4594927b73e182136ace9915c051767c64",
+    "62c97dd55ad17215a42cf2fd8dd450e37dafbb4640efa4fa34723d57847c6657",
+    "fbf9c0136aad3e0322dfe59c631d1b617d27412f2fd82e7ecd3810cf11bf8be1",
+    "284dc829b292db7ebc293f45a3c8af6bddc78d49c149d3d71e9d37b268eb11b7",
+    "100fc03c8bc4cec5b5d79542a611eeb6a4006f885d6969f342b14baff257216e",
+    "854933116af462f02149d6b6efd5e31803b8fc0fcf034703dbd96981f6a95148",
+    "43afe8d060da13c062b4a253bae722a225e255430f289f06f638e496b4e9bd3b",
+    "bbebde5217c33e86ab9b2b8ab1323f0b525211a16dc92bcd4faec40a041fb0d7",
+    "86aabddbf5d302537cd0038d853587ff5d5a78d9abbc5e73fa9bdb91b4d3de0a",
+    "794e1a131508b6c5282b3c281823b7c47f314239a5515927d9567766911eed13",
+    "f165b0d3d75a1d5039e02974cb31a6cd89ec4fd5d00b039d5b495ccacb197e18",
+    "2898b5d9e2c302d7fd9d04c2e90e3bf8f0e10df5d492d55f48cd09a8e1edcf0b",
+    "a9ad880b466793d3ba58a2bc993d6918fe3aa327645bbd88669bb1f16bf19150",
+    "379483eed798d63ca267ec18feeb20fe8d87855a80dfaa108ff9516a1dbad13a",
+    "930d23cac0a76ae0d5cb210dd2608e8d90e754f8248169a2d6ebc497ffe0697c",
+    "41c66fbc498f08d9efa69f6d0adc748732a64d544754cb685af0de9a91add39f",
+    "8f4a616f467af2d0f8229e41c20f31c4af79b59ff32db98b25f9762eb8a88b54",
+    "288c59f2cd80797cf698fd97b88f683fefcf5f21a97fd157de042728789147b8",
+    "1716dd10a014d5ff2cadd9d0c68d9dff5d46db5fcbc571cf2f3e786a4d6ac5d8",
+    "6e8e8ccaf80948e69d28bf693359536cb9ae37a1770d8cb76b2c5642ee56284e",
+    "86b1d53ee0d7e612d07b1f345f3a3317b90f22c132a7b4fdf5fe320b6ea490d3",
+    "facd6889e78fbc4014b8b7ed2624546cbdcfeb30cda8f1aa5196d1ad459f6bef",
+    "a2a6571046bc72c56dd1b7dea245c434eb777cb1d0ca038d4bd993042e9047bc",
+    "107393e0b21464130c568ab503545d3362806cb50f35d48f25d55776d635a9b6",
+    "1ff5b1f9af19b19187f472b9b4e10d2bfa1b8eedea85abce2b5ba4d45927a97b",
+    "f79bdcefd13ecc14b60181a331b3e85dc5ec3191bf42d9848ac8480f836d7304",
+    "665b37ff51903cbdfa32c256d13885662d6f65e07f5da98d464eac68d88750fe",
+    "079ebc5f2d49471cfa928551297ccd22f32b5f5d464bc402e96b2b460559695b",
+    "95d9bc15a4f605dca27899d16c5271d7898316e6993c97317306a40c2f5753df",
+    "1fa66b8cbc37ada129bc1b45d615a46208a6068513e7c99aaff03f35b321ca25",
+    "fed069539a0010f519a169c6cb1cbafeb3f7b43095bb30899af179fd5aedf46d",
+    "c53994768252ff256fce637282a77bf6c465a063d291c531b20e1d0e77d3bcb9",
+    "870c3650ffe455fec0430cd3bb4c99ad4be019816fe76e3e0362c32300b991ad",
+    "0ad48b03b7bb0edfce8377177cf4f938d8cef0a324170a6f081e2a25454bbd99",
+    "595424689d006093ee3c151b03bcf15adbf58aaae1de2465d09e7e2189cc311b",
+    "5a9f0817238843e0d4a0ea6008d36b2f01139ee97d68b40daeb51c69422afd26",
+    "1f9638ca15df46fdf4e4eb08468d9b11fec37f63fc8b54785ea8c6c7e3a0706a",
+    "7044d7b3894da0df67bf51e3bc95fddb390cad21be41bae476194fac2b895aa4",
+    "aabb855d7e68c4b04ea1444f09c12f5433cb2cfe61e193928b2cbd6eeebd0573",
+    "689717eab81b4cf7ba06f3d2c11242a4eb26117329f2759faa1c53eb2f731c5e",
+    "012543d24b4b7e72d427639ee74e30a160e5838a6891195c4de1e0ab4205c5ac",
+    "3663a063ad15ba0bf28b998fa8236026cdfc3ac88c0b420a5c5273c181084708",
+    "d40113cdb2e0ca435e8784b5a3eb11db339769b7ed379d5b0b6fa7a9e17b3e93",
+    "4ec8d237c68be94508ca18caab6770998fba7d5b4ccc76e76545bf6e464747d7",
+    "91107240e78c54dda202c07dcc8ca8915dc562aabb7fac9617b367ade2998e98",
+    "632dd80fae58a885a3d5f3eed6d6e0242ff88f812274e1922e8a0ce58f3647fa",
+    "018398c4f609195749572b010f69aa5ef7d1805acddec93c316ba76fd13b49c7",
+    "bd06296a12f749e4edc1f3d49c7cf82cdb16173cc6c1b3700cc37311d98cd7ab",
+    "80acb6e80096e0f367b2a43e326895b568d033f63bf9c76676d818a8572a4db1",
+    "7f451ca9e602c328004fcc7f8f8c866b5a988d80ea69a3224b540aaf237705a7",
+    "2d5f15f4dff1b3edfa1f062ad1c0c0afc63b721d05858628d2c0145ceb5a5a94"
+  ],
+  "contentFingerprint": "8d44f9d71884b79abe003d067c58da0be174efc70d384155ea0b77ec1a53b17e"
+}

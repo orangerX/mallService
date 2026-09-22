@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-47",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 47 · 地方记忆与文化交流",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 47,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Donating a family photograph",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I found a photograph of the old market. Would the archive be interested?\nStaff: (1) _____\nVisitor: Must I give you the original?\nStaff: (2) _____\nVisitor: I am not certain which year it was taken.\nStaff: (3) _____\nVisitor: Could you send me a copy of the catalogue description?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "No, we can scan it and return it to you.",
+        "B": "Please tell us what you know; we can mark the date as uncertain.",
+        "C": "Certainly; leave an email address on the permission form.",
+        "D": "Yes, we are collecting images of everyday life in that area."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "a92771ed786ca5d44c6e7250275e1e55053a41d5174d04bd7a660d7f3a10fc1c",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Donating a family photograph\".",
+          "options": {
+            "A": "No, we can scan it and return it to you.",
+            "B": "Please tell us what you know; we can mark the date as uncertain.",
+            "C": "Certainly; leave an email address on the permission form.",
+            "D": "Yes, we are collecting images of everyday life in that area."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明征集范围符合照片内容。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e7fa81b7e41d370e0aabc18faa9c90f66ba671100422ecd0009ad8c0b726172b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Donating a family photograph\".",
+          "options": {
+            "A": "No, we can scan it and return it to you.",
+            "B": "Please tell us what you know; we can mark the date as uncertain.",
+            "C": "Certainly; leave an email address on the permission form.",
+            "D": "Yes, we are collecting images of everyday life in that area."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "允许扫描返还原件。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c2a0a3c117ae859f5a586d4bfa0e6f8826a039994229383db8e2a09cb0e87e2e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Donating a family photograph\".",
+          "options": {
+            "A": "No, we can scan it and return it to you.",
+            "B": "Please tell us what you know; we can mark the date as uncertain.",
+            "C": "Certainly; leave an email address on the permission form.",
+            "D": "Yes, we are collecting images of everyday life in that area."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "接受并标明日期不确定。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c6ca5fc14a8880466de65419b8c60db7d41ef2c865c68ca4a9dbaa6e7dd94ac4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Donating a family photograph\".",
+          "options": {
+            "A": "No, we can scan it and return it to you.",
+            "B": "Please tell us what you know; we can mark the date as uncertain.",
+            "C": "Certainly; leave an email address on the permission form.",
+            "D": "Yes, we are collecting images of everyday life in that area."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明获取目录副本方式。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d35ba9d21b1d5a3f24534557c547b6f4b601318dfddfd74a0fafacc50e791b94"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Checking permission for an interview",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: May I record your memories of the old factory?\nStaff: (1) _____\nVisitor: Can I stop the recording if a question makes me uncomfortable?\nStaff: (2) _____\nVisitor: Will I be able to read the transcript before it is shared?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, but please explain how the recording will be used.",
+        "B": "Of course; you may pause or skip any question.",
+        "C": "Certainly, we will send it for your comments first.",
+        "D": "The factory bus no longer uses this route."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "88814698fcbb5645366452b82817a5b3e18f727488e07f2b30a3124f2d051e1a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Checking permission for an interview\".",
+          "options": {
+            "A": "Yes, but please explain how the recording will be used.",
+            "B": "Of course; you may pause or skip any question.",
+            "C": "Certainly, we will send it for your comments first.",
+            "D": "The factory bus no longer uses this route."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "同意前需了解用途。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "cb7484a129182073f3cc4118b50139f7b937f55c44088636fd1c23252d8b5585"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Checking permission for an interview\".",
+          "options": {
+            "A": "Yes, but please explain how the recording will be used.",
+            "B": "Of course; you may pause or skip any question.",
+            "C": "Certainly, we will send it for your comments first.",
+            "D": "The factory bus no longer uses this route."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明受访者可暂停。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3bda2a4ad404900b0a9e15a17862d8508f93fa55ac2f9348b81d9fcde5fd56ac"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Checking permission for an interview\".",
+          "options": {
+            "A": "Yes, but please explain how the recording will be used.",
+            "B": "Of course; you may pause or skip any question.",
+            "C": "Certainly, we will send it for your comments first.",
+            "D": "The factory bus no longer uses this route."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "确认分享前可查看文本。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "94cfa85cc431eed39285d51252349dc3a5f6ece44b6ab0a6e2d12ed31fccbd9c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Explaining a local expression",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: The visitor did not understand the phrase on our festival poster.\nStaff: (1) _____\nVisitor: Should we replace it with a plain description?\nStaff: (2) _____\nVisitor: Could we keep the original phrase beside the explanation?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "No, the chairs belong in the storage room.",
+        "B": "It may be familiar locally but unusual elsewhere.",
+        "C": "A short explanation would make the meaning clearer.",
+        "D": "Yes, that would preserve its local character too."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "9679c18fef67c4246a269c34447d7ee594832f43f59b26a43b802edf7713dd7c",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Explaining a local expression\".",
+          "options": {
+            "A": "No, the chairs belong in the storage room.",
+            "B": "It may be familiar locally but unusual elsewhere.",
+            "C": "A short explanation would make the meaning clearer.",
+            "D": "Yes, that would preserve its local character too."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出地方表达的理解差异。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ddeda0c5c8c8d8efd1b33a7fe4a3e2121bf6017bc8c15f56136aa9985d9617b4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Explaining a local expression\".",
+          "options": {
+            "A": "No, the chairs belong in the storage room.",
+            "B": "It may be familiar locally but unusual elsewhere.",
+            "C": "A short explanation would make the meaning clearer.",
+            "D": "Yes, that would preserve its local character too."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "建议补充说明。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c4a8932edc57d324b208f467b0a53581a2ff403a50daddab9e86851a05d3edea"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Explaining a local expression\".",
+          "options": {
+            "A": "No, the chairs belong in the storage room.",
+            "B": "It may be familiar locally but unusual elsewhere.",
+            "C": "A short explanation would make the meaning clearer.",
+            "D": "Yes, that would preserve its local character too."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "兼顾原表达与可理解性。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "803cda7f24fc8bfb438086b4e2bffda31ffeb95c500eba63b5d57a3ddf0a1f30"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The photograph with an uncertain date",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local archive received a photograph of a crowded market. The donor believed it was taken in the early 1960s, but no date appeared on the back. A shop sign in the image suggested it might be slightly later. Rather than choose one date without evidence, the archivist recorded both the donor's memory and the clue from the sign. The catalogue described the date as approximate. Months later, another resident identified a stallholder and supplied a dated receipt from the same event. The record could then be refined without hiding how the earlier estimate had been reached.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "8f7c8a060a0cfa1f7ac85ef21b92fca088f1b919632233ac415d5169c1b2e728",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "The photograph with an uncertain date: Why was the date uncertain?",
+          "options": {
+            "A": "The archive had lost the image.",
+            "B": "The market never opened.",
+            "C": "The photograph had no written date.",
+            "D": "The donor refused to speak."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "照片背面没有日期。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "6e4f9bf36ac1908ba8d5d560507e314c835b7c877488b3b6295efa1ac2bcef41"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "The photograph with an uncertain date: What provided a different clue?",
+          "options": {
+            "A": "The colour of the archive door.",
+            "B": "A modern bus timetable.",
+            "C": "The donor's email password.",
+            "D": "A shop sign in the image."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "店铺招牌提供线索。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "2081f01fb8541c558c3fba110f897c425d58f122fc94a2fa297dcf1c010c1df8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "The photograph with an uncertain date: What did the archivist record?",
+          "options": {
+            "A": "Both the memory and the visual clue.",
+            "B": "Only a date chosen at random.",
+            "C": "Only the newest resident's name.",
+            "D": "A claim that all memories are false."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "保存两种依据。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "a932baf8702122cd357424f633a66db94c358964e15a02a49e95d2393cf0a0f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "The photograph with an uncertain date: What later helped refine the date?",
+          "options": {
+            "A": "An empty catalogue form.",
+            "B": "A dated receipt from the event.",
+            "C": "A new camera purchase.",
+            "D": "A map of another city."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "同一活动的带日期收据。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "03e415489b6e3727579d20a6d0382417874251f7930f00e68ed2dc31c6e09495"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "The photograph with an uncertain date: What practice does the passage support?",
+          "options": {
+            "A": "Treating memory as exact proof.",
+            "B": "Never changing an archive record.",
+            "C": "Making uncertainty and evidence visible.",
+            "D": "Removing all uncertain photographs."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "公开证据与不确定性，允许更新。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "e3d46f887519d2285bb90dcf2d50ac1da6fc260cef449c0840b4fa27f9a95bc4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A guide who stopped speaking first",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "During neighbourhood tours, guide Elena once explained every street before allowing questions. Visitors listened politely but rarely joined in. She changed the opening of each stop by asking what people noticed. One visitor pointed to marks above a doorway; another asked why several houses shared a courtyard. These observations led naturally into the area's history. Elena still prepared accurate information and corrected misunderstandings, but she no longer assumed that silence meant interest. The tours became more conversational. Visitors often remembered details connected to their own questions more clearly than facts delivered in a long introduction.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "a49f4312cb8f673334e0056e192179f98b6a9238dffa02a065cfe26ee17cf6e3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "A guide who stopped speaking first: How did Elena formerly begin each stop?",
+          "options": {
+            "A": "With a written examination.",
+            "B": "With a request for payment.",
+            "C": "With a silent photograph session.",
+            "D": "With an explanation before questions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "先完整讲解再提问。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "04987a3c93449a20ca04b2e64b8eda8e437d09c1c2143aa89bf080b7575b2e40"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "A guide who stopped speaking first: What did she ask after changing her method?",
+          "options": {
+            "A": "What visitors noticed.",
+            "B": "How much every house cost.",
+            "C": "Why visitors had no guidebooks.",
+            "D": "Whether all streets should close."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "以观察提问开场。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "7d1737eb6b4536a43b40e412d7c2dbacfc48756c077e7a5ba57ea871112d0653"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "A guide who stopped speaking first: What led into local history?",
+          "options": {
+            "A": "A list of bus fares.",
+            "B": "Visitors' observations and questions.",
+            "C": "Only the guide's longest speech.",
+            "D": "Advertisements from estate agents."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "访客观察自然引出历史。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "f38b535776c96ae63dac87f91bbd2c87a9dfac273026cadb885ce209fee98162"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "A guide who stopped speaking first: What responsibility did Elena retain?",
+          "options": {
+            "A": "Pretending every guess was correct.",
+            "B": "Replacing history with entertainment only.",
+            "C": "Preparing accurate information and correcting misunderstandings.",
+            "D": "Avoiding all visitor questions."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "互动并不取消准确性责任。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "5accab5e6b0c3985e15c60a9fba5417359de16fa6e42fc57eaf49a1bd0b7282a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "A guide who stopped speaking first: Why might visitors remember some details better?",
+          "options": {
+            "A": "The guide repeated every date ten times.",
+            "B": "The tour became much more expensive.",
+            "C": "They received fewer opportunities to speak.",
+            "D": "The details connected to their own questions."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "与自己的疑问相联增强记忆。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "a0a6627dd51ea5894675248e2d7b356052b117a5c45c6012113714b3696ba057"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "An exhibition written for neighbours",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A small history exhibition used technical language borrowed from an academic report. Local residents recognised the objects but struggled with the labels. The curator invited a reading group to discuss a sample label. Members did not ask for the history to be simplified into a cheerful story. They wanted shorter sentences, explanations of unfamiliar terms and a clear connection between each object and local life. The curator revised the labels while keeping difficult facts. A former factory worker then contributed a brief personal account. The exhibition became easier to enter intellectually without pretending that the town's past had been uncomplicated.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "9f69b88a43160660f04e9a96789c39d8533502efa2088e2fefb4d09650c90356",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "An exhibition written for neighbours: What made the original labels difficult?",
+          "options": {
+            "A": "Technical language.",
+            "B": "A complete lack of objects.",
+            "C": "Too many personal accounts.",
+            "D": "The exhibition's outdoor location."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "学术术语造成障碍。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "56a4c4d9c7f55f95c6fe68cdee910fd70028d11f203c42dd261db66779ac38c5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "An exhibition written for neighbours: What did the reading group request?",
+          "options": {
+            "A": "A ban on factory objects.",
+            "B": "Clearer sentences and explanations.",
+            "C": "Only cheerful stories.",
+            "D": "Removal of every historical date."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "要求清晰而非粉饰。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "888b5ac673a905fb37cb167be423b33dba5db7f86c896d4ce02b531f9bc42d87"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "An exhibition written for neighbours: What did the curator retain?",
+          "options": {
+            "A": "Only facts about famous visitors.",
+            "B": "All unexplained technical terms.",
+            "C": "Difficult historical facts.",
+            "D": "Every long sentence unchanged."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "保留复杂、不轻松的历史事实。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "b49f90d0b794120ef7746ee18632f82d532a3308aaea90ecebc6eac26baf9c4a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "An exhibition written for neighbours: Who added a personal account?",
+          "options": {
+            "A": "A ticket inspector.",
+            "B": "The town's new bus driver.",
+            "C": "An overseas shop owner.",
+            "D": "A former factory worker."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "原工厂工人提供个人叙述。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "5c879bdecbbd41660f89a3d72fc8c1c1d79c879bf766a4b166b1fbf6346515f4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "An exhibition written for neighbours: What is the main distinction in the passage?",
+          "options": {
+            "A": "Clarity need not remove complexity.",
+            "B": "Academic words always improve labels.",
+            "C": "Local readers dislike history.",
+            "D": "Personal memories replace all records."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "易懂不等于抹去复杂性。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "b4f8cc91d45f850cb0334ca6c90146e8b564805b4963e9b4efb59773ad1bc92c"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Keeping two versions of a festival story",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Two older residents told different stories about why their village held an autumn lantern walk. One linked it to the end of field work; the other remembered it as a children's activity introduced by a teacher. The festival committee initially wanted one official explanation for its leaflet. After discussion, it printed both accounts, clearly attributed to their speakers, and invited further memories. This approach did not establish which story was historically earliest. It showed how the event had acquired different meanings for different people. The leaflet became an invitation to conversation as well as a guide to the evening's programme.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "49daeca855347abe42dca2e75b3870b1182b68c404cf5f8afaf07cda19abae72",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "Keeping two versions of a festival story: What differed between the residents' stories?",
+          "options": {
+            "A": "The location of every village house.",
+            "B": "The origin of the lantern walk.",
+            "C": "The colour of the current leaflet.",
+            "D": "The date of the next bus service."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "解释活动起源不同。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "b4fd9672a539dd0688bd8d67cef08e7c6cced454b3af24b2f3b14986aa7d9f98"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "Keeping two versions of a festival story: What did the committee initially want?",
+          "options": {
+            "A": "To stop collecting memories.",
+            "B": "An account of another village.",
+            "C": "One official explanation.",
+            "D": "To cancel the festival."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "起初想定一个官方说法。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "31949e594ad9dcec110489710d88bf1591a00938f3462dd764714cd2df7ccf72"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "Keeping two versions of a festival story: How were the accounts printed?",
+          "options": {
+            "A": "As proven identical facts.",
+            "B": "Without mentioning their sources.",
+            "C": "Only in a private notebook.",
+            "D": "With clear attribution to each speaker."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "标注各自叙述者。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "8142609953cc6e8df1840a05d3506798b2474fa346bdccacf4919868be92e42f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "Keeping two versions of a festival story: What did printing both accounts not establish?",
+          "options": {
+            "A": "Which story was historically earliest.",
+            "B": "That people remembered the event differently.",
+            "C": "That the leaflet included a programme.",
+            "D": "That further memories were welcome."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "无法证明哪个起源更早。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "00b5aece0dffb17e95453427c7f38b619db1ea5a558fa128d08bc1d9d61a28cc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "Keeping two versions of a festival story: What additional role did the leaflet gain?",
+          "options": {
+            "A": "Prohibiting children's attendance.",
+            "B": "Encouraging conversation.",
+            "C": "Selling agricultural machines.",
+            "D": "Replacing all archive records."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "传单成为交流邀请。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "4194197f5ef7d91c6913de15f0a33a59d08eedf8fb9cce87ef0d27ebf14dbe2a"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The catalogue gives an _____ date because the evidence is incomplete.",
+      "options": {
+        "A": "absolute",
+        "B": "identical",
+        "C": "immediate",
+        "D": "approximate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "approximate表示大致的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2181a6c370233b8350a5b78f08126a802ee2e809d44fdb419eedc05a9e7b4c22"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Each interview quotation should be _____ to the person who said it.",
+      "options": {
+        "A": "attributed",
+        "B": "attached",
+        "C": "attracted",
+        "D": "attended"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "attribute to表示归于某来源。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f4458ee144486fcf06804e985b682aede1baeeef585aaa0764053d1fdea5491e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The curator tried to _____ the exhibition's historical complexity.",
+      "options": {
+        "A": "persuade",
+        "B": "preserve",
+        "C": "predict",
+        "D": "purchase"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "preserve表示保留。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "283d16d3dd81e315d40243595e8073cca41247fed94529497fbbecb7bb649eaa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "Visitors' questions made the tour more _____.",
+      "options": {
+        "A": "inactive",
+        "B": "impatient",
+        "C": "interactive",
+        "D": "invisible"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "interactive表示互动的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e4e81947273bcd65510c47d45b72296aa570a0cb46d4023123390e13872d8e1b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The archive asked the donor for _____ to display the scanned photograph.",
+      "options": {
+        "A": "performance",
+        "B": "persuasion",
+        "C": "preparation",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "permission表示许可。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7ebdc76d16b06838e285bee3a01e220f25c8d645235960e82184a95d962d3de2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "A short account from a factory worker added a personal _____.",
+      "options": {
+        "A": "perspective",
+        "B": "percentage",
+        "C": "procedure",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "perspective表示视角。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "19508ced22c1cd5223dc35623c5cc23fc29fbc1433ef1114ddc51fc4b817bec4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The labels explain unfamiliar _____ in everyday language.",
+      "options": {
+        "A": "tricks",
+        "B": "terms",
+        "C": "turns",
+        "D": "trips"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "terms表示术语。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b9fb0285ce9ddbf88f1d7c04d8af34b40e442f14bf196fe4db51d96bc83304d1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "New evidence allowed the archivist to _____ the estimated date.",
+      "options": {
+        "A": "replace",
+        "B": "retire",
+        "C": "refine",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "refine表示进一步修正精确。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ea5d37fe091feb4489171387e9388bc4ffcbb0ee2518487747c5e62d4f5597c2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The poster includes a translation beside the _____ local expression.",
+      "options": {
+        "A": "ordinary",
+        "B": "optional",
+        "C": "overseas",
+        "D": "original"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "original表示原本的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6b7eea83f437f824c6e3cb65483653f10370258b6ce07cb0c7bc99eaa9c53a3d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The committee invited residents to _____ their memories of the lantern walk.",
+      "options": {
+        "A": "share",
+        "B": "shape",
+        "C": "shake",
+        "D": "shade"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "share memories表示分享记忆。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "04707c7cabd71b78c7b6ab2fc0bbda06518a553795aafaab63f2aed88cb07b74"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The photograph, _____ was donated last month, shows the old market.",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "who"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "非限制性定语从句指物用which。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a1c8a814570dcf088f48bb786f21d7d473a129479bd8e36a21e28f5801499b51"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The archivist asked when the donor _____ the photograph.",
+      "options": {
+        "A": "finds",
+        "B": "had found",
+        "C": "has found",
+        "D": "will find"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "询问之前发现，用过去完成时。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a8eb7278cf55ff06d5145a2b8d2f1718373c2c08eb910583fdeb353ca7f06131"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "We cannot display the interview unless permission _____.",
+      "options": {
+        "A": "will give",
+        "B": "has giving",
+        "C": "is given",
+        "D": "gives"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "unless从句现在时被动表条件。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "12a0aa1e6a7a58865d401ed6b91882aaf2860da3e259a6b5f8885f4554208927"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The guide encouraged visitors _____ what they noticed first.",
+      "options": {
+        "A": "describe",
+        "B": "described",
+        "C": "describing",
+        "D": "to describe"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "encourage sb to do。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f72648b48ed0c68cabd399b98b5420b2d60c4af8d5801e50cb24bd5ab8a7d180"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "There were two accounts, neither of _____ could be confirmed immediately.",
+      "options": {
+        "A": "which",
+        "B": "them",
+        "C": "that",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "介词of后关系代词which。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bd81b4d82679ce9d4f1ff95f7c10cbca6abf6379ac2a4172a5ad67fd914f7bb1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The label was rewritten so that local readers _____ understand it more easily.",
+      "options": {
+        "A": "had",
+        "B": "could",
+        "C": "must have",
+        "D": "should have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "597bd059da1d78f42b7343e3d7dd5b327d2cc96ca222a98a89fba314128a445b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Had the receipt not been found, the exact year _____ uncertain.",
+      "options": {
+        "A": "has remained",
+        "B": "remains",
+        "C": "would have remained",
+        "D": "will remain"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去虚拟主句用would have done。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f9164220c728bdfeda96e85215ea8282a00d969d43f24979f0a4c5a64429cc1c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The curator is interested in _____ ordinary people remember daily life.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "what they",
+        "D": "how"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "how引导方式宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b2ee11affaed5f4315315120e139a117476367bfa33340579b12894524c5f7dc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "It was not until the discussion ended _____ both stories were accepted.",
+      "options": {
+        "A": "that",
+        "B": "when",
+        "C": "which",
+        "D": "who"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "not until强调句用that。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "aefd39e98e277300e1cfc8de0795a5887bf1db219567002a5fd0859f37f2d0f8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The object is believed _____ part of a machine used in the old factory.",
+      "options": {
+        "A": "being",
+        "B": "to have been",
+        "C": "having been",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "is believed to have been表示对过去的看法。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "02ce5dd3ac03fd608d99f6a1813d7ebbb7f1665734b8dc2bb43a95944011f89d"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPublic history becomes richer when people can see where an account comes from. A photograph, a written record and a personal memory may each reveal a different part of an event. They do not always agree. Recording those differences openly allows later readers to ask better questions. An honest explanation of uncertainty can be more valuable than a confident story built on weak evidence.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "准确处理where宾语从句、each的分配意义以及最后的比较。",
+      "referenceAnswer": "当人们能够看到一段叙述的来源时，公共历史就会更加丰富。照片、书面记录和个人记忆可能各自揭示一个事件的不同侧面。它们并不总是一致。公开记录这些差异，可以让后来的读者提出更有价值的问题。诚实地说明不确定性，可能比建立在薄弱证据上的自信叙述更有价值。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "30db7a64ae1c435f3fd4bb0f0b2cb4244526ad3b94357112fcb8a45544ab24cb",
+      "referenceAnswerFingerprint": "bf2a7cf6ab075775f7ff102c75a35708f3f2b0eea01a6700f1635850525e44f6"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English inviting residents to contribute to a local memory project. Explain the kinds of material wanted, how contributors will retain control over personal material, and how to take part.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "涵盖征集范围、材料与受访者控制权及参与渠道。",
+      "sampleAnswer": "Our community archive is collecting memories of everyday life around the old market. We welcome photographs, short written accounts and recorded conversations about shops, work and local celebrations. You do not need to know an exact date; please simply tell us what you remember and what remains uncertain.\nOriginal photographs can be scanned and returned. Before any personal account is displayed, we will explain its intended use and ask for permission. Interview participants may skip questions and will have an opportunity to comment on the transcript.\nTo take part, contact the library desk or attend our collection afternoon next Saturday. Your contribution may help neighbours understand places they pass every day and preserve details that are missing from official records.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "93a51cb820cc864a340191f6f577d8fbe097a5ee53686f6c9979a9a74083cf0a",
+      "sampleAnswerFingerprint": "44a823c8d65c2c25985afa1f4e35bbbb674cb28fd0ebf1f1f60ad2251fd7eace"
+    }
+  ],
+  "fingerprintManifest": [
+    "a92771ed786ca5d44c6e7250275e1e55053a41d5174d04bd7a660d7f3a10fc1c",
+    "e7fa81b7e41d370e0aabc18faa9c90f66ba671100422ecd0009ad8c0b726172b",
+    "c2a0a3c117ae859f5a586d4bfa0e6f8826a039994229383db8e2a09cb0e87e2e",
+    "c6ca5fc14a8880466de65419b8c60db7d41ef2c865c68ca4a9dbaa6e7dd94ac4",
+    "d35ba9d21b1d5a3f24534557c547b6f4b601318dfddfd74a0fafacc50e791b94",
+    "88814698fcbb5645366452b82817a5b3e18f727488e07f2b30a3124f2d051e1a",
+    "cb7484a129182073f3cc4118b50139f7b937f55c44088636fd1c23252d8b5585",
+    "3bda2a4ad404900b0a9e15a17862d8508f93fa55ac2f9348b81d9fcde5fd56ac",
+    "94cfa85cc431eed39285d51252349dc3a5f6ece44b6ab0a6e2d12ed31fccbd9c",
+    "9679c18fef67c4246a269c34447d7ee594832f43f59b26a43b802edf7713dd7c",
+    "ddeda0c5c8c8d8efd1b33a7fe4a3e2121bf6017bc8c15f56136aa9985d9617b4",
+    "c4a8932edc57d324b208f467b0a53581a2ff403a50daddab9e86851a05d3edea",
+    "803cda7f24fc8bfb438086b4e2bffda31ffeb95c500eba63b5d57a3ddf0a1f30",
+    "8f7c8a060a0cfa1f7ac85ef21b92fca088f1b919632233ac415d5169c1b2e728",
+    "6e4f9bf36ac1908ba8d5d560507e314c835b7c877488b3b6295efa1ac2bcef41",
+    "2081f01fb8541c558c3fba110f897c425d58f122fc94a2fa297dcf1c010c1df8",
+    "a932baf8702122cd357424f633a66db94c358964e15a02a49e95d2393cf0a0f0",
+    "03e415489b6e3727579d20a6d0382417874251f7930f00e68ed2dc31c6e09495",
+    "e3d46f887519d2285bb90dcf2d50ac1da6fc260cef449c0840b4fa27f9a95bc4",
+    "a49f4312cb8f673334e0056e192179f98b6a9238dffa02a065cfe26ee17cf6e3",
+    "04987a3c93449a20ca04b2e64b8eda8e437d09c1c2143aa89bf080b7575b2e40",
+    "7d1737eb6b4536a43b40e412d7c2dbacfc48756c077e7a5ba57ea871112d0653",
+    "f38b535776c96ae63dac87f91bbd2c87a9dfac273026cadb885ce209fee98162",
+    "5accab5e6b0c3985e15c60a9fba5417359de16fa6e42fc57eaf49a1bd0b7282a",
+    "a0a6627dd51ea5894675248e2d7b356052b117a5c45c6012113714b3696ba057",
+    "9f69b88a43160660f04e9a96789c39d8533502efa2088e2fefb4d09650c90356",
+    "56a4c4d9c7f55f95c6fe68cdee910fd70028d11f203c42dd261db66779ac38c5",
+    "888b5ac673a905fb37cb167be423b33dba5db7f86c896d4ce02b531f9bc42d87",
+    "b49f90d0b794120ef7746ee18632f82d532a3308aaea90ecebc6eac26baf9c4a",
+    "5c879bdecbbd41660f89a3d72fc8c1c1d79c879bf766a4b166b1fbf6346515f4",
+    "b4f8cc91d45f850cb0334ca6c90146e8b564805b4963e9b4efb59773ad1bc92c",
+    "49daeca855347abe42dca2e75b3870b1182b68c404cf5f8afaf07cda19abae72",
+    "b4fd9672a539dd0688bd8d67cef08e7c6cced454b3af24b2f3b14986aa7d9f98",
+    "31949e594ad9dcec110489710d88bf1591a00938f3462dd764714cd2df7ccf72",
+    "8142609953cc6e8df1840a05d3506798b2474fa346bdccacf4919868be92e42f",
+    "00b5aece0dffb17e95453427c7f38b619db1ea5a558fa128d08bc1d9d61a28cc",
+    "4194197f5ef7d91c6913de15f0a33a59d08eedf8fb9cce87ef0d27ebf14dbe2a",
+    "2181a6c370233b8350a5b78f08126a802ee2e809d44fdb419eedc05a9e7b4c22",
+    "f4458ee144486fcf06804e985b682aede1baeeef585aaa0764053d1fdea5491e",
+    "283d16d3dd81e315d40243595e8073cca41247fed94529497fbbecb7bb649eaa",
+    "e4e81947273bcd65510c47d45b72296aa570a0cb46d4023123390e13872d8e1b",
+    "7ebdc76d16b06838e285bee3a01e220f25c8d645235960e82184a95d962d3de2",
+    "19508ced22c1cd5223dc35623c5cc23fc29fbc1433ef1114ddc51fc4b817bec4",
+    "b9fb0285ce9ddbf88f1d7c04d8af34b40e442f14bf196fe4db51d96bc83304d1",
+    "ea5d37fe091feb4489171387e9388bc4ffcbb0ee2518487747c5e62d4f5597c2",
+    "6b7eea83f437f824c6e3cb65483653f10370258b6ce07cb0c7bc99eaa9c53a3d",
+    "04707c7cabd71b78c7b6ab2fc0bbda06518a553795aafaab63f2aed88cb07b74",
+    "a1c8a814570dcf088f48bb786f21d7d473a129479bd8e36a21e28f5801499b51",
+    "a8eb7278cf55ff06d5145a2b8d2f1718373c2c08eb910583fdeb353ca7f06131",
+    "12a0aa1e6a7a58865d401ed6b91882aaf2860da3e259a6b5f8885f4554208927",
+    "f72648b48ed0c68cabd399b98b5420b2d60c4af8d5801e50cb24bd5ab8a7d180",
+    "bd81b4d82679ce9d4f1ff95f7c10cbca6abf6379ac2a4172a5ad67fd914f7bb1",
+    "597bd059da1d78f42b7343e3d7dd5b327d2cc96ca222a98a89fba314128a445b",
+    "f9164220c728bdfeda96e85215ea8282a00d969d43f24979f0a4c5a64429cc1c",
+    "b2ee11affaed5f4315315120e139a117476367bfa33340579b12894524c5f7dc",
+    "aefd39e98e277300e1cfc8de0795a5887bf1db219567002a5fd0859f37f2d0f8",
+    "02ce5dd3ac03fd608d99f6a1813d7ebbb7f1665734b8dc2bb43a95944011f89d",
+    "30db7a64ae1c435f3fd4bb0f0b2cb4244526ad3b94357112fcb8a45544ab24cb",
+    "bf2a7cf6ab075775f7ff102c75a35708f3f2b0eea01a6700f1635850525e44f6",
+    "93a51cb820cc864a340191f6f577d8fbe097a5ee53686f6c9979a9a74083cf0a",
+    "44a823c8d65c2c25985afa1f4e35bbbb674cb28fd0ebf1f1f60ad2251fd7eace"
+  ],
+  "contentFingerprint": "b6dce8a9e7ad5cb649e7d69b445028f2fecc4670f9c60e25a25448e70097e071"
+}

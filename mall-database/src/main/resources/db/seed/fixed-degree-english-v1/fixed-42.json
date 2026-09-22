@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-42",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 42 · 科学观察与信息判断",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习，所有人物、机构和情境均为虚构，不是官方历年真题，未复制第三方题库。仅用于成人学士学位英语学习。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 42,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining a moth count",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I have never identified moths. Can I join Saturday's count?\nStaff: (1) _____\nVisitor: What should I bring to the session?\nStaff: (2) _____\nVisitor: Will we stay outdoors if there is heavy rain?\nStaff: (3) _____\nVisitor: Where can I find the results afterwards?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "No, the organiser will announce a new date.",
+        "B": "A summary will appear on the group's public page.",
+        "C": "Yes, beginners will work with an experienced volunteer.",
+        "D": "A notebook and a torch will be useful."
+      },
+      "difficulty": 2,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "51a93a2590a0901f1e41b38e5debfde96dd356d7faecb6f0b41b4731d283e344",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Joining a moth count\".",
+          "options": {
+            "A": "No, the organiser will announce a new date.",
+            "B": "A summary will appear on the group's public page.",
+            "C": "Yes, beginners will work with an experienced volunteer.",
+            "D": "A notebook and a torch will be useful."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "欢迎初学者并提供协助。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3b560188d8f4cb5f1e236939935a801c18ad6e2a2d6e529fc36d660c9d9f41e4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Joining a moth count\".",
+          "options": {
+            "A": "No, the organiser will announce a new date.",
+            "B": "A summary will appear on the group's public page.",
+            "C": "Yes, beginners will work with an experienced volunteer.",
+            "D": "A notebook and a torch will be useful."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明携带用品。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "aad943d194ec1f633ce6792c1fca839ce06e99c9409687e8b099ecd59a2f5cf8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Joining a moth count\".",
+          "options": {
+            "A": "No, the organiser will announce a new date.",
+            "B": "A summary will appear on the group's public page.",
+            "C": "Yes, beginners will work with an experienced volunteer.",
+            "D": "A notebook and a torch will be useful."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "回应恶劣天气安排。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "861124c00033adc256999eafe59cb4e4677107fb4bb84315460ecb0509e05825"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Complete blank (4) in the conversation \"Joining a moth count\".",
+          "options": {
+            "A": "No, the organiser will announce a new date.",
+            "B": "A summary will appear on the group's public page.",
+            "C": "Yes, beginners will work with an experienced volunteer.",
+            "D": "A notebook and a torch will be useful."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明结果发布地点。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "dd9f37ff5ab75304df38df2bd20250ce1b29ce857b58323997890be8fa2d5121"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Correcting a temperature entry",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: I wrote twenty-six instead of sixteen on the observation sheet.\nStaff: (1) _____\nVisitor: Should I erase the original number?\nStaff: (2) _____\nVisitor: Do I need to explain the correction?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "Cross it out once so the original is still readable.",
+        "B": "Yes, add a short note with today's date.",
+        "C": "The museum closes at five on Sundays.",
+        "D": "Please correct the entry before the sheet is collected."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "c96acfba04277415a5d1742840a853e345db1c6596ee5bec17d9f35213aef66d",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Correcting a temperature entry\".",
+          "options": {
+            "A": "Cross it out once so the original is still readable.",
+            "B": "Yes, add a short note with today's date.",
+            "C": "The museum closes at five on Sundays.",
+            "D": "Please correct the entry before the sheet is collected."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "要求收表前更正数据。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8b8238f49109329a6123ae31d50998f4511e4a674ff8841e3118240cb7f258e1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Correcting a temperature entry\".",
+          "options": {
+            "A": "Cross it out once so the original is still readable.",
+            "B": "Yes, add a short note with today's date.",
+            "C": "The museum closes at five on Sundays.",
+            "D": "Please correct the entry before the sheet is collected."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "保留原始记录便于追溯。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "e77a17c1ed094d05ae94eb084e9c9d2d9f749482b082d8e490f75aa85be6eabe"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Correcting a temperature entry\".",
+          "options": {
+            "A": "Cross it out once so the original is still readable.",
+            "B": "Yes, add a short note with today's date.",
+            "C": "The museum closes at five on Sundays.",
+            "D": "Please correct the entry before the sheet is collected."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明更正备注要求。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "c63d92aa7843de298066ddb40ce4391a12df121ccc9276f1ddf72e48972f79f9"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Asking about a survey chart",
+      "instruction": "Choose the best response for each numbered blank. Each option may be used once; there may be one extra option.",
+      "content": "Visitor: This chart shows more cycling, but I cannot see the survey dates.\nStaff: (1) _____\nVisitor: Does that mean we should reject the chart completely?\nStaff: (2) _____\nVisitor: Could you help me find the full report?\nStaff: (3) _____",
+      "sharedOptions": {
+        "A": "The dates may be in the note below the figure.",
+        "B": "We should check the missing context before deciding.",
+        "C": "Certainly; the publisher's name is printed in the corner.",
+        "D": "Please return the bicycle to the east gate."
+      },
+      "difficulty": 4,
+      "knowledgePoints": [
+        "日常交际：请求、回应与语境衔接"
+      ],
+      "contentFingerprint": "c6dc75d326e0243c05567b50f2e20f835f2b6d6c92efe1517920f4ca3b0aa1bb",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "Complete blank (1) in the conversation \"Asking about a survey chart\".",
+          "options": {
+            "A": "The dates may be in the note below the figure.",
+            "B": "We should check the missing context before deciding.",
+            "C": "Certainly; the publisher's name is printed in the corner.",
+            "D": "Please return the bicycle to the east gate."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "指引查找调查日期。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b5b2a87f73b75a0544e16d4b24cba254f90078cd73c356af8c8aad3a6915211e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "Complete blank (2) in the conversation \"Asking about a survey chart\".",
+          "options": {
+            "A": "The dates may be in the note below the figure.",
+            "B": "We should check the missing context before deciding.",
+            "C": "Certainly; the publisher's name is printed in the corner.",
+            "D": "Please return the bicycle to the east gate."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "先核实语境再判断。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4f3518cc56a2ef1f00cc399b449032e8d5a66ff697002d4dcebdd5662331353e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "Complete blank (3) in the conversation \"Asking about a survey chart\".",
+          "options": {
+            "A": "The dates may be in the note below the figure.",
+            "B": "We should check the missing context before deciding.",
+            "C": "Certainly; the publisher's name is printed in the corner.",
+            "D": "Please return the bicycle to the east gate."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "提供查找报告的线索。",
+          "knowledgePoints": [
+            "日常交际：语境衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8ef2485c0a68fc2c4353ebff96e30bf95923e5bd934312116e30eba5c5cf1fee"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Recording birds without counting twice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Volunteers at Brook Marsh wanted to record the birds visiting a small pond. During the first morning, several people counted the same birds from different paths. Adding all their numbers gave an impressive but misleading total. The coordinator divided the area into zones and gave each pair a fixed observation period. Birds crossing between zones were noted separately. The new total was smaller, yet more useful for comparison with later mornings. Volunteers also recorded rain and visibility. They learned that a careful method matters more than producing the largest possible number.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "240a43940689f2903fbcd199f42ec3bab62c1dfd7a3e564c7328b25fd7bc8487",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "stem": "Recording birds without counting twice: Why was the first total misleading?",
+          "options": {
+            "A": "Volunteers deliberately invented species.",
+            "B": "Some birds were counted more than once.",
+            "C": "Only night birds were recorded.",
+            "D": "The pond had no walking paths."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "多条路径重复计数造成偏高。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "63c6bc76074d90d30857f739228f4f2a3d65da1b65bd083735c59eeef60ba266"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "stem": "Recording birds without counting twice: What did each pair receive?",
+          "options": {
+            "A": "A payment for each sighting.",
+            "B": "A list of guaranteed results.",
+            "C": "A zone and an observation period.",
+            "D": "A photograph of every bird."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "新方案分配区域和时间。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "b9e017f7eac2b91d7f36a8e2e37aa51f672e864391679aaa4f481fff336d38e5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "stem": "Recording birds without counting twice: How were birds moving between zones handled?",
+          "options": {
+            "A": "They were always counted twice.",
+            "B": "They were removed from the pond.",
+            "C": "They were photographed but never recorded.",
+            "D": "They were noted separately."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "跨区鸟另行记录。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "29739bc69607c7c8af8cd8d44f3e04b2b79839cec9b2b9bb93f8df7469f1ed3c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "stem": "Recording birds without counting twice: Why could the smaller total be better?",
+          "options": {
+            "A": "It came from a more consistent method.",
+            "B": "It was easier to print in large letters.",
+            "C": "It excluded every unusual species.",
+            "D": "It pleased all the volunteers."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "方法一致更适于比较。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "f1c15180837d3a98ae7ddef01469286a790b7368245cd5a29106798481d8cbb7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "stem": "Recording birds without counting twice: What additional conditions were recorded?",
+          "options": {
+            "A": "The volunteers' examination scores.",
+            "B": "Rain and visibility.",
+            "C": "Ticket prices and sales.",
+            "D": "Bus speeds and fuel use."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "天气与能见度影响观察。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "49c3ef88b0d62e37890a0f8dcc7fe0ff0a1d57c0fc36e11ee8f71e35c5faa24f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A headline and its missing comparison",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local newsletter announced that complaints about a new bus route had doubled. The headline worried many residents. The full report showed that complaints had risen from two to four during the first month, while passenger numbers had increased from five hundred to fifteen hundred. Both facts mattered. A rise in complaints deserved attention, but the headline alone exaggerated the scale of the problem. At a public meeting, the editor agreed to include actual numbers beside percentages. Residents could then discuss the service using information that was easier to interpret.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "3d8aa98a13c99709d717056f3ece6935503334c62ab67d5db1d0ad1f584e718b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "stem": "A headline and its missing comparison: How many complaints were made in the later period?",
+          "options": {
+            "A": "Five hundred.",
+            "B": "Fifteen hundred.",
+            "C": "Four.",
+            "D": "Two."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "全文给出从二到四。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "df6a9266324b8c2fb0d238551e40406818d8eac2278d9e9e84ccbeb7d6a6f232"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "stem": "A headline and its missing comparison: What also increased?",
+          "options": {
+            "A": "The length of each complaint.",
+            "B": "The price of the newsletter.",
+            "C": "The number of public meetings.",
+            "D": "Passenger numbers."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "乘客人数同时增加。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "582779230a7b51da741aa8046db0d2090b4efabe7c8a933cad1f29eb9e6a4efc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "stem": "A headline and its missing comparison: What was wrong with relying on the headline?",
+          "options": {
+            "A": "It lacked the numbers needed to judge scale.",
+            "B": "It falsely said complaints had increased.",
+            "C": "It contained too much background.",
+            "D": "It compared two different countries."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "翻倍属实但缺基数会夸大规模。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "64f16bdc150ddf613a84e5a4f30af6b307df691f75e7cc1f2d9dbbc927cb90e0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "stem": "A headline and its missing comparison: What did the editor agree to publish?",
+          "options": {
+            "A": "No further transport reports.",
+            "B": "Actual numbers alongside percentages.",
+            "C": "Only positive comments.",
+            "D": "Names of every complainant."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "同时呈现实际数量和百分比。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "da225966bd5b1aff416883926611997428c4b71a5d1d0cc4617fba8eacfe60cf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "stem": "A headline and its missing comparison: What is the author's attitude to complaints?",
+          "options": {
+            "A": "They prove the route must close.",
+            "B": "They are useful only when anonymous.",
+            "C": "They matter but should be interpreted in context.",
+            "D": "They should always be ignored."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "作者兼顾投诉意义及背景。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "a1180b437cd3159c17bcf26eb9d0dfc9b2d1041959f8f55e6059f0bf32800381"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Why the wet path stayed in the study",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Students tested how quickly water disappeared from three garden surfaces after rain. One path remained wet much longer than the others. A student suggested removing that result because it did not fit the expected pattern. Their teacher asked them to inspect the path instead. They found a blocked drain beside it and added this observation to their report. The class did not claim that the surface alone caused the slow drainage. Keeping the unusual result helped them discover another factor. The final report described the limitation and suggested repeating the comparison after the drain was cleared.",
+      "difficulty": 4,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "e6c3f62a1b5db91c079b414d06a670cd1cfb9c1bc530f30fac3feba9a1e722cd",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "stem": "Why the wet path stayed in the study: What were the students comparing?",
+          "options": {
+            "A": "How many people used each gate.",
+            "B": "How much paint paths needed.",
+            "C": "How fast plants grew indoors.",
+            "D": "How quickly garden surfaces dried."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "实验观察雨后不同地面消水速度。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d5aa89e1558e7c59e124d2ae1ad4dd0bb7271fe28ad045b9d31bb3f5f0097faf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "stem": "Why the wet path stayed in the study: Why did one student want to remove a result?",
+          "options": {
+            "A": "It differed from the expected pattern.",
+            "B": "It contained no measurement.",
+            "C": "It belonged to another school.",
+            "D": "It had been recorded before rain."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "异常结果不符合预期。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "bbc150e505dc29c0f1681e1d61bb548fa086ce32ad1ee68344eb5b3c8bd7ea24"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "stem": "Why the wet path stayed in the study: What did inspection reveal?",
+          "options": {
+            "A": "A missing garden fence.",
+            "B": "A blocked drain.",
+            "C": "A broken thermometer.",
+            "D": "An underground classroom."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "找到堵塞的排水口。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "3ec334640904ed3aeee6c117651eb22eaaef07a427a5f7323bbf4b5258d0dd36"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "stem": "Why the wet path stayed in the study: What could the class reasonably conclude?",
+          "options": {
+            "A": "Unexpected results are always mistakes.",
+            "B": "Repeating the comparison was impossible.",
+            "C": "The drain may have affected the comparison.",
+            "D": "The surface alone caused every difference."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "另一变量使因果结论需谨慎。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "6af6d2d216ece6db19c3aa60c77d0cd03077be5efc6270bf53b3037c300c52d6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "stem": "Why the wet path stayed in the study: Why repeat the study after clearing the drain?",
+          "options": {
+            "A": "To guarantee the teacher's favourite result.",
+            "B": "To avoid recording measurements.",
+            "C": "To reduce the number of students.",
+            "D": "To compare surfaces with that problem removed."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "消除该影响因素再比较。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "2ba9fa25b01356f3cc9e06dd305262bea46ea60ca96d79e00686692e0e17f40e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The photograph behind a weather claim",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A striking photograph of a dry river spread through a neighbourhood chat group. The caption claimed it showed conditions that week. Before forwarding it, Laila searched for the photographer's original page. The same image had appeared three years earlier, during repairs to a nearby water gate. This did not prove that the current river level was normal. It showed only that the photograph could not support the current claim. Laila shared the original date and suggested checking the local monitoring report. Several neighbours thanked her for correcting the evidence without dismissing their concern about water supplies.",
+      "difficulty": 2,
+      "knowledgePoints": [
+        "阅读理解：篇章结构与信息判断"
+      ],
+      "contentFingerprint": "76763e20e5f63741f33dbddd3cc570ae6f0cf8d28713f99d8122c627d69008a2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "stem": "The photograph behind a weather claim: What did the caption claim?",
+          "options": {
+            "A": "The photograph showed that week's conditions.",
+            "B": "The image was three years old.",
+            "C": "The photographer repaired the gate.",
+            "D": "The river had never carried water."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "图注声称是当周情况。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 1,
+          "contentFingerprint": "d1c3d0d9e82946c4d5560acc7aa84df5ebf7851cb99304be46d8fd648e5c0660"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "stem": "The photograph behind a weather claim: Where did Laila look for context?",
+          "options": {
+            "A": "An unrelated holiday brochure.",
+            "B": "The photographer's original page.",
+            "C": "A shop's price list.",
+            "D": "Her school timetable."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "她查原作者页面。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 2,
+          "contentFingerprint": "e659c58dd04eeb06fa1bb0e48cb174bbc4f7f8b72fe909fd59c90cc591655767"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "stem": "The photograph behind a weather claim: Why had the river been dry in the image?",
+          "options": {
+            "A": "A bridge had just opened.",
+            "B": "The river was always dry in summer.",
+            "C": "A nearby water gate was being repaired.",
+            "D": "Every resident had left the town."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "旧图源于水闸维修。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "groupSortOrder": 3,
+          "contentFingerprint": "722172cfac923970dae51e52a18d549e006e3f31233b5e0240f7aa73f6279311"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "stem": "The photograph behind a weather claim: What did her discovery establish?",
+          "options": {
+            "A": "The present river level was certainly normal.",
+            "B": "Water shortages were impossible.",
+            "C": "All photographs in the group were false.",
+            "D": "The photograph did not support the current claim."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "仅否定此证据对当前说法的支持。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "groupSortOrder": 4,
+          "contentFingerprint": "0b05925d61a6292cdec2aec3be2b76183573aeadabed608cf0123cf23c9d3164"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "stem": "The photograph behind a weather claim: How did she respond to neighbours' concern?",
+          "options": {
+            "A": "She suggested checking relevant monitoring information.",
+            "B": "She refused to discuss water supplies.",
+            "C": "She asked everyone to delete their accounts.",
+            "D": "She replaced the date with a guessed one."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供合适的信息来源。",
+          "knowledgePoints": [
+            "阅读理解：细节、主旨与推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "groupSortOrder": 5,
+          "contentFingerprint": "2091686e4f0a2725387c738d08640b11de9a04b5655a4e638c785aa6aa176919"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The bird survey uses a _____ method so results from different mornings can be compared.",
+      "options": {
+        "A": "fragile",
+        "B": "nervous",
+        "C": "consistent",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "consistent表示一致的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7d20e70d80f898ecef7481c51f550a935a6905e1e4d38069926cd0290a720c00"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A percentage without its base number can give a _____ impression.",
+      "options": {
+        "A": "generous",
+        "B": "loyal",
+        "C": "peaceful",
+        "D": "misleading"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "misleading表示误导性的。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8dfcf86714c814f1a642dc23d32b2ef08c9b7c1c32aa8a03b989e42d6116616f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Please _____ the observation time beside each temperature reading.",
+      "options": {
+        "A": "record",
+        "B": "rescue",
+        "C": "release",
+        "D": "retire"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "record意为记录。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ff39856af0a0ce7f6f3063b89b59963191a083b5253c1a7e9124b3d06a5d7873"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The teacher asked for _____ before accepting the explanation of the wet path.",
+      "options": {
+        "A": "entertainment",
+        "B": "evidence",
+        "C": "furniture",
+        "D": "permission"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a0af34dfae00ca0c62b55ec0c831c9241de9c460d7377117d5069188c615935c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The old photograph was no longer _____ to that week's river conditions.",
+      "options": {
+        "A": "steady",
+        "B": "wealthy",
+        "C": "relevant",
+        "D": "polite"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "relevant to表示与……相关。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "92110e65ec0e5cb5d93eaaecab3fd4cd3ba9ee917ca13736f2f6d7d04d63ca9c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Volunteers will _____ the marsh into zones for the morning count.",
+      "options": {
+        "A": "invite",
+        "B": "combine",
+        "C": "praise",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "divide into表示划分。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a76e90198841e27709b5ad3c673f6d9e67988afb24e7c8936df5b802c5aede4f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The report explains a _____ that may have influenced the drainage results.",
+      "options": {
+        "A": "factor",
+        "B": "harbour",
+        "C": "label",
+        "D": "reward"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "factor表示影响因素。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6187c070989f8b85093f59cb0cb3054d7c92ab3c3ad2de7895a189b76b00a787"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "We should _____ the date of the image before sharing it widely.",
+      "options": {
+        "A": "decorate",
+        "B": "confirm",
+        "C": "celebrate",
+        "D": "deliver"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "confirm表示核实。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5724fcbbbf785633e2909edb5315f04ce1ff7ee77a1e4156137e066029757825"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "A blocked drain prevented the rainwater from _____ away.",
+      "options": {
+        "A": "burning",
+        "B": "shining",
+        "C": "flowing",
+        "D": "bending"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "水流走用flow。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cd40cb68a2883c02846f9778bbc5d4a362c1b851e77f0800739ac418504289b5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The unexpected measurement encouraged the class to _____ further.",
+      "options": {
+        "A": "interrupt",
+        "B": "introduce",
+        "C": "imitate",
+        "D": "investigate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "investigate表示调查研究。",
+      "knowledgePoints": [
+        "词汇：语境与搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b9b8359603fe208a47659897b2d9dd96488ae0628451647e27b4bf83725f0c05"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The report _____ by the volunteers yesterday includes the weather conditions.",
+      "options": {
+        "A": "preparing",
+        "B": "prepares",
+        "C": "to preparing",
+        "D": "prepared"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语，表示被整理。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "28a308ff64c6cae97957da11645773b8a57794edceb3a5c535237aa04b7102da"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The number of complaints _____ small, although it doubled last month.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "have been",
+        "D": "are being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the number of作主语用单数。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "42dd31b2373b8f6d290b7f34c0cc6e19e722eb818378a17a471fe0e9e9e34fd8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The teacher insisted that every unusual result _____ in the report.",
+      "options": {
+        "A": "includes",
+        "B": "be included",
+        "C": "is included",
+        "D": "was including"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "insist表示要求，从句用should省略后的动词原形被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2fd6c597c6dfd54ef1172c824d5e9e696961e890ec9597a825ec6d337e578f5b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "This is the photograph _____ original date caused the discussion.",
+      "options": {
+        "A": "who",
+        "B": "where",
+        "C": "whose",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "whose表示照片与日期的所属关系。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b0749097c1118bd4862bf43f9818ec35e8b3d54cb027c973b1a07e16caca94fd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "If Laila had forwarded the image immediately, she _____ the incorrect claim.",
+      "options": {
+        "A": "will spread",
+        "B": "spreads",
+        "C": "had spread",
+        "D": "would have spread"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去虚拟条件句主句用would have done。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1c530839b3d5d62f750bb6d0098115ac3d8741a4c6012d3e0007810f4b59e1e6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The birds were easier to see after the fog _____.",
+      "options": {
+        "A": "had lifted",
+        "B": "has lifted",
+        "C": "will lift",
+        "D": "is lifting"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去观察前雾已散，用过去完成时。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9a5bedf3c0155bc305235ea56d2e2d86c3ef108a3f99929f0896ef5901f8ac37"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "We do not know _____ the damaged drain will be repaired.",
+      "options": {
+        "A": "what",
+        "B": "when",
+        "C": "that",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "when引导时间未知的宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "887f4e59dbc7a4c9f7c396ac3002c5b01c7116c8239a5e8afdcbeddb3185041f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The data must be compared as carefully _____ possible.",
+      "options": {
+        "A": "so",
+        "B": "to",
+        "C": "as",
+        "D": "than"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "as ... as possible固定结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c29c509f6fa554d9579bdbc2a93e5a4092704d1102f631aba69ad8a45b58fcd7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Not until the original page was found _____ the date of the image.",
+      "options": {
+        "A": "we learned",
+        "B": "we had learned",
+        "C": "had learned we",
+        "D": "did we learn"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "not until前置，主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f9629f969675bfd20a0b10277fc51b3c063a8bef12adb6a8c551463527e5734f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "By this time next week, the team _____ all three garden paths.",
+      "options": {
+        "A": "will have measured",
+        "B": "has measured",
+        "C": "measured",
+        "D": "had measured"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "将来指定时点前完成用将来完成时。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "69f9b027a6e3ff181539f0037ba601659566942d405cab96ff16c931804b5acb"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nAn unusual result is not always a useless result. It may reveal something that the original plan failed to consider. Before removing information from a report, researchers should ask why it differs from the rest. Explaining uncertainty honestly does not weaken a careful study. It helps readers understand what the evidence can show and what still needs to be investigated.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义准确与中文表达"
+      ],
+      "explanation": "注意not always部分否定、what引导的宾语从句和needs to be investigated的被动意义。",
+      "referenceAnswer": "异常结果并不总是毫无用处。它可能揭示原计划未能考虑到的情况。在从报告中删去信息之前，研究人员应当问一问，它为什么与其他结果不同。诚实地说明不确定性并不会削弱一项严谨研究的价值。这样做有助于读者理解证据能够说明什么，以及哪些问题仍需进一步调查。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、条件和因果，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、指代、时态及句间关系处理正确。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，符合段落逻辑。"
+          }
+        ]
+      },
+      "contentFingerprint": "fb078b763fe19444711e1921b44898849b174079a094bf4fde2328c2988cae3f",
+      "referenceAnswerFingerprint": "f401776ae3104c406ff639adc957a4d5383ca53fa667ef3731b22b30735d49c1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write 100–150 words in English for a community newsletter about checking information before sharing it. Describe a possible misleading message, explain two checks readers can make, and encourage responsible discussion.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务完成、组织与语言"
+      ],
+      "explanation": "包含误导消息示例、两项可操作核实步骤和负责任讨论建议。",
+      "sampleAnswer": "A dramatic message can spread quickly through a community group, especially when it concerns transport or water supplies. For example, an old photograph may be presented as evidence of a problem happening today.\nBefore sharing such a message, first look for the original source and publication date. A recent caption does not mean that the photograph itself is recent. Second, compare the claim with relevant reports from people or organisations that actually measure the conditions. If reliable information is unavailable, say that the claim remains uncertain.\nChecking information does not mean ignoring a neighbour's concern. We can take the concern seriously while asking for better evidence. By explaining corrections politely and sharing useful sources, we can make local discussions more helpful for everyone.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖题目要求，理由具体，内容相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清晰，衔接自然，有合适的开头和结尾。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "语法和词汇基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "bede7950bdd649f168148f935f2370bdce02ece3380973b550bcdf096626ed46",
+      "sampleAnswerFingerprint": "b6ca791faee6cd6e3a6a3dcebf2b72521457d55819346315c3f074e8fc5e27f8"
+    }
+  ],
+  "fingerprintManifest": [
+    "51a93a2590a0901f1e41b38e5debfde96dd356d7faecb6f0b41b4731d283e344",
+    "3b560188d8f4cb5f1e236939935a801c18ad6e2a2d6e529fc36d660c9d9f41e4",
+    "aad943d194ec1f633ce6792c1fca839ce06e99c9409687e8b099ecd59a2f5cf8",
+    "861124c00033adc256999eafe59cb4e4677107fb4bb84315460ecb0509e05825",
+    "dd9f37ff5ab75304df38df2bd20250ce1b29ce857b58323997890be8fa2d5121",
+    "c96acfba04277415a5d1742840a853e345db1c6596ee5bec17d9f35213aef66d",
+    "8b8238f49109329a6123ae31d50998f4511e4a674ff8841e3118240cb7f258e1",
+    "e77a17c1ed094d05ae94eb084e9c9d2d9f749482b082d8e490f75aa85be6eabe",
+    "c63d92aa7843de298066ddb40ce4391a12df121ccc9276f1ddf72e48972f79f9",
+    "c6dc75d326e0243c05567b50f2e20f835f2b6d6c92efe1517920f4ca3b0aa1bb",
+    "b5b2a87f73b75a0544e16d4b24cba254f90078cd73c356af8c8aad3a6915211e",
+    "4f3518cc56a2ef1f00cc399b449032e8d5a66ff697002d4dcebdd5662331353e",
+    "8ef2485c0a68fc2c4353ebff96e30bf95923e5bd934312116e30eba5c5cf1fee",
+    "240a43940689f2903fbcd199f42ec3bab62c1dfd7a3e564c7328b25fd7bc8487",
+    "63c6bc76074d90d30857f739228f4f2a3d65da1b65bd083735c59eeef60ba266",
+    "b9e017f7eac2b91d7f36a8e2e37aa51f672e864391679aaa4f481fff336d38e5",
+    "29739bc69607c7c8af8cd8d44f3e04b2b79839cec9b2b9bb93f8df7469f1ed3c",
+    "f1c15180837d3a98ae7ddef01469286a790b7368245cd5a29106798481d8cbb7",
+    "49c3ef88b0d62e37890a0f8dcc7fe0ff0a1d57c0fc36e11ee8f71e35c5faa24f",
+    "3d8aa98a13c99709d717056f3ece6935503334c62ab67d5db1d0ad1f584e718b",
+    "df6a9266324b8c2fb0d238551e40406818d8eac2278d9e9e84ccbeb7d6a6f232",
+    "582779230a7b51da741aa8046db0d2090b4efabe7c8a933cad1f29eb9e6a4efc",
+    "64f16bdc150ddf613a84e5a4f30af6b307df691f75e7cc1f2d9dbbc927cb90e0",
+    "da225966bd5b1aff416883926611997428c4b71a5d1d0cc4617fba8eacfe60cf",
+    "a1180b437cd3159c17bcf26eb9d0dfc9b2d1041959f8f55e6059f0bf32800381",
+    "e6c3f62a1b5db91c079b414d06a670cd1cfb9c1bc530f30fac3feba9a1e722cd",
+    "d5aa89e1558e7c59e124d2ae1ad4dd0bb7271fe28ad045b9d31bb3f5f0097faf",
+    "bbc150e505dc29c0f1681e1d61bb548fa086ce32ad1ee68344eb5b3c8bd7ea24",
+    "3ec334640904ed3aeee6c117651eb22eaaef07a427a5f7323bbf4b5258d0dd36",
+    "6af6d2d216ece6db19c3aa60c77d0cd03077be5efc6270bf53b3037c300c52d6",
+    "2ba9fa25b01356f3cc9e06dd305262bea46ea60ca96d79e00686692e0e17f40e",
+    "76763e20e5f63741f33dbddd3cc570ae6f0cf8d28713f99d8122c627d69008a2",
+    "d1c3d0d9e82946c4d5560acc7aa84df5ebf7851cb99304be46d8fd648e5c0660",
+    "e659c58dd04eeb06fa1bb0e48cb174bbc4f7f8b72fe909fd59c90cc591655767",
+    "722172cfac923970dae51e52a18d549e006e3f31233b5e0240f7aa73f6279311",
+    "0b05925d61a6292cdec2aec3be2b76183573aeadabed608cf0123cf23c9d3164",
+    "2091686e4f0a2725387c738d08640b11de9a04b5655a4e638c785aa6aa176919",
+    "7d20e70d80f898ecef7481c51f550a935a6905e1e4d38069926cd0290a720c00",
+    "8dfcf86714c814f1a642dc23d32b2ef08c9b7c1c32aa8a03b989e42d6116616f",
+    "ff39856af0a0ce7f6f3063b89b59963191a083b5253c1a7e9124b3d06a5d7873",
+    "a0af34dfae00ca0c62b55ec0c831c9241de9c460d7377117d5069188c615935c",
+    "92110e65ec0e5cb5d93eaaecab3fd4cd3ba9ee917ca13736f2f6d7d04d63ca9c",
+    "a76e90198841e27709b5ad3c673f6d9e67988afb24e7c8936df5b802c5aede4f",
+    "6187c070989f8b85093f59cb0cb3054d7c92ab3c3ad2de7895a189b76b00a787",
+    "5724fcbbbf785633e2909edb5315f04ce1ff7ee77a1e4156137e066029757825",
+    "cd40cb68a2883c02846f9778bbc5d4a362c1b851e77f0800739ac418504289b5",
+    "b9b8359603fe208a47659897b2d9dd96488ae0628451647e27b4bf83725f0c05",
+    "28a308ff64c6cae97957da11645773b8a57794edceb3a5c535237aa04b7102da",
+    "42dd31b2373b8f6d290b7f34c0cc6e19e722eb818378a17a471fe0e9e9e34fd8",
+    "2fd6c597c6dfd54ef1172c824d5e9e696961e890ec9597a825ec6d337e578f5b",
+    "b0749097c1118bd4862bf43f9818ec35e8b3d54cb027c973b1a07e16caca94fd",
+    "1c530839b3d5d62f750bb6d0098115ac3d8741a4c6012d3e0007810f4b59e1e6",
+    "9a5bedf3c0155bc305235ea56d2e2d86c3ef108a3f99929f0896ef5901f8ac37",
+    "887f4e59dbc7a4c9f7c396ac3002c5b01c7116c8239a5e8afdcbeddb3185041f",
+    "c29c509f6fa554d9579bdbc2a93e5a4092704d1102f631aba69ad8a45b58fcd7",
+    "f9629f969675bfd20a0b10277fc51b3c063a8bef12adb6a8c551463527e5734f",
+    "69f9b027a6e3ff181539f0037ba601659566942d405cab96ff16c931804b5acb",
+    "fb078b763fe19444711e1921b44898849b174079a094bf4fde2328c2988cae3f",
+    "f401776ae3104c406ff639adc957a4d5383ca53fa667ef3731b22b30735d49c1",
+    "bede7950bdd649f168148f935f2370bdce02ece3380973b550bcdf096626ed46",
+    "b6ca791faee6cd6e3a6a3dcebf2b72521457d55819346315c3f074e8fc5e27f8"
+  ],
+  "contentFingerprint": "56cb422b3dfb32026a9324329e3916675e23bf1b3fd5b9f6ac87b307e0af0a90"
+}
