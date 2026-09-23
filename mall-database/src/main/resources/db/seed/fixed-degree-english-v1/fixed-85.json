@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-85",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 85 · 地方历史与档案",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 85,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to dating an old street photograph",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about dating an old street photograph. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the archive education team that you plan to attend.",
+        "C": "Yes, signs will lead you from the archive reading desk.",
+        "D": "Certainly. Send your question to the archive education team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "5aabc91e85040c1ed3be974797150c8573a06755e529fc3f8ff7c9a134d17a81",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to dating an old street photograph”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the archive education team that you plan to attend.",
+            "C": "Yes, signs will lead you from the archive reading desk.",
+            "D": "Certainly. Send your question to the archive education team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3dab77f5f943da26d4ae30e2cd1341358f7cd37b378a5d5f826635bbcf426656"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to dating an old street photograph”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the archive education team that you plan to attend.",
+            "C": "Yes, signs will lead you from the archive reading desk.",
+            "D": "Certainly. Send your question to the archive education team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "40570c85476e510709ba0e1af52a8a37c4a5fc8d8f61b2645af29a29076c2538"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to dating an old street photograph”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the archive education team that you plan to attend.",
+            "C": "Yes, signs will lead you from the archive reading desk.",
+            "D": "Certainly. Send your question to the archive education team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "892c1209b6a3edb7b0a157bfcff7451bd581f2944623da76841902af0fa22091"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to dating an old street photograph”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the archive education team that you plan to attend.",
+            "C": "Yes, signs will lead you from the archive reading desk.",
+            "D": "Certainly. Send your question to the archive education team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c02adc0ae57c0c7e3b1acbd9873f867b94303058e700af75de18de6d001d2a8a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying recording memories of a factory",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about recording memories of a factory is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the archive reading desk.",
+        "D": "Please send it to the archive education team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "e08a379e4b4eff5c06d48b41990e3b9abff96b936f42716d100f645a7ffab36b",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying recording memories of a factory”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the archive reading desk.",
+            "D": "Please send it to the archive education team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "02882ddaa07a1c58f43cce7055216a808492d3c38c6aa826ed8e7f1885f0d8a9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying recording memories of a factory”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the archive reading desk.",
+            "D": "Please send it to the archive education team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0c25f205245567c6a2b91e1a620d98e090d5a6f7de944a3fcfa5b37ee33a5799"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying recording memories of a factory”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the archive reading desk.",
+            "D": "Please send it to the archive education team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c754e1f2650b0caf092af305ad1fdaa049b5568ea6ce31738fa05752d5b91c4e"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on opening a map collection online",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about opening a map collection online last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c8a2380d0dd69e90e78548b358f06f4c1041f026230b22e417db076ef22099ab",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on opening a map collection online”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "64f75f1ec1c814f505e4c2090a932eca0a10ef469381b9e39e87e7df5caf0024"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on opening a map collection online”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f07411a8f43675cb70bfd8d7277cb2861c243efbcd33bb2ce2e5e2f4ba547cb6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on opening a map collection online”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "530c7ede1178841eb69d874140bb04b9c9633c3f7f319d0d847fb41a462c7b20"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Dating an old street photograph",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An archive received a photograph of a market street. The donated note gave a year, but a shop sign appeared to belong to a later period. The main obstacle was a date based on unverified memory. A family had kept the image for decades without recording when it was taken. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used comparison with dated maps and advertisements. Archivists checked businesses visible in the image against independent records. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the photograph was probably several years newer. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a catalogue date marked as an estimate. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: archives should distinguish evidence from memory. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in dating an old street photograph, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "0a3ffa3f868f03c2d21775b9c21776ba9b524a25cfbd1fbb6092901708a51f95",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Dating an old street photograph: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "oral accounts treated as identical timelines",
+            "B": "a date based on unverified memory",
+            "C": "catalogue terms that changed over time",
+            "D": "source material without accessible entry points"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a1d9a9687c40c1266a7f56583f7c44e6a6169149f181728a09a77c084981b915"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Dating an old street photograph: What method was used to investigate the situation?",
+          "options": {
+            "A": "interviews compared with employment records",
+            "B": "a sample of unsuccessful searches",
+            "C": "comparison with dated maps and advertisements",
+            "D": "a trial worksheet using short excerpts"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "581befcc1bcf7adb9df3bbf7e3acabdf8d5daeff9c47b9508ec19aaedeb5df8c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Dating an old street photograph: What did the evidence indicate?",
+          "options": {
+            "A": "the differences revealed distinct viewpoints",
+            "B": "alternative names improved discovery",
+            "C": "small guided examples opened deeper questions",
+            "D": "the photograph was probably several years newer"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e2438d9eefd8944c2b4b3dcd06bf40f99311ba8d3b27711ccb6125409e6af497"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Dating an old street photograph: How was the arrangement changed?",
+          "options": {
+            "A": "a catalogue date marked as an estimate",
+            "B": "notes that show both confirmed dates and memories",
+            "C": "search tags that link old and current names",
+            "D": "transcriptions beside selected original letters"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5e9976140eed7afb9dc6f98b576371e8b6bb3281363cfac6a5dbc86c70e8c0ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Dating an old street photograph: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "historical disagreement can be informative",
+            "B": "archives should distinguish evidence from memory",
+            "C": "digital access depends on thoughtful description",
+            "D": "historical sources need context without hiding originals"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ccb902485180dc7fb8a3f1f88557373e9dcaaa7cef3b6712cad39d08755f1232"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Recording memories of a factory",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Former workers shared memories of a closed factory. Interviews were valuable, yet several accounts disagreed about the year one workshop opened. The main obstacle was oral accounts treated as identical timelines. People remembered the same change from different jobs and life stages. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used interviews compared with employment records. Researchers invited participants to review transcripts and checked available dated documents. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated the differences revealed distinct viewpoints. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced notes that show both confirmed dates and memories. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: historical disagreement can be informative. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in recording memories of a factory, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "c887ace4f35e188e79cffc6f211963e4cb4452f6a72feb3e889cc6c27445b478",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Recording memories of a factory: What problem did the people involved notice?",
+          "options": {
+            "A": "a date based on unverified memory",
+            "B": "catalogue terms that changed over time",
+            "C": "source material without accessible entry points",
+            "D": "oral accounts treated as identical timelines"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fd168b3ba96b40271f412addf49875c5a8c5a5f866969716dfb6417e11cdaa51"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Recording memories of a factory: What was the first investigative step?",
+          "options": {
+            "A": "interviews compared with employment records",
+            "B": "comparison with dated maps and advertisements",
+            "C": "a sample of unsuccessful searches",
+            "D": "a trial worksheet using short excerpts"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1745b4f5622a33d281ff1c1a4f01afa454cb75b1f992d1faec05f7ab1831b844"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Recording memories of a factory: What was learned from the records?",
+          "options": {
+            "A": "the photograph was probably several years newer",
+            "B": "the differences revealed distinct viewpoints",
+            "C": "alternative names improved discovery",
+            "D": "small guided examples opened deeper questions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "35a7aa09b04d1ba6cea249f216accf554cc1013063a41c3d834761dfb288f17b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Recording memories of a factory: What adjustment followed?",
+          "options": {
+            "A": "a catalogue date marked as an estimate",
+            "B": "search tags that link old and current names",
+            "C": "notes that show both confirmed dates and memories",
+            "D": "transcriptions beside selected original letters"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1cebba4b4d62555e257163c5ac71b87ff90f6b3da82f8c79f88e8ddff2d28404"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Recording memories of a factory: What is the central message?",
+          "options": {
+            "A": "archives should distinguish evidence from memory",
+            "B": "digital access depends on thoughtful description",
+            "C": "historical sources need context without hiding originals",
+            "D": "historical disagreement can be informative"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "90b24295b37664341f85fb80c9750683775fb47078af896b8ccd9f2777b5933e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Opening a map collection online",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A museum digitised old town maps. Visitors searched by present street names and failed to find maps labelled with earlier names. The main obstacle was catalogue terms that changed over time. The original descriptions reflected the date of each map but not modern search habits. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a sample of unsuccessful searches. Cataloguers compared current and historical place names without altering the images. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated alternative names improved discovery. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced search tags that link old and current names. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: digital access depends on thoughtful description. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in opening a map collection online, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "09f9d653ae64ddc73cd3e6237f0929b32eb5c6a7746bae2a6b3cbf895dc19da9",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Opening a map collection online: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a date based on unverified memory",
+            "B": "catalogue terms that changed over time",
+            "C": "oral accounts treated as identical timelines",
+            "D": "source material without accessible entry points"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ba16282d2881f16c2e2633e81a9a8312c8b82144f114e5ea4bf622ea75857e29"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Opening a map collection online: How did the team gather information?",
+          "options": {
+            "A": "comparison with dated maps and advertisements",
+            "B": "interviews compared with employment records",
+            "C": "a sample of unsuccessful searches",
+            "D": "a trial worksheet using short excerpts"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a34f3a89dc2af9d32361f04d046ec4d5143acf9031da4c5f83814e3fa7d89090"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Opening a map collection online: What did the team discover?",
+          "options": {
+            "A": "the photograph was probably several years newer",
+            "B": "the differences revealed distinct viewpoints",
+            "C": "small guided examples opened deeper questions",
+            "D": "alternative names improved discovery"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7c403d1b4bca908c33f3300080d1b976e34c41ae362fa82a329e74bd4311e636"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Opening a map collection online: What did it do in response?",
+          "options": {
+            "A": "search tags that link old and current names",
+            "B": "a catalogue date marked as an estimate",
+            "C": "notes that show both confirmed dates and memories",
+            "D": "transcriptions beside selected original letters"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e235bfdc46f49d9cfc3c2a33767f60533eebbd9deecdda7cae366e6103c12194"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Opening a map collection online: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "archives should distinguish evidence from memory",
+            "B": "digital access depends on thoughtful description",
+            "C": "historical disagreement can be informative",
+            "D": "historical sources need context without hiding originals"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "eeff3c2f130f9cb725e30d76f5d378c7f739a06571e5ba94415bfa84dcb031c8"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A school visit to the archive",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A class visited an archive to study local migration. Students enjoyed seeing letters but struggled to read the old handwriting. The main obstacle was source material without accessible entry points. The visit assumed that pupils could immediately understand unfamiliar scripts and references. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a trial worksheet using short excerpts. Teachers and archivists noted which details students recognised and which needed explanation. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated small guided examples opened deeper questions. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced transcriptions beside selected original letters. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: historical sources need context without hiding originals. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a school visit to the archive, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "3d2e09772696d02aa125ee77cd8e8e3bc50b62d5ea94041c5d97d3b8349f15e6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A school visit to the archive: What was the main obstacle?",
+          "options": {
+            "A": "a date based on unverified memory",
+            "B": "oral accounts treated as identical timelines",
+            "C": "catalogue terms that changed over time",
+            "D": "source material without accessible entry points"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "911cb24237e49c96d43306fa80a7b2793ca89fe6c14b0b11daeb27d3882d13bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A school visit to the archive: How was the idea examined?",
+          "options": {
+            "A": "a trial worksheet using short excerpts",
+            "B": "comparison with dated maps and advertisements",
+            "C": "interviews compared with employment records",
+            "D": "a sample of unsuccessful searches"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8bba72a42abbb8f78f03e61e22babb566ee934653e55c5044bb396f71cc142d7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A school visit to the archive: Which finding shaped the decision?",
+          "options": {
+            "A": "the photograph was probably several years newer",
+            "B": "small guided examples opened deeper questions",
+            "C": "the differences revealed distinct viewpoints",
+            "D": "alternative names improved discovery"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "56d1d6ee8266864024ad47c7a1a33e4d6b93e1509505f48948f058288796c4cd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A school visit to the archive: What change did the group make?",
+          "options": {
+            "A": "a catalogue date marked as an estimate",
+            "B": "notes that show both confirmed dates and memories",
+            "C": "transcriptions beside selected original letters",
+            "D": "search tags that link old and current names"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f01567418afee745bf54c35e9df3f90a84f6d8950f0b503811df4515a5463578"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A school visit to the archive: What lesson does the writer emphasize?",
+          "options": {
+            "A": "archives should distinguish evidence from memory",
+            "B": "historical disagreement can be informative",
+            "C": "digital access depends on thoughtful description",
+            "D": "historical sources need context without hiding originals"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a030fee82555bccb96acbad14a386ff153500acb411d491d8e99c8bcf0223c3e"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the local history archive programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1bf18d95ca367b23827a952c61e35a375787f5173c193cc06d780df9db9588a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the local history archive programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "86a42a34a3f8b7941390825824854ee0b3db6fa4916d14e4e3feadf7eb0b0d72"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the local history archive programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a38cd52b8d648386713b6793db26396d4ed8f30233d5fb7483c63c35dd4a7475"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the local history archive programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "abd9c7892ce0604f8aa3d67e0466d793519358f21acb05c4ef1a568b651783ac"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the local history archive programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "66d4143aae6ce75792f11fa7e7a062d8993ee1c8cfa600d4a377410bb6b9e300"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the local history archive programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "77d0c2638fb3570ed2ef4efcf3605adb9eba752fd7897625dcea484e61c4318c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the local history archive programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ce515eac641f3fb3e186679af0517ae7a69de421fdeae52cd98d5369979dd9da"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the local history archive programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6f040c8dfe56a6dc83d172da101aa31739ddb168c8be56ebb0eea691b2736008"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the local history archive programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ff66e7ca3aaa1d78f99c795c8b7955c8ff6192227f792484474a1ecdd40382ca"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the local history archive programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c282911107eb12ccfa0c9c90be5e96beb57bec141a7c56ce5300239684ff5d4d"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local history archive programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f29d18a34db034f9bb1e8611aa42d4caac427ee4af2a9420ae5ce76dac1215db"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local history archive programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6eb090809a7e2294f988eb7b149f2b93f1f09f86d76409d1d258236d55fc694d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local history archive programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "264d931083e0ae4cb202e47caa79079dd1abd193826a094ccb4239f7f852d8b4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local history archive programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a5f0a5804a74bc423c7c5683eb79ba0c618cf08722c24c91da78378e324399c8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local history archive programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "67b0874bd467be1b1d94e1d45261f666d558d24425db80417224a1a2f63c52cf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local history archive programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d25448e9ca77238499dce2c385283d2202d2cbfb3a8b67e3639a7574757b0422"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local history archive programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "159955df1c3b3d4d3786c0d3eee9346867fd863e1f8be80caffc6d10bc6e7003"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local history archive programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "36d7036ec5b269eba94620d8c11c38f0ff4efb3b77eb4fe6e6cc65606881302f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local history archive programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "354e0cc2b5bc860baea32759419cf8f9a2a80d4c7e42a9199fae7528329f9c51"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local history archive programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c2125ed6dfb1a741145dcdb169b69be8dbc4c04cd15b84ec00cd0b84fd1f3cd9"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for local history and archives must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the local history archive programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于地方历史与档案的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "1618c62cc52c345f270fedd96e8faa0c73d70b1661c2534134c42e70f3715a34",
+      "referenceAnswerFingerprint": "d5fa371331fd69b46397d28235fe87a0b65c59b93556bc7e67f4b9344267be7f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the archive education team about a community activity related to local history and archives. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local history archive programme. People have noticed a date based on unverified memory, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "e6246e2ecb4acb658f0c7ddea1e6974128c3c4e56855547521ba82d3493e0451",
+      "sampleAnswerFingerprint": "18aec3b96b75276742bcf10b92d5ae87963184c953d0bc44a808fd16cb4b90f7"
+    }
+  ],
+  "fingerprintManifest": [
+    "5aabc91e85040c1ed3be974797150c8573a06755e529fc3f8ff7c9a134d17a81",
+    "3dab77f5f943da26d4ae30e2cd1341358f7cd37b378a5d5f826635bbcf426656",
+    "40570c85476e510709ba0e1af52a8a37c4a5fc8d8f61b2645af29a29076c2538",
+    "892c1209b6a3edb7b0a157bfcff7451bd581f2944623da76841902af0fa22091",
+    "c02adc0ae57c0c7e3b1acbd9873f867b94303058e700af75de18de6d001d2a8a",
+    "e08a379e4b4eff5c06d48b41990e3b9abff96b936f42716d100f645a7ffab36b",
+    "02882ddaa07a1c58f43cce7055216a808492d3c38c6aa826ed8e7f1885f0d8a9",
+    "0c25f205245567c6a2b91e1a620d98e090d5a6f7de944a3fcfa5b37ee33a5799",
+    "c754e1f2650b0caf092af305ad1fdaa049b5568ea6ce31738fa05752d5b91c4e",
+    "c8a2380d0dd69e90e78548b358f06f4c1041f026230b22e417db076ef22099ab",
+    "64f75f1ec1c814f505e4c2090a932eca0a10ef469381b9e39e87e7df5caf0024",
+    "f07411a8f43675cb70bfd8d7277cb2861c243efbcd33bb2ce2e5e2f4ba547cb6",
+    "530c7ede1178841eb69d874140bb04b9c9633c3f7f319d0d847fb41a462c7b20",
+    "0a3ffa3f868f03c2d21775b9c21776ba9b524a25cfbd1fbb6092901708a51f95",
+    "a1d9a9687c40c1266a7f56583f7c44e6a6169149f181728a09a77c084981b915",
+    "581befcc1bcf7adb9df3bbf7e3acabdf8d5daeff9c47b9508ec19aaedeb5df8c",
+    "e2438d9eefd8944c2b4b3dcd06bf40f99311ba8d3b27711ccb6125409e6af497",
+    "5e9976140eed7afb9dc6f98b576371e8b6bb3281363cfac6a5dbc86c70e8c0ef",
+    "ccb902485180dc7fb8a3f1f88557373e9dcaaa7cef3b6712cad39d08755f1232",
+    "c887ace4f35e188e79cffc6f211963e4cb4452f6a72feb3e889cc6c27445b478",
+    "fd168b3ba96b40271f412addf49875c5a8c5a5f866969716dfb6417e11cdaa51",
+    "1745b4f5622a33d281ff1c1a4f01afa454cb75b1f992d1faec05f7ab1831b844",
+    "35a7aa09b04d1ba6cea249f216accf554cc1013063a41c3d834761dfb288f17b",
+    "1cebba4b4d62555e257163c5ac71b87ff90f6b3da82f8c79f88e8ddff2d28404",
+    "90b24295b37664341f85fb80c9750683775fb47078af896b8ccd9f2777b5933e",
+    "09f9d653ae64ddc73cd3e6237f0929b32eb5c6a7746bae2a6b3cbf895dc19da9",
+    "ba16282d2881f16c2e2633e81a9a8312c8b82144f114e5ea4bf622ea75857e29",
+    "a34f3a89dc2af9d32361f04d046ec4d5143acf9031da4c5f83814e3fa7d89090",
+    "7c403d1b4bca908c33f3300080d1b976e34c41ae362fa82a329e74bd4311e636",
+    "e235bfdc46f49d9cfc3c2a33767f60533eebbd9deecdda7cae366e6103c12194",
+    "eeff3c2f130f9cb725e30d76f5d378c7f739a06571e5ba94415bfa84dcb031c8",
+    "3d2e09772696d02aa125ee77cd8e8e3bc50b62d5ea94041c5d97d3b8349f15e6",
+    "911cb24237e49c96d43306fa80a7b2793ca89fe6c14b0b11daeb27d3882d13bd",
+    "8bba72a42abbb8f78f03e61e22babb566ee934653e55c5044bb396f71cc142d7",
+    "56d1d6ee8266864024ad47c7a1a33e4d6b93e1509505f48948f058288796c4cd",
+    "f01567418afee745bf54c35e9df3f90a84f6d8950f0b503811df4515a5463578",
+    "a030fee82555bccb96acbad14a386ff153500acb411d491d8e99c8bcf0223c3e",
+    "1bf18d95ca367b23827a952c61e35a375787f5173c193cc06d780df9db9588a3",
+    "86a42a34a3f8b7941390825824854ee0b3db6fa4916d14e4e3feadf7eb0b0d72",
+    "a38cd52b8d648386713b6793db26396d4ed8f30233d5fb7483c63c35dd4a7475",
+    "abd9c7892ce0604f8aa3d67e0466d793519358f21acb05c4ef1a568b651783ac",
+    "66d4143aae6ce75792f11fa7e7a062d8993ee1c8cfa600d4a377410bb6b9e300",
+    "77d0c2638fb3570ed2ef4efcf3605adb9eba752fd7897625dcea484e61c4318c",
+    "ce515eac641f3fb3e186679af0517ae7a69de421fdeae52cd98d5369979dd9da",
+    "6f040c8dfe56a6dc83d172da101aa31739ddb168c8be56ebb0eea691b2736008",
+    "ff66e7ca3aaa1d78f99c795c8b7955c8ff6192227f792484474a1ecdd40382ca",
+    "c282911107eb12ccfa0c9c90be5e96beb57bec141a7c56ce5300239684ff5d4d",
+    "f29d18a34db034f9bb1e8611aa42d4caac427ee4af2a9420ae5ce76dac1215db",
+    "6eb090809a7e2294f988eb7b149f2b93f1f09f86d76409d1d258236d55fc694d",
+    "264d931083e0ae4cb202e47caa79079dd1abd193826a094ccb4239f7f852d8b4",
+    "a5f0a5804a74bc423c7c5683eb79ba0c618cf08722c24c91da78378e324399c8",
+    "67b0874bd467be1b1d94e1d45261f666d558d24425db80417224a1a2f63c52cf",
+    "d25448e9ca77238499dce2c385283d2202d2cbfb3a8b67e3639a7574757b0422",
+    "159955df1c3b3d4d3786c0d3eee9346867fd863e1f8be80caffc6d10bc6e7003",
+    "36d7036ec5b269eba94620d8c11c38f0ff4efb3b77eb4fe6e6cc65606881302f",
+    "354e0cc2b5bc860baea32759419cf8f9a2a80d4c7e42a9199fae7528329f9c51",
+    "c2125ed6dfb1a741145dcdb169b69be8dbc4c04cd15b84ec00cd0b84fd1f3cd9",
+    "1618c62cc52c345f270fedd96e8faa0c73d70b1661c2534134c42e70f3715a34",
+    "d5fa371331fd69b46397d28235fe87a0b65c59b93556bc7e67f4b9344267be7f",
+    "e6246e2ecb4acb658f0c7ddea1e6974128c3c4e56855547521ba82d3493e0451",
+    "18aec3b96b75276742bcf10b92d5ae87963184c953d0bc44a808fd16cb4b90f7"
+  ],
+  "contentFingerprint": "5d15ecb25572cf7b5ded3c43c30fe9c71a66d897b5c4b58bd9e5ef277f56f867"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-87",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 87 · 营养信息与公共餐饮",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 87,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about allergen information at a cafe",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about allergen information at a cafe. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the food service information desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the community nutrition team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b9be26d8f847da85cd9bbba9a4d1f9f8888b8e30d375b0b33b33cebcd9725a78",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about allergen information at a cafe”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the food service information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the community nutrition team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e8ef76f1c853928b0ef0d0853de5f2c2e768762181c9773e14cdcfdc2a1f63e0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about allergen information at a cafe”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the food service information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the community nutrition team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2574d62450cfcb090bd6d623e520a2374e94b43618f5a28b0e7b71b85c6c50c6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about allergen information at a cafe”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the food service information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the community nutrition team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b5ff68c547268359f88bf4083e8050c109df04ba94aa6f2bc2ae537068cf27a3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about allergen information at a cafe”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the food service information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the community nutrition team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ee5c7e2b38cde07a3ace163ca86641f35e2b143ae914d7a4685181aa1eb3c41c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying serving breakfast at a school",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about serving breakfast at a school is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the food service information desk.",
+        "D": "Please send it to the community nutrition team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "dd2a09d1633ca2e505e225f1b915aee3c75913449b4de62d61400bdba4fbdf11",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying serving breakfast at a school”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the food service information desk.",
+            "D": "Please send it to the community nutrition team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "600b4589694085818da3f4fb6713b227681c6e5e4b7258cd779520e732588df3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying serving breakfast at a school”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the food service information desk.",
+            "D": "Please send it to the community nutrition team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2ab2f4b0406c5c01ee69232ba4b43f4ba2317f41173e131905b2b4e118a8587d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying serving breakfast at a school”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the food service information desk.",
+            "D": "Please send it to the community nutrition team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "795d5f31050da34318ded46fb5252074f577f5d35b3a36abb0bb0c85c642b151"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a recipe card for shared kitchens",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a recipe card for shared kitchens last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4f018f7a5dfefdcdb503452ddd38410c51687b5aa2ff4bbe530d35a29a86b902",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a recipe card for shared kitchens”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e8dfa99ef80f66f1671fb51e5c6feb73fe896a35c0bc6d34d69e3ab31ac985e4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a recipe card for shared kitchens”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "558d4609cf3f4ed52db4562e70774103de065af93b051d8bc1c86896c5386f61"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a recipe card for shared kitchens”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "f8da6524ed5d96c9b4fd07a7f89f8e29df385897bd390c3541961d8ffa2e9a94"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Allergen information at a cafe",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community cafe displayed ingredients on a board. Customers with allergies still asked staff because the recipe changed with seasonal supplies. The main obstacle was a board that did not match the current dish. One substitution appeared in the kitchen record but had not reached the counter. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of recipe changes and handovers. The manager traced how information moved from cooks to servers without asking customers to take risks. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a dated update process was essential. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced current ingredient sheets confirmed before service. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: food information must reflect what is actually served. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in allergen information at a cafe, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "847688f84280a1ef17cd807d32420870c1a81b7cc85e284bce9d087955d1f4ec",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Allergen information at a cafe: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "one queue for food and registration",
+            "B": "instructions based on vague amounts",
+            "C": "waste figures without reasons for rejection",
+            "D": "a board that did not match the current dish"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "be619751c145ca6f694755a4cc8b99f0aeffdaacff5f41b92651995c09f0f39e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Allergen information at a cafe: What method was used to investigate the situation?",
+          "options": {
+            "A": "a review of recipe changes and handovers",
+            "B": "arrival-time counts and staff observations",
+            "C": "a cooking session with first-time readers",
+            "D": "a short trial of optional side portions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f7ca1449463bede7323a0910711bdd1d52a7404080507e86a7074a70c6a923cf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Allergen information at a cafe: What did the evidence indicate?",
+          "options": {
+            "A": "separating the two tasks shortened waits",
+            "B": "a dated update process was essential",
+            "C": "specific amounts improved repeatability",
+            "D": "choice reduced unwanted servings"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1f2d2b93ccc3b07c941be80ef93f8453576736d4fe472650e4db7a52d9523ff1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Allergen information at a cafe: How was the arrangement changed?",
+          "options": {
+            "A": "a quick collection point beside the registration desk",
+            "B": "revised cards with clear measures and photographs",
+            "C": "current ingredient sheets confirmed before service",
+            "D": "smaller default sides with a free request for more"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "61776cb8447911fdc6c90c042b9862e9d003ff70a5ab0922cc78b5f5799f2f8a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Allergen information at a cafe: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "a useful service must fit a short morning window",
+            "B": "practical instructions should work for newcomers",
+            "C": "waste decisions need evidence about behaviour",
+            "D": "food information must reflect what is actually served"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "48a7403c6f3212e37431824bef4636795ba6d315eca59588e4857ef59611c03a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Serving breakfast at a school",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A school offered a morning breakfast. Many pupils arrived at once, and some left before eating because the line moved slowly. The main obstacle was one queue for food and registration. Children who only needed a simple item waited behind those asking questions about the menu. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used arrival-time counts and staff observations. The school recorded when pupils joined and where the line stopped. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated separating the two tasks shortened waits. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a quick collection point beside the registration desk. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a useful service must fit a short morning window. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in serving breakfast at a school, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "78a74fe7fc4028cb906ad996cd5ee74bf1def49fbf122ee6d9c6e6edc3621d03",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Serving breakfast at a school: What problem did the people involved notice?",
+          "options": {
+            "A": "a board that did not match the current dish",
+            "B": "one queue for food and registration",
+            "C": "instructions based on vague amounts",
+            "D": "waste figures without reasons for rejection"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3134327507892654b285c8f6eb96a467aaef2277c28445435ae0fe9c910b2301"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Serving breakfast at a school: What was the first investigative step?",
+          "options": {
+            "A": "a review of recipe changes and handovers",
+            "B": "a cooking session with first-time readers",
+            "C": "arrival-time counts and staff observations",
+            "D": "a short trial of optional side portions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "96d52e275d9f24c706c1f2b621ea431651bc74724e34651d56921c180d1b141d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Serving breakfast at a school: What was learned from the records?",
+          "options": {
+            "A": "a dated update process was essential",
+            "B": "specific amounts improved repeatability",
+            "C": "choice reduced unwanted servings",
+            "D": "separating the two tasks shortened waits"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "bc2a929d35502b0fb2e7f6d2af272d7eb9649487b2b33dd8b9063fc108ded3ed"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Serving breakfast at a school: What adjustment followed?",
+          "options": {
+            "A": "a quick collection point beside the registration desk",
+            "B": "current ingredient sheets confirmed before service",
+            "C": "revised cards with clear measures and photographs",
+            "D": "smaller default sides with a free request for more"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f85f928d920feb60e0f09034e438ba38076c3d354203281704aaf24eab4043e5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Serving breakfast at a school: What is the central message?",
+          "options": {
+            "A": "food information must reflect what is actually served",
+            "B": "a useful service must fit a short morning window",
+            "C": "practical instructions should work for newcomers",
+            "D": "waste decisions need evidence about behaviour"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b259718140c7c254811d195c728a9f1c4b8c7c75c8cafa2825d7fab40d9ff34e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A recipe card for shared kitchens",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A housing group prepared recipe cards for a shared kitchen. Beginners reported that some cards used measures they could not reproduce. The main obstacle was instructions based on vague amounts. Phrases such as a little water meant different things to people with different cooking experience. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a cooking session with first-time readers. Volunteers followed the card exactly and noted every step that required guessing. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated specific amounts improved repeatability. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced revised cards with clear measures and photographs. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: practical instructions should work for newcomers. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a recipe card for shared kitchens, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "fbd1e1e4bb8c7cde5ce0761173327b56665a77e471cd4ecdce892dee6e9b254c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A recipe card for shared kitchens: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a board that did not match the current dish",
+            "B": "one queue for food and registration",
+            "C": "waste figures without reasons for rejection",
+            "D": "instructions based on vague amounts"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "af293748d0609e32888a7ece0edac688badc2dbbf3a096de762ee80855f0f81a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A recipe card for shared kitchens: How did the team gather information?",
+          "options": {
+            "A": "a cooking session with first-time readers",
+            "B": "a review of recipe changes and handovers",
+            "C": "arrival-time counts and staff observations",
+            "D": "a short trial of optional side portions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1b44a654f6d116ceaf1c23dfa02cff9fb0d5269aa6addfc678bd5ba91d135885"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A recipe card for shared kitchens: What did the team discover?",
+          "options": {
+            "A": "a dated update process was essential",
+            "B": "specific amounts improved repeatability",
+            "C": "separating the two tasks shortened waits",
+            "D": "choice reduced unwanted servings"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "22325615b38942ea0408cc705fc9925f5864ef2ae54907ba07d137500050a28b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A recipe card for shared kitchens: What did it do in response?",
+          "options": {
+            "A": "current ingredient sheets confirmed before service",
+            "B": "a quick collection point beside the registration desk",
+            "C": "revised cards with clear measures and photographs",
+            "D": "smaller default sides with a free request for more"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ffac8d1804c17533b4f797ae50658a55251d97f61b776760ace1c906102d007f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A recipe card for shared kitchens: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "food information must reflect what is actually served",
+            "B": "a useful service must fit a short morning window",
+            "C": "waste decisions need evidence about behaviour",
+            "D": "practical instructions should work for newcomers"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "239b3f5ce5fd6737ef561a9cf77538cd7ffa397bbc3ad64d98a45e829a270893"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Reducing lunch waste at a college",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A college dining hall threw away many side dishes. Staff assumed portions were too large, but students often wanted a different choice. The main obstacle was waste figures without reasons for rejection. The bin count did not show whether food had been taken automatically or chosen willingly. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a short trial of optional side portions. The team recorded uptake and waste while inviting anonymous student comments. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated choice reduced unwanted servings. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced smaller default sides with a free request for more. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: waste decisions need evidence about behaviour. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in reducing lunch waste at a college, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "732363dbde138dab27799a8b19d65131e432d9bbc22b8b4ec5dda4141edd2dab",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Reducing lunch waste at a college: What was the main obstacle?",
+          "options": {
+            "A": "a board that did not match the current dish",
+            "B": "waste figures without reasons for rejection",
+            "C": "one queue for food and registration",
+            "D": "instructions based on vague amounts"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c8a3f221eb74441b40ed8e725e76d860d18d7fa32c47cf9e95cb86b43e1ca3ee"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Reducing lunch waste at a college: How was the idea examined?",
+          "options": {
+            "A": "a review of recipe changes and handovers",
+            "B": "arrival-time counts and staff observations",
+            "C": "a short trial of optional side portions",
+            "D": "a cooking session with first-time readers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a04edbb801afd277e54d6eaff92615359fd73af51deba71ed4ba9c8119286a0d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Reducing lunch waste at a college: Which finding shaped the decision?",
+          "options": {
+            "A": "a dated update process was essential",
+            "B": "separating the two tasks shortened waits",
+            "C": "specific amounts improved repeatability",
+            "D": "choice reduced unwanted servings"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6570248ddf0275c832a4180538ef0d21b155af16a156b9c1a12322350534932f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Reducing lunch waste at a college: What change did the group make?",
+          "options": {
+            "A": "smaller default sides with a free request for more",
+            "B": "current ingredient sheets confirmed before service",
+            "C": "a quick collection point beside the registration desk",
+            "D": "revised cards with clear measures and photographs"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "99c44ebdb29bb76f5dcf092848953e8547c9232d1b23fb3a51a2df3c79d31f2b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Reducing lunch waste at a college: What lesson does the writer emphasize?",
+          "options": {
+            "A": "food information must reflect what is actually served",
+            "B": "waste decisions need evidence about behaviour",
+            "C": "a useful service must fit a short morning window",
+            "D": "practical instructions should work for newcomers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e4757755cbf99c689af97fa4ba45393e1cc7f2a431a02c3dc27300d60b00d0e5"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the community food information programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "61639b67e79fc05353c8b104642273c1ee2a0f0aa8e937cfc551ed67ef6043e6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the community food information programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "650236be88d27f1ec436f328ecac563308bd1b425533c0502f0a5ff73fc599ec"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the community food information programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6ccc1105ccf7fb008b61165fbf6388b637105e90bcdf721e48557dc885c837dd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the community food information programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1c8e245d8a2c0182ecf10217944437306a878c53f34a8b5ea0a17b5bd8b489e0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the community food information programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7bbcecc7a69d34a49bb438334c37799ca549ff6e5eceb2194a769e8a0148601f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the community food information programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1447317422dd8da8b55dadaa136a0f46788e78c34f67e697de98dd6a3000be6e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the community food information programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4f7186c169e5117132049e298f6e09b06dcbbcef0621ce6d0fbcbf142e41341a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the community food information programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "539e2ba1d0c54955792a87f8ed265bfaf6bfa92083661efd242133b378953d07"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the community food information programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c420aaf20a2b49f4fec2d59a5ad5a1dd4e48ef70db81db8d1aca0278abae15a8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the community food information programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a7b8a901984c55a8e517c7e2ea457e1cf83e770956748612a287a7ea3c4c47cd"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community food information programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "623c5afa6844445580d7cc11d3606e24296012d02eb0b500c68e89160b0aaa48"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community food information programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "91e6b9d66d39d9549c3bc0faa58fc5a1e7ec857f80989d9454dddef2fa3dea44"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community food information programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "97cfa9afb4757727917da57b4a5971db1a527efd63467a1380e6f0bde26404ab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community food information programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "973827f077c782a0e83d00a343f1b265a5a132b170ddbcc63b95de8d205a1207"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community food information programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8aebe25e7ce00eaa0d008fc7ce5c64d73f9ba3359d2b0440032c399455ff7b98"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community food information programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1080f03a1e6f301cdc7ba3e517b48aa2f610e2b9081ccad98d81027f93791e95"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community food information programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1aa33b10d1e5128777ac53bb053f4137e97239f9883dbdf7d3e607c682e80e1b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community food information programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "91f0b440e7773a46681457b7a2ec6c402c7ae2322da06607ba0238d8dfc9434f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community food information programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cef9dada6edc471f779989209f5688f592092157460acb8b4329e79e6e902932"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community food information programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ee6c64f26cf3c55e27c02f20f7d7349208c6a40928a662a0635d977244c027c8"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning nutrition information and community food often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the community food information programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关营养信息与公共餐饮的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "a6b6dc7bcbe8bdadfd8c739291ad9f6fa381199b7f7a9dd08417502398abb840",
+      "referenceAnswerFingerprint": "e44650aad79d4378b40005fab18b2c0aaece1fe44323bbc9db6df65af69a05be"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the community nutrition team proposing a small improvement to the community food information programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community food information programme. People have noticed a board that did not match the current dish, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "bc2594cbbef76426070d4bbc8b36ec7c26f7356fa4c3bf11662198113046f98c",
+      "sampleAnswerFingerprint": "c502785fe80b8806523fef287dd5df7451877acd4ffc7a6487c1a71fb3b00af6"
+    }
+  ],
+  "fingerprintManifest": [
+    "b9be26d8f847da85cd9bbba9a4d1f9f8888b8e30d375b0b33b33cebcd9725a78",
+    "e8ef76f1c853928b0ef0d0853de5f2c2e768762181c9773e14cdcfdc2a1f63e0",
+    "2574d62450cfcb090bd6d623e520a2374e94b43618f5a28b0e7b71b85c6c50c6",
+    "b5ff68c547268359f88bf4083e8050c109df04ba94aa6f2bc2ae537068cf27a3",
+    "ee5c7e2b38cde07a3ace163ca86641f35e2b143ae914d7a4685181aa1eb3c41c",
+    "dd2a09d1633ca2e505e225f1b915aee3c75913449b4de62d61400bdba4fbdf11",
+    "600b4589694085818da3f4fb6713b227681c6e5e4b7258cd779520e732588df3",
+    "2ab2f4b0406c5c01ee69232ba4b43f4ba2317f41173e131905b2b4e118a8587d",
+    "795d5f31050da34318ded46fb5252074f577f5d35b3a36abb0bb0c85c642b151",
+    "4f018f7a5dfefdcdb503452ddd38410c51687b5aa2ff4bbe530d35a29a86b902",
+    "e8dfa99ef80f66f1671fb51e5c6feb73fe896a35c0bc6d34d69e3ab31ac985e4",
+    "558d4609cf3f4ed52db4562e70774103de065af93b051d8bc1c86896c5386f61",
+    "f8da6524ed5d96c9b4fd07a7f89f8e29df385897bd390c3541961d8ffa2e9a94",
+    "847688f84280a1ef17cd807d32420870c1a81b7cc85e284bce9d087955d1f4ec",
+    "be619751c145ca6f694755a4cc8b99f0aeffdaacff5f41b92651995c09f0f39e",
+    "f7ca1449463bede7323a0910711bdd1d52a7404080507e86a7074a70c6a923cf",
+    "1f2d2b93ccc3b07c941be80ef93f8453576736d4fe472650e4db7a52d9523ff1",
+    "61776cb8447911fdc6c90c042b9862e9d003ff70a5ab0922cc78b5f5799f2f8a",
+    "48a7403c6f3212e37431824bef4636795ba6d315eca59588e4857ef59611c03a",
+    "78a74fe7fc4028cb906ad996cd5ee74bf1def49fbf122ee6d9c6e6edc3621d03",
+    "3134327507892654b285c8f6eb96a467aaef2277c28445435ae0fe9c910b2301",
+    "96d52e275d9f24c706c1f2b621ea431651bc74724e34651d56921c180d1b141d",
+    "bc2a929d35502b0fb2e7f6d2af272d7eb9649487b2b33dd8b9063fc108ded3ed",
+    "f85f928d920feb60e0f09034e438ba38076c3d354203281704aaf24eab4043e5",
+    "b259718140c7c254811d195c728a9f1c4b8c7c75c8cafa2825d7fab40d9ff34e",
+    "fbd1e1e4bb8c7cde5ce0761173327b56665a77e471cd4ecdce892dee6e9b254c",
+    "af293748d0609e32888a7ece0edac688badc2dbbf3a096de762ee80855f0f81a",
+    "1b44a654f6d116ceaf1c23dfa02cff9fb0d5269aa6addfc678bd5ba91d135885",
+    "22325615b38942ea0408cc705fc9925f5864ef2ae54907ba07d137500050a28b",
+    "ffac8d1804c17533b4f797ae50658a55251d97f61b776760ace1c906102d007f",
+    "239b3f5ce5fd6737ef561a9cf77538cd7ffa397bbc3ad64d98a45e829a270893",
+    "732363dbde138dab27799a8b19d65131e432d9bbc22b8b4ec5dda4141edd2dab",
+    "c8a3f221eb74441b40ed8e725e76d860d18d7fa32c47cf9e95cb86b43e1ca3ee",
+    "a04edbb801afd277e54d6eaff92615359fd73af51deba71ed4ba9c8119286a0d",
+    "6570248ddf0275c832a4180538ef0d21b155af16a156b9c1a12322350534932f",
+    "99c44ebdb29bb76f5dcf092848953e8547c9232d1b23fb3a51a2df3c79d31f2b",
+    "e4757755cbf99c689af97fa4ba45393e1cc7f2a431a02c3dc27300d60b00d0e5",
+    "61639b67e79fc05353c8b104642273c1ee2a0f0aa8e937cfc551ed67ef6043e6",
+    "650236be88d27f1ec436f328ecac563308bd1b425533c0502f0a5ff73fc599ec",
+    "6ccc1105ccf7fb008b61165fbf6388b637105e90bcdf721e48557dc885c837dd",
+    "1c8e245d8a2c0182ecf10217944437306a878c53f34a8b5ea0a17b5bd8b489e0",
+    "7bbcecc7a69d34a49bb438334c37799ca549ff6e5eceb2194a769e8a0148601f",
+    "1447317422dd8da8b55dadaa136a0f46788e78c34f67e697de98dd6a3000be6e",
+    "4f7186c169e5117132049e298f6e09b06dcbbcef0621ce6d0fbcbf142e41341a",
+    "539e2ba1d0c54955792a87f8ed265bfaf6bfa92083661efd242133b378953d07",
+    "c420aaf20a2b49f4fec2d59a5ad5a1dd4e48ef70db81db8d1aca0278abae15a8",
+    "a7b8a901984c55a8e517c7e2ea457e1cf83e770956748612a287a7ea3c4c47cd",
+    "623c5afa6844445580d7cc11d3606e24296012d02eb0b500c68e89160b0aaa48",
+    "91e6b9d66d39d9549c3bc0faa58fc5a1e7ec857f80989d9454dddef2fa3dea44",
+    "97cfa9afb4757727917da57b4a5971db1a527efd63467a1380e6f0bde26404ab",
+    "973827f077c782a0e83d00a343f1b265a5a132b170ddbcc63b95de8d205a1207",
+    "8aebe25e7ce00eaa0d008fc7ce5c64d73f9ba3359d2b0440032c399455ff7b98",
+    "1080f03a1e6f301cdc7ba3e517b48aa2f610e2b9081ccad98d81027f93791e95",
+    "1aa33b10d1e5128777ac53bb053f4137e97239f9883dbdf7d3e607c682e80e1b",
+    "91f0b440e7773a46681457b7a2ec6c402c7ae2322da06607ba0238d8dfc9434f",
+    "cef9dada6edc471f779989209f5688f592092157460acb8b4329e79e6e902932",
+    "ee6c64f26cf3c55e27c02f20f7d7349208c6a40928a662a0635d977244c027c8",
+    "a6b6dc7bcbe8bdadfd8c739291ad9f6fa381199b7f7a9dd08417502398abb840",
+    "e44650aad79d4378b40005fab18b2c0aaece1fe44323bbc9db6df65af69a05be",
+    "bc2594cbbef76426070d4bbc8b36ec7c26f7356fa4c3bf11662198113046f98c",
+    "c502785fe80b8806523fef287dd5df7451877acd4ffc7a6487c1a71fb3b00af6"
+  ],
+  "contentFingerprint": "f7f96da3a96eaeb797ec7df754d9b683b3b128b4e598cfeaa2881100d9df0618"
+}

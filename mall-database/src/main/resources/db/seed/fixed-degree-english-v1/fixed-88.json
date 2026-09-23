@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-88",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 88 · 职业发展与技能培训",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 88,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to a workshop for changing careers",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about a workshop for changing careers. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the skills development team that you plan to attend.",
+        "C": "Yes, signs will lead you from the careers guidance desk.",
+        "D": "Certainly. Send your question to the skills development team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "f6cf351985511b02fbed85f2dc4ff8b62aa75744864ebabb927e93e0e0aede37",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to a workshop for changing careers”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the skills development team that you plan to attend.",
+            "C": "Yes, signs will lead you from the careers guidance desk.",
+            "D": "Certainly. Send your question to the skills development team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e6a847a75e822a044912b77d9b49baec1aa8f1d4def67db9c88630b8dbb38fa1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to a workshop for changing careers”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the skills development team that you plan to attend.",
+            "C": "Yes, signs will lead you from the careers guidance desk.",
+            "D": "Certainly. Send your question to the skills development team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "e283a4f1d5f6d5a3b1dea592f70a57613c4ed33750721da44b69228115958cfd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to a workshop for changing careers”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the skills development team that you plan to attend.",
+            "C": "Yes, signs will lead you from the careers guidance desk.",
+            "D": "Certainly. Send your question to the skills development team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cf9fb9292523d83bcfd3beefdd6690ab6ea1128ce6804311968652255eb22248"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to a workshop for changing careers”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the skills development team that you plan to attend.",
+            "C": "Yes, signs will lead you from the careers guidance desk.",
+            "D": "Certainly. Send your question to the skills development team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3a68ca67c57020c26d1728345bf3491963b2244223cacc845b9b9209311e5619"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying learning equipment at a new job",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about learning equipment at a new job is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the careers guidance desk.",
+        "D": "Please send it to the skills development team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "837d90f22f4c2971be8b62d8512500368a37ca6b895dc15ba3d5edf334be3852",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying learning equipment at a new job”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the careers guidance desk.",
+            "D": "Please send it to the skills development team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5d251a95b58f0126488422e71a9a562b751ed76f90a2e3925cdfa54cb1430404"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying learning equipment at a new job”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the careers guidance desk.",
+            "D": "Please send it to the skills development team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8a9851ae7e21a4571c68f2672439d7416ada3079cd64bfad4e9e9b76ee17ef8d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying learning equipment at a new job”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the careers guidance desk.",
+            "D": "Please send it to the skills development team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7286b00d90d7d4aa0770ff16c34521325c2673b32b3bf2765a1fe21541140f6a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on finding an apprenticeship placement",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about finding an apprenticeship placement last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "cfea75d373f7660608250ec925e12046822fccd32ff22a0813349c1c953e2d00",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on finding an apprenticeship placement”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3e34f08ee0cab042493549a849f06082275d9fbbfeb17669ff52d4f1573c942f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on finding an apprenticeship placement”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8f1734d78a65071e12581f72cf6fe74d6962ac7b04e6251135539aefd918dd07"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on finding an apprenticeship placement”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2bf1437081fa0143c7d434d5d0dd3cf941b32a5cc39760402d445a905cd6a648"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A workshop for changing careers",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A careers centre offered a workshop to adults changing jobs. Many participants brought useful experience but did not know how to describe it. The main obstacle was job histories written only as task lists. Applicants named duties without showing what they had improved or learned. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of anonymised application examples. Advisers asked participants to connect past actions with results and transferable skills. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated specific examples made experience clearer. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced short achievement notes alongside work history. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: career change requires translation of existing skills. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a workshop for changing careers, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "9d18ac33761343dd9bfb9f52370729d4bf5359a5b00680f2843dd66c5a463472",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A workshop for changing careers: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "job histories written only as task lists",
+            "B": "practice limited to ideal conditions",
+            "C": "opportunities posted without current dates",
+            "D": "feedback reduced to a single number"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "079bfcfd6046d104e46f97cdee9a905254e44e3fa44508baf4e8ef4ed61be036"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A workshop for changing careers: What method was used to investigate the situation?",
+          "options": {
+            "A": "supervised observation during ordinary work",
+            "B": "a review of anonymised application examples",
+            "C": "a check of listings and student visits",
+            "D": "a review of recorded practice answers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1af91a4df3ef688e0bc4d15fad2ac52278ba549b4f0a0313c2e388b4190f8070"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A workshop for changing careers: What did the evidence indicate?",
+          "options": {
+            "A": "varied examples improved readiness",
+            "B": "a dated list improved planning",
+            "C": "specific examples made experience clearer",
+            "D": "specific comments led to better second attempts"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c013b3f73e351d3122ed6fca2c44c5aa5ad72f5d3e6dccd5306394a01dacb168"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A workshop for changing careers: How was the arrangement changed?",
+          "options": {
+            "A": "practice with common exceptions before independent use",
+            "B": "weekly updates with clear closing dates",
+            "C": "short written feedback linked to an example",
+            "D": "short achievement notes alongside work history"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4dfa91c74b274c73f107e9cc6812fd297d3b271c0e59a15a295be9dbf094d644"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A workshop for changing careers: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "career change requires translation of existing skills",
+            "B": "training should prepare people for realistic variation",
+            "C": "career information loses value when it is stale",
+            "D": "evaluation should support the next effort"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "87b7ae982124d07ddc5b55cd114f3db0df0e72e99129fd70bb492d0aa9bef026"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Learning equipment at a new job",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A warehouse trained new employees to use a scanning device. Trainees passed a demonstration but struggled during a busy shift. The main obstacle was practice limited to ideal conditions. The class showed a clean sample label but not damaged or unusually placed labels. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used supervised observation during ordinary work. Qualified trainers recorded which situations caused hesitation without rushing new staff. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated varied examples improved readiness. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced practice with common exceptions before independent use. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: training should prepare people for realistic variation. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in learning equipment at a new job, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "0f07be275b2a765a01d051a8f5284c6c09e3eafc8c57bf1f6cda70be752bd041",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Learning equipment at a new job: What problem did the people involved notice?",
+          "options": {
+            "A": "job histories written only as task lists",
+            "B": "opportunities posted without current dates",
+            "C": "practice limited to ideal conditions",
+            "D": "feedback reduced to a single number"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f54f0568387e2d09d01b50b32ca5dd6a4c4e89ada6b1ead99f0199e4ad9df26f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Learning equipment at a new job: What was the first investigative step?",
+          "options": {
+            "A": "a review of anonymised application examples",
+            "B": "a check of listings and student visits",
+            "C": "a review of recorded practice answers",
+            "D": "supervised observation during ordinary work"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "45abe567ea934bc354f15ea86bc468d7666a91b9aac3a77e70d62b863ee84744"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Learning equipment at a new job: What was learned from the records?",
+          "options": {
+            "A": "varied examples improved readiness",
+            "B": "specific examples made experience clearer",
+            "C": "a dated list improved planning",
+            "D": "specific comments led to better second attempts"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "bf13d4d659d73ca84f1016e683b32138273e0c6a729b6e59ffe06424869f2a13"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Learning equipment at a new job: What adjustment followed?",
+          "options": {
+            "A": "short achievement notes alongside work history",
+            "B": "practice with common exceptions before independent use",
+            "C": "weekly updates with clear closing dates",
+            "D": "short written feedback linked to an example"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2700b7f3e3566a3a3bd14adcc436d84dd00289a2fb980a7d62cc0f499ea60aad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Learning equipment at a new job: What is the central message?",
+          "options": {
+            "A": "career change requires translation of existing skills",
+            "B": "career information loses value when it is stale",
+            "C": "training should prepare people for realistic variation",
+            "D": "evaluation should support the next effort"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ef1d15ec1c65f32b3b57b8b4fa89793c0559846ea71c9a6916b41f9b57cbcb53"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Finding an apprenticeship placement",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A college advertised apprenticeships on a noticeboard. Students visiting after evening classes often discovered that deadlines had passed. The main obstacle was opportunities posted without current dates. Old notices stayed in place and looked as important as new ones. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a check of listings and student visits. The careers team compared posting dates with application deadlines and asked students how they searched. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a dated list improved planning. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced weekly updates with clear closing dates. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: career information loses value when it is stale. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in finding an apprenticeship placement, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "296a7a6599924746782415c9a6f0959b3aee3d5e47a97e2c2f682b4f8c3e71b0",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Finding an apprenticeship placement: Why was the original plan difficult to use?",
+          "options": {
+            "A": "opportunities posted without current dates",
+            "B": "job histories written only as task lists",
+            "C": "practice limited to ideal conditions",
+            "D": "feedback reduced to a single number"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c92022d297d1058b024015580361c2a1e1e9395d5a258ea8947fa1806f05098a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Finding an apprenticeship placement: How did the team gather information?",
+          "options": {
+            "A": "a review of anonymised application examples",
+            "B": "a check of listings and student visits",
+            "C": "supervised observation during ordinary work",
+            "D": "a review of recorded practice answers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "55a543ef826b55c02b5a8e6af0761683931a3099e50c0c105f07ef6b50962633"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Finding an apprenticeship placement: What did the team discover?",
+          "options": {
+            "A": "specific examples made experience clearer",
+            "B": "varied examples improved readiness",
+            "C": "a dated list improved planning",
+            "D": "specific comments led to better second attempts"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "032865c114112f414857a0bd9e72bda51a921e3bf7acb7671d5b96438f933a5f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Finding an apprenticeship placement: What did it do in response?",
+          "options": {
+            "A": "short achievement notes alongside work history",
+            "B": "practice with common exceptions before independent use",
+            "C": "short written feedback linked to an example",
+            "D": "weekly updates with clear closing dates"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "70594d4556893c71327bf39b35860fd27496c1c70bd399d171b033bbcbd781f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Finding an apprenticeship placement: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "career information loses value when it is stale",
+            "B": "career change requires translation of existing skills",
+            "C": "training should prepare people for realistic variation",
+            "D": "evaluation should support the next effort"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "664af14d0e0758f874e9cd1d4767b084593050d48e56e84bee884c7176c9b009"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Feedback after a practice interview",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A training group ran mock interviews. Some learners received a score but could not tell which answer needed improvement. The main obstacle was feedback reduced to a single number. Two participants with the same score had different strengths and difficulties. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review of recorded practice answers. Coaches identified one example of clear communication and one next step for each learner. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated specific comments led to better second attempts. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced short written feedback linked to an example. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: evaluation should support the next effort. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in feedback after a practice interview, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "71538f1403aa9be5ebf7dbddf84c4dbe8249593246375a47d2dbccddd013d24c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Feedback after a practice interview: What was the main obstacle?",
+          "options": {
+            "A": "job histories written only as task lists",
+            "B": "practice limited to ideal conditions",
+            "C": "feedback reduced to a single number",
+            "D": "opportunities posted without current dates"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "58261e1867fb34a58bebb7db52153b3430039b1023867287b3c209f83cd7b848"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Feedback after a practice interview: How was the idea examined?",
+          "options": {
+            "A": "a review of anonymised application examples",
+            "B": "supervised observation during ordinary work",
+            "C": "a check of listings and student visits",
+            "D": "a review of recorded practice answers"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5706a61fde1d86e76e28aea5b0aa9590bd3ff1688a617b25c16c524312e3931f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Feedback after a practice interview: Which finding shaped the decision?",
+          "options": {
+            "A": "specific comments led to better second attempts",
+            "B": "specific examples made experience clearer",
+            "C": "varied examples improved readiness",
+            "D": "a dated list improved planning"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0eba7875605ce4acb6634485d637c47345e1d0ef4a37c7c50ac69431a0fc1f8d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Feedback after a practice interview: What change did the group make?",
+          "options": {
+            "A": "short achievement notes alongside work history",
+            "B": "short written feedback linked to an example",
+            "C": "practice with common exceptions before independent use",
+            "D": "weekly updates with clear closing dates"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "76fec3bffaa33dc42ef2e29831a09629854782ad4c7692b7f13178c6819e87ac"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Feedback after a practice interview: What lesson does the writer emphasize?",
+          "options": {
+            "A": "career change requires translation of existing skills",
+            "B": "training should prepare people for realistic variation",
+            "C": "evaluation should support the next effort",
+            "D": "career information loses value when it is stale"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "637ef56a75482b6200e56adf81a9e2f46bbc416b3cc4a121d0dc14c0d9e72627"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the local career skills programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ba15008de62df736b33b383e2d6dd239050e0282fa7ec7ade720320f0d8104d9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the local career skills programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8a3e9ab30127de61f6718841052802ef53c1d9d7caf69444edb44f245a6db36b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the local career skills programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2fa04e7339d4aa47bce937ac3bc0ccbac3092231b6ff57282c474603aa903216"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the local career skills programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "280e427b51b38b23816702dceca24cd0b15ab9ee3bacc855b7236b6c1c6bddcd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the local career skills programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "af1246d8e5b7fd0b39e1fb9df56bf374660544fc02ef5dd1d66ad8023845804d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the local career skills programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "edce4974ad28d9f6b97346e8d9891c7db59ee399360824df47ac4c136a310a32"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the local career skills programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6892c40d897ebadc7d07c44c4e25d882fb4683cf7f172a7e823f2992e6c0fb35"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the local career skills programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "194fa9715dee2ca7efff55ab85d5e5ab2b8996f7b92e4e583986c1f72d51fdcb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the local career skills programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "02b2820aac8f51d4c758fe69c8a3477cd2a0c00c3905566ff77dfb210398bd07"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the local career skills programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1f10980efd2fcc2dc3e82df4cf7c929d7f0100e6404474c311bc467d4e488cfc"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local career skills programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d547f55d9bd11841bfd99c145a874deeb2547024e4b86d8d22643ea36b79848d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local career skills programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1d94649b9d094c6dfb74c59a05e484b9ec8d3a9d7675d6e518dd1a5486e8218e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local career skills programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f481263337d921ae27e3ca0b157b254e8384caace7d6d1309280014520a0558a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local career skills programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "81b7778b0ee062006430b4bec23dbe5ab4f4ca2e9dee338c316894e2fc2127df"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local career skills programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "84a69684d82903244e8e8d9b38fddabf70a941bf1022793fbff69367ffe2ae72"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local career skills programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2deadff555d9e03d9b1eb3ab174009fc88faf723e1869cd8a29fe1836a339ae1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local career skills programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "95fbe67293a85516ee30d12f7cd3ff44d5de0dfbf5b51e4cdf17bad3e1bb3d9c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local career skills programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "41549a4828392079ece198c06a811d9ef37899a439c638b4846f2ee735175278"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local career skills programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b4286a241a752dda4a4414d25401494cf0b9e916e77f701e8152caac86009511"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local career skills programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "45a6a4b8b0f84b31b68ebcc7c2f98750beb85551b099c036f6b8ebfc56ae9836"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for career development and practical training must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the local career skills programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于职业发展与技能培训的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "73cc84ebe02d9f63c3147941aca453e8f7059c9ee86609f8e6460cd9da705667",
+      "referenceAnswerFingerprint": "56ba6281a018a22ef31c6c181c222bc51165ce5334c573fe9425f7643dc32347"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the skills development team about a community activity related to career development and practical training. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local career skills programme. People have noticed job histories written only as task lists, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "73f838f24e2bb8c1de590ff63bde95198e44255205ea004548fcdfad11359763",
+      "sampleAnswerFingerprint": "db49461b2963a6cbc57c5f76f33c19f2bad4dfbde4f005411ecb283bcae70b51"
+    }
+  ],
+  "fingerprintManifest": [
+    "f6cf351985511b02fbed85f2dc4ff8b62aa75744864ebabb927e93e0e0aede37",
+    "e6a847a75e822a044912b77d9b49baec1aa8f1d4def67db9c88630b8dbb38fa1",
+    "e283a4f1d5f6d5a3b1dea592f70a57613c4ed33750721da44b69228115958cfd",
+    "cf9fb9292523d83bcfd3beefdd6690ab6ea1128ce6804311968652255eb22248",
+    "3a68ca67c57020c26d1728345bf3491963b2244223cacc845b9b9209311e5619",
+    "837d90f22f4c2971be8b62d8512500368a37ca6b895dc15ba3d5edf334be3852",
+    "5d251a95b58f0126488422e71a9a562b751ed76f90a2e3925cdfa54cb1430404",
+    "8a9851ae7e21a4571c68f2672439d7416ada3079cd64bfad4e9e9b76ee17ef8d",
+    "7286b00d90d7d4aa0770ff16c34521325c2673b32b3bf2765a1fe21541140f6a",
+    "cfea75d373f7660608250ec925e12046822fccd32ff22a0813349c1c953e2d00",
+    "3e34f08ee0cab042493549a849f06082275d9fbbfeb17669ff52d4f1573c942f",
+    "8f1734d78a65071e12581f72cf6fe74d6962ac7b04e6251135539aefd918dd07",
+    "2bf1437081fa0143c7d434d5d0dd3cf941b32a5cc39760402d445a905cd6a648",
+    "9d18ac33761343dd9bfb9f52370729d4bf5359a5b00680f2843dd66c5a463472",
+    "079bfcfd6046d104e46f97cdee9a905254e44e3fa44508baf4e8ef4ed61be036",
+    "1af91a4df3ef688e0bc4d15fad2ac52278ba549b4f0a0313c2e388b4190f8070",
+    "c013b3f73e351d3122ed6fca2c44c5aa5ad72f5d3e6dccd5306394a01dacb168",
+    "4dfa91c74b274c73f107e9cc6812fd297d3b271c0e59a15a295be9dbf094d644",
+    "87b7ae982124d07ddc5b55cd114f3db0df0e72e99129fd70bb492d0aa9bef026",
+    "0f07be275b2a765a01d051a8f5284c6c09e3eafc8c57bf1f6cda70be752bd041",
+    "f54f0568387e2d09d01b50b32ca5dd6a4c4e89ada6b1ead99f0199e4ad9df26f",
+    "45abe567ea934bc354f15ea86bc468d7666a91b9aac3a77e70d62b863ee84744",
+    "bf13d4d659d73ca84f1016e683b32138273e0c6a729b6e59ffe06424869f2a13",
+    "2700b7f3e3566a3a3bd14adcc436d84dd00289a2fb980a7d62cc0f499ea60aad",
+    "ef1d15ec1c65f32b3b57b8b4fa89793c0559846ea71c9a6916b41f9b57cbcb53",
+    "296a7a6599924746782415c9a6f0959b3aee3d5e47a97e2c2f682b4f8c3e71b0",
+    "c92022d297d1058b024015580361c2a1e1e9395d5a258ea8947fa1806f05098a",
+    "55a543ef826b55c02b5a8e6af0761683931a3099e50c0c105f07ef6b50962633",
+    "032865c114112f414857a0bd9e72bda51a921e3bf7acb7671d5b96438f933a5f",
+    "70594d4556893c71327bf39b35860fd27496c1c70bd399d171b033bbcbd781f0",
+    "664af14d0e0758f874e9cd1d4767b084593050d48e56e84bee884c7176c9b009",
+    "71538f1403aa9be5ebf7dbddf84c4dbe8249593246375a47d2dbccddd013d24c",
+    "58261e1867fb34a58bebb7db52153b3430039b1023867287b3c209f83cd7b848",
+    "5706a61fde1d86e76e28aea5b0aa9590bd3ff1688a617b25c16c524312e3931f",
+    "0eba7875605ce4acb6634485d637c47345e1d0ef4a37c7c50ac69431a0fc1f8d",
+    "76fec3bffaa33dc42ef2e29831a09629854782ad4c7692b7f13178c6819e87ac",
+    "637ef56a75482b6200e56adf81a9e2f46bbc416b3cc4a121d0dc14c0d9e72627",
+    "ba15008de62df736b33b383e2d6dd239050e0282fa7ec7ade720320f0d8104d9",
+    "8a3e9ab30127de61f6718841052802ef53c1d9d7caf69444edb44f245a6db36b",
+    "2fa04e7339d4aa47bce937ac3bc0ccbac3092231b6ff57282c474603aa903216",
+    "280e427b51b38b23816702dceca24cd0b15ab9ee3bacc855b7236b6c1c6bddcd",
+    "af1246d8e5b7fd0b39e1fb9df56bf374660544fc02ef5dd1d66ad8023845804d",
+    "edce4974ad28d9f6b97346e8d9891c7db59ee399360824df47ac4c136a310a32",
+    "6892c40d897ebadc7d07c44c4e25d882fb4683cf7f172a7e823f2992e6c0fb35",
+    "194fa9715dee2ca7efff55ab85d5e5ab2b8996f7b92e4e583986c1f72d51fdcb",
+    "02b2820aac8f51d4c758fe69c8a3477cd2a0c00c3905566ff77dfb210398bd07",
+    "1f10980efd2fcc2dc3e82df4cf7c929d7f0100e6404474c311bc467d4e488cfc",
+    "d547f55d9bd11841bfd99c145a874deeb2547024e4b86d8d22643ea36b79848d",
+    "1d94649b9d094c6dfb74c59a05e484b9ec8d3a9d7675d6e518dd1a5486e8218e",
+    "f481263337d921ae27e3ca0b157b254e8384caace7d6d1309280014520a0558a",
+    "81b7778b0ee062006430b4bec23dbe5ab4f4ca2e9dee338c316894e2fc2127df",
+    "84a69684d82903244e8e8d9b38fddabf70a941bf1022793fbff69367ffe2ae72",
+    "2deadff555d9e03d9b1eb3ab174009fc88faf723e1869cd8a29fe1836a339ae1",
+    "95fbe67293a85516ee30d12f7cd3ff44d5de0dfbf5b51e4cdf17bad3e1bb3d9c",
+    "41549a4828392079ece198c06a811d9ef37899a439c638b4846f2ee735175278",
+    "b4286a241a752dda4a4414d25401494cf0b9e916e77f701e8152caac86009511",
+    "45a6a4b8b0f84b31b68ebcc7c2f98750beb85551b099c036f6b8ebfc56ae9836",
+    "73cc84ebe02d9f63c3147941aca453e8f7059c9ee86609f8e6460cd9da705667",
+    "56ba6281a018a22ef31c6c181c222bc51165ce5334c573fe9425f7643dc32347",
+    "73f838f24e2bb8c1de590ff63bde95198e44255205ea004548fcdfad11359763",
+    "db49461b2963a6cbc57c5f76f33c19f2bad4dfbde4f005411ecb283bcae70b51"
+  ],
+  "contentFingerprint": "399f0f593354729bb7780f2897485c17df02b2a1dbc521a2196373f6a293d03a"
+}

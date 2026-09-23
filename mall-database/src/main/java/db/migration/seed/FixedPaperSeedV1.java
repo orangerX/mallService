@@ -56,7 +56,8 @@ public final class FixedPaperSeedV1 {
         require((first >= 1 && last <= 50 && last - first == 9 && (first - 1) % 10 == 0)
                         || (first == 51 && last == 52)
                         || (first == 53 && last == 62)
-                        || (first == 63 && last == 80),
+                        || (first == 63 && last == 80)
+                        || (first == 81 && last == 90),
                 "Expected a published fixed-paper batch");
         List<JsonNode> papers = new ArrayList<>();
         Set<String> fingerprints = new HashSet<>();

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-83",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 83 · 海岸生态与公众参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 83,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about counting birds on a tidal flat",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to counting birds on a tidal flat. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the shore information point.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the coastal stewardship team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4a80b7350b759e3932aef97d137dc4b063352169bb04561bf545643cb62b7bca",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about counting birds on a tidal flat”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the shore information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the coastal stewardship team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "57033a4dce487c1dcff48439c022bb3e81684e5c68c972dd881fbbd7869ada55"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about counting birds on a tidal flat”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the shore information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the coastal stewardship team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ff0c526e68ec534a718ef7888be9e3415669fde94e6e48a6cd762bef5197277d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about counting birds on a tidal flat”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the shore information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the coastal stewardship team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1833e2d30e131e6d2795a3f1f78350207c4db2fa80063b709b07c877afa71832"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about counting birds on a tidal flat”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the shore information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the coastal stewardship team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f53094c8d82571bba6c02faa324e4e627cd8f4e0eb63e4edc17398ba205094df"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying litter after a beach festival",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about litter after a beach festival is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the shore information point.",
+        "D": "Please send it to the coastal stewardship team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4ecade500957c10f9d7d9af7b801f7543c251396847cabf4ff1f9fe7075084a5",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying litter after a beach festival”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the shore information point.",
+            "D": "Please send it to the coastal stewardship team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9ea5f38d07312646dd2258dde00eb616519ca9fd03a89fb744e28ee7044b567e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying litter after a beach festival”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the shore information point.",
+            "D": "Please send it to the coastal stewardship team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ec89c1c5bea9e724df2ad56b3a7aff71d1f03ec0926849f339f38e51e3086b7f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying litter after a beach festival”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the shore information point.",
+            "D": "Please send it to the coastal stewardship team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4ddbf52e87d2c554644e6a0bc2dfab564f8eff8e69074d9f7b39f519f402b393"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on protecting a dune path",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about protecting a dune path last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b780b987e266defb6b397c76e0f61637d709786a6056a2d1d582ea53887a7e28",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on protecting a dune path”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5ef153a38ec0236ba9db0049c1667a9ec3b698479b14611622a58e3aaad770a7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on protecting a dune path”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "421211fe6a1546a272ca3b58797842200cbfc0089d6e11aedb2fd72983e03790"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on protecting a dune path”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7a0c78d5a52dad80ee399fd0ae4b62c8d1444194caac13b2e4e69090ed1bebf2"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Counting birds on a tidal flat",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Volunteers counted shorebirds from a public path. Their totals varied widely even on days when the birds seemed equally numerous. The main obstacle was counts made at different tide levels. A rising tide gathered birds together while low water spread them across distant mud. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a count schedule linked to tide tables. Experienced observers chose safe fixed points and recorded visibility with each count. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated timing explained much of the variation. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced comparable counts at agreed tidal stages. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: wildlife records need consistent conditions. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in counting birds on a tidal flat, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "890b366b0bd182ab87da4b17922ca82e4d1a3a5d83a7e46d06a734f550882254",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Counting birds on a tidal flat: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "cleanup bags without useful categories",
+            "B": "a path that appeared to end early",
+            "C": "boundary signs that looked broader than the rule",
+            "D": "counts made at different tide levels"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a6b1fbe1b1f6805eb83b352bbd332d41f40d84e6e9ccb12a52811878646aae26"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Counting birds on a tidal flat: What method was used to investigate the situation?",
+          "options": {
+            "A": "a count schedule linked to tide tables",
+            "B": "a simple sorted collection trial",
+            "C": "observations of visitor choices",
+            "D": "a map review with local boat users"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "675b8ec68cbee22ac5548559de257108e073743fcc83de691e74bf53dfc4ab95"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Counting birds on a tidal flat: What did the evidence indicate?",
+          "options": {
+            "A": "drink containers rose sharply near exits",
+            "B": "timing explained much of the variation",
+            "C": "a clearer final section reduced shortcuts",
+            "D": "a clear open route reduced misunderstanding"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e40a06216e48239ba13761fc52f713d8dd92ce3f05b48920fb3d5a258f737218"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Counting birds on a tidal flat: How was the arrangement changed?",
+          "options": {
+            "A": "more refill points and bins beside departure routes",
+            "B": "a visible path marker and small repair to the boards",
+            "C": "comparable counts at agreed tidal stages",
+            "D": "a revised map with both protected and permitted areas"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "876e2e32e9e6f572639837aed92122b7ba9b9599dc590daad82d3ce474137dbd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Counting birds on a tidal flat: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "prevention improves when waste has a source",
+            "B": "conservation routes must be easy to follow",
+            "C": "environmental rules work better when boundaries are clear",
+            "D": "wildlife records need consistent conditions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1aebe0bf5b1d764a2939d6f8577eeef32e3f30b04cd156aa4b3e68cc40f36b9d"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Litter after a beach festival",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A seaside town cleaned its beach after a festival. Volunteers collected many cups but could not tell where most waste came from. The main obstacle was cleanup bags without useful categories. The total weight combined food packaging, fishing material and older litter. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a simple sorted collection trial. Teams counted items by type while following safe handling rules. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated drink containers rose sharply near exits. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced more refill points and bins beside departure routes. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: prevention improves when waste has a source. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in litter after a beach festival, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "3f4073c1c71151499ea3f6a55b7fb1b744089420f3a4b31894a5dbfad4f89038",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Litter after a beach festival: What problem did the people involved notice?",
+          "options": {
+            "A": "counts made at different tide levels",
+            "B": "cleanup bags without useful categories",
+            "C": "a path that appeared to end early",
+            "D": "boundary signs that looked broader than the rule"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5fc616dd2f17398d38b6a8a59ee12e85806d44692a5e3b2a916c598aef914638"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Litter after a beach festival: What was the first investigative step?",
+          "options": {
+            "A": "a count schedule linked to tide tables",
+            "B": "observations of visitor choices",
+            "C": "a simple sorted collection trial",
+            "D": "a map review with local boat users"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "93736545eb23484063f61225289ba019e5b0574ed53001e5c7ffa46a6a1136d0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Litter after a beach festival: What was learned from the records?",
+          "options": {
+            "A": "timing explained much of the variation",
+            "B": "a clearer final section reduced shortcuts",
+            "C": "a clear open route reduced misunderstanding",
+            "D": "drink containers rose sharply near exits"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ae8c881b4571d7c62f4f9a4c8be1c9d8f3b12aed200125926665fa3b84f11beb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Litter after a beach festival: What adjustment followed?",
+          "options": {
+            "A": "more refill points and bins beside departure routes",
+            "B": "comparable counts at agreed tidal stages",
+            "C": "a visible path marker and small repair to the boards",
+            "D": "a revised map with both protected and permitted areas"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4f753541503b2098d6c3468cd2f466460701f66346c50d75785b919ceef1bf29"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Litter after a beach festival: What is the central message?",
+          "options": {
+            "A": "wildlife records need consistent conditions",
+            "B": "prevention improves when waste has a source",
+            "C": "conservation routes must be easy to follow",
+            "D": "environmental rules work better when boundaries are clear"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "505e4c07ae304d99bbc4ca94008fbae4236422e66cf41b1fea93a4b531362dc7"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Protecting a dune path",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Visitors crossed sand dunes to reach a quiet beach. A wooden path existed, but people often left it near the final turn. The main obstacle was a path that appeared to end early. From the usual approach, the last section was hidden by tall grass. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used observations of visitor choices. Rangers recorded where people stepped off and checked whether the route remained visible. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a clearer final section reduced shortcuts. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a visible path marker and small repair to the boards. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: conservation routes must be easy to follow. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in protecting a dune path, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "9381204b020b1e26d580d144da22b34278e87c5d04a682f3ec33f8980d0cc052",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Protecting a dune path: Why was the original plan difficult to use?",
+          "options": {
+            "A": "counts made at different tide levels",
+            "B": "cleanup bags without useful categories",
+            "C": "boundary signs that looked broader than the rule",
+            "D": "a path that appeared to end early"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d80700004ea673f4881061ecead85a2bdf9b2b7a9d41e42eda299cd2fa0904e6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Protecting a dune path: How did the team gather information?",
+          "options": {
+            "A": "observations of visitor choices",
+            "B": "a count schedule linked to tide tables",
+            "C": "a simple sorted collection trial",
+            "D": "a map review with local boat users"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "93fef349888d60b15b3e6333e92e4eca5b7b9897817f689044e5aa046665a71a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Protecting a dune path: What did the team discover?",
+          "options": {
+            "A": "timing explained much of the variation",
+            "B": "a clearer final section reduced shortcuts",
+            "C": "drink containers rose sharply near exits",
+            "D": "a clear open route reduced misunderstanding"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f55e4a3448ef0ff41009629efe4573784ef17654075b26b985789cc322a63a5a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Protecting a dune path: What did it do in response?",
+          "options": {
+            "A": "comparable counts at agreed tidal stages",
+            "B": "more refill points and bins beside departure routes",
+            "C": "a visible path marker and small repair to the boards",
+            "D": "a revised map with both protected and permitted areas"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1561c835c2068a1049c127a1b4ffd8d8d8160424eaf6e99e9fac7ccb977d2d60"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Protecting a dune path: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "wildlife records need consistent conditions",
+            "B": "prevention improves when waste has a source",
+            "C": "environmental rules work better when boundaries are clear",
+            "D": "conservation routes must be easy to follow"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "46abfb964d5f40c6be0420f453f97cafd9c60be1857ae40cb022c5d92ad2ec46"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Explaining a sea-grass restoration area",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A harbour group marked a sea-grass restoration zone. Some boat users thought the markers prohibited all activity across the bay. The main obstacle was boundary signs that looked broader than the rule. The first notice showed the protected area but not the open route around it. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a map review with local boat users. The group compared the marked zone with real navigation choices and conservation advice. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a clear open route reduced misunderstanding. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised map with both protected and permitted areas. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: environmental rules work better when boundaries are clear. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in explaining a sea-grass restoration area, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "4d463e156344fb6e63c2158f202c2a48ae0a0eec1739228b3e2f245361c13d0d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Explaining a sea-grass restoration area: What was the main obstacle?",
+          "options": {
+            "A": "counts made at different tide levels",
+            "B": "boundary signs that looked broader than the rule",
+            "C": "cleanup bags without useful categories",
+            "D": "a path that appeared to end early"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "80aea2800d0b20ece713f0b84170b06249153ee41660ef3121d8b970ae8d36d8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Explaining a sea-grass restoration area: How was the idea examined?",
+          "options": {
+            "A": "a count schedule linked to tide tables",
+            "B": "a simple sorted collection trial",
+            "C": "a map review with local boat users",
+            "D": "observations of visitor choices"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5a182538b3d28c1b2e1cd53d60564bc39c6ac9f4fd13632f043e6276cf60098b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Explaining a sea-grass restoration area: Which finding shaped the decision?",
+          "options": {
+            "A": "timing explained much of the variation",
+            "B": "drink containers rose sharply near exits",
+            "C": "a clearer final section reduced shortcuts",
+            "D": "a clear open route reduced misunderstanding"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "bd656c5c685abe214f1a7d7cdc2e76c6422dfc7cf711f7e255f90642bec026fd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Explaining a sea-grass restoration area: What change did the group make?",
+          "options": {
+            "A": "a revised map with both protected and permitted areas",
+            "B": "comparable counts at agreed tidal stages",
+            "C": "more refill points and bins beside departure routes",
+            "D": "a visible path marker and small repair to the boards"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a8709e377ae39a694a8a8b7c72d6c840f5319e157582c0364876bcf57f8f1769"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Explaining a sea-grass restoration area: What lesson does the writer emphasize?",
+          "options": {
+            "A": "wildlife records need consistent conditions",
+            "B": "environmental rules work better when boundaries are clear",
+            "C": "prevention improves when waste has a source",
+            "D": "conservation routes must be easy to follow"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ec0171e289319803d354131af7071bbaf1fc6600b5ad380a11a31089db608881"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the coastal observation programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ad9ef401149c75a6082921a2b318869ecc3fa023a18363937b9ceaf011b60bf2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the coastal observation programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "54773947d49f1ab2189fb3c5ec713cfc6c704c43ede5b02051ed2c3c5efd3289"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the coastal observation programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5b78869c5d6922e31908261bc068ccf59f439e0db4c479f160b9d0cfe271c2be"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the coastal observation programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "70775e826f03999edf19211598f4224b05f0b1d26218228e44ac3bbcf676778c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the coastal observation programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4ea634f0354f6e763651108f389ad1f7920d2dc3a022f56dee433deca72cb1e8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the coastal observation programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "63e0581389853a5acd34a05b37d116ea72d2626551dd63122a88cc0de0f7edc2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the coastal observation programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d9ce3c843eb41925ed893c4e06451bf4b5b5d6f95d1df2676f80ebfa677ab596"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the coastal observation programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6b139429325206494adf53539de0a4b4e805ef6fb71a1543aa4af8df96ab74fc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the coastal observation programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3b592b6355f2b0b8f04e2597d448e61fc147c83e88f3b3fbca9e94262f87e2a5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the coastal observation programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0802a09ee62593a256f037744ddfab29b4de732b975d7108087208c7e33c4d04"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the coastal observation programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d7d038544670ac928473e2060317494de5302d5e1ebc06db909f31b738f4701f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the coastal observation programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b626697b643b83454ff3d085d2ffbf06d58390d08896f5a24f8afc7be97c800b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the coastal observation programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "250cac5b05268084473343998fc51ea452faae0e9ffe6cef678d60501df09bb5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the coastal observation programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "32f9f62e42b57852fdd14b5223dfaa556e1e5eef3b38f3d9223fecc823327d2f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the coastal observation programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "22bf1e2a83f9eb222cfc9e5550e7f1b18b911fece2d484d13f4d09297994a341"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the coastal observation programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8ba0e95375ef79fba7cf4d607b7926c0fe531fcddea466ee3f53e7d62843458a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the coastal observation programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bef8ff0f1b4ad110d668b42dcbc05b5866142fc24a4359e692016be07cdf7674"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the coastal observation programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "17df6da5d53e733439792eb18da1cf968c909bbc3dfa32432b2f09d478c2366f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the coastal observation programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d596fd94012edb8f7ad180588581dbedb226f0259e684aab0041903902f4ba2e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the coastal observation programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cfc5ff3054ec67c4af8ff060286d110c8a5ee6600f4fb34402408920616cb078"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the coastal observation programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about coastal ecology and public participation, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关海岸生态与公众参与的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "3653b8f54ee56f131eb9d315853762911e3688c367281d6f7e2fb57b927d7256",
+      "referenceAnswerFingerprint": "7fe10e9259b555a2f34bb892163cddc64bfba424d81dd17b078678c5604cda1f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the coastal stewardship team suggesting a practical change to the coastal observation programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the coastal observation programme. People have noticed counts made at different tide levels, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "6ab3c89b63159b9c0d67d914324471cc6f76834396520732166218ec3918e9db",
+      "sampleAnswerFingerprint": "b684c2593008db22a8f70484d7d96ca55b60b522531169f4fa3405309347afa7"
+    }
+  ],
+  "fingerprintManifest": [
+    "4a80b7350b759e3932aef97d137dc4b063352169bb04561bf545643cb62b7bca",
+    "57033a4dce487c1dcff48439c022bb3e81684e5c68c972dd881fbbd7869ada55",
+    "ff0c526e68ec534a718ef7888be9e3415669fde94e6e48a6cd762bef5197277d",
+    "1833e2d30e131e6d2795a3f1f78350207c4db2fa80063b709b07c877afa71832",
+    "f53094c8d82571bba6c02faa324e4e627cd8f4e0eb63e4edc17398ba205094df",
+    "4ecade500957c10f9d7d9af7b801f7543c251396847cabf4ff1f9fe7075084a5",
+    "9ea5f38d07312646dd2258dde00eb616519ca9fd03a89fb744e28ee7044b567e",
+    "ec89c1c5bea9e724df2ad56b3a7aff71d1f03ec0926849f339f38e51e3086b7f",
+    "4ddbf52e87d2c554644e6a0bc2dfab564f8eff8e69074d9f7b39f519f402b393",
+    "b780b987e266defb6b397c76e0f61637d709786a6056a2d1d582ea53887a7e28",
+    "5ef153a38ec0236ba9db0049c1667a9ec3b698479b14611622a58e3aaad770a7",
+    "421211fe6a1546a272ca3b58797842200cbfc0089d6e11aedb2fd72983e03790",
+    "7a0c78d5a52dad80ee399fd0ae4b62c8d1444194caac13b2e4e69090ed1bebf2",
+    "890b366b0bd182ab87da4b17922ca82e4d1a3a5d83a7e46d06a734f550882254",
+    "a6b1fbe1b1f6805eb83b352bbd332d41f40d84e6e9ccb12a52811878646aae26",
+    "675b8ec68cbee22ac5548559de257108e073743fcc83de691e74bf53dfc4ab95",
+    "e40a06216e48239ba13761fc52f713d8dd92ce3f05b48920fb3d5a258f737218",
+    "876e2e32e9e6f572639837aed92122b7ba9b9599dc590daad82d3ce474137dbd",
+    "1aebe0bf5b1d764a2939d6f8577eeef32e3f30b04cd156aa4b3e68cc40f36b9d",
+    "3f4073c1c71151499ea3f6a55b7fb1b744089420f3a4b31894a5dbfad4f89038",
+    "5fc616dd2f17398d38b6a8a59ee12e85806d44692a5e3b2a916c598aef914638",
+    "93736545eb23484063f61225289ba019e5b0574ed53001e5c7ffa46a6a1136d0",
+    "ae8c881b4571d7c62f4f9a4c8be1c9d8f3b12aed200125926665fa3b84f11beb",
+    "4f753541503b2098d6c3468cd2f466460701f66346c50d75785b919ceef1bf29",
+    "505e4c07ae304d99bbc4ca94008fbae4236422e66cf41b1fea93a4b531362dc7",
+    "9381204b020b1e26d580d144da22b34278e87c5d04a682f3ec33f8980d0cc052",
+    "d80700004ea673f4881061ecead85a2bdf9b2b7a9d41e42eda299cd2fa0904e6",
+    "93fef349888d60b15b3e6333e92e4eca5b7b9897817f689044e5aa046665a71a",
+    "f55e4a3448ef0ff41009629efe4573784ef17654075b26b985789cc322a63a5a",
+    "1561c835c2068a1049c127a1b4ffd8d8d8160424eaf6e99e9fac7ccb977d2d60",
+    "46abfb964d5f40c6be0420f453f97cafd9c60be1857ae40cb022c5d92ad2ec46",
+    "4d463e156344fb6e63c2158f202c2a48ae0a0eec1739228b3e2f245361c13d0d",
+    "80aea2800d0b20ece713f0b84170b06249153ee41660ef3121d8b970ae8d36d8",
+    "5a182538b3d28c1b2e1cd53d60564bc39c6ac9f4fd13632f043e6276cf60098b",
+    "bd656c5c685abe214f1a7d7cdc2e76c6422dfc7cf711f7e255f90642bec026fd",
+    "a8709e377ae39a694a8a8b7c72d6c840f5319e157582c0364876bcf57f8f1769",
+    "ec0171e289319803d354131af7071bbaf1fc6600b5ad380a11a31089db608881",
+    "ad9ef401149c75a6082921a2b318869ecc3fa023a18363937b9ceaf011b60bf2",
+    "54773947d49f1ab2189fb3c5ec713cfc6c704c43ede5b02051ed2c3c5efd3289",
+    "5b78869c5d6922e31908261bc068ccf59f439e0db4c479f160b9d0cfe271c2be",
+    "70775e826f03999edf19211598f4224b05f0b1d26218228e44ac3bbcf676778c",
+    "4ea634f0354f6e763651108f389ad1f7920d2dc3a022f56dee433deca72cb1e8",
+    "63e0581389853a5acd34a05b37d116ea72d2626551dd63122a88cc0de0f7edc2",
+    "d9ce3c843eb41925ed893c4e06451bf4b5b5d6f95d1df2676f80ebfa677ab596",
+    "6b139429325206494adf53539de0a4b4e805ef6fb71a1543aa4af8df96ab74fc",
+    "3b592b6355f2b0b8f04e2597d448e61fc147c83e88f3b3fbca9e94262f87e2a5",
+    "0802a09ee62593a256f037744ddfab29b4de732b975d7108087208c7e33c4d04",
+    "d7d038544670ac928473e2060317494de5302d5e1ebc06db909f31b738f4701f",
+    "b626697b643b83454ff3d085d2ffbf06d58390d08896f5a24f8afc7be97c800b",
+    "250cac5b05268084473343998fc51ea452faae0e9ffe6cef678d60501df09bb5",
+    "32f9f62e42b57852fdd14b5223dfaa556e1e5eef3b38f3d9223fecc823327d2f",
+    "22bf1e2a83f9eb222cfc9e5550e7f1b18b911fece2d484d13f4d09297994a341",
+    "8ba0e95375ef79fba7cf4d607b7926c0fe531fcddea466ee3f53e7d62843458a",
+    "bef8ff0f1b4ad110d668b42dcbc05b5866142fc24a4359e692016be07cdf7674",
+    "17df6da5d53e733439792eb18da1cf968c909bbc3dfa32432b2f09d478c2366f",
+    "d596fd94012edb8f7ad180588581dbedb226f0259e684aab0041903902f4ba2e",
+    "cfc5ff3054ec67c4af8ff060286d110c8a5ee6600f4fb34402408920616cb078",
+    "3653b8f54ee56f131eb9d315853762911e3688c367281d6f7e2fb57b927d7256",
+    "7fe10e9259b555a2f34bb892163cddc64bfba424d81dd17b078678c5604cda1f",
+    "6ab3c89b63159b9c0d67d914324471cc6f76834396520732166218ec3918e9db",
+    "b684c2593008db22a8f70484d7d96ca55b60b522531169f4fa3405309347afa7"
+  ],
+  "contentFingerprint": "a5cf935759a49992ece4edfd8c88ccaffb40df654dde0844d28df715e716c00d"
+}

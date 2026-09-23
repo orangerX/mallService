@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-84",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 84 · 住房与公共建筑设计",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 84,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about a shared laundry room schedule",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about a shared laundry room schedule. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the housing information counter for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the building design team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "29921838e08284ef44d4b35aa2b71e2a3b30a5288a5bba7f788fc2581a91f4a4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about a shared laundry room schedule”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the housing information counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the building design team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f75f6d7d2111d1a01a17c0c6d1af9689098ae2fda536c89120e7ef7c4876d923"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about a shared laundry room schedule”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the housing information counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the building design team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "41f2a18f8e67a7cddc97ff4e117b06c8fe176348c6f7c040c854f24dc8bb710a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about a shared laundry room schedule”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the housing information counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the building design team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c14297ddf6e3cf36296adfb6e2fac5a8e6b188334122dc765281e69b2177a330"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about a shared laundry room schedule”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the housing information counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the building design team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7f7509b0de21d0f7fb62aebc389ff181919023152ad6843a446477b82e682b24"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying light in a public reading room",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about light in a public reading room is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the housing information counter.",
+        "D": "Please send it to the building design team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "a43583a5b467b9cd40579d492c5cb2b2e13a83a3b3238ccf5e70393fca8b1ec7",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying light in a public reading room”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the housing information counter.",
+            "D": "Please send it to the building design team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "07140f50d48a677886a3dc148934a2d8331980d09f4d25e6dcf451ddf4cf8698"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying light in a public reading room”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the housing information counter.",
+            "D": "Please send it to the building design team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "66684f94c5407c98bf655467d61431d9feb5d3ce4e544900afb4010f19f4eee9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying light in a public reading room”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the housing information counter.",
+            "D": "Please send it to the building design team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ca26b3dabda246fff116c7638c98cc5581fc718088984a515271a8eb6734cd45"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on finding the lift in a housing block",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about finding the lift in a housing block last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "07e6ac87b12f1c0ae044b8b82973a5254519fe319e9865a4cfcabc94e138b850",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on finding the lift in a housing block”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d98fd91e4abf76e903e7fd134bc98ed04ef22a5ab76bac9b9cabe3971092388b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on finding the lift in a housing block”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5ade73a29ef35444848bf977c211d10d0535abc7624a26d7a83177e98c30f806"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on finding the lift in a housing block”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "12c5911cac07b83fb1d81dfb703b62c8cf321d5b63da36240982304e1938b76e"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A shared laundry room schedule",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents of an apartment building shared two laundry machines. Weekend arguments grew even though a booking sheet hung beside the door. The main obstacle was reservations visible only inside the room. People made plans at home and discovered a conflict only after carrying clothes downstairs. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a record of machine use and complaints. The building committee compared busy hours with the number of missed or duplicated bookings. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated advance access to the schedule reduced conflicts. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a shared booking view with a paper alternative. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: shared facilities need information before arrival. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a shared laundry room schedule, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "c3bb90976caccb84367df37451a4202d9dbf20fb25be9ee6333a68ec1a236920",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A shared laundry room schedule: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "reservations visible only inside the room",
+            "B": "glare at the most popular desks",
+            "C": "wayfinding based on the old building layout",
+            "D": "a choice between fresh air and audible discussion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b334a05ba954d2ac2d0b70f4b52817e3ca6fe8d7965b44aa13ed4e2b748d8755"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A shared laundry room schedule: What method was used to investigate the situation?",
+          "options": {
+            "A": "observations across different times of day",
+            "B": "a record of machine use and complaints",
+            "C": "a walk-through with first-time users",
+            "D": "a monitored series of ordinary meetings"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b18e44dd93bc87d561ebcf3626b6bf9e853f636a46e50bff511ad971de8acc18"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A shared laundry room schedule: What did the evidence indicate?",
+          "options": {
+            "A": "adjustable shade preserved useful daylight",
+            "B": "the first junction caused nearly every error",
+            "C": "advance access to the schedule reduced conflicts",
+            "D": "a planned airflow setting worked better than sudden changes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "171d96a3bea97e95d1dcb1687808d085403926406611463ae2635e3abd51247f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A shared laundry room schedule: How was the arrangement changed?",
+          "options": {
+            "A": "movable blinds and revised desk placement",
+            "B": "new signs at the entrance and corridor split",
+            "C": "an occupancy guide and suitable ventilation adjustment",
+            "D": "a shared booking view with a paper alternative"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8a9e3a16f7e18b26bedd231cf6ee3fa457145355857ff18843cbe258857b53f8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A shared laundry room schedule: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "shared facilities need information before arrival",
+            "B": "good design responds to changing conditions",
+            "C": "an improvement is useful only when it can be found",
+            "D": "comfortable shared spaces require measured choices"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "bfc059e3c82bdeee65c4fff6e461917e822832f4ff1f07faf2994dfde3eedd72"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Light in a public reading room",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A new reading room had large windows. Readers praised the daylight but moved away from desks when afternoon sun reached their pages. The main obstacle was glare at the most popular desks. The original drawing showed the room in morning light and missed seasonal changes. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used observations across different times of day. Staff noted occupied seats and asked readers when they moved. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated adjustable shade preserved useful daylight. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced movable blinds and revised desk placement. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: good design responds to changing conditions. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in light in a public reading room, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "2ced72322bf9628b772b7ef54ef3e9fa1bd569f3b1b863679d96ab78e1d64f32",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Light in a public reading room: What problem did the people involved notice?",
+          "options": {
+            "A": "reservations visible only inside the room",
+            "B": "wayfinding based on the old building layout",
+            "C": "glare at the most popular desks",
+            "D": "a choice between fresh air and audible discussion"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ce70f74e534948f702a8d7dc5a6d726c24bb8bbc812d2a10809906d8c553aa92"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Light in a public reading room: What was the first investigative step?",
+          "options": {
+            "A": "a record of machine use and complaints",
+            "B": "a walk-through with first-time users",
+            "C": "a monitored series of ordinary meetings",
+            "D": "observations across different times of day"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c6115319afb56b2fd60140d12f7aceb806bc08bdef6cad78e8a2d8b1dcc91c1f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Light in a public reading room: What was learned from the records?",
+          "options": {
+            "A": "adjustable shade preserved useful daylight",
+            "B": "advance access to the schedule reduced conflicts",
+            "C": "the first junction caused nearly every error",
+            "D": "a planned airflow setting worked better than sudden changes"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "295a010b27d91688583062536ed03c64bab16002733f45754cab8c4f76e5d752"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Light in a public reading room: What adjustment followed?",
+          "options": {
+            "A": "a shared booking view with a paper alternative",
+            "B": "movable blinds and revised desk placement",
+            "C": "new signs at the entrance and corridor split",
+            "D": "an occupancy guide and suitable ventilation adjustment"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f4a0307532c3cfeff90ee45db59e6d8178c438aeaaa25692bcb5b75194f65b43"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Light in a public reading room: What is the central message?",
+          "options": {
+            "A": "shared facilities need information before arrival",
+            "B": "an improvement is useful only when it can be found",
+            "C": "good design responds to changing conditions",
+            "D": "comfortable shared spaces require measured choices"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "15631e32c784b4383538c4cee9ff44f8049b59c5207afa0cadd4b7cc6b0e7aad"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Finding the lift in a housing block",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A renovated housing block added a lift. New visitors repeatedly climbed stairs because signs from the main entrance pointed elsewhere. The main obstacle was wayfinding based on the old building layout. The lift was visible from one corridor but not from the route used by most visitors. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a walk-through with first-time users. Residents watched guests choose routes without giving them advance directions. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated the first junction caused nearly every error. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced new signs at the entrance and corridor split. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: an improvement is useful only when it can be found. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in finding the lift in a housing block, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "d9748dfe91b06d725d1c77850858bd966cfec388c97adda37765a6682109e6c2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Finding the lift in a housing block: Why was the original plan difficult to use?",
+          "options": {
+            "A": "wayfinding based on the old building layout",
+            "B": "reservations visible only inside the room",
+            "C": "glare at the most popular desks",
+            "D": "a choice between fresh air and audible discussion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8099cf76eb34feac780ea453545c5c0c0267f4d0d9975eb5ed88e87710c2e48a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Finding the lift in a housing block: How did the team gather information?",
+          "options": {
+            "A": "a record of machine use and complaints",
+            "B": "a walk-through with first-time users",
+            "C": "observations across different times of day",
+            "D": "a monitored series of ordinary meetings"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f3aceee54011fa1cec0bbf54c1ed00ebda1efb7c54b0b85a46f99962a46b6290"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Finding the lift in a housing block: What did the team discover?",
+          "options": {
+            "A": "advance access to the schedule reduced conflicts",
+            "B": "adjustable shade preserved useful daylight",
+            "C": "the first junction caused nearly every error",
+            "D": "a planned airflow setting worked better than sudden changes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "add4f94cd06022f94459f20c370f9877dd3c477efd68e5643085d5084dbfff98"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Finding the lift in a housing block: What did it do in response?",
+          "options": {
+            "A": "a shared booking view with a paper alternative",
+            "B": "movable blinds and revised desk placement",
+            "C": "an occupancy guide and suitable ventilation adjustment",
+            "D": "new signs at the entrance and corridor split"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ac3f0d0ceebbda5b0883673c2b4f92e32806d3210a9c3ea01b5cb02a32e71ecf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Finding the lift in a housing block: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "an improvement is useful only when it can be found",
+            "B": "shared facilities need information before arrival",
+            "C": "good design responds to changing conditions",
+            "D": "comfortable shared spaces require measured choices"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f1829b831a463b8214f04a848e6b2e64f7404787c06ad99682266e77e82c5069"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Ventilation in a meeting room",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community meeting room felt uncomfortable during crowded events. Opening every window helped briefly but caused noise from the street. The main obstacle was a choice between fresh air and audible discussion. Organizers had no record of occupancy or when conditions became difficult. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a monitored series of ordinary meetings. Building staff recorded room use and consulted qualified specialists about ventilation options. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a planned airflow setting worked better than sudden changes. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced an occupancy guide and suitable ventilation adjustment. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: comfortable shared spaces require measured choices. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in ventilation in a meeting room, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "8dfeb0520d0d170fcc77289c881b77186f31d76b1961b27659a41364c667d33a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Ventilation in a meeting room: What was the main obstacle?",
+          "options": {
+            "A": "reservations visible only inside the room",
+            "B": "glare at the most popular desks",
+            "C": "a choice between fresh air and audible discussion",
+            "D": "wayfinding based on the old building layout"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "880d8555ef86358e2284b246b4d8a463b273ad18db7c50247088ff09a0db59b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Ventilation in a meeting room: How was the idea examined?",
+          "options": {
+            "A": "a record of machine use and complaints",
+            "B": "observations across different times of day",
+            "C": "a walk-through with first-time users",
+            "D": "a monitored series of ordinary meetings"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "eae8989481480504102587242d8f4b90bd344a7f3ac3dc1a0403d1d4ec41f6d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Ventilation in a meeting room: Which finding shaped the decision?",
+          "options": {
+            "A": "a planned airflow setting worked better than sudden changes",
+            "B": "advance access to the schedule reduced conflicts",
+            "C": "adjustable shade preserved useful daylight",
+            "D": "the first junction caused nearly every error"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8219f0c4f971994988ddee3fea48f38d9a23d8a3a6bb0aaa576c5f167b3e1671"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Ventilation in a meeting room: What change did the group make?",
+          "options": {
+            "A": "a shared booking view with a paper alternative",
+            "B": "an occupancy guide and suitable ventilation adjustment",
+            "C": "movable blinds and revised desk placement",
+            "D": "new signs at the entrance and corridor split"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "33ce4a9c94c375200557d7328bb0e582086c472ff9c5036cd75d0cdb02f14b7d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Ventilation in a meeting room: What lesson does the writer emphasize?",
+          "options": {
+            "A": "shared facilities need information before arrival",
+            "B": "good design responds to changing conditions",
+            "C": "comfortable shared spaces require measured choices",
+            "D": "an improvement is useful only when it can be found"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cb12ee3606d98302959b843c219d0671b6bb833968bd9b618dea6f8db536bbcb"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the neighbourhood building improvement programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1ecc51fac6b124d2943617cc249453801e4f07580442eb6ea24284645bc0aa3b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the neighbourhood building improvement programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1f20e120b741a8aff476fc78f9d7d9dce41349463602c3dca18ad36795f1d69f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the neighbourhood building improvement programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "54fe863c8c92ea60d23bf5e02d7531930768c1d438124b041ca1d78b1bb0b22e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the neighbourhood building improvement programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "927598d560f88b2a59adbeceb9df85c7a716d09aecb094fbb406358729b32fb0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the neighbourhood building improvement programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3960de75e08e056106037811af9edfa8d8b83143b6baebaf64b5ea44cc8a78d0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the neighbourhood building improvement programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "06332b7a0075059eb0524539fea99ebf5106826ee4abb56ce049a2586ab2c1c5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the neighbourhood building improvement programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c29ffe38e1dac8120befaada5ba745d53a9f32ca0bb889fb0a7899fcf5935fd5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the neighbourhood building improvement programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "74d5697d2a65ec465b91d820fb834f8c485068f2a2f232091283efcf1d86dc84"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the neighbourhood building improvement programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "716935a42a0b57177e4baf9a1daec9a1c3e331630d1937da1fed3649b830f4c2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the neighbourhood building improvement programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "720cf290be3e38fc56ad54fca326f243b40d7f97bed019b827683fe30c2f2181"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the neighbourhood building improvement programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "308fed0d855e9e897c42f8da66ed9e6ebb743835df5b9ab4a6e779c959662e62"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the neighbourhood building improvement programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "51dccc50af114fe00506337e55e98c09cf2d419cb3c2c7d24edc4f65c14ea8e4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the neighbourhood building improvement programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c44c61d187fcc304c583be2f3a8e581baa062d8e42f3fb6c3fcc1f71f4db400c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the neighbourhood building improvement programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "50c55eac923e07e7b8ce498c8580c330e3207ead3de96b45ea3aa80e957efae5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the neighbourhood building improvement programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1347307bdd64569f3c02f6fef3cb5eda64042b81c3bfd6a4c59e786a44ab2c04"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the neighbourhood building improvement programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2dc897ba2ba4bf3cfa554c534ff6fecae1328c36fc6eaf2b6e7cf9ec719f9378"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the neighbourhood building improvement programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "05f35f6ecf04f5ac041abb954d76734a2b39e5403e8da1ad0538fecbab555cd5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the neighbourhood building improvement programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "67733ed37405b3fa45ae0a89d9851b1c87acd5a569b01c87177ff9b50206e5d0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the neighbourhood building improvement programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5cf97a08017037e6dcf7ac93c8a3a6f7a9ee4b017719d4a41047d0ef9bb19d37"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the neighbourhood building improvement programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "62f648e9395d74c630058f3343a5cac074932539756f6de5d9d01e7137d9d2bf"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning housing and public building design often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the neighbourhood building improvement programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关住房与公共建筑设计的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "9a5b9fb51d81eceebab8686415e2394eb4f65390d953d4c4a17bb4738a76cac0",
+      "referenceAnswerFingerprint": "bd228ee957d60398fbe7e636ef80ba39b680fb462b8c98bce308c54aa3470339"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the building design team proposing a small improvement to the neighbourhood building improvement programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the neighbourhood building improvement programme. People have noticed reservations visible only inside the room, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "46cf7c65ab18c2df68329d937d5c20475edcf4f029cd0ac1530354445991d692",
+      "sampleAnswerFingerprint": "4326850388fe8ebb03f1955fb8041f27f1868fe7f36ce36178313d3719caf6c8"
+    }
+  ],
+  "fingerprintManifest": [
+    "29921838e08284ef44d4b35aa2b71e2a3b30a5288a5bba7f788fc2581a91f4a4",
+    "f75f6d7d2111d1a01a17c0c6d1af9689098ae2fda536c89120e7ef7c4876d923",
+    "41f2a18f8e67a7cddc97ff4e117b06c8fe176348c6f7c040c854f24dc8bb710a",
+    "c14297ddf6e3cf36296adfb6e2fac5a8e6b188334122dc765281e69b2177a330",
+    "7f7509b0de21d0f7fb62aebc389ff181919023152ad6843a446477b82e682b24",
+    "a43583a5b467b9cd40579d492c5cb2b2e13a83a3b3238ccf5e70393fca8b1ec7",
+    "07140f50d48a677886a3dc148934a2d8331980d09f4d25e6dcf451ddf4cf8698",
+    "66684f94c5407c98bf655467d61431d9feb5d3ce4e544900afb4010f19f4eee9",
+    "ca26b3dabda246fff116c7638c98cc5581fc718088984a515271a8eb6734cd45",
+    "07e6ac87b12f1c0ae044b8b82973a5254519fe319e9865a4cfcabc94e138b850",
+    "d98fd91e4abf76e903e7fd134bc98ed04ef22a5ab76bac9b9cabe3971092388b",
+    "5ade73a29ef35444848bf977c211d10d0535abc7624a26d7a83177e98c30f806",
+    "12c5911cac07b83fb1d81dfb703b62c8cf321d5b63da36240982304e1938b76e",
+    "c3bb90976caccb84367df37451a4202d9dbf20fb25be9ee6333a68ec1a236920",
+    "b334a05ba954d2ac2d0b70f4b52817e3ca6fe8d7965b44aa13ed4e2b748d8755",
+    "b18e44dd93bc87d561ebcf3626b6bf9e853f636a46e50bff511ad971de8acc18",
+    "171d96a3bea97e95d1dcb1687808d085403926406611463ae2635e3abd51247f",
+    "8a9e3a16f7e18b26bedd231cf6ee3fa457145355857ff18843cbe258857b53f8",
+    "bfc059e3c82bdeee65c4fff6e461917e822832f4ff1f07faf2994dfde3eedd72",
+    "2ced72322bf9628b772b7ef54ef3e9fa1bd569f3b1b863679d96ab78e1d64f32",
+    "ce70f74e534948f702a8d7dc5a6d726c24bb8bbc812d2a10809906d8c553aa92",
+    "c6115319afb56b2fd60140d12f7aceb806bc08bdef6cad78e8a2d8b1dcc91c1f",
+    "295a010b27d91688583062536ed03c64bab16002733f45754cab8c4f76e5d752",
+    "f4a0307532c3cfeff90ee45db59e6d8178c438aeaaa25692bcb5b75194f65b43",
+    "15631e32c784b4383538c4cee9ff44f8049b59c5207afa0cadd4b7cc6b0e7aad",
+    "d9748dfe91b06d725d1c77850858bd966cfec388c97adda37765a6682109e6c2",
+    "8099cf76eb34feac780ea453545c5c0c0267f4d0d9975eb5ed88e87710c2e48a",
+    "f3aceee54011fa1cec0bbf54c1ed00ebda1efb7c54b0b85a46f99962a46b6290",
+    "add4f94cd06022f94459f20c370f9877dd3c477efd68e5643085d5084dbfff98",
+    "ac3f0d0ceebbda5b0883673c2b4f92e32806d3210a9c3ea01b5cb02a32e71ecf",
+    "f1829b831a463b8214f04a848e6b2e64f7404787c06ad99682266e77e82c5069",
+    "8dfeb0520d0d170fcc77289c881b77186f31d76b1961b27659a41364c667d33a",
+    "880d8555ef86358e2284b246b4d8a463b273ad18db7c50247088ff09a0db59b9",
+    "eae8989481480504102587242d8f4b90bd344a7f3ac3dc1a0403d1d4ec41f6d9",
+    "8219f0c4f971994988ddee3fea48f38d9a23d8a3a6bb0aaa576c5f167b3e1671",
+    "33ce4a9c94c375200557d7328bb0e582086c472ff9c5036cd75d0cdb02f14b7d",
+    "cb12ee3606d98302959b843c219d0671b6bb833968bd9b618dea6f8db536bbcb",
+    "1ecc51fac6b124d2943617cc249453801e4f07580442eb6ea24284645bc0aa3b",
+    "1f20e120b741a8aff476fc78f9d7d9dce41349463602c3dca18ad36795f1d69f",
+    "54fe863c8c92ea60d23bf5e02d7531930768c1d438124b041ca1d78b1bb0b22e",
+    "927598d560f88b2a59adbeceb9df85c7a716d09aecb094fbb406358729b32fb0",
+    "3960de75e08e056106037811af9edfa8d8b83143b6baebaf64b5ea44cc8a78d0",
+    "06332b7a0075059eb0524539fea99ebf5106826ee4abb56ce049a2586ab2c1c5",
+    "c29ffe38e1dac8120befaada5ba745d53a9f32ca0bb889fb0a7899fcf5935fd5",
+    "74d5697d2a65ec465b91d820fb834f8c485068f2a2f232091283efcf1d86dc84",
+    "716935a42a0b57177e4baf9a1daec9a1c3e331630d1937da1fed3649b830f4c2",
+    "720cf290be3e38fc56ad54fca326f243b40d7f97bed019b827683fe30c2f2181",
+    "308fed0d855e9e897c42f8da66ed9e6ebb743835df5b9ab4a6e779c959662e62",
+    "51dccc50af114fe00506337e55e98c09cf2d419cb3c2c7d24edc4f65c14ea8e4",
+    "c44c61d187fcc304c583be2f3a8e581baa062d8e42f3fb6c3fcc1f71f4db400c",
+    "50c55eac923e07e7b8ce498c8580c330e3207ead3de96b45ea3aa80e957efae5",
+    "1347307bdd64569f3c02f6fef3cb5eda64042b81c3bfd6a4c59e786a44ab2c04",
+    "2dc897ba2ba4bf3cfa554c534ff6fecae1328c36fc6eaf2b6e7cf9ec719f9378",
+    "05f35f6ecf04f5ac041abb954d76734a2b39e5403e8da1ad0538fecbab555cd5",
+    "67733ed37405b3fa45ae0a89d9851b1c87acd5a569b01c87177ff9b50206e5d0",
+    "5cf97a08017037e6dcf7ac93c8a3a6f7a9ee4b017719d4a41047d0ef9bb19d37",
+    "62f648e9395d74c630058f3343a5cac074932539756f6de5d9d01e7137d9d2bf",
+    "9a5b9fb51d81eceebab8686415e2394eb4f65390d953d4c4a17bb4738a76cac0",
+    "bd228ee957d60398fbe7e636ef80ba39b680fb462b8c98bce308c54aa3470339",
+    "46cf7c65ab18c2df68329d937d5c20475edcf4f029cd0ac1530354445991d692",
+    "4326850388fe8ebb03f1955fb8041f27f1868fe7f36ce36178313d3719caf6c8"
+  ],
+  "contentFingerprint": "d9bd49794e3a0b7fdb78b33d22b1c68f3c48e18ebd83700f2714b919403de65c"
+}

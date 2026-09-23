@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-89",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 89 · 天文观察与科学传播",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 89,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about a moon observation evening",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to a moon observation evening. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the observatory visitor desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the science outreach team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "30fae347afb6d5d5f4adea7a443701479b22910010b2540f8a4b3dd0161a2c4f",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about a moon observation evening”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the observatory visitor desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the science outreach team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "872997b10f423b65e01dfc860c5a5b424ff9a6bd453687e3774826848336f5ba"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about a moon observation evening”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the observatory visitor desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the science outreach team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9c0fa6cedd87f228dc8b523893fbe74da03b2de8b4c3f41648e6630272591a9e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about a moon observation evening”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the observatory visitor desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the science outreach team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3eb1133ddf3f766909c2ae9289401ebe73429160850e5ec3f8ec99775762f75f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about a moon observation evening”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the observatory visitor desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the science outreach team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6fdebd6dd07740fb1b647b545acab0e28b6285455cc46fa1293fe754511d1109"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying explaining the scale of the solar system",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about explaining the scale of the solar system is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the observatory visitor desk.",
+        "D": "Please send it to the science outreach team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "f480bf8e3cd1537eda601153e7fdc9b45cff9086c853b623be8fae180399923a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying explaining the scale of the solar system”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the observatory visitor desk.",
+            "D": "Please send it to the science outreach team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "23ba5d3513c3fe17171554c80d34c3dfebfacf4ce0c90bac97deec51949ec402"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying explaining the scale of the solar system”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the observatory visitor desk.",
+            "D": "Please send it to the science outreach team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "28443dcc00eccfb589a7a4ba137caf9de8017bf016f8ad198ec619be4df13796"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying explaining the scale of the solar system”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the observatory visitor desk.",
+            "D": "Please send it to the science outreach team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2c31f944571c37c729810efa7b0a16b601301179000cef14f921a08386074490"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a star map for city residents",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a star map for city residents last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "5529fcc3a1e54611ae3818437d836302649666ae51f6fef549dc95f06dcedd36",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a star map for city residents”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b9626e3973a3a6a231a51ba77f065439f332b23837031f65839ffa1e460bd36a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a star map for city residents”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bacfd3670fea78958779b9b5695ba6b131896f86cff0680ffac1191af535914f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a star map for city residents”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2c7e29fdef3a377815cea5db0584028df97f2db713a4ff63b2a3bedf41696aae"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A moon observation evening",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community observatory invited families to look at the moon. Clouds delayed the first view, and many visitors left before the sky cleared. The main obstacle was a programme dependent on clear weather. The invitation promised telescope time without explaining what would happen under cloud. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used visitor comments from two cloudy evenings. Organizers noted waiting times and asked which indoor activities still held interest. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a flexible science talk kept people engaged. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a weather plan with a short indoor demonstration. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: science events should acknowledge uncertainty. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a moon observation evening, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "1f2a69c5d43e048d4b1344fa114cf35cc037d9c441a87ba13649fbd695f5e42d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A moon observation evening: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a display without a consistent distance scale",
+            "B": "a programme dependent on clear weather",
+            "C": "a guide designed for darker skies",
+            "D": "totals without observation duration"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f0fb891f0e12382dc642d1be485c442787210371b80bf8b1ccd46eedf6f536a4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A moon observation evening: What method was used to investigate the situation?",
+          "options": {
+            "A": "a trial of different explanatory labels",
+            "B": "observations from the actual meeting place",
+            "C": "visitor comments from two cloudy evenings",
+            "D": "a common recording sheet"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6590a69c6a9c5d5064373904beb4d0f713fe0c54582a847bd38c2fc17120789a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A moon observation evening: What did the evidence indicate?",
+          "options": {
+            "A": "a simple scale note corrected the impression",
+            "B": "a simpler route through bright stars worked",
+            "C": "rates were more comparable than raw totals",
+            "D": "a flexible science talk kept people engaged"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "2315a5324decc32ad0a8c8fd59b6d8d67de258c34ff582943f9bd88048ff02bb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A moon observation evening: How was the arrangement changed?",
+          "options": {
+            "A": "a weather plan with a short indoor demonstration",
+            "B": "a separate distance diagram beside the models",
+            "C": "a city-sky map with realistic viewing notes",
+            "D": "reports that include time and viewing conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0053d7a90bf8e31cd319214e41f0cc58f45f82a0a3e822c3e5e0cd4f9d75847a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A moon observation evening: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "a model should disclose what it simplifies",
+            "B": "science events should acknowledge uncertainty",
+            "C": "scientific guidance must fit local conditions",
+            "D": "citizen science needs consistent context"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f7880228e0bad3482f5d9cc535eb8c9b4230cffaebee47608ceede7a458a7e2e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Explaining the scale of the solar system",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A museum placed planet models along a corridor. Visitors liked their colours but wrongly assumed the short gaps represented real distances. The main obstacle was a display without a consistent distance scale. Object sizes and spaces had been chosen to fit the room, yet the sign did not say so. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a trial of different explanatory labels. Educators asked visitors to estimate distances after reading each version. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated a simple scale note corrected the impression. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a separate distance diagram beside the models. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a model should disclose what it simplifies. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in explaining the scale of the solar system, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "691c7bd56e4a7f14b7989c92aebbd73af77bec9398e33401abf155eb0051742a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Explaining the scale of the solar system: What problem did the people involved notice?",
+          "options": {
+            "A": "a programme dependent on clear weather",
+            "B": "a guide designed for darker skies",
+            "C": "totals without observation duration",
+            "D": "a display without a consistent distance scale"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cd50f45cf5e47565f3e64a8083cc747874579959bffc24dfbc82fe6cedf4d17e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Explaining the scale of the solar system: What was the first investigative step?",
+          "options": {
+            "A": "a trial of different explanatory labels",
+            "B": "visitor comments from two cloudy evenings",
+            "C": "observations from the actual meeting place",
+            "D": "a common recording sheet"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ea20ace5611bc56325e0f5e044dc11088acf4353b8f1bbc38da6a2791784c17a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Explaining the scale of the solar system: What was learned from the records?",
+          "options": {
+            "A": "a flexible science talk kept people engaged",
+            "B": "a simple scale note corrected the impression",
+            "C": "a simpler route through bright stars worked",
+            "D": "rates were more comparable than raw totals"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "7c72e9e0457e9b2ec32605639042ee55def6e66b29e6644029273efc878248de"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Explaining the scale of the solar system: What adjustment followed?",
+          "options": {
+            "A": "a weather plan with a short indoor demonstration",
+            "B": "a city-sky map with realistic viewing notes",
+            "C": "a separate distance diagram beside the models",
+            "D": "reports that include time and viewing conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c0fbdf2decb44132c297198daf6219499b703beec94bf0661ea0f6a911651b5f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Explaining the scale of the solar system: What is the central message?",
+          "options": {
+            "A": "science events should acknowledge uncertainty",
+            "B": "scientific guidance must fit local conditions",
+            "C": "citizen science needs consistent context",
+            "D": "a model should disclose what it simplifies"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4e702057d3817ba09a1d3998ab47db729e86ec37641a01d9faf7f9e6bb0c40b4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A star map for city residents",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An astronomy club distributed a star map. Beginners in the city could not find several marked stars because bright streetlights hid them. The main obstacle was a guide designed for darker skies. The map included faint objects that were not practical from the advertised viewing site. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used observations from the actual meeting place. Members identified which stars were visible on ordinary clear nights. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a simpler route through bright stars worked. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a city-sky map with realistic viewing notes. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: scientific guidance must fit local conditions. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a star map for city residents, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "336c4fb3c6e45ada33cc322086e3a60aa107994f6ace5b1be438a7593d16a632",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A star map for city residents: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a programme dependent on clear weather",
+            "B": "a guide designed for darker skies",
+            "C": "a display without a consistent distance scale",
+            "D": "totals without observation duration"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "792dbb49e327a43808e8cfe4f19e50109d722c0387ead3dda148147aaacac657"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A star map for city residents: How did the team gather information?",
+          "options": {
+            "A": "visitor comments from two cloudy evenings",
+            "B": "a trial of different explanatory labels",
+            "C": "observations from the actual meeting place",
+            "D": "a common recording sheet"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a3efd1aab339a43f7575f69afcdd8f6e7f57ff086a67fdd4ad6b81bb103b498a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A star map for city residents: What did the team discover?",
+          "options": {
+            "A": "a flexible science talk kept people engaged",
+            "B": "a simple scale note corrected the impression",
+            "C": "rates were more comparable than raw totals",
+            "D": "a simpler route through bright stars worked"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a0f3d9f968f0d5b7dec2f05c5f5e90b085cddc49732ad60ec1020f757278dfa7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A star map for city residents: What did it do in response?",
+          "options": {
+            "A": "a city-sky map with realistic viewing notes",
+            "B": "a weather plan with a short indoor demonstration",
+            "C": "a separate distance diagram beside the models",
+            "D": "reports that include time and viewing conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "27a06506d4be6a3b7db7a853807b3ef390497e2d94543369612d73ac68dfa4ad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A star map for city residents: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "science events should acknowledge uncertainty",
+            "B": "scientific guidance must fit local conditions",
+            "C": "a model should disclose what it simplifies",
+            "D": "citizen science needs consistent context"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6f0c214eb479b5676dab6d6919cb95453f16fe0095e6880f82b64016beaf65d4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Reporting a meteor shower",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Volunteers counted meteors from their homes. Some reported high numbers, but several had watched for much longer than others. The main obstacle was totals without observation duration. A count of ten meant different things after fifteen minutes or two hours. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a common recording sheet. The group asked observers to note start time, breaks, sky conditions and visible area. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated rates were more comparable than raw totals. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced reports that include time and viewing conditions. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: citizen science needs consistent context. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in reporting a meteor shower, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "ccd2bdb88327521d9f5bc1cf960aa0f6076749b1219cbc9dc04c62d5b855f510",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Reporting a meteor shower: What was the main obstacle?",
+          "options": {
+            "A": "a programme dependent on clear weather",
+            "B": "a display without a consistent distance scale",
+            "C": "a guide designed for darker skies",
+            "D": "totals without observation duration"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "21e05ae3aad0a2ab0e470b7c1f234a7ed5e78c0e9ba3bfd74fe43767b16c302c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Reporting a meteor shower: How was the idea examined?",
+          "options": {
+            "A": "a common recording sheet",
+            "B": "visitor comments from two cloudy evenings",
+            "C": "a trial of different explanatory labels",
+            "D": "observations from the actual meeting place"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7027f8c3349f11aec9f7ddd024d4f9585e2360661cce8c00dbe96ed4b2192e93"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Reporting a meteor shower: Which finding shaped the decision?",
+          "options": {
+            "A": "a flexible science talk kept people engaged",
+            "B": "rates were more comparable than raw totals",
+            "C": "a simple scale note corrected the impression",
+            "D": "a simpler route through bright stars worked"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "30404278a8b3ac5e66e5809fbfa83fbbe7f81dc26e591954c2a01bc48b825b08"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Reporting a meteor shower: What change did the group make?",
+          "options": {
+            "A": "a weather plan with a short indoor demonstration",
+            "B": "a separate distance diagram beside the models",
+            "C": "reports that include time and viewing conditions",
+            "D": "a city-sky map with realistic viewing notes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "427296b8a51ad68fe8b9eb17a1a7a94d943cb908bda62863a9484e57d545f2d7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Reporting a meteor shower: What lesson does the writer emphasize?",
+          "options": {
+            "A": "science events should acknowledge uncertainty",
+            "B": "a model should disclose what it simplifies",
+            "C": "scientific guidance must fit local conditions",
+            "D": "citizen science needs consistent context"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "20103331927bd959d1d27a8020c7b8c9880979f3902e23fabfd01692b6e33362"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the public astronomy learning programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "928ef2f365d55c323d3eb05d88b451020751b231820570ca9677620921fc19d3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the public astronomy learning programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3f906f4bd70d6a97519665904eaa8a14b26fb45b46afcd63e53deb6ad79147cd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the public astronomy learning programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8faf2438105f33762b6d83ed5c9da92a3431a9fdbb65724851867f86c16dc837"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the public astronomy learning programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4308503209413903df5dd9791e7d5bdb9acf473409cd9f54871ca8e511e8545f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the public astronomy learning programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6208a07d111e1abe43b6093b597cb152363057fc9f96ddd4e22ac46ab82a3307"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the public astronomy learning programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4ea5103f01f4f1e8b3c213caf2e70e89e8cee64ba0cfbd51f814acd4142c9504"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the public astronomy learning programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ec23819f471a894653926d8d627ae7d99116736009d00cbf5aa54ac9723a822f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the public astronomy learning programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5f9a8d59686ecd32af8eda5db5958c6b1adf8f8182a737172d116318949ca5a5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the public astronomy learning programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "edac3301dcc99f0f75d620376f185486cf8da86350b75caf94d5b68cfcbc6cc0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the public astronomy learning programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "11564464fd9658f6957bfdfcfa71f64df14ad11dbd503b5c557bbe61791a867d"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the public astronomy learning programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0cc0eb35aa1257332d45d525ab5bd3d35baa9b7af3d794ceea3960888f6f25cb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the public astronomy learning programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b5e2c576b2870dd55d67bebb2315628c7eedd8143bf4bb6fc55088cebf290590"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the public astronomy learning programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "dc120a8065e71d4aeab73595c4737ee2eb68182543f7e327efe85e7e09e440bc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the public astronomy learning programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "75a254d8b52c87dd7856475c9b072269b9880f8c18bbd789f1f77c3be7a8c41d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the public astronomy learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4d4f1aa97bccfa83e3fc89001e2df7e5bcb24796f8db734d72b8bc7a5d3dadec"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the public astronomy learning programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a656f2551e7b4204b5b7edb40cf60d57e8ad09b974feecd13dc9f08229060d37"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the public astronomy learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3f67878245ee359e226991f732eed99a335f8093c54f18429a28608db4e6076b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the public astronomy learning programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "417c850080b91549ad64d43b0ba16441adbd3189ba9bcc6ec79e36e6a853dff9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the public astronomy learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7a2a6aa2f176f9c1d6b4eadadcb00c522044ced21de53a078a1bbb9783e2aadc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the public astronomy learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "393634fa39fe072702755de5d5c29738258c836ec345a0b7008dd12ce6886bc9"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the public astronomy learning programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about astronomy and science communication, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关天文观察与科学传播的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "a7aa3c4ca121b8a3728c215abe8a51e48f6eaa2c79c2a0c2fdbdd7799bb2b494",
+      "referenceAnswerFingerprint": "eda621b44c36f6860fa2c25d197d82b268af09fd51477ad222235e9cdca2e66d"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the science outreach team suggesting a practical change to the public astronomy learning programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the public astronomy learning programme. People have noticed a programme dependent on clear weather, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "13fdbe9642b7537295b3391cda907fa8e81a82e0940c021ba9f4d118ce04591e",
+      "sampleAnswerFingerprint": "89ab79835cf0a445d5dfca9373a4fe0941d90566b4388d3b38996374a768de19"
+    }
+  ],
+  "fingerprintManifest": [
+    "30fae347afb6d5d5f4adea7a443701479b22910010b2540f8a4b3dd0161a2c4f",
+    "872997b10f423b65e01dfc860c5a5b424ff9a6bd453687e3774826848336f5ba",
+    "9c0fa6cedd87f228dc8b523893fbe74da03b2de8b4c3f41648e6630272591a9e",
+    "3eb1133ddf3f766909c2ae9289401ebe73429160850e5ec3f8ec99775762f75f",
+    "6fdebd6dd07740fb1b647b545acab0e28b6285455cc46fa1293fe754511d1109",
+    "f480bf8e3cd1537eda601153e7fdc9b45cff9086c853b623be8fae180399923a",
+    "23ba5d3513c3fe17171554c80d34c3dfebfacf4ce0c90bac97deec51949ec402",
+    "28443dcc00eccfb589a7a4ba137caf9de8017bf016f8ad198ec619be4df13796",
+    "2c31f944571c37c729810efa7b0a16b601301179000cef14f921a08386074490",
+    "5529fcc3a1e54611ae3818437d836302649666ae51f6fef549dc95f06dcedd36",
+    "b9626e3973a3a6a231a51ba77f065439f332b23837031f65839ffa1e460bd36a",
+    "bacfd3670fea78958779b9b5695ba6b131896f86cff0680ffac1191af535914f",
+    "2c7e29fdef3a377815cea5db0584028df97f2db713a4ff63b2a3bedf41696aae",
+    "1f2a69c5d43e048d4b1344fa114cf35cc037d9c441a87ba13649fbd695f5e42d",
+    "f0fb891f0e12382dc642d1be485c442787210371b80bf8b1ccd46eedf6f536a4",
+    "6590a69c6a9c5d5064373904beb4d0f713fe0c54582a847bd38c2fc17120789a",
+    "2315a5324decc32ad0a8c8fd59b6d8d67de258c34ff582943f9bd88048ff02bb",
+    "0053d7a90bf8e31cd319214e41f0cc58f45f82a0a3e822c3e5e0cd4f9d75847a",
+    "f7880228e0bad3482f5d9cc535eb8c9b4230cffaebee47608ceede7a458a7e2e",
+    "691c7bd56e4a7f14b7989c92aebbd73af77bec9398e33401abf155eb0051742a",
+    "cd50f45cf5e47565f3e64a8083cc747874579959bffc24dfbc82fe6cedf4d17e",
+    "ea20ace5611bc56325e0f5e044dc11088acf4353b8f1bbc38da6a2791784c17a",
+    "7c72e9e0457e9b2ec32605639042ee55def6e66b29e6644029273efc878248de",
+    "c0fbdf2decb44132c297198daf6219499b703beec94bf0661ea0f6a911651b5f",
+    "4e702057d3817ba09a1d3998ab47db729e86ec37641a01d9faf7f9e6bb0c40b4",
+    "336c4fb3c6e45ada33cc322086e3a60aa107994f6ace5b1be438a7593d16a632",
+    "792dbb49e327a43808e8cfe4f19e50109d722c0387ead3dda148147aaacac657",
+    "a3efd1aab339a43f7575f69afcdd8f6e7f57ff086a67fdd4ad6b81bb103b498a",
+    "a0f3d9f968f0d5b7dec2f05c5f5e90b085cddc49732ad60ec1020f757278dfa7",
+    "27a06506d4be6a3b7db7a853807b3ef390497e2d94543369612d73ac68dfa4ad",
+    "6f0c214eb479b5676dab6d6919cb95453f16fe0095e6880f82b64016beaf65d4",
+    "ccd2bdb88327521d9f5bc1cf960aa0f6076749b1219cbc9dc04c62d5b855f510",
+    "21e05ae3aad0a2ab0e470b7c1f234a7ed5e78c0e9ba3bfd74fe43767b16c302c",
+    "7027f8c3349f11aec9f7ddd024d4f9585e2360661cce8c00dbe96ed4b2192e93",
+    "30404278a8b3ac5e66e5809fbfa83fbbe7f81dc26e591954c2a01bc48b825b08",
+    "427296b8a51ad68fe8b9eb17a1a7a94d943cb908bda62863a9484e57d545f2d7",
+    "20103331927bd959d1d27a8020c7b8c9880979f3902e23fabfd01692b6e33362",
+    "928ef2f365d55c323d3eb05d88b451020751b231820570ca9677620921fc19d3",
+    "3f906f4bd70d6a97519665904eaa8a14b26fb45b46afcd63e53deb6ad79147cd",
+    "8faf2438105f33762b6d83ed5c9da92a3431a9fdbb65724851867f86c16dc837",
+    "4308503209413903df5dd9791e7d5bdb9acf473409cd9f54871ca8e511e8545f",
+    "6208a07d111e1abe43b6093b597cb152363057fc9f96ddd4e22ac46ab82a3307",
+    "4ea5103f01f4f1e8b3c213caf2e70e89e8cee64ba0cfbd51f814acd4142c9504",
+    "ec23819f471a894653926d8d627ae7d99116736009d00cbf5aa54ac9723a822f",
+    "5f9a8d59686ecd32af8eda5db5958c6b1adf8f8182a737172d116318949ca5a5",
+    "edac3301dcc99f0f75d620376f185486cf8da86350b75caf94d5b68cfcbc6cc0",
+    "11564464fd9658f6957bfdfcfa71f64df14ad11dbd503b5c557bbe61791a867d",
+    "0cc0eb35aa1257332d45d525ab5bd3d35baa9b7af3d794ceea3960888f6f25cb",
+    "b5e2c576b2870dd55d67bebb2315628c7eedd8143bf4bb6fc55088cebf290590",
+    "dc120a8065e71d4aeab73595c4737ee2eb68182543f7e327efe85e7e09e440bc",
+    "75a254d8b52c87dd7856475c9b072269b9880f8c18bbd789f1f77c3be7a8c41d",
+    "4d4f1aa97bccfa83e3fc89001e2df7e5bcb24796f8db734d72b8bc7a5d3dadec",
+    "a656f2551e7b4204b5b7edb40cf60d57e8ad09b974feecd13dc9f08229060d37",
+    "3f67878245ee359e226991f732eed99a335f8093c54f18429a28608db4e6076b",
+    "417c850080b91549ad64d43b0ba16441adbd3189ba9bcc6ec79e36e6a853dff9",
+    "7a2a6aa2f176f9c1d6b4eadadcb00c522044ced21de53a078a1bbb9783e2aadc",
+    "393634fa39fe072702755de5d5c29738258c836ec345a0b7008dd12ce6886bc9",
+    "a7aa3c4ca121b8a3728c215abe8a51e48f6eaa2c79c2a0c2fdbdd7799bb2b494",
+    "eda621b44c36f6860fa2c25d197d82b268af09fd51477ad222235e9cdca2e66d",
+    "13fdbe9642b7537295b3391cda907fa8e81a82e0940c021ba9f4d118ce04591e",
+    "89ab79835cf0a445d5dfca9373a4fe0941d90566b4388d3b38996374a768de19"
+  ],
+  "contentFingerprint": "60aa13efe81b7384e3fa2920ac01acc19e49ac810ff8775509f95a2f19b7b412"
+}

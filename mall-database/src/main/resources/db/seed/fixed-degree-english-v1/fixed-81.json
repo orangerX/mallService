@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-81",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 81 · 社区应急准备",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 81,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about an evacuation map for a riverside street",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about an evacuation map for a riverside street. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the community safety desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the emergency planning group."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "5048e087ff8711d387b7779f9988981437328d1f3d97707de03bd6daf1084cea",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about an evacuation map for a riverside street”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the community safety desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the emergency planning group."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "04b9c66c50eb74138f4cdfbdfe8a9b52670ee96b038a047432d88a8893545f26"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about an evacuation map for a riverside street”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the community safety desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the emergency planning group."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1b6c52777ccb0daec5e66ab825503cb825ad878e13d1052b50cb94afda1381d9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about an evacuation map for a riverside street”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the community safety desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the emergency planning group."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e2e1ba314eccb380b4b4caebc399ca8538902f22cb8922eddcda1d212e6bdd91"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about an evacuation map for a riverside street”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the community safety desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the emergency planning group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "993924532a6333b8679a955477022da2bc5f74581fdcc1f897b2174b2fd8ef06"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying keeping a neighbourhood contact tree current",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about keeping a neighbourhood contact tree current is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the community safety desk.",
+        "D": "Please send it to the emergency planning group."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "ff59c675f355d4d46c3c3c6c67ee761112d793113af6bd887d86dec5658d4398",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying keeping a neighbourhood contact tree current”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community safety desk.",
+            "D": "Please send it to the emergency planning group."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "35cc3375590870364567364472a04fd59b33a77ba3abff72aa2eb507f41209da"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying keeping a neighbourhood contact tree current”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community safety desk.",
+            "D": "Please send it to the emergency planning group."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0082016f0927ed1769f2e1e1aaab54696fe7f175297bc0b60fc65adb0af83678"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying keeping a neighbourhood contact tree current”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community safety desk.",
+            "D": "Please send it to the emergency planning group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "98b93796b1d30733b40b8247123eb78d38179846a01a73d0d9c22247dd4c7af3"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a supply box in a shared building",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a supply box in a shared building last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c6e088c613017141fd57eb86ac369ec6156803250f2220f82eb96e5b5574f146",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a supply box in a shared building”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2d8e67c4874c6381658b8cb2692b2009338c7481cd75e67810ce737c84a8fd53"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a supply box in a shared building”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "223055215feb4aa286cf315593f03b3337b5d26be6a19ad612105e05d24dbb37"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a supply box in a shared building”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "23ea249a786e03c27058832e734a2ec8a186feac77d99028292c609edb4e65fe"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "An evacuation map for a riverside street",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents beside a river received an evacuation map. Many assumed the nearest bridge was the safest route during a flood warning. The main obstacle was a map that did not explain bridge closure. The printed arrows crossed a low bridge that could close before nearby streets flooded. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a route walk with emergency staff. The group checked which paths remained passable under the warning conditions used in local plans. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the highest route began farther from the bridge. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised map with a clearly named uphill meeting point. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: an emergency route must match the likely hazard. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in an evacuation map for a riverside street, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "aea71e478be1863353f075ee6f2a56be22a3cff5dd01b0a05e452b389c845509",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "An evacuation map for a riverside street: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "telephone details that no longer worked",
+            "B": "a map that did not explain bridge closure",
+            "C": "supplies without an inspection schedule",
+            "D": "a warning without practical collection steps"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "87e6ea6eead005612feba6d8106f4d409c06eb6cacb425a16fa3451d2ed436ee"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "An evacuation map for a riverside street: What method was used to investigate the situation?",
+          "options": {
+            "A": "a consent-based contact review",
+            "B": "an inventory and expiry-date review",
+            "C": "a route walk with emergency staff",
+            "D": "a short communication exercise"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b6c6e28dab6deba8a9579822969612ebea48d46dc387036d992e6afcdfc715a9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "An evacuation map for a riverside street: What did the evidence indicate?",
+          "options": {
+            "A": "a smaller accurate list was more useful",
+            "B": "routine maintenance mattered more than box size",
+            "C": "families needed a clear next action",
+            "D": "the highest route began farther from the bridge"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5649584b484376942840a776a6a7e7d75d049c7596cad09c810c806e936569ac"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "An evacuation map for a riverside street: How was the arrangement changed?",
+          "options": {
+            "A": "a revised map with a clearly named uphill meeting point",
+            "B": "regular updates with limited access to contact details",
+            "C": "a dated checklist with named responsibility",
+            "D": "a staged alert with collection locations and timing"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5f7bf45211f71bb6bf817d8be70c75c8fcea60cd4803a23f84d8b5a1abe7f3ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "An evacuation map for a riverside street: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "preparedness depends on trust as well as records",
+            "B": "an emergency route must match the likely hazard",
+            "C": "an emergency resource must be ready when needed",
+            "D": "warnings are useful when they guide decisions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4f05810d266087f342216b254026e7c8187336483e8a83ada937a49ba56ab99f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Keeping a neighbourhood contact tree current",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood association planned to call vulnerable residents during severe weather. Its contact list had not been updated for two years. The main obstacle was telephone details that no longer worked. Several volunteers had moved, and some residents did not want their numbers shared widely. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a consent-based contact review. Coordinators checked numbers privately and asked each person how they preferred to receive an alert. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated a smaller accurate list was more useful. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced regular updates with limited access to contact details. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: preparedness depends on trust as well as records. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in keeping a neighbourhood contact tree current, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "1172958dc5f815a63dab08e333fd1c187042529d3fbce1041aec2784103e8566",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Keeping a neighbourhood contact tree current: What problem did the people involved notice?",
+          "options": {
+            "A": "a map that did not explain bridge closure",
+            "B": "supplies without an inspection schedule",
+            "C": "a warning without practical collection steps",
+            "D": "telephone details that no longer worked"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "46483a64ee54e5d6621c58ecadb53f594f135b13ef9651cfffa8a7593aa5c1b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Keeping a neighbourhood contact tree current: What was the first investigative step?",
+          "options": {
+            "A": "a consent-based contact review",
+            "B": "a route walk with emergency staff",
+            "C": "an inventory and expiry-date review",
+            "D": "a short communication exercise"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3cc288bdbe298c76ede69cd2fe95e1c63bf1c9bc66e43485c46a27cdb916f67c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Keeping a neighbourhood contact tree current: What was learned from the records?",
+          "options": {
+            "A": "the highest route began farther from the bridge",
+            "B": "a smaller accurate list was more useful",
+            "C": "routine maintenance mattered more than box size",
+            "D": "families needed a clear next action"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2b4ef7035fd7aad9c62167b099620b77f3fb0e3bf7f6b77871d85a742f9e7dbc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Keeping a neighbourhood contact tree current: What adjustment followed?",
+          "options": {
+            "A": "a revised map with a clearly named uphill meeting point",
+            "B": "a dated checklist with named responsibility",
+            "C": "regular updates with limited access to contact details",
+            "D": "a staged alert with collection locations and timing"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a8fc81efbe46627316ef54c6fa19df0b2a60c670f1e96e32a67262ee41fb800e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Keeping a neighbourhood contact tree current: What is the central message?",
+          "options": {
+            "A": "an emergency route must match the likely hazard",
+            "B": "an emergency resource must be ready when needed",
+            "C": "warnings are useful when they guide decisions",
+            "D": "preparedness depends on trust as well as records"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "31b4e412b0e3544cce9b6f729e4ce86144d82d6a9a45eb40ee7cd707380e27ad"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A supply box in a shared building",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An apartment block placed emergency supplies near its entrance. Residents later found that batteries and bottled water had expired. The main obstacle was supplies without an inspection schedule. Everyone expected someone else to check the box after it was first installed. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used an inventory and expiry-date review. The building manager listed contents and asked residents which items local guidance actually recommended. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated routine maintenance mattered more than box size. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a dated checklist with named responsibility. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: an emergency resource must be ready when needed. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a supply box in a shared building, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "e900bb65bddf24a22708282d2eaef9e09814c092e6f7df84cbe1f86c0f4d90ca",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A supply box in a shared building: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a map that did not explain bridge closure",
+            "B": "supplies without an inspection schedule",
+            "C": "telephone details that no longer worked",
+            "D": "a warning without practical collection steps"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "bf376670449ec11988b9bd0e6ad57d9a123b68e9a50832e3e391bbb6c8a3a78d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A supply box in a shared building: How did the team gather information?",
+          "options": {
+            "A": "a route walk with emergency staff",
+            "B": "a consent-based contact review",
+            "C": "an inventory and expiry-date review",
+            "D": "a short communication exercise"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1cb6300c1d2eb384d0dccd0c37cbd9d9299192294e18dae17560fa49f7742d15"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A supply box in a shared building: What did the team discover?",
+          "options": {
+            "A": "the highest route began farther from the bridge",
+            "B": "a smaller accurate list was more useful",
+            "C": "families needed a clear next action",
+            "D": "routine maintenance mattered more than box size"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "17705f5b2c50b1ec2452cfefbea303d8ef75ad8c1253933e4c46876cf3c0e60b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A supply box in a shared building: What did it do in response?",
+          "options": {
+            "A": "a dated checklist with named responsibility",
+            "B": "a revised map with a clearly named uphill meeting point",
+            "C": "regular updates with limited access to contact details",
+            "D": "a staged alert with collection locations and timing"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "68f543a7789be112d108696a3096e585a7c5418e861eb60f6fefea0d7b89a579"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A supply box in a shared building: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "an emergency route must match the likely hazard",
+            "B": "an emergency resource must be ready when needed",
+            "C": "preparedness depends on trust as well as records",
+            "D": "warnings are useful when they guide decisions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "43095fe9b7bfd98ff0d2db9e87e1391f4a13704f042744909bc945db7f01ca31"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Practising a storm warning message",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A school sent families a sample storm warning. Parents understood that lessons might stop but did not know how children would be collected. The main obstacle was a warning without practical collection steps. The message named the danger but left transport and contact arrangements unclear. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a short communication exercise. Staff asked families to describe what they would do after reading the message once. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated families needed a clear next action. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a staged alert with collection locations and timing. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: warnings are useful when they guide decisions. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in practising a storm warning message, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "ff8502d50634f0c0f88728e4ab2e707ba3f3c17a36203e842e7456efa607095b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Practising a storm warning message: What was the main obstacle?",
+          "options": {
+            "A": "a map that did not explain bridge closure",
+            "B": "telephone details that no longer worked",
+            "C": "supplies without an inspection schedule",
+            "D": "a warning without practical collection steps"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9ee4b6b95f77150750cfb85681aaac77faf68bd358e27d542c57d2e3907ef787"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Practising a storm warning message: How was the idea examined?",
+          "options": {
+            "A": "a short communication exercise",
+            "B": "a route walk with emergency staff",
+            "C": "a consent-based contact review",
+            "D": "an inventory and expiry-date review"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7dd285f1a81888e1d91c237cdfaa0d06e349768746986262cb4860e3352b61e5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Practising a storm warning message: Which finding shaped the decision?",
+          "options": {
+            "A": "the highest route began farther from the bridge",
+            "B": "families needed a clear next action",
+            "C": "a smaller accurate list was more useful",
+            "D": "routine maintenance mattered more than box size"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "12f3dda42380e019c4c0c33b6482f1bd38a021033d8d6b04aef5d735d0182e6b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Practising a storm warning message: What change did the group make?",
+          "options": {
+            "A": "a revised map with a clearly named uphill meeting point",
+            "B": "regular updates with limited access to contact details",
+            "C": "a staged alert with collection locations and timing",
+            "D": "a dated checklist with named responsibility"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "78aabf35dafd89d5072f42f74de80dd42306b10e9299bf8746a12acc9c7cecb6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Practising a storm warning message: What lesson does the writer emphasize?",
+          "options": {
+            "A": "an emergency route must match the likely hazard",
+            "B": "preparedness depends on trust as well as records",
+            "C": "an emergency resource must be ready when needed",
+            "D": "warnings are useful when they guide decisions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e7eb9c393040df26e036139cac09b5ccca2242dc915fd3277728e5fa277a479e"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the neighbourhood emergency preparation programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "637b8ba17a4997b2728b7084361ce064969271338c92343fdc917bb932283db6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the neighbourhood emergency preparation programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f8f0f72c466d1a0fc569098c8eac0c3a83b0285efd20ab9c963568d35a17eb0f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the neighbourhood emergency preparation programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "84a0547de985e9e5fc9898d46d134d7211b7c247a2b2ab93c09253ae338d2d7c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the neighbourhood emergency preparation programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "87267af6c767fcfc0183004a194ab71ab0979b10e3741120b69d403c0d127078"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the neighbourhood emergency preparation programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "edad1d77d35f7085256867c410dbb9e90450a9a08532c482e7206f4b0eb0e0f5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the neighbourhood emergency preparation programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "15e49c654efac45c2bb103fd935fa03418cd1b72481009ff6458f5d4c9a67805"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the neighbourhood emergency preparation programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "71a1df1c9b16815dd1df23749adfa5de9a8dd32b62ddfda851ebbf1780a58008"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the neighbourhood emergency preparation programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1e4bd7f24f1bd182a260de3585a2322347d5befe16624a57e288052ce26aaf99"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the neighbourhood emergency preparation programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ec901bb8ee9b737748839aea11ff29509adbecd3b01dff866d177a9a8eb77962"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the neighbourhood emergency preparation programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9af66d3875dbcfef25786b2de94e2991217bcd13825d208a277aed37c2542bd6"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the neighbourhood emergency preparation programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4dd14f9d1ecb4262cb9e078a335812116f06ed77ce39000cdcf0fcf8c2154067"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the neighbourhood emergency preparation programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bc19c0a1a6d3fefa1137737075722179fbbd55a3cbfe58c5652207f23bf029db"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the neighbourhood emergency preparation programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "64b8c907a6324b6fb2f9de3608f7cc28911ef39439771f89446d0b7e0a1928d0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the neighbourhood emergency preparation programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9975cd5ce10eea8326b932f660ac6553f1f733d17a6f351cf08b586c7fc556ef"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the neighbourhood emergency preparation programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fea5315235499b013e6985f0f2df4c241dfd52090ce0db12f2228161640e148f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the neighbourhood emergency preparation programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c5fba4e10d9274b90edfc1c051b76b3f32127a7eb77126895556fcbc7789caeb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the neighbourhood emergency preparation programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a4f4272ee1f95518e750448ba071aa9a2b6d6a4112452ed014109a903df99e33"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the neighbourhood emergency preparation programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f6d87486f1b40db0a69952c98c54a94ea549fcea7a472a29119d5626e850ce78"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the neighbourhood emergency preparation programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fd210b374174230cb784e129580acd7e06ea8dea09743a4e9c64b25ff929bf85"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the neighbourhood emergency preparation programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f7df3204ee57dfe383fb683d36c98085e9959b37c6cbe553f50e615e4884b713"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning community emergency preparation often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the neighbourhood emergency preparation programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关社区应急准备的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "9ac3e649e6f1a4f4b4f4ab3283d9247c81031d0a6a5f6196147b46f4c7f7bce5",
+      "referenceAnswerFingerprint": "7fddea30ed7efbed745a73cf50e11e5a667e77318609b93b7bd5061d2bae3076"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the emergency planning group proposing a small improvement to the neighbourhood emergency preparation programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the neighbourhood emergency preparation programme. People have noticed a map that did not explain bridge closure, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "dee84ae872b7a5c9bda00afd30cf283c142273717fd62b1ae5feb4fda7f3f611",
+      "sampleAnswerFingerprint": "ada60e0c985d23090a3ce09ff9dbf725972472fa43b370436b53463aa96d69b0"
+    }
+  ],
+  "fingerprintManifest": [
+    "5048e087ff8711d387b7779f9988981437328d1f3d97707de03bd6daf1084cea",
+    "04b9c66c50eb74138f4cdfbdfe8a9b52670ee96b038a047432d88a8893545f26",
+    "1b6c52777ccb0daec5e66ab825503cb825ad878e13d1052b50cb94afda1381d9",
+    "e2e1ba314eccb380b4b4caebc399ca8538902f22cb8922eddcda1d212e6bdd91",
+    "993924532a6333b8679a955477022da2bc5f74581fdcc1f897b2174b2fd8ef06",
+    "ff59c675f355d4d46c3c3c6c67ee761112d793113af6bd887d86dec5658d4398",
+    "35cc3375590870364567364472a04fd59b33a77ba3abff72aa2eb507f41209da",
+    "0082016f0927ed1769f2e1e1aaab54696fe7f175297bc0b60fc65adb0af83678",
+    "98b93796b1d30733b40b8247123eb78d38179846a01a73d0d9c22247dd4c7af3",
+    "c6e088c613017141fd57eb86ac369ec6156803250f2220f82eb96e5b5574f146",
+    "2d8e67c4874c6381658b8cb2692b2009338c7481cd75e67810ce737c84a8fd53",
+    "223055215feb4aa286cf315593f03b3337b5d26be6a19ad612105e05d24dbb37",
+    "23ea249a786e03c27058832e734a2ec8a186feac77d99028292c609edb4e65fe",
+    "aea71e478be1863353f075ee6f2a56be22a3cff5dd01b0a05e452b389c845509",
+    "87e6ea6eead005612feba6d8106f4d409c06eb6cacb425a16fa3451d2ed436ee",
+    "b6c6e28dab6deba8a9579822969612ebea48d46dc387036d992e6afcdfc715a9",
+    "5649584b484376942840a776a6a7e7d75d049c7596cad09c810c806e936569ac",
+    "5f7bf45211f71bb6bf817d8be70c75c8fcea60cd4803a23f84d8b5a1abe7f3ef",
+    "4f05810d266087f342216b254026e7c8187336483e8a83ada937a49ba56ab99f",
+    "1172958dc5f815a63dab08e333fd1c187042529d3fbce1041aec2784103e8566",
+    "46483a64ee54e5d6621c58ecadb53f594f135b13ef9651cfffa8a7593aa5c1b9",
+    "3cc288bdbe298c76ede69cd2fe95e1c63bf1c9bc66e43485c46a27cdb916f67c",
+    "2b4ef7035fd7aad9c62167b099620b77f3fb0e3bf7f6b77871d85a742f9e7dbc",
+    "a8fc81efbe46627316ef54c6fa19df0b2a60c670f1e96e32a67262ee41fb800e",
+    "31b4e412b0e3544cce9b6f729e4ce86144d82d6a9a45eb40ee7cd707380e27ad",
+    "e900bb65bddf24a22708282d2eaef9e09814c092e6f7df84cbe1f86c0f4d90ca",
+    "bf376670449ec11988b9bd0e6ad57d9a123b68e9a50832e3e391bbb6c8a3a78d",
+    "1cb6300c1d2eb384d0dccd0c37cbd9d9299192294e18dae17560fa49f7742d15",
+    "17705f5b2c50b1ec2452cfefbea303d8ef75ad8c1253933e4c46876cf3c0e60b",
+    "68f543a7789be112d108696a3096e585a7c5418e861eb60f6fefea0d7b89a579",
+    "43095fe9b7bfd98ff0d2db9e87e1391f4a13704f042744909bc945db7f01ca31",
+    "ff8502d50634f0c0f88728e4ab2e707ba3f3c17a36203e842e7456efa607095b",
+    "9ee4b6b95f77150750cfb85681aaac77faf68bd358e27d542c57d2e3907ef787",
+    "7dd285f1a81888e1d91c237cdfaa0d06e349768746986262cb4860e3352b61e5",
+    "12f3dda42380e019c4c0c33b6482f1bd38a021033d8d6b04aef5d735d0182e6b",
+    "78aabf35dafd89d5072f42f74de80dd42306b10e9299bf8746a12acc9c7cecb6",
+    "e7eb9c393040df26e036139cac09b5ccca2242dc915fd3277728e5fa277a479e",
+    "637b8ba17a4997b2728b7084361ce064969271338c92343fdc917bb932283db6",
+    "f8f0f72c466d1a0fc569098c8eac0c3a83b0285efd20ab9c963568d35a17eb0f",
+    "84a0547de985e9e5fc9898d46d134d7211b7c247a2b2ab93c09253ae338d2d7c",
+    "87267af6c767fcfc0183004a194ab71ab0979b10e3741120b69d403c0d127078",
+    "edad1d77d35f7085256867c410dbb9e90450a9a08532c482e7206f4b0eb0e0f5",
+    "15e49c654efac45c2bb103fd935fa03418cd1b72481009ff6458f5d4c9a67805",
+    "71a1df1c9b16815dd1df23749adfa5de9a8dd32b62ddfda851ebbf1780a58008",
+    "1e4bd7f24f1bd182a260de3585a2322347d5befe16624a57e288052ce26aaf99",
+    "ec901bb8ee9b737748839aea11ff29509adbecd3b01dff866d177a9a8eb77962",
+    "9af66d3875dbcfef25786b2de94e2991217bcd13825d208a277aed37c2542bd6",
+    "4dd14f9d1ecb4262cb9e078a335812116f06ed77ce39000cdcf0fcf8c2154067",
+    "bc19c0a1a6d3fefa1137737075722179fbbd55a3cbfe58c5652207f23bf029db",
+    "64b8c907a6324b6fb2f9de3608f7cc28911ef39439771f89446d0b7e0a1928d0",
+    "9975cd5ce10eea8326b932f660ac6553f1f733d17a6f351cf08b586c7fc556ef",
+    "fea5315235499b013e6985f0f2df4c241dfd52090ce0db12f2228161640e148f",
+    "c5fba4e10d9274b90edfc1c051b76b3f32127a7eb77126895556fcbc7789caeb",
+    "a4f4272ee1f95518e750448ba071aa9a2b6d6a4112452ed014109a903df99e33",
+    "f6d87486f1b40db0a69952c98c54a94ea549fcea7a472a29119d5626e850ce78",
+    "fd210b374174230cb784e129580acd7e06ea8dea09743a4e9c64b25ff929bf85",
+    "f7df3204ee57dfe383fb683d36c98085e9959b37c6cbe553f50e615e4884b713",
+    "9ac3e649e6f1a4f4b4f4ab3283d9247c81031d0a6a5f6196147b46f4c7f7bce5",
+    "7fddea30ed7efbed745a73cf50e11e5a667e77318609b93b7bd5061d2bae3076",
+    "dee84ae872b7a5c9bda00afd30cf283c142273717fd62b1ae5feb4fda7f3f611",
+    "ada60e0c985d23090a3ce09ff9dbf725972472fa43b370436b53463aa96d69b0"
+  ],
+  "contentFingerprint": "bea2e5846570033a109c4dda560e7ed2a0ce6cd5cb358d5dab1ca2f2f80a3d34"
+}

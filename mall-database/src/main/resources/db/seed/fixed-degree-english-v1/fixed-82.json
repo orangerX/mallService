@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-82",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 82 · 成人语言学习",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 82,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to speaking practice after work",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about speaking practice after work. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the adult learning team that you plan to attend.",
+        "C": "Yes, signs will lead you from the learning centre reception.",
+        "D": "Certainly. Send your question to the adult learning team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "75498b9342c173c6128cd30073a5c95bbf1502843a31d4fbac6fd803db408280",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to speaking practice after work”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the adult learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the learning centre reception.",
+            "D": "Certainly. Send your question to the adult learning team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c34ad2624302191552e223417c226909a843119140afa0a369954036b64d0bf0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to speaking practice after work”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the adult learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the learning centre reception.",
+            "D": "Certainly. Send your question to the adult learning team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f433b70c5120836f8ad9c3c4e0810fa5eb305d2f4bab27c92b60e1e2199044d7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to speaking practice after work”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the adult learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the learning centre reception.",
+            "D": "Certainly. Send your question to the adult learning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "dc55d3ea82a44ce8c15085d5af04cf6d70f5bc19e3fe81080ae51608d34c3142"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to speaking practice after work”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the adult learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the learning centre reception.",
+            "D": "Certainly. Send your question to the adult learning team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "808898289d57673815ae4eceacf31226b07e43099ce44f8977bb3ebebfa6c337"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying choosing a reading level",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about choosing a reading level is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the learning centre reception.",
+        "D": "Please send it to the adult learning team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "577a4cad7def1e0f444130c4ca74628b754e1ba9d668806884072061b44fedeb",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying choosing a reading level”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the learning centre reception.",
+            "D": "Please send it to the adult learning team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c707ec13eebf5ecafdd353538177797b580abdb27c5bad0139ed549b05f79dcc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying choosing a reading level”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the learning centre reception.",
+            "D": "Please send it to the adult learning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "040e9ed56a8492729917eb1b61127555ec0c3a951803abacc796e6da725ef578"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying choosing a reading level”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the learning centre reception.",
+            "D": "Please send it to the adult learning team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a048578a7878a6dadca062a9a97b1ca761b261345b3586c35a13c0676dec09bc"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on listening practice on a bus journey",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about listening practice on a bus journey last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "6579022e1a9eadca63671e4566b1637d1da980b83eda703936eaf4f92a653f75",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on listening practice on a bus journey”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6d729d50ee4287d5b94f966876a0f3502f333b0787177145c839d753ec1019ca"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on listening practice on a bus journey”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "874c820ab3f8fb389121e300ef09508d66aeba2218cac44647d2833604399155"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on listening practice on a bus journey”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5bec89adaa163602fdae6dfd8e3ddc8a32ae6b7bbfd80facea65ef3efb6472fc"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Speaking practice after work",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An evening language class attracted adults after work. Many learners knew vocabulary but rarely spoke during the crowded first hour. The main obstacle was speaking time concentrated among confident learners. Long whole-class questions left quieter students without a chance to practise. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a record of participation during lessons. The tutor counted speaking turns and asked students which activities felt manageable. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated paired tasks increased active practice. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced short rotating conversations before group discussion. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: confidence grows through repeated opportunities. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in speaking practice after work, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "da4ad69aa594e867808e7b2c7268710a83a9184edfcfde8437e05ff0d4d4b7e2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Speaking practice after work: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "book levels hidden behind unfamiliar codes",
+            "B": "activities longer than common travel breaks",
+            "C": "speaking time concentrated among confident learners",
+            "D": "feedback without clear priorities"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "89356e13f15979d27e21b4cc769bf9f534bdddeda9c4a1b197d8a6092bf803b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Speaking practice after work: What method was used to investigate the situation?",
+          "options": {
+            "A": "a trial shelf with sample pages",
+            "B": "learning diaries from commuters",
+            "C": "student interviews after the next draft",
+            "D": "a record of participation during lessons"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ad8c910431690cf0b58a037b5e4c62ce2ad4c93181c7ca57a35baac9d3155935"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Speaking practice after work: What did the evidence indicate?",
+          "options": {
+            "A": "paired tasks increased active practice",
+            "B": "visible samples made levels easier to judge",
+            "C": "short segments fit real schedules better",
+            "D": "two focused suggestions led to stronger revisions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "aa506c106fafb7c639fe4467d38afba742927910263c4caa1804347d16f13ac2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Speaking practice after work: How was the arrangement changed?",
+          "options": {
+            "A": "plain-language labels and a range of short extracts",
+            "B": "short rotating conversations before group discussion",
+            "C": "brief recordings with a clear restart point",
+            "D": "a short priority note and examples of improvement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9009f24cd7197a7e67d9a0ed70f2908dcf6ef1e4391024c3d374bbb8f286acfa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Speaking practice after work: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "the right challenge encourages independent reading",
+            "B": "learning materials should fit ordinary lives",
+            "C": "confidence grows through repeated opportunities",
+            "D": "useful feedback tells learners what to do next"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "975deabcb429d832576f5abdd59b84d2f55892daaa6992838814cd3dd8091141"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Choosing a reading level",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library offered graded readers to adult learners. Borrowers often selected books by cover and returned them unfinished. The main obstacle was book levels hidden behind unfamiliar codes. Readers could not tell whether a title matched their vocabulary and reading time. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a trial shelf with sample pages. Librarians asked learners to read a short excerpt and explain how they chose a book. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated visible samples made levels easier to judge. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced plain-language labels and a range of short extracts. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: the right challenge encourages independent reading. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in choosing a reading level, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "b616d6780547c4e0debae3d6c53e41624841d1e81f9df6b58e1522f1ffce4aca",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Choosing a reading level: What problem did the people involved notice?",
+          "options": {
+            "A": "book levels hidden behind unfamiliar codes",
+            "B": "speaking time concentrated among confident learners",
+            "C": "activities longer than common travel breaks",
+            "D": "feedback without clear priorities"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "904325025c44ff11d1efabca2e5fe9e9698ed6435258859fde8381af92044b65"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Choosing a reading level: What was the first investigative step?",
+          "options": {
+            "A": "a record of participation during lessons",
+            "B": "a trial shelf with sample pages",
+            "C": "learning diaries from commuters",
+            "D": "student interviews after the next draft"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "eaa1728a335400875026bc1d1e3bd0b80a82e2f0fa41c01b3e2fe770444ec901"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Choosing a reading level: What was learned from the records?",
+          "options": {
+            "A": "paired tasks increased active practice",
+            "B": "short segments fit real schedules better",
+            "C": "visible samples made levels easier to judge",
+            "D": "two focused suggestions led to stronger revisions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d66810b372f8e38238900f3a9070cb1eef411fa349a2ff9619d1f7c4774cd956"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Choosing a reading level: What adjustment followed?",
+          "options": {
+            "A": "short rotating conversations before group discussion",
+            "B": "brief recordings with a clear restart point",
+            "C": "a short priority note and examples of improvement",
+            "D": "plain-language labels and a range of short extracts"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ff21727da7a412bb0f1297e3b7f6f8c91e61bcd4888e5d578a4ddb16725a510d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Choosing a reading level: What is the central message?",
+          "options": {
+            "A": "the right challenge encourages independent reading",
+            "B": "confidence grows through repeated opportunities",
+            "C": "learning materials should fit ordinary lives",
+            "D": "useful feedback tells learners what to do next"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4ea5dd8a2a987f8a72d291d89b7491bbfb0c1330902388de266e1eb31496e6e2"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Listening practice on a bus journey",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult education centre sent listening exercises to phones. Learners liked studying on the bus but found each recording too long. The main obstacle was activities longer than common travel breaks. A single exercise took nearly half an hour and was hard to resume after an interruption. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used learning diaries from commuters. Tutors compared travel times with the points where learners stopped listening. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated short segments fit real schedules better. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced brief recordings with a clear restart point. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: learning materials should fit ordinary lives. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in listening practice on a bus journey, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "aa9437abf71b2a1b46a7528a7a951627b636e8d9dd83976875a1b8fb77eca54c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Listening practice on a bus journey: Why was the original plan difficult to use?",
+          "options": {
+            "A": "speaking time concentrated among confident learners",
+            "B": "book levels hidden behind unfamiliar codes",
+            "C": "activities longer than common travel breaks",
+            "D": "feedback without clear priorities"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8ec2836f946811b4a2934f5364548126e3d479516f02ae7f9786e56f2f2889af"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Listening practice on a bus journey: How did the team gather information?",
+          "options": {
+            "A": "a record of participation during lessons",
+            "B": "a trial shelf with sample pages",
+            "C": "student interviews after the next draft",
+            "D": "learning diaries from commuters"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fb1dea30bf335e5800985d0d38e1ed2e1a9a97e9da4d6576037593445f601f21"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Listening practice on a bus journey: What did the team discover?",
+          "options": {
+            "A": "short segments fit real schedules better",
+            "B": "paired tasks increased active practice",
+            "C": "visible samples made levels easier to judge",
+            "D": "two focused suggestions led to stronger revisions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a1d5a855c65b6ece9c39b2101ac9e6e91905540e0e3c63b96177c9a9336270b5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Listening practice on a bus journey: What did it do in response?",
+          "options": {
+            "A": "short rotating conversations before group discussion",
+            "B": "brief recordings with a clear restart point",
+            "C": "plain-language labels and a range of short extracts",
+            "D": "a short priority note and examples of improvement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "2dbfc5adc1ceae8e585edbae74e7cc61c13158a1f41c3827abd753c71675d8e1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Listening practice on a bus journey: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "confidence grows through repeated opportunities",
+            "B": "the right challenge encourages independent reading",
+            "C": "learning materials should fit ordinary lives",
+            "D": "useful feedback tells learners what to do next"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "de4900c9f63330add89ca0c97d3f6a5bddf6a4d7c6ec6f0cc607f5fe3bc1abf1"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Feedback on a first essay",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult writing class returned essays covered with corrections. Students saw many marks but were unsure which skill to practise next. The main obstacle was feedback without clear priorities. The same page contained notes on ideas, structure, spelling and punctuation. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used student interviews after the next draft. The teacher asked learners which comment they had acted on and why. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated two focused suggestions led to stronger revisions. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a short priority note and examples of improvement. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: useful feedback tells learners what to do next. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in feedback on a first essay, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "236ed24d2cab7083db953300ca5456b475c367401741bf5939ab2e5dde53f85f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Feedback on a first essay: What was the main obstacle?",
+          "options": {
+            "A": "feedback without clear priorities",
+            "B": "speaking time concentrated among confident learners",
+            "C": "book levels hidden behind unfamiliar codes",
+            "D": "activities longer than common travel breaks"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "51de660e982a068eb2e620870ea10a5c38782cc45cb0f76c1b01d07be80eac7f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Feedback on a first essay: How was the idea examined?",
+          "options": {
+            "A": "a record of participation during lessons",
+            "B": "student interviews after the next draft",
+            "C": "a trial shelf with sample pages",
+            "D": "learning diaries from commuters"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d28d51640a686b93e9ea0bfa29e8b667e46deceff7bd05d872ba3adcc7962440"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Feedback on a first essay: Which finding shaped the decision?",
+          "options": {
+            "A": "paired tasks increased active practice",
+            "B": "visible samples made levels easier to judge",
+            "C": "two focused suggestions led to stronger revisions",
+            "D": "short segments fit real schedules better"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "76a35f97db36ab4791626c74e324e2735e6b648e7cdb29dd617afd376ba827de"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Feedback on a first essay: What change did the group make?",
+          "options": {
+            "A": "short rotating conversations before group discussion",
+            "B": "plain-language labels and a range of short extracts",
+            "C": "brief recordings with a clear restart point",
+            "D": "a short priority note and examples of improvement"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e7bf3ba417bde0b989d001d9d2e9f0ba8510fedc3094b89aaa1dd8646f56918f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Feedback on a first essay: What lesson does the writer emphasize?",
+          "options": {
+            "A": "useful feedback tells learners what to do next",
+            "B": "confidence grows through repeated opportunities",
+            "C": "the right challenge encourages independent reading",
+            "D": "learning materials should fit ordinary lives"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3e328523049b27aeadccd5bfdd8890299967df4f3558f2c45b223dd744bea043"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the adult language learning programme helped new visitors understand the plan.",
+      "options": {
+        "A": "silent",
+        "B": "distant",
+        "C": "clear",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "635019ad8bf6f8a9de80cb8eaf837f65c9187d05f55f4c3ed22d7ef3cf9ef9c1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the adult language learning programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "colour",
+        "D": "evidence"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "324fffccc0367af02813c6253f03b5499b2d6ba02191937ae3a592f365a495f3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the adult language learning programme.",
+      "options": {
+        "A": "describe",
+        "B": "conceal",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "03cba73eb63aea7ad1c2864a9262ada99ef746ff18291ad4e8328a8a7622f95b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the adult language learning programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "proposal",
+        "C": "platform",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "38798bf6ca8df41ced4c63938dabf967eac2da5de7daff60465cc67691adfbc8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the adult language learning programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "flexible",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7cb88ebb9dd1bae68ab2e8717619a227f75c5d8925d20997c32b0196df942203"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the adult language learning programme.",
+      "options": {
+        "A": "distance",
+        "B": "surface",
+        "C": "temperature",
+        "D": "accuracy"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9f3c23c2826f1e3cf00d92066ddd22e97a7dc0b0302a5d9f9d9ea647fd1b7ec8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the adult language learning programme easier to _____.",
+      "options": {
+        "A": "estimate",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "00b35f3ebd2901dc05254198608d20080c417395f20fb546da11366e77573cc1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the adult language learning programme.",
+      "options": {
+        "A": "historic",
+        "B": "practical",
+        "C": "silent",
+        "D": "wooden"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ce8036ccb1605440ac4c96b98d04b922186e715fa272d43477f5f7c890c181f5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the adult language learning programme.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "share",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "319828f2c61c4588f3b548618d3f5a20613f47e8b06912724007304c8c014300"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the adult language learning programme.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "titles",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a7288356b24ee46b0d212ac2c8c1ab8afeb20fdc63de4ac446b1c3e16eef85bf"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the adult language learning programme.",
+      "options": {
+        "A": "had",
+        "B": "has",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a50e3443bc5c18b605ce4e719364777300da3a95054cf190ba50b541e09366e8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the adult language learning programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "published",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cd4a42f89360d061f6846740786439fb19ca96e733cdbe8f6ba5b10e2f114140"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the adult language learning programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c72f3075dbf25734db7621fde304f915f3cc77d3c884150c41cd7a3c731d0ba2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the adult language learning programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "why"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "39ba50efd239a64d00767d1c731070851c98d8883d45b83fae5a702beb2baef3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the adult language learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "had noticed",
+        "B": "notices",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b53c4ee6e837c1f9eb63dc6914f462a8f658c96b70a13dd60c46136562acd591"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the adult language learning programme.",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e19f9aced9fa625cc8819653d6e3dd0fae63de7bcab4193a588c054fa4cd41a4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the adult language learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fda2d8bee8e4ead8d87ea49042041500e3562ded79b46019c6e525899d183711"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the adult language learning programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2304fc9c9a55a509fe5f9360ed96938d69c876ba1bacd02c83bf3a5c0ae5b660"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the adult language learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5db096a1a69ddad8afd750806e3583bdd2d7aeb843a967d6500ae0281f967440"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the adult language learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "495be994f2ca4bce0a0ba2d9e821e4cc885744a0377427c7641bb5f510e7f091"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for adult language learning must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the adult language learning programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于成人语言学习的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "761c887a3240f6d055898ddbeafb8149168730b9e6877b76362159edbe6573fb",
+      "referenceAnswerFingerprint": "c44ef2b5ff60d096b2912ff06550d87402428b4c59d42ef0750c0bd78634dafd"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the adult learning team about a community activity related to adult language learning. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the adult language learning programme. People have noticed speaking time concentrated among confident learners, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "8ad4d2c3483911e93b83f2ae6a1d9595b58ced7d7ed695f323e92fe3d74683e6",
+      "sampleAnswerFingerprint": "8b56eb483738d3bc0424c6818131d5b8ca3110111d65284591a8527ceda3a400"
+    }
+  ],
+  "fingerprintManifest": [
+    "75498b9342c173c6128cd30073a5c95bbf1502843a31d4fbac6fd803db408280",
+    "c34ad2624302191552e223417c226909a843119140afa0a369954036b64d0bf0",
+    "f433b70c5120836f8ad9c3c4e0810fa5eb305d2f4bab27c92b60e1e2199044d7",
+    "dc55d3ea82a44ce8c15085d5af04cf6d70f5bc19e3fe81080ae51608d34c3142",
+    "808898289d57673815ae4eceacf31226b07e43099ce44f8977bb3ebebfa6c337",
+    "577a4cad7def1e0f444130c4ca74628b754e1ba9d668806884072061b44fedeb",
+    "c707ec13eebf5ecafdd353538177797b580abdb27c5bad0139ed549b05f79dcc",
+    "040e9ed56a8492729917eb1b61127555ec0c3a951803abacc796e6da725ef578",
+    "a048578a7878a6dadca062a9a97b1ca761b261345b3586c35a13c0676dec09bc",
+    "6579022e1a9eadca63671e4566b1637d1da980b83eda703936eaf4f92a653f75",
+    "6d729d50ee4287d5b94f966876a0f3502f333b0787177145c839d753ec1019ca",
+    "874c820ab3f8fb389121e300ef09508d66aeba2218cac44647d2833604399155",
+    "5bec89adaa163602fdae6dfd8e3ddc8a32ae6b7bbfd80facea65ef3efb6472fc",
+    "da4ad69aa594e867808e7b2c7268710a83a9184edfcfde8437e05ff0d4d4b7e2",
+    "89356e13f15979d27e21b4cc769bf9f534bdddeda9c4a1b197d8a6092bf803b1",
+    "ad8c910431690cf0b58a037b5e4c62ce2ad4c93181c7ca57a35baac9d3155935",
+    "aa506c106fafb7c639fe4467d38afba742927910263c4caa1804347d16f13ac2",
+    "9009f24cd7197a7e67d9a0ed70f2908dcf6ef1e4391024c3d374bbb8f286acfa",
+    "975deabcb429d832576f5abdd59b84d2f55892daaa6992838814cd3dd8091141",
+    "b616d6780547c4e0debae3d6c53e41624841d1e81f9df6b58e1522f1ffce4aca",
+    "904325025c44ff11d1efabca2e5fe9e9698ed6435258859fde8381af92044b65",
+    "eaa1728a335400875026bc1d1e3bd0b80a82e2f0fa41c01b3e2fe770444ec901",
+    "d66810b372f8e38238900f3a9070cb1eef411fa349a2ff9619d1f7c4774cd956",
+    "ff21727da7a412bb0f1297e3b7f6f8c91e61bcd4888e5d578a4ddb16725a510d",
+    "4ea5dd8a2a987f8a72d291d89b7491bbfb0c1330902388de266e1eb31496e6e2",
+    "aa9437abf71b2a1b46a7528a7a951627b636e8d9dd83976875a1b8fb77eca54c",
+    "8ec2836f946811b4a2934f5364548126e3d479516f02ae7f9786e56f2f2889af",
+    "fb1dea30bf335e5800985d0d38e1ed2e1a9a97e9da4d6576037593445f601f21",
+    "a1d5a855c65b6ece9c39b2101ac9e6e91905540e0e3c63b96177c9a9336270b5",
+    "2dbfc5adc1ceae8e585edbae74e7cc61c13158a1f41c3827abd753c71675d8e1",
+    "de4900c9f63330add89ca0c97d3f6a5bddf6a4d7c6ec6f0cc607f5fe3bc1abf1",
+    "236ed24d2cab7083db953300ca5456b475c367401741bf5939ab2e5dde53f85f",
+    "51de660e982a068eb2e620870ea10a5c38782cc45cb0f76c1b01d07be80eac7f",
+    "d28d51640a686b93e9ea0bfa29e8b667e46deceff7bd05d872ba3adcc7962440",
+    "76a35f97db36ab4791626c74e324e2735e6b648e7cdb29dd617afd376ba827de",
+    "e7bf3ba417bde0b989d001d9d2e9f0ba8510fedc3094b89aaa1dd8646f56918f",
+    "3e328523049b27aeadccd5bfdd8890299967df4f3558f2c45b223dd744bea043",
+    "635019ad8bf6f8a9de80cb8eaf837f65c9187d05f55f4c3ed22d7ef3cf9ef9c1",
+    "324fffccc0367af02813c6253f03b5499b2d6ba02191937ae3a592f365a495f3",
+    "03cba73eb63aea7ad1c2864a9262ada99ef746ff18291ad4e8328a8a7622f95b",
+    "38798bf6ca8df41ced4c63938dabf967eac2da5de7daff60465cc67691adfbc8",
+    "7cb88ebb9dd1bae68ab2e8717619a227f75c5d8925d20997c32b0196df942203",
+    "9f3c23c2826f1e3cf00d92066ddd22e97a7dc0b0302a5d9f9d9ea647fd1b7ec8",
+    "00b35f3ebd2901dc05254198608d20080c417395f20fb546da11366e77573cc1",
+    "ce8036ccb1605440ac4c96b98d04b922186e715fa272d43477f5f7c890c181f5",
+    "319828f2c61c4588f3b548618d3f5a20613f47e8b06912724007304c8c014300",
+    "a7288356b24ee46b0d212ac2c8c1ab8afeb20fdc63de4ac446b1c3e16eef85bf",
+    "a50e3443bc5c18b605ce4e719364777300da3a95054cf190ba50b541e09366e8",
+    "cd4a42f89360d061f6846740786439fb19ca96e733cdbe8f6ba5b10e2f114140",
+    "c72f3075dbf25734db7621fde304f915f3cc77d3c884150c41cd7a3c731d0ba2",
+    "39ba50efd239a64d00767d1c731070851c98d8883d45b83fae5a702beb2baef3",
+    "b53c4ee6e837c1f9eb63dc6914f462a8f658c96b70a13dd60c46136562acd591",
+    "e19f9aced9fa625cc8819653d6e3dd0fae63de7bcab4193a588c054fa4cd41a4",
+    "fda2d8bee8e4ead8d87ea49042041500e3562ded79b46019c6e525899d183711",
+    "2304fc9c9a55a509fe5f9360ed96938d69c876ba1bacd02c83bf3a5c0ae5b660",
+    "5db096a1a69ddad8afd750806e3583bdd2d7aeb843a967d6500ae0281f967440",
+    "495be994f2ca4bce0a0ba2d9e821e4cc885744a0377427c7641bb5f510e7f091",
+    "761c887a3240f6d055898ddbeafb8149168730b9e6877b76362159edbe6573fb",
+    "c44ef2b5ff60d096b2912ff06550d87402428b4c59d42ef0750c0bd78634dafd",
+    "8ad4d2c3483911e93b83f2ae6a1d9595b58ced7d7ed695f323e92fe3d74683e6",
+    "8b56eb483738d3bc0424c6818131d5b8ca3110111d65284591a8527ceda3a400"
+  ],
+  "contentFingerprint": "f584b951bba1122adc771deb04843364b5eda83acae8b76944d5e31f6548ea01"
+}
