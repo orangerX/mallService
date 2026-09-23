@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-96",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 96 · 志愿服务与社会参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 96,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about matching volunteers with short tasks",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about matching volunteers with short tasks. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the volunteer information desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the volunteer coordination team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "355fb629492b0cceaf847e1a140ce205c2bcfedf13decfa1f8ad0b2de82e4610",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about matching volunteers with short tasks”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the volunteer information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c080b7751a1a406cdade53c316c02e0234760ee0e18b85ad3a6e70d6b79703c3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about matching volunteers with short tasks”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the volunteer information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fce3c22cee692179d9c93f9318605dd89989dc8ff1bdd067f378e76c062094ec"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about matching volunteers with short tasks”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the volunteer information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "446b126a3a45103402fb66ff3c442a378115374182450946168a8e188b92b391"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about matching volunteers with short tasks”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the volunteer information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "cd64d66a29a83c75f9ec01c4e3bde89c22ed9bad4e37f85812744fde70eedd54"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying welcoming a first-time museum volunteer",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about welcoming a first-time museum volunteer is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the volunteer information desk.",
+        "D": "Please send it to the volunteer coordination team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "50f37c543e55c39e68e913df6b24f8cf35e53d8743f463ab1461d53be0baf5cd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying welcoming a first-time museum volunteer”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the volunteer information desk.",
+            "D": "Please send it to the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "609d0b0916c7564a3623201988fdb3b15acdb554138926b755c6eeab291b9fe4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying welcoming a first-time museum volunteer”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the volunteer information desk.",
+            "D": "Please send it to the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f41a576943b20ac83ace7f93ff620134877ebddaf8cc54a74f3f3635f116c451"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying welcoming a first-time museum volunteer”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the volunteer information desk.",
+            "D": "Please send it to the volunteer coordination team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "631f30b093568736c33ae3e2302449cb609793c90178c1f015d40a04ca37d1eb"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on keeping a park clean-up fair",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about keeping a park clean-up fair last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "96cd51e9d6c0a3e56905901dc360be50385b777d5926e2621e94458579f3e438",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on keeping a park clean-up fair”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "589e4c35e27c9d489b1ff8b688e8923c710fb073a10d816b4154b46d119461cb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on keeping a park clean-up fair”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "558bccd6f509bc80697df43c5801309cff9ccdd7902145c9e1bd8baf979e7079"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on keeping a park clean-up fair”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8035fa82325e8030e8b409ca3302ba2c669a347bd62e231d8a0f41f285e714ac"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Matching volunteers with short tasks",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town invited volunteers to help a community garden. Many people wanted to join but could offer only an hour at a time. The main obstacle was roles described as full-day commitments. The advertisement made small useful jobs appear unavailable to people with limited time. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a list of tasks by duration. Coordinators observed weekly work and asked volunteers what time they could reliably offer. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated short roles covered several recurring needs. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a menu of one-hour tasks and training. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: participation grows when roles fit real availability. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in matching volunteers with short tasks, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "18e44819f5246757dd352ce2fcd1c3aca2d8608694d4874b9944e4a511ab97b2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Matching volunteers with short tasks: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "roles described as full-day commitments",
+            "B": "training focused only on factual content",
+            "C": "tasks distributed by arrival order",
+            "D": "a report that counted inputs alone"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1a25d45c9946f81165ad06e131f02f37fb5e7df6add6b0ae19c2ab12d92c0269"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Matching volunteers with short tasks: What method was used to investigate the situation?",
+          "options": {
+            "A": "shadowing notes from the first month",
+            "B": "a list of tasks by duration",
+            "C": "a review of routes and volunteer feedback",
+            "D": "a review of distribution records"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ecb38b9c7222c3b4823400273dfd4c69838380e3ed3618b48206c76a624b93c4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Matching volunteers with short tasks: What did the evidence indicate?",
+          "options": {
+            "A": "a clear support route built confidence",
+            "B": "planned assignments improved both fairness and coverage",
+            "C": "short roles covered several recurring needs",
+            "D": "specific needs were more useful than a large total"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0d4d5bb07cf0bf7c7dcc406bc1ae7b8fa39964a264e99178dc4bd3b9b51ed311"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Matching volunteers with short tasks: How was the arrangement changed?",
+          "options": {
+            "A": "paired introductory shifts and a question guide",
+            "B": "small teams with suitable routes and equipment",
+            "C": "a summary of requested categories and remaining gaps",
+            "D": "a menu of one-hour tasks and training"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b3550a0d2486d25ffbe6c3374219e55bc6bcbc97e861d111a2797bf549671c58"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Matching volunteers with short tasks: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "participation grows when roles fit real availability",
+            "B": "volunteer training should include the limits of a role",
+            "C": "good coordination respects different capacities",
+            "D": "civic reporting should guide future action"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b8be40348fa12c896f2b8fa0a44a8dc0f0a6b9c28bc2d86ea328c0b6928e2054"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Welcoming a first-time museum volunteer",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A museum recruited new guides. Experienced volunteers knew the exhibits well, but newcomers felt uncomfortable answering unexpected questions. The main obstacle was training focused only on factual content. The induction listed dates and objects without explaining when to seek help. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used shadowing notes from the first month. Coordinators asked new guides which moments had felt uncertain. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated a clear support route built confidence. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced paired introductory shifts and a question guide. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: volunteer training should include the limits of a role. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in welcoming a first-time museum volunteer, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "850ce06da1ffe9faf4d98f70f1e9e690c1e2713753ad456dec0b1125309c12b7",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Welcoming a first-time museum volunteer: What problem did the people involved notice?",
+          "options": {
+            "A": "roles described as full-day commitments",
+            "B": "tasks distributed by arrival order",
+            "C": "training focused only on factual content",
+            "D": "a report that counted inputs alone"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "686f2049d8588a3e20ad40d762bd38740aae3a40c4af1e9fce3037cbeb1c5ad4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Welcoming a first-time museum volunteer: What was the first investigative step?",
+          "options": {
+            "A": "a list of tasks by duration",
+            "B": "a review of routes and volunteer feedback",
+            "C": "a review of distribution records",
+            "D": "shadowing notes from the first month"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a01d45661906fb98ea01fe2bfaab47b074ca980c590682b53c9484bbb1b0f342"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Welcoming a first-time museum volunteer: What was learned from the records?",
+          "options": {
+            "A": "a clear support route built confidence",
+            "B": "short roles covered several recurring needs",
+            "C": "planned assignments improved both fairness and coverage",
+            "D": "specific needs were more useful than a large total"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "191504df219812694c03d91bf6d92b614b1a47a13db0ea1e1b2b463bd950ced7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Welcoming a first-time museum volunteer: What adjustment followed?",
+          "options": {
+            "A": "a menu of one-hour tasks and training",
+            "B": "paired introductory shifts and a question guide",
+            "C": "small teams with suitable routes and equipment",
+            "D": "a summary of requested categories and remaining gaps"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a7aeca10f0bc5ef81f69cd6dcd701c1f9258c013aed3d93bc94633140069e3ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Welcoming a first-time museum volunteer: What is the central message?",
+          "options": {
+            "A": "participation grows when roles fit real availability",
+            "B": "good coordination respects different capacities",
+            "C": "volunteer training should include the limits of a role",
+            "D": "civic reporting should guide future action"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9d07cba2045baf72e53b57a12e7912ef79ccc2d7238c6f85ed1f47cf0bf9c18f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Keeping a park clean-up fair",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood organised litter-picking days. Regular volunteers arrived early and took the easiest areas, leaving difficult spots for newcomers. The main obstacle was tasks distributed by arrival order. The plan did not consider mobility, experience or safe equipment needs. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a review of routes and volunteer feedback. Organizers mapped areas and asked participants which tasks they could do safely. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated planned assignments improved both fairness and coverage. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced small teams with suitable routes and equipment. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: good coordination respects different capacities. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in keeping a park clean-up fair, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "ce000aa1f18573d3e7b17b956483ba0e729804d50a4ee8d0245b761bafedb1ba",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Keeping a park clean-up fair: Why was the original plan difficult to use?",
+          "options": {
+            "A": "tasks distributed by arrival order",
+            "B": "roles described as full-day commitments",
+            "C": "training focused only on factual content",
+            "D": "a report that counted inputs alone"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "66e89ce1b91ac6ff6ea86cec2c6ec03b6740590da43ba84d55a18e8553941cec"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Keeping a park clean-up fair: How did the team gather information?",
+          "options": {
+            "A": "a list of tasks by duration",
+            "B": "a review of routes and volunteer feedback",
+            "C": "shadowing notes from the first month",
+            "D": "a review of distribution records"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3e19bc6b08f8d2249a6895ab9251fba6880974dbee2fe60cbd6a36b196b8c359"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Keeping a park clean-up fair: What did the team discover?",
+          "options": {
+            "A": "short roles covered several recurring needs",
+            "B": "a clear support route built confidence",
+            "C": "planned assignments improved both fairness and coverage",
+            "D": "specific needs were more useful than a large total"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "507c84c3756c02898228a50fa5fe1d1cf83d7ac1403a1078d67138535a6c4d83"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Keeping a park clean-up fair: What did it do in response?",
+          "options": {
+            "A": "a menu of one-hour tasks and training",
+            "B": "paired introductory shifts and a question guide",
+            "C": "a summary of requested categories and remaining gaps",
+            "D": "small teams with suitable routes and equipment"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5c428274ba3da210a53c1ae5333902d6c0b5bccc128147f4005c96e869de9d9a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Keeping a park clean-up fair: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "good coordination respects different capacities",
+            "B": "participation grows when roles fit real availability",
+            "C": "volunteer training should include the limits of a role",
+            "D": "civic reporting should guide future action"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3eff88a7a5bc46be25eebf4e7532079b808e8e902a4a77ef6c59eeffa132ed1f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Reporting the impact of a food drive",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A volunteer group collected food donations. Its public update listed only the number of boxes and did not explain where help was needed next. The main obstacle was a report that counted inputs alone. Supporters could not tell whether donations matched the requests of partner organisations. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review of distribution records. The group consulted recipients through partner staff while protecting personal privacy. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated specific needs were more useful than a large total. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a summary of requested categories and remaining gaps. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: civic reporting should guide future action. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in reporting the impact of a food drive, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "c6b6ec159a5e144d6c9911f78b040bb969cef4bd484f23b4f4507531988acc4d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Reporting the impact of a food drive: What was the main obstacle?",
+          "options": {
+            "A": "roles described as full-day commitments",
+            "B": "training focused only on factual content",
+            "C": "a report that counted inputs alone",
+            "D": "tasks distributed by arrival order"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2f551e5847dd276226a774b4c27d93bbb5563c1b3c2375555df65f9c438ae618"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Reporting the impact of a food drive: How was the idea examined?",
+          "options": {
+            "A": "a list of tasks by duration",
+            "B": "shadowing notes from the first month",
+            "C": "a review of routes and volunteer feedback",
+            "D": "a review of distribution records"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6622a1410e1af4a28781a1495ac06cb70d8dae4866dcbb23dc5c324bd0da80ba"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Reporting the impact of a food drive: Which finding shaped the decision?",
+          "options": {
+            "A": "specific needs were more useful than a large total",
+            "B": "short roles covered several recurring needs",
+            "C": "a clear support route built confidence",
+            "D": "planned assignments improved both fairness and coverage"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8e05a4b55714e77773683b033b8212d46e317567d235d6189c005841a1f0f8e9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Reporting the impact of a food drive: What change did the group make?",
+          "options": {
+            "A": "a menu of one-hour tasks and training",
+            "B": "a summary of requested categories and remaining gaps",
+            "C": "paired introductory shifts and a question guide",
+            "D": "small teams with suitable routes and equipment"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2c679b8f867f1329433cd4c1b7090d204af6940beea6e835646d3b2150c84307"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Reporting the impact of a food drive: What lesson does the writer emphasize?",
+          "options": {
+            "A": "participation grows when roles fit real availability",
+            "B": "volunteer training should include the limits of a role",
+            "C": "civic reporting should guide future action",
+            "D": "good coordination respects different capacities"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fc3418f9905be2bf4e31ea2a5e2a41361de1da3d46fd709f496aa7a62e03103e"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the community volunteering programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4ce895f80cec90d6e61ea8aa971d33cfa6b85b4a7357ba5cd7b527f78a118e53"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the community volunteering programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b78a218976ad4ee50dc962bd161cd37187b34f51d723a5cdf5b4d8ef7d8634b0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the community volunteering programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "403fbf33c89b4814195945d4b00c4e5a389d5f19f7482b4d2e3e13ad0348d5a7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the community volunteering programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "84c371b8e1f8d9e7adc39dd1b21000c1758b03d960cb9bc283a277bb6c214f8c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the community volunteering programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bddce7f0de6681c4be026abb1820c7603c8fc85033bd2387e0023671edc012f5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the community volunteering programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "60a1d85640b3fa27e991a368b8a202abc70dedfb26c011cb6217ac0dbe85a16b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the community volunteering programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ec4a268d75437bc146ecee733ccd2e776029f57bb2222869a7ef9f67c1be0849"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the community volunteering programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c5b8da3d5789158dc066b2fdd127da3c55976a75e8fbd0ddc8291c7be5aee5ba"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the community volunteering programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "46598be1e7616c1011c72e14662e384c26e67418b5890f15c75a936b37f5d0ae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the community volunteering programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5de913da93c8b96172532134068d39dd46d9d6fd35aeffca7f1cd6c942624d71"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community volunteering programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0cdbd7db79b59972a0e9eae732b7ee0662026de693e8bd55f9c8c4612e7206aa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community volunteering programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cd7b8521eb3635f94bed46a6df39b40f53fdfc50ab0f80ea253858dff7657561"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community volunteering programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7c124d29dd96e434a998909443689b571c8e77972199a86c3df23412de2a5195"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community volunteering programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0946e29b0b37b816c5c233bcb546fcf74b2c2c62400261b613f6c4eee4ee034d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community volunteering programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "744895677fa16b2bfd35851b8a1625c2ee629860b0153333d56e7a113661204d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community volunteering programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "667b9f641fa4b133610f2e6f990d52cf86fbe0ca9391be0be6881f0f7276dd40"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community volunteering programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f43665e8294a9c64e1541c2e598540b0bf20ede9c52841b83aaf72498f8921d7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community volunteering programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "10a8931515e14592a03b0a07882956b9e44ff4a76d7b7e9a37eb266837f9ae13"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community volunteering programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e772179c486ab6ed6cc4b50f84c0aa2c8bafb8c8ef33e22a22f6737d04027842"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community volunteering programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "60578d08f800cfbd465e8761af99ede65bca31466cd9f4290cf12f732b7f71e7"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning volunteering and civic participation often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the community volunteering programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关志愿服务与社会参与的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "86603efc0ece1c617ed15ba4518c4f87e6c724c41cde3de08a108066584e6795",
+      "referenceAnswerFingerprint": "bbd83741a5dc77e55dbaec52e4829815d1456e2a4e588776f2a8951d32eec9d1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the volunteer coordination team proposing a small improvement to the community volunteering programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community volunteering programme. People have noticed roles described as full-day commitments, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "8a8b7baa7276bf8c11ab307ae3f6545e68ae768e67066bca7d032fd500ea43d5",
+      "sampleAnswerFingerprint": "a36bdf456cc10876925b7e94b7bd05caa562646f21ab7081c08a00d1810945e1"
+    }
+  ],
+  "fingerprintManifest": [
+    "355fb629492b0cceaf847e1a140ce205c2bcfedf13decfa1f8ad0b2de82e4610",
+    "c080b7751a1a406cdade53c316c02e0234760ee0e18b85ad3a6e70d6b79703c3",
+    "fce3c22cee692179d9c93f9318605dd89989dc8ff1bdd067f378e76c062094ec",
+    "446b126a3a45103402fb66ff3c442a378115374182450946168a8e188b92b391",
+    "cd64d66a29a83c75f9ec01c4e3bde89c22ed9bad4e37f85812744fde70eedd54",
+    "50f37c543e55c39e68e913df6b24f8cf35e53d8743f463ab1461d53be0baf5cd",
+    "609d0b0916c7564a3623201988fdb3b15acdb554138926b755c6eeab291b9fe4",
+    "f41a576943b20ac83ace7f93ff620134877ebddaf8cc54a74f3f3635f116c451",
+    "631f30b093568736c33ae3e2302449cb609793c90178c1f015d40a04ca37d1eb",
+    "96cd51e9d6c0a3e56905901dc360be50385b777d5926e2621e94458579f3e438",
+    "589e4c35e27c9d489b1ff8b688e8923c710fb073a10d816b4154b46d119461cb",
+    "558bccd6f509bc80697df43c5801309cff9ccdd7902145c9e1bd8baf979e7079",
+    "8035fa82325e8030e8b409ca3302ba2c669a347bd62e231d8a0f41f285e714ac",
+    "18e44819f5246757dd352ce2fcd1c3aca2d8608694d4874b9944e4a511ab97b2",
+    "1a25d45c9946f81165ad06e131f02f37fb5e7df6add6b0ae19c2ab12d92c0269",
+    "ecb38b9c7222c3b4823400273dfd4c69838380e3ed3618b48206c76a624b93c4",
+    "0d4d5bb07cf0bf7c7dcc406bc1ae7b8fa39964a264e99178dc4bd3b9b51ed311",
+    "b3550a0d2486d25ffbe6c3374219e55bc6bcbc97e861d111a2797bf549671c58",
+    "b8be40348fa12c896f2b8fa0a44a8dc0f0a6b9c28bc2d86ea328c0b6928e2054",
+    "850ce06da1ffe9faf4d98f70f1e9e690c1e2713753ad456dec0b1125309c12b7",
+    "686f2049d8588a3e20ad40d762bd38740aae3a40c4af1e9fce3037cbeb1c5ad4",
+    "a01d45661906fb98ea01fe2bfaab47b074ca980c590682b53c9484bbb1b0f342",
+    "191504df219812694c03d91bf6d92b614b1a47a13db0ea1e1b2b463bd950ced7",
+    "a7aeca10f0bc5ef81f69cd6dcd701c1f9258c013aed3d93bc94633140069e3ae",
+    "9d07cba2045baf72e53b57a12e7912ef79ccc2d7238c6f85ed1f47cf0bf9c18f",
+    "ce000aa1f18573d3e7b17b956483ba0e729804d50a4ee8d0245b761bafedb1ba",
+    "66e89ce1b91ac6ff6ea86cec2c6ec03b6740590da43ba84d55a18e8553941cec",
+    "3e19bc6b08f8d2249a6895ab9251fba6880974dbee2fe60cbd6a36b196b8c359",
+    "507c84c3756c02898228a50fa5fe1d1cf83d7ac1403a1078d67138535a6c4d83",
+    "5c428274ba3da210a53c1ae5333902d6c0b5bccc128147f4005c96e869de9d9a",
+    "3eff88a7a5bc46be25eebf4e7532079b808e8e902a4a77ef6c59eeffa132ed1f",
+    "c6b6ec159a5e144d6c9911f78b040bb969cef4bd484f23b4f4507531988acc4d",
+    "2f551e5847dd276226a774b4c27d93bbb5563c1b3c2375555df65f9c438ae618",
+    "6622a1410e1af4a28781a1495ac06cb70d8dae4866dcbb23dc5c324bd0da80ba",
+    "8e05a4b55714e77773683b033b8212d46e317567d235d6189c005841a1f0f8e9",
+    "2c679b8f867f1329433cd4c1b7090d204af6940beea6e835646d3b2150c84307",
+    "fc3418f9905be2bf4e31ea2a5e2a41361de1da3d46fd709f496aa7a62e03103e",
+    "4ce895f80cec90d6e61ea8aa971d33cfa6b85b4a7357ba5cd7b527f78a118e53",
+    "b78a218976ad4ee50dc962bd161cd37187b34f51d723a5cdf5b4d8ef7d8634b0",
+    "403fbf33c89b4814195945d4b00c4e5a389d5f19f7482b4d2e3e13ad0348d5a7",
+    "84c371b8e1f8d9e7adc39dd1b21000c1758b03d960cb9bc283a277bb6c214f8c",
+    "bddce7f0de6681c4be026abb1820c7603c8fc85033bd2387e0023671edc012f5",
+    "60a1d85640b3fa27e991a368b8a202abc70dedfb26c011cb6217ac0dbe85a16b",
+    "ec4a268d75437bc146ecee733ccd2e776029f57bb2222869a7ef9f67c1be0849",
+    "c5b8da3d5789158dc066b2fdd127da3c55976a75e8fbd0ddc8291c7be5aee5ba",
+    "46598be1e7616c1011c72e14662e384c26e67418b5890f15c75a936b37f5d0ae",
+    "5de913da93c8b96172532134068d39dd46d9d6fd35aeffca7f1cd6c942624d71",
+    "0cdbd7db79b59972a0e9eae732b7ee0662026de693e8bd55f9c8c4612e7206aa",
+    "cd7b8521eb3635f94bed46a6df39b40f53fdfc50ab0f80ea253858dff7657561",
+    "7c124d29dd96e434a998909443689b571c8e77972199a86c3df23412de2a5195",
+    "0946e29b0b37b816c5c233bcb546fcf74b2c2c62400261b613f6c4eee4ee034d",
+    "744895677fa16b2bfd35851b8a1625c2ee629860b0153333d56e7a113661204d",
+    "667b9f641fa4b133610f2e6f990d52cf86fbe0ca9391be0be6881f0f7276dd40",
+    "f43665e8294a9c64e1541c2e598540b0bf20ede9c52841b83aaf72498f8921d7",
+    "10a8931515e14592a03b0a07882956b9e44ff4a76d7b7e9a37eb266837f9ae13",
+    "e772179c486ab6ed6cc4b50f84c0aa2c8bafb8c8ef33e22a22f6737d04027842",
+    "60578d08f800cfbd465e8761af99ede65bca31466cd9f4290cf12f732b7f71e7",
+    "86603efc0ece1c617ed15ba4518c4f87e6c724c41cde3de08a108066584e6795",
+    "bbd83741a5dc77e55dbaec52e4829815d1456e2a4e588776f2a8951d32eec9d1",
+    "8a8b7baa7276bf8c11ab307ae3f6545e68ae768e67066bca7d032fd500ea43d5",
+    "a36bdf456cc10876925b7e94b7bd05caa562646f21ab7081c08a00d1810945e1"
+  ],
+  "contentFingerprint": "715b24e9a7dd558553c37870ddbaf85187be47685b79d194301b0c873d529e3e"
+}

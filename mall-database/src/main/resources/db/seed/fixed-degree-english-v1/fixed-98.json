@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-98",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 98 · 天气观测与科学判断",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 98,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about comparing rainfall in two gardens",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to comparing rainfall in two gardens. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the weather education desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the weather observation team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "32e3b6d128bf8742baa4094b5f15f1965b2518adc24b15410fcc3901464392cc",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about comparing rainfall in two gardens”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the weather education desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the weather observation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4082915fbbd6fb223414820c673914c5f6e8bcf0958a3c9319cacbe968b22e2a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about comparing rainfall in two gardens”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the weather education desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the weather observation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "67872ad24cd904b1bd084ebc280edacadf480c86df758fa97076012942785d00"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about comparing rainfall in two gardens”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the weather education desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the weather observation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1e68b86d717d88a328435a32422d2a4e75cd2595f1281aba9d6b97118e98bbb9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about comparing rainfall in two gardens”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the weather education desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the weather observation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b74c1e4c195468945a84f5bfc8bf7a6096f148aa40805f5c090276f83eabc24d"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying a forecast for a school trip",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about a forecast for a school trip is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the weather education desk.",
+        "D": "Please send it to the weather observation team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4385d90162b01e710d0eed8adf2418d7c1539dfa35f3c3abcd030999cd286b2d",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying a forecast for a school trip”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the weather education desk.",
+            "D": "Please send it to the weather observation team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "571e548abdc5dfbb68d40425f9da5907da086ed3f6aa2eeb9ee1c99bb34e507a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying a forecast for a school trip”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the weather education desk.",
+            "D": "Please send it to the weather observation team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a8d70f1c66f082fdfe39f60307ce022a4c08b5f0ad2da45ca6ec177f8b6d41f1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying a forecast for a school trip”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the weather education desk.",
+            "D": "Please send it to the weather observation team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ef2a4a32653a7d252c1c185f57a2618f47a50d2091fe00ea35cb7acd89de63a2"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a heat map for town streets",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a heat map for town streets last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b07b1a0ac21b4cc2866ed9963a854edc28616031a655ab00ce07355c0800e0ab",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a heat map for town streets”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8f5b76db2e24b26caf9eb5cc44395f14e6b2302640fcc6d10424fe47304738a4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a heat map for town streets”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1157a1a7893a4897cdf96f4689d4e2e626a085c58a78e3f904c7e7316021102d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a heat map for town streets”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "87bfd0105015330601db77da22ff7b5f5b7f5a07e3d852f9c655488a7cd7e21e"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Comparing rainfall in two gardens",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Neighbours placed rain gauges in two gardens. One gauge reported much more rain after every shower, although the houses stood close together. The main obstacle was gauges installed in different positions. One sat beneath a roof edge where runoff could fall into it. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a supervised relocation and comparison. The group placed instruments in open positions and recorded readings after the same showers. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated placement explained the large difference. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a common installation guide for volunteers. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: measurement quality begins before recording numbers. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in comparing rainfall in two gardens, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "4619ae3a67a09146849022b35baab2f74683ecfd3dd102aeaed24a91fd3f3e9b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Comparing rainfall in two gardens: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a probability treated as a guarantee",
+            "B": "readings taken at different hours",
+            "C": "gauges installed in different positions",
+            "D": "a warning scale without local examples"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "52ca5eb73e78b4880f0c49a1268bbb38fb82d5476fedce4c0a836a6e064ca88a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Comparing rainfall in two gardens: What method was used to investigate the situation?",
+          "options": {
+            "A": "a review of forecast uncertainty and route options",
+            "B": "repeat measurements on a shared timetable",
+            "C": "questions collected after a practice alert",
+            "D": "a supervised relocation and comparison"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0a84df92e25944ebfe59811250fc6709c8c701cfb4af562d3d2cdcd0cd24f12b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Comparing rainfall in two gardens: What did the evidence indicate?",
+          "options": {
+            "A": "placement explained the large difference",
+            "B": "a simple backup plan protected the outing",
+            "C": "the revised map showed a different pattern",
+            "D": "action examples improved the message"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9b67b3efe9858d3d620039c389a308291ee4addefd990f55b4c8d648ac902e14"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Comparing rainfall in two gardens: How was the arrangement changed?",
+          "options": {
+            "A": "a sheltered stop and a clear decision time",
+            "B": "a common installation guide for volunteers",
+            "C": "a published method beside the temperature map",
+            "D": "a short local checklist linked to each alert"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "769a55eed1716fd2cf167540fb2bf3bf6c9853b43d7b7de364c50b2cb419426f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Comparing rainfall in two gardens: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "uncertain forecasts still support careful planning",
+            "B": "a fair comparison needs consistent timing",
+            "C": "measurement quality begins before recording numbers",
+            "D": "science communication connects evidence to decisions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "241b93ddbdbbfc0b90c4504218936edc1afff1a575fd4a1559f616f4d0344d9b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A forecast for a school trip",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A teacher checked a weather forecast before a school trip. The chance of rain was low, but the planned route had little shelter. The main obstacle was a probability treated as a guarantee. The initial plan included no response if a brief shower occurred. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a review of forecast uncertainty and route options. Staff compared safe alternatives and consulted the school trip guidance. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated a simple backup plan protected the outing. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a sheltered stop and a clear decision time. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: uncertain forecasts still support careful planning. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in a forecast for a school trip, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "490f7753c2fc61741304e86ff96a96cae2ace644bfaee5726334619b12a412df",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A forecast for a school trip: What problem did the people involved notice?",
+          "options": {
+            "A": "a probability treated as a guarantee",
+            "B": "gauges installed in different positions",
+            "C": "readings taken at different hours",
+            "D": "a warning scale without local examples"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "af814512a693f28c482f18eece67e0d0b64c2ab745a1a171569c1250b041b592"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A forecast for a school trip: What was the first investigative step?",
+          "options": {
+            "A": "a supervised relocation and comparison",
+            "B": "a review of forecast uncertainty and route options",
+            "C": "repeat measurements on a shared timetable",
+            "D": "questions collected after a practice alert"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "469d1af8698881f8b0cef9c36442195d720f89f7010612d262e7c562102a0744"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A forecast for a school trip: What was learned from the records?",
+          "options": {
+            "A": "placement explained the large difference",
+            "B": "the revised map showed a different pattern",
+            "C": "a simple backup plan protected the outing",
+            "D": "action examples improved the message"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c88b5127ea1bb624931298a23d3973b9a7267bf77c4306e7e15c254596f97b94"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A forecast for a school trip: What adjustment followed?",
+          "options": {
+            "A": "a common installation guide for volunteers",
+            "B": "a published method beside the temperature map",
+            "C": "a short local checklist linked to each alert",
+            "D": "a sheltered stop and a clear decision time"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "93d65f8c98c8fcab9dc9585434d3aa804446e1eea1a0738fbd0ecbb6fdc33846"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A forecast for a school trip: What is the central message?",
+          "options": {
+            "A": "uncertain forecasts still support careful planning",
+            "B": "measurement quality begins before recording numbers",
+            "C": "a fair comparison needs consistent timing",
+            "D": "science communication connects evidence to decisions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0d8c4c9518dcd3446556330bf0112248ebe631d743e557c9660fc3983e451e99"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A heat map for town streets",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Students mapped air temperature in a town. Their first results made a tree-lined street look hotter than a nearby paved square. The main obstacle was readings taken at different hours. The shaded street was measured late in the afternoon while the square was visited early. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used repeat measurements on a shared timetable. Students used the same height and recorded cloud and shade conditions. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated the revised map showed a different pattern. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a published method beside the temperature map. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: a fair comparison needs consistent timing. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a heat map for town streets, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "a862ec602309386de700468cf462d974668876b1b4e99067a72830c219ce8ded",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A heat map for town streets: Why was the original plan difficult to use?",
+          "options": {
+            "A": "gauges installed in different positions",
+            "B": "a probability treated as a guarantee",
+            "C": "readings taken at different hours",
+            "D": "a warning scale without local examples"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d7d8beb83fd7dbf6eb34fb060563f320aece4a72a978fb52293507eb4fedec49"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A heat map for town streets: How did the team gather information?",
+          "options": {
+            "A": "a supervised relocation and comparison",
+            "B": "a review of forecast uncertainty and route options",
+            "C": "questions collected after a practice alert",
+            "D": "repeat measurements on a shared timetable"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "dc894cde4d7a6b36fe29841828a3205c4a5fc104377b4819b75af3a29cefadf7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A heat map for town streets: What did the team discover?",
+          "options": {
+            "A": "the revised map showed a different pattern",
+            "B": "placement explained the large difference",
+            "C": "a simple backup plan protected the outing",
+            "D": "action examples improved the message"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0483855cfbcbd9935b17f2d3f6b708d4a28b6e72f1466182f6be3d691fd6982f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A heat map for town streets: What did it do in response?",
+          "options": {
+            "A": "a common installation guide for volunteers",
+            "B": "a published method beside the temperature map",
+            "C": "a sheltered stop and a clear decision time",
+            "D": "a short local checklist linked to each alert"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "266a9f8bd7cd4d6d84a6595067919f3e48aa060bca123bdfe8501d4e2446a5b4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A heat map for town streets: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "measurement quality begins before recording numbers",
+            "B": "uncertain forecasts still support careful planning",
+            "C": "a fair comparison needs consistent timing",
+            "D": "science communication connects evidence to decisions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "80917927c6f51d916da60b09e0485b0caa35b7425ce3b3ee5aa9c35e54d46780"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Reading a storm alert colour",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A weather office used colours to indicate storm risk. Some residents understood the colour but not what action their neighbourhood required. The main obstacle was a warning scale without local examples. The message described wind strength but did not mention loose outdoor objects or travel changes. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used questions collected after a practice alert. Staff asked residents what they planned to do and compared answers with official guidance. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated action examples improved the message. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a short local checklist linked to each alert. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: science communication connects evidence to decisions. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in reading a storm alert colour, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "a4362ab23ac3f4abb2f62d41d3426b493701c9709a1380b59e55a58b8f33b7b3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Reading a storm alert colour: What was the main obstacle?",
+          "options": {
+            "A": "a warning scale without local examples",
+            "B": "gauges installed in different positions",
+            "C": "a probability treated as a guarantee",
+            "D": "readings taken at different hours"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "170d69a4d0372e28689214ebb37f2890a296cd439d5e8f1e5f6702a033918f43"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Reading a storm alert colour: How was the idea examined?",
+          "options": {
+            "A": "a supervised relocation and comparison",
+            "B": "questions collected after a practice alert",
+            "C": "a review of forecast uncertainty and route options",
+            "D": "repeat measurements on a shared timetable"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0695e3f6e72a797155d25aefa23aa711205a695727a9f6bae85973567d71ee3a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Reading a storm alert colour: Which finding shaped the decision?",
+          "options": {
+            "A": "placement explained the large difference",
+            "B": "a simple backup plan protected the outing",
+            "C": "action examples improved the message",
+            "D": "the revised map showed a different pattern"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ca3f843c5be76c6e44f078264306d8ca6d3a72421de1b33b2a130125c8e277cf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Reading a storm alert colour: What change did the group make?",
+          "options": {
+            "A": "a common installation guide for volunteers",
+            "B": "a sheltered stop and a clear decision time",
+            "C": "a published method beside the temperature map",
+            "D": "a short local checklist linked to each alert"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a2898aaed4164d9bc42f9165d29141bcc2fb6786c480177d6b47e78fc6064873"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Reading a storm alert colour: What lesson does the writer emphasize?",
+          "options": {
+            "A": "science communication connects evidence to decisions",
+            "B": "measurement quality begins before recording numbers",
+            "C": "uncertain forecasts still support careful planning",
+            "D": "a fair comparison needs consistent timing"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d4e9372e6b50793a501a7481de584b6035f8b4caa7283cc73e20a0899c9eb9b1"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the community weather learning programme helped new visitors understand the plan.",
+      "options": {
+        "A": "silent",
+        "B": "distant",
+        "C": "clear",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f0e4ae6dec1e470c98221a6f65520c34bf92366cadb11cf9b3aa187b23946135"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the community weather learning programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "colour",
+        "D": "evidence"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "921d25629c641698ac84e3a58f4dde99e27c5848e3a2b5a6a4c331cd26e37332"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the community weather learning programme.",
+      "options": {
+        "A": "describe",
+        "B": "conceal",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fc5752507bfb22d0bf506740132edc2e16e83eccebb1d44ffee32f424e6f2464"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the community weather learning programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "proposal",
+        "C": "platform",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7365a50b785df0806eb79fae85f2da2036d1a3b28f64d1f108e77201ae638b17"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the community weather learning programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "flexible",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ca1dd28e6f6b22881088b079ffb54c9b42218d98ce108d0853f17f15feb1f7f0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the community weather learning programme.",
+      "options": {
+        "A": "distance",
+        "B": "surface",
+        "C": "temperature",
+        "D": "accuracy"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "35034df3c1e70671551214aed5640d2c19dd5c44d1a5fc2ca2f36c986c28c3e2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the community weather learning programme easier to _____.",
+      "options": {
+        "A": "estimate",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b7f892edf73294ef3d6cf0745e0fc03281476f138eac5d5a91e549d31f437761"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the community weather learning programme.",
+      "options": {
+        "A": "historic",
+        "B": "practical",
+        "C": "silent",
+        "D": "wooden"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0d2e86ef6031cc81246db430055c00652f2f48f4424ddaabf87597bb0e87c8f0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the community weather learning programme.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "share",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f5ba89939d0e062d5b5e668e7b514c47eb9b2107073816c816a3effbc5130092"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the community weather learning programme.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "titles",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fb39ba31abe14441c92be6397a7348de4d2df3561f65470f461e76e320978fd0"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community weather learning programme.",
+      "options": {
+        "A": "had",
+        "B": "has",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5c18d575f054ffe7f811dd33fa619eed92810d9f81f68636e17a49de37b9834d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community weather learning programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "published",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d753954108787f94acf22dfbf64b4ad20ca0c53fa3ec8df9afee3f0697a5f609"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community weather learning programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "24da13a570901c76638201d7defdb49a93d81c7125754b1c0789b23155b690a7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community weather learning programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "why"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "39969cb10b1da8c1aaefdf05cd563ca4223abd9e2b7586d337882feb345c43fb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community weather learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "had noticed",
+        "B": "notices",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "97701365c3a23c67b9c0b05a93c6ec9385f6522cdf78410851321d60302a7634"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community weather learning programme.",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bca33a7c319322389bf1ca8ce06f53893a069e426a3f77f6cfffdbad793e7dbb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community weather learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f97255d269a5ffe5b5a8fce72fb06ace655fc488cc612a44cb23e8f73bfacf7e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community weather learning programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "65e89cc395af350cc1d936d03e8ad76f94c4c345932380bcb11a013a0cfb8ee0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community weather learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e4ccebb638aabb7c85e99890e8d114ab94d651f67e21e7d5dd4d2b698c5f5add"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community weather learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e02a0f04f782fe3109837b34ac5da39b4e26e3db7bcf4acc87fbdb456e8f4bf4"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the community weather learning programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about weather observation and scientific judgement, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关天气观测与科学判断的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "44680c5b434685bf33bb744abdc876406fb80c648a6eebabe06e0d1573a47efc",
+      "referenceAnswerFingerprint": "575e5e27062456c4f559d74faedb36932b4e2c54d09704f11c49c9fda48cbc3d"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the weather observation team suggesting a practical change to the community weather learning programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community weather learning programme. People have noticed gauges installed in different positions, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "2763932327b1a993b681c10c2de8a5835ac6e50b63ffa1f63e66effd63a3de09",
+      "sampleAnswerFingerprint": "6246fe98e7e4311cef62a744a8f809bbcd06f30188232eb0fd1e884b373f4adf"
+    }
+  ],
+  "fingerprintManifest": [
+    "32e3b6d128bf8742baa4094b5f15f1965b2518adc24b15410fcc3901464392cc",
+    "4082915fbbd6fb223414820c673914c5f6e8bcf0958a3c9319cacbe968b22e2a",
+    "67872ad24cd904b1bd084ebc280edacadf480c86df758fa97076012942785d00",
+    "1e68b86d717d88a328435a32422d2a4e75cd2595f1281aba9d6b97118e98bbb9",
+    "b74c1e4c195468945a84f5bfc8bf7a6096f148aa40805f5c090276f83eabc24d",
+    "4385d90162b01e710d0eed8adf2418d7c1539dfa35f3c3abcd030999cd286b2d",
+    "571e548abdc5dfbb68d40425f9da5907da086ed3f6aa2eeb9ee1c99bb34e507a",
+    "a8d70f1c66f082fdfe39f60307ce022a4c08b5f0ad2da45ca6ec177f8b6d41f1",
+    "ef2a4a32653a7d252c1c185f57a2618f47a50d2091fe00ea35cb7acd89de63a2",
+    "b07b1a0ac21b4cc2866ed9963a854edc28616031a655ab00ce07355c0800e0ab",
+    "8f5b76db2e24b26caf9eb5cc44395f14e6b2302640fcc6d10424fe47304738a4",
+    "1157a1a7893a4897cdf96f4689d4e2e626a085c58a78e3f904c7e7316021102d",
+    "87bfd0105015330601db77da22ff7b5f5b7f5a07e3d852f9c655488a7cd7e21e",
+    "4619ae3a67a09146849022b35baab2f74683ecfd3dd102aeaed24a91fd3f3e9b",
+    "52ca5eb73e78b4880f0c49a1268bbb38fb82d5476fedce4c0a836a6e064ca88a",
+    "0a84df92e25944ebfe59811250fc6709c8c701cfb4af562d3d2cdcd0cd24f12b",
+    "9b67b3efe9858d3d620039c389a308291ee4addefd990f55b4c8d648ac902e14",
+    "769a55eed1716fd2cf167540fb2bf3bf6c9853b43d7b7de364c50b2cb419426f",
+    "241b93ddbdbbfc0b90c4504218936edc1afff1a575fd4a1559f616f4d0344d9b",
+    "490f7753c2fc61741304e86ff96a96cae2ace644bfaee5726334619b12a412df",
+    "af814512a693f28c482f18eece67e0d0b64c2ab745a1a171569c1250b041b592",
+    "469d1af8698881f8b0cef9c36442195d720f89f7010612d262e7c562102a0744",
+    "c88b5127ea1bb624931298a23d3973b9a7267bf77c4306e7e15c254596f97b94",
+    "93d65f8c98c8fcab9dc9585434d3aa804446e1eea1a0738fbd0ecbb6fdc33846",
+    "0d8c4c9518dcd3446556330bf0112248ebe631d743e557c9660fc3983e451e99",
+    "a862ec602309386de700468cf462d974668876b1b4e99067a72830c219ce8ded",
+    "d7d8beb83fd7dbf6eb34fb060563f320aece4a72a978fb52293507eb4fedec49",
+    "dc894cde4d7a6b36fe29841828a3205c4a5fc104377b4819b75af3a29cefadf7",
+    "0483855cfbcbd9935b17f2d3f6b708d4a28b6e72f1466182f6be3d691fd6982f",
+    "266a9f8bd7cd4d6d84a6595067919f3e48aa060bca123bdfe8501d4e2446a5b4",
+    "80917927c6f51d916da60b09e0485b0caa35b7425ce3b3ee5aa9c35e54d46780",
+    "a4362ab23ac3f4abb2f62d41d3426b493701c9709a1380b59e55a58b8f33b7b3",
+    "170d69a4d0372e28689214ebb37f2890a296cd439d5e8f1e5f6702a033918f43",
+    "0695e3f6e72a797155d25aefa23aa711205a695727a9f6bae85973567d71ee3a",
+    "ca3f843c5be76c6e44f078264306d8ca6d3a72421de1b33b2a130125c8e277cf",
+    "a2898aaed4164d9bc42f9165d29141bcc2fb6786c480177d6b47e78fc6064873",
+    "d4e9372e6b50793a501a7481de584b6035f8b4caa7283cc73e20a0899c9eb9b1",
+    "f0e4ae6dec1e470c98221a6f65520c34bf92366cadb11cf9b3aa187b23946135",
+    "921d25629c641698ac84e3a58f4dde99e27c5848e3a2b5a6a4c331cd26e37332",
+    "fc5752507bfb22d0bf506740132edc2e16e83eccebb1d44ffee32f424e6f2464",
+    "7365a50b785df0806eb79fae85f2da2036d1a3b28f64d1f108e77201ae638b17",
+    "ca1dd28e6f6b22881088b079ffb54c9b42218d98ce108d0853f17f15feb1f7f0",
+    "35034df3c1e70671551214aed5640d2c19dd5c44d1a5fc2ca2f36c986c28c3e2",
+    "b7f892edf73294ef3d6cf0745e0fc03281476f138eac5d5a91e549d31f437761",
+    "0d2e86ef6031cc81246db430055c00652f2f48f4424ddaabf87597bb0e87c8f0",
+    "f5ba89939d0e062d5b5e668e7b514c47eb9b2107073816c816a3effbc5130092",
+    "fb39ba31abe14441c92be6397a7348de4d2df3561f65470f461e76e320978fd0",
+    "5c18d575f054ffe7f811dd33fa619eed92810d9f81f68636e17a49de37b9834d",
+    "d753954108787f94acf22dfbf64b4ad20ca0c53fa3ec8df9afee3f0697a5f609",
+    "24da13a570901c76638201d7defdb49a93d81c7125754b1c0789b23155b690a7",
+    "39969cb10b1da8c1aaefdf05cd563ca4223abd9e2b7586d337882feb345c43fb",
+    "97701365c3a23c67b9c0b05a93c6ec9385f6522cdf78410851321d60302a7634",
+    "bca33a7c319322389bf1ca8ce06f53893a069e426a3f77f6cfffdbad793e7dbb",
+    "f97255d269a5ffe5b5a8fce72fb06ace655fc488cc612a44cb23e8f73bfacf7e",
+    "65e89cc395af350cc1d936d03e8ad76f94c4c345932380bcb11a013a0cfb8ee0",
+    "e4ccebb638aabb7c85e99890e8d114ab94d651f67e21e7d5dd4d2b698c5f5add",
+    "e02a0f04f782fe3109837b34ac5da39b4e26e3db7bcf4acc87fbdb456e8f4bf4",
+    "44680c5b434685bf33bb744abdc876406fb80c648a6eebabe06e0d1573a47efc",
+    "575e5e27062456c4f559d74faedb36932b4e2c54d09704f11c49c9fda48cbc3d",
+    "2763932327b1a993b681c10c2de8a5835ac6e50b63ffa1f63e66effd63a3de09",
+    "6246fe98e7e4311cef62a744a8f809bbcd06f30188232eb0fd1e884b373f4adf"
+  ],
+  "contentFingerprint": "03bbba257088dfb0122834a65effd0a2114107c267de1affe4ae28599727fd89"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-91",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 91 · 城市水资源与节水",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 91,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to finding a leak in a shared building",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about finding a leak in a shared building. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the local water team that you plan to attend.",
+        "C": "Yes, signs will lead you from the water information desk.",
+        "D": "Certainly. Send your question to the local water team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4288256417e0d1cc624da56b14b0e0ed2c4bc056306616a59232aff85181f36e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to finding a leak in a shared building”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the local water team that you plan to attend.",
+            "C": "Yes, signs will lead you from the water information desk.",
+            "D": "Certainly. Send your question to the local water team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "040870d63d88bb3c418242e0eb32446e141d2c05a6410dd999e9375a9aae5405"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to finding a leak in a shared building”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the local water team that you plan to attend.",
+            "C": "Yes, signs will lead you from the water information desk.",
+            "D": "Certainly. Send your question to the local water team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ad6628ca2df4038094c9015b192235e3c787ae632693dfdd6b07cba80afd1504"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to finding a leak in a shared building”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the local water team that you plan to attend.",
+            "C": "Yes, signs will lead you from the water information desk.",
+            "D": "Certainly. Send your question to the local water team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "23d913e1d2ae8cdbbc0b8d9edea06b224825a65eb32d3b9f981d8abee8871263"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to finding a leak in a shared building”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the local water team that you plan to attend.",
+            "C": "Yes, signs will lead you from the water information desk.",
+            "D": "Certainly. Send your question to the local water team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9f63a505740445100efd4140ec1f413b1b5e48007799478490a51e8e67fe83f3"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying watering a school garden wisely",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about watering a school garden wisely is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the water information desk.",
+        "D": "Please send it to the local water team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "742ec7cfa0bfd1653931ae9b965ce408480f443cf3597a2e0902605d8e4a7882",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying watering a school garden wisely”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the water information desk.",
+            "D": "Please send it to the local water team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "deb615cbac6d1e8c0a2ec117edadcb9eb6bce840558eb7dbf46439657322b950"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying watering a school garden wisely”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the water information desk.",
+            "D": "Please send it to the local water team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9d8203249b12237bac9c1e27eee82fdea0216ad0219b73c6e52258f962f72fd8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying watering a school garden wisely”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the water information desk.",
+            "D": "Please send it to the local water team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "56644f5b19eb92e23a0943c2dd43abbdc80c4f178c1b9de314fa9188a10d0f51"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on explaining a public water notice",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about explaining a public water notice last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "afb73365158a7b13fab624fb7c2b14049cb1840283b1a588de20484551273a27",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on explaining a public water notice”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d3cb3c41cdf540c30316c85b287ef1eaca7f3ce414cfb72922eb6b4437e8d70d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on explaining a public water notice”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6afa112b6527478fa80a962c0078d5785a1f1f55bf9429c320403270cc5caf17"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on explaining a public water notice”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3fc3232bedb782ed718f52b053611fdc267772da00a7d28d3aef288845b44c6a"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Finding a leak in a shared building",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An apartment building used more water than usual. Residents blamed longer showers, but the increase continued after several families travelled away. The main obstacle was a rise that household habits did not explain. The building had no routine comparison of night-time readings when taps were rarely used. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used meter readings at quiet hours. A qualified maintenance worker compared daily records and inspected accessible pipes. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a hidden toilet valve ran continuously. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a prompt repair and a monthly meter log. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: simple records can reveal waste that people cannot see. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in finding a leak in a shared building, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "24cb1930fc74b4fa9041ce19c93425b26b37f7ec5839870b6709f71506a1b2e0",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Finding a leak in a shared building: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "watering decisions based only on appearance",
+            "B": "rules expressed in broad terms",
+            "C": "a refill point hidden beyond ticket gates",
+            "D": "a rise that household habits did not explain"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e24143d19932145f136469dfed9ae7b71abb1545c9cb081b37b921247d2f59bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Finding a leak in a shared building: What method was used to investigate the situation?",
+          "options": {
+            "A": "meter readings at quiet hours",
+            "B": "soil checks at consistent depths",
+            "C": "a reading exercise with local households",
+            "D": "a route observation with first-time visitors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2cd96d33e182996497e59170e7e49cdab02db344f8bd66bece546412e4d9eb0e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Finding a leak in a shared building: What did the evidence indicate?",
+          "options": {
+            "A": "some beds received more water than needed",
+            "B": "a hidden toilet valve ran continuously",
+            "C": "specific examples reduced uncertainty",
+            "D": "visibility mattered more than demand"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "04616dc59ad5413b45f849df9dfbd841be3e7b9c704311774df7a8ee400613b2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Finding a leak in a shared building: How was the arrangement changed?",
+          "options": {
+            "A": "a schedule guided by soil condition and weather",
+            "B": "a plain-language list with dates and contact details",
+            "C": "a prompt repair and a monthly meter log",
+            "D": "direction signs and a map update near the entrance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6983796cf582133c6bac6ed6011f5d0a391768cf4b46749ba5915774baaa4c55"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Finding a leak in a shared building: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "careful observation improves conservation",
+            "B": "clear rules make shared conservation possible",
+            "C": "a sustainable service must be easy to find",
+            "D": "simple records can reveal waste that people cannot see"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2e1955f34eba9aa0fa5fb42d0ab105bbfff8fd6091c260e2a037f765b7580b1b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Watering a school garden wisely",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A school garden looked dry at midday. Pupils watered it every afternoon, yet some plants weakened and the soil stayed wet below the surface. The main obstacle was watering decisions based only on appearance. The top layer dried quickly while roots remained in damp soil. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used soil checks at consistent depths. Teachers asked pupils to compare conditions before and after watering without damaging the plants. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated some beds received more water than needed. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a schedule guided by soil condition and weather. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: careful observation improves conservation. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in watering a school garden wisely, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "417a56d1fabec522f97385759b87d94f425e61ac76699eb7c3bb6769c6c93307",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Watering a school garden wisely: What problem did the people involved notice?",
+          "options": {
+            "A": "a rise that household habits did not explain",
+            "B": "watering decisions based only on appearance",
+            "C": "rules expressed in broad terms",
+            "D": "a refill point hidden beyond ticket gates"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "907db662877404d5089fcff6f158508ecef3f2ebecdf134848088a45e9881335"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Watering a school garden wisely: What was the first investigative step?",
+          "options": {
+            "A": "meter readings at quiet hours",
+            "B": "a reading exercise with local households",
+            "C": "soil checks at consistent depths",
+            "D": "a route observation with first-time visitors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ec49662323a1046afb377f7ea6526f235d8bd88efff8673dc508819f52574b85"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Watering a school garden wisely: What was learned from the records?",
+          "options": {
+            "A": "a hidden toilet valve ran continuously",
+            "B": "specific examples reduced uncertainty",
+            "C": "visibility mattered more than demand",
+            "D": "some beds received more water than needed"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fb6be3f718dccbf19175bb9396b206312e15393c970801f9203ea7ceef765671"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Watering a school garden wisely: What adjustment followed?",
+          "options": {
+            "A": "a schedule guided by soil condition and weather",
+            "B": "a prompt repair and a monthly meter log",
+            "C": "a plain-language list with dates and contact details",
+            "D": "direction signs and a map update near the entrance"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7ecd228074039b01ad6912292b8d054d1cc2d544b4894c7441283ed5a179659f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Watering a school garden wisely: What is the central message?",
+          "options": {
+            "A": "simple records can reveal waste that people cannot see",
+            "B": "careful observation improves conservation",
+            "C": "clear rules make shared conservation possible",
+            "D": "a sustainable service must be easy to find"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "85b680196d11785c78e5f367c81c7b86627d4c0fbe86d496ad1e59415f89a669"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Explaining a public water notice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town issued a notice about temporary water restrictions. Residents understood that they should save water but could not tell which activities were covered. The main obstacle was rules expressed in broad terms. The notice used technical categories instead of familiar examples from daily life. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a reading exercise with local households. Staff asked people to identify whether common activities were allowed under the notice. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated specific examples reduced uncertainty. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a plain-language list with dates and contact details. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: clear rules make shared conservation possible. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in explaining a public water notice, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "401ff18b6493ce6e23e1d9692dfeb7555879996b00cdc8d07bf3bdb9f4730bde",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Explaining a public water notice: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a rise that household habits did not explain",
+            "B": "watering decisions based only on appearance",
+            "C": "a refill point hidden beyond ticket gates",
+            "D": "rules expressed in broad terms"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e41bf53c2c44c52e0a972c19d9f17af96905a42d99e7840786d2f1e8e6574644"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Explaining a public water notice: How did the team gather information?",
+          "options": {
+            "A": "a reading exercise with local households",
+            "B": "meter readings at quiet hours",
+            "C": "soil checks at consistent depths",
+            "D": "a route observation with first-time visitors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3f171354b3e24ca9a3f59b4eb93a25e4e07a6a07b920055a969d93800029a9d6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Explaining a public water notice: What did the team discover?",
+          "options": {
+            "A": "a hidden toilet valve ran continuously",
+            "B": "specific examples reduced uncertainty",
+            "C": "some beds received more water than needed",
+            "D": "visibility mattered more than demand"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e54a97feae0ab28729634ab5f4b4e06800fcfa2f4de3424c55e4685940bbc702"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Explaining a public water notice: What did it do in response?",
+          "options": {
+            "A": "a prompt repair and a monthly meter log",
+            "B": "a schedule guided by soil condition and weather",
+            "C": "a plain-language list with dates and contact details",
+            "D": "direction signs and a map update near the entrance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d95f3412d36c5b2125529a72d688133613c5c2be79d3dfb046c28573e6ff3adb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Explaining a public water notice: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "simple records can reveal waste that people cannot see",
+            "B": "careful observation improves conservation",
+            "C": "a sustainable service must be easy to find",
+            "D": "clear rules make shared conservation possible"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c91c58919a867c275a48032d87a2a0ed7c6f9b7baf18fda98dafafb618f6d78b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Refilling bottles at a station",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A railway station installed a bottle-refill tap. Few passengers used it, although a nearby shop sold many bottled drinks. The main obstacle was a refill point hidden beyond ticket gates. Travellers could not see the tap from the main waiting area or find it on station maps. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a route observation with first-time visitors. The station team watched where people looked for water and recorded the most common paths. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated visibility mattered more than demand. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced direction signs and a map update near the entrance. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: a sustainable service must be easy to find. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in refilling bottles at a station, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "0a2f85d59f9014378439eafa7e73ac9be41ff3db2f1a7ebf3a1a29b477888c7a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Refilling bottles at a station: What was the main obstacle?",
+          "options": {
+            "A": "a rise that household habits did not explain",
+            "B": "a refill point hidden beyond ticket gates",
+            "C": "watering decisions based only on appearance",
+            "D": "rules expressed in broad terms"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0d32bff0d3ae98b6a402afccb1f9b93984c2ab8824816862dfbf3b07645ca6d2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Refilling bottles at a station: How was the idea examined?",
+          "options": {
+            "A": "meter readings at quiet hours",
+            "B": "soil checks at consistent depths",
+            "C": "a route observation with first-time visitors",
+            "D": "a reading exercise with local households"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c8f25d31d0f779fcdcf70c50d674dc39432acb846659b30a36eee67a12c2e08c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Refilling bottles at a station: Which finding shaped the decision?",
+          "options": {
+            "A": "a hidden toilet valve ran continuously",
+            "B": "some beds received more water than needed",
+            "C": "specific examples reduced uncertainty",
+            "D": "visibility mattered more than demand"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "bbf16cb3e9b3b5e916799eb997c4ade8a978afe72c420b7b19e36fd6ce911ea5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Refilling bottles at a station: What change did the group make?",
+          "options": {
+            "A": "direction signs and a map update near the entrance",
+            "B": "a prompt repair and a monthly meter log",
+            "C": "a schedule guided by soil condition and weather",
+            "D": "a plain-language list with dates and contact details"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "74df1d99b414a6396635b99488426dca49e93b369dec7fb8e708f840950136ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Refilling bottles at a station: What lesson does the writer emphasize?",
+          "options": {
+            "A": "simple records can reveal waste that people cannot see",
+            "B": "a sustainable service must be easy to find",
+            "C": "careful observation improves conservation",
+            "D": "clear rules make shared conservation possible"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f3b44aef1713a44ef3a56a9d5a294e301a18f62eee87412399df97a88541f4bf"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the urban water awareness programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cf9b51a173f704e0b1892319741a9f0c50158f40dff725c3773bcea8e3b70780"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the urban water awareness programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e696753055d963fc718d595daa61ddab376085c3d42f8d4311ad4727797fadf1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the urban water awareness programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4ecf653900472287424fdbfa6b302869933237d0e935fc9e3c1c6c248e0c831f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the urban water awareness programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7721bdb7e1322b80d2afa7b2f591d606837c2282df3adf2e67b1a33e77607dc0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the urban water awareness programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d2891cba0df31485d1f0f45b5817475262fd0b8e7f21b8e957d88a609529eb90"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the urban water awareness programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d439567df29a35e3fcecb553af775528609b1f888973f05966167ede764ea755"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the urban water awareness programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8620a3856e364d212441a0646ca08d98f0f12e102a1f890804d45577d52821a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the urban water awareness programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fd395d395e7f18cc33fa7ab7403ce4119f7ddbf7b698a15d60f5e5fdb35e1e39"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the urban water awareness programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f519f4d753e9ce843650a7affb853504cb9773f76498d217226ff843246c83cc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the urban water awareness programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f28fa8b415f37051f7a7c055a438b1c17a174ed6097f8704a6b015c8f055ecae"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the urban water awareness programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f991057244330e624c7e68abbebfef3c11ba6d3581e4cddd417ac57f4f7fc83e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the urban water awareness programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f8e7e605c050307e555e3d42f13ae45599e145a1e9117f4d957ce914e577b77a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the urban water awareness programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3e8335588e710436a156183ba12288ecd883b1f6003a2ffc60045f58dd4a4d54"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the urban water awareness programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "78fb0f632ae1538a191114e7fbfb96e13cf3518eae90df54dea034ae142df17b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the urban water awareness programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "435abe2d3fa54c0415afca72a88833d95fe7482c3a11fa3e52d246951dab7b7a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the urban water awareness programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6d279ead654c56cf1af387ee1cbf23b059f08937c49dfca18cf7fe938d4b030c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the urban water awareness programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f7579d9fdbfd0b12d64afa1f21bd0f11c7811d783bec049fd611f367dd1003ca"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the urban water awareness programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ef16c864e477a6ecda6336dd921353c2acc16016805cf50f1b44ec8d98b3e27e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the urban water awareness programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b3006c0d1a6fdae29b4c96d32c47482d7044d995a89e34fa6af39644073be28f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the urban water awareness programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "552078947788ba840aadab5f2b69c522a3c4b61ad231ffd2c1ef015c58410663"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for urban water use and conservation must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the urban water awareness programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于城市水资源与节水的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "b9d31525f28ba7bab63de618151583a8467173c3a79fb9822e4e5ab9b482d86c",
+      "referenceAnswerFingerprint": "92a825a9dd62c44028f1ece3cad097a4b7d2078978df489d8865ae5df688b450"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the local water team about a community activity related to urban water use and conservation. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the urban water awareness programme. People have noticed a rise that household habits did not explain, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "220c443148da1272d7a41fda19abb462aa42ede594f131b27e4ea0ff6ebf6f90",
+      "sampleAnswerFingerprint": "e6a353d3d4592a2eb561613ae8843447aad53917886b7a77dfdddd96bd6338d9"
+    }
+  ],
+  "fingerprintManifest": [
+    "4288256417e0d1cc624da56b14b0e0ed2c4bc056306616a59232aff85181f36e",
+    "040870d63d88bb3c418242e0eb32446e141d2c05a6410dd999e9375a9aae5405",
+    "ad6628ca2df4038094c9015b192235e3c787ae632693dfdd6b07cba80afd1504",
+    "23d913e1d2ae8cdbbc0b8d9edea06b224825a65eb32d3b9f981d8abee8871263",
+    "9f63a505740445100efd4140ec1f413b1b5e48007799478490a51e8e67fe83f3",
+    "742ec7cfa0bfd1653931ae9b965ce408480f443cf3597a2e0902605d8e4a7882",
+    "deb615cbac6d1e8c0a2ec117edadcb9eb6bce840558eb7dbf46439657322b950",
+    "9d8203249b12237bac9c1e27eee82fdea0216ad0219b73c6e52258f962f72fd8",
+    "56644f5b19eb92e23a0943c2dd43abbdc80c4f178c1b9de314fa9188a10d0f51",
+    "afb73365158a7b13fab624fb7c2b14049cb1840283b1a588de20484551273a27",
+    "d3cb3c41cdf540c30316c85b287ef1eaca7f3ce414cfb72922eb6b4437e8d70d",
+    "6afa112b6527478fa80a962c0078d5785a1f1f55bf9429c320403270cc5caf17",
+    "3fc3232bedb782ed718f52b053611fdc267772da00a7d28d3aef288845b44c6a",
+    "24cb1930fc74b4fa9041ce19c93425b26b37f7ec5839870b6709f71506a1b2e0",
+    "e24143d19932145f136469dfed9ae7b71abb1545c9cb081b37b921247d2f59bd",
+    "2cd96d33e182996497e59170e7e49cdab02db344f8bd66bece546412e4d9eb0e",
+    "04616dc59ad5413b45f849df9dfbd841be3e7b9c704311774df7a8ee400613b2",
+    "6983796cf582133c6bac6ed6011f5d0a391768cf4b46749ba5915774baaa4c55",
+    "2e1955f34eba9aa0fa5fb42d0ab105bbfff8fd6091c260e2a037f765b7580b1b",
+    "417a56d1fabec522f97385759b87d94f425e61ac76699eb7c3bb6769c6c93307",
+    "907db662877404d5089fcff6f158508ecef3f2ebecdf134848088a45e9881335",
+    "ec49662323a1046afb377f7ea6526f235d8bd88efff8673dc508819f52574b85",
+    "fb6be3f718dccbf19175bb9396b206312e15393c970801f9203ea7ceef765671",
+    "7ecd228074039b01ad6912292b8d054d1cc2d544b4894c7441283ed5a179659f",
+    "85b680196d11785c78e5f367c81c7b86627d4c0fbe86d496ad1e59415f89a669",
+    "401ff18b6493ce6e23e1d9692dfeb7555879996b00cdc8d07bf3bdb9f4730bde",
+    "e41bf53c2c44c52e0a972c19d9f17af96905a42d99e7840786d2f1e8e6574644",
+    "3f171354b3e24ca9a3f59b4eb93a25e4e07a6a07b920055a969d93800029a9d6",
+    "e54a97feae0ab28729634ab5f4b4e06800fcfa2f4de3424c55e4685940bbc702",
+    "d95f3412d36c5b2125529a72d688133613c5c2be79d3dfb046c28573e6ff3adb",
+    "c91c58919a867c275a48032d87a2a0ed7c6f9b7baf18fda98dafafb618f6d78b",
+    "0a2f85d59f9014378439eafa7e73ac9be41ff3db2f1a7ebf3a1a29b477888c7a",
+    "0d32bff0d3ae98b6a402afccb1f9b93984c2ab8824816862dfbf3b07645ca6d2",
+    "c8f25d31d0f779fcdcf70c50d674dc39432acb846659b30a36eee67a12c2e08c",
+    "bbf16cb3e9b3b5e916799eb997c4ade8a978afe72c420b7b19e36fd6ce911ea5",
+    "74df1d99b414a6396635b99488426dca49e93b369dec7fb8e708f840950136ae",
+    "f3b44aef1713a44ef3a56a9d5a294e301a18f62eee87412399df97a88541f4bf",
+    "cf9b51a173f704e0b1892319741a9f0c50158f40dff725c3773bcea8e3b70780",
+    "e696753055d963fc718d595daa61ddab376085c3d42f8d4311ad4727797fadf1",
+    "4ecf653900472287424fdbfa6b302869933237d0e935fc9e3c1c6c248e0c831f",
+    "7721bdb7e1322b80d2afa7b2f591d606837c2282df3adf2e67b1a33e77607dc0",
+    "d2891cba0df31485d1f0f45b5817475262fd0b8e7f21b8e957d88a609529eb90",
+    "d439567df29a35e3fcecb553af775528609b1f888973f05966167ede764ea755",
+    "8620a3856e364d212441a0646ca08d98f0f12e102a1f890804d45577d52821a3",
+    "fd395d395e7f18cc33fa7ab7403ce4119f7ddbf7b698a15d60f5e5fdb35e1e39",
+    "f519f4d753e9ce843650a7affb853504cb9773f76498d217226ff843246c83cc",
+    "f28fa8b415f37051f7a7c055a438b1c17a174ed6097f8704a6b015c8f055ecae",
+    "f991057244330e624c7e68abbebfef3c11ba6d3581e4cddd417ac57f4f7fc83e",
+    "f8e7e605c050307e555e3d42f13ae45599e145a1e9117f4d957ce914e577b77a",
+    "3e8335588e710436a156183ba12288ecd883b1f6003a2ffc60045f58dd4a4d54",
+    "78fb0f632ae1538a191114e7fbfb96e13cf3518eae90df54dea034ae142df17b",
+    "435abe2d3fa54c0415afca72a88833d95fe7482c3a11fa3e52d246951dab7b7a",
+    "6d279ead654c56cf1af387ee1cbf23b059f08937c49dfca18cf7fe938d4b030c",
+    "f7579d9fdbfd0b12d64afa1f21bd0f11c7811d783bec049fd611f367dd1003ca",
+    "ef16c864e477a6ecda6336dd921353c2acc16016805cf50f1b44ec8d98b3e27e",
+    "b3006c0d1a6fdae29b4c96d32c47482d7044d995a89e34fa6af39644073be28f",
+    "552078947788ba840aadab5f2b69c522a3c4b61ad231ffd2c1ef015c58410663",
+    "b9d31525f28ba7bab63de618151583a8467173c3a79fb9822e4e5ab9b482d86c",
+    "92a825a9dd62c44028f1ece3cad097a4b7d2078978df489d8865ae5df688b450",
+    "220c443148da1272d7a41fda19abb462aa42ede594f131b27e4ea0ff6ebf6f90",
+    "e6a353d3d4592a2eb561613ae8843447aad53917886b7a77dfdddd96bd6338d9"
+  ],
+  "contentFingerprint": "f72112329cbc59357cb65df544b2128103c24e7eddecab2b0ee31249bd8863cb"
+}

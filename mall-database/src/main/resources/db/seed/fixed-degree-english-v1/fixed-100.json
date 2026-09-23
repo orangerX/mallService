@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-100",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 100 · 公共数据与地图表达",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 100,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to a map of public toilets",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about a map of public toilets. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the civic data team that you plan to attend.",
+        "C": "Yes, signs will lead you from the public data help desk.",
+        "D": "Certainly. Send your question to the civic data team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "48b82cc114f0fb071cfc6308f4b30c97623b0380bda31d82fc3ae00027809893",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to a map of public toilets”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the civic data team that you plan to attend.",
+            "C": "Yes, signs will lead you from the public data help desk.",
+            "D": "Certainly. Send your question to the civic data team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2891e62ca4b7501ca6ef72e6a072738bc601429d8446c810824b6df28290131c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to a map of public toilets”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the civic data team that you plan to attend.",
+            "C": "Yes, signs will lead you from the public data help desk.",
+            "D": "Certainly. Send your question to the civic data team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "88d07caf486e21a14e8d99a91c21d55f6b97325a56749bc10ccf511e3e9e76f9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to a map of public toilets”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the civic data team that you plan to attend.",
+            "C": "Yes, signs will lead you from the public data help desk.",
+            "D": "Certainly. Send your question to the civic data team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2fb5ff241bbc8f8e1d60a9efe08f2854f1ae34152f83fa12746c2de6e5c4cb3c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to a map of public toilets”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the civic data team that you plan to attend.",
+            "C": "Yes, signs will lead you from the public data help desk.",
+            "D": "Certainly. Send your question to the civic data team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1f946ee79cf5d5e461a8d3867c743d2bc1eb0b3a250160103357ec76164da8a4"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying comparing neighbourhood recycling rates",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about comparing neighbourhood recycling rates is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the public data help desk.",
+        "D": "Please send it to the civic data team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "2cf5ed7e9a9c1a4786d0567063b32dbd26ced20aedb271ca9f2f614a1baf5e13",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying comparing neighbourhood recycling rates”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public data help desk.",
+            "D": "Please send it to the civic data team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "46288d49c2bb01f821268f7d3e25d3da1c1a047a018fdd683b661cd747f5f7f2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying comparing neighbourhood recycling rates”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public data help desk.",
+            "D": "Please send it to the civic data team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "996bd4ceef13432426a10de50ec0aec8819211ce2a5f5bce100dccfac1235fcf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying comparing neighbourhood recycling rates”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public data help desk.",
+            "D": "Please send it to the civic data team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4aeb7692774c8e443d38d1146910c6b343a3b534715943c0e64770fc8ba9d06c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a walking map for visitors",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a walking map for visitors last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "e7d5646bc2d7d2379dbd8396b4cd1b970d8b8ef6918771cfae125b5c34c66911",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a walking map for visitors”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "81008f7a178ff100135363172fe681013e131848c36085ac9df94ec63328d15f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a walking map for visitors”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "b2d8bed52289c53bb498c078ea6a9a476738609abfa5454b17a5107ddb454859"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a walking map for visitors”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d9f31765f0f568fc47a2e30bbef774bd4ceb56606a6f0a80a1d45ee9b8c1975b"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A map of public toilets",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A city published a map of public toilets. Visitors found several markers, but some facilities were closed outside the hours shown online. The main obstacle was opening times that were not maintained. Different departments updated signs and the website on separate schedules. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a comparison of map entries and site notices. Staff checked locations and contacted managers responsible for each facility. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a shared update routine improved reliability. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced dated map entries with one reporting channel. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: public data is useful only while it stays current. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a map of public toilets, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "2afae29b98e5258ea70d1658d6f4d086ab99acc56d41440f51eb679d0cea4ebf",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A map of public toilets: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "opening times that were not maintained",
+            "B": "raw totals presented without a fair denominator",
+            "C": "map symbols that were too similar",
+            "D": "a truncated axis that exaggerated change"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6c381686815e103eea40b4746549f1c851a11ed26a09c7d5ed7bfa39ec1996c0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A map of public toilets: What method was used to investigate the situation?",
+          "options": {
+            "A": "a calculation using households served",
+            "B": "a comparison of map entries and site notices",
+            "C": "a trial with unfamiliar map readers",
+            "D": "a chart review with community readers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "abed843db505bb7ba3b9e552d8a9da0815b961233a215bf005ff6af4fe74abb3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A map of public toilets: What did the evidence indicate?",
+          "options": {
+            "A": "the ranking changed after adjustment",
+            "B": "clear line styles prevented wrong turns",
+            "C": "a shared update routine improved reliability",
+            "D": "the full scale gave a fairer impression"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0f95a0d3f0d7fcbb4d824111908f5f3a3715333a1907165fa5aa3a39d17426b4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A map of public toilets: How was the arrangement changed?",
+          "options": {
+            "A": "a chart explaining what each number measures",
+            "B": "a revised key with landmarks and contrasting paths",
+            "C": "a corrected chart with exact figures and notes",
+            "D": "dated map entries with one reporting channel"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c45288a1a4e8cdf10f941a8fb0d0ab24e3d5b6fead0d268523ed70bff4c14da5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A map of public toilets: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "public data is useful only while it stays current",
+            "B": "data comparisons need the right scale",
+            "C": "maps must communicate choices at a glance",
+            "D": "transparent data requires honest presentation"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "eabe6f7c0699f874165d3f4cb396c05a6d65f2d9aee751f0c824b4fe1ff825a6"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Comparing neighbourhood recycling rates",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community group compared recycling totals by neighbourhood. The largest area appeared most successful simply because it had more households. The main obstacle was raw totals presented without a fair denominator. Readers were not told how many homes contributed to each figure. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a calculation using households served. Analysts checked collection coverage and displayed both totals and rates. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated the ranking changed after adjustment. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a chart explaining what each number measures. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: data comparisons need the right scale. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in comparing neighbourhood recycling rates, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "f820f264cc2be2831fc0d54cd17933d2c5355f38954edbbe814779c69f772f9f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Comparing neighbourhood recycling rates: What problem did the people involved notice?",
+          "options": {
+            "A": "opening times that were not maintained",
+            "B": "map symbols that were too similar",
+            "C": "raw totals presented without a fair denominator",
+            "D": "a truncated axis that exaggerated change"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0e2a66599a3c24709c2df5263692d397e77836591f287097f76920c6ea232201"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Comparing neighbourhood recycling rates: What was the first investigative step?",
+          "options": {
+            "A": "a comparison of map entries and site notices",
+            "B": "a trial with unfamiliar map readers",
+            "C": "a chart review with community readers",
+            "D": "a calculation using households served"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b687cb22e611f1d21a6b9802db06bd5f3244ea47c9059ac87f45896bafb7e785"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Comparing neighbourhood recycling rates: What was learned from the records?",
+          "options": {
+            "A": "the ranking changed after adjustment",
+            "B": "a shared update routine improved reliability",
+            "C": "clear line styles prevented wrong turns",
+            "D": "the full scale gave a fairer impression"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a17ce87d8437977b87c5e8208e1e93f06d947e5e2fdff6987e650a30327f48ba"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Comparing neighbourhood recycling rates: What adjustment followed?",
+          "options": {
+            "A": "dated map entries with one reporting channel",
+            "B": "a chart explaining what each number measures",
+            "C": "a revised key with landmarks and contrasting paths",
+            "D": "a corrected chart with exact figures and notes"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "53070a78b96cbfc43089e881b7d090b372a6ea12bd43d33cb5f91eea58a74188"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Comparing neighbourhood recycling rates: What is the central message?",
+          "options": {
+            "A": "public data is useful only while it stays current",
+            "B": "maps must communicate choices at a glance",
+            "C": "data comparisons need the right scale",
+            "D": "transparent data requires honest presentation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "df8b642873e76c463cf0917fa4a609b2a5da25a63b631c4d781d99125d4af322"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A walking map for visitors",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A museum published a walking map of nearby landmarks. First-time visitors missed a turning because a small footpath looked like a main road. The main obstacle was map symbols that were too similar. The route key relied on subtle shades that blurred in printed copies. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a trial with unfamiliar map readers. Designers watched visitors trace the route without offering spoken directions. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated clear line styles prevented wrong turns. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised key with landmarks and contrasting paths. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: maps must communicate choices at a glance. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a walking map for visitors, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "f78128cce74214369a09b98204d910891a2b0c09b8c235e8e1a2b6a195527f21",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A walking map for visitors: Why was the original plan difficult to use?",
+          "options": {
+            "A": "map symbols that were too similar",
+            "B": "opening times that were not maintained",
+            "C": "raw totals presented without a fair denominator",
+            "D": "a truncated axis that exaggerated change"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ac1ec8a49cd104ed16ddf96848597157fa8a7dce2a31314a1ab470ca9844c125"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A walking map for visitors: How did the team gather information?",
+          "options": {
+            "A": "a comparison of map entries and site notices",
+            "B": "a trial with unfamiliar map readers",
+            "C": "a calculation using households served",
+            "D": "a chart review with community readers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "096dba7eff206d2e2238af13000aff4d98a65c2e8670638479052abc79a34ca7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A walking map for visitors: What did the team discover?",
+          "options": {
+            "A": "a shared update routine improved reliability",
+            "B": "the ranking changed after adjustment",
+            "C": "clear line styles prevented wrong turns",
+            "D": "the full scale gave a fairer impression"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "65590473a740ef1f904bb2e0cd1dae3257d650ed0afdbaa1280ef73e357390b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A walking map for visitors: What did it do in response?",
+          "options": {
+            "A": "dated map entries with one reporting channel",
+            "B": "a chart explaining what each number measures",
+            "C": "a corrected chart with exact figures and notes",
+            "D": "a revised key with landmarks and contrasting paths"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3a6c6e261110fa669742e4c663f959200a236531ff833414470e914df08cbf17"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A walking map for visitors: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "maps must communicate choices at a glance",
+            "B": "public data is useful only while it stays current",
+            "C": "data comparisons need the right scale",
+            "D": "transparent data requires honest presentation"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a7b7e9fea6994966b9eb94a8b0f7cf1809868bc8cde2b3f2ad9dae0042794186"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Understanding a public spending chart",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town posted a chart of annual service spending. Residents thought one service had lost funding because the graph began above zero. The main obstacle was a truncated axis that exaggerated change. The bars made a small difference look dramatic without explaining the scale. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a chart review with community readers. The finance team compared interpretations of the first graph with a version starting at zero. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated the full scale gave a fairer impression. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a corrected chart with exact figures and notes. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: transparent data requires honest presentation. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in understanding a public spending chart, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "b58e68bf6a1d38d1e168c2e5767ae8c3f92dbbc6cdc3d80707959301c70c3cb1",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Understanding a public spending chart: What was the main obstacle?",
+          "options": {
+            "A": "opening times that were not maintained",
+            "B": "raw totals presented without a fair denominator",
+            "C": "a truncated axis that exaggerated change",
+            "D": "map symbols that were too similar"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a4e3b6602676c06c49184ae183d5697c4293718d6619f754171fb060d7b9af48"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Understanding a public spending chart: How was the idea examined?",
+          "options": {
+            "A": "a comparison of map entries and site notices",
+            "B": "a calculation using households served",
+            "C": "a trial with unfamiliar map readers",
+            "D": "a chart review with community readers"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "20be398f06188160467799c90a4e1888cac2df6bd0171dc4bcabd60f09bb5979"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Understanding a public spending chart: Which finding shaped the decision?",
+          "options": {
+            "A": "the full scale gave a fairer impression",
+            "B": "a shared update routine improved reliability",
+            "C": "the ranking changed after adjustment",
+            "D": "clear line styles prevented wrong turns"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "381814729b489bd01fb7f733fe795549637b8f5140db479b0d7c515fb15a9d07"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Understanding a public spending chart: What change did the group make?",
+          "options": {
+            "A": "dated map entries with one reporting channel",
+            "B": "a corrected chart with exact figures and notes",
+            "C": "a chart explaining what each number measures",
+            "D": "a revised key with landmarks and contrasting paths"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "848549ab250ae6501507e5d9f10ead7a54851717709da24af19fde856c93227f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Understanding a public spending chart: What lesson does the writer emphasize?",
+          "options": {
+            "A": "public data is useful only while it stays current",
+            "B": "data comparisons need the right scale",
+            "C": "transparent data requires honest presentation",
+            "D": "maps must communicate choices at a glance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6694aab3e4dbfb3c5d36cdf58f42229ffd37e7d6fee15de349ef237ab2d26000"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the open data learning programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f17eb72f83fee0290a9da92c55fb60d7e01d8e88c0edb6c7a4b7b886d72d7429"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the open data learning programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fa0402c757316e3234e23d5c25da73138706260399689adea2ee7b26f37cf32f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the open data learning programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9f795d73ebdea5eeb24dd9ff945e53b0985dd6025fd93ed88be58c462fc4c190"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the open data learning programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7fee6b91edbad69a555fbdad4125a2f7c335bc9e592c7afc43fc754669f3d880"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the open data learning programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "90372617cbae7ff95bbfb079aa6cd200072162793c46a104c8666c630851aa55"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the open data learning programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0219454d83f77fedd379b21d0fb247593717a2fe340e65b6080009882533dead"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the open data learning programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4bd56641e237f79fc2399a5c326c6cc1f875fa0be2df12013a0065b5f7d7d73a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the open data learning programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "445f0db4032758d0a3da8ebf5119775136275ee9e9fb7896bd13ab0d7d9f2a36"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the open data learning programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ac1914e660d159fa4b476c41c07b1738ed866556775cde1a2367c676553dbbd0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the open data learning programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f26f163d6607606858527d7af9fc1546ebfe4c440b6fd8bb3e7bb42dcf1673cb"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the open data learning programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0820ed87c5d1800acb8dd4625db23af953aa94fe02238e15b8813f9b349a57d2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the open data learning programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "249355fe50074cdd987e827be31130530fe28b156a30e117a98717c6095b59e5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the open data learning programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3295fa118e7cd18b9165fe7b4b5e70cec0d39e61e87d26fa37d8029b66215ed9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the open data learning programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "efd09ef6147e1c5aef1aaaf7f39b804b92606329fe5a79da3719169946e209e0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the open data learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7de44449979723688915cc88d0f9cda5b3287d0c46999f79521199575ee9c7cd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the open data learning programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8f826bac0ac548e00ff2858e89ea143e18d9bc5984ea7a8b36015f19ab9db292"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the open data learning programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d3c57422674cb8c126e44cecacd475bfd0375ce24b6289d6fcb5c9a0c01d5bcf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the open data learning programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a39df3544d78b4d6c8494767578d58555ea65417ce681d16ad317da8fecf1e5b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the open data learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6ec8813001de6cc30b74692e6af2c453b7b6ff254b1cbb9b91bc1f31ef4d97cf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the open data learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "da246845f932607e4eaa70ec3226426a03b5a3be9507165d61306fb30fbb5495"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for public data and map communication must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the open data learning programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于公共数据与地图表达的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "988cc35212b2da0bdaa3338e6cc06bb36a7cb8f68b8d26b5b46f8d68a90396d2",
+      "referenceAnswerFingerprint": "1a93ff994945ab007a3c23546799dc0578d50995379b97eb1073e6f349942f93"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the civic data team about a community activity related to public data and map communication. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the open data learning programme. People have noticed opening times that were not maintained, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "aa7094df9df20d1bcd8fa51ac51e352633b6ec9869c897425f994e126f89c5c9",
+      "sampleAnswerFingerprint": "19cca7aad9b8a7d50fe410743c7d3808be9b8b79338d1c205d8dee2bc7db2910"
+    }
+  ],
+  "fingerprintManifest": [
+    "48b82cc114f0fb071cfc6308f4b30c97623b0380bda31d82fc3ae00027809893",
+    "2891e62ca4b7501ca6ef72e6a072738bc601429d8446c810824b6df28290131c",
+    "88d07caf486e21a14e8d99a91c21d55f6b97325a56749bc10ccf511e3e9e76f9",
+    "2fb5ff241bbc8f8e1d60a9efe08f2854f1ae34152f83fa12746c2de6e5c4cb3c",
+    "1f946ee79cf5d5e461a8d3867c743d2bc1eb0b3a250160103357ec76164da8a4",
+    "2cf5ed7e9a9c1a4786d0567063b32dbd26ced20aedb271ca9f2f614a1baf5e13",
+    "46288d49c2bb01f821268f7d3e25d3da1c1a047a018fdd683b661cd747f5f7f2",
+    "996bd4ceef13432426a10de50ec0aec8819211ce2a5f5bce100dccfac1235fcf",
+    "4aeb7692774c8e443d38d1146910c6b343a3b534715943c0e64770fc8ba9d06c",
+    "e7d5646bc2d7d2379dbd8396b4cd1b970d8b8ef6918771cfae125b5c34c66911",
+    "81008f7a178ff100135363172fe681013e131848c36085ac9df94ec63328d15f",
+    "b2d8bed52289c53bb498c078ea6a9a476738609abfa5454b17a5107ddb454859",
+    "d9f31765f0f568fc47a2e30bbef774bd4ceb56606a6f0a80a1d45ee9b8c1975b",
+    "2afae29b98e5258ea70d1658d6f4d086ab99acc56d41440f51eb679d0cea4ebf",
+    "6c381686815e103eea40b4746549f1c851a11ed26a09c7d5ed7bfa39ec1996c0",
+    "abed843db505bb7ba3b9e552d8a9da0815b961233a215bf005ff6af4fe74abb3",
+    "0f95a0d3f0d7fcbb4d824111908f5f3a3715333a1907165fa5aa3a39d17426b4",
+    "c45288a1a4e8cdf10f941a8fb0d0ab24e3d5b6fead0d268523ed70bff4c14da5",
+    "eabe6f7c0699f874165d3f4cb396c05a6d65f2d9aee751f0c824b4fe1ff825a6",
+    "f820f264cc2be2831fc0d54cd17933d2c5355f38954edbbe814779c69f772f9f",
+    "0e2a66599a3c24709c2df5263692d397e77836591f287097f76920c6ea232201",
+    "b687cb22e611f1d21a6b9802db06bd5f3244ea47c9059ac87f45896bafb7e785",
+    "a17ce87d8437977b87c5e8208e1e93f06d947e5e2fdff6987e650a30327f48ba",
+    "53070a78b96cbfc43089e881b7d090b372a6ea12bd43d33cb5f91eea58a74188",
+    "df8b642873e76c463cf0917fa4a609b2a5da25a63b631c4d781d99125d4af322",
+    "f78128cce74214369a09b98204d910891a2b0c09b8c235e8e1a2b6a195527f21",
+    "ac1ec8a49cd104ed16ddf96848597157fa8a7dce2a31314a1ab470ca9844c125",
+    "096dba7eff206d2e2238af13000aff4d98a65c2e8670638479052abc79a34ca7",
+    "65590473a740ef1f904bb2e0cd1dae3257d650ed0afdbaa1280ef73e357390b9",
+    "3a6c6e261110fa669742e4c663f959200a236531ff833414470e914df08cbf17",
+    "a7b7e9fea6994966b9eb94a8b0f7cf1809868bc8cde2b3f2ad9dae0042794186",
+    "b58e68bf6a1d38d1e168c2e5767ae8c3f92dbbc6cdc3d80707959301c70c3cb1",
+    "a4e3b6602676c06c49184ae183d5697c4293718d6619f754171fb060d7b9af48",
+    "20be398f06188160467799c90a4e1888cac2df6bd0171dc4bcabd60f09bb5979",
+    "381814729b489bd01fb7f733fe795549637b8f5140db479b0d7c515fb15a9d07",
+    "848549ab250ae6501507e5d9f10ead7a54851717709da24af19fde856c93227f",
+    "6694aab3e4dbfb3c5d36cdf58f42229ffd37e7d6fee15de349ef237ab2d26000",
+    "f17eb72f83fee0290a9da92c55fb60d7e01d8e88c0edb6c7a4b7b886d72d7429",
+    "fa0402c757316e3234e23d5c25da73138706260399689adea2ee7b26f37cf32f",
+    "9f795d73ebdea5eeb24dd9ff945e53b0985dd6025fd93ed88be58c462fc4c190",
+    "7fee6b91edbad69a555fbdad4125a2f7c335bc9e592c7afc43fc754669f3d880",
+    "90372617cbae7ff95bbfb079aa6cd200072162793c46a104c8666c630851aa55",
+    "0219454d83f77fedd379b21d0fb247593717a2fe340e65b6080009882533dead",
+    "4bd56641e237f79fc2399a5c326c6cc1f875fa0be2df12013a0065b5f7d7d73a",
+    "445f0db4032758d0a3da8ebf5119775136275ee9e9fb7896bd13ab0d7d9f2a36",
+    "ac1914e660d159fa4b476c41c07b1738ed866556775cde1a2367c676553dbbd0",
+    "f26f163d6607606858527d7af9fc1546ebfe4c440b6fd8bb3e7bb42dcf1673cb",
+    "0820ed87c5d1800acb8dd4625db23af953aa94fe02238e15b8813f9b349a57d2",
+    "249355fe50074cdd987e827be31130530fe28b156a30e117a98717c6095b59e5",
+    "3295fa118e7cd18b9165fe7b4b5e70cec0d39e61e87d26fa37d8029b66215ed9",
+    "efd09ef6147e1c5aef1aaaf7f39b804b92606329fe5a79da3719169946e209e0",
+    "7de44449979723688915cc88d0f9cda5b3287d0c46999f79521199575ee9c7cd",
+    "8f826bac0ac548e00ff2858e89ea143e18d9bc5984ea7a8b36015f19ab9db292",
+    "d3c57422674cb8c126e44cecacd475bfd0375ce24b6289d6fcb5c9a0c01d5bcf",
+    "a39df3544d78b4d6c8494767578d58555ea65417ce681d16ad317da8fecf1e5b",
+    "6ec8813001de6cc30b74692e6af2c453b7b6ff254b1cbb9b91bc1f31ef4d97cf",
+    "da246845f932607e4eaa70ec3226426a03b5a3be9507165d61306fb30fbb5495",
+    "988cc35212b2da0bdaa3338e6cc06bb36a7cb8f68b8d26b5b46f8d68a90396d2",
+    "1a93ff994945ab007a3c23546799dc0578d50995379b97eb1073e6f349942f93",
+    "aa7094df9df20d1bcd8fa51ac51e352633b6ec9869c897425f994e126f89c5c9",
+    "19cca7aad9b8a7d50fe410743c7d3808be9b8b79338d1c205d8dee2bc7db2910"
+  ],
+  "contentFingerprint": "5ca15324bc3a95e9a5f7a154cb06662099cf7c33ac4c2193114869c339b59524"
+}

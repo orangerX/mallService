@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-97",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 97 · 制造业与质量改进",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 97,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to labels on a packing line",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about labels on a packing line. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the quality improvement team that you plan to attend.",
+        "C": "Yes, signs will lead you from the production information desk.",
+        "D": "Certainly. Send your question to the quality improvement team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "ceff55413650be89cb33c34e668b012310d7c7be20006a4fed96abd64ebc8b84",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to labels on a packing line”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the quality improvement team that you plan to attend.",
+            "C": "Yes, signs will lead you from the production information desk.",
+            "D": "Certainly. Send your question to the quality improvement team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e9c904174d75d4547bb365ba99e73c0d56803baf24ddaff614f88cf2bf784b7e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to labels on a packing line”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the quality improvement team that you plan to attend.",
+            "C": "Yes, signs will lead you from the production information desk.",
+            "D": "Certainly. Send your question to the quality improvement team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9f38a916147c2fc6e8f1898c80d0e92cf1eeaf5ac87dc47ca23cbe03b77eea07"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to labels on a packing line”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the quality improvement team that you plan to attend.",
+            "C": "Yes, signs will lead you from the production information desk.",
+            "D": "Certainly. Send your question to the quality improvement team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "88ab8d0df71d30802b07ab0dc62534d388900329f974555d3cc3d731dab792d0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to labels on a packing line”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the quality improvement team that you plan to attend.",
+            "C": "Yes, signs will lead you from the production information desk.",
+            "D": "Certainly. Send your question to the quality improvement team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "50895780d3c7b0f7495d7ac1a5f76182ff7410907fd072929851a35223993b81"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying training for a new measuring tool",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about training for a new measuring tool is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the production information desk.",
+        "D": "Please send it to the quality improvement team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "77109080647819b19bfc2cc5857a73825f7d09fe9c4ff6e6a49c5e61c870f5bd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying training for a new measuring tool”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the production information desk.",
+            "D": "Please send it to the quality improvement team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e294e60e764b6b3ab5ae33ae6296f1a36d0800129db4627561bb84fa6c8f68dc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying training for a new measuring tool”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the production information desk.",
+            "D": "Please send it to the quality improvement team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7b6e1c1918bb9d5a85538e57cf1a8399edd971f5f8c99d78c369bff148039df7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying training for a new measuring tool”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the production information desk.",
+            "D": "Please send it to the quality improvement team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "9a713e4ae41c347cd8b3a50cff05786546124818fd3dd77d06edb7af11fe4f90"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on finding damage during delivery",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about finding damage during delivery last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "82b9a0f4cc6251fce9eb7d78bc8292a47694b1622e421230063402fe7bd87acf",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on finding damage during delivery”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4e0b846ec5be4a311b55549bee6025dedb30255305666b0bf49ac3980de460be"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on finding damage during delivery”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5c17eec2789b07d4690c4e418d1d0309bf73e76e519f6d43b66583cae186a541"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on finding damage during delivery”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "5dabf7e00a2ef99e9f3c9f43fac481b0c555de607b7c16cd4f9b9e391a491e9a"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Labels on a packing line",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A small factory packed household goods. Several boxes left with the wrong size label even though workers checked each package. The main obstacle was similar labels stored side by side. Two size codes differed by one small letter and looked alike under the line lighting. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of error times and label placement. Supervisors traced when mistakes occurred and observed the choice without blaming workers. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated layout contributed more than worker speed. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced separate label trays and clearer type. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: quality problems often begin in process design. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in labels on a packing line, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "eeec1f00a1d51d01b0ca8fc09db174ef8bd2ff528ff22041fbd8bb0371d011cb",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Labels on a packing line: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "different calibration habits",
+            "B": "similar labels stored side by side",
+            "C": "damage occurring after final inspection",
+            "D": "suggestions without visible follow-up"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "364cd3be669c50a59963893f2adc15a2eafa7fab583175d9f089bafac563a565"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Labels on a packing line: What method was used to investigate the situation?",
+          "options": {
+            "A": "a comparison of shift procedures",
+            "B": "photographs at packing and arrival",
+            "C": "a review of error times and label placement",
+            "D": "a review of submissions and decision dates"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3e9225c735dcce5821eacdb0a4d55869e7ec2f5fc06917b0443a57acbd6fb87b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Labels on a packing line: What did the evidence indicate?",
+          "options": {
+            "A": "consistent setup reduced variation",
+            "B": "box movement caused repeated marks",
+            "C": "timely explanations kept participation alive",
+            "D": "layout contributed more than worker speed"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "74fe85d62142e0bbc3a104293df5cf9c130c7305025e5ff15dce2243dd1b46a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Labels on a packing line: How was the arrangement changed?",
+          "options": {
+            "A": "separate label trays and clearer type",
+            "B": "a brief shared calibration checklist",
+            "C": "better corner supports and a packing check",
+            "D": "a dated status and short reason for every suggestion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0584c47d51661cafe3211129ca1638dd19062485f439d8256e649b295106a033"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Labels on a packing line: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "reliable measurement depends on a common method",
+            "B": "quality problems often begin in process design",
+            "C": "quality extends beyond the factory door",
+            "D": "listening requires an answer as well as a form"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "670bf7063524bc2e0a06976b9257403b6ea3a0bfdf40cd1aeb348ae0063c189a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Training for a new measuring tool",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A workshop purchased a digital measuring tool. Experienced workers used it confidently, but results varied between shifts. The main obstacle was different calibration habits. The display looked ready before a required setup step had been completed. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a comparison of shift procedures. A technician observed the same sample being measured under each routine. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated consistent setup reduced variation. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a brief shared calibration checklist. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: reliable measurement depends on a common method. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in training for a new measuring tool, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "48c2a928c95eba501352dc161af8b9fc3c8a3966bc40d4292dfbccd2e7f82700",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Training for a new measuring tool: What problem did the people involved notice?",
+          "options": {
+            "A": "similar labels stored side by side",
+            "B": "damage occurring after final inspection",
+            "C": "suggestions without visible follow-up",
+            "D": "different calibration habits"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "69d1efa05bbd0cb0609408e3ca5c200c8d93ab627b1254ef7d6e95d9de9101d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Training for a new measuring tool: What was the first investigative step?",
+          "options": {
+            "A": "a comparison of shift procedures",
+            "B": "a review of error times and label placement",
+            "C": "photographs at packing and arrival",
+            "D": "a review of submissions and decision dates"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "72bb7f275e029645c9f041690970b95ab69afa06f3d93430b5c8020493470966"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Training for a new measuring tool: What was learned from the records?",
+          "options": {
+            "A": "layout contributed more than worker speed",
+            "B": "consistent setup reduced variation",
+            "C": "box movement caused repeated marks",
+            "D": "timely explanations kept participation alive"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "050e8fa598e3d0c73ea956db8a61423107a846b87a57d36fb79793620c28d4b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Training for a new measuring tool: What adjustment followed?",
+          "options": {
+            "A": "separate label trays and clearer type",
+            "B": "better corner supports and a packing check",
+            "C": "a brief shared calibration checklist",
+            "D": "a dated status and short reason for every suggestion"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6eebef9f4bd6e3fed3292f4518c18f52775384e293c02d9f7cb2297373c3b833"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Training for a new measuring tool: What is the central message?",
+          "options": {
+            "A": "quality problems often begin in process design",
+            "B": "quality extends beyond the factory door",
+            "C": "listening requires an answer as well as a form",
+            "D": "reliable measurement depends on a common method"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "14f1a95a0f3bd02b663d37d5745a5bc9cb34ddf39f2054885ec060b0b48575ac"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Finding damage during delivery",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A furniture maker received complaints about scratched tables. Inspection records showed the surfaces were clean before packing. The main obstacle was damage occurring after final inspection. Several tables travelled in boxes with loose protective corners. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used photographs at packing and arrival. The team compared transport conditions and asked drivers when packages shifted. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated box movement caused repeated marks. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced better corner supports and a packing check. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: quality extends beyond the factory door. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in finding damage during delivery, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "dcbba2f6f4191069c255a24d4776d8f0664313e892289c99097129bae8105056",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Finding damage during delivery: Why was the original plan difficult to use?",
+          "options": {
+            "A": "similar labels stored side by side",
+            "B": "damage occurring after final inspection",
+            "C": "different calibration habits",
+            "D": "suggestions without visible follow-up"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a49fe5e8bb5512b3664314aa20b970d15253c5d44723b26fd6c15684f62a308d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Finding damage during delivery: How did the team gather information?",
+          "options": {
+            "A": "a review of error times and label placement",
+            "B": "a comparison of shift procedures",
+            "C": "photographs at packing and arrival",
+            "D": "a review of submissions and decision dates"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4f86f34fe3e823eabb12d06dccb5ffe76974026552c3c5bc6aa9334258dc5628"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Finding damage during delivery: What did the team discover?",
+          "options": {
+            "A": "layout contributed more than worker speed",
+            "B": "consistent setup reduced variation",
+            "C": "timely explanations kept participation alive",
+            "D": "box movement caused repeated marks"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "da30c00de3201114c6801f1532e2bc266bee579dc9ffd8b0caa88a6500da9c0c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Finding damage during delivery: What did it do in response?",
+          "options": {
+            "A": "better corner supports and a packing check",
+            "B": "separate label trays and clearer type",
+            "C": "a brief shared calibration checklist",
+            "D": "a dated status and short reason for every suggestion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "11a08b9746ac815a7fff03641ca71651f17a81547dc2ccffe0aa659d517bf3d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Finding damage during delivery: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "quality problems often begin in process design",
+            "B": "quality extends beyond the factory door",
+            "C": "reliable measurement depends on a common method",
+            "D": "listening requires an answer as well as a form"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c80b0e0b0d1278b7144f6ee85a776a21624851cd74a0ad9917119d8751ceccb3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A suggestion board that gets answers",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Employees posted improvement ideas on a factory board. After months without replies, fewer workers used it. The main obstacle was suggestions without visible follow-up. Staff could not tell whether an idea was rejected, delayed or being tried. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review of submissions and decision dates. Managers grouped ideas by type and spoke with workers about the response they expected. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated timely explanations kept participation alive. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a dated status and short reason for every suggestion. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: listening requires an answer as well as a form. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a suggestion board that gets answers, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "ffee47c423238ba80540b53fb9ec4e62bfbf00b5b8c9f62f75029f1c75582224",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A suggestion board that gets answers: What was the main obstacle?",
+          "options": {
+            "A": "similar labels stored side by side",
+            "B": "different calibration habits",
+            "C": "damage occurring after final inspection",
+            "D": "suggestions without visible follow-up"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d44582851a77a092fa8c08c16486d1ba4cb0f21ac040162c9da2caea52fa8ebb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A suggestion board that gets answers: How was the idea examined?",
+          "options": {
+            "A": "a review of submissions and decision dates",
+            "B": "a review of error times and label placement",
+            "C": "a comparison of shift procedures",
+            "D": "photographs at packing and arrival"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8475a1fb48d171fa9139e24834eadca178ebbae1bb87f3153a9963fdfb855f73"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A suggestion board that gets answers: Which finding shaped the decision?",
+          "options": {
+            "A": "layout contributed more than worker speed",
+            "B": "timely explanations kept participation alive",
+            "C": "consistent setup reduced variation",
+            "D": "box movement caused repeated marks"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1fcd45036c8a5bdb83b5c99f71b75731e086f203fffb90f95827046ba26037b8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A suggestion board that gets answers: What change did the group make?",
+          "options": {
+            "A": "separate label trays and clearer type",
+            "B": "a brief shared calibration checklist",
+            "C": "a dated status and short reason for every suggestion",
+            "D": "better corner supports and a packing check"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ad70aefe4126050740a895c27bdf7455981c54afb0154f390e41e08a2f2b2b18"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A suggestion board that gets answers: What lesson does the writer emphasize?",
+          "options": {
+            "A": "quality problems often begin in process design",
+            "B": "reliable measurement depends on a common method",
+            "C": "quality extends beyond the factory door",
+            "D": "listening requires an answer as well as a form"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "307c11fe0803bf3251029cc2e1965b6a7606a87a60d9da629e6b293d70429b23"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the small factory improvement programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f18737821f1e9196212f05fec2bbe8073a7e3cf5a7238bc61b4e2607faed3fd1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the small factory improvement programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fd69b5d088ae008341b2bea865aa7d449b2f457cf19e3b6581761855a1a06402"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the small factory improvement programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b5730b81c3528b09419d5fd773852491a7215da9c32fb3bce8ad6b891263e0c6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the small factory improvement programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "65e47b11a0b241c6f6bc54c66059ef3041ec51216d999ceb1588e86796de9893"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the small factory improvement programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bde9681184b73e254559f0f6a10f7216023ff0090c47a26a39a644113ac34900"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the small factory improvement programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2674e3b7ee08c7e075531d26880f922383f1a24b2f7780220404ee06da453906"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the small factory improvement programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "eaeaea58433e95a25c804b06342b9d00c6ae84db33b77ace66f57856e20cd50c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the small factory improvement programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "aa15d0550faeea2bba681396f1f22a6a57192c83a7e7aebb0c008c5b1f8a8cb8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the small factory improvement programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6ef8d571d9a3b7abe4f9f1df73fdce27cad764151eb9100692e350207d05e89f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the small factory improvement programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ca92658745310e51e22a56a5cafdc225dcda31731902c96dc4db834eb045df9f"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the small factory improvement programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "55d16d47e6d7c4344c13c3de741bbe0214f959840158aa80363a9b32a9d5404c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the small factory improvement programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "07c0f286b1b3eb95b6d780ca5804490c283556a3b3f37f7df34d12c4c6a9cfe0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the small factory improvement programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7570652f0e1e770b2c22fa18b1fe658a3a8fa103fef6cf9b231c0d37e3e8bf85"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the small factory improvement programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "39e1eb78f71c71f786de54c1797ee332183639d0bc49fafb4657595a6e95aec7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the small factory improvement programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9bcf87375342e8e4c426c00fac891b6269d2eb6f1357f33436c71f2e7db4833b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the small factory improvement programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c0a5d6e564d1d6ddca6a816436ae124c7c4aa198720f658db37887454f23775f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the small factory improvement programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "35ce52cde4e5200c8e374d61cdac7a555dfa6501ad75540b7188670ccefcd765"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the small factory improvement programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ee075087c29d5fd59d4bdfe9991d6af1e22ad49d20b04957069f9c2beeb2a7d2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the small factory improvement programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6a43e5c605ee0096435a1fe65982448dafe8e294a2d9ed67498dc316dc22a0a1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the small factory improvement programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b28ff0faceb03796a7bfc2961486aec5d298e2b2140494c903484eab65beacfe"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for manufacturing and quality improvement must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the small factory improvement programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于制造业与质量改进的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "3c967238a6bc11ebae415152a82e86c7e80f13fb24f992b8db19111fe1fefa3a",
+      "referenceAnswerFingerprint": "dfa5339dd92cbe3f0968292c9e0942dcbb8d8751fcd66c4bdc7e847767618414"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the quality improvement team about a community activity related to manufacturing and quality improvement. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the small factory improvement programme. People have noticed similar labels stored side by side, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "dd4425ba4a23143b5dfe13afdc2fbed5ebc2ae5e02184a1834acb397481dfa4f",
+      "sampleAnswerFingerprint": "589bccc314638f4f654a1fa9d2e1dc2006a1896547ab04e0b719f39e30e9e3e0"
+    }
+  ],
+  "fingerprintManifest": [
+    "ceff55413650be89cb33c34e668b012310d7c7be20006a4fed96abd64ebc8b84",
+    "e9c904174d75d4547bb365ba99e73c0d56803baf24ddaff614f88cf2bf784b7e",
+    "9f38a916147c2fc6e8f1898c80d0e92cf1eeaf5ac87dc47ca23cbe03b77eea07",
+    "88ab8d0df71d30802b07ab0dc62534d388900329f974555d3cc3d731dab792d0",
+    "50895780d3c7b0f7495d7ac1a5f76182ff7410907fd072929851a35223993b81",
+    "77109080647819b19bfc2cc5857a73825f7d09fe9c4ff6e6a49c5e61c870f5bd",
+    "e294e60e764b6b3ab5ae33ae6296f1a36d0800129db4627561bb84fa6c8f68dc",
+    "7b6e1c1918bb9d5a85538e57cf1a8399edd971f5f8c99d78c369bff148039df7",
+    "9a713e4ae41c347cd8b3a50cff05786546124818fd3dd77d06edb7af11fe4f90",
+    "82b9a0f4cc6251fce9eb7d78bc8292a47694b1622e421230063402fe7bd87acf",
+    "4e0b846ec5be4a311b55549bee6025dedb30255305666b0bf49ac3980de460be",
+    "5c17eec2789b07d4690c4e418d1d0309bf73e76e519f6d43b66583cae186a541",
+    "5dabf7e00a2ef99e9f3c9f43fac481b0c555de607b7c16cd4f9b9e391a491e9a",
+    "eeec1f00a1d51d01b0ca8fc09db174ef8bd2ff528ff22041fbd8bb0371d011cb",
+    "364cd3be669c50a59963893f2adc15a2eafa7fab583175d9f089bafac563a565",
+    "3e9225c735dcce5821eacdb0a4d55869e7ec2f5fc06917b0443a57acbd6fb87b",
+    "74fe85d62142e0bbc3a104293df5cf9c130c7305025e5ff15dce2243dd1b46a2",
+    "0584c47d51661cafe3211129ca1638dd19062485f439d8256e649b295106a033",
+    "670bf7063524bc2e0a06976b9257403b6ea3a0bfdf40cd1aeb348ae0063c189a",
+    "48c2a928c95eba501352dc161af8b9fc3c8a3966bc40d4292dfbccd2e7f82700",
+    "69d1efa05bbd0cb0609408e3ca5c200c8d93ab627b1254ef7d6e95d9de9101d9",
+    "72bb7f275e029645c9f041690970b95ab69afa06f3d93430b5c8020493470966",
+    "050e8fa598e3d0c73ea956db8a61423107a846b87a57d36fb79793620c28d4b9",
+    "6eebef9f4bd6e3fed3292f4518c18f52775384e293c02d9f7cb2297373c3b833",
+    "14f1a95a0f3bd02b663d37d5745a5bc9cb34ddf39f2054885ec060b0b48575ac",
+    "dcbba2f6f4191069c255a24d4776d8f0664313e892289c99097129bae8105056",
+    "a49fe5e8bb5512b3664314aa20b970d15253c5d44723b26fd6c15684f62a308d",
+    "4f86f34fe3e823eabb12d06dccb5ffe76974026552c3c5bc6aa9334258dc5628",
+    "da30c00de3201114c6801f1532e2bc266bee579dc9ffd8b0caa88a6500da9c0c",
+    "11a08b9746ac815a7fff03641ca71651f17a81547dc2ccffe0aa659d517bf3d9",
+    "c80b0e0b0d1278b7144f6ee85a776a21624851cd74a0ad9917119d8751ceccb3",
+    "ffee47c423238ba80540b53fb9ec4e62bfbf00b5b8c9f62f75029f1c75582224",
+    "d44582851a77a092fa8c08c16486d1ba4cb0f21ac040162c9da2caea52fa8ebb",
+    "8475a1fb48d171fa9139e24834eadca178ebbae1bb87f3153a9963fdfb855f73",
+    "1fcd45036c8a5bdb83b5c99f71b75731e086f203fffb90f95827046ba26037b8",
+    "ad70aefe4126050740a895c27bdf7455981c54afb0154f390e41e08a2f2b2b18",
+    "307c11fe0803bf3251029cc2e1965b6a7606a87a60d9da629e6b293d70429b23",
+    "f18737821f1e9196212f05fec2bbe8073a7e3cf5a7238bc61b4e2607faed3fd1",
+    "fd69b5d088ae008341b2bea865aa7d449b2f457cf19e3b6581761855a1a06402",
+    "b5730b81c3528b09419d5fd773852491a7215da9c32fb3bce8ad6b891263e0c6",
+    "65e47b11a0b241c6f6bc54c66059ef3041ec51216d999ceb1588e86796de9893",
+    "bde9681184b73e254559f0f6a10f7216023ff0090c47a26a39a644113ac34900",
+    "2674e3b7ee08c7e075531d26880f922383f1a24b2f7780220404ee06da453906",
+    "eaeaea58433e95a25c804b06342b9d00c6ae84db33b77ace66f57856e20cd50c",
+    "aa15d0550faeea2bba681396f1f22a6a57192c83a7e7aebb0c008c5b1f8a8cb8",
+    "6ef8d571d9a3b7abe4f9f1df73fdce27cad764151eb9100692e350207d05e89f",
+    "ca92658745310e51e22a56a5cafdc225dcda31731902c96dc4db834eb045df9f",
+    "55d16d47e6d7c4344c13c3de741bbe0214f959840158aa80363a9b32a9d5404c",
+    "07c0f286b1b3eb95b6d780ca5804490c283556a3b3f37f7df34d12c4c6a9cfe0",
+    "7570652f0e1e770b2c22fa18b1fe658a3a8fa103fef6cf9b231c0d37e3e8bf85",
+    "39e1eb78f71c71f786de54c1797ee332183639d0bc49fafb4657595a6e95aec7",
+    "9bcf87375342e8e4c426c00fac891b6269d2eb6f1357f33436c71f2e7db4833b",
+    "c0a5d6e564d1d6ddca6a816436ae124c7c4aa198720f658db37887454f23775f",
+    "35ce52cde4e5200c8e374d61cdac7a555dfa6501ad75540b7188670ccefcd765",
+    "ee075087c29d5fd59d4bdfe9991d6af1e22ad49d20b04957069f9c2beeb2a7d2",
+    "6a43e5c605ee0096435a1fe65982448dafe8e294a2d9ed67498dc316dc22a0a1",
+    "b28ff0faceb03796a7bfc2961486aec5d298e2b2140494c903484eab65beacfe",
+    "3c967238a6bc11ebae415152a82e86c7e80f13fb24f992b8db19111fe1fefa3a",
+    "dfa5339dd92cbe3f0968292c9e0942dcbb8d8751fcd66c4bdc7e847767618414",
+    "dd4425ba4a23143b5dfe13afdc2fbed5ebc2ae5e02184a1834acb397481dfa4f",
+    "589bccc314638f4f654a1fa9d2e1dc2006a1896547ab04e0b719f39e30e9e3e0"
+  ],
+  "contentFingerprint": "b4e4465f4e9f9275074dfe1662f05d3fb56fd7bae85900dc8391fce18a70c323"
+}

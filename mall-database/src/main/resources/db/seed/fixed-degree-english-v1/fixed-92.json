@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-92",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 92 · 睡眠与日常作息",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 92,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about a bedtime routine for shift workers",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to a bedtime routine for shift workers. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the wellbeing information desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the health education team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "ecbd0c0f8289225f8e2da512df94679b53b66a75bfedc381eabac115d79bbcf5",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about a bedtime routine for shift workers”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the wellbeing information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the health education team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ecda283bc92be144431445b636da83a38bef80696c9ce0ddc006b99b5a73dbe6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about a bedtime routine for shift workers”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the wellbeing information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the health education team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f0a4f1df8869d71dcdefdafe584a0b71a25450d7306aec9ec145b2e48a4d16c4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about a bedtime routine for shift workers”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the wellbeing information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the health education team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "beb15bb0a5cb5a2e4e4433ee67af54ea8b5ba3aa2d87c9294d30086bac4fdc7c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about a bedtime routine for shift workers”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the wellbeing information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the health education team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a4724884754a270cea57e157ba41f294b45d38664b13c8cdb98444105578e0f8"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying noise near student bedrooms",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about noise near student bedrooms is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the wellbeing information desk.",
+        "D": "Please send it to the health education team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "de2af4b2cbf9e0349a1239c204fc1b1615a89f0c94b170979d60a7709927b4fe",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying noise near student bedrooms”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the wellbeing information desk.",
+            "D": "Please send it to the health education team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d27892a72ad6bbf3182699bb197cc76b4dd45a397501909c6b019e424e2b8168"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying noise near student bedrooms”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the wellbeing information desk.",
+            "D": "Please send it to the health education team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4110a5db74430241201a288423af2e6d94c521ed1f64baa5bb2361bb4073cabe"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying noise near student bedrooms”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the wellbeing information desk.",
+            "D": "Please send it to the health education team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ece10de77927b58e0de90623411ad2b2241efdd1d171a0d69a4db0b924dc61f6"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on an evening screen-use discussion",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about an evening screen-use discussion last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "824ab0d45481b67a25784c65c47065becd9561f10c7ff05e46b0b8defb6a0726",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on an evening screen-use discussion”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8587e56dacca9fcc2a69871ea88f9989fc32777dcbc14138beea3ee8694b3631"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on an evening screen-use discussion”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "283216f34ae86d61a25422dd7c3ddbc7ed873852c26af79bb899625401135cac"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on an evening screen-use discussion”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a1a6e78c713f3b301d54fab9c058497e58ec920cf1d77ed3b6ac91bdb95bb84b"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A bedtime routine for shift workers",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A workplace offered a sleep workshop to employees on rotating shifts. Advice built around a nine-to-five day felt unrealistic to many participants. The main obstacle was guidance based on a single work schedule. Night workers had different light exposure and family responsibilities from daytime staff. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used anonymous diaries of work and rest. Educators asked employees when they slept and which routines were within their control. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated flexible principles were more useful than fixed hours. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced examples for several shift patterns. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: health advice should fit the lives it addresses. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a bedtime routine for shift workers, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "358ba25bb1ce6d518d05feeb1540f0fe8095cfbabc6a9c4a2aa5b5daed677704",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A bedtime routine for shift workers: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "guidance based on a single work schedule",
+            "B": "a noise source identified by assumption",
+            "C": "advice presented as a rigid ban",
+            "D": "hours that missed the busiest rest period"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9b3ffb66dc8cf34e2754b4aafdf4877b5d78c3d7cd442e7199c22fbf27ae47a9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A bedtime routine for shift workers: What method was used to investigate the situation?",
+          "options": {
+            "A": "evening observations at several locations",
+            "B": "anonymous diaries of work and rest",
+            "C": "a discussion of practical evening habits",
+            "D": "an anonymous count of room visits"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3b52a14506a1a4f6c554f55c56a65287ed3d38bd2237725c4cc42d34a5a024c1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A bedtime routine for shift workers: What did the evidence indicate?",
+          "options": {
+            "A": "the door caused most repeated disturbance",
+            "B": "small choices felt more manageable",
+            "C": "flexible principles were more useful than fixed hours",
+            "D": "a modest schedule change improved access"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "32c525a928045aeec6d4783cfa16dd02a8ae756fa3ed0897fec8ca4a66975ed8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A bedtime routine for shift workers: How was the arrangement changed?",
+          "options": {
+            "A": "a quiet closer and clear late-hour reminders",
+            "B": "a menu of optional routines rather than one rule",
+            "C": "a later break and clearly posted hours",
+            "D": "examples for several shift patterns"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8b5c9969328610ae78db96d22571e90b7f054d99973bf439cf8d0e2f91c3ef97"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A bedtime routine for shift workers: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "health advice should fit the lives it addresses",
+            "B": "a solution should target the actual cause",
+            "C": "personal routines are easier to change when advice is realistic",
+            "D": "wellbeing facilities need to match real use"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8e58753dfce72bcc03c882ba8fc8027129d27127e394a41b728118b3da0f27ce"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Noise near student bedrooms",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A college dormitory received complaints about night noise. The manager first blamed the common room, but residents reported sound from the service door. The main obstacle was a noise source identified by assumption. The door closed loudly even when the common room was empty. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used evening observations at several locations. Staff recorded times and asked residents to identify where the sound seemed strongest. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated the door caused most repeated disturbance. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a quiet closer and clear late-hour reminders. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a solution should target the actual cause. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in noise near student bedrooms, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "ee66e159ea27dbc97a100a2a82cd394acfef18e2b2e2af293315e7c13368d8fc",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Noise near student bedrooms: What problem did the people involved notice?",
+          "options": {
+            "A": "guidance based on a single work schedule",
+            "B": "advice presented as a rigid ban",
+            "C": "a noise source identified by assumption",
+            "D": "hours that missed the busiest rest period"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3dba634452e1cfed38ec8e3834af350baa76c9a00695ec17ddc98771d9e3f396"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Noise near student bedrooms: What was the first investigative step?",
+          "options": {
+            "A": "anonymous diaries of work and rest",
+            "B": "a discussion of practical evening habits",
+            "C": "an anonymous count of room visits",
+            "D": "evening observations at several locations"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8c9465374fcff841217b5489877268353a38953e99370d50132c420f06ad77df"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Noise near student bedrooms: What was learned from the records?",
+          "options": {
+            "A": "the door caused most repeated disturbance",
+            "B": "flexible principles were more useful than fixed hours",
+            "C": "small choices felt more manageable",
+            "D": "a modest schedule change improved access"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "77195d6c34f45b22c385472a85e74d2e2203f0bcf07a281247736ce5aa726bc3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Noise near student bedrooms: What adjustment followed?",
+          "options": {
+            "A": "examples for several shift patterns",
+            "B": "a quiet closer and clear late-hour reminders",
+            "C": "a menu of optional routines rather than one rule",
+            "D": "a later break and clearly posted hours"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8674f2800ca621662dbdce0968c9be902812f13bfe51fc5c9986b8fedd519fbe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Noise near student bedrooms: What is the central message?",
+          "options": {
+            "A": "health advice should fit the lives it addresses",
+            "B": "personal routines are easier to change when advice is realistic",
+            "C": "a solution should target the actual cause",
+            "D": "wellbeing facilities need to match real use"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "32502dc820a75ed3c992749dac60d178c0ce5fffcc140f87d2c9bea3a1c8e358"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "An evening screen-use discussion",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult learning group discussed screen use before bed. Participants had different experiences, and some relied on phones for family messages. The main obstacle was advice presented as a rigid ban. The initial leaflet ignored necessary communication and treated every device use alike. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a discussion of practical evening habits. The tutor invited adults to describe what helped them wind down without collecting private health data. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated small choices felt more manageable. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a menu of optional routines rather than one rule. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: personal routines are easier to change when advice is realistic. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in an evening screen-use discussion, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "f17edcac197c9e83151caa5608d6b248b56e785918300e60aba9b6106af602ed",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "An evening screen-use discussion: Why was the original plan difficult to use?",
+          "options": {
+            "A": "advice presented as a rigid ban",
+            "B": "guidance based on a single work schedule",
+            "C": "a noise source identified by assumption",
+            "D": "hours that missed the busiest rest period"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c48291c10e398c0e37ec4ed44d9222ba261e52b9f871b6f76bd1e74169cf02a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "An evening screen-use discussion: How did the team gather information?",
+          "options": {
+            "A": "anonymous diaries of work and rest",
+            "B": "a discussion of practical evening habits",
+            "C": "evening observations at several locations",
+            "D": "an anonymous count of room visits"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e69aa82a2a20cfda40b677ddd1438c7cc3ff6e16f3bca96167799ed2515d9e0a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "An evening screen-use discussion: What did the team discover?",
+          "options": {
+            "A": "flexible principles were more useful than fixed hours",
+            "B": "the door caused most repeated disturbance",
+            "C": "small choices felt more manageable",
+            "D": "a modest schedule change improved access"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6d1c78f984692d08a0c80f943d9918e54a8caf2928f6696b23645295aa52ecde"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "An evening screen-use discussion: What did it do in response?",
+          "options": {
+            "A": "examples for several shift patterns",
+            "B": "a quiet closer and clear late-hour reminders",
+            "C": "a later break and clearly posted hours",
+            "D": "a menu of optional routines rather than one rule"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "113a125ae97fac2e0a343f5414d470ea882c75f2f3050dbf45ee7379b35b7416"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "An evening screen-use discussion: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "personal routines are easier to change when advice is realistic",
+            "B": "health advice should fit the lives it addresses",
+            "C": "a solution should target the actual cause",
+            "D": "wellbeing facilities need to match real use"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "eca4c3431ad7eb3a2bef8e6ea1bdf49b45873f45a83d1684a02e50c1c592c1be"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Planning a quiet room at a library",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library offered a quiet rest room during examination weeks. Demand peaked after lunch, but its opening schedule followed ordinary staffing hours. The main obstacle was hours that missed the busiest rest period. Students arrived just as the room closed for a staff break. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used an anonymous count of room visits. Librarians compared arrival times with requests at the front desk. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a modest schedule change improved access. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a later break and clearly posted hours. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: wellbeing facilities need to match real use. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in planning a quiet room at a library, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "1e7a08958ab2dff5764fa1ecf5a5ee4469e55c00f8d8961eaeadfda412e3028a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Planning a quiet room at a library: What was the main obstacle?",
+          "options": {
+            "A": "guidance based on a single work schedule",
+            "B": "a noise source identified by assumption",
+            "C": "hours that missed the busiest rest period",
+            "D": "advice presented as a rigid ban"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "abd639a4debd8a0b2c6ae30527ed14e9f8d9ab5acaa6c556a9e9c0c24ca9228c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Planning a quiet room at a library: How was the idea examined?",
+          "options": {
+            "A": "anonymous diaries of work and rest",
+            "B": "evening observations at several locations",
+            "C": "a discussion of practical evening habits",
+            "D": "an anonymous count of room visits"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "60bd368ce6cdcc44676b04cafb6a9e7e47ab48e6a8e43f7a672e585e3762b25e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Planning a quiet room at a library: Which finding shaped the decision?",
+          "options": {
+            "A": "a modest schedule change improved access",
+            "B": "flexible principles were more useful than fixed hours",
+            "C": "the door caused most repeated disturbance",
+            "D": "small choices felt more manageable"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "11305c9eb1bc4d518558602fbe82f206210d0206a4188a6fb584c12dc37331ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Planning a quiet room at a library: What change did the group make?",
+          "options": {
+            "A": "examples for several shift patterns",
+            "B": "a later break and clearly posted hours",
+            "C": "a quiet closer and clear late-hour reminders",
+            "D": "a menu of optional routines rather than one rule"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "835127f993adcec71028c99625e185bd1e8c82a9dafa9e83647e4646ec6bc447"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Planning a quiet room at a library: What lesson does the writer emphasize?",
+          "options": {
+            "A": "health advice should fit the lives it addresses",
+            "B": "a solution should target the actual cause",
+            "C": "wellbeing facilities need to match real use",
+            "D": "personal routines are easier to change when advice is realistic"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e4fcb5b18516523bc1be8bfc676f998baeb9e3f030b2ae5fbc35b2d2aea73e11"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the healthy routines education programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7c68fa06d748aa9c2a85cd2a8b0e5ad74f1c3014bb4d8f1bc116a41860cdc745"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the healthy routines education programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "60f618a88f86675c18be476cf3c1f8d7a5192afb216d0a3e23cdd5b76162720c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the healthy routines education programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f63f87591fc279b406530108bb5e85d851b05262f4f6561035ee97ab709be19e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the healthy routines education programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d0e1da21634ed0a0ef4d992913add753ded9dc2bca91d60b63924904c37127ac"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the healthy routines education programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2d38177131c9f19313cd4ecd5bfa06cb51f01fac84fe6423d3ee266e192273d4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the healthy routines education programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ebccfc280032319f2a5496a410bb054cc3aeeebb87e50f200df73ae370e9f61a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the healthy routines education programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "87f2f21f818da9297f2d487fe9f6a8894a2dd4a075eafaaac71885d0615d0eef"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the healthy routines education programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b87795c535ce283f7891dcf6536c78fc6ad890c68ef721b6e112ab33dd5488a2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the healthy routines education programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fc2d18ba5d14176269c8a4614b8c2e6f44b8799a107b85097c1d4a99208a2be4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the healthy routines education programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "40537735aaefa2add3dd4ebc317ea9f1df8499778fffc9db4fbd7acddff36bb7"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the healthy routines education programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "97ecf027c7b60dc935f45e07fbac6d3dc9008850a30b1bd4226f8e867e4376c2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the healthy routines education programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9c87b75504c411d926a3417fe04fd959b8775106af12981c078ff956a6eeb206"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the healthy routines education programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aa18a759887914cbe078b2018171fe35bf8d8d71ae1908b82b2a383ec8a4e8cc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the healthy routines education programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1c56c5fd23d9c073b37d3202972cdb74d7486de63f74de6f085a532a2510095f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the healthy routines education programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a460ebaa7e7b3c156576782583afb9d62e0815178681810e1b17a525f73a0a7a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the healthy routines education programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3ee8ee1a64f4a093b34a1dd3933bbc8bbd9cb8572fc644446ecd581e531f4ce1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the healthy routines education programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4f66b495e05e4f895ff65b0054002e34d6d7839c73ca0847f5e367c42d82b603"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the healthy routines education programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9e96283fafdad690a4cfede4d2d48a2004a2db23de33a4d565ead201db001519"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the healthy routines education programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c1ff7c17ac8229dac22bb6133286c7a68760e23da32fbd7eb3b92630aa281f48"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the healthy routines education programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "50454dff39b7472d538c0b8c708db5a0c1a9905a46915ac75e9252478261b6e0"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the healthy routines education programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about sleep and daily routines, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关睡眠与日常作息的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "54af2a16a3ba60ee9316ad2b0838b9ab2ae2e90ad782af7bf51830915ce894c7",
+      "referenceAnswerFingerprint": "c8b3593dedc85efacfb55c3c3a43999f1c1737f054d0362184074191c7a53e5d"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the health education team suggesting a practical change to the healthy routines education programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the healthy routines education programme. People have noticed guidance based on a single work schedule, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "0196925244dcf302ea63c55692ca6138cb362832fa94f17d23d7b54065227509",
+      "sampleAnswerFingerprint": "c95c48d68945374a80a5f00b820ac87eaaff4ac17dbbf8027299f027f2c778c3"
+    }
+  ],
+  "fingerprintManifest": [
+    "ecbd0c0f8289225f8e2da512df94679b53b66a75bfedc381eabac115d79bbcf5",
+    "ecda283bc92be144431445b636da83a38bef80696c9ce0ddc006b99b5a73dbe6",
+    "f0a4f1df8869d71dcdefdafe584a0b71a25450d7306aec9ec145b2e48a4d16c4",
+    "beb15bb0a5cb5a2e4e4433ee67af54ea8b5ba3aa2d87c9294d30086bac4fdc7c",
+    "a4724884754a270cea57e157ba41f294b45d38664b13c8cdb98444105578e0f8",
+    "de2af4b2cbf9e0349a1239c204fc1b1615a89f0c94b170979d60a7709927b4fe",
+    "d27892a72ad6bbf3182699bb197cc76b4dd45a397501909c6b019e424e2b8168",
+    "4110a5db74430241201a288423af2e6d94c521ed1f64baa5bb2361bb4073cabe",
+    "ece10de77927b58e0de90623411ad2b2241efdd1d171a0d69a4db0b924dc61f6",
+    "824ab0d45481b67a25784c65c47065becd9561f10c7ff05e46b0b8defb6a0726",
+    "8587e56dacca9fcc2a69871ea88f9989fc32777dcbc14138beea3ee8694b3631",
+    "283216f34ae86d61a25422dd7c3ddbc7ed873852c26af79bb899625401135cac",
+    "a1a6e78c713f3b301d54fab9c058497e58ec920cf1d77ed3b6ac91bdb95bb84b",
+    "358ba25bb1ce6d518d05feeb1540f0fe8095cfbabc6a9c4a2aa5b5daed677704",
+    "9b3ffb66dc8cf34e2754b4aafdf4877b5d78c3d7cd442e7199c22fbf27ae47a9",
+    "3b52a14506a1a4f6c554f55c56a65287ed3d38bd2237725c4cc42d34a5a024c1",
+    "32c525a928045aeec6d4783cfa16dd02a8ae756fa3ed0897fec8ca4a66975ed8",
+    "8b5c9969328610ae78db96d22571e90b7f054d99973bf439cf8d0e2f91c3ef97",
+    "8e58753dfce72bcc03c882ba8fc8027129d27127e394a41b728118b3da0f27ce",
+    "ee66e159ea27dbc97a100a2a82cd394acfef18e2b2e2af293315e7c13368d8fc",
+    "3dba634452e1cfed38ec8e3834af350baa76c9a00695ec17ddc98771d9e3f396",
+    "8c9465374fcff841217b5489877268353a38953e99370d50132c420f06ad77df",
+    "77195d6c34f45b22c385472a85e74d2e2203f0bcf07a281247736ce5aa726bc3",
+    "8674f2800ca621662dbdce0968c9be902812f13bfe51fc5c9986b8fedd519fbe",
+    "32502dc820a75ed3c992749dac60d178c0ce5fffcc140f87d2c9bea3a1c8e358",
+    "f17edcac197c9e83151caa5608d6b248b56e785918300e60aba9b6106af602ed",
+    "c48291c10e398c0e37ec4ed44d9222ba261e52b9f871b6f76bd1e74169cf02a6",
+    "e69aa82a2a20cfda40b677ddd1438c7cc3ff6e16f3bca96167799ed2515d9e0a",
+    "6d1c78f984692d08a0c80f943d9918e54a8caf2928f6696b23645295aa52ecde",
+    "113a125ae97fac2e0a343f5414d470ea882c75f2f3050dbf45ee7379b35b7416",
+    "eca4c3431ad7eb3a2bef8e6ea1bdf49b45873f45a83d1684a02e50c1c592c1be",
+    "1e7a08958ab2dff5764fa1ecf5a5ee4469e55c00f8d8961eaeadfda412e3028a",
+    "abd639a4debd8a0b2c6ae30527ed14e9f8d9ab5acaa6c556a9e9c0c24ca9228c",
+    "60bd368ce6cdcc44676b04cafb6a9e7e47ab48e6a8e43f7a672e585e3762b25e",
+    "11305c9eb1bc4d518558602fbe82f206210d0206a4188a6fb584c12dc37331ae",
+    "835127f993adcec71028c99625e185bd1e8c82a9dafa9e83647e4646ec6bc447",
+    "e4fcb5b18516523bc1be8bfc676f998baeb9e3f030b2ae5fbc35b2d2aea73e11",
+    "7c68fa06d748aa9c2a85cd2a8b0e5ad74f1c3014bb4d8f1bc116a41860cdc745",
+    "60f618a88f86675c18be476cf3c1f8d7a5192afb216d0a3e23cdd5b76162720c",
+    "f63f87591fc279b406530108bb5e85d851b05262f4f6561035ee97ab709be19e",
+    "d0e1da21634ed0a0ef4d992913add753ded9dc2bca91d60b63924904c37127ac",
+    "2d38177131c9f19313cd4ecd5bfa06cb51f01fac84fe6423d3ee266e192273d4",
+    "ebccfc280032319f2a5496a410bb054cc3aeeebb87e50f200df73ae370e9f61a",
+    "87f2f21f818da9297f2d487fe9f6a8894a2dd4a075eafaaac71885d0615d0eef",
+    "b87795c535ce283f7891dcf6536c78fc6ad890c68ef721b6e112ab33dd5488a2",
+    "fc2d18ba5d14176269c8a4614b8c2e6f44b8799a107b85097c1d4a99208a2be4",
+    "40537735aaefa2add3dd4ebc317ea9f1df8499778fffc9db4fbd7acddff36bb7",
+    "97ecf027c7b60dc935f45e07fbac6d3dc9008850a30b1bd4226f8e867e4376c2",
+    "9c87b75504c411d926a3417fe04fd959b8775106af12981c078ff956a6eeb206",
+    "aa18a759887914cbe078b2018171fe35bf8d8d71ae1908b82b2a383ec8a4e8cc",
+    "1c56c5fd23d9c073b37d3202972cdb74d7486de63f74de6f085a532a2510095f",
+    "a460ebaa7e7b3c156576782583afb9d62e0815178681810e1b17a525f73a0a7a",
+    "3ee8ee1a64f4a093b34a1dd3933bbc8bbd9cb8572fc644446ecd581e531f4ce1",
+    "4f66b495e05e4f895ff65b0054002e34d6d7839c73ca0847f5e367c42d82b603",
+    "9e96283fafdad690a4cfede4d2d48a2004a2db23de33a4d565ead201db001519",
+    "c1ff7c17ac8229dac22bb6133286c7a68760e23da32fbd7eb3b92630aa281f48",
+    "50454dff39b7472d538c0b8c708db5a0c1a9905a46915ac75e9252478261b6e0",
+    "54af2a16a3ba60ee9316ad2b0838b9ab2ae2e90ad782af7bf51830915ce894c7",
+    "c8b3593dedc85efacfb55c3c3a43999f1c1737f054d0362184074191c7a53e5d",
+    "0196925244dcf302ea63c55692ca6138cb362832fa94f17d23d7b54065227509",
+    "c95c48d68945374a80a5f00b820ac87eaaff4ac17dbbf8027299f027f2c778c3"
+  ],
+  "contentFingerprint": "da13dd2ce23e1f52e061607896aa1956d8f4c60e65db5ded17b87f2c3192210b"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-94",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 94 · 跨文化交流与社区活动",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 94,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to an invitation understood in different ways",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about an invitation understood in different ways. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the intercultural learning team that you plan to attend.",
+        "C": "Yes, signs will lead you from the community exchange desk.",
+        "D": "Certainly. Send your question to the intercultural learning team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "87875489ee3295ff8942731c8b64923b1bedf1f789dafa334be1b1a1cdc8eb84",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to an invitation understood in different ways”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the intercultural learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the community exchange desk.",
+            "D": "Certainly. Send your question to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "01900918df196e1823eb342a7083ed68310e87b018abd7ff68cc1de49e382e81"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to an invitation understood in different ways”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the intercultural learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the community exchange desk.",
+            "D": "Certainly. Send your question to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "079a4840367ba7aaa918d84912f1cfeaab60cac470348084af4847ad1a351601"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to an invitation understood in different ways”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the intercultural learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the community exchange desk.",
+            "D": "Certainly. Send your question to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1d7583396ca40c87d6d2ac68f185871d599bea28485664a98804fa957c4c2c24"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to an invitation understood in different ways”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the intercultural learning team that you plan to attend.",
+            "C": "Yes, signs will lead you from the community exchange desk.",
+            "D": "Certainly. Send your question to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f757e75b284659afe0c6bee2c2f46120ef04c5230ebb3987ead29ca180719a1c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying translating a safety announcement",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about translating a safety announcement is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the community exchange desk.",
+        "D": "Please send it to the intercultural learning team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b88ad49001442ab6321c205f4ba7879e3bbe5a2db2e57d20177ffd47a881d7cc",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying translating a safety announcement”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community exchange desk.",
+            "D": "Please send it to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "437a0675eec6a5dafce2312deea13f71b1c9f87461ddc4fcfb2ec8dfb6afed88"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying translating a safety announcement”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community exchange desk.",
+            "D": "Please send it to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2cddb5b2d6ff8bb03bf8207d7bd5a20395af0c659b1a4ca80009a56d94a5ec0e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying translating a safety announcement”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community exchange desk.",
+            "D": "Please send it to the intercultural learning team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "89648f2dbe1ce6adb84f9bcb94e0a896beb720d23a4a60a55c2681844da464b3"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a festival timetable for newcomers",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a festival timetable for newcomers last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "cd8776963151e2bff25317a1b0bb090e7d60c92668314cb5deb0de3d55be4ec4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a festival timetable for newcomers”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "15fb3c571f207b30f424d4d009ae8ad3fcb1bdfe969ebfc631c5e813d4d0f8f7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a festival timetable for newcomers”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "039ca4d285f54fdf242bf22c47039189b0a700ee3cdbdc62b70312420be0f19a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a festival timetable for newcomers”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1767e20c573fd6af53a942fdcff15095d3e06b89e6498e6f40247709d575e8da"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "An invitation understood in different ways",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community centre invited neighbours to a shared meal. Some believed they had to bring food, while others thought everything would be provided. The main obstacle was an invitation with an unclear request. The phrase bring something if you can did not say whether attendance depended on a contribution. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of questions from invited families. Organizers asked what visitors had understood and which words made them hesitate. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a clear optional note encouraged attendance. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced an invitation stating that all were welcome without food. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: welcoming language must remove uncertainty. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in an invitation understood in different ways, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "0b2b85b4e39c149fb9931172c7c9adb3298cef18bff7e6f25ca5145ad596d079",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "An invitation understood in different ways: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a technically correct but confusing phrase",
+            "B": "assumptions about local knowledge",
+            "C": "an invitation with an unclear request",
+            "D": "a meeting pace that excluded slower speakers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "50a2155af0356c9bc5e67008bc6d8a186161420febebd66c85eadc0798b9a470"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "An invitation understood in different ways: What method was used to investigate the situation?",
+          "options": {
+            "A": "a practical reading exercise",
+            "B": "a route check with first-time visitors",
+            "C": "a trial of short written reflection periods",
+            "D": "a review of questions from invited families"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "10315d1ff5e81cd9c2e9ab289299fc403ce861a8307647b48edcc6dfc1b0adf7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "An invitation understood in different ways: What did the evidence indicate?",
+          "options": {
+            "A": "a clear optional note encouraged attendance",
+            "B": "plain instructions worked across languages",
+            "C": "landmarks and addresses improved navigation",
+            "D": "brief pauses broadened the discussion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0eb1519af579a818cead268484bb4b77fa9c8f82404c337ceaa3695801428c58"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "An invitation understood in different ways: How was the arrangement changed?",
+          "options": {
+            "A": "revised notices checked by community readers",
+            "B": "an invitation stating that all were welcome without food",
+            "C": "a timetable with maps and transport notes",
+            "D": "structured turns and a written option for comments"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9e8906548b11832a5a3a86648f3056430b01f88d5db37fd571618f651e68d38a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "An invitation understood in different ways: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "translation quality depends on useful meaning",
+            "B": "public events should not require insider knowledge",
+            "C": "welcoming language must remove uncertainty",
+            "D": "good exchange makes room for different speaking styles"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1c73912b8de470be6252629a0ed9f63f130198c71c79dc7d06c589715734cfbe"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Translating a safety announcement",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A sports centre printed a safety notice in several languages. One translated version used a formal term unfamiliar to most visitors. The main obstacle was a technically correct but confusing phrase. Readers could identify each word yet still could not tell where to leave equipment. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a practical reading exercise. Bilingual volunteers checked the intended action with readers while staff reviewed the final wording. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated plain instructions worked across languages. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced revised notices checked by community readers. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: translation quality depends on useful meaning. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in translating a safety announcement, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "45641b13f74753483fe44769d368dfbcd14b75794bd084c61602db48d000810f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Translating a safety announcement: What problem did the people involved notice?",
+          "options": {
+            "A": "a technically correct but confusing phrase",
+            "B": "an invitation with an unclear request",
+            "C": "assumptions about local knowledge",
+            "D": "a meeting pace that excluded slower speakers"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cd948d6abe4fe37c12fed187eccdf73aede80e94170632f11c8491c8d1595f6a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Translating a safety announcement: What was the first investigative step?",
+          "options": {
+            "A": "a review of questions from invited families",
+            "B": "a practical reading exercise",
+            "C": "a route check with first-time visitors",
+            "D": "a trial of short written reflection periods"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "cce009f944d22a7427a4f4c093ed5606dbcfbc197805705a4cc48cc8271b18f4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Translating a safety announcement: What was learned from the records?",
+          "options": {
+            "A": "a clear optional note encouraged attendance",
+            "B": "landmarks and addresses improved navigation",
+            "C": "plain instructions worked across languages",
+            "D": "brief pauses broadened the discussion"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9858c7f0939e5484a45fbd2b5b2a1aee377007c818fa4a9b01c589b730ad6209"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Translating a safety announcement: What adjustment followed?",
+          "options": {
+            "A": "an invitation stating that all were welcome without food",
+            "B": "a timetable with maps and transport notes",
+            "C": "structured turns and a written option for comments",
+            "D": "revised notices checked by community readers"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "eae7c83fdd0b77e4496150e8ef78e51824c6ddd0efd4127fa559b5f2d83193e9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Translating a safety announcement: What is the central message?",
+          "options": {
+            "A": "translation quality depends on useful meaning",
+            "B": "welcoming language must remove uncertainty",
+            "C": "public events should not require insider knowledge",
+            "D": "good exchange makes room for different speaking styles"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "33174055e34959d660162b07fd8d22a6fb98ec04806405a4ccfef5ed09999c8a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A festival timetable for newcomers",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local festival attracted residents new to the town. The printed timetable named familiar places without addresses or transport information. The main obstacle was assumptions about local knowledge. People who had lived nearby for years knew the venues, but newcomers could not locate them. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a route check with first-time visitors. Volunteers asked people to find two events using only the published leaflet. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated landmarks and addresses improved navigation. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a timetable with maps and transport notes. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: public events should not require insider knowledge. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a festival timetable for newcomers, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "27b44a6143c9a081fbd2eb15fedf879b385a8fa697e9dc370f111ea679686513",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A festival timetable for newcomers: Why was the original plan difficult to use?",
+          "options": {
+            "A": "an invitation with an unclear request",
+            "B": "a technically correct but confusing phrase",
+            "C": "assumptions about local knowledge",
+            "D": "a meeting pace that excluded slower speakers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "667e4b04ec96fd8d46e35b19cf65b76d3c2b4cf906419442cd46c580ad99f255"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A festival timetable for newcomers: How did the team gather information?",
+          "options": {
+            "A": "a review of questions from invited families",
+            "B": "a practical reading exercise",
+            "C": "a trial of short written reflection periods",
+            "D": "a route check with first-time visitors"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "33cb01bb927ffbe52ba720483909ac3a59a9c3d000c182f44b9f29baa308472f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A festival timetable for newcomers: What did the team discover?",
+          "options": {
+            "A": "landmarks and addresses improved navigation",
+            "B": "a clear optional note encouraged attendance",
+            "C": "plain instructions worked across languages",
+            "D": "brief pauses broadened the discussion"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "002dc9018ead1c830e5d6127f9e911d9ceac74d93ab367c5a851f39cdd81b109"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A festival timetable for newcomers: What did it do in response?",
+          "options": {
+            "A": "an invitation stating that all were welcome without food",
+            "B": "a timetable with maps and transport notes",
+            "C": "revised notices checked by community readers",
+            "D": "structured turns and a written option for comments"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "2339ebed532fed6996cb8467c9e025e8984ccb030f46f93c1ea4ab5c9f1719c9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A festival timetable for newcomers: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "welcoming language must remove uncertainty",
+            "B": "translation quality depends on useful meaning",
+            "C": "public events should not require insider knowledge",
+            "D": "good exchange makes room for different speaking styles"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f91e38459fcc53855c4c337a1074d0f876c18931d41668abbbd6fae73d889f78"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Speaking turns in a discussion group",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood discussion brought together people with different language backgrounds. Several participants had ideas but struggled to enter fast conversations. The main obstacle was a meeting pace that excluded slower speakers. The chair moved to new topics before everyone had time to respond. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a trial of short written reflection periods. Facilitators counted participation and invited anonymous comments on the format. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated brief pauses broadened the discussion. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced structured turns and a written option for comments. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: good exchange makes room for different speaking styles. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in speaking turns in a discussion group, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "3da2c4f80ba0e50140ad088c92b2680e24227028c6bfc10074495f9561e836e4",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Speaking turns in a discussion group: What was the main obstacle?",
+          "options": {
+            "A": "a meeting pace that excluded slower speakers",
+            "B": "an invitation with an unclear request",
+            "C": "a technically correct but confusing phrase",
+            "D": "assumptions about local knowledge"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5c8bf622516a0cdf545d8c912689517ab49fff517fab74142ced33d5459edd17"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Speaking turns in a discussion group: How was the idea examined?",
+          "options": {
+            "A": "a review of questions from invited families",
+            "B": "a trial of short written reflection periods",
+            "C": "a practical reading exercise",
+            "D": "a route check with first-time visitors"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6854c5b44234b630dacf506f15fc37deee7552dbf6f6255a1cc2acc1e29d5211"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Speaking turns in a discussion group: Which finding shaped the decision?",
+          "options": {
+            "A": "a clear optional note encouraged attendance",
+            "B": "plain instructions worked across languages",
+            "C": "brief pauses broadened the discussion",
+            "D": "landmarks and addresses improved navigation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e7e5d9bd619309b1be3922181d07e2144b8286db4106ff0525ddd207462ec705"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Speaking turns in a discussion group: What change did the group make?",
+          "options": {
+            "A": "an invitation stating that all were welcome without food",
+            "B": "revised notices checked by community readers",
+            "C": "a timetable with maps and transport notes",
+            "D": "structured turns and a written option for comments"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a0942744b3b4686fd42a848a1fee803f66a7ccd7377f8eb15bf6de6f94c444bf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Speaking turns in a discussion group: What lesson does the writer emphasize?",
+          "options": {
+            "A": "good exchange makes room for different speaking styles",
+            "B": "welcoming language must remove uncertainty",
+            "C": "translation quality depends on useful meaning",
+            "D": "public events should not require insider knowledge"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5966bc24c4a0a1f21ae13659df79e4bf6f0b7643505a465006835a12201e614d"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the community exchange programme helped new visitors understand the plan.",
+      "options": {
+        "A": "silent",
+        "B": "distant",
+        "C": "clear",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a824d8314f39acd93ffab92c47efbf559409baf0fbf19445f00b271661962c64"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the community exchange programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "colour",
+        "D": "evidence"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "94fc8b5059321aa47dcfe9a2db80b5fb524c8fbb34df0c3e7ed89adc230239da"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the community exchange programme.",
+      "options": {
+        "A": "describe",
+        "B": "conceal",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5161a07b22082f71dd10285b0a3a580f909f94bd7ecd614c2188ff8171a68953"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the community exchange programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "proposal",
+        "C": "platform",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5babc3dcb9d220f78cc0c9b39229f373dbe87d775b98846acda6ba6f08bdbc9a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the community exchange programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "flexible",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f9508b8c0ea6193191a38f35428fe3c6c634d0499a9fc321097580a3d6f38224"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the community exchange programme.",
+      "options": {
+        "A": "distance",
+        "B": "surface",
+        "C": "temperature",
+        "D": "accuracy"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "00bba1f464e12dbff0fda238546d5c2ec9c8148771505dfc7a5e0e7a9216ef78"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the community exchange programme easier to _____.",
+      "options": {
+        "A": "estimate",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1325fac5ca6e5214e7374740882da968d09016abe8b0f1ffba420f12c70acd68"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the community exchange programme.",
+      "options": {
+        "A": "historic",
+        "B": "practical",
+        "C": "silent",
+        "D": "wooden"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d97c127ac58bcc505865fa720286020fea88cb7746cf46cc47d06a473a6fd161"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the community exchange programme.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "share",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e224c6cb7945caf8c816cf7f53663f7c67e4e3de1da09c0d1abfa2ad3ce54dfd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the community exchange programme.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "titles",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "568aae3ceab2374957d13b5d5ad09058d7760a33ee58267ed70788e38bf05a3c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community exchange programme.",
+      "options": {
+        "A": "had",
+        "B": "has",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f37d6c146131e0247c8ffb6ea9c6c62c705de29245fc55bcf4ca9e4c1f0e600f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community exchange programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "published",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec620b8e8200961e724113ee205de81275b52b918b0fea155bcd226dc2f6e537"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community exchange programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a5f0e45d08bcb26729b27770a1bca84cf003aa7a621b6d75ce3bf9ef5dc98182"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community exchange programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "why"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8170ff6759ddae1cdc8b980fb8819c8f93ceb5440daee6b6c6cb2aa9d5c90734"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community exchange programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "had noticed",
+        "B": "notices",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "36471687f9951062555f26c4688eb5ded3a3c8a84ccba5ac27b8d0856421342e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community exchange programme.",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "682d4ab4176ea1f22630dfd8aaff5a5e4261426cd5f9b41cf8acde5baaaed28b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community exchange programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3575e9bcd9ab69548b0cf4461b0fc5ed84a9701c9be821d06550616987ce2d1b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community exchange programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ca350682ec28180f797062b5714723777ded2fb99d446fa3e43eba0cae4598be"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community exchange programme finished _____ the team change its policy.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aa9b84c8f158d433ac10a6eba58dad851a11ad01009508130637be7a062b3770"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community exchange programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cc3bf59891fce94a8831bb288b69fa6eed83d43aa69c18ff725218e4db63f9bd"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for cross-cultural communication and community events must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the community exchange programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于跨文化交流与社区活动的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "5674de0459c8d93938596042f304af1721b81b81e01083dd6d010b47b4b1d2e3",
+      "referenceAnswerFingerprint": "d95fefe41f5758b6d292e1afa1396fd9fe039ce38a8053f5663640fab582abf6"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the intercultural learning team about a community activity related to cross-cultural communication and community events. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community exchange programme. People have noticed an invitation with an unclear request, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "54756ced5228e7e1a598c6aa48b2121eeebddc745cdb56e841478aad7ef7350a",
+      "sampleAnswerFingerprint": "8f8e9026d85b2955bd5fc766a82a263bc0ebce1ba3391be9c9963a59bb4f21d2"
+    }
+  ],
+  "fingerprintManifest": [
+    "87875489ee3295ff8942731c8b64923b1bedf1f789dafa334be1b1a1cdc8eb84",
+    "01900918df196e1823eb342a7083ed68310e87b018abd7ff68cc1de49e382e81",
+    "079a4840367ba7aaa918d84912f1cfeaab60cac470348084af4847ad1a351601",
+    "1d7583396ca40c87d6d2ac68f185871d599bea28485664a98804fa957c4c2c24",
+    "f757e75b284659afe0c6bee2c2f46120ef04c5230ebb3987ead29ca180719a1c",
+    "b88ad49001442ab6321c205f4ba7879e3bbe5a2db2e57d20177ffd47a881d7cc",
+    "437a0675eec6a5dafce2312deea13f71b1c9f87461ddc4fcfb2ec8dfb6afed88",
+    "2cddb5b2d6ff8bb03bf8207d7bd5a20395af0c659b1a4ca80009a56d94a5ec0e",
+    "89648f2dbe1ce6adb84f9bcb94e0a896beb720d23a4a60a55c2681844da464b3",
+    "cd8776963151e2bff25317a1b0bb090e7d60c92668314cb5deb0de3d55be4ec4",
+    "15fb3c571f207b30f424d4d009ae8ad3fcb1bdfe969ebfc631c5e813d4d0f8f7",
+    "039ca4d285f54fdf242bf22c47039189b0a700ee3cdbdc62b70312420be0f19a",
+    "1767e20c573fd6af53a942fdcff15095d3e06b89e6498e6f40247709d575e8da",
+    "0b2b85b4e39c149fb9931172c7c9adb3298cef18bff7e6f25ca5145ad596d079",
+    "50a2155af0356c9bc5e67008bc6d8a186161420febebd66c85eadc0798b9a470",
+    "10315d1ff5e81cd9c2e9ab289299fc403ce861a8307647b48edcc6dfc1b0adf7",
+    "0eb1519af579a818cead268484bb4b77fa9c8f82404c337ceaa3695801428c58",
+    "9e8906548b11832a5a3a86648f3056430b01f88d5db37fd571618f651e68d38a",
+    "1c73912b8de470be6252629a0ed9f63f130198c71c79dc7d06c589715734cfbe",
+    "45641b13f74753483fe44769d368dfbcd14b75794bd084c61602db48d000810f",
+    "cd948d6abe4fe37c12fed187eccdf73aede80e94170632f11c8491c8d1595f6a",
+    "cce009f944d22a7427a4f4c093ed5606dbcfbc197805705a4cc48cc8271b18f4",
+    "9858c7f0939e5484a45fbd2b5b2a1aee377007c818fa4a9b01c589b730ad6209",
+    "eae7c83fdd0b77e4496150e8ef78e51824c6ddd0efd4127fa559b5f2d83193e9",
+    "33174055e34959d660162b07fd8d22a6fb98ec04806405a4ccfef5ed09999c8a",
+    "27b44a6143c9a081fbd2eb15fedf879b385a8fa697e9dc370f111ea679686513",
+    "667e4b04ec96fd8d46e35b19cf65b76d3c2b4cf906419442cd46c580ad99f255",
+    "33cb01bb927ffbe52ba720483909ac3a59a9c3d000c182f44b9f29baa308472f",
+    "002dc9018ead1c830e5d6127f9e911d9ceac74d93ab367c5a851f39cdd81b109",
+    "2339ebed532fed6996cb8467c9e025e8984ccb030f46f93c1ea4ab5c9f1719c9",
+    "f91e38459fcc53855c4c337a1074d0f876c18931d41668abbbd6fae73d889f78",
+    "3da2c4f80ba0e50140ad088c92b2680e24227028c6bfc10074495f9561e836e4",
+    "5c8bf622516a0cdf545d8c912689517ab49fff517fab74142ced33d5459edd17",
+    "6854c5b44234b630dacf506f15fc37deee7552dbf6f6255a1cc2acc1e29d5211",
+    "e7e5d9bd619309b1be3922181d07e2144b8286db4106ff0525ddd207462ec705",
+    "a0942744b3b4686fd42a848a1fee803f66a7ccd7377f8eb15bf6de6f94c444bf",
+    "5966bc24c4a0a1f21ae13659df79e4bf6f0b7643505a465006835a12201e614d",
+    "a824d8314f39acd93ffab92c47efbf559409baf0fbf19445f00b271661962c64",
+    "94fc8b5059321aa47dcfe9a2db80b5fb524c8fbb34df0c3e7ed89adc230239da",
+    "5161a07b22082f71dd10285b0a3a580f909f94bd7ecd614c2188ff8171a68953",
+    "5babc3dcb9d220f78cc0c9b39229f373dbe87d775b98846acda6ba6f08bdbc9a",
+    "f9508b8c0ea6193191a38f35428fe3c6c634d0499a9fc321097580a3d6f38224",
+    "00bba1f464e12dbff0fda238546d5c2ec9c8148771505dfc7a5e0e7a9216ef78",
+    "1325fac5ca6e5214e7374740882da968d09016abe8b0f1ffba420f12c70acd68",
+    "d97c127ac58bcc505865fa720286020fea88cb7746cf46cc47d06a473a6fd161",
+    "e224c6cb7945caf8c816cf7f53663f7c67e4e3de1da09c0d1abfa2ad3ce54dfd",
+    "568aae3ceab2374957d13b5d5ad09058d7760a33ee58267ed70788e38bf05a3c",
+    "f37d6c146131e0247c8ffb6ea9c6c62c705de29245fc55bcf4ca9e4c1f0e600f",
+    "ec620b8e8200961e724113ee205de81275b52b918b0fea155bcd226dc2f6e537",
+    "a5f0e45d08bcb26729b27770a1bca84cf003aa7a621b6d75ce3bf9ef5dc98182",
+    "8170ff6759ddae1cdc8b980fb8819c8f93ceb5440daee6b6c6cb2aa9d5c90734",
+    "36471687f9951062555f26c4688eb5ded3a3c8a84ccba5ac27b8d0856421342e",
+    "682d4ab4176ea1f22630dfd8aaff5a5e4261426cd5f9b41cf8acde5baaaed28b",
+    "3575e9bcd9ab69548b0cf4461b0fc5ed84a9701c9be821d06550616987ce2d1b",
+    "ca350682ec28180f797062b5714723777ded2fb99d446fa3e43eba0cae4598be",
+    "aa9b84c8f158d433ac10a6eba58dad851a11ad01009508130637be7a062b3770",
+    "cc3bf59891fce94a8831bb288b69fa6eed83d43aa69c18ff725218e4db63f9bd",
+    "5674de0459c8d93938596042f304af1721b81b81e01083dd6d010b47b4b1d2e3",
+    "d95fefe41f5758b6d292e1afa1396fd9fe039ce38a8053f5663640fab582abf6",
+    "54756ced5228e7e1a598c6aa48b2121eeebddc745cdb56e841478aad7ef7350a",
+    "8f8e9026d85b2955bd5fc766a82a263bc0ebce1ba3391be9c9963a59bb4f21d2"
+  ],
+  "contentFingerprint": "86f873112ab5a49854dffc80194bc57062cf85245ab74136d4e85eb4e2a375d3"
+}

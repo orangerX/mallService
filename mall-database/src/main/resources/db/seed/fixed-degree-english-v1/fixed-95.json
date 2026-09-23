@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-95",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 95 · 野生动物与栖息地保护",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 95,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about hedgehogs crossing a village road",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to hedgehogs crossing a village road. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the nature information point.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the wildlife conservation team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "47e78cab7faf3a62e70ae6c93487a481d9c4752b0f456d3c90fab31d69fffb0a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about hedgehogs crossing a village road”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the nature information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the wildlife conservation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "92bd418d462f766ba395a60ce0e606f22e815699cbf3e0e41f43a7de72560a7f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about hedgehogs crossing a village road”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the nature information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the wildlife conservation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fb1d8b738214fba2cd40f42feb78b0c8a297efa66797b82271b7d086033143b9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about hedgehogs crossing a village road”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the nature information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the wildlife conservation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7ef52a9ec45cc15b54e508c9ecde514d906bf8bc30c67dc9d1138551594717f4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about hedgehogs crossing a village road”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the nature information point.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the wildlife conservation team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "3c81e0176058961f64626acd53693cc113d55255b556a6483f089669a8bd5a53"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying an insect garden in a public park",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about an insect garden in a public park is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the nature information point.",
+        "D": "Please send it to the wildlife conservation team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "08cc35b974051e8e94efbec2b3828c148520ee3ac9632b6f028ddad11ffa40b2",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying an insect garden in a public park”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the nature information point.",
+            "D": "Please send it to the wildlife conservation team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "68915de70e471c1a93aea78699effef0f795a5023430f53d99a5fbbca2947e36"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying an insect garden in a public park”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the nature information point.",
+            "D": "Please send it to the wildlife conservation team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4a1bd1812a2504349d61433ca6defdcfbe49ca7ace64b1fe7af383e7643662d4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying an insect garden in a public park”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the nature information point.",
+            "D": "Please send it to the wildlife conservation team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1d376649a670d8f1e1043696ea57b7ba94a59041829c15d8ee65bd59d4b5e0c9"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on bird boxes on a school wall",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about bird boxes on a school wall last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "79d98b5d190273a5337dd636b16b5b976d85703f08e95b004daf6ac74fddcb91",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on bird boxes on a school wall”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0ed199e1d0d061756766b19e6620bc06fa8f7b81621cb47b4ebb81568a7af518"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on bird boxes on a school wall”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "4f9e6a1422a04ffd0836726dfa5618a071bcbcab6c73b867ba4d243e6b90cebb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on bird boxes on a school wall”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7733d05cb8ffd993dd2f28a2f2a97895456ff78723ed2435718a61cb4fdb6161"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Hedgehogs crossing a village road",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Village residents saw hedgehogs near a road at dusk. A proposed sign looked helpful, but no one knew where crossings occurred most often. The main obstacle was a warning location chosen from one report. Sightings came from several streets and different seasons. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a mapped record of safe observations. Volunteers logged sightings without handling animals or entering traffic. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated one garden corridor connected two feeding areas. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced habitat guidance and a carefully placed warning sign. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: wildlife protection starts with patterns rather than guesses. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in hedgehogs crossing a village road, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "de49ae3177fb52649978751bd282d8a4e1eb314001bb38f91d6c114d966cc50a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Hedgehogs crossing a village road: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "maintenance choices without explanation",
+            "B": "box locations selected for easy viewing",
+            "C": "visits concentrated at one fragile edge",
+            "D": "a warning location chosen from one report"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5477e15e198e9ab7dce52e476701ed704b00dd7b50efc22fb26f340b881a01e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Hedgehogs crossing a village road: What method was used to investigate the situation?",
+          "options": {
+            "A": "a mapped record of safe observations",
+            "B": "seasonal observation and visitor questions",
+            "C": "a review with qualified wildlife advisers",
+            "D": "a supervised route assessment"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "915d84f71e9c9e9cb05d3a10469bcc4baf346f999e00eecf97268940f6ff78fc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Hedgehogs crossing a village road: What did the evidence indicate?",
+          "options": {
+            "A": "standing stems provided useful shelter",
+            "B": "one garden corridor connected two feeding areas",
+            "C": "placement mattered more than box number",
+            "D": "several smaller viewing points spread pressure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d87c6f8e842b0ff8a6bfc3afbe935bf77dda711d10e3d5652eef997c593066f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Hedgehogs crossing a village road: How was the arrangement changed?",
+          "options": {
+            "A": "small interpretation signs beside managed patches",
+            "B": "safer sites away from disturbance",
+            "C": "habitat guidance and a carefully placed warning sign",
+            "D": "a guided loop with clear stopping places"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "23b134669d4081fa5a59df1745341763f5540f94f02ad628e227863f8cc22ec9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Hedgehogs crossing a village road: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "habitat care may look different from tidy gardening",
+            "B": "wildlife projects should follow species needs",
+            "C": "education and habitat protection can support each other",
+            "D": "wildlife protection starts with patterns rather than guesses"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c430fdecbe1f7c41232d5aec2370e5d1824075f39e34181d3d3ed0a22fb2e339"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "An insect garden in a public park",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A park planted flowers for pollinating insects. Visitors praised the colours but wondered why some areas were left with tall stems after flowering. The main obstacle was maintenance choices without explanation. People assumed that every dry stem signalled neglect. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used seasonal observation and visitor questions. Gardeners documented insect use and checked which signs would answer common concerns. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated standing stems provided useful shelter. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced small interpretation signs beside managed patches. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: habitat care may look different from tidy gardening. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in an insect garden in a public park, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "6bf950efff291bbb12cafd599bea161d6c56175ae235b324b71562a843f4f463",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "An insect garden in a public park: What problem did the people involved notice?",
+          "options": {
+            "A": "a warning location chosen from one report",
+            "B": "maintenance choices without explanation",
+            "C": "box locations selected for easy viewing",
+            "D": "visits concentrated at one fragile edge"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b4e8a0ab2d0a82c0a904941d130d4b0ea8faf923fdebfd3b8a830eab01cf3f4d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "An insect garden in a public park: What was the first investigative step?",
+          "options": {
+            "A": "a mapped record of safe observations",
+            "B": "a review with qualified wildlife advisers",
+            "C": "seasonal observation and visitor questions",
+            "D": "a supervised route assessment"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "bb61c2c53b0b82a14c9795ea15b777d85f14cb39446cb69323fcf654707d7b5c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "An insect garden in a public park: What was learned from the records?",
+          "options": {
+            "A": "one garden corridor connected two feeding areas",
+            "B": "placement mattered more than box number",
+            "C": "several smaller viewing points spread pressure",
+            "D": "standing stems provided useful shelter"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e25d1db11d934ad4f24d621c94bffb5c04e795e6fbe44d2df4fb442cb4c338e8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "An insect garden in a public park: What adjustment followed?",
+          "options": {
+            "A": "small interpretation signs beside managed patches",
+            "B": "habitat guidance and a carefully placed warning sign",
+            "C": "safer sites away from disturbance",
+            "D": "a guided loop with clear stopping places"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ff7d8ffb42da9bf77f9d9e96793a421cd2cc5a1d2a92eb8909000929689030e6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "An insect garden in a public park: What is the central message?",
+          "options": {
+            "A": "wildlife protection starts with patterns rather than guesses",
+            "B": "habitat care may look different from tidy gardening",
+            "C": "wildlife projects should follow species needs",
+            "D": "education and habitat protection can support each other"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "fbb36ff2def644065ea8964c9e06e8cc63044cb4c2d0a8e7628544070dce13dd"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Bird boxes on a school wall",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A school placed several bird boxes beside a playground. Few birds used them, and pupils assumed there were no birds nearby. The main obstacle was box locations selected for easy viewing. The boxes faced strong midday sun and a busy doorway. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a review with qualified wildlife advisers. Staff compared locations with guidance while observing birds from a distance. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated placement mattered more than box number. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced safer sites away from disturbance. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: wildlife projects should follow species needs. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in bird boxes on a school wall, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "9f6a2271cc53822ff8cb02c869bbd1399b50005111919788c52de42c3c16719c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Bird boxes on a school wall: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a warning location chosen from one report",
+            "B": "maintenance choices without explanation",
+            "C": "visits concentrated at one fragile edge",
+            "D": "box locations selected for easy viewing"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9d9aa82265f4dee6254699db69a768a70fae47f003d7f56da129705c01b44375"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Bird boxes on a school wall: How did the team gather information?",
+          "options": {
+            "A": "a review with qualified wildlife advisers",
+            "B": "a mapped record of safe observations",
+            "C": "seasonal observation and visitor questions",
+            "D": "a supervised route assessment"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1e6ceef174a541421cd45ec4091cdd735faeb8f2cf8237487f17bd7b311f24ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Bird boxes on a school wall: What did the team discover?",
+          "options": {
+            "A": "one garden corridor connected two feeding areas",
+            "B": "placement mattered more than box number",
+            "C": "standing stems provided useful shelter",
+            "D": "several smaller viewing points spread pressure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a15f004b55b74625e338d4f9e1a71802dbe94899c6a96069455cf9e5a5454576"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Bird boxes on a school wall: What did it do in response?",
+          "options": {
+            "A": "habitat guidance and a carefully placed warning sign",
+            "B": "small interpretation signs beside managed patches",
+            "C": "safer sites away from disturbance",
+            "D": "a guided loop with clear stopping places"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "68e63ffaaf96b7bd68ca42e0821f57af2d5df9252e27363bdca202e3c8575589"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Bird boxes on a school wall: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "wildlife protection starts with patterns rather than guesses",
+            "B": "habitat care may look different from tidy gardening",
+            "C": "education and habitat protection can support each other",
+            "D": "wildlife projects should follow species needs"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "540c73179de53cc45ef1713d61fd61cec9955a77b6952ef92f53a2f2fb9399fa"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A pond visit without disturbance",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A nature reserve ran school visits to a pond. Children enjoyed looking for frogs, but groups crowded the same bank. The main obstacle was visits concentrated at one fragile edge. The route made one viewpoint easy to reach while other safe views were poorly marked. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a supervised route assessment. Rangers recorded movement and checked where visitors could see wildlife without damaging plants. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated several smaller viewing points spread pressure. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a guided loop with clear stopping places. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: education and habitat protection can support each other. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a pond visit without disturbance, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "61f82eeca5adf8e671e72b2b3299f2fbb5bc34435972e9d01fc0a32111f35226",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A pond visit without disturbance: What was the main obstacle?",
+          "options": {
+            "A": "a warning location chosen from one report",
+            "B": "visits concentrated at one fragile edge",
+            "C": "maintenance choices without explanation",
+            "D": "box locations selected for easy viewing"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b61dc9ade955793e2d2fcb1a990ba2ceba75208b577f1f0450be7cde052bb4a8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A pond visit without disturbance: How was the idea examined?",
+          "options": {
+            "A": "a mapped record of safe observations",
+            "B": "seasonal observation and visitor questions",
+            "C": "a supervised route assessment",
+            "D": "a review with qualified wildlife advisers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "57e375c0f5a47d039f6af9c0431f1761d7e0486de497187092c66f151274641e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A pond visit without disturbance: Which finding shaped the decision?",
+          "options": {
+            "A": "one garden corridor connected two feeding areas",
+            "B": "standing stems provided useful shelter",
+            "C": "placement mattered more than box number",
+            "D": "several smaller viewing points spread pressure"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "cbb9bdda343e04f6078d0e54a1941929fb5f76d338b7e038a63038e46277e7e8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A pond visit without disturbance: What change did the group make?",
+          "options": {
+            "A": "a guided loop with clear stopping places",
+            "B": "habitat guidance and a carefully placed warning sign",
+            "C": "small interpretation signs beside managed patches",
+            "D": "safer sites away from disturbance"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "23b8e516fc99b3d8ad7d5458e987a4e980224c0897e9a7e3dd4d2900da6181c3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A pond visit without disturbance: What lesson does the writer emphasize?",
+          "options": {
+            "A": "wildlife protection starts with patterns rather than guesses",
+            "B": "education and habitat protection can support each other",
+            "C": "habitat care may look different from tidy gardening",
+            "D": "wildlife projects should follow species needs"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d03af00319712f9636ba8252f1e4767428925b624e45dff5e4e866d53daa900c"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the local wildlife stewardship programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3dbcd20034f33b75f8c57452b559677cf5d106a17f575b95a2ce624af8626e75"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the local wildlife stewardship programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e127de9c38c4d83bb7760f8bd7aa93e82de087a68b14f5e2b4c1dbff0f05105e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the local wildlife stewardship programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aadc644ed55d5dedfd88fd3670c5b68574ab17d7770ba2cc6471fb0042e424b8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the local wildlife stewardship programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f5ab96a1423dccf2e8b6aa32267c8539da73d13babb6aa5d1253a0f1262cb0da"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the local wildlife stewardship programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "097cf612940ff89539626496ec910b5994da09b8ced749d94721251974c95795"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the local wildlife stewardship programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d2c691d4d5fad7a7b3d752929966f803ba2ab2f686b1288ca7007e7a4f8a4ecb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the local wildlife stewardship programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2168dae8afeb4bee939e55795cae10a0d3584bde31b54848908c54f696803f09"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the local wildlife stewardship programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "711e7b619a38e7ddcf97e7ff9975e6e1c0ba5b14c5824cf12e5bc9524fd120f8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the local wildlife stewardship programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8ec3ca30780e2c18ae3970b6109bf1915ebdeb43d8339acb1b3a0ce19bf5a168"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the local wildlife stewardship programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bbbaad3d3cdf35c13941eb410cab85ba989d8821a93cc58ce3c0aa2eb67c4e3e"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local wildlife stewardship programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "33bbaea410db5eaa3fd15373b2ea378a4b682c45ab7d02dcd39e3242eeef6604"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local wildlife stewardship programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ff0c4d22604bcbe00e837b57fa6239229406594102ed934ff84f46cc657105d6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local wildlife stewardship programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "aad165232bcd9a6ed4ae96e7dbc1df4d152078966d11392a757b5a3b9b0cad41"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local wildlife stewardship programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ac381bbd79730a2128d32b2b43d735d97cc671f02598f61d6a858f795f5b4603"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local wildlife stewardship programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fbfefc8143714d18e70cfe6f42114b76cd6c08ce08f5ddd7b92b0a2d5974631e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local wildlife stewardship programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3468e613f8f50742641afe8631f1e7c428d6a23e96c759c10fa826466ce98767"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local wildlife stewardship programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "28b1ea35ba36bd1461cb6a6899d30b808733327cf29360f498ed5abfbea5b006"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local wildlife stewardship programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d68362cc06638bfc31d42ce89a576838011cf324dc63ae49311d3b0ff65644a0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local wildlife stewardship programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "835d005a1d8d1483a945b0bd5487195607fa4a5c4a1f74a19afb9c2cc6bee5ed"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local wildlife stewardship programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ef6be422692c5e3810c7331859f8d41217ef1e2a2d37a8a8ba1a911adaab8409"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the local wildlife stewardship programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about wildlife and habitat protection, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关野生动物与栖息地保护的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "d148fbb2cf80eca0c0f3900388210ce01b26738f69cbf04dd9ca64032e03cbc7",
+      "referenceAnswerFingerprint": "f17f8b183ebb078d1f9677d650888d90dc4da5e81091f30b04f0fd4ad80bc178"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the wildlife conservation team suggesting a practical change to the local wildlife stewardship programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local wildlife stewardship programme. People have noticed a warning location chosen from one report, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "e0a9f80d3bf660c09e5314735e4b76a2f58d247e9f2f1071a214a08643b00c0d",
+      "sampleAnswerFingerprint": "917ab27d85a75d2881a05e27a23c3be68c1a85b9b9f7d7317f3bd531d0233e8c"
+    }
+  ],
+  "fingerprintManifest": [
+    "47e78cab7faf3a62e70ae6c93487a481d9c4752b0f456d3c90fab31d69fffb0a",
+    "92bd418d462f766ba395a60ce0e606f22e815699cbf3e0e41f43a7de72560a7f",
+    "fb1d8b738214fba2cd40f42feb78b0c8a297efa66797b82271b7d086033143b9",
+    "7ef52a9ec45cc15b54e508c9ecde514d906bf8bc30c67dc9d1138551594717f4",
+    "3c81e0176058961f64626acd53693cc113d55255b556a6483f089669a8bd5a53",
+    "08cc35b974051e8e94efbec2b3828c148520ee3ac9632b6f028ddad11ffa40b2",
+    "68915de70e471c1a93aea78699effef0f795a5023430f53d99a5fbbca2947e36",
+    "4a1bd1812a2504349d61433ca6defdcfbe49ca7ace64b1fe7af383e7643662d4",
+    "1d376649a670d8f1e1043696ea57b7ba94a59041829c15d8ee65bd59d4b5e0c9",
+    "79d98b5d190273a5337dd636b16b5b976d85703f08e95b004daf6ac74fddcb91",
+    "0ed199e1d0d061756766b19e6620bc06fa8f7b81621cb47b4ebb81568a7af518",
+    "4f9e6a1422a04ffd0836726dfa5618a071bcbcab6c73b867ba4d243e6b90cebb",
+    "7733d05cb8ffd993dd2f28a2f2a97895456ff78723ed2435718a61cb4fdb6161",
+    "de49ae3177fb52649978751bd282d8a4e1eb314001bb38f91d6c114d966cc50a",
+    "5477e15e198e9ab7dce52e476701ed704b00dd7b50efc22fb26f340b881a01e2",
+    "915d84f71e9c9e9cb05d3a10469bcc4baf346f999e00eecf97268940f6ff78fc",
+    "d87c6f8e842b0ff8a6bfc3afbe935bf77dda711d10e3d5652eef997c593066f0",
+    "23b134669d4081fa5a59df1745341763f5540f94f02ad628e227863f8cc22ec9",
+    "c430fdecbe1f7c41232d5aec2370e5d1824075f39e34181d3d3ed0a22fb2e339",
+    "6bf950efff291bbb12cafd599bea161d6c56175ae235b324b71562a843f4f463",
+    "b4e8a0ab2d0a82c0a904941d130d4b0ea8faf923fdebfd3b8a830eab01cf3f4d",
+    "bb61c2c53b0b82a14c9795ea15b777d85f14cb39446cb69323fcf654707d7b5c",
+    "e25d1db11d934ad4f24d621c94bffb5c04e795e6fbe44d2df4fb442cb4c338e8",
+    "ff7d8ffb42da9bf77f9d9e96793a421cd2cc5a1d2a92eb8909000929689030e6",
+    "fbb36ff2def644065ea8964c9e06e8cc63044cb4c2d0a8e7628544070dce13dd",
+    "9f6a2271cc53822ff8cb02c869bbd1399b50005111919788c52de42c3c16719c",
+    "9d9aa82265f4dee6254699db69a768a70fae47f003d7f56da129705c01b44375",
+    "1e6ceef174a541421cd45ec4091cdd735faeb8f2cf8237487f17bd7b311f24ef",
+    "a15f004b55b74625e338d4f9e1a71802dbe94899c6a96069455cf9e5a5454576",
+    "68e63ffaaf96b7bd68ca42e0821f57af2d5df9252e27363bdca202e3c8575589",
+    "540c73179de53cc45ef1713d61fd61cec9955a77b6952ef92f53a2f2fb9399fa",
+    "61f82eeca5adf8e671e72b2b3299f2fbb5bc34435972e9d01fc0a32111f35226",
+    "b61dc9ade955793e2d2fcb1a990ba2ceba75208b577f1f0450be7cde052bb4a8",
+    "57e375c0f5a47d039f6af9c0431f1761d7e0486de497187092c66f151274641e",
+    "cbb9bdda343e04f6078d0e54a1941929fb5f76d338b7e038a63038e46277e7e8",
+    "23b8e516fc99b3d8ad7d5458e987a4e980224c0897e9a7e3dd4d2900da6181c3",
+    "d03af00319712f9636ba8252f1e4767428925b624e45dff5e4e866d53daa900c",
+    "3dbcd20034f33b75f8c57452b559677cf5d106a17f575b95a2ce624af8626e75",
+    "e127de9c38c4d83bb7760f8bd7aa93e82de087a68b14f5e2b4c1dbff0f05105e",
+    "aadc644ed55d5dedfd88fd3670c5b68574ab17d7770ba2cc6471fb0042e424b8",
+    "f5ab96a1423dccf2e8b6aa32267c8539da73d13babb6aa5d1253a0f1262cb0da",
+    "097cf612940ff89539626496ec910b5994da09b8ced749d94721251974c95795",
+    "d2c691d4d5fad7a7b3d752929966f803ba2ab2f686b1288ca7007e7a4f8a4ecb",
+    "2168dae8afeb4bee939e55795cae10a0d3584bde31b54848908c54f696803f09",
+    "711e7b619a38e7ddcf97e7ff9975e6e1c0ba5b14c5824cf12e5bc9524fd120f8",
+    "8ec3ca30780e2c18ae3970b6109bf1915ebdeb43d8339acb1b3a0ce19bf5a168",
+    "bbbaad3d3cdf35c13941eb410cab85ba989d8821a93cc58ce3c0aa2eb67c4e3e",
+    "33bbaea410db5eaa3fd15373b2ea378a4b682c45ab7d02dcd39e3242eeef6604",
+    "ff0c4d22604bcbe00e837b57fa6239229406594102ed934ff84f46cc657105d6",
+    "aad165232bcd9a6ed4ae96e7dbc1df4d152078966d11392a757b5a3b9b0cad41",
+    "ac381bbd79730a2128d32b2b43d735d97cc671f02598f61d6a858f795f5b4603",
+    "fbfefc8143714d18e70cfe6f42114b76cd6c08ce08f5ddd7b92b0a2d5974631e",
+    "3468e613f8f50742641afe8631f1e7c428d6a23e96c759c10fa826466ce98767",
+    "28b1ea35ba36bd1461cb6a6899d30b808733327cf29360f498ed5abfbea5b006",
+    "d68362cc06638bfc31d42ce89a576838011cf324dc63ae49311d3b0ff65644a0",
+    "835d005a1d8d1483a945b0bd5487195607fa4a5c4a1f74a19afb9c2cc6bee5ed",
+    "ef6be422692c5e3810c7331859f8d41217ef1e2a2d37a8a8ba1a911adaab8409",
+    "d148fbb2cf80eca0c0f3900388210ce01b26738f69cbf04dd9ca64032e03cbc7",
+    "f17f8b183ebb078d1f9677d650888d90dc4da5e81091f30b04f0fd4ad80bc178",
+    "e0a9f80d3bf660c09e5314735e4b76a2f58d247e9f2f1071a214a08643b00c0d",
+    "917ab27d85a75d2881a05e27a23c3be68c1a85b9b9f7d7317f3bd531d0233e8c"
+  ],
+  "contentFingerprint": "12efdedca90b333af5ae449086fe78fa09822d79084b39f1058e44db92c7ce51"
+}

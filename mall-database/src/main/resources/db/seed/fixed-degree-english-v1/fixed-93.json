@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-93",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 93 · 阅读出版与信息获取",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 93,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about a large-print collection that circulates",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about a large-print collection that circulates. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the reading service desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the publishing and reading team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "dd14ddfcaef8cbe8630703e39b8b66ea9dad4b57dc3fd62eab5b70b49196b0a2",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about a large-print collection that circulates”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the reading service desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the publishing and reading team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "58f6f39a8a0af5903e472baaf35b90d73d3a98bb1711be9359477123d22ba89f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about a large-print collection that circulates”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the reading service desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the publishing and reading team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7048a66c06fcfba60b84800f5edc087dcd6e03b2569243b45b19dee7e7b6b5f7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about a large-print collection that circulates”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the reading service desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the publishing and reading team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a5ec25f54cd647cea6b7c29aba166b1a442d9d2ecd40242c20595d644db2bbe2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about a large-print collection that circulates”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the reading service desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the publishing and reading team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "957f821e3bd8d845a1605c89d966af11f9ddae6746d5b1be21c0769f03c348c2"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying explaining an ebook loan",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about explaining an ebook loan is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the reading service desk.",
+        "D": "Please send it to the publishing and reading team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "555d7d057e6f448724e3ffd73923f9838d67bb6fee44f8a658b998c83fd6d365",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying explaining an ebook loan”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reading service desk.",
+            "D": "Please send it to the publishing and reading team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fbefba6d7b32c5bea95a0da29db932370bbb87750405975469c2bfa4a8449809"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying explaining an ebook loan”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reading service desk.",
+            "D": "Please send it to the publishing and reading team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d470b8772b1ed2f19be1c162082ce81e8906d1d90a8d11c0dc886e509d62d9c1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying explaining an ebook loan”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reading service desk.",
+            "D": "Please send it to the publishing and reading team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3084d5f69eb2924eae4ed91ad1edc789977c7231d909c301b9409532f4f4d701"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on editing a community newsletter",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about editing a community newsletter last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "dfd114f5da203fe3ee4afeb1ffe7d922b18e526e00d087e8ac0fbc054cdf621d",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on editing a community newsletter”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ba93cd6dacb9a13c023b1e9288b7417c3005ec2bfb7a6b03c42259ad613afca2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on editing a community newsletter”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ed2183aca50ac8b6b006f11bd6dfb28d174f37a592655fc4c19249aadd949487"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on editing a community newsletter”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "15cae9dbf9402a4db04c7766c3869895a154854988fc5b32efb42d303a4482ba"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A large-print collection that circulates",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library expanded its large-print shelves. Readers welcomed the investment but found most new titles concentrated in one genre. The main obstacle was a collection chosen without enough reader input. Purchase decisions relied on one supplier catalogue rather than local requests. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used borrowing patterns and confidential suggestions. Librarians compared circulation with themes requested by regular and new visitors. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated varied genres mattered more than a larger single shelf. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a rotating purchase list shaped by requests. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: access includes meaningful choice. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a large-print collection that circulates, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "4994d030f6a31ab5124e5abca2fd2362dc24d515bdd44c9a2b07817d0bd7b0a2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A large-print collection that circulates: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "loan rules hidden in technical language",
+            "B": "a collection chosen without enough reader input",
+            "C": "contribution guidance without word limits",
+            "D": "discussion tied to one edition"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f608f0f9b07221a40e89370ffeb5a8746e5a69f9a7f660b69d38b5ef3a48e7cd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A large-print collection that circulates: What method was used to investigate the situation?",
+          "options": {
+            "A": "a guided first-loan session",
+            "B": "a review of recent editing work",
+            "C": "borrowing patterns and confidential suggestions",
+            "D": "a trial meeting focused on themes and scenes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "21e29c36c0b1d3d3dc11552421367205457bf28bfde24d6e83f3faa2b2515d70"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A large-print collection that circulates: What did the evidence indicate?",
+          "options": {
+            "A": "a short explanation prevented surprise",
+            "B": "examples saved time for both sides",
+            "C": "shared questions welcomed more readers",
+            "D": "varied genres mattered more than a larger single shelf"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a9b7685cd814a270bcb54ec0ba5c1637e022309f252215697d14cf1f27aa972e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A large-print collection that circulates: How was the arrangement changed?",
+          "options": {
+            "A": "a rotating purchase list shaped by requests",
+            "B": "clear due-date messages before borrowing",
+            "C": "a simple contributor guide with sample lengths",
+            "D": "topic prompts that work across editions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e10b562d7c4d052ce75efb8b51b890ff27484250cd83c10c2fb9ce01a22c8955"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A large-print collection that circulates: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "digital services need familiar explanations",
+            "B": "access includes meaningful choice",
+            "C": "clear expectations support volunteer publishing",
+            "D": "reading communities can value different routes to a text"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ef7915280fa9087b67fec3e92d9bbab87e21dbe9d46a2ce9eaaa4fe749bde242"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Explaining an ebook loan",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A public library offered ebooks. Some borrowers downloaded a book successfully but could not understand why it disappeared after two weeks. The main obstacle was loan rules hidden in technical language. The app showed a small due date without explaining automatic return. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a guided first-loan session. Staff asked volunteers to describe what they expected to happen at each screen. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated a short explanation prevented surprise. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced clear due-date messages before borrowing. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: digital services need familiar explanations. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in explaining an ebook loan, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "61fdd21391225f1563b21a1db1f9f2edf2868796f1bfeb8a83fa661b92175a51",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Explaining an ebook loan: What problem did the people involved notice?",
+          "options": {
+            "A": "a collection chosen without enough reader input",
+            "B": "contribution guidance without word limits",
+            "C": "discussion tied to one edition",
+            "D": "loan rules hidden in technical language"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "83f3ce954827753a8dd39615c6cb83ce571967774cd1c58822513cab7008f2ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Explaining an ebook loan: What was the first investigative step?",
+          "options": {
+            "A": "a guided first-loan session",
+            "B": "borrowing patterns and confidential suggestions",
+            "C": "a review of recent editing work",
+            "D": "a trial meeting focused on themes and scenes"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "37377f74e2bc354724ec6625dde743330924ec49cf747c7f888602f07fcdb4a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Explaining an ebook loan: What was learned from the records?",
+          "options": {
+            "A": "varied genres mattered more than a larger single shelf",
+            "B": "a short explanation prevented surprise",
+            "C": "examples saved time for both sides",
+            "D": "shared questions welcomed more readers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ebe73bbb32182e404aff49edf9a39b5cb97b8916402839a230f410a1791acb66"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Explaining an ebook loan: What adjustment followed?",
+          "options": {
+            "A": "a rotating purchase list shaped by requests",
+            "B": "a simple contributor guide with sample lengths",
+            "C": "clear due-date messages before borrowing",
+            "D": "topic prompts that work across editions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b13fcce0ebf9da0d068544dcfa831bd1c3bfbc49850f477b65517a02a495e2dc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Explaining an ebook loan: What is the central message?",
+          "options": {
+            "A": "access includes meaningful choice",
+            "B": "clear expectations support volunteer publishing",
+            "C": "reading communities can value different routes to a text",
+            "D": "digital services need familiar explanations"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d9fba27a9521fad5bedbe03182a47c5e15d38b3c44bca4bb4944b7502e2607e2"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Editing a community newsletter",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood newsletter invited short articles. Volunteers spent hours shortening submissions because the requested length was never stated. The main obstacle was contribution guidance without word limits. Writers sent pieces ranging from a few lines to several pages. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a review of recent editing work. Editors noted which changes were routine and asked contributors what guidance would help. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated examples saved time for both sides. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a simple contributor guide with sample lengths. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: clear expectations support volunteer publishing. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in editing a community newsletter, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "a5be6eec3a68145b46d27d593bb022647d2b15321b31380742dde77a0750cccb",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Editing a community newsletter: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a collection chosen without enough reader input",
+            "B": "contribution guidance without word limits",
+            "C": "loan rules hidden in technical language",
+            "D": "discussion tied to one edition"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7242e377d6dadf1c11c9a9475493af58508d4e4b4216d6ffc2865f5d501576ca"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Editing a community newsletter: How did the team gather information?",
+          "options": {
+            "A": "borrowing patterns and confidential suggestions",
+            "B": "a guided first-loan session",
+            "C": "a review of recent editing work",
+            "D": "a trial meeting focused on themes and scenes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "29430298d3a3f235c04c97057aab6b98c4ed16eb70c7dc5848f3c3b2631cd13d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Editing a community newsletter: What did the team discover?",
+          "options": {
+            "A": "varied genres mattered more than a larger single shelf",
+            "B": "a short explanation prevented surprise",
+            "C": "shared questions welcomed more readers",
+            "D": "examples saved time for both sides"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c813544de87290b597dbf4b3f60f35a4b92eb08b5a49b1bf9838bc4e5076cbc5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Editing a community newsletter: What did it do in response?",
+          "options": {
+            "A": "a simple contributor guide with sample lengths",
+            "B": "a rotating purchase list shaped by requests",
+            "C": "clear due-date messages before borrowing",
+            "D": "topic prompts that work across editions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7883ae931d7561bdcdc9371c4a5069238a64cef9e0bf327ae1d6ceb0910d43b5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Editing a community newsletter: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "access includes meaningful choice",
+            "B": "clear expectations support volunteer publishing",
+            "C": "digital services need familiar explanations",
+            "D": "reading communities can value different routes to a text"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0e49224508a42950264f04344a6c2b03a8ffc3f29d6590d9eb626fd3f723c7f4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A book discussion across languages",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult reading circle included people reading in different languages. A single English edition made some members reluctant to join. The main obstacle was discussion tied to one edition. Participants could share ideas about the story even when wording differed across translations. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a trial meeting focused on themes and scenes. Facilitators asked readers to bring a passage in their preferred edition and explain its context. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated shared questions welcomed more readers. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced topic prompts that work across editions. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: reading communities can value different routes to a text. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a book discussion across languages, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "c2395a175d66cd14baecd84fd41f4b68fb59243546632755eddaf76a1a3dda53",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A book discussion across languages: What was the main obstacle?",
+          "options": {
+            "A": "a collection chosen without enough reader input",
+            "B": "loan rules hidden in technical language",
+            "C": "contribution guidance without word limits",
+            "D": "discussion tied to one edition"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6a20c2ab5e2ab3391403d3fc1b06223fd6ced8e485058c0028e60d2e7fbf3c47"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A book discussion across languages: How was the idea examined?",
+          "options": {
+            "A": "a trial meeting focused on themes and scenes",
+            "B": "borrowing patterns and confidential suggestions",
+            "C": "a guided first-loan session",
+            "D": "a review of recent editing work"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "870fe9f17f18376e161129d70e2b28563529759f8c7b71e25cd235bd609a8771"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A book discussion across languages: Which finding shaped the decision?",
+          "options": {
+            "A": "varied genres mattered more than a larger single shelf",
+            "B": "shared questions welcomed more readers",
+            "C": "a short explanation prevented surprise",
+            "D": "examples saved time for both sides"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "509cde39b45aa8d178d1fadf8e93c4f6026caa884ea953e54165dc892fe0f455"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A book discussion across languages: What change did the group make?",
+          "options": {
+            "A": "a rotating purchase list shaped by requests",
+            "B": "clear due-date messages before borrowing",
+            "C": "topic prompts that work across editions",
+            "D": "a simple contributor guide with sample lengths"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "367a00a0b89115d95e5459f7afea9cc4a2a518d7880e2c72f88b4a2418272804"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A book discussion across languages: What lesson does the writer emphasize?",
+          "options": {
+            "A": "access includes meaningful choice",
+            "B": "digital services need familiar explanations",
+            "C": "clear expectations support volunteer publishing",
+            "D": "reading communities can value different routes to a text"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1d6c9781d35b7ed110f221231bc942e2f7ca3d978c3128f8c5ad1c7970ff5655"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the community reading access programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "283a13e241876e9001a9d75f2b738ed7f03fdd7ab7898ff9deeb4f2d7ece4894"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the community reading access programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3686bc446a78d1acd448b83d89e41e5ac5eaf03b5fe1602fc443feba779639ea"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the community reading access programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "523684c295f6eabf89caf81e7346e229592a97d7723a378f3d33b4b883fa8076"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the community reading access programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bc26a9ac7bae80715138a668b14b19690908a0dd601d640bb7089b3251edbb62"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the community reading access programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a3a16e3f4738e3259086ec7c28cde95cea7c76020f1a5efe720fa44513741c97"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the community reading access programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2a610f7b5b48645de0d87b644e295ddd19eb0cab2cd294f2c4541a7b2afa1b21"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the community reading access programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a84fd5a99d14e41febacac90aa3886b35ebe211647b17d814acfdd1fc07868d3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the community reading access programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1d39aac6d9d44d2c37dc524ce71d15039392babc7bdd80582abb72734e5c7eca"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the community reading access programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b570a79c99531386b37d896678b64d48495cad6516edcb6392d5ba5de25b3fab"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the community reading access programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fd93e29dfd513d63e321bdb92d0dd337d1c544476717d78c951e9d34acf856eb"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community reading access programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1a68c121879b5573c4fae55d2571cbdc4048ea54011f9c0e8e61856d8e172282"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community reading access programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8e329454bbb3895235d8fe7e26776f8732af7f29a57ab201a17e95d0c3472bb5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community reading access programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "64b7e130e0ac3a6f26f1a3fa0f1dcd8e3606e0607f69e0a8051207a3aef70814"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community reading access programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a7fbe94e6555b4ebbb9edc4dff8f9b59e0b454b28380a111eb72c04b0a1964b9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community reading access programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4def1942a0534b52b18ba336df90f18a718809d9a674a56a1583eb2458b5e0bd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community reading access programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cf28ade6a1a476f49f89f030e11235053fcd617cbc2207d06522a1cca580315c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community reading access programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8c876e626b4b0413f42716ae3c8289714d88afcc4b9b8cde4851029fdf226f4e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community reading access programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "89d5f34f0a61ec5b24d70fe19fc0cdde3d63a0a8e0c0855290a1b94053a1a63a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community reading access programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c713a1995782797873537d062f1592fd036871a0624cf3a92f83aa0510e564df"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community reading access programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "16257cb385214fc33c9ae68d82f8eb671ba09cc8cd6f1c0146f46969345fa7ec"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning reading, publishing and access to information often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the community reading access programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关阅读出版与信息获取的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "0aeaa983741f09faf670294984b0c5e2cd34d74a4f92890c6e4c006aa6e418d3",
+      "referenceAnswerFingerprint": "72127ddad4cc725206621e5382d3efa7bdd016e56ec2b70771ccf46dc817eb92"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the publishing and reading team proposing a small improvement to the community reading access programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community reading access programme. People have noticed a collection chosen without enough reader input, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "c2846fbc4651f3a7cc6cbbfe68a641babf45d1ce40dce231bf9392b4c9f92401",
+      "sampleAnswerFingerprint": "b1602b302cd87767575bc213961c2846352adba77378b1ae224bf16e4dc10b93"
+    }
+  ],
+  "fingerprintManifest": [
+    "dd14ddfcaef8cbe8630703e39b8b66ea9dad4b57dc3fd62eab5b70b49196b0a2",
+    "58f6f39a8a0af5903e472baaf35b90d73d3a98bb1711be9359477123d22ba89f",
+    "7048a66c06fcfba60b84800f5edc087dcd6e03b2569243b45b19dee7e7b6b5f7",
+    "a5ec25f54cd647cea6b7c29aba166b1a442d9d2ecd40242c20595d644db2bbe2",
+    "957f821e3bd8d845a1605c89d966af11f9ddae6746d5b1be21c0769f03c348c2",
+    "555d7d057e6f448724e3ffd73923f9838d67bb6fee44f8a658b998c83fd6d365",
+    "fbefba6d7b32c5bea95a0da29db932370bbb87750405975469c2bfa4a8449809",
+    "d470b8772b1ed2f19be1c162082ce81e8906d1d90a8d11c0dc886e509d62d9c1",
+    "3084d5f69eb2924eae4ed91ad1edc789977c7231d909c301b9409532f4f4d701",
+    "dfd114f5da203fe3ee4afeb1ffe7d922b18e526e00d087e8ac0fbc054cdf621d",
+    "ba93cd6dacb9a13c023b1e9288b7417c3005ec2bfb7a6b03c42259ad613afca2",
+    "ed2183aca50ac8b6b006f11bd6dfb28d174f37a592655fc4c19249aadd949487",
+    "15cae9dbf9402a4db04c7766c3869895a154854988fc5b32efb42d303a4482ba",
+    "4994d030f6a31ab5124e5abca2fd2362dc24d515bdd44c9a2b07817d0bd7b0a2",
+    "f608f0f9b07221a40e89370ffeb5a8746e5a69f9a7f660b69d38b5ef3a48e7cd",
+    "21e29c36c0b1d3d3dc11552421367205457bf28bfde24d6e83f3faa2b2515d70",
+    "a9b7685cd814a270bcb54ec0ba5c1637e022309f252215697d14cf1f27aa972e",
+    "e10b562d7c4d052ce75efb8b51b890ff27484250cd83c10c2fb9ce01a22c8955",
+    "ef7915280fa9087b67fec3e92d9bbab87e21dbe9d46a2ce9eaaa4fe749bde242",
+    "61fdd21391225f1563b21a1db1f9f2edf2868796f1bfeb8a83fa661b92175a51",
+    "83f3ce954827753a8dd39615c6cb83ce571967774cd1c58822513cab7008f2ae",
+    "37377f74e2bc354724ec6625dde743330924ec49cf747c7f888602f07fcdb4a0",
+    "ebe73bbb32182e404aff49edf9a39b5cb97b8916402839a230f410a1791acb66",
+    "b13fcce0ebf9da0d068544dcfa831bd1c3bfbc49850f477b65517a02a495e2dc",
+    "d9fba27a9521fad5bedbe03182a47c5e15d38b3c44bca4bb4944b7502e2607e2",
+    "a5be6eec3a68145b46d27d593bb022647d2b15321b31380742dde77a0750cccb",
+    "7242e377d6dadf1c11c9a9475493af58508d4e4b4216d6ffc2865f5d501576ca",
+    "29430298d3a3f235c04c97057aab6b98c4ed16eb70c7dc5848f3c3b2631cd13d",
+    "c813544de87290b597dbf4b3f60f35a4b92eb08b5a49b1bf9838bc4e5076cbc5",
+    "7883ae931d7561bdcdc9371c4a5069238a64cef9e0bf327ae1d6ceb0910d43b5",
+    "0e49224508a42950264f04344a6c2b03a8ffc3f29d6590d9eb626fd3f723c7f4",
+    "c2395a175d66cd14baecd84fd41f4b68fb59243546632755eddaf76a1a3dda53",
+    "6a20c2ab5e2ab3391403d3fc1b06223fd6ced8e485058c0028e60d2e7fbf3c47",
+    "870fe9f17f18376e161129d70e2b28563529759f8c7b71e25cd235bd609a8771",
+    "509cde39b45aa8d178d1fadf8e93c4f6026caa884ea953e54165dc892fe0f455",
+    "367a00a0b89115d95e5459f7afea9cc4a2a518d7880e2c72f88b4a2418272804",
+    "1d6c9781d35b7ed110f221231bc942e2f7ca3d978c3128f8c5ad1c7970ff5655",
+    "283a13e241876e9001a9d75f2b738ed7f03fdd7ab7898ff9deeb4f2d7ece4894",
+    "3686bc446a78d1acd448b83d89e41e5ac5eaf03b5fe1602fc443feba779639ea",
+    "523684c295f6eabf89caf81e7346e229592a97d7723a378f3d33b4b883fa8076",
+    "bc26a9ac7bae80715138a668b14b19690908a0dd601d640bb7089b3251edbb62",
+    "a3a16e3f4738e3259086ec7c28cde95cea7c76020f1a5efe720fa44513741c97",
+    "2a610f7b5b48645de0d87b644e295ddd19eb0cab2cd294f2c4541a7b2afa1b21",
+    "a84fd5a99d14e41febacac90aa3886b35ebe211647b17d814acfdd1fc07868d3",
+    "1d39aac6d9d44d2c37dc524ce71d15039392babc7bdd80582abb72734e5c7eca",
+    "b570a79c99531386b37d896678b64d48495cad6516edcb6392d5ba5de25b3fab",
+    "fd93e29dfd513d63e321bdb92d0dd337d1c544476717d78c951e9d34acf856eb",
+    "1a68c121879b5573c4fae55d2571cbdc4048ea54011f9c0e8e61856d8e172282",
+    "8e329454bbb3895235d8fe7e26776f8732af7f29a57ab201a17e95d0c3472bb5",
+    "64b7e130e0ac3a6f26f1a3fa0f1dcd8e3606e0607f69e0a8051207a3aef70814",
+    "a7fbe94e6555b4ebbb9edc4dff8f9b59e0b454b28380a111eb72c04b0a1964b9",
+    "4def1942a0534b52b18ba336df90f18a718809d9a674a56a1583eb2458b5e0bd",
+    "cf28ade6a1a476f49f89f030e11235053fcd617cbc2207d06522a1cca580315c",
+    "8c876e626b4b0413f42716ae3c8289714d88afcc4b9b8cde4851029fdf226f4e",
+    "89d5f34f0a61ec5b24d70fe19fc0cdde3d63a0a8e0c0855290a1b94053a1a63a",
+    "c713a1995782797873537d062f1592fd036871a0624cf3a92f83aa0510e564df",
+    "16257cb385214fc33c9ae68d82f8eb671ba09cc8cd6f1c0146f46969345fa7ec",
+    "0aeaa983741f09faf670294984b0c5e2cd34d74a4f92890c6e4c006aa6e418d3",
+    "72127ddad4cc725206621e5382d3efa7bdd016e56ec2b70771ccf46dc817eb92",
+    "c2846fbc4651f3a7cc6cbbfe68a641babf45d1ce40dce231bf9392b4c9f92401",
+    "b1602b302cd87767575bc213961c2846352adba77378b1ae224bf16e4dc10b93"
+  ],
+  "contentFingerprint": "a1d113b867514aa40f1494e364635f89a07d9ca940d9675da52428af4c3066ed"
+}
