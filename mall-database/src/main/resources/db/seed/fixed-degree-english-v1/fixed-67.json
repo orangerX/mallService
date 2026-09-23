@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-67",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 67 · 本地农业与食物供应",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 67,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to a harvest box with flexible contents",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about a harvest box with flexible contents. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the growers association that you plan to attend.",
+        "C": "Yes, signs will lead you from the farm information point.",
+        "D": "Certainly. Send your question to the growers association."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4ff14cb2ad6f766445fb2523960937311a74ed465323faf48f1971ff44b3089a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to a harvest box with flexible contents”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the growers association that you plan to attend.",
+            "C": "Yes, signs will lead you from the farm information point.",
+            "D": "Certainly. Send your question to the growers association."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "52b86001691688461ac7192b9fd944dcdf13b79779d017bd7e671b1d41293182"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to a harvest box with flexible contents”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the growers association that you plan to attend.",
+            "C": "Yes, signs will lead you from the farm information point.",
+            "D": "Certainly. Send your question to the growers association."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "be1cb74ac5dc967387f7ecb621f33b5c773d691a2660211e6503b4a789f1b2c5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to a harvest box with flexible contents”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the growers association that you plan to attend.",
+            "C": "Yes, signs will lead you from the farm information point.",
+            "D": "Certainly. Send your question to the growers association."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e92aa17fcf31ab7745b39efaf62c9d0e03a386c20d5049d6da6b5ea06c796d75"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to a harvest box with flexible contents”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the growers association that you plan to attend.",
+            "C": "Yes, signs will lead you from the farm information point.",
+            "D": "Certainly. Send your question to the growers association."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e2e0d3425b7c721ba7ae097b52948bbb4b2f73aee6d21a033dd93121abb5d62f"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying keeping produce cool at the market",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about keeping produce cool at the market is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the farm information point.",
+        "D": "Please send it to the growers association."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "bf2ac0a31f5c70fa91ec08e067f6d758637429932ab0a932ed519fd43294fde7",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying keeping produce cool at the market”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the farm information point.",
+            "D": "Please send it to the growers association."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b1a29b33ac2aea6427deb74a346dff5f6b77e12e3d509de4336253471826d8f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying keeping produce cool at the market”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the farm information point.",
+            "D": "Please send it to the growers association."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0829ecf6439ff0e70e21cfbf025240627567c57c091dd225f488c240a203687f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying keeping produce cool at the market”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the farm information point.",
+            "D": "Please send it to the growers association."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "24365d6bfb1d7f25735233ba3d7ea516b7361bb74e3ed1214fa86768ed29901e"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a school garden after summer",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a school garden after summer last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "195d871f2aba8ece513f3859c17e260f7c8b4132001e0f12e88dc2ff9676f77f",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a school garden after summer”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1a448f2f5c14df564b1c83d94a283bca557073854df391568c1d1c9b176f0906"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a school garden after summer”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "92712b4dfc77b8058d03caab8709bba7082831249eca72294ed3aa312625d60a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a school garden after summer”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "31486a1ee8d65ce8960780573cc68299d5417726dec6cce0d61729987aac914a"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A harvest box with flexible contents",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A cooperative sold weekly vegetable boxes. Customers liked local produce but complained that the same vegetables appeared too often. The main obstacle was boxes planned before the harvest was known. Weather changed which crops were ready, while advance lists gave buyers expectations the growers could not always meet. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a comparison of harvest records and complaints. Growers reviewed several weeks of crops and asked customers which substitutions they would accept. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated choice within groups was more useful than fixed lists. Buyers could plan meals when the box promised categories rather than particular vegetables. The group then introduced a flexible list published each harvest day. The cooperative offered a few swap choices and explained why local crops could vary. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: honest flexibility supports local supply. A reliable service need not pretend that weather and seasonal growth can be completely controlled. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a harvest box with flexible contents, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "937de6c311b2c87007b1a3d45283f4a40d442fee10ebd27c1b37a89b45e141f4",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A harvest box with flexible contents: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "sun exposure at the busiest stalls",
+            "B": "no agreed responsibility during school closure",
+            "C": "confusion between quality and safety dates",
+            "D": "boxes planned before the harvest was known"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b81becd6af8e7a97cd1b1606d70fd220dc91cbbad6eef2a1c46e550d9297f577"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A harvest box with flexible contents: What method was used to investigate the situation?",
+          "options": {
+            "A": "a comparison of harvest records and complaints",
+            "B": "temperature notes at different display points",
+            "C": "a review of summer visits and plant conditions",
+            "D": "guidance checked with food safety specialists"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b028423ef274fa003e49e2b0dc5a3440253301439c32f80a042c925ab6990402"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A harvest box with flexible contents: What did the evidence indicate?",
+          "options": {
+            "A": "shade protected quality during the waiting period",
+            "B": "choice within groups was more useful than fixed lists",
+            "C": "missed weeks mattered more than total visits",
+            "D": "clear categories reduced uncertain decisions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "70e80f3c0f936807c56b2457f8f1b8a6d4fd58c02a150c2cada1ea0a49dff224"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A harvest box with flexible contents: How was the arrangement changed?",
+          "options": {
+            "A": "smaller shaded displays with regular replacement",
+            "B": "a shared calendar and suitable plant choices",
+            "C": "a flexible list published each harvest day",
+            "D": "a short sorting guide and supervised training"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6205eec03c0959739b0a703ad659f301416a6a4b8eb73fa018ddb6bbbcfda540"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A harvest box with flexible contents: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "freshness depends on each stage of handling",
+            "B": "education projects need a maintenance plan",
+            "C": "good intentions require accurate information",
+            "D": "honest flexibility supports local supply"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "39f4d9cc4e193318c55a06afd851e04caee33b61fcb10d030f20ee88a6f57c64"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Keeping produce cool at the market",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A weekend market sold berries from nearby farms. Fruit sometimes softened before noon despite having been picked that morning. The main obstacle was sun exposure at the busiest stalls. Farmers brought cool containers, but fruit sat on open tables while customers made their choices. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used temperature notes at different display points. Sellers measured conditions through the morning and compared covered and uncovered tables. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated shade protected quality during the waiting period. The largest difference came after the fruit left its container, not during the short journey to the market. The group then introduced smaller shaded displays with regular replacement. Sellers refilled tables from covered containers and told buyers how to keep fruit at home. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: freshness depends on each stage of handling. Careful growing can be lost if a brief display period is ignored. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in keeping produce cool at the market, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "e5910ceca37e223412af2816535649fda01e34905975d1af320783723bf60a0e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Keeping produce cool at the market: What problem did the people involved notice?",
+          "options": {
+            "A": "boxes planned before the harvest was known",
+            "B": "sun exposure at the busiest stalls",
+            "C": "no agreed responsibility during school closure",
+            "D": "confusion between quality and safety dates"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9b772deb7b47d5e012ce7319a6b36421ee678add36e2d51086f2ea657ca9ebf7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Keeping produce cool at the market: What was the first investigative step?",
+          "options": {
+            "A": "a comparison of harvest records and complaints",
+            "B": "a review of summer visits and plant conditions",
+            "C": "temperature notes at different display points",
+            "D": "guidance checked with food safety specialists"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9b8659a40c7270327043a699dfc6b51ec4b3abb19e442a019fbd1bc4aa571478"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Keeping produce cool at the market: What was learned from the records?",
+          "options": {
+            "A": "choice within groups was more useful than fixed lists",
+            "B": "missed weeks mattered more than total visits",
+            "C": "clear categories reduced uncertain decisions",
+            "D": "shade protected quality during the waiting period"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "226f622cb02bb6568c67095c60bbd3b359f0fceb22e3580be69b37dbf45ad75c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Keeping produce cool at the market: What adjustment followed?",
+          "options": {
+            "A": "smaller shaded displays with regular replacement",
+            "B": "a flexible list published each harvest day",
+            "C": "a shared calendar and suitable plant choices",
+            "D": "a short sorting guide and supervised training"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b01f520c1fd5a67a218e02d37967d7508523c55260c685b1dc71ab8c6bdd9f05"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Keeping produce cool at the market: What is the central message?",
+          "options": {
+            "A": "honest flexibility supports local supply",
+            "B": "freshness depends on each stage of handling",
+            "C": "education projects need a maintenance plan",
+            "D": "good intentions require accurate information"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ae2d83a4f97f4256c295c561f0faf3196c56e41979542991fe4aaee77d518c81"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A school garden after summer",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A primary school planted herbs for science lessons. Most plants survived spring, but the garden looked neglected after the holiday. The main obstacle was no agreed responsibility during school closure. Teachers expected volunteers to help, yet nobody knew which days needed attention or how much water was appropriate. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a review of summer visits and plant conditions. The school compared the volunteer log with weather records and advice from experienced local gardeners. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated missed weeks mattered more than total visits. Several volunteers came on the same day while the garden remained unattended during a later dry period. The group then introduced a shared calendar and suitable plant choices. The school chose hardy plants and gave each helper a clear, limited task. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: education projects need a maintenance plan. The useful learning experience included caring for the garden between the enjoyable planting days. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a school garden after summer, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "84d662ff4d67f8e7b5a626ade62f1ff143d68a214d9e79c816155554873755d6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A school garden after summer: Why was the original plan difficult to use?",
+          "options": {
+            "A": "boxes planned before the harvest was known",
+            "B": "sun exposure at the busiest stalls",
+            "C": "confusion between quality and safety dates",
+            "D": "no agreed responsibility during school closure"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b7afd45f21cf9e0bb8706738dbd22cb37385833a81af75c89956c333717de05b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A school garden after summer: How did the team gather information?",
+          "options": {
+            "A": "a review of summer visits and plant conditions",
+            "B": "a comparison of harvest records and complaints",
+            "C": "temperature notes at different display points",
+            "D": "guidance checked with food safety specialists"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6cd5bd385ffb58288c4e9f71b2df33a7824d00b9c3998ccdc9fcc185b952c77b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A school garden after summer: What did the team discover?",
+          "options": {
+            "A": "choice within groups was more useful than fixed lists",
+            "B": "missed weeks mattered more than total visits",
+            "C": "shade protected quality during the waiting period",
+            "D": "clear categories reduced uncertain decisions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c895d851c54686e7c2a993737ee6595cfa1db9bf9e487eeb5d0b0d0a18349a1b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A school garden after summer: What did it do in response?",
+          "options": {
+            "A": "a flexible list published each harvest day",
+            "B": "smaller shaded displays with regular replacement",
+            "C": "a shared calendar and suitable plant choices",
+            "D": "a short sorting guide and supervised training"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d7cbd7a7952dd5831ee605571f4c94299f827b2a67c306d09911c1d4d587329d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A school garden after summer: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "honest flexibility supports local supply",
+            "B": "freshness depends on each stage of handling",
+            "C": "good intentions require accurate information",
+            "D": "education projects need a maintenance plan"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "eb6e0e204b2e4105cc3d044c527a75f372926eb4a55f2d02cb1910f6a413ba2a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Explaining food dates",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A food-sharing group collected unopened groceries. Volunteers noticed that usable items were sometimes discarded because date labels were misunderstood. The main obstacle was confusion between quality and safety dates. People treated every printed date alike although different labels called for different handling. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used guidance checked with food safety specialists. The group gathered examples and asked qualified advisers to explain the rules volunteers should follow. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated clear categories reduced uncertain decisions. Volunteers were more consistent when each label led to a specific, approved action. The group then introduced a short sorting guide and supervised training. The group kept its safety rules strict while avoiding needless waste where guidance allowed. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: good intentions require accurate information. Food sharing works best when volunteers understand both the opportunity to reduce waste and their duty to protect people. That explanation made later changes easier to discuss with residents and staff. For those taking part in explaining food dates, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "db207f7104ce40a69014e3293bf1b3e5c46197a840b4c5ac29ce12d33d425f84",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Explaining food dates: What was the main obstacle?",
+          "options": {
+            "A": "boxes planned before the harvest was known",
+            "B": "confusion between quality and safety dates",
+            "C": "sun exposure at the busiest stalls",
+            "D": "no agreed responsibility during school closure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4e37b0584dc910beb3d271d9e3b79bd1d3ab9a7125541db8fc3e31f4e5996638"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Explaining food dates: How was the idea examined?",
+          "options": {
+            "A": "a comparison of harvest records and complaints",
+            "B": "temperature notes at different display points",
+            "C": "guidance checked with food safety specialists",
+            "D": "a review of summer visits and plant conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "44bf7342bab23c229f71bdd8f0680d66261d1b31422fb0c430e5a127516012a8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Explaining food dates: Which finding shaped the decision?",
+          "options": {
+            "A": "choice within groups was more useful than fixed lists",
+            "B": "shade protected quality during the waiting period",
+            "C": "missed weeks mattered more than total visits",
+            "D": "clear categories reduced uncertain decisions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "71e2d091cbd009b059af4dc97613258efe1e11693942b1ad8dfb8a488af3079a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Explaining food dates: What change did the group make?",
+          "options": {
+            "A": "a short sorting guide and supervised training",
+            "B": "a flexible list published each harvest day",
+            "C": "smaller shaded displays with regular replacement",
+            "D": "a shared calendar and suitable plant choices"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8f7ee43fc30fde3dc7162c7f92b38b4456c305563a7c5ed9a029d124c45f5b5c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Explaining food dates: What lesson does the writer emphasize?",
+          "options": {
+            "A": "honest flexibility supports local supply",
+            "B": "good intentions require accurate information",
+            "C": "freshness depends on each stage of handling",
+            "D": "education projects need a maintenance plan"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8ae6dccbcbc8b9be07f5972183dbfbb3ddf608beb976d2b831e7b5ae0f86b139"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the local food cooperation programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "eaf4c4271b534b1fd75f88b8c851002b9d9620d16b15d7b888cfa828a319d54c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the local food cooperation programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bf751812f0bdbe0c5e9e188f87441f98b968ac239b9ac066c4fb0e8b23bd90c8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the local food cooperation programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d0ea0d7ee26b9fa4731791855262d3e3d4ee5fc5a2a1944885429ad1a75f7ac2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the local food cooperation programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ff52a3a1c984dd1786ed8a2cae98159c819d160c2ef6f695ecec5303954b4851"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the local food cooperation programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "43f4db8149df8a54146683b99ae86444cb427be11ec55f714584bc549d838b97"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the local food cooperation programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4c0fcc0db862da3414751a9d3d61b816912931fab9a734788d8bb3efd7e919fb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the local food cooperation programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8a149b224730ff6401e79e5409b913198431f1fd403d5d6bb25af0cf978f5f7e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the local food cooperation programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "56dc1211cbf075fc82460d1c2a96e2191e46ced221b07e6c008a46ad07f414f0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the local food cooperation programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f596dc20c8891612bd2b7f79c4f84f87286c7df0b102e7a2f061f5104322f057"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the local food cooperation programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6b02739b56510d5026e7294954e5c9b1b41e6e43459e9846cc22534f8d66b293"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local food cooperation programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "43f49f6fd712b14edf3d85bb02a53fc87e5a1f4bbef0d64dbf323dc8935728a7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local food cooperation programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b9b6214215bbd152c783cb29b3f97b4b84110d6d45af09bb45fe298dfeda6228"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local food cooperation programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "742bd059cc627e9eb5b6a4b214fea9e1d01980b0e019e1d0f1a2ee610dddfab1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local food cooperation programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e821d665da671cf72c1561830c155a8ed11e990347518085f24af50f66e4d1aa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local food cooperation programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "897ae0d311fb6945cb1e322135eebd70a5b2dacbb6033ef7154641eadece4852"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local food cooperation programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3a6ee19f610576c1040a0ac8004922aa58d704b45f20377dff277e564297b2a7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local food cooperation programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e47450acf95c377e31bc974361d6a22ddf3e7ad3e98d18a258115ea1859f39ad"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local food cooperation programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1c291df011d8e93135f11150807c3a289410121472155791fd2a336e87738dc3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local food cooperation programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ea4199092cb3dcb389546d0e52845266a03bc80cb6a63ff88dbeb33dcc4a02c6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local food cooperation programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0594e891ab3929614604179740f6f5479bf5c19480ae43d889440c6c05aef250"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for local agriculture and food supply must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the local food cooperation programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于本地农业与食物供应的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "044a227f597781752ffa18b0e25928844396d789a8e4e945bc6efc51fe093b76",
+      "referenceAnswerFingerprint": "03b6f9ca6243b7022fafa5c7961c5fd6d62e27c4f4d634151be858ebc8e3cb36"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the growers association about a community activity related to local agriculture and food supply. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local food cooperation programme. People have noticed boxes planned before the harvest was known, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "2d8aa4636da8927da320b900fe42365a330a5285f1a6c496a63a003136b36cec",
+      "sampleAnswerFingerprint": "6af62be381b1245ac299883a954fd7e87239aaad8fee2e00eb84953f2a8ba063"
+    }
+  ],
+  "fingerprintManifest": [
+    "4ff14cb2ad6f766445fb2523960937311a74ed465323faf48f1971ff44b3089a",
+    "52b86001691688461ac7192b9fd944dcdf13b79779d017bd7e671b1d41293182",
+    "be1cb74ac5dc967387f7ecb621f33b5c773d691a2660211e6503b4a789f1b2c5",
+    "e92aa17fcf31ab7745b39efaf62c9d0e03a386c20d5049d6da6b5ea06c796d75",
+    "e2e0d3425b7c721ba7ae097b52948bbb4b2f73aee6d21a033dd93121abb5d62f",
+    "bf2ac0a31f5c70fa91ec08e067f6d758637429932ab0a932ed519fd43294fde7",
+    "b1a29b33ac2aea6427deb74a346dff5f6b77e12e3d509de4336253471826d8f8",
+    "0829ecf6439ff0e70e21cfbf025240627567c57c091dd225f488c240a203687f",
+    "24365d6bfb1d7f25735233ba3d7ea516b7361bb74e3ed1214fa86768ed29901e",
+    "195d871f2aba8ece513f3859c17e260f7c8b4132001e0f12e88dc2ff9676f77f",
+    "1a448f2f5c14df564b1c83d94a283bca557073854df391568c1d1c9b176f0906",
+    "92712b4dfc77b8058d03caab8709bba7082831249eca72294ed3aa312625d60a",
+    "31486a1ee8d65ce8960780573cc68299d5417726dec6cce0d61729987aac914a",
+    "937de6c311b2c87007b1a3d45283f4a40d442fee10ebd27c1b37a89b45e141f4",
+    "b81becd6af8e7a97cd1b1606d70fd220dc91cbbad6eef2a1c46e550d9297f577",
+    "b028423ef274fa003e49e2b0dc5a3440253301439c32f80a042c925ab6990402",
+    "70e80f3c0f936807c56b2457f8f1b8a6d4fd58c02a150c2cada1ea0a49dff224",
+    "6205eec03c0959739b0a703ad659f301416a6a4b8eb73fa018ddb6bbbcfda540",
+    "39f4d9cc4e193318c55a06afd851e04caee33b61fcb10d030f20ee88a6f57c64",
+    "e5910ceca37e223412af2816535649fda01e34905975d1af320783723bf60a0e",
+    "9b772deb7b47d5e012ce7319a6b36421ee678add36e2d51086f2ea657ca9ebf7",
+    "9b8659a40c7270327043a699dfc6b51ec4b3abb19e442a019fbd1bc4aa571478",
+    "226f622cb02bb6568c67095c60bbd3b359f0fceb22e3580be69b37dbf45ad75c",
+    "b01f520c1fd5a67a218e02d37967d7508523c55260c685b1dc71ab8c6bdd9f05",
+    "ae2d83a4f97f4256c295c561f0faf3196c56e41979542991fe4aaee77d518c81",
+    "84d662ff4d67f8e7b5a626ade62f1ff143d68a214d9e79c816155554873755d6",
+    "b7afd45f21cf9e0bb8706738dbd22cb37385833a81af75c89956c333717de05b",
+    "6cd5bd385ffb58288c4e9f71b2df33a7824d00b9c3998ccdc9fcc185b952c77b",
+    "c895d851c54686e7c2a993737ee6595cfa1db9bf9e487eeb5d0b0d0a18349a1b",
+    "d7cbd7a7952dd5831ee605571f4c94299f827b2a67c306d09911c1d4d587329d",
+    "eb6e0e204b2e4105cc3d044c527a75f372926eb4a55f2d02cb1910f6a413ba2a",
+    "db207f7104ce40a69014e3293bf1b3e5c46197a840b4c5ac29ce12d33d425f84",
+    "4e37b0584dc910beb3d271d9e3b79bd1d3ab9a7125541db8fc3e31f4e5996638",
+    "44bf7342bab23c229f71bdd8f0680d66261d1b31422fb0c430e5a127516012a8",
+    "71e2d091cbd009b059af4dc97613258efe1e11693942b1ad8dfb8a488af3079a",
+    "8f7ee43fc30fde3dc7162c7f92b38b4456c305563a7c5ed9a029d124c45f5b5c",
+    "8ae6dccbcbc8b9be07f5972183dbfbb3ddf608beb976d2b831e7b5ae0f86b139",
+    "eaf4c4271b534b1fd75f88b8c851002b9d9620d16b15d7b888cfa828a319d54c",
+    "bf751812f0bdbe0c5e9e188f87441f98b968ac239b9ac066c4fb0e8b23bd90c8",
+    "d0ea0d7ee26b9fa4731791855262d3e3d4ee5fc5a2a1944885429ad1a75f7ac2",
+    "ff52a3a1c984dd1786ed8a2cae98159c819d160c2ef6f695ecec5303954b4851",
+    "43f4db8149df8a54146683b99ae86444cb427be11ec55f714584bc549d838b97",
+    "4c0fcc0db862da3414751a9d3d61b816912931fab9a734788d8bb3efd7e919fb",
+    "8a149b224730ff6401e79e5409b913198431f1fd403d5d6bb25af0cf978f5f7e",
+    "56dc1211cbf075fc82460d1c2a96e2191e46ced221b07e6c008a46ad07f414f0",
+    "f596dc20c8891612bd2b7f79c4f84f87286c7df0b102e7a2f061f5104322f057",
+    "6b02739b56510d5026e7294954e5c9b1b41e6e43459e9846cc22534f8d66b293",
+    "43f49f6fd712b14edf3d85bb02a53fc87e5a1f4bbef0d64dbf323dc8935728a7",
+    "b9b6214215bbd152c783cb29b3f97b4b84110d6d45af09bb45fe298dfeda6228",
+    "742bd059cc627e9eb5b6a4b214fea9e1d01980b0e019e1d0f1a2ee610dddfab1",
+    "e821d665da671cf72c1561830c155a8ed11e990347518085f24af50f66e4d1aa",
+    "897ae0d311fb6945cb1e322135eebd70a5b2dacbb6033ef7154641eadece4852",
+    "3a6ee19f610576c1040a0ac8004922aa58d704b45f20377dff277e564297b2a7",
+    "e47450acf95c377e31bc974361d6a22ddf3e7ad3e98d18a258115ea1859f39ad",
+    "1c291df011d8e93135f11150807c3a289410121472155791fd2a336e87738dc3",
+    "ea4199092cb3dcb389546d0e52845266a03bc80cb6a63ff88dbeb33dcc4a02c6",
+    "0594e891ab3929614604179740f6f5479bf5c19480ae43d889440c6c05aef250",
+    "044a227f597781752ffa18b0e25928844396d789a8e4e945bc6efc51fe093b76",
+    "03b6f9ca6243b7022fafa5c7961c5fd6d62e27c4f4d634151be858ebc8e3cb36",
+    "2d8aa4636da8927da320b900fe42365a330a5285f1a6c496a63a003136b36cec",
+    "6af62be381b1245ac299883a954fd7e87239aaad8fee2e00eb84953f2a8ba063"
+  ],
+  "contentFingerprint": "ea32ed05cd0f0089a920f424c093587bba87a937a046353bc12ba2059e74aae6"
+}

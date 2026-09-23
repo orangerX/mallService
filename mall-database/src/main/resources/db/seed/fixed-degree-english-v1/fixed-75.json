@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-75",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 75 · 科学发现与日常发明",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 75,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about testing a reusable water filter",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about testing a reusable water filter. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the science centre desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the science education team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c67774b7f8ebcfc7eb479db43be03f5a85f25f596a882504e2050eddd1598687",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about testing a reusable water filter”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the science centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the science education team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "981443cbc5cf850a138c4ac75d1c0807212bd55072ae66bef2d5c778bc6f26c3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about testing a reusable water filter”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the science centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the science education team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "68285a959ac37bc83def5f51d3af7dcbd52013ab216cdc070e67d03274eda854"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about testing a reusable water filter”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the science centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the science education team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "fa2a714d87932d6d9a26997487a833f05d366f87fb81f4550c9c1c29981677f7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about testing a reusable water filter”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the science centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the science education team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5b044bafdbc43880b121717393fff62a8ad9b71987f8523f4ca06782052982eb"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying why a bridge model bends",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about why a bridge model bends is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the science centre desk.",
+        "D": "Please send it to the science education team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4f97c6412d6b0902fdf1a24a41905dfb6bd4e0d29499b23b35c0d73eb5545f25",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying why a bridge model bends”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the science centre desk.",
+            "D": "Please send it to the science education team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1cdc89e1aaed3cbc8d5416cd9157d9a799639e722c5f8e594ddc1504f0b50bef"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying why a bridge model bends”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the science centre desk.",
+            "D": "Please send it to the science education team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "63e01eb1416dc569dc515123ff4362a8de085e1694299611e6e29197f60bb0f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying why a bridge model bends”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the science centre desk.",
+            "D": "Please send it to the science education team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3c6a08cbf1a3b118616d1e2a912aca86061a6b716cda7b5a1f6f4c0f8e13afcc"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a sensor for classroom light",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a sensor for classroom light last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c9584cd605452c7e9b76533a0c3708055e152d305b8a1835deabf9eb07787cd5",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a sensor for classroom light”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2a499111090928a0f0612d3a9995a14c5cd3c9bbd1c8b38269cb1a12ed6cf75e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a sensor for classroom light”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "922dfb312da3f62919bc5987e1abeea73791b863865f4ec2f542b5811601ffa6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a sensor for classroom light”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b02927ec155d1b4e6637dcbc450c93ff7642108ad7a50a98a99231a49e314dce"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Testing a reusable water filter",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Students designed a simple reusable filter for muddy water. Early demonstrations looked successful, but groups used different amounts of water. The main obstacle was an experiment without consistent quantities. Colour changes were difficult to compare because sample sizes and waiting times varied. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a controlled classroom procedure. Students measured equal samples and recorded the time and appearance after each stage. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the comparison became clearer but safety remained separate. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a display explaining limits of the model. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: a visible change does not prove water is safe to drink. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in testing a reusable water filter, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "5d3ef41db5a0ba2e18b96eaa5f619aa6a256aeeae988690e3a534f3393e4fb91",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Testing a reusable water filter: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "folding differences that were not recorded",
+            "B": "a sensor that missed still occupants",
+            "C": "sound volume confused with useful warning",
+            "D": "an experiment without consistent quantities"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "49eca7507bf36d05fcbf3cfdad397b43ec24202b0f96bc0c4152e4723f375c3f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Testing a reusable water filter: What method was used to investigate the situation?",
+          "options": {
+            "A": "a controlled classroom procedure",
+            "B": "measurements of material and loading position",
+            "C": "observations during different lessons",
+            "D": "listening trials on a safe closed route"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6027ca57886b9e3619a5b5a6529a82ae651fbb37a2c60ca9235e34cc31c76705"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Testing a reusable water filter: What did the evidence indicate?",
+          "options": {
+            "A": "support placement strongly affected strength",
+            "B": "the comparison became clearer but safety remained separate",
+            "C": "quiet activities required a longer delay",
+            "D": "a distinct tone improved recognition"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a291adc09c4f10204812e96f8ed3246cfe5c37f3e8c1b358fe483a184f3f2ec0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Testing a reusable water filter: How was the arrangement changed?",
+          "options": {
+            "A": "a construction log for each model",
+            "B": "a revised setting and an easy manual override",
+            "C": "a display explaining limits of the model",
+            "D": "a bell design judged by clarity as well as volume"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8ff318720bee49598958947c3f8e539952210ad5935c1c3383719d0d642284fc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Testing a reusable water filter: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "fair experiments change one factor at a time",
+            "B": "automation should account for human behaviour",
+            "C": "an invention succeeds only in real use",
+            "D": "a visible change does not prove water is safe to drink"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e916020a248196e50ce28367a484ea7c3fd366449b3d70a03bf0061ebe06a087"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Why a bridge model bends",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A science club built paper bridges. One model held several books, while an apparently similar version bent under much less weight. The main obstacle was folding differences that were not recorded. The teams compared final shapes without noting how many layers or supports each bridge had. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used measurements of material and loading position. Participants rebuilt models with the same paper and placed weights at marked points. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated support placement strongly affected strength. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a construction log for each model. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: fair experiments change one factor at a time. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in why a bridge model bends, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "69d661238486d758417bcc93778ef7eb605f24e96c49738bff7073ca602b3a7d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Why a bridge model bends: What problem did the people involved notice?",
+          "options": {
+            "A": "an experiment without consistent quantities",
+            "B": "folding differences that were not recorded",
+            "C": "a sensor that missed still occupants",
+            "D": "sound volume confused with useful warning"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a629bab444a01f542018c63e209573cd65dfd5db2bd86c3daad9b33bf666aa99"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Why a bridge model bends: What was the first investigative step?",
+          "options": {
+            "A": "a controlled classroom procedure",
+            "B": "observations during different lessons",
+            "C": "measurements of material and loading position",
+            "D": "listening trials on a safe closed route"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3883ef05d19b233bf381401372b8ebdcda9e3e590e35dbc97618d87f68eef0f7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Why a bridge model bends: What was learned from the records?",
+          "options": {
+            "A": "the comparison became clearer but safety remained separate",
+            "B": "quiet activities required a longer delay",
+            "C": "a distinct tone improved recognition",
+            "D": "support placement strongly affected strength"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2c54f7f99dd2e1340776ba8489caeaea21e6ad60ff4f42fc6923a830f5b4197c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Why a bridge model bends: What adjustment followed?",
+          "options": {
+            "A": "a construction log for each model",
+            "B": "a display explaining limits of the model",
+            "C": "a revised setting and an easy manual override",
+            "D": "a bell design judged by clarity as well as volume"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fdb33f67cd809eb4f6bd9dd1d207ee7c8f24f6305c9228121257704c595891d1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Why a bridge model bends: What is the central message?",
+          "options": {
+            "A": "a visible change does not prove water is safe to drink",
+            "B": "fair experiments change one factor at a time",
+            "C": "automation should account for human behaviour",
+            "D": "an invention succeeds only in real use"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e15b55338eae003e4f80affa1d67c2ba0163f322ce6d997ac5f805486498d502"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A sensor for classroom light",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A school tested a sensor that turned lights off when a classroom appeared empty. It sometimes darkened a room during quiet reading. The main obstacle was a sensor that missed still occupants. The device judged movement rather than actual use of the room. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used observations during different lessons. Teachers recorded false shut-offs and asked pupils when the change interrupted work. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated quiet activities required a longer delay. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised setting and an easy manual override. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: automation should account for human behaviour. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a sensor for classroom light, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "e97acdbd3dbec4c5ce4a295d2cdaa4b0f7b8371e05ae29fb50b6d5decc6ca58f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A sensor for classroom light: Why was the original plan difficult to use?",
+          "options": {
+            "A": "an experiment without consistent quantities",
+            "B": "folding differences that were not recorded",
+            "C": "sound volume confused with useful warning",
+            "D": "a sensor that missed still occupants"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "90faff46f9e547eca30a7db7a7cdf2274e2811cbcc5ac5afe5ff8a9a85784e65"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A sensor for classroom light: How did the team gather information?",
+          "options": {
+            "A": "observations during different lessons",
+            "B": "a controlled classroom procedure",
+            "C": "measurements of material and loading position",
+            "D": "listening trials on a safe closed route"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "173f4d4e124922244cf948c7c6d45f68377002f0992fbdb826a611dab1c5b0e1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A sensor for classroom light: What did the team discover?",
+          "options": {
+            "A": "the comparison became clearer but safety remained separate",
+            "B": "quiet activities required a longer delay",
+            "C": "support placement strongly affected strength",
+            "D": "a distinct tone improved recognition"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2724412eb2a4681afd92f33c75293f5c75815171a84067af6f915f224ebf208a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A sensor for classroom light: What did it do in response?",
+          "options": {
+            "A": "a display explaining limits of the model",
+            "B": "a construction log for each model",
+            "C": "a revised setting and an easy manual override",
+            "D": "a bell design judged by clarity as well as volume"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f555ca8c78d8a764e2d395ab16c340cc8b074c163cd7c7c3e4478001a46168d3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A sensor for classroom light: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "a visible change does not prove water is safe to drink",
+            "B": "fair experiments change one factor at a time",
+            "C": "an invention succeeds only in real use",
+            "D": "automation should account for human behaviour"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b5fa445ad405e4110bb0a5e712d9ba0099d1b2da537712ce1405adff7ae797db"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Making a bicycle bell clearer",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A design class explored bicycle bells for shared paths. A louder bell was noticed, but some pedestrians could not tell its direction. The main obstacle was sound volume confused with useful warning. The class had first measured loudness without asking walkers what they heard. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used listening trials on a safe closed route. Participants stood at marked points and described which bell they could locate. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a distinct tone improved recognition. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a bell design judged by clarity as well as volume. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: an invention succeeds only in real use. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in making a bicycle bell clearer, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "2afdeecfdbcfb98efb82dcb742e1ca016556d9bdddeb78e75896c7cb965e5111",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Making a bicycle bell clearer: What was the main obstacle?",
+          "options": {
+            "A": "an experiment without consistent quantities",
+            "B": "sound volume confused with useful warning",
+            "C": "folding differences that were not recorded",
+            "D": "a sensor that missed still occupants"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "7edc4549e081dff8feb6369e9d487d5745545303e8bf5284af4da52717ac369e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Making a bicycle bell clearer: How was the idea examined?",
+          "options": {
+            "A": "a controlled classroom procedure",
+            "B": "measurements of material and loading position",
+            "C": "listening trials on a safe closed route",
+            "D": "observations during different lessons"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fd4441f50952ec1e8abaedccc41c1cd3508f4f6c879070e1adebaafca8db5ac0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Making a bicycle bell clearer: Which finding shaped the decision?",
+          "options": {
+            "A": "the comparison became clearer but safety remained separate",
+            "B": "support placement strongly affected strength",
+            "C": "quiet activities required a longer delay",
+            "D": "a distinct tone improved recognition"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ef581141387ae12b9fa4bc842c63d090f47f7de092fdeb15441dcf95301757fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Making a bicycle bell clearer: What change did the group make?",
+          "options": {
+            "A": "a bell design judged by clarity as well as volume",
+            "B": "a display explaining limits of the model",
+            "C": "a construction log for each model",
+            "D": "a revised setting and an easy manual override"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a534d18a5d986cb73e52f6d09a4cbdf897a0cadf58b97d9acd0e7c853ca2f72e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Making a bicycle bell clearer: What lesson does the writer emphasize?",
+          "options": {
+            "A": "a visible change does not prove water is safe to drink",
+            "B": "an invention succeeds only in real use",
+            "C": "fair experiments change one factor at a time",
+            "D": "automation should account for human behaviour"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2e4ff4ee56b019bb8e4c154082968ef9260fd527e1509e6caa726edfb2697f18"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the public science learning programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0026c928acd0fd68268526830373d6b57c9615c79afe9f05e8d80a6d0cf2f07f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the public science learning programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3b31924832d4288d57c7e41005f68a11349e7dc5a74158f85e23b9eb3d696558"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the public science learning programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b70025629446d20877c68e1991f5b0e6afb46a2f7333f43c260eb9af94b13e81"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the public science learning programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9038f3237cc625526897023863a69e09f706efc593bdf277a38a81b845a7240c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the public science learning programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "182b4d0622071fde2a9c4308ea51bb324b07eda87fcec01fc6073b11b1485312"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the public science learning programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1699688c59a9ddff62d455729eebc0348aa0bf839ed9958d05d64065a11bc8c3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the public science learning programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1f6d8a84552a42ffebb4d0e476c40da80067029a35f5a6ffc8ae243cf60a9a19"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the public science learning programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8cf1e26c2cc71de60b9e9813dfc8c7853f14303ce9349d3051c8d14cd5b4c1d4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the public science learning programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5300068b5ae88cf77212187815142c492f51b8afc7ca92f0a651dc3d94737bc1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the public science learning programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fe45771367b25fecfe1e6292ab90f400e74776bfa703175f9fe2803c99ac10e2"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the public science learning programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1afaa40390ca50709d0cbbbbfeffa6c5c91e5c484ab93a1452a3d4c1031e4b32"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the public science learning programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "26e4250ee4c40af9e0c3eb9dafb551f0aa0309747cc1e0fd0453009700f72a57"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the public science learning programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d32e082342912c3917c4b993d6b6312cdbe3ffdd2b3bbd142a6bc41b2b3cf4e6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the public science learning programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ce53009850a440276a7a56bb43b8bf8d3b90434288d59516b4c62807afc6e69e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the public science learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "186d2d5f773e7b50f939793cd6dbe2c474d20a252d1c52ee2798f9653c62a212"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the public science learning programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "75bbd9d8285c6495c9c89e4ca6285992bc08db5ce1826931c1d75a9a0cb7b649"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the public science learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "695fb79b8ad53ce7cbfc558a0a3e9ea416b8511645e4b76c796867a46dee40a1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the public science learning programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4f6da678904e5c7f2498c85f7ed042fb93e10eb6e753304e4aad647cdc90c156"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the public science learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "172cde68ac904bc0bc2573d883a806acf2786103ece40d4f4d691ac71bcde92a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the public science learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "363ae65d90518bafa3493c9cddd6eae1c86ef96316166df9eca1e2839925a818"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning science and everyday inventions often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the public science learning programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关科学发现与日常发明的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "3eb1a1d3e053ecae7ffb92c8b74c0938f7ff80fdd0a8e73c7252ac52a909f4f7",
+      "referenceAnswerFingerprint": "275e40107438c2d0280f76deb2c27c4f7d76a7a07ee633c8a09dcf39c7573514"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the science education team proposing a small improvement to the public science learning programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the public science learning programme. People have noticed an experiment without consistent quantities, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "545c0aebabb889cfe1be76def58bf5e10968f71cd803deb56ad11a19dc51dde5",
+      "sampleAnswerFingerprint": "da1838ef0e87edfbc5da4fcb553abf70a023cd184b2d6a0188b376932e0f9659"
+    }
+  ],
+  "fingerprintManifest": [
+    "c67774b7f8ebcfc7eb479db43be03f5a85f25f596a882504e2050eddd1598687",
+    "981443cbc5cf850a138c4ac75d1c0807212bd55072ae66bef2d5c778bc6f26c3",
+    "68285a959ac37bc83def5f51d3af7dcbd52013ab216cdc070e67d03274eda854",
+    "fa2a714d87932d6d9a26997487a833f05d366f87fb81f4550c9c1c29981677f7",
+    "5b044bafdbc43880b121717393fff62a8ad9b71987f8523f4ca06782052982eb",
+    "4f97c6412d6b0902fdf1a24a41905dfb6bd4e0d29499b23b35c0d73eb5545f25",
+    "1cdc89e1aaed3cbc8d5416cd9157d9a799639e722c5f8e594ddc1504f0b50bef",
+    "63e01eb1416dc569dc515123ff4362a8de085e1694299611e6e29197f60bb0f8",
+    "3c6a08cbf1a3b118616d1e2a912aca86061a6b716cda7b5a1f6f4c0f8e13afcc",
+    "c9584cd605452c7e9b76533a0c3708055e152d305b8a1835deabf9eb07787cd5",
+    "2a499111090928a0f0612d3a9995a14c5cd3c9bbd1c8b38269cb1a12ed6cf75e",
+    "922dfb312da3f62919bc5987e1abeea73791b863865f4ec2f542b5811601ffa6",
+    "b02927ec155d1b4e6637dcbc450c93ff7642108ad7a50a98a99231a49e314dce",
+    "5d3ef41db5a0ba2e18b96eaa5f619aa6a256aeeae988690e3a534f3393e4fb91",
+    "49eca7507bf36d05fcbf3cfdad397b43ec24202b0f96bc0c4152e4723f375c3f",
+    "6027ca57886b9e3619a5b5a6529a82ae651fbb37a2c60ca9235e34cc31c76705",
+    "a291adc09c4f10204812e96f8ed3246cfe5c37f3e8c1b358fe483a184f3f2ec0",
+    "8ff318720bee49598958947c3f8e539952210ad5935c1c3383719d0d642284fc",
+    "e916020a248196e50ce28367a484ea7c3fd366449b3d70a03bf0061ebe06a087",
+    "69d661238486d758417bcc93778ef7eb605f24e96c49738bff7073ca602b3a7d",
+    "a629bab444a01f542018c63e209573cd65dfd5db2bd86c3daad9b33bf666aa99",
+    "3883ef05d19b233bf381401372b8ebdcda9e3e590e35dbc97618d87f68eef0f7",
+    "2c54f7f99dd2e1340776ba8489caeaea21e6ad60ff4f42fc6923a830f5b4197c",
+    "fdb33f67cd809eb4f6bd9dd1d207ee7c8f24f6305c9228121257704c595891d1",
+    "e15b55338eae003e4f80affa1d67c2ba0163f322ce6d997ac5f805486498d502",
+    "e97acdbd3dbec4c5ce4a295d2cdaa4b0f7b8371e05ae29fb50b6d5decc6ca58f",
+    "90faff46f9e547eca30a7db7a7cdf2274e2811cbcc5ac5afe5ff8a9a85784e65",
+    "173f4d4e124922244cf948c7c6d45f68377002f0992fbdb826a611dab1c5b0e1",
+    "2724412eb2a4681afd92f33c75293f5c75815171a84067af6f915f224ebf208a",
+    "f555ca8c78d8a764e2d395ab16c340cc8b074c163cd7c7c3e4478001a46168d3",
+    "b5fa445ad405e4110bb0a5e712d9ba0099d1b2da537712ce1405adff7ae797db",
+    "2afdeecfdbcfb98efb82dcb742e1ca016556d9bdddeb78e75896c7cb965e5111",
+    "7edc4549e081dff8feb6369e9d487d5745545303e8bf5284af4da52717ac369e",
+    "fd4441f50952ec1e8abaedccc41c1cd3508f4f6c879070e1adebaafca8db5ac0",
+    "ef581141387ae12b9fa4bc842c63d090f47f7de092fdeb15441dcf95301757fe",
+    "a534d18a5d986cb73e52f6d09a4cbdf897a0cadf58b97d9acd0e7c853ca2f72e",
+    "2e4ff4ee56b019bb8e4c154082968ef9260fd527e1509e6caa726edfb2697f18",
+    "0026c928acd0fd68268526830373d6b57c9615c79afe9f05e8d80a6d0cf2f07f",
+    "3b31924832d4288d57c7e41005f68a11349e7dc5a74158f85e23b9eb3d696558",
+    "b70025629446d20877c68e1991f5b0e6afb46a2f7333f43c260eb9af94b13e81",
+    "9038f3237cc625526897023863a69e09f706efc593bdf277a38a81b845a7240c",
+    "182b4d0622071fde2a9c4308ea51bb324b07eda87fcec01fc6073b11b1485312",
+    "1699688c59a9ddff62d455729eebc0348aa0bf839ed9958d05d64065a11bc8c3",
+    "1f6d8a84552a42ffebb4d0e476c40da80067029a35f5a6ffc8ae243cf60a9a19",
+    "8cf1e26c2cc71de60b9e9813dfc8c7853f14303ce9349d3051c8d14cd5b4c1d4",
+    "5300068b5ae88cf77212187815142c492f51b8afc7ca92f0a651dc3d94737bc1",
+    "fe45771367b25fecfe1e6292ab90f400e74776bfa703175f9fe2803c99ac10e2",
+    "1afaa40390ca50709d0cbbbbfeffa6c5c91e5c484ab93a1452a3d4c1031e4b32",
+    "26e4250ee4c40af9e0c3eb9dafb551f0aa0309747cc1e0fd0453009700f72a57",
+    "d32e082342912c3917c4b993d6b6312cdbe3ffdd2b3bbd142a6bc41b2b3cf4e6",
+    "ce53009850a440276a7a56bb43b8bf8d3b90434288d59516b4c62807afc6e69e",
+    "186d2d5f773e7b50f939793cd6dbe2c474d20a252d1c52ee2798f9653c62a212",
+    "75bbd9d8285c6495c9c89e4ca6285992bc08db5ce1826931c1d75a9a0cb7b649",
+    "695fb79b8ad53ce7cbfc558a0a3e9ea416b8511645e4b76c796867a46dee40a1",
+    "4f6da678904e5c7f2498c85f7ed042fb93e10eb6e753304e4aad647cdc90c156",
+    "172cde68ac904bc0bc2573d883a806acf2786103ece40d4f4d691ac71bcde92a",
+    "363ae65d90518bafa3493c9cddd6eae1c86ef96316166df9eca1e2839925a818",
+    "3eb1a1d3e053ecae7ffb92c8b74c0938f7ff80fdd0a8e73c7252ac52a909f4f7",
+    "275e40107438c2d0280f76deb2c27c4f7d76a7a07ee633c8a09dcf39c7573514",
+    "545c0aebabb889cfe1be76def58bf5e10968f71cd803deb56ad11a19dc51dde5",
+    "da1838ef0e87edfbc5da4fcb553abf70a023cd184b2d6a0188b376932e0f9659"
+  ],
+  "contentFingerprint": "25f11f3b7f66d23a3ab0932599a6f36364c0c43cd9b63016ac5ff2b3c5a7dc7c"
+}

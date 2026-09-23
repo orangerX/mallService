@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-72",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 72 · 旅游与地方文化保护",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 72,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about visitors at an old workshop",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about visitors at an old workshop. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the heritage centre desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the heritage visitor team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c8011383fcc9c53cd5c7b7f493f4d7c35903e6e1bd70e2c43756f09e93e4f4a6",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about visitors at an old workshop”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the heritage centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the heritage visitor team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "05bf11e2dc2cf3e8c98ed69761ca67710f297d9ac995206dfd4e74531b3f303c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about visitors at an old workshop”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the heritage centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the heritage visitor team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a6cb8a8e1d98a7579d7d4c8d7e2cc28c70fe97f148f4e4b1eb666e6cadc784b0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about visitors at an old workshop”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the heritage centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the heritage visitor team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cf5eae84f1e6c1b1dd0ad48a437dbba0afd950f42218bef3822c9f14a8a25884"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about visitors at an old workshop”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the heritage centre desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the heritage visitor team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c684369d25038f2b525d2a480bcfd53c4ff5958fa6f296a73d7a2c522f8b09dd"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying explaining a village name",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about explaining a village name is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the heritage centre desk.",
+        "D": "Please send it to the heritage visitor team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "35350499404cb2dafc53767af08b650155cf0c66a74f8bbe6ecf0ffc017f308c",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying explaining a village name”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the heritage centre desk.",
+            "D": "Please send it to the heritage visitor team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8e01457a433a3b1aee71af662b20f9a724f8c6c899aba906c5197a7c468a6814"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying explaining a village name”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the heritage centre desk.",
+            "D": "Please send it to the heritage visitor team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f5758890a43af190bda44de047d454cf4e63f99b74adeae405b03f76a8904dc6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying explaining a village name”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the heritage centre desk.",
+            "D": "Please send it to the heritage visitor team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c161cb248de8e21c7121dcba14f47c6516a1bc0668d739cfc30d89034f687f7c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on protecting a painted wall",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about protecting a painted wall last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "3b342ad9be8c3b0eedce60f82c5e399609c208c7c725b3edfdfd935e0d812d20",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on protecting a painted wall”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bc449c9317ede860f052dcc7ffa7df22c32408fbda03172868f22925a8cd1f32"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on protecting a painted wall”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "85646629b5a89a46e115208dfe9cb6f880f06c05bcefe11fa4f6aa1f0e63a3fb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on protecting a painted wall”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "15f095fbb4002086384c3602c0c5814bb9b6a80cf844a87ba4f996db4a5c5c62"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Visitors at an old workshop",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An historic workshop opened for guided visits. Crowds gathered at its narrow doorway while the rest of the building stayed quiet. The main obstacle was all tours beginning at the same entrance. Groups arrived together after lunch and blocked people using nearby shops. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used arrival counts over several weekends. Guides recorded group size and asked neighbours when the entrance was hardest to pass. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated staggered starts could reduce the queue. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced smaller tours with timed entry. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: heritage visits should respect daily local life. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in visitors at an old workshop, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "51e8205953fc397ba98bf78a6589c1aa9bc549d6ceed8fd98c420b09ddff3fc5",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Visitors at an old workshop: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "all tours beginning at the same entrance",
+            "B": "a legend presented as certain history",
+            "C": "information placed too near fragile material",
+            "D": "a route map without clear landmarks"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4a5c6a0a1681ece1b9cf1d50c6873a022d93ebbf106d9d1a0edf340f4443f089"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Visitors at an old workshop: What method was used to investigate the situation?",
+          "options": {
+            "A": "a review of archive sources and oral accounts",
+            "B": "arrival counts over several weekends",
+            "C": "observations of visitor movement",
+            "D": "a walk with first-time visitors"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "57f9af5308c4246f84554c88532c98c3bec6e7414177d44bf3b8f2e5b3ecf2d3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Visitors at an old workshop: What did the evidence indicate?",
+          "options": {
+            "A": "the uncertainty was itself interesting",
+            "B": "better labels could reduce accidental contact",
+            "C": "staggered starts could reduce the queue",
+            "D": "one unclear junction caused most errors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0d9e2fe68e7758ed233da1b7d019d8f8dff20071126117754d73a0af4e6172c3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Visitors at an old workshop: How was the arrangement changed?",
+          "options": {
+            "A": "a new panel distinguishing records and tradition",
+            "B": "large descriptions placed beside the viewing area",
+            "C": "a landmark-based map and one sign at the junction",
+            "D": "smaller tours with timed entry"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9c8e1e80788fceb3915efd0be43fc48eccd26a5b4100315dec101f02f3b5ca7f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Visitors at an old workshop: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "heritage visits should respect daily local life",
+            "B": "honest interpretation can deepen interest",
+            "C": "visitor design can support conservation",
+            "D": "good wayfinding protects visitors and residents"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d9874205f07d7bf8e9f214a369aa9c0e2b8e31b34288f489a629576ae2fdeb24"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Explaining a village name",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A tourist sign told a dramatic story about a village name. Local historians pointed out that the tale lacked strong evidence. The main obstacle was a legend presented as certain history. Visitors repeated the story without knowing that several explanations existed. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a review of archive sources and oral accounts. Researchers separated documented facts from stories passed down by residents. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated the uncertainty was itself interesting. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a new panel distinguishing records and tradition. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: honest interpretation can deepen interest. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in explaining a village name, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "16853caac1dc3a2cbe198243530e5b36b37d5b37212b831aed5fca7a094b3ea5",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Explaining a village name: What problem did the people involved notice?",
+          "options": {
+            "A": "all tours beginning at the same entrance",
+            "B": "information placed too near fragile material",
+            "C": "a legend presented as certain history",
+            "D": "a route map without clear landmarks"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "262088f80f8446f97a42f6b7d8d226fe568ec22d0b96442675f165c6324494e3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Explaining a village name: What was the first investigative step?",
+          "options": {
+            "A": "arrival counts over several weekends",
+            "B": "observations of visitor movement",
+            "C": "a walk with first-time visitors",
+            "D": "a review of archive sources and oral accounts"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4d5ffd816460d357f7c654a75418ec73cc06b31af619439e1b6460510b880845"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Explaining a village name: What was learned from the records?",
+          "options": {
+            "A": "the uncertainty was itself interesting",
+            "B": "staggered starts could reduce the queue",
+            "C": "better labels could reduce accidental contact",
+            "D": "one unclear junction caused most errors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4bcfb56ef62a98e0fa0acb5e2750e6ce1bbbef9044e13e687bd03f4a9ce20ae9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Explaining a village name: What adjustment followed?",
+          "options": {
+            "A": "smaller tours with timed entry",
+            "B": "a new panel distinguishing records and tradition",
+            "C": "large descriptions placed beside the viewing area",
+            "D": "a landmark-based map and one sign at the junction"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d700a4706d5830d81b0fd649071396569c4671e6fb12697bbe2e61bc0121b381"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Explaining a village name: What is the central message?",
+          "options": {
+            "A": "heritage visits should respect daily local life",
+            "B": "visitor design can support conservation",
+            "C": "honest interpretation can deepen interest",
+            "D": "good wayfinding protects visitors and residents"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "cdb248ae6f504d9816b870a0562711dc374b099a0c5d8cac3e9d11ba2624ca57"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Protecting a painted wall",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A historic house displayed delicate wall paintings. Visitors leaned close to read a small label, sometimes touching the surface. The main obstacle was information placed too near fragile material. The label made people approach the painting even when they intended to be careful. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used observations of visitor movement. Conservators noted where people stopped and measured whether text was readable from a safe distance. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated better labels could reduce accidental contact. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced large descriptions placed beside the viewing area. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: visitor design can support conservation. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in protecting a painted wall, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "afe6885aaa001b37ef9f7d6fa2e3bcfd19fbb7bcac7083286ff67e66855bbb22",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Protecting a painted wall: Why was the original plan difficult to use?",
+          "options": {
+            "A": "information placed too near fragile material",
+            "B": "all tours beginning at the same entrance",
+            "C": "a legend presented as certain history",
+            "D": "a route map without clear landmarks"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0e4ecf6d29210167d6254f6aea8cc4bb025c6dddf557a6e1aeff186c009dc8fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Protecting a painted wall: How did the team gather information?",
+          "options": {
+            "A": "arrival counts over several weekends",
+            "B": "observations of visitor movement",
+            "C": "a review of archive sources and oral accounts",
+            "D": "a walk with first-time visitors"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "de7da04f79b81e60a9e4019a92e80d3681dbb739f9715fa0bc02b447b2e7a51c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Protecting a painted wall: What did the team discover?",
+          "options": {
+            "A": "staggered starts could reduce the queue",
+            "B": "the uncertainty was itself interesting",
+            "C": "better labels could reduce accidental contact",
+            "D": "one unclear junction caused most errors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "850313f16679ba11074ec40c5fc5f4cd89d2eae44b93106a2f07a745156c00e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Protecting a painted wall: What did it do in response?",
+          "options": {
+            "A": "smaller tours with timed entry",
+            "B": "a new panel distinguishing records and tradition",
+            "C": "a landmark-based map and one sign at the junction",
+            "D": "large descriptions placed beside the viewing area"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ee1dd264c766ea4e0a62ff04dc09cf4adaac571f2ddb9c38211f7f63f06cb4a7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Protecting a painted wall: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "visitor design can support conservation",
+            "B": "heritage visits should respect daily local life",
+            "C": "honest interpretation can deepen interest",
+            "D": "good wayfinding protects visitors and residents"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "119e8732fc3f7080853a52ead66f085aa3ef5af1d9fa754176fb018f8a94fb91"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A walking route through a town",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A heritage walk linked six old buildings. Visitors often turned down a residential lane that was not on the official route. The main obstacle was a route map without clear landmarks. A short line on the map appeared to include a private path. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a walk with first-time visitors. The team followed new users and recorded where they hesitated or chose the wrong turn. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated one unclear junction caused most errors. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a landmark-based map and one sign at the junction. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: good wayfinding protects visitors and residents. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a walking route through a town, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "007343a89406fa5e57858e95c90a7006a45c7854fad1e6c6ad4b2873250a46ae",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A walking route through a town: What was the main obstacle?",
+          "options": {
+            "A": "all tours beginning at the same entrance",
+            "B": "a legend presented as certain history",
+            "C": "a route map without clear landmarks",
+            "D": "information placed too near fragile material"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d3c0923354c9be285b790e0877384a3e420c8dbd62779451576d4673cc197f70"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A walking route through a town: How was the idea examined?",
+          "options": {
+            "A": "arrival counts over several weekends",
+            "B": "a review of archive sources and oral accounts",
+            "C": "observations of visitor movement",
+            "D": "a walk with first-time visitors"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0881828bb2478412afcacb49e3041e84ef82c9f2d5da6282b70c1042a5c3fe35"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A walking route through a town: Which finding shaped the decision?",
+          "options": {
+            "A": "one unclear junction caused most errors",
+            "B": "staggered starts could reduce the queue",
+            "C": "the uncertainty was itself interesting",
+            "D": "better labels could reduce accidental contact"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "933a2b87fe379863da997cb68338cad276029833857505c94de8678a9f84c5bf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A walking route through a town: What change did the group make?",
+          "options": {
+            "A": "smaller tours with timed entry",
+            "B": "a landmark-based map and one sign at the junction",
+            "C": "a new panel distinguishing records and tradition",
+            "D": "large descriptions placed beside the viewing area"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ac961b028d0bc2af6a8b826eff4b73383665d6fee71ec4fa4d07d13d778a76ed"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A walking route through a town: What lesson does the writer emphasize?",
+          "options": {
+            "A": "heritage visits should respect daily local life",
+            "B": "honest interpretation can deepen interest",
+            "C": "good wayfinding protects visitors and residents",
+            "D": "visitor design can support conservation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "989e22f949da396a52b96e7638c9e92e5fe21bad3bdd334d6467203e0d717d8d"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the local heritage visitor programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4ac5419811a693f24f9ae51f3d3a1c8284edbd0b2c64b99b0d227a505abb50f4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the local heritage visitor programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6b652eb81118a4e2f1b7495500ab707b0fd3aa9622c3e261bd92c6477170fba9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the local heritage visitor programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "09721ef067b9ec5e5b3bcaa5f9c1942eb08ff1ebf4460270c2a3685742425684"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the local heritage visitor programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b65dc41df41ead3b83078b67d7fd07ff74c6a20c4822406edf9a66e71210e12b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the local heritage visitor programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8b5c86b8837b665c819db909fbe196442e8668731bf8ca5c7d432f0c3e3f3abe"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the local heritage visitor programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "23a3c12dcada1cd01bf63aeb48ad02a830cba749e3055ff9eb5173fb51e42d39"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the local heritage visitor programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ad8d6c762eceec7e62d258a3fc678d739b0db2726b8ed289d75d6aef08f23c14"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the local heritage visitor programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4834c0f240ec8829eb56bafacc9b74df4f0757ebd10e82a52a82efb5ac757bf4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the local heritage visitor programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b60ee225fbe2fbeda35757fbc4efdeb9367fb69c28158a82e4d7da26fb065df7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the local heritage visitor programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "618780f903824fcfbf312337448ff8f7b099260ea06af5e046318ce547187e48"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local heritage visitor programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7637fe66a7bd50b462b07d4b1104dc89f5f6f1909304a24adcca830d91e4ddc5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local heritage visitor programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7733a4b604d29c9972a978e0e26e3aedebcb5ad78ce0fa394a9922ae32d9ed54"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local heritage visitor programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "dcf9db6e37883bddf392f19495587675c95914678603d038b59be12a9b4a7401"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local heritage visitor programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "85feee5ad18b661218a27a2af80835a6aba60514fc471d5eca7c7e0d4d1436e4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local heritage visitor programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4c413718af8c9d8e11acc1fc357dd86b8578706c34238c855846687598ea8e62"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local heritage visitor programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2c2dfd480547c372d98c824a1ffb6bbbe438376d587887a625f0ffab5742d285"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local heritage visitor programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "096b3692c27767a3599c70f7cd500b5822816e8d3d9453fb09066f445d7e2f66"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local heritage visitor programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "10b5261b33c7630cce08a798bf197f30c3df1c12feb6b40c9c17d033849a6b16"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local heritage visitor programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "641a16c9405a40fbb7eafb379157fda4d478f0b01bbbeb2e56d14473c45fe157"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local heritage visitor programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d26b9ceb8c0b2ae5da7a9137aa47efffab95dc6951123c0b279aea9c5acb8d64"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning tourism and local heritage often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the local heritage visitor programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关旅游与地方文化保护的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "c5506e0b5a7708ecabdd7841b1bf502d8a41651becb97330c87d67c496af916b",
+      "referenceAnswerFingerprint": "6011978e4d416a9828abf48a1567aa984b2b4bb8ca500bbcad60b280badbc41f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the heritage visitor team proposing a small improvement to the local heritage visitor programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local heritage visitor programme. People have noticed all tours beginning at the same entrance, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "407f11d6e56253f0218f32502185c4eb293088ad4153638c1e3c6dbb79b3ad05",
+      "sampleAnswerFingerprint": "79edba2b01e28421aa72a03e8880af319c05b103320bd74c51446070f229f4a9"
+    }
+  ],
+  "fingerprintManifest": [
+    "c8011383fcc9c53cd5c7b7f493f4d7c35903e6e1bd70e2c43756f09e93e4f4a6",
+    "05bf11e2dc2cf3e8c98ed69761ca67710f297d9ac995206dfd4e74531b3f303c",
+    "a6cb8a8e1d98a7579d7d4c8d7e2cc28c70fe97f148f4e4b1eb666e6cadc784b0",
+    "cf5eae84f1e6c1b1dd0ad48a437dbba0afd950f42218bef3822c9f14a8a25884",
+    "c684369d25038f2b525d2a480bcfd53c4ff5958fa6f296a73d7a2c522f8b09dd",
+    "35350499404cb2dafc53767af08b650155cf0c66a74f8bbe6ecf0ffc017f308c",
+    "8e01457a433a3b1aee71af662b20f9a724f8c6c899aba906c5197a7c468a6814",
+    "f5758890a43af190bda44de047d454cf4e63f99b74adeae405b03f76a8904dc6",
+    "c161cb248de8e21c7121dcba14f47c6516a1bc0668d739cfc30d89034f687f7c",
+    "3b342ad9be8c3b0eedce60f82c5e399609c208c7c725b3edfdfd935e0d812d20",
+    "bc449c9317ede860f052dcc7ffa7df22c32408fbda03172868f22925a8cd1f32",
+    "85646629b5a89a46e115208dfe9cb6f880f06c05bcefe11fa4f6aa1f0e63a3fb",
+    "15f095fbb4002086384c3602c0c5814bb9b6a80cf844a87ba4f996db4a5c5c62",
+    "51e8205953fc397ba98bf78a6589c1aa9bc549d6ceed8fd98c420b09ddff3fc5",
+    "4a5c6a0a1681ece1b9cf1d50c6873a022d93ebbf106d9d1a0edf340f4443f089",
+    "57f9af5308c4246f84554c88532c98c3bec6e7414177d44bf3b8f2e5b3ecf2d3",
+    "0d9e2fe68e7758ed233da1b7d019d8f8dff20071126117754d73a0af4e6172c3",
+    "9c8e1e80788fceb3915efd0be43fc48eccd26a5b4100315dec101f02f3b5ca7f",
+    "d9874205f07d7bf8e9f214a369aa9c0e2b8e31b34288f489a629576ae2fdeb24",
+    "16853caac1dc3a2cbe198243530e5b36b37d5b37212b831aed5fca7a094b3ea5",
+    "262088f80f8446f97a42f6b7d8d226fe568ec22d0b96442675f165c6324494e3",
+    "4d5ffd816460d357f7c654a75418ec73cc06b31af619439e1b6460510b880845",
+    "4bcfb56ef62a98e0fa0acb5e2750e6ce1bbbef9044e13e687bd03f4a9ce20ae9",
+    "d700a4706d5830d81b0fd649071396569c4671e6fb12697bbe2e61bc0121b381",
+    "cdb248ae6f504d9816b870a0562711dc374b099a0c5d8cac3e9d11ba2624ca57",
+    "afe6885aaa001b37ef9f7d6fa2e3bcfd19fbb7bcac7083286ff67e66855bbb22",
+    "0e4ecf6d29210167d6254f6aea8cc4bb025c6dddf557a6e1aeff186c009dc8fe",
+    "de7da04f79b81e60a9e4019a92e80d3681dbb739f9715fa0bc02b447b2e7a51c",
+    "850313f16679ba11074ec40c5fc5f4cd89d2eae44b93106a2f07a745156c00e2",
+    "ee1dd264c766ea4e0a62ff04dc09cf4adaac571f2ddb9c38211f7f63f06cb4a7",
+    "119e8732fc3f7080853a52ead66f085aa3ef5af1d9fa754176fb018f8a94fb91",
+    "007343a89406fa5e57858e95c90a7006a45c7854fad1e6c6ad4b2873250a46ae",
+    "d3c0923354c9be285b790e0877384a3e420c8dbd62779451576d4673cc197f70",
+    "0881828bb2478412afcacb49e3041e84ef82c9f2d5da6282b70c1042a5c3fe35",
+    "933a2b87fe379863da997cb68338cad276029833857505c94de8678a9f84c5bf",
+    "ac961b028d0bc2af6a8b826eff4b73383665d6fee71ec4fa4d07d13d778a76ed",
+    "989e22f949da396a52b96e7638c9e92e5fe21bad3bdd334d6467203e0d717d8d",
+    "4ac5419811a693f24f9ae51f3d3a1c8284edbd0b2c64b99b0d227a505abb50f4",
+    "6b652eb81118a4e2f1b7495500ab707b0fd3aa9622c3e261bd92c6477170fba9",
+    "09721ef067b9ec5e5b3bcaa5f9c1942eb08ff1ebf4460270c2a3685742425684",
+    "b65dc41df41ead3b83078b67d7fd07ff74c6a20c4822406edf9a66e71210e12b",
+    "8b5c86b8837b665c819db909fbe196442e8668731bf8ca5c7d432f0c3e3f3abe",
+    "23a3c12dcada1cd01bf63aeb48ad02a830cba749e3055ff9eb5173fb51e42d39",
+    "ad8d6c762eceec7e62d258a3fc678d739b0db2726b8ed289d75d6aef08f23c14",
+    "4834c0f240ec8829eb56bafacc9b74df4f0757ebd10e82a52a82efb5ac757bf4",
+    "b60ee225fbe2fbeda35757fbc4efdeb9367fb69c28158a82e4d7da26fb065df7",
+    "618780f903824fcfbf312337448ff8f7b099260ea06af5e046318ce547187e48",
+    "7637fe66a7bd50b462b07d4b1104dc89f5f6f1909304a24adcca830d91e4ddc5",
+    "7733a4b604d29c9972a978e0e26e3aedebcb5ad78ce0fa394a9922ae32d9ed54",
+    "dcf9db6e37883bddf392f19495587675c95914678603d038b59be12a9b4a7401",
+    "85feee5ad18b661218a27a2af80835a6aba60514fc471d5eca7c7e0d4d1436e4",
+    "4c413718af8c9d8e11acc1fc357dd86b8578706c34238c855846687598ea8e62",
+    "2c2dfd480547c372d98c824a1ffb6bbbe438376d587887a625f0ffab5742d285",
+    "096b3692c27767a3599c70f7cd500b5822816e8d3d9453fb09066f445d7e2f66",
+    "10b5261b33c7630cce08a798bf197f30c3df1c12feb6b40c9c17d033849a6b16",
+    "641a16c9405a40fbb7eafb379157fda4d478f0b01bbbeb2e56d14473c45fe157",
+    "d26b9ceb8c0b2ae5da7a9137aa47efffab95dc6951123c0b279aea9c5acb8d64",
+    "c5506e0b5a7708ecabdd7841b1bf502d8a41651becb97330c87d67c496af916b",
+    "6011978e4d416a9828abf48a1567aa984b2b4bb8ca500bbcad60b280badbc41f",
+    "407f11d6e56253f0218f32502185c4eb293088ad4153638c1e3c6dbb79b3ad05",
+    "79edba2b01e28421aa72a03e8880af319c05b103320bd74c51446070f229f4a9"
+  ],
+  "contentFingerprint": "143085a5b08cf6d377bdd0d7d6efeefbeb5fee84b7a023b4ed3266193ea38c27"
+}

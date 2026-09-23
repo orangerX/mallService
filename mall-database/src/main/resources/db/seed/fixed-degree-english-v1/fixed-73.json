@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-73",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 73 · 媒介与信息素养",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 73,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to checking a photograph before sharing",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about checking a photograph before sharing. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the information literacy team that you plan to attend.",
+        "C": "Yes, signs will lead you from the media learning desk.",
+        "D": "Certainly. Send your question to the information literacy team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "04c051f8af433bdfbcfd429a9f4eaac3b2bf27edb75faba1830a85b132bbd660",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to checking a photograph before sharing”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the information literacy team that you plan to attend.",
+            "C": "Yes, signs will lead you from the media learning desk.",
+            "D": "Certainly. Send your question to the information literacy team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9383b00053d0afc8c33e0e6ad1c45fd920cfd3488e8945890d6634c657a433b7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to checking a photograph before sharing”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the information literacy team that you plan to attend.",
+            "C": "Yes, signs will lead you from the media learning desk.",
+            "D": "Certainly. Send your question to the information literacy team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bbc6816497a80929dc8d4079c5ecc8fb767ae867032e5561f00c870dac732555"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to checking a photograph before sharing”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the information literacy team that you plan to attend.",
+            "C": "Yes, signs will lead you from the media learning desk.",
+            "D": "Certainly. Send your question to the information literacy team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "58b6895598d0f10ff64058e9a8d958b64a1b61368ae1704c0fb67fea89966146"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to checking a photograph before sharing”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the information literacy team that you plan to attend.",
+            "C": "Yes, signs will lead you from the media learning desk.",
+            "D": "Certainly. Send your question to the information literacy team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0334e10a9df25ae0a53c4d6a53103476000825002fe66ba8a1842c550b1536a7"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying reading a survey headline",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about reading a survey headline is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the media learning desk.",
+        "D": "Please send it to the information literacy team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b1e46456546693c93d6927e15b86abda3543b30a6e4196da92eeda89e472a331",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying reading a survey headline”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the media learning desk.",
+            "D": "Please send it to the information literacy team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bf05199865b6fae85cdabc4eee5972fa30590a18a28002efefa7f3779cb350e9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying reading a survey headline”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the media learning desk.",
+            "D": "Please send it to the information literacy team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f89fb3c12c650c8256c14968fd9ad63bb91e629228d96e0fdc1e6f2cb6505c7f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying reading a survey headline”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the media learning desk.",
+            "D": "Please send it to the information literacy team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cb28d655672b5f15e3840b73a517f13ad3a78729da7dfd25023e5d69afe73dc7"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on finding the source of health advice",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about finding the source of health advice last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "0cb0e94ad76e6f04729b686d2b4726ce9604d82a795d1f85d36f1a73eb8b8ce1",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on finding the source of health advice”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "976f3fed6ba8f3f6f036349e3c925a1721c8689636df72c59c1ce55e8de8b518"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on finding the source of health advice”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "b852fdeb6b40adbf46380c83210d12346b2c0f65afe7f8a0fe40c7e3ebdc0b45"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on finding the source of health advice”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "604d49e7bf6a640f0fcefa8872e217cc68ca45d5c657cae997e8e6c2b12a4ba3"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Checking a photograph before sharing",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood group received a dramatic photograph said to show a recent local flood. Several members recognised an older building in the background. The main obstacle was an image without a reliable date. The message named no photographer or exact location, yet it spread quickly through chat groups. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a search for the original image source. Members compared visible landmarks and found an archived version from a different year. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the photograph was old and misleadingly described. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a correction linked to the dated original. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: a convincing image still needs context. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in checking a photograph before sharing, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "e6a3788720bad881d9ebeafa3856616b6f488930cfa16ad7ed5c550074835464",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Checking a photograph before sharing: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a headline that overstated limited responses",
+            "B": "an image without a reliable date",
+            "C": "advice without an identifiable expert",
+            "D": "a title that distorted the full announcement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f47398a8181a6a93b8b7f534be56267285e96acf0f290c9da1caf6051052f692"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Checking a photograph before sharing: What method was used to investigate the situation?",
+          "options": {
+            "A": "a look at sample size and recruitment",
+            "B": "a check against official health information",
+            "C": "a search for the original image source",
+            "D": "a comparison with the school statement"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "aaf3c1c39fd2e743e19adfcc0fb052d96d7a561be19ab595b131522bba2f11e7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Checking a photograph before sharing: What did the evidence indicate?",
+          "options": {
+            "A": "the result could not represent all residents",
+            "B": "several claims lacked supporting evidence",
+            "C": "classes were continuing in another room",
+            "D": "the photograph was old and misleadingly described"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "78ecfe5baf9c20f896b2e08a32a663127384bcc13118bda1799abf8f025bc691"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Checking a photograph before sharing: How was the arrangement changed?",
+          "options": {
+            "A": "a correction linked to the dated original",
+            "B": "a summary that reports who answered",
+            "C": "a source checklist and a link to qualified guidance",
+            "D": "a short correction that quotes the timetable"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "7d5b4ad6925d2f1995539875893b714d4529d92e8d1541c00797166ce9d42b23"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Checking a photograph before sharing: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "numbers require an explanation of their source",
+            "B": "a convincing image still needs context",
+            "C": "important claims deserve traceable evidence",
+            "D": "reading beyond a headline prevents confusion"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d1ff9392b015c200a22098fd6f34c7fb573c8d2b1270ac6b7169e9908f83e242"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Reading a survey headline",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A news page claimed that almost everyone wanted a new park rule. The linked survey had been answered by only a small group. The main obstacle was a headline that overstated limited responses. Most respondents belonged to one club and had been invited through its own mailing list. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a look at sample size and recruitment. Students read the method notes and compared the headline with the actual survey question. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated the result could not represent all residents. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a summary that reports who answered. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: numbers require an explanation of their source. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in reading a survey headline, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "4d0f7eabf1f5a606155f86bdec4774c15ff5fe4957a824c5e2a99d2c367c0af6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Reading a survey headline: What problem did the people involved notice?",
+          "options": {
+            "A": "an image without a reliable date",
+            "B": "advice without an identifiable expert",
+            "C": "a title that distorted the full announcement",
+            "D": "a headline that overstated limited responses"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5bff270f2014c75fbabe0cbd2c06413a7bbb36ef176ea69f59bbfbfb39681307"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Reading a survey headline: What was the first investigative step?",
+          "options": {
+            "A": "a look at sample size and recruitment",
+            "B": "a search for the original image source",
+            "C": "a check against official health information",
+            "D": "a comparison with the school statement"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "80d45c4177171fe02402a5887ce183cbc10007fad7d6eb48cc71ec98e441e2f9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Reading a survey headline: What was learned from the records?",
+          "options": {
+            "A": "the photograph was old and misleadingly described",
+            "B": "the result could not represent all residents",
+            "C": "several claims lacked supporting evidence",
+            "D": "classes were continuing in another room"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cd2e770bc0948c551df5b79a269b361fb0ce4bdee784fb086cf6cf0eb27ebe19"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Reading a survey headline: What adjustment followed?",
+          "options": {
+            "A": "a correction linked to the dated original",
+            "B": "a source checklist and a link to qualified guidance",
+            "C": "a summary that reports who answered",
+            "D": "a short correction that quotes the timetable"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f14f24eb91d302fd54198b96fa3e8e44ed26895cc9e9351961987dfa42daa11e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Reading a survey headline: What is the central message?",
+          "options": {
+            "A": "a convincing image still needs context",
+            "B": "important claims deserve traceable evidence",
+            "C": "reading beyond a headline prevents confusion",
+            "D": "numbers require an explanation of their source"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "09cb7a611eb2b972e4336418af27fad4c937d68a1485b742d8f1f0dc7dc2469c"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Finding the source of health advice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A popular post offered simple health advice but named no author. Readers in a class asked whether its claims came from qualified sources. The main obstacle was advice without an identifiable expert. The post used confident language and attractive images in place of references. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a check against official health information. The tutor compared the claims with current material from a recognised health service. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated several claims lacked supporting evidence. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a source checklist and a link to qualified guidance. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: important claims deserve traceable evidence. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in finding the source of health advice, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "28dd341c5a5160cdd863e2ecd91599714e80fe09b39105a8c97f229f1ce57cc5",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Finding the source of health advice: Why was the original plan difficult to use?",
+          "options": {
+            "A": "an image without a reliable date",
+            "B": "advice without an identifiable expert",
+            "C": "a headline that overstated limited responses",
+            "D": "a title that distorted the full announcement"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "94d6d470c62d1883264cd94bf77ca191fefde6b11934be0cab97ef2b829d449f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Finding the source of health advice: How did the team gather information?",
+          "options": {
+            "A": "a search for the original image source",
+            "B": "a look at sample size and recruitment",
+            "C": "a check against official health information",
+            "D": "a comparison with the school statement"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f4b43ce6011dcc45ae5805252e1572f85b84c992f7ed354ffd57986e962e5b2b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Finding the source of health advice: What did the team discover?",
+          "options": {
+            "A": "the photograph was old and misleadingly described",
+            "B": "the result could not represent all residents",
+            "C": "classes were continuing in another room",
+            "D": "several claims lacked supporting evidence"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8ad200fab4aca35267ec3607473cc4055c693e8c5e799325670c98aaecad8f65"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Finding the source of health advice: What did it do in response?",
+          "options": {
+            "A": "a source checklist and a link to qualified guidance",
+            "B": "a correction linked to the dated original",
+            "C": "a summary that reports who answered",
+            "D": "a short correction that quotes the timetable"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4e96dbd8a78bf35b438922cfcc9d78b3f3567bda4095eb6f17a336d9546df17c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Finding the source of health advice: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "a convincing image still needs context",
+            "B": "important claims deserve traceable evidence",
+            "C": "numbers require an explanation of their source",
+            "D": "reading beyond a headline prevents confusion"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d668583fe2b6ebf516d9b3e700f9389681d52dfa9dbe2c87136965b2c6f9b8cc"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A headline about a school change",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Parents saw an online headline saying a school had cancelled its music classes. The article described only a temporary room move. The main obstacle was a title that distorted the full announcement. Some readers shared the headline without opening the detailed notice. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a comparison with the school statement. Parents checked the published timetable and asked staff which lessons were affected. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated classes were continuing in another room. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a short correction that quotes the timetable. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: reading beyond a headline prevents confusion. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a headline about a school change, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "4a87eef4b5870a4fb50dcb9e9fb7629ec7b96ef69c0b3fe818841c95d06f359d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A headline about a school change: What was the main obstacle?",
+          "options": {
+            "A": "an image without a reliable date",
+            "B": "a headline that overstated limited responses",
+            "C": "advice without an identifiable expert",
+            "D": "a title that distorted the full announcement"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e80016529b642afad2f9fd0ac467db3af010b4d5a256c68387dde9b8e792f1e1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A headline about a school change: How was the idea examined?",
+          "options": {
+            "A": "a comparison with the school statement",
+            "B": "a search for the original image source",
+            "C": "a look at sample size and recruitment",
+            "D": "a check against official health information"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5998b000217c30ae7ba938f2edbf7eb00f1f7891f0a2773d39ff87c357ed7b56"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A headline about a school change: Which finding shaped the decision?",
+          "options": {
+            "A": "the photograph was old and misleadingly described",
+            "B": "classes were continuing in another room",
+            "C": "the result could not represent all residents",
+            "D": "several claims lacked supporting evidence"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "00e20cc765bffd074314ed3822d1f129e454196ad299987f29faf8e939744604"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A headline about a school change: What change did the group make?",
+          "options": {
+            "A": "a correction linked to the dated original",
+            "B": "a summary that reports who answered",
+            "C": "a short correction that quotes the timetable",
+            "D": "a source checklist and a link to qualified guidance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "92d5ae2bcf672ec11d59492509fa2191797ac1b70ccf29207ee1c8f38d0bba6e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A headline about a school change: What lesson does the writer emphasize?",
+          "options": {
+            "A": "a convincing image still needs context",
+            "B": "numbers require an explanation of their source",
+            "C": "important claims deserve traceable evidence",
+            "D": "reading beyond a headline prevents confusion"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1e60b290816ae72e19f1706e31ffac2c719c50d0fe902f937d8f656876c7792d"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the community media learning programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "126d5b386b851789debed58987d1db2e753a9a2cd23fc7dab63ed41f6ba2f10c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the community media learning programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4d5c7f68c888ac72f27270c83f5fe5c9eb9239197ac21e311a885191245ac9f4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the community media learning programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fe2ea2b3edd857693375020ba2601a77cd4afb2e38babf2e01d5bc630d8d9010"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the community media learning programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a27d3051afe9e43a84450d7656476d2edaadaae3d4463768367f35d59a9097f1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the community media learning programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "83723837411956aec9b0bd061858eb3fe19b43a472e690c737dbc018f46cb7db"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the community media learning programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "98d9d85b53e46f7fe23581e66253af27cd57fa50edc9e046966f7f6f82917ffa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the community media learning programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "57e39a4de9a836fbc00008fe4ae9c00de6e6905652954fc5017caddfbf724e91"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the community media learning programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a61e6f13b2d60e9847348e6324871eff76f383c18dcb9460c22b2646370ad12c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the community media learning programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e96f2aa0287a3dc93fa5344c04c4170188a827fd372347d0deee67c6ccad4eb1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the community media learning programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "828a5282d50b0b6300d1a2829dc3a788899ddd6f3d73d8e0f6a0aa2a7ce1b8c4"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community media learning programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "768ed0c0ac8c545c71828a201b0e734df1f49994fb2379a9bfc65b9e92da2d50"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community media learning programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c5d5de454b5e335533e19bdaa3b0fd830429f20d3744125342a4492480e9af6b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community media learning programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "deceab6e7d4eead34f8768d7f087da3e714f5f6cb5fb59892a206e2a7cdf5c81"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community media learning programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dd63fce18451792d9d29e5e3f1b260b9651582dfaff3842fa74af6249714f199"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community media learning programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2fa48efef91f4bd23dc1760c1c3382a9212b73ada83dd558c0a89ab9e6786eef"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community media learning programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b346685a2da0dc4d829515313c253f9859cb079ff30140db9e802d88da6d9847"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community media learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "762e34a636861189ffe9ba10659ded2d7c3da5e95596cfd0e6507cc31c3dbda8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community media learning programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8f41fe1d522afd703ec3112ab45f253c81ab68075b00ab5e781a2d541deaf259"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community media learning programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7d3db73282d1934cc5f285ac52ee621649c20c1f0ab4fbf06ce6f63d2efb9570"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community media learning programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5759d82f3190166a761a8d0f2f355d3957fa266bc2a9ac336668975530578f16"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for media and information literacy must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the community media learning programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于媒介与信息素养的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "f78920687272ca2ecb3061239f961494964c6b19109bb302e19f4daf613195c0",
+      "referenceAnswerFingerprint": "270a3d54c74f5873558d4e23429f7d615ba49812bb43d3999ed1c5f90f96baf0"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the information literacy team about a community activity related to media and information literacy. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community media learning programme. People have noticed an image without a reliable date, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "0d061130001e636de2892772ccf6ae41efff0b4bc717eed11842ca1541019a24",
+      "sampleAnswerFingerprint": "746f0d04a75e85f7e2d744fc8da8a28d59ff8ba2ddf862b9dba318146cc98e12"
+    }
+  ],
+  "fingerprintManifest": [
+    "04c051f8af433bdfbcfd429a9f4eaac3b2bf27edb75faba1830a85b132bbd660",
+    "9383b00053d0afc8c33e0e6ad1c45fd920cfd3488e8945890d6634c657a433b7",
+    "bbc6816497a80929dc8d4079c5ecc8fb767ae867032e5561f00c870dac732555",
+    "58b6895598d0f10ff64058e9a8d958b64a1b61368ae1704c0fb67fea89966146",
+    "0334e10a9df25ae0a53c4d6a53103476000825002fe66ba8a1842c550b1536a7",
+    "b1e46456546693c93d6927e15b86abda3543b30a6e4196da92eeda89e472a331",
+    "bf05199865b6fae85cdabc4eee5972fa30590a18a28002efefa7f3779cb350e9",
+    "f89fb3c12c650c8256c14968fd9ad63bb91e629228d96e0fdc1e6f2cb6505c7f",
+    "cb28d655672b5f15e3840b73a517f13ad3a78729da7dfd25023e5d69afe73dc7",
+    "0cb0e94ad76e6f04729b686d2b4726ce9604d82a795d1f85d36f1a73eb8b8ce1",
+    "976f3fed6ba8f3f6f036349e3c925a1721c8689636df72c59c1ce55e8de8b518",
+    "b852fdeb6b40adbf46380c83210d12346b2c0f65afe7f8a0fe40c7e3ebdc0b45",
+    "604d49e7bf6a640f0fcefa8872e217cc68ca45d5c657cae997e8e6c2b12a4ba3",
+    "e6a3788720bad881d9ebeafa3856616b6f488930cfa16ad7ed5c550074835464",
+    "f47398a8181a6a93b8b7f534be56267285e96acf0f290c9da1caf6051052f692",
+    "aaf3c1c39fd2e743e19adfcc0fb052d96d7a561be19ab595b131522bba2f11e7",
+    "78ecfe5baf9c20f896b2e08a32a663127384bcc13118bda1799abf8f025bc691",
+    "7d5b4ad6925d2f1995539875893b714d4529d92e8d1541c00797166ce9d42b23",
+    "d1ff9392b015c200a22098fd6f34c7fb573c8d2b1270ac6b7169e9908f83e242",
+    "4d0f7eabf1f5a606155f86bdec4774c15ff5fe4957a824c5e2a99d2c367c0af6",
+    "5bff270f2014c75fbabe0cbd2c06413a7bbb36ef176ea69f59bbfbfb39681307",
+    "80d45c4177171fe02402a5887ce183cbc10007fad7d6eb48cc71ec98e441e2f9",
+    "cd2e770bc0948c551df5b79a269b361fb0ce4bdee784fb086cf6cf0eb27ebe19",
+    "f14f24eb91d302fd54198b96fa3e8e44ed26895cc9e9351961987dfa42daa11e",
+    "09cb7a611eb2b972e4336418af27fad4c937d68a1485b742d8f1f0dc7dc2469c",
+    "28dd341c5a5160cdd863e2ecd91599714e80fe09b39105a8c97f229f1ce57cc5",
+    "94d6d470c62d1883264cd94bf77ca191fefde6b11934be0cab97ef2b829d449f",
+    "f4b43ce6011dcc45ae5805252e1572f85b84c992f7ed354ffd57986e962e5b2b",
+    "8ad200fab4aca35267ec3607473cc4055c693e8c5e799325670c98aaecad8f65",
+    "4e96dbd8a78bf35b438922cfcc9d78b3f3567bda4095eb6f17a336d9546df17c",
+    "d668583fe2b6ebf516d9b3e700f9389681d52dfa9dbe2c87136965b2c6f9b8cc",
+    "4a87eef4b5870a4fb50dcb9e9fb7629ec7b96ef69c0b3fe818841c95d06f359d",
+    "e80016529b642afad2f9fd0ac467db3af010b4d5a256c68387dde9b8e792f1e1",
+    "5998b000217c30ae7ba938f2edbf7eb00f1f7891f0a2773d39ff87c357ed7b56",
+    "00e20cc765bffd074314ed3822d1f129e454196ad299987f29faf8e939744604",
+    "92d5ae2bcf672ec11d59492509fa2191797ac1b70ccf29207ee1c8f38d0bba6e",
+    "1e60b290816ae72e19f1706e31ffac2c719c50d0fe902f937d8f656876c7792d",
+    "126d5b386b851789debed58987d1db2e753a9a2cd23fc7dab63ed41f6ba2f10c",
+    "4d5c7f68c888ac72f27270c83f5fe5c9eb9239197ac21e311a885191245ac9f4",
+    "fe2ea2b3edd857693375020ba2601a77cd4afb2e38babf2e01d5bc630d8d9010",
+    "a27d3051afe9e43a84450d7656476d2edaadaae3d4463768367f35d59a9097f1",
+    "83723837411956aec9b0bd061858eb3fe19b43a472e690c737dbc018f46cb7db",
+    "98d9d85b53e46f7fe23581e66253af27cd57fa50edc9e046966f7f6f82917ffa",
+    "57e39a4de9a836fbc00008fe4ae9c00de6e6905652954fc5017caddfbf724e91",
+    "a61e6f13b2d60e9847348e6324871eff76f383c18dcb9460c22b2646370ad12c",
+    "e96f2aa0287a3dc93fa5344c04c4170188a827fd372347d0deee67c6ccad4eb1",
+    "828a5282d50b0b6300d1a2829dc3a788899ddd6f3d73d8e0f6a0aa2a7ce1b8c4",
+    "768ed0c0ac8c545c71828a201b0e734df1f49994fb2379a9bfc65b9e92da2d50",
+    "c5d5de454b5e335533e19bdaa3b0fd830429f20d3744125342a4492480e9af6b",
+    "deceab6e7d4eead34f8768d7f087da3e714f5f6cb5fb59892a206e2a7cdf5c81",
+    "dd63fce18451792d9d29e5e3f1b260b9651582dfaff3842fa74af6249714f199",
+    "2fa48efef91f4bd23dc1760c1c3382a9212b73ada83dd558c0a89ab9e6786eef",
+    "b346685a2da0dc4d829515313c253f9859cb079ff30140db9e802d88da6d9847",
+    "762e34a636861189ffe9ba10659ded2d7c3da5e95596cfd0e6507cc31c3dbda8",
+    "8f41fe1d522afd703ec3112ab45f253c81ab68075b00ab5e781a2d541deaf259",
+    "7d3db73282d1934cc5f285ac52ee621649c20c1f0ab4fbf06ce6f63d2efb9570",
+    "5759d82f3190166a761a8d0f2f355d3957fa266bc2a9ac336668975530578f16",
+    "f78920687272ca2ecb3061239f961494964c6b19109bb302e19f4daf613195c0",
+    "270a3d54c74f5873558d4e23429f7d615ba49812bb43d3999ed1c5f90f96baf0",
+    "0d061130001e636de2892772ccf6ae41efff0b4bc717eed11842ca1541019a24",
+    "746f0d04a75e85f7e2d744fc8da8a28d59ff8ba2ddf862b9dba318146cc98e12"
+  ],
+  "contentFingerprint": "3c810c2cff2fb11d0a87fae157215f1f271806171001cd567a0757ccbbb2b467"
+}

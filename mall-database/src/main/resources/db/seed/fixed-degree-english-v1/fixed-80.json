@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-80",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 80 · 循环利用与物品维修",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 80,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about a repair cafe with long waits",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to a repair cafe with long waits. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the reuse centre counter.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the community repair team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "d81c503dfd153d5217a93c1df2a90c3d189b2bd75b1144c6269f52b13a7321b7",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about a repair cafe with long waits”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the reuse centre counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the community repair team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e3b2770e90d07f50a44e186dde41ab1243faaec0c1c2904267a8edb06398efc7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about a repair cafe with long waits”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the reuse centre counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the community repair team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bea2ad611a77c9914d8e35b034494321fbd4cfcea81fe28f02ace8e43d6cd76a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about a repair cafe with long waits”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the reuse centre counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the community repair team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "de123e4926a443f726b3c638763143f72727077bf266ae3ec154c062cf08c5a1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about a repair cafe with long waits”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the reuse centre counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the community repair team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9253efc250992a126563c1a9fc7ebcf142eeebb23966020748197c8f6ded64b3"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying sorting donated winter coats",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about sorting donated winter coats is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the reuse centre counter.",
+        "D": "Please send it to the community repair team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "4ba2624d84b1e62de9d78fcd3228245f4492b18df998bc3cd77dd15bea9ab8f4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying sorting donated winter coats”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reuse centre counter.",
+            "D": "Please send it to the community repair team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2b74c27841560717f22505a8d9d75a6cca69aa870a101c45c301c6af98aa5d88"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying sorting donated winter coats”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reuse centre counter.",
+            "D": "Please send it to the community repair team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "663d5e73935d67c38fb0f7e3cd2a66756364f903c0dbbcb20c40f0c9eef75642"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying sorting donated winter coats”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the reuse centre counter.",
+            "D": "Please send it to the community repair team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "290a73362fd6d027cf0d1bc109ccfbc5136460fa9f094c7f80d4e964d7516e56"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on explaining a shared tool library",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about explaining a shared tool library last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "15a84acf0c0dbe1a3e606710a9292c7f795fcc6878b9e2959eb26fd2689ef77b",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on explaining a shared tool library”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1db856c0a1fde5c787d42880a5a2381e7b014852c13864188edfda9196cda209"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on explaining a shared tool library”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ccd37d9ac34a1a5866a644f865bd80928f39081019bba16e87af4dbc07ee3626"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on explaining a shared tool library”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "35534b5f4d2b14a1069ce4842e0db686ac8e566bcb0b21e2f65c8b613fee2ed7"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A repair cafe with long waits",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A volunteer repair cafe attracted people with broken household items. Visitors sometimes waited an hour before learning an item could not be repaired there. The main obstacle was no early assessment of repair requests. The team had limited tools and could not handle certain electrical products safely. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a record of items and waiting times. Volunteers counted common requests and listed the skills and equipment available each week. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated early information could prevent wasted visits. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a pre-visit checklist and a short triage desk. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: repair services must state their limits clearly. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a repair cafe with long waits, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "931f10dded8a4a618eb7a93233195da674275bc500ae5012b552fca1ff516d30",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A repair cafe with long waits: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "no early assessment of repair requests",
+            "B": "donations stored without size or condition labels",
+            "C": "availability shown only on a paper board",
+            "D": "clothes mixed without accurate sizes"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9ab182cfa4ab46e437eaac6780e586bc2d668291065c4c43dfd5651d5354bfbe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A repair cafe with long waits: What method was used to investigate the situation?",
+          "options": {
+            "A": "a sorting trial by size and condition",
+            "B": "a record of items and waiting times",
+            "C": "a review of reservations and repeated calls",
+            "D": "measurements and a trial exchange day"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "32a66544bec71cb6ba30a4a5ddb20b7799f95c690887629cab0185bcdd75f7aa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A repair cafe with long waits: What did the evidence indicate?",
+          "options": {
+            "A": "simple categories improved both access and flow",
+            "B": "current availability was the first question",
+            "C": "early information could prevent wasted visits",
+            "D": "measured categories made choices easier"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7f897a3af5a0bb7f55dc5937315b28d995e5fee34f3ab81286e125e5e4d5f9b7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A repair cafe with long waits: How was the arrangement changed?",
+          "options": {
+            "A": "clearly marked racks and regular quality checks",
+            "B": "a simple updated booking list with telephone access",
+            "C": "size guides and separate condition notes",
+            "D": "a pre-visit checklist and a short triage desk"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "72c144102100bb3f1e1f88097ea29bf511ce53d82638a7fb904c912fdaf99d82"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A repair cafe with long waits: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "repair services must state their limits clearly",
+            "B": "reuse depends on finding the right item",
+            "C": "sharing works when access is predictable",
+            "D": "reuse succeeds through clear practical information"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4d30f212dbb7199fa282be73df2fb4be7102d94fc1eaa9c44ef03a1fc6d9be97"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Sorting donated winter coats",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A reuse centre received many winter coats. Some good items were hidden in crowded boxes and were not taken before the season ended. The main obstacle was donations stored without size or condition labels. Visitors opened several boxes to find a suitable coat while volunteers struggled to restock shelves. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a sorting trial by size and condition. Staff recorded which coats were chosen and where people spent the most time searching. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated simple categories improved both access and flow. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced clearly marked racks and regular quality checks. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: reuse depends on finding the right item. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in sorting donated winter coats, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "4463eb63f070042a9703a7d0bee860b208909e38ceb4e5ffcc3fb46e91740e90",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Sorting donated winter coats: What problem did the people involved notice?",
+          "options": {
+            "A": "no early assessment of repair requests",
+            "B": "availability shown only on a paper board",
+            "C": "donations stored without size or condition labels",
+            "D": "clothes mixed without accurate sizes"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c36f0a5b55cfd123f78a7e889bdc9f9a33470e30cae542f98d643d7f35e4eb24"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Sorting donated winter coats: What was the first investigative step?",
+          "options": {
+            "A": "a record of items and waiting times",
+            "B": "a review of reservations and repeated calls",
+            "C": "measurements and a trial exchange day",
+            "D": "a sorting trial by size and condition"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f98ce8bbe2674590294c8854d49e27bbe8371a38ff49cca3a178d4d930c4b3f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Sorting donated winter coats: What was learned from the records?",
+          "options": {
+            "A": "simple categories improved both access and flow",
+            "B": "early information could prevent wasted visits",
+            "C": "current availability was the first question",
+            "D": "measured categories made choices easier"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "02048d0a3cd945fc8c36ea9bd3214055a562874ef6a9994ef66cfef1bc2f41e4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Sorting donated winter coats: What adjustment followed?",
+          "options": {
+            "A": "a pre-visit checklist and a short triage desk",
+            "B": "clearly marked racks and regular quality checks",
+            "C": "a simple updated booking list with telephone access",
+            "D": "size guides and separate condition notes"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "89ddfce00ce303c386b0901b369474c1b2311075476394be35b80bb8b2d44d9d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Sorting donated winter coats: What is the central message?",
+          "options": {
+            "A": "repair services must state their limits clearly",
+            "B": "sharing works when access is predictable",
+            "C": "reuse depends on finding the right item",
+            "D": "reuse succeeds through clear practical information"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4f3027429c8b35b1779dbe960913e2d147149b04cd3f185a90ad875f695b8900"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Explaining a shared tool library",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A neighbourhood group lent tools for small home tasks. Members often asked for equipment that was already reserved. The main obstacle was availability shown only on a paper board. The board at the centre did not help people planning a task from home. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a review of reservations and repeated calls. Volunteers asked members which information they needed before travelling. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated current availability was the first question. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a simple updated booking list with telephone access. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: sharing works when access is predictable. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in explaining a shared tool library, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "ff7de1ec5d9ddfb9d108328f983f3e1487d40a77885ab87016cb00be749dc9f6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Explaining a shared tool library: Why was the original plan difficult to use?",
+          "options": {
+            "A": "availability shown only on a paper board",
+            "B": "no early assessment of repair requests",
+            "C": "donations stored without size or condition labels",
+            "D": "clothes mixed without accurate sizes"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4f2ed7581bf86f808f520256d4448c9f6df271c7f5a156aebdc3499042c208c1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Explaining a shared tool library: How did the team gather information?",
+          "options": {
+            "A": "a record of items and waiting times",
+            "B": "a review of reservations and repeated calls",
+            "C": "a sorting trial by size and condition",
+            "D": "measurements and a trial exchange day"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "27136d71714d6048764a0af9397eae42b156bfc90d911880868a073bb147010e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Explaining a shared tool library: What did the team discover?",
+          "options": {
+            "A": "early information could prevent wasted visits",
+            "B": "simple categories improved both access and flow",
+            "C": "current availability was the first question",
+            "D": "measured categories made choices easier"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1ef63c3faf23915489ebd843b87ed671e3dd97e290c04ed0c25640ab0887c4eb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Explaining a shared tool library: What did it do in response?",
+          "options": {
+            "A": "a pre-visit checklist and a short triage desk",
+            "B": "clearly marked racks and regular quality checks",
+            "C": "size guides and separate condition notes",
+            "D": "a simple updated booking list with telephone access"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "668c74967f4db6a1cdc547106f92ddaf65f185c698c1dde739d62a1bff695270"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Explaining a shared tool library: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "sharing works when access is predictable",
+            "B": "repair services must state their limits clearly",
+            "C": "reuse depends on finding the right item",
+            "D": "reuse succeeds through clear practical information"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1a0767d1d31a6219c615f279a1c27fe9e676b516ab306cc4cc48e117879ec0de"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A school uniform exchange",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Parents organised an exchange of school uniforms. Many families wanted to participate but found that donated items lacked size labels. The main obstacle was clothes mixed without accurate sizes. Some labels had faded, and different makers used sizes that did not match. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used measurements and a trial exchange day. Volunteers grouped garments by actual measurements and noted which descriptions caused confusion. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated measured categories made choices easier. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced size guides and separate condition notes. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: reuse succeeds through clear practical information. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a school uniform exchange, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "ca8764610a19e55c912533d43ac841dc152d962e9bfab77bade07dda0f8cce5e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A school uniform exchange: What was the main obstacle?",
+          "options": {
+            "A": "no early assessment of repair requests",
+            "B": "donations stored without size or condition labels",
+            "C": "clothes mixed without accurate sizes",
+            "D": "availability shown only on a paper board"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a6a08ed416683b5b10bcdc660e2f9627d5d92bc3ec3cfb57722df36c23cd984e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A school uniform exchange: How was the idea examined?",
+          "options": {
+            "A": "a record of items and waiting times",
+            "B": "a sorting trial by size and condition",
+            "C": "a review of reservations and repeated calls",
+            "D": "measurements and a trial exchange day"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ddec015509c99fe9cfde8aba19c034c92cbf6caefd21570a2327c3617f037011"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A school uniform exchange: Which finding shaped the decision?",
+          "options": {
+            "A": "measured categories made choices easier",
+            "B": "early information could prevent wasted visits",
+            "C": "simple categories improved both access and flow",
+            "D": "current availability was the first question"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f27c2d210a6a65e9e16244b55bb3b961327457a4c65015b31f2bc20896a5d237"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A school uniform exchange: What change did the group make?",
+          "options": {
+            "A": "a pre-visit checklist and a short triage desk",
+            "B": "size guides and separate condition notes",
+            "C": "clearly marked racks and regular quality checks",
+            "D": "a simple updated booking list with telephone access"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5e1441a3b70f25607965ed2c8455dce6380a182bc80d0290606a17e3ec1fdfda"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A school uniform exchange: What lesson does the writer emphasize?",
+          "options": {
+            "A": "repair services must state their limits clearly",
+            "B": "reuse depends on finding the right item",
+            "C": "reuse succeeds through clear practical information",
+            "D": "sharing works when access is predictable"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7e32bf0d4e8fde35682cc6441b69593819e63fea1ea4d35634cca5ac476b00af"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the community repair and reuse programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0c6c652da1da091c6bf143495980a22cd9eed9efbd1e6e6e8def11a892fb2544"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the community repair and reuse programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6b18868bf7bb31c07ae014e131dc1761211b2e0490bde499d7b113a2b53ddd36"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the community repair and reuse programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8beb547c404cc267d339164b6c141b0952f98e35a9384232ad0bcb8257685968"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the community repair and reuse programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "612ffa3207f76fb437e26119d7f8ea51a63c3aeacb4831855c4ca32764028a7e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the community repair and reuse programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cfe21bb7355e483e792bc3d360da594c52d0543fa36927e48290f1ec33c1b027"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the community repair and reuse programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "238bb663b33550e3b207ca3a86b3199a16d2c85362a3d80951c7056552c53ca3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the community repair and reuse programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4d55d760a49c0fde66a1a179a3d89832dfc4cae94fc01e271b6ec0e76e4c1ca4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the community repair and reuse programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "145411ca615675d004dfed08fed72860cbe697089b56684d24df1fb3b7667041"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the community repair and reuse programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0e00b5db8444b35b916f23054c2467920fc298e1127ae13b33e4bc4168096ade"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the community repair and reuse programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "30afd15af9267309d780949ef18894595e0246cb2ec8fc4043370a6791a30edf"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community repair and reuse programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c257ce96517d07040eedf5f92940a699e802c094e33b7ac10cdac54c476b25f7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community repair and reuse programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d6fb6d4e3e1f0e907e6d4912943a36eac125920f54c895c4201d0c9e2d02d0f1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community repair and reuse programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bcdbf53ddbe2c55e0e2775f1e232851378504b10f8a36c4b1d234e36b1ed7dba"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community repair and reuse programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fdcd2adb1d65c20e2024d4e59aea0c0c53eb275f6b99cb3c403b64846f14d217"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community repair and reuse programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "21f704fac3f236c3fdefecba28275e589c9fb02e4805b02f0d6043f3d9aa0566"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community repair and reuse programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a764adce0eeec7be6cff96b7eee775d39fb1ae7ff346e6d136f775490b68a408"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community repair and reuse programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c2bccc50e3ceae606e67a440186a1fca706dec56b9d0a4a70f7a1283e714e060"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community repair and reuse programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "94cc742d67439e5f3cbe26caaefa2ca704256ee6d56595ebde8cd901b33e6589"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community repair and reuse programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "36755febc44aa8bb3b708346b922be785cb774054b66e45ca5748e16c25c7dcb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community repair and reuse programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "61a6f3138138e243e714385d667adf4cdb6cd0f47053d2cd3263e52d02547d49"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the community repair and reuse programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about reuse and repair in everyday life, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关循环利用与物品维修的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "100f1dc2a14b2f0af2aaee7a95ed7b8360b7a891aac4c25aef645f3024b2cfef",
+      "referenceAnswerFingerprint": "16f544901a7d4a0d874c0edc4b14bd984f696ce1f4a0b17d7abd4a1f9da80be9"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the community repair team suggesting a practical change to the community repair and reuse programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community repair and reuse programme. People have noticed no early assessment of repair requests, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "ada4d9730cf9fa25f3f8ccdc49cd83fa4f29377ed50a0453df4f91698f96bec4",
+      "sampleAnswerFingerprint": "c3299d62644eb7a9c058e3ea5ca9b771989413467a9eca7efa909af8c4ebeb32"
+    }
+  ],
+  "fingerprintManifest": [
+    "d81c503dfd153d5217a93c1df2a90c3d189b2bd75b1144c6269f52b13a7321b7",
+    "e3b2770e90d07f50a44e186dde41ab1243faaec0c1c2904267a8edb06398efc7",
+    "bea2ad611a77c9914d8e35b034494321fbd4cfcea81fe28f02ace8e43d6cd76a",
+    "de123e4926a443f726b3c638763143f72727077bf266ae3ec154c062cf08c5a1",
+    "9253efc250992a126563c1a9fc7ebcf142eeebb23966020748197c8f6ded64b3",
+    "4ba2624d84b1e62de9d78fcd3228245f4492b18df998bc3cd77dd15bea9ab8f4",
+    "2b74c27841560717f22505a8d9d75a6cca69aa870a101c45c301c6af98aa5d88",
+    "663d5e73935d67c38fb0f7e3cd2a66756364f903c0dbbcb20c40f0c9eef75642",
+    "290a73362fd6d027cf0d1bc109ccfbc5136460fa9f094c7f80d4e964d7516e56",
+    "15a84acf0c0dbe1a3e606710a9292c7f795fcc6878b9e2959eb26fd2689ef77b",
+    "1db856c0a1fde5c787d42880a5a2381e7b014852c13864188edfda9196cda209",
+    "ccd37d9ac34a1a5866a644f865bd80928f39081019bba16e87af4dbc07ee3626",
+    "35534b5f4d2b14a1069ce4842e0db686ac8e566bcb0b21e2f65c8b613fee2ed7",
+    "931f10dded8a4a618eb7a93233195da674275bc500ae5012b552fca1ff516d30",
+    "9ab182cfa4ab46e437eaac6780e586bc2d668291065c4c43dfd5651d5354bfbe",
+    "32a66544bec71cb6ba30a4a5ddb20b7799f95c690887629cab0185bcdd75f7aa",
+    "7f897a3af5a0bb7f55dc5937315b28d995e5fee34f3ab81286e125e5e4d5f9b7",
+    "72c144102100bb3f1e1f88097ea29bf511ce53d82638a7fb904c912fdaf99d82",
+    "4d30f212dbb7199fa282be73df2fb4be7102d94fc1eaa9c44ef03a1fc6d9be97",
+    "4463eb63f070042a9703a7d0bee860b208909e38ceb4e5ffcc3fb46e91740e90",
+    "c36f0a5b55cfd123f78a7e889bdc9f9a33470e30cae542f98d643d7f35e4eb24",
+    "f98ce8bbe2674590294c8854d49e27bbe8371a38ff49cca3a178d4d930c4b3f0",
+    "02048d0a3cd945fc8c36ea9bd3214055a562874ef6a9994ef66cfef1bc2f41e4",
+    "89ddfce00ce303c386b0901b369474c1b2311075476394be35b80bb8b2d44d9d",
+    "4f3027429c8b35b1779dbe960913e2d147149b04cd3f185a90ad875f695b8900",
+    "ff7de1ec5d9ddfb9d108328f983f3e1487d40a77885ab87016cb00be749dc9f6",
+    "4f2ed7581bf86f808f520256d4448c9f6df271c7f5a156aebdc3499042c208c1",
+    "27136d71714d6048764a0af9397eae42b156bfc90d911880868a073bb147010e",
+    "1ef63c3faf23915489ebd843b87ed671e3dd97e290c04ed0c25640ab0887c4eb",
+    "668c74967f4db6a1cdc547106f92ddaf65f185c698c1dde739d62a1bff695270",
+    "1a0767d1d31a6219c615f279a1c27fe9e676b516ab306cc4cc48e117879ec0de",
+    "ca8764610a19e55c912533d43ac841dc152d962e9bfab77bade07dda0f8cce5e",
+    "a6a08ed416683b5b10bcdc660e2f9627d5d92bc3ec3cfb57722df36c23cd984e",
+    "ddec015509c99fe9cfde8aba19c034c92cbf6caefd21570a2327c3617f037011",
+    "f27c2d210a6a65e9e16244b55bb3b961327457a4c65015b31f2bc20896a5d237",
+    "5e1441a3b70f25607965ed2c8455dce6380a182bc80d0290606a17e3ec1fdfda",
+    "7e32bf0d4e8fde35682cc6441b69593819e63fea1ea4d35634cca5ac476b00af",
+    "0c6c652da1da091c6bf143495980a22cd9eed9efbd1e6e6e8def11a892fb2544",
+    "6b18868bf7bb31c07ae014e131dc1761211b2e0490bde499d7b113a2b53ddd36",
+    "8beb547c404cc267d339164b6c141b0952f98e35a9384232ad0bcb8257685968",
+    "612ffa3207f76fb437e26119d7f8ea51a63c3aeacb4831855c4ca32764028a7e",
+    "cfe21bb7355e483e792bc3d360da594c52d0543fa36927e48290f1ec33c1b027",
+    "238bb663b33550e3b207ca3a86b3199a16d2c85362a3d80951c7056552c53ca3",
+    "4d55d760a49c0fde66a1a179a3d89832dfc4cae94fc01e271b6ec0e76e4c1ca4",
+    "145411ca615675d004dfed08fed72860cbe697089b56684d24df1fb3b7667041",
+    "0e00b5db8444b35b916f23054c2467920fc298e1127ae13b33e4bc4168096ade",
+    "30afd15af9267309d780949ef18894595e0246cb2ec8fc4043370a6791a30edf",
+    "c257ce96517d07040eedf5f92940a699e802c094e33b7ac10cdac54c476b25f7",
+    "d6fb6d4e3e1f0e907e6d4912943a36eac125920f54c895c4201d0c9e2d02d0f1",
+    "bcdbf53ddbe2c55e0e2775f1e232851378504b10f8a36c4b1d234e36b1ed7dba",
+    "fdcd2adb1d65c20e2024d4e59aea0c0c53eb275f6b99cb3c403b64846f14d217",
+    "21f704fac3f236c3fdefecba28275e589c9fb02e4805b02f0d6043f3d9aa0566",
+    "a764adce0eeec7be6cff96b7eee775d39fb1ae7ff346e6d136f775490b68a408",
+    "c2bccc50e3ceae606e67a440186a1fca706dec56b9d0a4a70f7a1283e714e060",
+    "94cc742d67439e5f3cbe26caaefa2ca704256ee6d56595ebde8cd901b33e6589",
+    "36755febc44aa8bb3b708346b922be785cb774054b66e45ca5748e16c25c7dcb",
+    "61a6f3138138e243e714385d667adf4cdb6cd0f47053d2cd3263e52d02547d49",
+    "100f1dc2a14b2f0af2aaee7a95ed7b8360b7a891aac4c25aef645f3024b2cfef",
+    "16f544901a7d4a0d874c0edc4b14bd984f696ce1f4a0b17d7abd4a1f9da80be9",
+    "ada4d9730cf9fa25f3f8ccdc49cd83fa4f29377ed50a0453df4f91698f96bec4",
+    "c3299d62644eb7a9c058e3ea5ca9b771989413467a9eca7efa909af8c4ebeb32"
+  ],
+  "contentFingerprint": "9b0272c30ee4ca1d408ceeddf81b50a5dffc87cb03bfa07c4d91d1de7999554b"
+}

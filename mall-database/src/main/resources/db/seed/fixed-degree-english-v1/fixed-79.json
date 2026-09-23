@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-79",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 79 · 健康习惯与体育参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 79,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to walking groups for beginners",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about walking groups for beginners. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the physical activity team that you plan to attend.",
+        "C": "Yes, signs will lead you from the recreation centre desk.",
+        "D": "Certainly. Send your question to the physical activity team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "9f336e2914abee71c8fb8e69f7d3d1c06fec1b46952aa3d2ea2a05d6eda135cb",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to walking groups for beginners”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the physical activity team that you plan to attend.",
+            "C": "Yes, signs will lead you from the recreation centre desk.",
+            "D": "Certainly. Send your question to the physical activity team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "336dda58dc5fa2a0c5b4a6eda3c9fb44b377eba207626dcfdd6e0dfda1a7a1ad"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to walking groups for beginners”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the physical activity team that you plan to attend.",
+            "C": "Yes, signs will lead you from the recreation centre desk.",
+            "D": "Certainly. Send your question to the physical activity team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "58dd30b02d5db4041ffc2f68f8b21047b117f33511656deabd752f780737e90b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to walking groups for beginners”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the physical activity team that you plan to attend.",
+            "C": "Yes, signs will lead you from the recreation centre desk.",
+            "D": "Certainly. Send your question to the physical activity team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7bd99d4a529756b67813d22d93fed3163e9a7e8067b2f19c2792b449d248b0d8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to walking groups for beginners”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the physical activity team that you plan to attend.",
+            "C": "Yes, signs will lead you from the recreation centre desk.",
+            "D": "Certainly. Send your question to the physical activity team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8fd2f760348cc9b73c8430b9b3b5eed3c61c989e8f35bf9cb92ada259217d531"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying using an outdoor exercise space",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about using an outdoor exercise space is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the recreation centre desk.",
+        "D": "Please send it to the physical activity team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "528e0c3d26bc548107c0ced258f43810c3a01733fdc8f4b2e2b5bd920c50c7bf",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying using an outdoor exercise space”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the recreation centre desk.",
+            "D": "Please send it to the physical activity team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ea7da4efed18c48ecb3dc475e0568ed4803d6dacc8e6a6ce427378eb107eebe8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying using an outdoor exercise space”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the recreation centre desk.",
+            "D": "Please send it to the physical activity team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "88bff8c19334402e0c15f34dffa9531362eddeb533f00c36ba53e6143c20f33c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying using an outdoor exercise space”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the recreation centre desk.",
+            "D": "Please send it to the physical activity team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4df38cb2750fd23ca9bd9baa2a4fbe2b55405aecedd9b91c83c8285030046745"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a sports hall after school",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a sports hall after school last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "78b7da8c79afa048d4272d234a0a4319c3034199871fba3d841ab1a4f1a03902",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a sports hall after school”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "989d64a2bd838109276e7dad9393a4514768fd4fdd9e15950e2eb29ec32f208a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a sports hall after school”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7c795d90d30970777f726438d3210d23a94af1974249229cbae6ec3ee1f25760"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a sports hall after school”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "016149a779d63cf07f5488302d6ac5984db1ba729a2363dd3904d69f0c75e1de"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Walking groups for beginners",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community walking group advertised a gentle route. New members struggled because experienced walkers set a fast pace. The main obstacle was one pace for people with different abilities. The leader followed the front walkers and did not notice that others had fallen behind. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used timed walks and participant feedback. Organizers checked route length, rest points and how comfortable newcomers felt. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a slower group increased participation. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced two pace options with clear meeting points. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: welcoming language must match the activity. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in walking groups for beginners, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "a87aed7510bbc899da7b26f2dc81e4c9ba06796399b65999cec6d537231fc33e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Walking groups for beginners: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "equipment without simple instructions",
+            "B": "a fixed start that many students missed",
+            "C": "rest points unevenly placed along the path",
+            "D": "one pace for people with different abilities"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ae2a67972e919edb19fe4b36401b807c29b6169e17a14ae9e6210946cc49bbe9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Walking groups for beginners: What method was used to investigate the situation?",
+          "options": {
+            "A": "timed walks and participant feedback",
+            "B": "observations and advice from qualified instructors",
+            "C": "attendance records by arrival time",
+            "D": "a route map and conversations with walkers"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "397479d98fe36baf1801aca383adb7631ff2142c359ecb0b4ef4b1f0214c765d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Walking groups for beginners: What did the evidence indicate?",
+          "options": {
+            "A": "short demonstrations built confidence",
+            "B": "a slower group increased participation",
+            "C": "a later flexible entry helped more students",
+            "D": "one additional rest point would extend use"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ad551f0c82ede8c719a00094de671507b79e7e4accf0213caa4ff0ce5e6351a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Walking groups for beginners: How was the arrangement changed?",
+          "options": {
+            "A": "clear instructions and scheduled introduction sessions",
+            "B": "a longer session with short repeating activities",
+            "C": "two pace options with clear meeting points",
+            "D": "a bench near the long final stretch"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "953ddc6e9beac0d0423ca9e68a465c47b9bf9885f9192ba2b21a033ff77e6b01"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Walking groups for beginners: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "equipment alone does not create access",
+            "B": "participation depends on the fit with daily routines",
+            "C": "small facilities can change who can use a route",
+            "D": "welcoming language must match the activity"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7f15f908902005a4b9a7b3ed3326686ab32f9bfe35bead63bf9f1b67d4e4beac"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Using an outdoor exercise space",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A park installed exercise equipment. Adults used it less than expected, although the nearby path was busy. The main obstacle was equipment without simple instructions. Several visitors could not tell how to adjust a machine or whether it suited them. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used observations and advice from qualified instructors. The team asked users where they hesitated and checked safe guidance for each device. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated short demonstrations built confidence. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced clear instructions and scheduled introduction sessions. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: equipment alone does not create access. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in using an outdoor exercise space, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "0b36204bf64d6a6921539a84b1e32b06fabada4ce4964ca45c8d7b16ed60dd02",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Using an outdoor exercise space: What problem did the people involved notice?",
+          "options": {
+            "A": "one pace for people with different abilities",
+            "B": "equipment without simple instructions",
+            "C": "a fixed start that many students missed",
+            "D": "rest points unevenly placed along the path"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e1541d1934cb001170abb4d0debff69a58d69bb648b868909473101d96fac549"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Using an outdoor exercise space: What was the first investigative step?",
+          "options": {
+            "A": "timed walks and participant feedback",
+            "B": "attendance records by arrival time",
+            "C": "observations and advice from qualified instructors",
+            "D": "a route map and conversations with walkers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "91d1cf438285006d67294a55caed23aad3a913224ddc54d5b5b0b4182897e79e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Using an outdoor exercise space: What was learned from the records?",
+          "options": {
+            "A": "a slower group increased participation",
+            "B": "a later flexible entry helped more students",
+            "C": "one additional rest point would extend use",
+            "D": "short demonstrations built confidence"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b00d426af85fb93b44f4382334c1870729ffd5a7cf3135b1e95de64d7b7239db"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Using an outdoor exercise space: What adjustment followed?",
+          "options": {
+            "A": "clear instructions and scheduled introduction sessions",
+            "B": "two pace options with clear meeting points",
+            "C": "a longer session with short repeating activities",
+            "D": "a bench near the long final stretch"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6be41085d9f8eeedb8edd32cf54006bd86e6f14fc44ed675c6b1b79d0129ff4d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Using an outdoor exercise space: What is the central message?",
+          "options": {
+            "A": "welcoming language must match the activity",
+            "B": "equipment alone does not create access",
+            "C": "participation depends on the fit with daily routines",
+            "D": "small facilities can change who can use a route"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6bd2f0a62e843155f847a2d095e8fa139a6fbed8dc166a838909bdd3ac2b16a7"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A sports hall after school",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A sports hall offered open sessions for teenagers. Attendance varied because school dismissal times were different across the district. The main obstacle was a fixed start that many students missed. Some young people arrived as the main activity ended and left without joining. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used attendance records by arrival time. Staff compared school schedules and asked participants which start time was realistic. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a later flexible entry helped more students. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a longer session with short repeating activities. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: participation depends on the fit with daily routines. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a sports hall after school, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "88cd9260c4e33097610062d18424556583b8026157af5aa42af7646065f19642",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A sports hall after school: Why was the original plan difficult to use?",
+          "options": {
+            "A": "one pace for people with different abilities",
+            "B": "equipment without simple instructions",
+            "C": "rest points unevenly placed along the path",
+            "D": "a fixed start that many students missed"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8909e8dffd69ca61273008d35e0c67614b198caba806675d29a3b7bc389aa2b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A sports hall after school: How did the team gather information?",
+          "options": {
+            "A": "attendance records by arrival time",
+            "B": "timed walks and participant feedback",
+            "C": "observations and advice from qualified instructors",
+            "D": "a route map and conversations with walkers"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "95cc41fdaf2b17b672e7a60bf1712ab66db4f33d61909241ee303c6f7afe2f7a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A sports hall after school: What did the team discover?",
+          "options": {
+            "A": "a slower group increased participation",
+            "B": "a later flexible entry helped more students",
+            "C": "short demonstrations built confidence",
+            "D": "one additional rest point would extend use"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e9882e203c84e980161406d0b9cff75407669e1699cad16b82857131b1f7738e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A sports hall after school: What did it do in response?",
+          "options": {
+            "A": "two pace options with clear meeting points",
+            "B": "clear instructions and scheduled introduction sessions",
+            "C": "a longer session with short repeating activities",
+            "D": "a bench near the long final stretch"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7013c2cce8553929af67513fd6887344daa98295577e7ac05c39cb6ae105662e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A sports hall after school: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "welcoming language must match the activity",
+            "B": "equipment alone does not create access",
+            "C": "small facilities can change who can use a route",
+            "D": "participation depends on the fit with daily routines"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "50d8beca5f7df9e2db5544f94836fefbc089b40c8a0359669ad0acefde10a67a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Rest spaces along a fitness route",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A riverside fitness route attracted older walkers. Several people turned back early because benches were concentrated near the start. The main obstacle was rest points unevenly placed along the path. The final stretch had a pleasant view but nowhere convenient to pause. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a route map and conversations with walkers. Planners measured distances between seats and asked where people chose to turn around. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated one additional rest point would extend use. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a bench near the long final stretch. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: small facilities can change who can use a route. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in rest spaces along a fitness route, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "cad88103680df7868f7cba0d338540a00e9539f5dbcf736697d1f5d64ffa2dd8",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Rest spaces along a fitness route: What was the main obstacle?",
+          "options": {
+            "A": "one pace for people with different abilities",
+            "B": "rest points unevenly placed along the path",
+            "C": "equipment without simple instructions",
+            "D": "a fixed start that many students missed"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1aee01e407b2a5f1bac09208f5b30b7c396760acc7601643296ddf21a2348043"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Rest spaces along a fitness route: How was the idea examined?",
+          "options": {
+            "A": "timed walks and participant feedback",
+            "B": "observations and advice from qualified instructors",
+            "C": "a route map and conversations with walkers",
+            "D": "attendance records by arrival time"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1e094586dce887a1d743c505e5235f0cd78d26ac9bacef8f894ad18449f72a17"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Rest spaces along a fitness route: Which finding shaped the decision?",
+          "options": {
+            "A": "a slower group increased participation",
+            "B": "short demonstrations built confidence",
+            "C": "a later flexible entry helped more students",
+            "D": "one additional rest point would extend use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5623211cbaf8ebac95fb7e63423fb362097435ffd6de29ee11472519da2fb133"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Rest spaces along a fitness route: What change did the group make?",
+          "options": {
+            "A": "a bench near the long final stretch",
+            "B": "two pace options with clear meeting points",
+            "C": "clear instructions and scheduled introduction sessions",
+            "D": "a longer session with short repeating activities"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c3c3122af197dc5cd2c990dc6b546ca7574391154180580567cb57ff7182e1e1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Rest spaces along a fitness route: What lesson does the writer emphasize?",
+          "options": {
+            "A": "welcoming language must match the activity",
+            "B": "small facilities can change who can use a route",
+            "C": "equipment alone does not create access",
+            "D": "participation depends on the fit with daily routines"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ca5b6b7293c39c58e91867e5a7092edc40e4eec37210751738d895619c94877a"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the community physical activity programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "12a32202a5cea085131ad11e0f019c95172dbc4f5ff7ee295d80425f263d1937"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the community physical activity programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "af39d6c1aca4d21937f809a1030e275637e833535d5c9fbafb2e87ac5a663fd7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the community physical activity programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "87e8be703e81c533d173921bdd013c6611d4e1fb5881a7fc0edb5e229d1dcd82"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the community physical activity programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8e2b8ce3f358bcab71d5425788a40cacc17e115ae5e52126ebd3c180711b40ca"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the community physical activity programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0bfa0abe91015673298ba7bb2457c894c2a32b5cda0415b4365788d6d0a944c5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the community physical activity programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8486b922d1d1e36916ab09dfc5d30f4171811fa4e9d2dd1f16a5de58cf05d086"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the community physical activity programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "63265d98ce6469e9a8d7a12be49257aad9817e018383df70adfd7f0b32a83006"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the community physical activity programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c817710379bcf43e02f799dbc13255ea853532e073172122d6a4c76f5dcaf82e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the community physical activity programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f9737b0b028536e4aa6ee34dfad2df29e9f30384c3746267ab48f30e87f53fca"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the community physical activity programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "50fd3e31be7769e28dc485d363f561573efc38de424e4cbbcb126caad70ceb55"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the community physical activity programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a5b3f42f94ac9c3e610c2061d9eba9c970141681d17f09e9a2b7dffd0419d41b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community physical activity programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0eb068e4af649ff176b18a4d3831d634fb5649618ce1011ed9b319082559a8dd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the community physical activity programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f7219a47cccfe45b7c542d767040c9245ce2f872ba558618d799a6a44209fc34"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the community physical activity programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "98524ec9ca51eaa52f3b2a56dbb5b07b3da0f2f180b08714178fa17dbbdc3a00"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the community physical activity programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a80196145c3d71ca758e605055f511114f5b4dfb5f819eafdecc146bc36b89c3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the community physical activity programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6c1b7e93053328519a2db0bb651bb33c0ba2606ef3d7d8f1d1656bb7ec688b70"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the community physical activity programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b83dcd097e33b65f0708a8d5cc850e9e683b98109ccac5ad2540f87285bd1bfa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the community physical activity programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d24c6a5b7fbc599aa2cd516dd5241cdb5bb6837d98d4602e71dafd8a7b50d732"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community physical activity programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f3867e8c98acd39407652bdd029fa0aef0c1c887df349529862742f908f67fff"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the community physical activity programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4df20077533b451291c3d07f34b1badaa36305851b28ff63c4724659537f4bf8"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for wellness and sport participation must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the community physical activity programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于健康习惯与体育参与的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "b5b72b6a727ba1a01cb72044ca143747f1114498afd6f178dbc62b8b401c030e",
+      "referenceAnswerFingerprint": "0b3325c76741d9a461edf7896ea0718b6a1dca842b2c4242a93f91ccaa8ee4dc"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the physical activity team about a community activity related to wellness and sport participation. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the community physical activity programme. People have noticed one pace for people with different abilities, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "ef5a67dfd0216ace9c25b35d5e8c53ecde88d268c142ed93e3551366b10af196",
+      "sampleAnswerFingerprint": "60137b9e65a90cac120f14a9cad95edbe2b5d8f0ec14c158a2e107ce5fa5f203"
+    }
+  ],
+  "fingerprintManifest": [
+    "9f336e2914abee71c8fb8e69f7d3d1c06fec1b46952aa3d2ea2a05d6eda135cb",
+    "336dda58dc5fa2a0c5b4a6eda3c9fb44b377eba207626dcfdd6e0dfda1a7a1ad",
+    "58dd30b02d5db4041ffc2f68f8b21047b117f33511656deabd752f780737e90b",
+    "7bd99d4a529756b67813d22d93fed3163e9a7e8067b2f19c2792b449d248b0d8",
+    "8fd2f760348cc9b73c8430b9b3b5eed3c61c989e8f35bf9cb92ada259217d531",
+    "528e0c3d26bc548107c0ced258f43810c3a01733fdc8f4b2e2b5bd920c50c7bf",
+    "ea7da4efed18c48ecb3dc475e0568ed4803d6dacc8e6a6ce427378eb107eebe8",
+    "88bff8c19334402e0c15f34dffa9531362eddeb533f00c36ba53e6143c20f33c",
+    "4df38cb2750fd23ca9bd9baa2a4fbe2b55405aecedd9b91c83c8285030046745",
+    "78b7da8c79afa048d4272d234a0a4319c3034199871fba3d841ab1a4f1a03902",
+    "989d64a2bd838109276e7dad9393a4514768fd4fdd9e15950e2eb29ec32f208a",
+    "7c795d90d30970777f726438d3210d23a94af1974249229cbae6ec3ee1f25760",
+    "016149a779d63cf07f5488302d6ac5984db1ba729a2363dd3904d69f0c75e1de",
+    "a87aed7510bbc899da7b26f2dc81e4c9ba06796399b65999cec6d537231fc33e",
+    "ae2a67972e919edb19fe4b36401b807c29b6169e17a14ae9e6210946cc49bbe9",
+    "397479d98fe36baf1801aca383adb7631ff2142c359ecb0b4ef4b1f0214c765d",
+    "ad551f0c82ede8c719a00094de671507b79e7e4accf0213caa4ff0ce5e6351a0",
+    "953ddc6e9beac0d0423ca9e68a465c47b9bf9885f9192ba2b21a033ff77e6b01",
+    "7f15f908902005a4b9a7b3ed3326686ab32f9bfe35bead63bf9f1b67d4e4beac",
+    "0b36204bf64d6a6921539a84b1e32b06fabada4ce4964ca45c8d7b16ed60dd02",
+    "e1541d1934cb001170abb4d0debff69a58d69bb648b868909473101d96fac549",
+    "91d1cf438285006d67294a55caed23aad3a913224ddc54d5b5b0b4182897e79e",
+    "b00d426af85fb93b44f4382334c1870729ffd5a7cf3135b1e95de64d7b7239db",
+    "6be41085d9f8eeedb8edd32cf54006bd86e6f14fc44ed675c6b1b79d0129ff4d",
+    "6bd2f0a62e843155f847a2d095e8fa139a6fbed8dc166a838909bdd3ac2b16a7",
+    "88cd9260c4e33097610062d18424556583b8026157af5aa42af7646065f19642",
+    "8909e8dffd69ca61273008d35e0c67614b198caba806675d29a3b7bc389aa2b0",
+    "95cc41fdaf2b17b672e7a60bf1712ab66db4f33d61909241ee303c6f7afe2f7a",
+    "e9882e203c84e980161406d0b9cff75407669e1699cad16b82857131b1f7738e",
+    "7013c2cce8553929af67513fd6887344daa98295577e7ac05c39cb6ae105662e",
+    "50d8beca5f7df9e2db5544f94836fefbc089b40c8a0359669ad0acefde10a67a",
+    "cad88103680df7868f7cba0d338540a00e9539f5dbcf736697d1f5d64ffa2dd8",
+    "1aee01e407b2a5f1bac09208f5b30b7c396760acc7601643296ddf21a2348043",
+    "1e094586dce887a1d743c505e5235f0cd78d26ac9bacef8f894ad18449f72a17",
+    "5623211cbaf8ebac95fb7e63423fb362097435ffd6de29ee11472519da2fb133",
+    "c3c3122af197dc5cd2c990dc6b546ca7574391154180580567cb57ff7182e1e1",
+    "ca5b6b7293c39c58e91867e5a7092edc40e4eec37210751738d895619c94877a",
+    "12a32202a5cea085131ad11e0f019c95172dbc4f5ff7ee295d80425f263d1937",
+    "af39d6c1aca4d21937f809a1030e275637e833535d5c9fbafb2e87ac5a663fd7",
+    "87e8be703e81c533d173921bdd013c6611d4e1fb5881a7fc0edb5e229d1dcd82",
+    "8e2b8ce3f358bcab71d5425788a40cacc17e115ae5e52126ebd3c180711b40ca",
+    "0bfa0abe91015673298ba7bb2457c894c2a32b5cda0415b4365788d6d0a944c5",
+    "8486b922d1d1e36916ab09dfc5d30f4171811fa4e9d2dd1f16a5de58cf05d086",
+    "63265d98ce6469e9a8d7a12be49257aad9817e018383df70adfd7f0b32a83006",
+    "c817710379bcf43e02f799dbc13255ea853532e073172122d6a4c76f5dcaf82e",
+    "f9737b0b028536e4aa6ee34dfad2df29e9f30384c3746267ab48f30e87f53fca",
+    "50fd3e31be7769e28dc485d363f561573efc38de424e4cbbcb126caad70ceb55",
+    "a5b3f42f94ac9c3e610c2061d9eba9c970141681d17f09e9a2b7dffd0419d41b",
+    "0eb068e4af649ff176b18a4d3831d634fb5649618ce1011ed9b319082559a8dd",
+    "f7219a47cccfe45b7c542d767040c9245ce2f872ba558618d799a6a44209fc34",
+    "98524ec9ca51eaa52f3b2a56dbb5b07b3da0f2f180b08714178fa17dbbdc3a00",
+    "a80196145c3d71ca758e605055f511114f5b4dfb5f819eafdecc146bc36b89c3",
+    "6c1b7e93053328519a2db0bb651bb33c0ba2606ef3d7d8f1d1656bb7ec688b70",
+    "b83dcd097e33b65f0708a8d5cc850e9e683b98109ccac5ad2540f87285bd1bfa",
+    "d24c6a5b7fbc599aa2cd516dd5241cdb5bb6837d98d4602e71dafd8a7b50d732",
+    "f3867e8c98acd39407652bdd029fa0aef0c1c887df349529862742f908f67fff",
+    "4df20077533b451291c3d07f34b1badaa36305851b28ff63c4724659537f4bf8",
+    "b5b72b6a727ba1a01cb72044ca143747f1114498afd6f178dbc62b8b401c030e",
+    "0b3325c76741d9a461edf7896ea0718b6a1dca842b2c4242a93f91ccaa8ee4dc",
+    "ef5a67dfd0216ace9c25b35d5e8c53ecde88d268c142ed93e3551366b10af196",
+    "60137b9e65a90cac120f14a9cad95edbe2b5d8f0ec14c158a2e107ce5fa5f203"
+  ],
+  "contentFingerprint": "d7fa15fc5381b348775c3250e165361787f7263d19185645c1712eccf1448677"
+}

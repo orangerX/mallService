@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-68",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 68 · 无障碍与公共空间",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 68,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about the ramp behind the building",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the ramp behind the building. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the civic centre help desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the accessibility working group.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "1d3266ab5450f787d0a59394fdf739cd2b10fb3ba0d51d8060d0975db16959eb",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about the ramp behind the building”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the civic centre help desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the accessibility working group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d3ebcdee5e5fea620fd4b75ddcc9468f34ebfd316951666a509f7436ff10c8ca"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about the ramp behind the building”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the civic centre help desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the accessibility working group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6dffcdee272918e77444c51a834c050cd415541a34766353f63e924998d514dd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about the ramp behind the building”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the civic centre help desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the accessibility working group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2ca685b7403341770f63a06304626e226e5264b6ec7a2b85dedf771f2d063a4d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about the ramp behind the building”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the civic centre help desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the accessibility working group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ed71d57d9da4e9023819ae19bb7fb8359a3f8c753b10aff7c7ed3b57e7cc8785"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying a quieter hour at a museum",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about a quieter hour at a museum is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the civic centre help desk.",
+        "D": "Please send it to the accessibility working group."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c509a8b8426a88f8332447321e55a78c9e3a778fb7eaf670e83c54fac161a9b2",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying a quieter hour at a museum”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic centre help desk.",
+            "D": "Please send it to the accessibility working group."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8bc8a1dec3fdc65e70caba9391dd6290cb4ec429f424db51bc3d12cc1b9005db"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying a quieter hour at a museum”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic centre help desk.",
+            "D": "Please send it to the accessibility working group."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "dbef1c1847dabbe87255ab9f2d140247efbae3081a84d7bb7e308c994dc1c9aa"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying a quieter hour at a museum”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic centre help desk.",
+            "D": "Please send it to the accessibility working group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b3265cb532c934bd2d1a0584c8ddede08e91b1426c9592f8bf141aef61c60bd9"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on reading a public notice outdoors",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about reading a public notice outdoors last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "6e92f9a70bef2e09055a24bafe7bbaa7223a101b76a51d3611e45e61cf4256b5",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on reading a public notice outdoors”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b3ed0eb0bcf5551e9b4e4518fff846f3c161f05d1725e04e57bafb13d80e21e2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on reading a public notice outdoors”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "248f21c33b026bc64b8c51878b9e5a783f82a8b4aa44de63efff3b5123a8be68"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on reading a public notice outdoors”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c3ecf49089c09844bf924d114b7831e52cd029557bcec993b29fcd082bff4a62"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The ramp behind the building",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A civic centre had a step-free entrance, yet visitors using wheelchairs often arrived at the front steps and had to turn back. The main obstacle was an accessible route hidden from the street. The ramp was at the rear, and the first directional sign appeared only after the main doorway. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a visitor route walk-through. The team asked people with different mobility needs to approach from the bus stop and describe each decision point. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the problem began before visitors reached the door. The physical ramp worked, but people could not locate it from the place where their journey began. The group then introduced signs placed at the earliest route choices. Staff also updated maps and made sure the rear entrance was open whenever the building was in use. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: accessibility begins with finding the route. A useful facility cannot meet its purpose if visitors discover it only after facing a barrier. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in the ramp behind the building, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "6d32879303ff5e358573b8911a7e3f8401654b41c1a09b28013a864b93067253",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "The ramp behind the building: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "an accessible route hidden from the street",
+            "B": "sound from an automatic video display",
+            "C": "a map too small to read from the path",
+            "D": "unclear attribution in the meeting record"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b7eb567aac3e8803be3515f923ac38aa41cd33803f06fdbe4a882c161e1255ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "The ramp behind the building: What method was used to investigate the situation?",
+          "options": {
+            "A": "observations made during two trial visits",
+            "B": "a visitor route walk-through",
+            "C": "a practical reading exercise on site",
+            "D": "a review with caption users"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d5462d891c8081998a406034382041f8fd193c39cf6a34ebbb2eeaf3ba6b42fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "The ramp behind the building: What did the evidence indicate?",
+          "options": {
+            "A": "one predictable sound caused most concern",
+            "B": "large words and landmarks worked better than colours",
+            "C": "the problem began before visitors reached the door",
+            "D": "speaker labels were as important as word accuracy"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "0c93685fc08d1a6ea4fef754d1a23f1f1611e09efb61a7cd95a9d9feb0804d03"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "The ramp behind the building: How was the arrangement changed?",
+          "options": {
+            "A": "captions with the video sound turned off",
+            "B": "a larger text notice with a simplified map",
+            "C": "microphone rules and corrected posted captions",
+            "D": "signs placed at the earliest route choices"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cad4eaf29b90161966de3bc44d35a4cf2621d1d1ae900d94dfc901034da8dc4b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "The ramp behind the building: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "accessibility begins with finding the route",
+            "B": "inclusive arrangements require specific checks",
+            "C": "information must work where it is used",
+            "D": "accessible communication includes context"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e1a4f4109baf9442403dbc0a5d38dce7af41d4e9a463ce621831fc3ad53f620d"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A quieter hour at a museum",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local museum offered a quiet visiting hour. Families welcomed the idea, but the experience remained noisy in one gallery. The main obstacle was sound from an automatic video display. The announcement promised reduced noise without identifying a screen that played loudly whenever visitors entered. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used observations made during two trial visits. Staff recorded sound sources and invited visitors to say which parts of the route were difficult. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated one predictable sound caused most concern. The number of people in the gallery was less important than the video that could not be anticipated. The group then introduced captions with the video sound turned off. The museum offered a clear description of the quieter route and kept other hours unchanged. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: inclusive arrangements require specific checks. A label such as quiet is meaningful only when the full visitor experience matches it. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in a quieter hour at a museum, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "a5f679798ba21549974621a31770bcfd980beb2067abb06f015bd45f94a9d8a4",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A quieter hour at a museum: What problem did the people involved notice?",
+          "options": {
+            "A": "an accessible route hidden from the street",
+            "B": "a map too small to read from the path",
+            "C": "sound from an automatic video display",
+            "D": "unclear attribution in the meeting record"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f591b45396ae579423f6ff51d58c9a33ce8eff82b34ead4c59c0cde930af94c6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A quieter hour at a museum: What was the first investigative step?",
+          "options": {
+            "A": "a visitor route walk-through",
+            "B": "a practical reading exercise on site",
+            "C": "a review with caption users",
+            "D": "observations made during two trial visits"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f316c91a869101f5e0f3d996fd659f773531df992694287fb8bdf2cee37798ed"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A quieter hour at a museum: What was learned from the records?",
+          "options": {
+            "A": "one predictable sound caused most concern",
+            "B": "the problem began before visitors reached the door",
+            "C": "large words and landmarks worked better than colours",
+            "D": "speaker labels were as important as word accuracy"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c43cf2f7472cf11877318d3880730487f48885172e412e80b77b382123d4a96a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A quieter hour at a museum: What adjustment followed?",
+          "options": {
+            "A": "signs placed at the earliest route choices",
+            "B": "captions with the video sound turned off",
+            "C": "a larger text notice with a simplified map",
+            "D": "microphone rules and corrected posted captions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cf97d216311242f4ca051c3e17c349c5e07e95a7f05b3ea16b33287eca5817ff"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A quieter hour at a museum: What is the central message?",
+          "options": {
+            "A": "accessibility begins with finding the route",
+            "B": "information must work where it is used",
+            "C": "inclusive arrangements require specific checks",
+            "D": "accessible communication includes context"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5b6d13c60d0e25ab038187a87bb3b5f30b5410d751fcdacc14cf8a81cf3ab6e9"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Reading a public notice outdoors",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A council placed information beside a riverside path. Many walkers stopped but left without understanding a map of temporary closures. The main obstacle was a map too small to read from the path. The notice was mounted behind bright glass and relied on colours that looked similar in sunlight. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a practical reading exercise on site. Designers watched people try to identify the closed section from normal standing positions. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated large words and landmarks worked better than colours. Visitors could follow a plain sentence naming the bridge and path entrance even when the map remained difficult. The group then introduced a larger text notice with a simplified map. The council named the alternative route in words and checked the sign under daytime conditions. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: information must work where it is used. A notice that looks clear on a computer may fail beside a sunny, busy walkway. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in reading a public notice outdoors, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "652bc11dc5d5fd33fb5f635e4747b211285df3412588f807251af3552e827579",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Reading a public notice outdoors: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a map too small to read from the path",
+            "B": "an accessible route hidden from the street",
+            "C": "sound from an automatic video display",
+            "D": "unclear attribution in the meeting record"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3a7798308264be5afc60b2caa1d7e2c1ecb9918413e2b8e8e3b784882f81826c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Reading a public notice outdoors: How did the team gather information?",
+          "options": {
+            "A": "a visitor route walk-through",
+            "B": "a practical reading exercise on site",
+            "C": "observations made during two trial visits",
+            "D": "a review with caption users"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f36c3a6f85f0f1b4f2ccc4940e2c53ca54fd7f6a721f751faccadd3e698f6b4a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Reading a public notice outdoors: What did the team discover?",
+          "options": {
+            "A": "the problem began before visitors reached the door",
+            "B": "one predictable sound caused most concern",
+            "C": "large words and landmarks worked better than colours",
+            "D": "speaker labels were as important as word accuracy"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "33e850b61eb25726659ae12db7bb96d842dc5cab3f349210187111affb80e70e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Reading a public notice outdoors: What did it do in response?",
+          "options": {
+            "A": "signs placed at the earliest route choices",
+            "B": "captions with the video sound turned off",
+            "C": "microphone rules and corrected posted captions",
+            "D": "a larger text notice with a simplified map"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3c8dcf8f3ff42938daa904f7c019d59617ec8e35ef9c50e9413530f0ca4709f0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Reading a public notice outdoors: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "information must work where it is used",
+            "B": "accessibility begins with finding the route",
+            "C": "inclusive arrangements require specific checks",
+            "D": "accessible communication includes context"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "acd81d6dc29e51323df41f5b8cd09ccb024502f7bb1154fab639040ff53e82f8"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A community meeting with captions",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents watched a streamed planning meeting. People with hearing difficulties said the live captions sometimes missed speakers names. The main obstacle was unclear attribution in the meeting record. When several speakers answered quickly, viewers could not tell who supported each proposal. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review with caption users. Organizers compared the recording with the caption text and asked viewers where meaning had been lost. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated speaker labels were as important as word accuracy. Correct sentences still confused readers when they appeared without a clear link to the person speaking. The group then introduced microphone rules and corrected posted captions. The chair asked each speaker to identify themselves and published a checked transcript afterward. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: accessible communication includes context. People need to know not only what was said, but also who said it and when. That explanation made later changes easier to discuss with residents and staff. For those taking part in a community meeting with captions, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "5f017abf742fd7086f4a1f6da0d1459d1d69b513b6a02ec7c593c9cdde2c329f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A community meeting with captions: What was the main obstacle?",
+          "options": {
+            "A": "an accessible route hidden from the street",
+            "B": "sound from an automatic video display",
+            "C": "unclear attribution in the meeting record",
+            "D": "a map too small to read from the path"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "06accf03ed5a9824816aa0282db4929f74132f527263287db988c677c570cdf2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A community meeting with captions: How was the idea examined?",
+          "options": {
+            "A": "a visitor route walk-through",
+            "B": "observations made during two trial visits",
+            "C": "a practical reading exercise on site",
+            "D": "a review with caption users"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "91c74b8691340492bbc747a9ed6b03409cadea7a2b9cb33c867a22abef70f3ca"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A community meeting with captions: Which finding shaped the decision?",
+          "options": {
+            "A": "speaker labels were as important as word accuracy",
+            "B": "the problem began before visitors reached the door",
+            "C": "one predictable sound caused most concern",
+            "D": "large words and landmarks worked better than colours"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "fc0aba24fdf075e259b111b64ede146d8c810bd540a5497c367975cb60eff878"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A community meeting with captions: What change did the group make?",
+          "options": {
+            "A": "signs placed at the earliest route choices",
+            "B": "microphone rules and corrected posted captions",
+            "C": "captions with the video sound turned off",
+            "D": "a larger text notice with a simplified map"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c05265fd264b8d32ee7af7910e8cd21a61575c5e6ecc20b726c7626c657c9eea"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A community meeting with captions: What lesson does the writer emphasize?",
+          "options": {
+            "A": "accessibility begins with finding the route",
+            "B": "inclusive arrangements require specific checks",
+            "C": "accessible communication includes context",
+            "D": "information must work where it is used"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a720f5150111239eda0b96a88ebff97ed9ce760899cd66b8a595e522c8e11b91"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the public access improvement programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cbbf29b6eb08f704556c6409e65bbbbda1b600bac7685fa936f0eb9539332958"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the public access improvement programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3ed6ff6ec37bfa7db9223e65b06787ceca7202f3acf864640f0ec4bd3fdc5a67"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the public access improvement programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b3881efcaaa507f659054de3776b0d75e4ec141170606859169fe4e670a7cbd0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the public access improvement programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4b906fce585884297cf6f1d2d6a208fcdb79fb0b9407232d626d078dccb37471"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the public access improvement programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3e0786a1a84c097827698a103da30a2aa3797f59a50633cbfc45b955771517c3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the public access improvement programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c1d35ceb6814806de7034a438cbcf52f51b0aa3655aa21e958a2dff744a36cc6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the public access improvement programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a51945ea1cf5a7223018cfdb3271acf654c28fc33354222e041e44dc7f480272"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the public access improvement programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a1734de9b29c9fc2a373eb32bd388f31f16d5dce022bafed820b085d93d84805"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the public access improvement programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3d7c92289c3b45baaa05cd1d62c8a87acdcc742075706183701e7888868156d3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the public access improvement programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "98490f32071725dce39e9b71fb47791e8f81d70920f5198c2ac25fa949694f3f"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the public access improvement programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e402c5248f47a2e30522a499659bb0609f08e77bcae2d3c4085ec81da812650a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the public access improvement programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a18a6a5a1612a546772e4d2f2664b3c55adfcbafacfdc22e022b3b291576201c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the public access improvement programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9e6b06dc44db3d50bd33b589b2071302cb235a870c636981a52b1826e6af6ba6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the public access improvement programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "862f4e1fe554bed6a2fafc2b39ded36382e034e40a796e914c1ce07393043215"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the public access improvement programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a91e702abf9756d0417ddd1cb6027be774005b9717c2b7024e7fc9805a0e72bd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the public access improvement programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1f8f55806065cba20d6b9bdee558040acdd5588c4a8148abef268c97b9e3cc50"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the public access improvement programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "272b38fbe06377a19d7fb42014e5f08e3a70a59e6d0c284b9e97a970d6494092"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the public access improvement programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a651e7172bdabf1bdddaabec2a0ece40959da61dba7f9b8b6141bc9f7825b3cd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the public access improvement programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8725ffd8e2fc962f2413997a4b2f369c81d3429e40ea4c38daaa0a86142788f4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the public access improvement programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "34bfa7e0cf051dce3e06ad0d11b367d8812899db503cecffe3ac72bf09ce8c9f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the public access improvement programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about accessibility and public space, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关无障碍与公共空间的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "028d27139dde6cf122eab38978a38e9a125193cccab2b7d54cd70e9596165c5f",
+      "referenceAnswerFingerprint": "2ee814a819fac833b896ce36ad15788422c3d372d10547c9d304dde95d0a6213"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the accessibility working group suggesting a practical change to the public access improvement programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the public access improvement programme. People have noticed an accessible route hidden from the street, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "3c013955913ae7174e8f2d68c73fe668fe7bf3b6c6e1b000df18773d4d0892df",
+      "sampleAnswerFingerprint": "c74ffcd76387bebd1df3b7f468e0926ddc59d36ac603f1c63a94d10cbe59b56b"
+    }
+  ],
+  "fingerprintManifest": [
+    "1d3266ab5450f787d0a59394fdf739cd2b10fb3ba0d51d8060d0975db16959eb",
+    "d3ebcdee5e5fea620fd4b75ddcc9468f34ebfd316951666a509f7436ff10c8ca",
+    "6dffcdee272918e77444c51a834c050cd415541a34766353f63e924998d514dd",
+    "2ca685b7403341770f63a06304626e226e5264b6ec7a2b85dedf771f2d063a4d",
+    "ed71d57d9da4e9023819ae19bb7fb8359a3f8c753b10aff7c7ed3b57e7cc8785",
+    "c509a8b8426a88f8332447321e55a78c9e3a778fb7eaf670e83c54fac161a9b2",
+    "8bc8a1dec3fdc65e70caba9391dd6290cb4ec429f424db51bc3d12cc1b9005db",
+    "dbef1c1847dabbe87255ab9f2d140247efbae3081a84d7bb7e308c994dc1c9aa",
+    "b3265cb532c934bd2d1a0584c8ddede08e91b1426c9592f8bf141aef61c60bd9",
+    "6e92f9a70bef2e09055a24bafe7bbaa7223a101b76a51d3611e45e61cf4256b5",
+    "b3ed0eb0bcf5551e9b4e4518fff846f3c161f05d1725e04e57bafb13d80e21e2",
+    "248f21c33b026bc64b8c51878b9e5a783f82a8b4aa44de63efff3b5123a8be68",
+    "c3ecf49089c09844bf924d114b7831e52cd029557bcec993b29fcd082bff4a62",
+    "6d32879303ff5e358573b8911a7e3f8401654b41c1a09b28013a864b93067253",
+    "b7eb567aac3e8803be3515f923ac38aa41cd33803f06fdbe4a882c161e1255ef",
+    "d5462d891c8081998a406034382041f8fd193c39cf6a34ebbb2eeaf3ba6b42fe",
+    "0c93685fc08d1a6ea4fef754d1a23f1f1611e09efb61a7cd95a9d9feb0804d03",
+    "cad4eaf29b90161966de3bc44d35a4cf2621d1d1ae900d94dfc901034da8dc4b",
+    "e1a4f4109baf9442403dbc0a5d38dce7af41d4e9a463ce621831fc3ad53f620d",
+    "a5f679798ba21549974621a31770bcfd980beb2067abb06f015bd45f94a9d8a4",
+    "f591b45396ae579423f6ff51d58c9a33ce8eff82b34ead4c59c0cde930af94c6",
+    "f316c91a869101f5e0f3d996fd659f773531df992694287fb8bdf2cee37798ed",
+    "c43cf2f7472cf11877318d3880730487f48885172e412e80b77b382123d4a96a",
+    "cf97d216311242f4ca051c3e17c349c5e07e95a7f05b3ea16b33287eca5817ff",
+    "5b6d13c60d0e25ab038187a87bb3b5f30b5410d751fcdacc14cf8a81cf3ab6e9",
+    "652bc11dc5d5fd33fb5f635e4747b211285df3412588f807251af3552e827579",
+    "3a7798308264be5afc60b2caa1d7e2c1ecb9918413e2b8e8e3b784882f81826c",
+    "f36c3a6f85f0f1b4f2ccc4940e2c53ca54fd7f6a721f751faccadd3e698f6b4a",
+    "33e850b61eb25726659ae12db7bb96d842dc5cab3f349210187111affb80e70e",
+    "3c8dcf8f3ff42938daa904f7c019d59617ec8e35ef9c50e9413530f0ca4709f0",
+    "acd81d6dc29e51323df41f5b8cd09ccb024502f7bb1154fab639040ff53e82f8",
+    "5f017abf742fd7086f4a1f6da0d1459d1d69b513b6a02ec7c593c9cdde2c329f",
+    "06accf03ed5a9824816aa0282db4929f74132f527263287db988c677c570cdf2",
+    "91c74b8691340492bbc747a9ed6b03409cadea7a2b9cb33c867a22abef70f3ca",
+    "fc0aba24fdf075e259b111b64ede146d8c810bd540a5497c367975cb60eff878",
+    "c05265fd264b8d32ee7af7910e8cd21a61575c5e6ecc20b726c7626c657c9eea",
+    "a720f5150111239eda0b96a88ebff97ed9ce760899cd66b8a595e522c8e11b91",
+    "cbbf29b6eb08f704556c6409e65bbbbda1b600bac7685fa936f0eb9539332958",
+    "3ed6ff6ec37bfa7db9223e65b06787ceca7202f3acf864640f0ec4bd3fdc5a67",
+    "b3881efcaaa507f659054de3776b0d75e4ec141170606859169fe4e670a7cbd0",
+    "4b906fce585884297cf6f1d2d6a208fcdb79fb0b9407232d626d078dccb37471",
+    "3e0786a1a84c097827698a103da30a2aa3797f59a50633cbfc45b955771517c3",
+    "c1d35ceb6814806de7034a438cbcf52f51b0aa3655aa21e958a2dff744a36cc6",
+    "a51945ea1cf5a7223018cfdb3271acf654c28fc33354222e041e44dc7f480272",
+    "a1734de9b29c9fc2a373eb32bd388f31f16d5dce022bafed820b085d93d84805",
+    "3d7c92289c3b45baaa05cd1d62c8a87acdcc742075706183701e7888868156d3",
+    "98490f32071725dce39e9b71fb47791e8f81d70920f5198c2ac25fa949694f3f",
+    "e402c5248f47a2e30522a499659bb0609f08e77bcae2d3c4085ec81da812650a",
+    "a18a6a5a1612a546772e4d2f2664b3c55adfcbafacfdc22e022b3b291576201c",
+    "9e6b06dc44db3d50bd33b589b2071302cb235a870c636981a52b1826e6af6ba6",
+    "862f4e1fe554bed6a2fafc2b39ded36382e034e40a796e914c1ce07393043215",
+    "a91e702abf9756d0417ddd1cb6027be774005b9717c2b7024e7fc9805a0e72bd",
+    "1f8f55806065cba20d6b9bdee558040acdd5588c4a8148abef268c97b9e3cc50",
+    "272b38fbe06377a19d7fb42014e5f08e3a70a59e6d0c284b9e97a970d6494092",
+    "a651e7172bdabf1bdddaabec2a0ece40959da61dba7f9b8b6141bc9f7825b3cd",
+    "8725ffd8e2fc962f2413997a4b2f369c81d3429e40ea4c38daaa0a86142788f4",
+    "34bfa7e0cf051dce3e06ad0d11b367d8812899db503cecffe3ac72bf09ce8c9f",
+    "028d27139dde6cf122eab38978a38e9a125193cccab2b7d54cd70e9596165c5f",
+    "2ee814a819fac833b896ce36ad15788422c3d372d10547c9d304dde95d0a6213",
+    "3c013955913ae7174e8f2d68c73fe668fe7bf3b6c6e1b000df18773d4d0892df",
+    "c74ffcd76387bebd1df3b7f468e0926ddc59d36ac603f1c63a94d10cbe59b56b"
+  ],
+  "contentFingerprint": "eb33d90133ee74375278f8db1d49cebe347b73ed6b35dfdbea347a8e0d2c0274"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-77",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 77 · 交通组织与配送",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 77,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about a bus connection after work",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to a bus connection after work. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the transport information desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the transport planning team.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "7180e1a23ce3804fe73c3a09af5cbc037ea6b259d2450ee8af8966359d271fa3",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about a bus connection after work”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the transport information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the transport planning team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "638f63431d28c61f6a794fa9b13d1985404246b59bda08d47301438c0e7917f8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about a bus connection after work”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the transport information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the transport planning team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f437b726c6fa4b9b0afbff22197e410eec37609f6951f7154ed740391a35fdb7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about a bus connection after work”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the transport information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the transport planning team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "42534b5cb6082d422f5b096e30ebfb0c164a413d16b7fb56baade2a7ff3220a1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about a bus connection after work”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the transport information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the transport planning team.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1d9e804f6e7c58dda97c7c897a88ce3785d60ef616d366382ebf18e527f4f81d"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying deliveries to a narrow street",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about deliveries to a narrow street is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the transport information desk.",
+        "D": "Please send it to the transport planning team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "1e20387b49f77ffb64e9cd07c5b59be850ecd79cb10bc281f6cb3f771a50749e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying deliveries to a narrow street”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the transport information desk.",
+            "D": "Please send it to the transport planning team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "88898ca67ce4570e54b5e40aa3292d198115f47fb27c8cf806e589eae06724c1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying deliveries to a narrow street”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the transport information desk.",
+            "D": "Please send it to the transport planning team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2ac4e3af89d661e7bf09c719adbc15c3d73d59ad7f26eb0a3175b046bef06cf2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying deliveries to a narrow street”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the transport information desk.",
+            "D": "Please send it to the transport planning team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "777413f375edaaa25e4ca18463e7d5f47d4b1969f291db33be96ad3d8f1c460a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on finding a cycle route at night",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about finding a cycle route at night last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "38c60f71d29189655e378ee8a0dbc842b6ce840db42bab8c9c661c78fa86b4d4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on finding a cycle route at night”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "16c621d07d3b3a9994e20238465a021948e453f7f5ca850f62e7507fd62bda83"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on finding a cycle route at night”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f11a73be9f41fcdab756291b47b18de7bc25e325fca64cae8408766e6d5c3ea9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on finding a cycle route at night”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e3b720d58601301ee4841de8cb5934d512f69afa79cac18c92b735db4bd0bb15"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A bus connection after work",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An evening bus reached the station just before a train left. Workers complained that the connection rarely worked in practice. The main obstacle was a timetable with no walking allowance. The printed arrival time assumed that passengers could cross the station instantly. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used records of actual bus and walking times. Planners followed the route over several evenings and counted missed connections. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a small schedule shift made the transfer possible. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a later train connection shown in route guidance. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: a timetable should reflect a whole journey. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a bus connection after work, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "75140450937f5803f2e7b051b0e2e572612106e948c91d602dc16aff70d05e03",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A bus connection after work: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "unloading without a shared time plan",
+            "B": "a timetable with no walking allowance",
+            "C": "direction signs visible only in daylight",
+            "D": "a short collection period for many households"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "43d1e1c43b4367666aaf0e735a85d4ce4e136a32597d355012dfe92bdbd6e016"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A bus connection after work: What method was used to investigate the situation?",
+          "options": {
+            "A": "delivery counts by hour and shop",
+            "B": "a supervised evening route check",
+            "C": "records of actual bus and walking times",
+            "D": "a review of collection logs"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e952bace43b28a25b771ae93c5cf9819331f94ac90d2e8f29a24a2abfc5be656"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A bus connection after work: What did the evidence indicate?",
+          "options": {
+            "A": "most deliveries could avoid the lunch period",
+            "B": "one junction caused most wrong turns",
+            "C": "extended access mattered more than more space",
+            "D": "a small schedule shift made the transfer possible"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1f5f04de1ae535960b53bf9e57a85c07624c65a4231fd5cd414dc62e0b7e3183"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A bus connection after work: How was the arrangement changed?",
+          "options": {
+            "A": "a later train connection shown in route guidance",
+            "B": "coordinated delivery windows and clearer bay signs",
+            "C": "reflective signs at the decision point",
+            "D": "two shorter opening periods on different days"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "19793f06483567cd54dda313c40052e44cf9c29cf4f1a4222aff9406a667fed8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A bus connection after work: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "efficient delivery must respect street safety",
+            "B": "a timetable should reflect a whole journey",
+            "C": "route information must work in actual conditions",
+            "D": "service design should match user schedules"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a4bb44d6eb609cc63697eff429925d5c8409f4af4d2f007dd03ecf9a05531b71"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Deliveries to a narrow street",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Several shops on a narrow street received parcels during the lunch rush. Vans sometimes stopped across the pedestrian crossing. The main obstacle was unloading without a shared time plan. Drivers chose the nearest available space even when a safe bay stood farther away. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used delivery counts by hour and shop. Traders and drivers compared busy periods and checked the distance to the legal loading bay. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated most deliveries could avoid the lunch period. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced coordinated delivery windows and clearer bay signs. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: efficient delivery must respect street safety. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in deliveries to a narrow street, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "21417c908beb0dd9ef3cdde302098bf4e47ec4bacdadc32e73537eb5f7f5461c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Deliveries to a narrow street: What problem did the people involved notice?",
+          "options": {
+            "A": "a timetable with no walking allowance",
+            "B": "direction signs visible only in daylight",
+            "C": "a short collection period for many households",
+            "D": "unloading without a shared time plan"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "906688e21bd02234d67afc078c78dc50ee3c156a53a31b9a353c30bf5a9b691c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Deliveries to a narrow street: What was the first investigative step?",
+          "options": {
+            "A": "delivery counts by hour and shop",
+            "B": "records of actual bus and walking times",
+            "C": "a supervised evening route check",
+            "D": "a review of collection logs"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9cee9ad861a35f05a6dc4a399ed17a6c82c34b4a84eff1881abcdb23f5ee9575"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Deliveries to a narrow street: What was learned from the records?",
+          "options": {
+            "A": "a small schedule shift made the transfer possible",
+            "B": "most deliveries could avoid the lunch period",
+            "C": "one junction caused most wrong turns",
+            "D": "extended access mattered more than more space"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0956e247f818cf6be3e68ba745160d248d4ab744e1523a49aacb289cf207bd89"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Deliveries to a narrow street: What adjustment followed?",
+          "options": {
+            "A": "a later train connection shown in route guidance",
+            "B": "reflective signs at the decision point",
+            "C": "coordinated delivery windows and clearer bay signs",
+            "D": "two shorter opening periods on different days"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b6ff0104cf8e0e3631ad83e4ae1bad9d4f6b930d44f957d00d3ee0978744e324"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Deliveries to a narrow street: What is the central message?",
+          "options": {
+            "A": "a timetable should reflect a whole journey",
+            "B": "route information must work in actual conditions",
+            "C": "service design should match user schedules",
+            "D": "efficient delivery must respect street safety"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5dcf4c2bfcaa9ed495dbe7463c53669f3e98919aebd21ee528023d055f26b05a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Finding a cycle route at night",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Cyclists used a marked route across a park. At dusk, some missed a turn and entered an unlit service road. The main obstacle was direction signs visible only in daylight. The arrow used low contrast and stood behind branches from the usual approach. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a supervised evening route check. The council invited riders to identify junctions while noting sight lines without placing anyone at risk. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated one junction caused most wrong turns. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced reflective signs at the decision point. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: route information must work in actual conditions. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in finding a cycle route at night, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "8475cb2e6c4ca7acc68f9ad041c58073636f0b22ad302f2f864c40972297d7b9",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Finding a cycle route at night: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a timetable with no walking allowance",
+            "B": "direction signs visible only in daylight",
+            "C": "unloading without a shared time plan",
+            "D": "a short collection period for many households"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "7dd0ed1489f78cba110875ae4ae0de7e6b3b95965c32be27f6a50f1f4a65df42"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Finding a cycle route at night: How did the team gather information?",
+          "options": {
+            "A": "records of actual bus and walking times",
+            "B": "delivery counts by hour and shop",
+            "C": "a supervised evening route check",
+            "D": "a review of collection logs"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ef5fd4cac61c06ded6859239bc84590bbb0bfe90957aef607aa1b3d5a0082bcf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Finding a cycle route at night: What did the team discover?",
+          "options": {
+            "A": "a small schedule shift made the transfer possible",
+            "B": "most deliveries could avoid the lunch period",
+            "C": "extended access mattered more than more space",
+            "D": "one junction caused most wrong turns"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4584ca91ee3bc788b88129d0eab1db4088d84fe41e5bf3e73ff3aa660ddddb3e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Finding a cycle route at night: What did it do in response?",
+          "options": {
+            "A": "reflective signs at the decision point",
+            "B": "a later train connection shown in route guidance",
+            "C": "coordinated delivery windows and clearer bay signs",
+            "D": "two shorter opening periods on different days"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6c878c5b03c0c2e7944030393974315de43e218c32dbe169a2771eedb93553b4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Finding a cycle route at night: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "a timetable should reflect a whole journey",
+            "B": "route information must work in actual conditions",
+            "C": "efficient delivery must respect street safety",
+            "D": "service design should match user schedules"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ce28b4fe5683b474ff51b7a950c436290bea3d0a1e35dc8efd4819321b6ea130"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Sharing a parcel collection point",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A housing block introduced a secure parcel room. Residents liked it, but weekend collections formed a line outside the entrance. The main obstacle was a short collection period for many households. The room was open only when one staff member was present on Saturday morning. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review of collection logs. Managers compared arrival times and asked residents which alternatives would be practical. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated extended access mattered more than more space. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced two shorter opening periods on different days. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: service design should match user schedules. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in sharing a parcel collection point, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "793d60ca20761c8fa53f29fcda144dc2f3b7fcd371679445f45269617e93f04a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Sharing a parcel collection point: What was the main obstacle?",
+          "options": {
+            "A": "a timetable with no walking allowance",
+            "B": "unloading without a shared time plan",
+            "C": "direction signs visible only in daylight",
+            "D": "a short collection period for many households"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "02b3d4ed98df506cac0eba697be1eae32bc17ad34d129e0e75faebb256898fe0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Sharing a parcel collection point: How was the idea examined?",
+          "options": {
+            "A": "a review of collection logs",
+            "B": "records of actual bus and walking times",
+            "C": "delivery counts by hour and shop",
+            "D": "a supervised evening route check"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e34d67a23030510221a001c3ec4cf6b60fce7a6eed96edc30396d1fed2750262"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Sharing a parcel collection point: Which finding shaped the decision?",
+          "options": {
+            "A": "a small schedule shift made the transfer possible",
+            "B": "extended access mattered more than more space",
+            "C": "most deliveries could avoid the lunch period",
+            "D": "one junction caused most wrong turns"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "03399388e0234e0e6ebc3888d3bb2a31511bd092d4214cd5f03a5bf00dbe82b3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Sharing a parcel collection point: What change did the group make?",
+          "options": {
+            "A": "a later train connection shown in route guidance",
+            "B": "coordinated delivery windows and clearer bay signs",
+            "C": "two shorter opening periods on different days",
+            "D": "reflective signs at the decision point"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3a9209e385131d05393b4472ac3701d074a92bfec784b896721ee17d8f1eb077"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Sharing a parcel collection point: What lesson does the writer emphasize?",
+          "options": {
+            "A": "a timetable should reflect a whole journey",
+            "B": "efficient delivery must respect street safety",
+            "C": "route information must work in actual conditions",
+            "D": "service design should match user schedules"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "768680fbbe3604e8f8f962e4df7a269045ffcba789f578c546574963aff4e4b4"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the local transport coordination programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4cbded822eaadc49135cbe693abc53bd0e4e2791e824dd224f11870dde87bd00"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the local transport coordination programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d187ac6210c1566b33bc50996153ba5cbd5a518eeac35d02e5ce438e98245978"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the local transport coordination programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4047999b30e55b8dd223f2039877b37349ea91561ca182305d93e641bf838671"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the local transport coordination programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f9120088057f808fa4e26d3e91b1177514ec3470be51ea90f372d4a3e56d8e25"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the local transport coordination programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0710835b0e6d837538b97b94b8e727a42336459f16fbf3165c761a21d1815006"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the local transport coordination programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5130d47fadb93a1b28cfbe09d35e33f063178c8a7b13949818cb894afb56e8bd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the local transport coordination programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "637cf20571a7cb8d8ed62e6a8f4ad29d8f906df3e51f65b3dc1c7c4af5226199"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the local transport coordination programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a593487429ca864490f796c6edd8c80a617ca0b77834b1e123595ba126d01ed9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the local transport coordination programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5d9f165ea6c560acb214d53f1879eb4e84ade6bad3e7b1863b5e7119bdd5d324"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the local transport coordination programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7b2a20f2424316072a320a3a18730327a963aab30ed1305decc5b5404d1e1c0b"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local transport coordination programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4a004d7a47cdc00a209711505e82097218c15f06775b510ee7e65919e3eb4da8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local transport coordination programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "428814b36451fb5e9eced6908225ffc32501ef3fdc38c3a147c1868d2dab7266"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local transport coordination programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9dea967dd7018f54352b5eb9c85b20bdc3d066cf2b759cfb544c6267a60a6471"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local transport coordination programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f123c71be9672399b8490043f127d6da783248b96e46c03b36850b961642291b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local transport coordination programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4c80cb69a080db4874bd296da610da05f9344ad67131277a969ae54aca02f5c0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local transport coordination programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "190e929e784915a567df225f068713857b5570e288d1060e65a817a177f16b26"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local transport coordination programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f2ad5b1716ae78e52a6b7d1323890430873702bf5ca79e7ab0c12d2d74ad5300"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local transport coordination programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8d0071645e097f7e73d7d3071057c3d4381f0f317f78fff1eef021209f431a10"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local transport coordination programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "402e5492a954cb0df091f7902df0906ecda62de4326fd721708574cf34b05db7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local transport coordination programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6481bab7068063c5d95e5930a4fff38552558454c557eb28e9012c14c3a67aad"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the local transport coordination programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about transport and local delivery, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关交通组织与配送的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "38a42d618781e9424c76d392d9a2728dedd0a1fe2439108d3b66770972147cc4",
+      "referenceAnswerFingerprint": "b7ca4b4674b7091f5b82e090d11c0dbaeb663a3472ed53ba6c424f97bafec586"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the transport planning team suggesting a practical change to the local transport coordination programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local transport coordination programme. People have noticed a timetable with no walking allowance, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "07e08ea8bf72fb276f3360b58e56d56b7b86154e472ebce54edce54c98774fb6",
+      "sampleAnswerFingerprint": "0196b138706fdbcfe92e6ad14dcb7ec39f23e40fe437cb3bda4e84a90e1c125c"
+    }
+  ],
+  "fingerprintManifest": [
+    "7180e1a23ce3804fe73c3a09af5cbc037ea6b259d2450ee8af8966359d271fa3",
+    "638f63431d28c61f6a794fa9b13d1985404246b59bda08d47301438c0e7917f8",
+    "f437b726c6fa4b9b0afbff22197e410eec37609f6951f7154ed740391a35fdb7",
+    "42534b5cb6082d422f5b096e30ebfb0c164a413d16b7fb56baade2a7ff3220a1",
+    "1d9e804f6e7c58dda97c7c897a88ce3785d60ef616d366382ebf18e527f4f81d",
+    "1e20387b49f77ffb64e9cd07c5b59be850ecd79cb10bc281f6cb3f771a50749e",
+    "88898ca67ce4570e54b5e40aa3292d198115f47fb27c8cf806e589eae06724c1",
+    "2ac4e3af89d661e7bf09c719adbc15c3d73d59ad7f26eb0a3175b046bef06cf2",
+    "777413f375edaaa25e4ca18463e7d5f47d4b1969f291db33be96ad3d8f1c460a",
+    "38c60f71d29189655e378ee8a0dbc842b6ce840db42bab8c9c661c78fa86b4d4",
+    "16c621d07d3b3a9994e20238465a021948e453f7f5ca850f62e7507fd62bda83",
+    "f11a73be9f41fcdab756291b47b18de7bc25e325fca64cae8408766e6d5c3ea9",
+    "e3b720d58601301ee4841de8cb5934d512f69afa79cac18c92b735db4bd0bb15",
+    "75140450937f5803f2e7b051b0e2e572612106e948c91d602dc16aff70d05e03",
+    "43d1e1c43b4367666aaf0e735a85d4ce4e136a32597d355012dfe92bdbd6e016",
+    "e952bace43b28a25b771ae93c5cf9819331f94ac90d2e8f29a24a2abfc5be656",
+    "1f5f04de1ae535960b53bf9e57a85c07624c65a4231fd5cd414dc62e0b7e3183",
+    "19793f06483567cd54dda313c40052e44cf9c29cf4f1a4222aff9406a667fed8",
+    "a4bb44d6eb609cc63697eff429925d5c8409f4af4d2f007dd03ecf9a05531b71",
+    "21417c908beb0dd9ef3cdde302098bf4e47ec4bacdadc32e73537eb5f7f5461c",
+    "906688e21bd02234d67afc078c78dc50ee3c156a53a31b9a353c30bf5a9b691c",
+    "9cee9ad861a35f05a6dc4a399ed17a6c82c34b4a84eff1881abcdb23f5ee9575",
+    "0956e247f818cf6be3e68ba745160d248d4ab744e1523a49aacb289cf207bd89",
+    "b6ff0104cf8e0e3631ad83e4ae1bad9d4f6b930d44f957d00d3ee0978744e324",
+    "5dcf4c2bfcaa9ed495dbe7463c53669f3e98919aebd21ee528023d055f26b05a",
+    "8475cb2e6c4ca7acc68f9ad041c58073636f0b22ad302f2f864c40972297d7b9",
+    "7dd0ed1489f78cba110875ae4ae0de7e6b3b95965c32be27f6a50f1f4a65df42",
+    "ef5fd4cac61c06ded6859239bc84590bbb0bfe90957aef607aa1b3d5a0082bcf",
+    "4584ca91ee3bc788b88129d0eab1db4088d84fe41e5bf3e73ff3aa660ddddb3e",
+    "6c878c5b03c0c2e7944030393974315de43e218c32dbe169a2771eedb93553b4",
+    "ce28b4fe5683b474ff51b7a950c436290bea3d0a1e35dc8efd4819321b6ea130",
+    "793d60ca20761c8fa53f29fcda144dc2f3b7fcd371679445f45269617e93f04a",
+    "02b3d4ed98df506cac0eba697be1eae32bc17ad34d129e0e75faebb256898fe0",
+    "e34d67a23030510221a001c3ec4cf6b60fce7a6eed96edc30396d1fed2750262",
+    "03399388e0234e0e6ebc3888d3bb2a31511bd092d4214cd5f03a5bf00dbe82b3",
+    "3a9209e385131d05393b4472ac3701d074a92bfec784b896721ee17d8f1eb077",
+    "768680fbbe3604e8f8f962e4df7a269045ffcba789f578c546574963aff4e4b4",
+    "4cbded822eaadc49135cbe693abc53bd0e4e2791e824dd224f11870dde87bd00",
+    "d187ac6210c1566b33bc50996153ba5cbd5a518eeac35d02e5ce438e98245978",
+    "4047999b30e55b8dd223f2039877b37349ea91561ca182305d93e641bf838671",
+    "f9120088057f808fa4e26d3e91b1177514ec3470be51ea90f372d4a3e56d8e25",
+    "0710835b0e6d837538b97b94b8e727a42336459f16fbf3165c761a21d1815006",
+    "5130d47fadb93a1b28cfbe09d35e33f063178c8a7b13949818cb894afb56e8bd",
+    "637cf20571a7cb8d8ed62e6a8f4ad29d8f906df3e51f65b3dc1c7c4af5226199",
+    "a593487429ca864490f796c6edd8c80a617ca0b77834b1e123595ba126d01ed9",
+    "5d9f165ea6c560acb214d53f1879eb4e84ade6bad3e7b1863b5e7119bdd5d324",
+    "7b2a20f2424316072a320a3a18730327a963aab30ed1305decc5b5404d1e1c0b",
+    "4a004d7a47cdc00a209711505e82097218c15f06775b510ee7e65919e3eb4da8",
+    "428814b36451fb5e9eced6908225ffc32501ef3fdc38c3a147c1868d2dab7266",
+    "9dea967dd7018f54352b5eb9c85b20bdc3d066cf2b759cfb544c6267a60a6471",
+    "f123c71be9672399b8490043f127d6da783248b96e46c03b36850b961642291b",
+    "4c80cb69a080db4874bd296da610da05f9344ad67131277a969ae54aca02f5c0",
+    "190e929e784915a567df225f068713857b5570e288d1060e65a817a177f16b26",
+    "f2ad5b1716ae78e52a6b7d1323890430873702bf5ca79e7ab0c12d2d74ad5300",
+    "8d0071645e097f7e73d7d3071057c3d4381f0f317f78fff1eef021209f431a10",
+    "402e5492a954cb0df091f7902df0906ecda62de4326fd721708574cf34b05db7",
+    "6481bab7068063c5d95e5930a4fff38552558454c557eb28e9012c14c3a67aad",
+    "38a42d618781e9424c76d392d9a2728dedd0a1fe2439108d3b66770972147cc4",
+    "b7ca4b4674b7091f5b82e090d11c0dbaeb663a3472ed53ba6c424f97bafec586",
+    "07e08ea8bf72fb276f3360b58e56d56b7b86154e472ebce54edce54c98774fb6",
+    "0196b138706fdbcfe92e6ad14dcb7ec39f23e40fe437cb3bda4e84a90e1c125c"
+  ],
+  "contentFingerprint": "feee97bf04918dce118d320af08c716153089f9ab83f33a916fafa07e3e59b06"
+}

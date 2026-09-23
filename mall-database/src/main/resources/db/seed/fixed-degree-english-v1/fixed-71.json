@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-71",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 71 · 环境监测与社区行动",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 71,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about measuring air near a school",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to measuring air near a school. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the environmental information desk.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the local environment group.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "2aefe47b31b18af652a1c5f897d526e0deed0ebec958462f0398238e0faefaab",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about measuring air near a school”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the environmental information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the local environment group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "cd8be1b90f42acb69e345f8e2dfda059eb79c7078d987fe20d2297a009d5451f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about measuring air near a school”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the environmental information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the local environment group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "32048101a3069c7a95472b4b083b3016090ba1d5a30bee5c46e1198c62c8e43b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about measuring air near a school”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the environmental information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the local environment group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1853a6aff975c4bb172a7239f6fe850f6093ead81883d230181b33179c6f53e9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about measuring air near a school”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the environmental information desk.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the local environment group.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4719f776abdca2d9756a1b5bb25e1b0c7b990989745304c0d2401105efa9f868"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying listening for noise after dark",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about listening for noise after dark is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the environmental information desk.",
+        "D": "Please send it to the local environment group."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "18ab8cc0d07fc4a80d2f618a6ae25255e5eff38ddd565e6630451061dfccc931",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying listening for noise after dark”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the environmental information desk.",
+            "D": "Please send it to the local environment group."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1aabf75431c150a6e0248af3c938466df90bc2e80a0751409bfb56c69056588d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying listening for noise after dark”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the environmental information desk.",
+            "D": "Please send it to the local environment group."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "884eaba8f8803a5d8e918483c848002d9755c59c50162a8cf70be2774b5c504d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying listening for noise after dark”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the environmental information desk.",
+            "D": "Please send it to the local environment group."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b2693f13c3f5d5dba7b46d21604a4f2b2733ec90fb0906351280c354470cd3e4"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a stream after heavy rain",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a stream after heavy rain last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b3ab5afb98079eb62aa4cb4ae4dd89ff075c1e0650eef7cea7fc6add0a52a4fd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a stream after heavy rain”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8058f0b24365243292e342bb722b3193ffde0ec2263dbfd5661642a26696506e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a stream after heavy rain”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9b6bf54293829815cc4e55ff8fffa047d82d593892d4ae3afd29c7345d92b507"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a stream after heavy rain”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d25d0d80f66d7c61eff3b8568a9c9a2fce573b027071eefe2a4e75e2691705ee"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Measuring air near a school",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents used portable sensors near a school gate. Their readings changed sharply when buses were waiting outside. The main obstacle was measurements taken at inconsistent times. Some volunteers sampled before the morning rush while others arrived after it. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a common timetable and location map. The group repeated readings at fixed points and noted weather and traffic conditions. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated consistent records showed the busiest period. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a regular published measurement schedule. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: environmental data needs a repeatable method. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in measuring air near a school, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "fa0ebea468e344c85c0877956e837a0f87cd597580102c60728db47861cf0b04",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Measuring air near a school: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "reports without exact times or sources",
+            "B": "samples that could not be compared reliably",
+            "C": "readings taken in sun and shade without labels",
+            "D": "measurements taken at inconsistent times"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ade79be2d1dd4ce693aa05045eca744b4e048a654c81f49d1356e1cf958c2035"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Measuring air near a school: What method was used to investigate the situation?",
+          "options": {
+            "A": "a common timetable and location map",
+            "B": "a dated noise diary and site visits",
+            "C": "fixed safe sampling locations",
+            "D": "a review of measurement conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e6a67259213fcc81544058b7b976d043086ecf8aee219ad53b88f444c0f0eefb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Measuring air near a school: What did the evidence indicate?",
+          "options": {
+            "A": "one late delivery slot caused most disturbance",
+            "B": "consistent records showed the busiest period",
+            "C": "rainfall timing shaped the observed pattern",
+            "D": "the first map hid important differences"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "cb06b31fa21eb0379f33dc6775be5dd4a63f147ff40eaeef29149ed3e906d0d0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Measuring air near a school: How was the arrangement changed?",
+          "options": {
+            "A": "a revised unloading window agreed with the operator",
+            "B": "a log that links samples to weather conditions",
+            "C": "a regular published measurement schedule",
+            "D": "separate maps for comparable conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "53c2ae523e9a046fd8c185d470a7c481d6f4908c50404545c396a4f995d7e6ab"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Measuring air near a school: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "specific evidence supports fair solutions",
+            "B": "a useful observation needs context",
+            "C": "clear data presentation matters as much as collection",
+            "D": "environmental data needs a repeatable method"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "02df9ede24f7effd3d12cc28189c413504c69323c70768625600c814726fc763"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Listening for noise after dark",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Neighbours complained about evening noise beside a delivery yard. Accounts differed because the loudest periods were brief. The main obstacle was reports without exact times or sources. General descriptions made it hard to distinguish deliveries from ordinary street activity. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a dated noise diary and site visits. Residents recorded times while staff observed the yard without identifying individual workers. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated one late delivery slot caused most disturbance. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised unloading window agreed with the operator. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: specific evidence supports fair solutions. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in listening for noise after dark, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "eafc7f505eac0c159f4879c40085b22b14ec618133ba1a33ebe8dd3cba528954",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Listening for noise after dark: What problem did the people involved notice?",
+          "options": {
+            "A": "measurements taken at inconsistent times",
+            "B": "reports without exact times or sources",
+            "C": "samples that could not be compared reliably",
+            "D": "readings taken in sun and shade without labels"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5d2c88023a46ceacbacd07ca8b64934bab7d7c6fa821da73cac3cd9004a0b1c8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Listening for noise after dark: What was the first investigative step?",
+          "options": {
+            "A": "a common timetable and location map",
+            "B": "fixed safe sampling locations",
+            "C": "a dated noise diary and site visits",
+            "D": "a review of measurement conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a58c32b51a66981c01b919ae96434fe92e4c5c1b0304234777456268d2c05f94"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Listening for noise after dark: What was learned from the records?",
+          "options": {
+            "A": "consistent records showed the busiest period",
+            "B": "rainfall timing shaped the observed pattern",
+            "C": "the first map hid important differences",
+            "D": "one late delivery slot caused most disturbance"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "7195c68de75c2d2983a70f1b198cf028dfd71dab5e81e7b8a4d29d0675c5a0a9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Listening for noise after dark: What adjustment followed?",
+          "options": {
+            "A": "a revised unloading window agreed with the operator",
+            "B": "a regular published measurement schedule",
+            "C": "a log that links samples to weather conditions",
+            "D": "separate maps for comparable conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3ec66a755ba287796b8e51c2c42eda78780a77fcfef490b6086015695715d8ca"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Listening for noise after dark: What is the central message?",
+          "options": {
+            "A": "environmental data needs a repeatable method",
+            "B": "specific evidence supports fair solutions",
+            "C": "a useful observation needs context",
+            "D": "clear data presentation matters as much as collection"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "23ed851591af7bf5c9e7c7c59695b86b3c6577ff83c5aae78d9fb8811a9bc64b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A stream after heavy rain",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A student group noticed cloudy water in a small stream after storms. Its first samples were taken at different points each week. The main obstacle was samples that could not be compared reliably. A change in location might explain a result as easily as a change in water quality. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used fixed safe sampling locations. Teachers checked conditions, recorded rainfall and used appropriate supervision for every visit. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated rainfall timing shaped the observed pattern. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a log that links samples to weather conditions. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: a useful observation needs context. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a stream after heavy rain, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "6b3f5d1637a2cddf05437a4bf657997e334d90e4dc53bd848060e519ac22d1a3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A stream after heavy rain: Why was the original plan difficult to use?",
+          "options": {
+            "A": "measurements taken at inconsistent times",
+            "B": "reports without exact times or sources",
+            "C": "readings taken in sun and shade without labels",
+            "D": "samples that could not be compared reliably"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e8029aea3d783769083c8354cf4c15f5b8c8e67430c569be0ce8b6982f3a6391"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A stream after heavy rain: How did the team gather information?",
+          "options": {
+            "A": "fixed safe sampling locations",
+            "B": "a common timetable and location map",
+            "C": "a dated noise diary and site visits",
+            "D": "a review of measurement conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fc728c6e4140a0ce91a729eaf0e7e391139f0f8070c41cb5206db066627ec28e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A stream after heavy rain: What did the team discover?",
+          "options": {
+            "A": "consistent records showed the busiest period",
+            "B": "rainfall timing shaped the observed pattern",
+            "C": "one late delivery slot caused most disturbance",
+            "D": "the first map hid important differences"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3d036358707de79b01dcd5daf922dfef56c75058796febf81bba75633959e8df"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A stream after heavy rain: What did it do in response?",
+          "options": {
+            "A": "a regular published measurement schedule",
+            "B": "a revised unloading window agreed with the operator",
+            "C": "a log that links samples to weather conditions",
+            "D": "separate maps for comparable conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "aa7c4130ffc22b397edf098a644b732b3dfc633cd04c9910124c81e7ca1c61cb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A stream after heavy rain: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "environmental data needs a repeatable method",
+            "B": "specific evidence supports fair solutions",
+            "C": "clear data presentation matters as much as collection",
+            "D": "a useful observation needs context"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5d59d48df743c647a145ace183c1e065401b1f4210750b4683b4fbbe9837fdf3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Sharing a neighbourhood temperature map",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Volunteers measured heat on local streets. Their map seemed to show one park as the hottest place, surprising regular visitors. The main obstacle was readings taken in sun and shade without labels. Different surfaces and times of day had been mixed in one colour scale. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a review of measurement conditions. The team compared device placement, shade and timing before presenting the map again. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated the first map hid important differences. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced separate maps for comparable conditions. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: clear data presentation matters as much as collection. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in sharing a neighbourhood temperature map, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "b696b867d6c680f6b675e147bc9410ac77a3b731cda93342bbaeb9ca553256a2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Sharing a neighbourhood temperature map: What was the main obstacle?",
+          "options": {
+            "A": "measurements taken at inconsistent times",
+            "B": "readings taken in sun and shade without labels",
+            "C": "reports without exact times or sources",
+            "D": "samples that could not be compared reliably"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "dc2a9b4c5f961f0f0ea453d610d218bde961f76572157655c0547bbc768aeb20"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Sharing a neighbourhood temperature map: How was the idea examined?",
+          "options": {
+            "A": "a common timetable and location map",
+            "B": "a dated noise diary and site visits",
+            "C": "a review of measurement conditions",
+            "D": "fixed safe sampling locations"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "898be40c25abcc34b26181c9a83c2fdcef095ca90ce95c8b632117089af777a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Sharing a neighbourhood temperature map: Which finding shaped the decision?",
+          "options": {
+            "A": "consistent records showed the busiest period",
+            "B": "one late delivery slot caused most disturbance",
+            "C": "rainfall timing shaped the observed pattern",
+            "D": "the first map hid important differences"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d9fed43dc6af25505b1c089b26f4eed0f0048e44cd9bad2e8b2a8b4ce66ba8e4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Sharing a neighbourhood temperature map: What change did the group make?",
+          "options": {
+            "A": "separate maps for comparable conditions",
+            "B": "a regular published measurement schedule",
+            "C": "a revised unloading window agreed with the operator",
+            "D": "a log that links samples to weather conditions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1c52248afdde6990723147d2962495752058d580dbc22b10d3131bc17223cb65"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Sharing a neighbourhood temperature map: What lesson does the writer emphasize?",
+          "options": {
+            "A": "environmental data needs a repeatable method",
+            "B": "clear data presentation matters as much as collection",
+            "C": "specific evidence supports fair solutions",
+            "D": "a useful observation needs context"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "555589179c228905e2bf1d0197c42af8c89a91b49a91a65fed708dcc7dc6470b"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the neighbourhood environment programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1fd888872a6e91e9a5117371a02a775df9e99e1631e24bb59ff36228b6a5b5dd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the neighbourhood environment programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3dfa98cfb326c51da4c341c0597b40de9530c299e4ccc0b6c6a62cd5ed29bd82"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the neighbourhood environment programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9b76d8951e662bc968c53c78b095cc37bea579cdc3bb86c891ac4f18ad122f09"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the neighbourhood environment programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fef74849f4bd710f77cf35c129055e76856cbe9876992d215b9ecac7252b649b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the neighbourhood environment programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3c1672c0d80b267a3393dcd5878453a351d74e7fb52edd90338d2bf5b7db1ac8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the neighbourhood environment programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "6cdee9a68d68bc14d8fee4567da07f631995852cc0790266ac8b762a7b2c69e7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the neighbourhood environment programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b1a1778d94192256e036cc075b3dbd3594808705a77fcc13554b4b8029af7f1c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the neighbourhood environment programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4de1da228fbf1131e9f202f2df302306b53f056be725df525cb0e07b9363a819"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the neighbourhood environment programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "5cc67d9c47293955636676738bb4d3747beb5f84491b602c271c071a72537e67"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the neighbourhood environment programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d2a223b011686383f5f4743747220e42d6f101d7bfd81f2da5c4e1055604f15c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the neighbourhood environment programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dc062975f4a4eb3dfc0eec1b4440f0e55f8ab3a4735d6c62359430f580236b52"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the neighbourhood environment programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a3319c902dc9017fa388931c2f0e3a55d38a84e7e0121838bf7cc1a20777d54c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the neighbourhood environment programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c0633d5c6a5278ace5c8cafac7358c6c4e99b395279e1bd3ba7f0bc882162ce2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the neighbourhood environment programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0f5a3087108d4d74257ebc6b79516add19325c24d95a975aca2e919d03eba4ad"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the neighbourhood environment programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "23ed4ba4a6bf3a0fd5fc0d7ac988697888929090e32d1ea2941e89fb32caaa96"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the neighbourhood environment programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f6e34eb0458406394ff03b5294962b3b46abdaa531b55d24f66649e41ffe37a9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the neighbourhood environment programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "98587424eb48d5f98cca1660ede6456fb495a8a30fd9f8153d98f898b6a7e528"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the neighbourhood environment programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a1f5d4867208693a3fcb87bc2183014fbf60316d5c3d9b1b3aafb914cb304806"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the neighbourhood environment programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "18aa5e9200ced057d7b6af9a5919a90d3d71af765dedc1ca006fd497aadfa675"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the neighbourhood environment programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f04b3e3e8515068abd8f511ec58c20744088c7a8f2a804c2e9702ed9f11efd44"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the neighbourhood environment programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about environmental monitoring and community action, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关环境监测与社区行动的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "fd7b511fced1d820f86dc3fab44df6829d4c5cbfe9c618eef7d5737379869eb6",
+      "referenceAnswerFingerprint": "f1b0ff8ed84cc638ab71aa33424c4553170a8167128f73528dbcaa1a4b15db4f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the local environment group suggesting a practical change to the neighbourhood environment programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the neighbourhood environment programme. People have noticed measurements taken at inconsistent times, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "d268f0e9c531a6bd84a6579e4613ddbeb5bcfc525d24c6e78bf45bfecd0708e0",
+      "sampleAnswerFingerprint": "a954cf8a85629a01a3e2789bfe24e2e109125b4dc02c8e70b5e2264e3b45981f"
+    }
+  ],
+  "fingerprintManifest": [
+    "2aefe47b31b18af652a1c5f897d526e0deed0ebec958462f0398238e0faefaab",
+    "cd8be1b90f42acb69e345f8e2dfda059eb79c7078d987fe20d2297a009d5451f",
+    "32048101a3069c7a95472b4b083b3016090ba1d5a30bee5c46e1198c62c8e43b",
+    "1853a6aff975c4bb172a7239f6fe850f6093ead81883d230181b33179c6f53e9",
+    "4719f776abdca2d9756a1b5bb25e1b0c7b990989745304c0d2401105efa9f868",
+    "18ab8cc0d07fc4a80d2f618a6ae25255e5eff38ddd565e6630451061dfccc931",
+    "1aabf75431c150a6e0248af3c938466df90bc2e80a0751409bfb56c69056588d",
+    "884eaba8f8803a5d8e918483c848002d9755c59c50162a8cf70be2774b5c504d",
+    "b2693f13c3f5d5dba7b46d21604a4f2b2733ec90fb0906351280c354470cd3e4",
+    "b3ab5afb98079eb62aa4cb4ae4dd89ff075c1e0650eef7cea7fc6add0a52a4fd",
+    "8058f0b24365243292e342bb722b3193ffde0ec2263dbfd5661642a26696506e",
+    "9b6bf54293829815cc4e55ff8fffa047d82d593892d4ae3afd29c7345d92b507",
+    "d25d0d80f66d7c61eff3b8568a9c9a2fce573b027071eefe2a4e75e2691705ee",
+    "fa0ebea468e344c85c0877956e837a0f87cd597580102c60728db47861cf0b04",
+    "ade79be2d1dd4ce693aa05045eca744b4e048a654c81f49d1356e1cf958c2035",
+    "e6a67259213fcc81544058b7b976d043086ecf8aee219ad53b88f444c0f0eefb",
+    "cb06b31fa21eb0379f33dc6775be5dd4a63f147ff40eaeef29149ed3e906d0d0",
+    "53c2ae523e9a046fd8c185d470a7c481d6f4908c50404545c396a4f995d7e6ab",
+    "02df9ede24f7effd3d12cc28189c413504c69323c70768625600c814726fc763",
+    "eafc7f505eac0c159f4879c40085b22b14ec618133ba1a33ebe8dd3cba528954",
+    "5d2c88023a46ceacbacd07ca8b64934bab7d7c6fa821da73cac3cd9004a0b1c8",
+    "a58c32b51a66981c01b919ae96434fe92e4c5c1b0304234777456268d2c05f94",
+    "7195c68de75c2d2983a70f1b198cf028dfd71dab5e81e7b8a4d29d0675c5a0a9",
+    "3ec66a755ba287796b8e51c2c42eda78780a77fcfef490b6086015695715d8ca",
+    "23ed851591af7bf5c9e7c7c59695b86b3c6577ff83c5aae78d9fb8811a9bc64b",
+    "6b3f5d1637a2cddf05437a4bf657997e334d90e4dc53bd848060e519ac22d1a3",
+    "e8029aea3d783769083c8354cf4c15f5b8c8e67430c569be0ce8b6982f3a6391",
+    "fc728c6e4140a0ce91a729eaf0e7e391139f0f8070c41cb5206db066627ec28e",
+    "3d036358707de79b01dcd5daf922dfef56c75058796febf81bba75633959e8df",
+    "aa7c4130ffc22b397edf098a644b732b3dfc633cd04c9910124c81e7ca1c61cb",
+    "5d59d48df743c647a145ace183c1e065401b1f4210750b4683b4fbbe9837fdf3",
+    "b696b867d6c680f6b675e147bc9410ac77a3b731cda93342bbaeb9ca553256a2",
+    "dc2a9b4c5f961f0f0ea453d610d218bde961f76572157655c0547bbc768aeb20",
+    "898be40c25abcc34b26181c9a83c2fdcef095ca90ce95c8b632117089af777a6",
+    "d9fed43dc6af25505b1c089b26f4eed0f0048e44cd9bad2e8b2a8b4ce66ba8e4",
+    "1c52248afdde6990723147d2962495752058d580dbc22b10d3131bc17223cb65",
+    "555589179c228905e2bf1d0197c42af8c89a91b49a91a65fed708dcc7dc6470b",
+    "1fd888872a6e91e9a5117371a02a775df9e99e1631e24bb59ff36228b6a5b5dd",
+    "3dfa98cfb326c51da4c341c0597b40de9530c299e4ccc0b6c6a62cd5ed29bd82",
+    "9b76d8951e662bc968c53c78b095cc37bea579cdc3bb86c891ac4f18ad122f09",
+    "fef74849f4bd710f77cf35c129055e76856cbe9876992d215b9ecac7252b649b",
+    "3c1672c0d80b267a3393dcd5878453a351d74e7fb52edd90338d2bf5b7db1ac8",
+    "6cdee9a68d68bc14d8fee4567da07f631995852cc0790266ac8b762a7b2c69e7",
+    "b1a1778d94192256e036cc075b3dbd3594808705a77fcc13554b4b8029af7f1c",
+    "4de1da228fbf1131e9f202f2df302306b53f056be725df525cb0e07b9363a819",
+    "5cc67d9c47293955636676738bb4d3747beb5f84491b602c271c071a72537e67",
+    "d2a223b011686383f5f4743747220e42d6f101d7bfd81f2da5c4e1055604f15c",
+    "dc062975f4a4eb3dfc0eec1b4440f0e55f8ab3a4735d6c62359430f580236b52",
+    "a3319c902dc9017fa388931c2f0e3a55d38a84e7e0121838bf7cc1a20777d54c",
+    "c0633d5c6a5278ace5c8cafac7358c6c4e99b395279e1bd3ba7f0bc882162ce2",
+    "0f5a3087108d4d74257ebc6b79516add19325c24d95a975aca2e919d03eba4ad",
+    "23ed4ba4a6bf3a0fd5fc0d7ac988697888929090e32d1ea2941e89fb32caaa96",
+    "f6e34eb0458406394ff03b5294962b3b46abdaa531b55d24f66649e41ffe37a9",
+    "98587424eb48d5f98cca1660ede6456fb495a8a30fd9f8153d98f898b6a7e528",
+    "a1f5d4867208693a3fcb87bc2183014fbf60316d5c3d9b1b3aafb914cb304806",
+    "18aa5e9200ced057d7b6af9a5919a90d3d71af765dedc1ca006fd497aadfa675",
+    "f04b3e3e8515068abd8f511ec58c20744088c7a8f2a804c2e9702ed9f11efd44",
+    "fd7b511fced1d820f86dc3fab44df6829d4c5cbfe9c618eef7d5737379869eb6",
+    "f1b0ff8ed84cc638ab71aa33424c4553170a8167128f73528dbcaa1a4b15db4f",
+    "d268f0e9c531a6bd84a6579e4613ddbeb5bcfc525d24c6e78bf45bfecd0708e0",
+    "a954cf8a85629a01a3e2789bfe24e2e109125b4dc02c8e70b5e2264e3b45981f"
+  ],
+  "contentFingerprint": "77bcd2e8c35a518bb2b20b5b909d0a8a7d6a01cbbe4d4a42fe31ac7195ad1295"
+}

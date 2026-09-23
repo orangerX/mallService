@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-65",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 65 · 小微经营与消费者体验",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 65,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Finding out about a bakery changes its queue",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to a bakery changes its queue. Is there a short summary?\nTutor: (1) _____\nLearner: May I take a copy home?\nTutor: (2) _____\nLearner: Who should I ask about a difficult point?\nTutor: (3) _____\nLearner: Will there be another discussion?\nTutor: (4) _____",
+      "sharedOptions": {
+        "A": "Yes, copies are available at the market service counter.",
+        "B": "Of course. Please return it next week.",
+        "C": "You can speak to the business support desk.",
+        "D": "Yes, a follow-up meeting is planned for Friday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "e8dbc7c8186125c2ec2981c110308d7ba0e4ecf5f728aa0a14945a8a0ea496dd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Finding out about a bakery changes its queue”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, copies are available at the market service counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the business support desk.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "29250fca8675722bcbd35a1e916cd67945587bc0a7fcce04a1d51ae2251fb12f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Finding out about a bakery changes its queue”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, copies are available at the market service counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the business support desk.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8155ce32fa8a132a46c276eed4742440555663921359c73c54a2b4110517f46a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Finding out about a bakery changes its queue”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, copies are available at the market service counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the business support desk.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1f2d575e672432df6cc4dc3b8929f1bc442a5c6c9d5d3e4e88acc6ea8aa51729"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Finding out about a bakery changes its queue”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes, copies are available at the market service counter.",
+            "B": "Of course. Please return it next week.",
+            "C": "You can speak to the business support desk.",
+            "D": "Yes, a follow-up meeting is planned for Friday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "eaede88ffe84c80b86235095d82f8fbfe49c4b923b542d9398100dfb0b8c2f5a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying plain return rules for a repair shop",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about plain return rules for a repair shop is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the market service counter.",
+        "D": "Please send it to the business support desk."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "bb9a728036bcde809f71d4083baffdc728f588ab3e830bf445222682d6c643ff",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying plain return rules for a repair shop”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the market service counter.",
+            "D": "Please send it to the business support desk."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ff00845b3c514f20dd41f51566b320d15caad36168c6ee7b837546a885572e4c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying plain return rules for a repair shop”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the market service counter.",
+            "D": "Please send it to the business support desk."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8a159e12c767a9d457ea7f56a9d4893cc58a3a90363f2b5c11c47465bb298d84"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying plain return rules for a repair shop”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the market service counter.",
+            "D": "Please send it to the business support desk."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "9231e06d343032c503405ddff5d78340e4834ec4ee7b2e7686857b3846f133cf"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on sharing a market delivery space",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about sharing a market delivery space last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "249314e4fba60f390536b0ecfd9511c45156762e21436871a9a3045206877a27",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on sharing a market delivery space”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "ed4fe03e6bd4344cd9513e4fea300b9d639ccf92b6fac7f61f12fde2f9fbe8c7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on sharing a market delivery space”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6b5ee28a1a4d4e965be01997f51b5915e76ad9338e5032cf33a38b099fd4c640"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on sharing a market delivery space”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d4067721f0f5268ae39fd0b88893d72b12232bf10a35e5837a0cbb1e3abe8b25"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A bakery changes its queue",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A small bakery noticed a long morning queue. The owner considered hiring another cashier, although customers said the wait felt confusing. The main obstacle was one line serving two different kinds of order. People collecting prepaid bread waited behind customers choosing several items for the first time. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a week of queue observations. Staff recorded arrival times and asked customers whether they were collecting or making a new purchase. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated prepaid collections took very little time. The bottleneck came from mixing quick collections with longer orders, not from the total number of customers. The group then introduced a marked collection point. The bakery set aside a small counter space for prepaid orders and kept the main line for new purchases. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: a process can improve before staffing grows. Understanding the kinds of tasks in a queue helped the owner respond without assuming that more workers were the only answer. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a bakery changes its queue, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "1b9acea355b9eb74cab27f915d58ef2c151968bad5c42ea442721de7d70e3029",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A bakery changes its queue: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "return rules hidden in dense wording",
+            "B": "one line serving two different kinds of order",
+            "C": "overlapping delivery vans at a narrow gate",
+            "D": "unclear final prices for customised items"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "16fcbecd83dfed652d3cd2c977b13d2857135415504a676befbca7787f7d9a5f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A bakery changes its queue: What method was used to investigate the situation?",
+          "options": {
+            "A": "customer questions sorted by purpose",
+            "B": "a common arrival calendar",
+            "C": "a week of queue observations",
+            "D": "a trial of examples beside products"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e6cca21dece84494f90e900ef7dda2ded0679576a7cca3dfcf1f424c320f4960"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A bakery changes its queue: What did the evidence indicate?",
+          "options": {
+            "A": "collection information was hardest to find",
+            "B": "most sellers could shift by half an hour",
+            "C": "complete examples reduced misunderstandings",
+            "D": "prepaid collections took very little time"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9fab7a942bd2e5643528d89be63a15f600f122273211dc0999179107593632ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A bakery changes its queue: How was the arrangement changed?",
+          "options": {
+            "A": "a marked collection point",
+            "B": "short headings and a dated message",
+            "C": "scheduled unloading with one stated exception",
+            "D": "clear examples and a written final quote"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "51c28683c2bb3c328930d9f1e5d052859aa1de5229994dbafe752875f4945788"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A bakery changes its queue: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "consumer information should answer real questions",
+            "B": "a process can improve before staffing grows",
+            "C": "shared resources need visible coordination",
+            "D": "transparent prices support confident choices"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5c6d0385cb15b4c3d0ea60c3423e49056afb5a3a907a79e3cf96f966d961a3f7"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Plain return rules for a repair shop",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An electronics repair shop gave customers a long printed notice. People still called to ask when they could collect an item. The main obstacle was return rules hidden in dense wording. The notice mixed payment, collection and warranty details in one paragraph with several unfamiliar terms. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used customer questions sorted by purpose. Workers kept a list of repeated calls and asked a few new customers to locate the collection date on the notice. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated collection information was hardest to find. Customers understood the repair itself but missed the sentence explaining how they would receive an update. The group then introduced short headings and a dated message. The shop separated the rules into clear sections and sent each customer a direct collection update. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: consumer information should answer real questions. A complete notice is not effective if the detail people need remains difficult to find. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in plain return rules for a repair shop, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "c2aad688bd7964ee74ee7524dacfb754184b51a304089f241cb05bd3e476792c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Plain return rules for a repair shop: What problem did the people involved notice?",
+          "options": {
+            "A": "one line serving two different kinds of order",
+            "B": "overlapping delivery vans at a narrow gate",
+            "C": "unclear final prices for customised items",
+            "D": "return rules hidden in dense wording"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4c3ce722337f3a5eac98e5e26054baf0a514617c88c360cfb256f7d9041b3166"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Plain return rules for a repair shop: What was the first investigative step?",
+          "options": {
+            "A": "customer questions sorted by purpose",
+            "B": "a week of queue observations",
+            "C": "a common arrival calendar",
+            "D": "a trial of examples beside products"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "561ff7640e29a61c2c7728fbbac1e7158ba5ea5bbce22e401a69d7956b1c78b6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Plain return rules for a repair shop: What was learned from the records?",
+          "options": {
+            "A": "prepaid collections took very little time",
+            "B": "collection information was hardest to find",
+            "C": "most sellers could shift by half an hour",
+            "D": "complete examples reduced misunderstandings"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e759cb90f79ba4343ad4acdc3ece6ca4810bacc2a7998297729204c816d72c2d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Plain return rules for a repair shop: What adjustment followed?",
+          "options": {
+            "A": "a marked collection point",
+            "B": "scheduled unloading with one stated exception",
+            "C": "short headings and a dated message",
+            "D": "clear examples and a written final quote"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7a1c074530b14507b5d2941a11a199ed4d755a575dafbff164a8f4e12dc693f2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Plain return rules for a repair shop: What is the central message?",
+          "options": {
+            "A": "a process can improve before staffing grows",
+            "B": "shared resources need visible coordination",
+            "C": "transparent prices support confident choices",
+            "D": "consumer information should answer real questions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d90a72dae386461f7ab1bb6740041a17a0567dcf113e9745256835d6d037e956"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Sharing a market delivery space",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Several small market sellers received goods at the same entrance. Deliveries often blocked shoppers because arrival times were unplanned. The main obstacle was overlapping delivery vans at a narrow gate. Individual sellers each chose a convenient hour, but the shared space could not safely hold several vehicles at once. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a common arrival calendar. Sellers listed delivery needs, and the market manager offered short time slots during less busy periods. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated most sellers could shift by half an hour. Only one fresh-food stall needed a special early slot, which the group could accommodate without losing fairness. The group then introduced scheduled unloading with one stated exception. The manager marked a loading point and explained the rule to drivers before the next market day. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: shared resources need visible coordination. A simple schedule protected both trading activity and the movement of customers. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in sharing a market delivery space, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "4b0c60889b9562b6b926868c0350d664924ec58484e63ed03657c6ace9ee64fb",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Sharing a market delivery space: Why was the original plan difficult to use?",
+          "options": {
+            "A": "one line serving two different kinds of order",
+            "B": "overlapping delivery vans at a narrow gate",
+            "C": "return rules hidden in dense wording",
+            "D": "unclear final prices for customised items"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d0693432d9b7b6647962a1824e001df1f2b2736347b47bf4e20b55eb43996c7f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Sharing a market delivery space: How did the team gather information?",
+          "options": {
+            "A": "a week of queue observations",
+            "B": "customer questions sorted by purpose",
+            "C": "a common arrival calendar",
+            "D": "a trial of examples beside products"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2b62798fa21dd8b7b8d3a9c6a355edfc8b69046f80f55b496743168501204b5f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Sharing a market delivery space: What did the team discover?",
+          "options": {
+            "A": "prepaid collections took very little time",
+            "B": "collection information was hardest to find",
+            "C": "complete examples reduced misunderstandings",
+            "D": "most sellers could shift by half an hour"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f783864c9f09645f65424f7674e5a9e0486cb170534e3dcb955f0b940cfb1d12"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Sharing a market delivery space: What did it do in response?",
+          "options": {
+            "A": "scheduled unloading with one stated exception",
+            "B": "a marked collection point",
+            "C": "short headings and a dated message",
+            "D": "clear examples and a written final quote"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "588bdd0a222ee8808660926ef67a8e8b37038b17bf5070df713aaa1484d3b6a0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Sharing a market delivery space: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "a process can improve before staffing grows",
+            "B": "shared resources need visible coordination",
+            "C": "consumer information should answer real questions",
+            "D": "transparent prices support confident choices"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2d261af2e6ee5216a4880909b8c70a50ad7a861ea438b8a4061b92d4bd6ae70f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A price label that includes the total",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A craft stall displayed the base price of personalised gifts. Buyers were surprised when a small finishing charge appeared at payment. The main obstacle was unclear final prices for customised items. The seller had listed each extra fee separately, but customers could not easily calculate the total while choosing. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a trial of examples beside products. The stall showed common combinations with full prices and asked visitors to estimate the cost before ordering. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated complete examples reduced misunderstandings. Customers still valued choice, but they wanted to see typical total costs without asking repeated questions. The group then introduced clear examples and a written final quote. Staff displayed sample totals and confirmed the exact price before making a personalised item. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: transparent prices support confident choices. A seller can offer options while making the likely cost understandable from the start. That explanation made later changes easier to discuss with residents and staff. For those taking part in a price label that includes the total, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "8623abf71a10ec6512a135b270be520f7c6d352d163b11fb8b71a395cccaf2aa",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A price label that includes the total: What was the main obstacle?",
+          "options": {
+            "A": "one line serving two different kinds of order",
+            "B": "return rules hidden in dense wording",
+            "C": "overlapping delivery vans at a narrow gate",
+            "D": "unclear final prices for customised items"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "aedcf1a321cff282187e6aba88fc7802fc29c2b6df5d3bd9cfe9dfa3afe10950"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A price label that includes the total: How was the idea examined?",
+          "options": {
+            "A": "a trial of examples beside products",
+            "B": "a week of queue observations",
+            "C": "customer questions sorted by purpose",
+            "D": "a common arrival calendar"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "72e498f513f45177c1be4be151369fd9cc5c59e46f41b6655fe3f052f470c580"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A price label that includes the total: Which finding shaped the decision?",
+          "options": {
+            "A": "prepaid collections took very little time",
+            "B": "complete examples reduced misunderstandings",
+            "C": "collection information was hardest to find",
+            "D": "most sellers could shift by half an hour"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "44ba092594f7d5ad09d5735d66cec3356d38e3161f79851886918a6410b2052b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A price label that includes the total: What change did the group make?",
+          "options": {
+            "A": "a marked collection point",
+            "B": "short headings and a dated message",
+            "C": "clear examples and a written final quote",
+            "D": "scheduled unloading with one stated exception"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e97d31189da9a32895723555b53d43e506b70d53fa66e07bf3750b5aad431992"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A price label that includes the total: What lesson does the writer emphasize?",
+          "options": {
+            "A": "a process can improve before staffing grows",
+            "B": "consumer information should answer real questions",
+            "C": "shared resources need visible coordination",
+            "D": "transparent prices support confident choices"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7c8de204b052521f26ca7bf275ec6186bd6ba26d0212843c5a8fe4d0e491ee7d"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the local business support programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dd39b67e770253fb9c11df34280266ecc814c705a34581f3d3978278289310ce"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the local business support programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "aa036ba0f4aaaa878ea7330f59ca294fa014dbcd88a787e2333010a0bb90cf64"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the local business support programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "46a9a42d1aef15554a93aea744ca1e268d59e3997c8b3675d76b8dd8498e9a6c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the local business support programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d5caf3a317eb9d0a26a92d92ba5147249c0b0e69db135a24ca80b5aaf1e95bc2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the local business support programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1c67ad37757b9719c8c57b47fcc6e0e502314b0de224a1a2c56b9a03d72daf74"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the local business support programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bda7892f25fcd07f7043ef3ee6efcf7dd82ecfe08b188517b09ccf633e075aeb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the local business support programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9491fd65960728593c16c8f0b659b26fbbf93fb7c331986d47080ae7887c5a69"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the local business support programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1e907eadcb542393155c2e11f24ff3b083a73cdec6d0ee1d8a3ed37fa2033b98"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the local business support programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3d956a37488850af94d59c286bb8fbaa7e0b56357d597da72a5e1763224d5026"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the local business support programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ab6c58618d61b0a5f0627655c2ad750ffd6ea6be57870a1187792824e7b7953f"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the local business support programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "53eb69fa47b72b503719e09fb1eebf9cb55c7b1e0a05333c01302d9b5496dfb0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local business support programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b0f6a4d74f4127055a464ff73575637c5a06d14c89a7e51561630c84536d77e5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the local business support programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "089f878caf2122b026ebae7ad237f1320f1920552c70b896a543221d40f8ec44"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the local business support programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0e25d741c1a8c7b71525420980e93fdfd61288589dc74a4157765dfeef9acb4e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the local business support programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "da53824ce9c8360cfb4195a924076ceb02f056a3d85ea4447208dcefb3eecc76"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the local business support programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "37eae1939d69b1a6d7005ac4e9c1cc5e9c61614b2ee3a23648a44a5bbe58bd99"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the local business support programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7a5e0c7a6f7fe041ea715308ce43402dc45eba260d10a26789514c99a4ef2a86"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the local business support programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "43a7661c210aabc41624a93753c626b127a3e9cdddce1f0b8f4381263e6fd71f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local business support programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d2244248f701a03292e32caefdb4113cc98420189b08a2e4b8ca4073922e5c41"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the local business support programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3786d0d7068ecb6565a46079ec2c0c79daba0cfcfbfc110545a5b2e57c6adab4"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nWhen a community changes the local business support programme, a short explanation can be as important as the change itself. People want to know what problem was noticed, how information was gathered and why one option was selected. For a project about small businesses and consumers, staff observed actual use rather than relying only on a drawing or an early promise. The evidence revealed an obstacle that was not obvious at first. Organizers made a limited adjustment and told residents when it would be reviewed. They also described the limits of the trial, because a small number of visits cannot represent every future situation. An honest account made the decision easier to question and improve.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "社区调整一项服务时，简短解释可能和改动本身同样重要。人们想知道发现了什么问题、如何收集信息，以及为何选择某个方案。在一个有关小微经营与消费者体验的项目中，工作人员观察实际使用，而不只依靠图纸或最初的承诺。证据揭示了起初并不明显的障碍。组织者作出有限调整，并告知居民何时重新评估。他们也说明试行的局限，因为少量使用经历不能代表未来所有情况。诚实的说明让这项决定更容易被讨论和改进。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "3c4fa1951f753a3772828205468ac53fe0d03b141852ecbdde4ed08f3bb62523",
+      "referenceAnswerFingerprint": "2294fb4e2645ffb9b1a8922b257a64e3fabf86f2184fcecece3ac1970befcc01"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the business support desk suggesting a practical change to the local business support programme. Describe who should be consulted, how the change could be tried, and when it should be reviewed.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the local business support programme. People have noticed one line serving two different kinds of order, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "5ab3e5d6690d0a0ec47c98c9796ef120c3d8e2a75b39f6e055805d8bc3a0cc6a",
+      "sampleAnswerFingerprint": "125b7749f9a189479611efe5419884499c44e829433d14ae9af1455fd8f1adf2"
+    }
+  ],
+  "fingerprintManifest": [
+    "e8dbc7c8186125c2ec2981c110308d7ba0e4ecf5f728aa0a14945a8a0ea496dd",
+    "29250fca8675722bcbd35a1e916cd67945587bc0a7fcce04a1d51ae2251fb12f",
+    "8155ce32fa8a132a46c276eed4742440555663921359c73c54a2b4110517f46a",
+    "1f2d575e672432df6cc4dc3b8929f1bc442a5c6c9d5d3e4e88acc6ea8aa51729",
+    "eaede88ffe84c80b86235095d82f8fbfe49c4b923b542d9398100dfb0b8c2f5a",
+    "bb9a728036bcde809f71d4083baffdc728f588ab3e830bf445222682d6c643ff",
+    "ff00845b3c514f20dd41f51566b320d15caad36168c6ee7b837546a885572e4c",
+    "8a159e12c767a9d457ea7f56a9d4893cc58a3a90363f2b5c11c47465bb298d84",
+    "9231e06d343032c503405ddff5d78340e4834ec4ee7b2e7686857b3846f133cf",
+    "249314e4fba60f390536b0ecfd9511c45156762e21436871a9a3045206877a27",
+    "ed4fe03e6bd4344cd9513e4fea300b9d639ccf92b6fac7f61f12fde2f9fbe8c7",
+    "6b5ee28a1a4d4e965be01997f51b5915e76ad9338e5032cf33a38b099fd4c640",
+    "d4067721f0f5268ae39fd0b88893d72b12232bf10a35e5837a0cbb1e3abe8b25",
+    "1b9acea355b9eb74cab27f915d58ef2c151968bad5c42ea442721de7d70e3029",
+    "16fcbecd83dfed652d3cd2c977b13d2857135415504a676befbca7787f7d9a5f",
+    "e6cca21dece84494f90e900ef7dda2ded0679576a7cca3dfcf1f424c320f4960",
+    "9fab7a942bd2e5643528d89be63a15f600f122273211dc0999179107593632ae",
+    "51c28683c2bb3c328930d9f1e5d052859aa1de5229994dbafe752875f4945788",
+    "5c6d0385cb15b4c3d0ea60c3423e49056afb5a3a907a79e3cf96f966d961a3f7",
+    "c2aad688bd7964ee74ee7524dacfb754184b51a304089f241cb05bd3e476792c",
+    "4c3ce722337f3a5eac98e5e26054baf0a514617c88c360cfb256f7d9041b3166",
+    "561ff7640e29a61c2c7728fbbac1e7158ba5ea5bbce22e401a69d7956b1c78b6",
+    "e759cb90f79ba4343ad4acdc3ece6ca4810bacc2a7998297729204c816d72c2d",
+    "7a1c074530b14507b5d2941a11a199ed4d755a575dafbff164a8f4e12dc693f2",
+    "d90a72dae386461f7ab1bb6740041a17a0567dcf113e9745256835d6d037e956",
+    "4b0c60889b9562b6b926868c0350d664924ec58484e63ed03657c6ace9ee64fb",
+    "d0693432d9b7b6647962a1824e001df1f2b2736347b47bf4e20b55eb43996c7f",
+    "2b62798fa21dd8b7b8d3a9c6a355edfc8b69046f80f55b496743168501204b5f",
+    "f783864c9f09645f65424f7674e5a9e0486cb170534e3dcb955f0b940cfb1d12",
+    "588bdd0a222ee8808660926ef67a8e8b37038b17bf5070df713aaa1484d3b6a0",
+    "2d261af2e6ee5216a4880909b8c70a50ad7a861ea438b8a4061b92d4bd6ae70f",
+    "8623abf71a10ec6512a135b270be520f7c6d352d163b11fb8b71a395cccaf2aa",
+    "aedcf1a321cff282187e6aba88fc7802fc29c2b6df5d3bd9cfe9dfa3afe10950",
+    "72e498f513f45177c1be4be151369fd9cc5c59e46f41b6655fe3f052f470c580",
+    "44ba092594f7d5ad09d5735d66cec3356d38e3161f79851886918a6410b2052b",
+    "e97d31189da9a32895723555b53d43e506b70d53fa66e07bf3750b5aad431992",
+    "7c8de204b052521f26ca7bf275ec6186bd6ba26d0212843c5a8fe4d0e491ee7d",
+    "dd39b67e770253fb9c11df34280266ecc814c705a34581f3d3978278289310ce",
+    "aa036ba0f4aaaa878ea7330f59ca294fa014dbcd88a787e2333010a0bb90cf64",
+    "46a9a42d1aef15554a93aea744ca1e268d59e3997c8b3675d76b8dd8498e9a6c",
+    "d5caf3a317eb9d0a26a92d92ba5147249c0b0e69db135a24ca80b5aaf1e95bc2",
+    "1c67ad37757b9719c8c57b47fcc6e0e502314b0de224a1a2c56b9a03d72daf74",
+    "bda7892f25fcd07f7043ef3ee6efcf7dd82ecfe08b188517b09ccf633e075aeb",
+    "9491fd65960728593c16c8f0b659b26fbbf93fb7c331986d47080ae7887c5a69",
+    "1e907eadcb542393155c2e11f24ff3b083a73cdec6d0ee1d8a3ed37fa2033b98",
+    "3d956a37488850af94d59c286bb8fbaa7e0b56357d597da72a5e1763224d5026",
+    "ab6c58618d61b0a5f0627655c2ad750ffd6ea6be57870a1187792824e7b7953f",
+    "53eb69fa47b72b503719e09fb1eebf9cb55c7b1e0a05333c01302d9b5496dfb0",
+    "b0f6a4d74f4127055a464ff73575637c5a06d14c89a7e51561630c84536d77e5",
+    "089f878caf2122b026ebae7ad237f1320f1920552c70b896a543221d40f8ec44",
+    "0e25d741c1a8c7b71525420980e93fdfd61288589dc74a4157765dfeef9acb4e",
+    "da53824ce9c8360cfb4195a924076ceb02f056a3d85ea4447208dcefb3eecc76",
+    "37eae1939d69b1a6d7005ac4e9c1cc5e9c61614b2ee3a23648a44a5bbe58bd99",
+    "7a5e0c7a6f7fe041ea715308ce43402dc45eba260d10a26789514c99a4ef2a86",
+    "43a7661c210aabc41624a93753c626b127a3e9cdddce1f0b8f4381263e6fd71f",
+    "d2244248f701a03292e32caefdb4113cc98420189b08a2e4b8ca4073922e5c41",
+    "3786d0d7068ecb6565a46079ec2c0c79daba0cfcfbfc110545a5b2e57c6adab4",
+    "3c4fa1951f753a3772828205468ac53fe0d03b141852ecbdde4ed08f3bb62523",
+    "2294fb4e2645ffb9b1a8922b257a64e3fabf86f2184fcecece3ac1970befcc01",
+    "5ab3e5d6690d0a0ec47c98c9796ef120c3d8e2a75b39f6e055805d8bc3a0cc6a",
+    "125b7749f9a189479611efe5419884499c44e829433d14ae9af1455fd8f1adf2"
+  ],
+  "contentFingerprint": "ba730f19a982bc23e622a1da4c6c95e667072c32034e4da862ec159ee88a8060"
+}

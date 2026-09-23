@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-64",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 64 · 城市气候适应",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 64,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to cooling a crowded bus stop",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about cooling a crowded bus stop. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the climate response office that you plan to attend.",
+        "C": "Yes, signs will lead you from the civic information centre.",
+        "D": "Certainly. Send your question to the climate response office."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "9a0ab06da2c42706405d24471f30d86f5288714a46f5e92d6afcc14034ee27ac",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to cooling a crowded bus stop”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the climate response office that you plan to attend.",
+            "C": "Yes, signs will lead you from the civic information centre.",
+            "D": "Certainly. Send your question to the climate response office."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5dee08a66b306ee9c553e6e4403ab36c28f0782ae43fdfef76021c5130fe938e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to cooling a crowded bus stop”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the climate response office that you plan to attend.",
+            "C": "Yes, signs will lead you from the civic information centre.",
+            "D": "Certainly. Send your question to the climate response office."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "803ea73d2045efbc1877d129ad108ec198308b058867263b334dda8360096f47"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to cooling a crowded bus stop”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the climate response office that you plan to attend.",
+            "C": "Yes, signs will lead you from the civic information centre.",
+            "D": "Certainly. Send your question to the climate response office."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "151aa58a9cd43d4b52f227d675728b6c9be43a7fceaba0d480acd92de11ce3dc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to cooling a crowded bus stop”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the climate response office that you plan to attend.",
+            "C": "Yes, signs will lead you from the civic information centre.",
+            "D": "Certainly. Send your question to the climate response office."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0a98707366b6946a19b747808b22402ea789343bf2cfce1816f7f5beb7086aa0"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying rain warnings for basement shops",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about rain warnings for basement shops is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the civic information centre.",
+        "D": "Please send it to the climate response office."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "0cb6e50f0a699768732f81d08481ff097721c332070ae0bc14c88ed19295ab01",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying rain warnings for basement shops”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic information centre.",
+            "D": "Please send it to the climate response office."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e4ebe7974be38c8cd909dbe10215cb021b7c0d2d42a3ff5cbb9f9696226e15f1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying rain warnings for basement shops”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic information centre.",
+            "D": "Please send it to the climate response office."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "618a8db38e84f39093bb2e600a355c49cbeb25c937a69c50462582caf66ea078"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying rain warnings for basement shops”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the civic information centre.",
+            "D": "Please send it to the climate response office."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1fae48ec410944e7a1104957acc227b3b18f469ffcd7c414b4cc0550289cb0fa"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on trees after a dry summer",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about trees after a dry summer last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "311bf011263867c9f3359baa4ee06bde6c319349625131459e86d22eaf9c1148",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on trees after a dry summer”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "172d52589363352d086cd0a7051ca7b032a697c8f79b23b22ea13029c941c2e8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on trees after a dry summer”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "07e48151d17328f3dd80ca31e5ce4c4ff2d5b416eba8aeff981dfe7f2bbf270a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on trees after a dry summer”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "3b17c1c441077e6c0fb23a68d5025aff1dfb7d7c1babf1afed1942a88f265c27"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Cooling a crowded bus stop",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A city wanted to add shade at a bus stop used by hospital visitors. A standard roof covered the bench but not the queue. The main obstacle was shade missing where passengers actually waited. People stood beyond the bench during busy periods and were exposed to direct afternoon sun. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used heat observations at bus arrival times. The team marked where queues formed and compared shade at different hours without interfering with passengers. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated the queue shifted as the sun moved. A fixed bench canopy would help some users but leave many standing in the hottest part of the pavement. The group then introduced a wider roof with a clear walking lane. Designers extended shade toward the queue while preserving space for pedestrians and people using wheelchairs. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: climate measures must follow daily movement. The best place for shade was determined by where people waited, not simply by the location of a bench. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in cooling a crowded bus stop, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "5d57b19c2d0dff633f0d4f48162c7165b4807c6c29513da09f9f3af69e9028eb",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Cooling a crowded bus stop: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "shade missing where passengers actually waited",
+            "B": "general warnings without local instructions",
+            "C": "watering effort that varied between sites",
+            "D": "information failing to reach likely visitors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "10c8be2adfa873388d1862729d1e825092975db1ab79d9eb2b98f48d1e48b39e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Cooling a crowded bus stop: What method was used to investigate the situation?",
+          "options": {
+            "A": "a review of past flooding accounts",
+            "B": "heat observations at bus arrival times",
+            "C": "a shared watering record",
+            "D": "calls through existing local networks"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3f6f0ac1da0c03b8608c306bf4bd5d3f5eea841868ee21a76b930b619213b645"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Cooling a crowded bus stop: What did the evidence indicate?",
+          "options": {
+            "A": "water entered through two shared doorways",
+            "B": "a few sites were repeatedly missed",
+            "C": "the queue shifted as the sun moved",
+            "D": "printed notices and phone calls reached more people"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "be46b907b457b692bbc00ebf03917b29296e015cb1e332afda91067f372a0418"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Cooling a crowded bus stop: How was the arrangement changed?",
+          "options": {
+            "A": "specific alerts and an entrance checklist",
+            "B": "paired routes and clear responsibility",
+            "C": "several channels with a single current schedule",
+            "D": "a wider roof with a clear walking lane"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fcb891fcad920a953ab033509746d1e4a14156d551476d1b5913a1e86adf8460"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Cooling a crowded bus stop: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "climate measures must follow daily movement",
+            "B": "warnings should connect risk to action",
+            "C": "community care needs a consistent method",
+            "D": "access depends on communication as well as facilities"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e1573968f01f734773f054130ae03a1318190f95226d462a393c41112961c2c4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Rain warnings for basement shops",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Shopkeepers in a low street received a general storm alert. Several basement businesses did not realise that water could enter their storage rooms. The main obstacle was general warnings without local instructions. The alert described rainfall but offered no practical steps for owners with entrances below street level. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a review of past flooding accounts. The town compared reports from shopkeepers with drainage records and asked which preparations could be made in advance. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated water entered through two shared doorways. Small steps at those entrances could reduce losses even when the town could not prevent every storm. The group then introduced specific alerts and an entrance checklist. Future messages named affected streets and linked to simple instructions for moving goods and protecting electrical equipment. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: warnings should connect risk to action. People could respond more quickly when the message explained what the danger meant for their own premises. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in rain warnings for basement shops, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "1071320c3f166ab40dae15df0dc46a9f09d1fc63f5d71ff99b6d44f269edd308",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Rain warnings for basement shops: What problem did the people involved notice?",
+          "options": {
+            "A": "shade missing where passengers actually waited",
+            "B": "watering effort that varied between sites",
+            "C": "general warnings without local instructions",
+            "D": "information failing to reach likely visitors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "63c0484dabd8f02fb4e6d6b1a7aa98b0fa50d0885a72285663b1a35ed7b0da53"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Rain warnings for basement shops: What was the first investigative step?",
+          "options": {
+            "A": "heat observations at bus arrival times",
+            "B": "a shared watering record",
+            "C": "calls through existing local networks",
+            "D": "a review of past flooding accounts"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3c71518c963dba085195a8ccac69b9e21ddb29e8b0a6e45f06581fe59160d6cc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Rain warnings for basement shops: What was learned from the records?",
+          "options": {
+            "A": "water entered through two shared doorways",
+            "B": "the queue shifted as the sun moved",
+            "C": "a few sites were repeatedly missed",
+            "D": "printed notices and phone calls reached more people"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4b5c5e19ba3b5cac1f733118bf6374d556e92cb54b9be8d95608d6dd77b486fa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Rain warnings for basement shops: What adjustment followed?",
+          "options": {
+            "A": "a wider roof with a clear walking lane",
+            "B": "specific alerts and an entrance checklist",
+            "C": "paired routes and clear responsibility",
+            "D": "several channels with a single current schedule"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e9ecb93db674ab4e80886a88df18bf6f7d443c30059705db61e3e1fe44ba155e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Rain warnings for basement shops: What is the central message?",
+          "options": {
+            "A": "climate measures must follow daily movement",
+            "B": "community care needs a consistent method",
+            "C": "warnings should connect risk to action",
+            "D": "access depends on communication as well as facilities"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "abb607b27d7dfaf427692387825021831c584952ec702e62860366c7bd5a1357"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Trees after a dry summer",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A volunteer group planted young street trees before a long dry spell. Many residents offered to water them, but some trees still weakened. The main obstacle was watering effort that varied between sites. Different containers held different amounts, and volunteers could not tell which trees had already been visited. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a shared watering record. The group marked visits by date and agreed on simple amounts with advice from qualified maintenance staff. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a few sites were repeatedly missed. The problem was uneven coordination rather than a lack of volunteers willing to help. The group then introduced paired routes and clear responsibility. Neighbours took short routes in pairs and reported damage or blocked tree pits to the council. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: community care needs a consistent method. Good intentions protected more trees when people could see what had been done and what remained. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in trees after a dry summer, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "5f9a87aea1906827ede1bd4e7eea35a1186830348bd73b33e8e7c2adaf9e6009",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Trees after a dry summer: Why was the original plan difficult to use?",
+          "options": {
+            "A": "watering effort that varied between sites",
+            "B": "shade missing where passengers actually waited",
+            "C": "general warnings without local instructions",
+            "D": "information failing to reach likely visitors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "11970a7df9670d0407ae60ba50b6a57f4bec0fa456f1a0563360ba2ef34f377e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Trees after a dry summer: How did the team gather information?",
+          "options": {
+            "A": "heat observations at bus arrival times",
+            "B": "a shared watering record",
+            "C": "a review of past flooding accounts",
+            "D": "calls through existing local networks"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e707316b20fb9f2aa467200be8a372578d2971f1902d028584ddef5c8fee8899"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Trees after a dry summer: What did the team discover?",
+          "options": {
+            "A": "the queue shifted as the sun moved",
+            "B": "water entered through two shared doorways",
+            "C": "a few sites were repeatedly missed",
+            "D": "printed notices and phone calls reached more people"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "81110a1c731e589debc3d9be84e61a695db03099e64b707ef7284372dd4fb765"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Trees after a dry summer: What did it do in response?",
+          "options": {
+            "A": "a wider roof with a clear walking lane",
+            "B": "specific alerts and an entrance checklist",
+            "C": "several channels with a single current schedule",
+            "D": "paired routes and clear responsibility"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ae780c1640789a5875308c9465e6124c19c74a776674516fa09946e5a6824edb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Trees after a dry summer: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "community care needs a consistent method",
+            "B": "climate measures must follow daily movement",
+            "C": "warnings should connect risk to action",
+            "D": "access depends on communication as well as facilities"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9b2a82de3ccb27b96624a1444598a39f1db1d0b155c1e6b68ddde7e371e376b4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A cool room during heat alerts",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community centre opened an air-conditioned room during heat alerts. The first notice was online, but many older residents did not see it. The main obstacle was information failing to reach likely visitors. Some people without regular internet access learned about the room only after the hottest hours had passed. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used calls through existing local networks. Staff asked health visitors, shopkeepers and neighbours which channels people already trusted for urgent information. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated printed notices and phone calls reached more people. The room became easier to find when opening times appeared at familiar places and could be confirmed by telephone. The group then introduced several channels with a single current schedule. The centre updated one source of truth and distributed matching information online, in print and by phone. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: access depends on communication as well as facilities. A safe place is useful only if those who need it know when and how to reach it. That explanation made later changes easier to discuss with residents and staff. For those taking part in a cool room during heat alerts, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "5b763683776ea80f3623d6af8cf5fc7b11d7472e978b12c0a7eb62cc0f0d52a2",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A cool room during heat alerts: What was the main obstacle?",
+          "options": {
+            "A": "shade missing where passengers actually waited",
+            "B": "general warnings without local instructions",
+            "C": "information failing to reach likely visitors",
+            "D": "watering effort that varied between sites"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "44ca49f36af6f2f1ff807bfe2397f8877826cd868d5e329607d381e42018a293"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A cool room during heat alerts: How was the idea examined?",
+          "options": {
+            "A": "heat observations at bus arrival times",
+            "B": "a review of past flooding accounts",
+            "C": "a shared watering record",
+            "D": "calls through existing local networks"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e12d71ce570b59332ff9aeee4aa7dc6dbcf8b8b8452e5c16a8977faf67d34d4a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A cool room during heat alerts: Which finding shaped the decision?",
+          "options": {
+            "A": "printed notices and phone calls reached more people",
+            "B": "the queue shifted as the sun moved",
+            "C": "water entered through two shared doorways",
+            "D": "a few sites were repeatedly missed"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c0b65cd219dfdc4278fa23cf6b7e966b6c992b56415c0c8794272104b085b202"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A cool room during heat alerts: What change did the group make?",
+          "options": {
+            "A": "a wider roof with a clear walking lane",
+            "B": "several channels with a single current schedule",
+            "C": "specific alerts and an entrance checklist",
+            "D": "paired routes and clear responsibility"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cde9c0c4c93e658ca8f7abc75dda72f728d43f303fc04a9110055e6e41b68797"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A cool room during heat alerts: What lesson does the writer emphasize?",
+          "options": {
+            "A": "climate measures must follow daily movement",
+            "B": "warnings should connect risk to action",
+            "C": "access depends on communication as well as facilities",
+            "D": "community care needs a consistent method"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a7c2def717de45635089c35324d72cf8a79b806004e8a1c958b32d44d0cd83c6"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the city climate response programme helped new visitors understand the plan.",
+      "options": {
+        "A": "clear",
+        "B": "silent",
+        "C": "distant",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "79258f99a55957e8018298bf2f3dd8a8702c45a40b68d2ed55ae36778e4691d6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the city climate response programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5bfe1021313bdfae94cd1d8c9df43d2c4dee013a707154d20271d4be1dc60999"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the city climate response programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c18f9bbf0ea321fb2bd6b00648edf488c957c204985d1075520726c618892387"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the city climate response programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "platform",
+        "C": "receipt",
+        "D": "proposal"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "763607bb9d5b60c953a35b1c2f3824c1c0c422330223c18eaf909b7f375ec2ba"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the city climate response programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e2b335683947e4ea7bc47f17ea6865ec865f9f76040c3a2009be65730281c537"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the city climate response programme.",
+      "options": {
+        "A": "distance",
+        "B": "accuracy",
+        "C": "surface",
+        "D": "temperature"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d48c348e4f739416ecf7470ae9dc4066865ce60bdb41cf5b1ba2509c93cbf2b2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the city climate response programme easier to _____.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "estimate",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d039d7ac63c5abd29b51bf93906ae30b340048be8e561211cf8e5649499a9e07"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the city climate response programme.",
+      "options": {
+        "A": "historic",
+        "B": "silent",
+        "C": "wooden",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4806d67be16d12c98d8473eed249c8c92b6eac03afe2d6dfd2e6a1d1bfc7588d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the city climate response programme.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "631cb296cc4ff3b7e937a1106cec252aab5b2a3f486e4bad4635d3552e0596a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the city climate response programme.",
+      "options": {
+        "A": "colours",
+        "B": "limits",
+        "C": "directions",
+        "D": "titles"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "eb9e67caf88258d8c54fa5289d81b2f5d6be3601d5334b71f23f708e3eb496cd"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the city climate response programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "5b8a85aef09283a925b1377ccfff81eda4d7bb4965fe0a0fd909f2aec3eb2dd1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the city climate response programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1cbcf83504ae32a545e4baa8f67185ea8b38cf5cc86d54ac747bf0de0f559de5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the city climate response programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c8f9d2750eb1a6e34b789edc9b46e06f917f9b176d8e55efbbebca2007508711"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the city climate response programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "83909a286d75958945575489240512ebeea7b3d43a2e6c2e5ab99ec16e7826d5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the city climate response programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "had noticed",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "84c6f33be5e2de0c637bfe9f3242ac5360990284b93f4cc976a7aabd98733e7a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the city climate response programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b1e2cca7fc39d827d3389e70a9df851433a6c152c5dd767166d825019075b861"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the city climate response programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cd3801eb4a0d9590878ef773d49747e850443ce5a66337e9b4392142f95a0bc1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the city climate response programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b7913f00d0fb5eb027ab7113e7392f36f26e74c19507399124ff477f4a9550c0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the city climate response programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "d5c830c500cc88acb5bdf3b4812281eef1f451a2ffda8c6233e6b4b876b005a2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the city climate response programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "easier",
+        "D": "the more easily"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4987855a9a3899779660e53955e29b2579aad7e92b2fb08ecdbfdc403f60efde"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for urban climate adaptation must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the city climate response programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于城市气候适应的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "6b4ed5bc876dcba33a1566ada0ebcf1dc2b5163bdcd3cf5b1ad4ff878ac086f9",
+      "referenceAnswerFingerprint": "c51547063b9a280f50ccac02c13cc0b51970f069b1c5ee5ae07e3fa565351511"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the climate response office about a community activity related to urban climate adaptation. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the city climate response programme. People have noticed shade missing where passengers actually waited, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "f1d6db72758c39177a9f58503b569944f5c324a7c80ac72bf59be317c005c9d2",
+      "sampleAnswerFingerprint": "df846cb10c42e2dbb474146cb5aaf48c6ba79d6880b545e554d60153982a8d99"
+    }
+  ],
+  "fingerprintManifest": [
+    "9a0ab06da2c42706405d24471f30d86f5288714a46f5e92d6afcc14034ee27ac",
+    "5dee08a66b306ee9c553e6e4403ab36c28f0782ae43fdfef76021c5130fe938e",
+    "803ea73d2045efbc1877d129ad108ec198308b058867263b334dda8360096f47",
+    "151aa58a9cd43d4b52f227d675728b6c9be43a7fceaba0d480acd92de11ce3dc",
+    "0a98707366b6946a19b747808b22402ea789343bf2cfce1816f7f5beb7086aa0",
+    "0cb6e50f0a699768732f81d08481ff097721c332070ae0bc14c88ed19295ab01",
+    "e4ebe7974be38c8cd909dbe10215cb021b7c0d2d42a3ff5cbb9f9696226e15f1",
+    "618a8db38e84f39093bb2e600a355c49cbeb25c937a69c50462582caf66ea078",
+    "1fae48ec410944e7a1104957acc227b3b18f469ffcd7c414b4cc0550289cb0fa",
+    "311bf011263867c9f3359baa4ee06bde6c319349625131459e86d22eaf9c1148",
+    "172d52589363352d086cd0a7051ca7b032a697c8f79b23b22ea13029c941c2e8",
+    "07e48151d17328f3dd80ca31e5ce4c4ff2d5b416eba8aeff981dfe7f2bbf270a",
+    "3b17c1c441077e6c0fb23a68d5025aff1dfb7d7c1babf1afed1942a88f265c27",
+    "5d57b19c2d0dff633f0d4f48162c7165b4807c6c29513da09f9f3af69e9028eb",
+    "10c8be2adfa873388d1862729d1e825092975db1ab79d9eb2b98f48d1e48b39e",
+    "3f6f0ac1da0c03b8608c306bf4bd5d3f5eea841868ee21a76b930b619213b645",
+    "be46b907b457b692bbc00ebf03917b29296e015cb1e332afda91067f372a0418",
+    "fcb891fcad920a953ab033509746d1e4a14156d551476d1b5913a1e86adf8460",
+    "e1573968f01f734773f054130ae03a1318190f95226d462a393c41112961c2c4",
+    "1071320c3f166ab40dae15df0dc46a9f09d1fc63f5d71ff99b6d44f269edd308",
+    "63c0484dabd8f02fb4e6d6b1a7aa98b0fa50d0885a72285663b1a35ed7b0da53",
+    "3c71518c963dba085195a8ccac69b9e21ddb29e8b0a6e45f06581fe59160d6cc",
+    "4b5c5e19ba3b5cac1f733118bf6374d556e92cb54b9be8d95608d6dd77b486fa",
+    "e9ecb93db674ab4e80886a88df18bf6f7d443c30059705db61e3e1fe44ba155e",
+    "abb607b27d7dfaf427692387825021831c584952ec702e62860366c7bd5a1357",
+    "5f9a87aea1906827ede1bd4e7eea35a1186830348bd73b33e8e7c2adaf9e6009",
+    "11970a7df9670d0407ae60ba50b6a57f4bec0fa456f1a0563360ba2ef34f377e",
+    "e707316b20fb9f2aa467200be8a372578d2971f1902d028584ddef5c8fee8899",
+    "81110a1c731e589debc3d9be84e61a695db03099e64b707ef7284372dd4fb765",
+    "ae780c1640789a5875308c9465e6124c19c74a776674516fa09946e5a6824edb",
+    "9b2a82de3ccb27b96624a1444598a39f1db1d0b155c1e6b68ddde7e371e376b4",
+    "5b763683776ea80f3623d6af8cf5fc7b11d7472e978b12c0a7eb62cc0f0d52a2",
+    "44ca49f36af6f2f1ff807bfe2397f8877826cd868d5e329607d381e42018a293",
+    "e12d71ce570b59332ff9aeee4aa7dc6dbcf8b8b8452e5c16a8977faf67d34d4a",
+    "c0b65cd219dfdc4278fa23cf6b7e966b6c992b56415c0c8794272104b085b202",
+    "cde9c0c4c93e658ca8f7abc75dda72f728d43f303fc04a9110055e6e41b68797",
+    "a7c2def717de45635089c35324d72cf8a79b806004e8a1c958b32d44d0cd83c6",
+    "79258f99a55957e8018298bf2f3dd8a8702c45a40b68d2ed55ae36778e4691d6",
+    "5bfe1021313bdfae94cd1d8c9df43d2c4dee013a707154d20271d4be1dc60999",
+    "c18f9bbf0ea321fb2bd6b00648edf488c957c204985d1075520726c618892387",
+    "763607bb9d5b60c953a35b1c2f3824c1c0c422330223c18eaf909b7f375ec2ba",
+    "e2b335683947e4ea7bc47f17ea6865ec865f9f76040c3a2009be65730281c537",
+    "d48c348e4f739416ecf7470ae9dc4066865ce60bdb41cf5b1ba2509c93cbf2b2",
+    "d039d7ac63c5abd29b51bf93906ae30b340048be8e561211cf8e5649499a9e07",
+    "4806d67be16d12c98d8473eed249c8c92b6eac03afe2d6dfd2e6a1d1bfc7588d",
+    "631cb296cc4ff3b7e937a1106cec252aab5b2a3f486e4bad4635d3552e0596a3",
+    "eb9e67caf88258d8c54fa5289d81b2f5d6be3601d5334b71f23f708e3eb496cd",
+    "5b8a85aef09283a925b1377ccfff81eda4d7bb4965fe0a0fd909f2aec3eb2dd1",
+    "1cbcf83504ae32a545e4baa8f67185ea8b38cf5cc86d54ac747bf0de0f559de5",
+    "c8f9d2750eb1a6e34b789edc9b46e06f917f9b176d8e55efbbebca2007508711",
+    "83909a286d75958945575489240512ebeea7b3d43a2e6c2e5ab99ec16e7826d5",
+    "84c6f33be5e2de0c637bfe9f3242ac5360990284b93f4cc976a7aabd98733e7a",
+    "b1e2cca7fc39d827d3389e70a9df851433a6c152c5dd767166d825019075b861",
+    "cd3801eb4a0d9590878ef773d49747e850443ce5a66337e9b4392142f95a0bc1",
+    "b7913f00d0fb5eb027ab7113e7392f36f26e74c19507399124ff477f4a9550c0",
+    "d5c830c500cc88acb5bdf3b4812281eef1f451a2ffda8c6233e6b4b876b005a2",
+    "4987855a9a3899779660e53955e29b2579aad7e92b2fb08ecdbfdc403f60efde",
+    "6b4ed5bc876dcba33a1566ada0ebcf1dc2b5163bdcd3cf5b1ad4ff878ac086f9",
+    "c51547063b9a280f50ccac02c13cc0b51970f069b1c5ee5ae07e3fa565351511",
+    "f1d6db72758c39177a9f58503b569944f5c324a7c80ac72bf59be317c005c9d2",
+    "df846cb10c42e2dbb474146cb5aaf48c6ba79d6880b545e554d60153982a8d99"
+  ],
+  "contentFingerprint": "0227d6d03135750d50589a6f8eb3d1a6e0ac8e044d8ac6cb909e604a11602c3c"
+}

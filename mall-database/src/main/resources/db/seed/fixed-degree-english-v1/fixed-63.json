@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-63",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 63 · 图书馆与终身学习",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 63,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about a library card for evening learners",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about a library card for evening learners. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the library information desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the library team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "dd912315886fafa47dfa4c1d298deed23b2553a486b59d1ce3f9999ecd910549",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about a library card for evening learners”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the library information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the library team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5111e074b9f5d291d34f053f2db328a04e71af1076ef2f34f2f85c09b5f3a665"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about a library card for evening learners”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the library information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the library team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0e7796f73d8a0a540f740f37ae29f37f55aeb6a2e8aac4523345cc98e9176e7c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about a library card for evening learners”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the library information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the library team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "59a8464fcfb912ebc2ef955334871cfa6c497296e2a17a006231d25fb124eb21"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about a library card for evening learners”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the library information desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the library team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1f21a568a80824f0aeafaf581e4c122ee4207cfa058e19f038e722f73d500f8c"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying choosing books for a shared shelf",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about choosing books for a shared shelf is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the library information desk.",
+        "D": "Please send it to the library team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "54c789735ccabedbec623bcb527e6d48a2c4cdfdab9cc57c9cb5611aa6346fb7",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying choosing books for a shared shelf”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the library information desk.",
+            "D": "Please send it to the library team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2d4584ab7f6f278de92fdb679d1c283249ac750afbbd01d78f66cecf3e6f531c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying choosing books for a shared shelf”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the library information desk.",
+            "D": "Please send it to the library team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "72b2e505f0dd62f05f89795418e87b269a2b5f0a13e8349495a9dd04e4a3fdd4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying choosing books for a shared shelf”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the library information desk.",
+            "D": "Please send it to the library team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "738a00dde81de64fc1a716a1ef72ecdeb6fda8cfbe62e9b95278570123e97164"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on computer lessons at different starting points",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about computer lessons at different starting points last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "2ce818b9ce8fd766dbd7aae2bcb5d61487f9d4d5f4e6cde4d7e88925044a40ee",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on computer lessons at different starting points”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a4f8b32c71f9d535bc0ffeeda7c4ae349ed07f61a33d3f968758a2fd8d9b38fb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on computer lessons at different starting points”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "8d3e7a55af7da87cd07263e0baa3a78acfe10440ea27d24a2538891204a89819"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on computer lessons at different starting points”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "55c8298f547c4b3d2cf785bba5dcb64862b89122f6b9acc20ce936e98181a1e0"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A library card for evening learners",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult college and a library wanted evening students to borrow books after class. The existing registration desk closed before most lessons ended. The main obstacle was registration hours that excluded late learners. Students could browse shelves but could not complete identity checks or take books home during their first visit. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a short late-desk trial. Staff opened the counter after two classes each week and recorded how many students needed help with new cards. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated most requests came immediately after class. Learners valued speaking to a person, but few arrived during other extended hours. The group then introduced a focused half-hour service window. The library matched staffing to class endings and published clear instructions for students arriving on different evenings. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: service hours should follow real learning routines. A small change at the right time mattered more than opening the entire building late every night. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a library card for evening learners, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "3077cf28082f2c0d521a68230480b34a586228b2bdb544e4a5771cf40f44bf1b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A library card for evening learners: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a collection that did not match local interests",
+            "B": "one lesson pace for widely different skills",
+            "C": "noise spilling into a study area",
+            "D": "registration hours that excluded late learners"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e51b7d5ee484ddc53988c80d28ca8801b11dff036faaec4fd218db58aa1c3c9c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A library card for evening learners: What method was used to investigate the situation?",
+          "options": {
+            "A": "a short late-desk trial",
+            "B": "a month of borrowing notes and requests",
+            "C": "a short task-based starting session",
+            "D": "observation of movement and sound"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ef84110b2ebeed022f85d094cddf636544c69d001c6d4f146dd2c2fa1a99d0e0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A library card for evening learners: What did the evidence indicate?",
+          "options": {
+            "A": "short practical titles circulated most often",
+            "B": "most requests came immediately after class",
+            "C": "goals differed more than ages did",
+            "D": "one corner stayed calm during peak hours"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d4505614a78ef2b8ce928b9cf0ca81d63aba529f8eb6c239f597e691360a2e2e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A library card for evening learners: How was the arrangement changed?",
+          "options": {
+            "A": "a smaller shelf with rotating categories",
+            "B": "two learning paths with optional support",
+            "C": "a focused half-hour service window",
+            "D": "study tables moved to the calm corner"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3b07575284f1b0b1cc3a8a8f21a9a2c4f2c874d6fdc54d867a3a5602759f8143"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A library card for evening learners: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "a useful collection responds to its readers",
+            "B": "adult learning should begin with actual needs",
+            "C": "a seat is useful only in the right setting",
+            "D": "service hours should follow real learning routines"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fbc8b8f2c17f8e3229a56a343c2240a794c626f2bba28f81d0cef32cdfeba83f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Choosing books for a shared shelf",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community centre offered a shelf where adults could exchange books. Donations arrived quickly, but many volumes stayed untouched. The main obstacle was a collection that did not match local interests. Several shelves held old reference books while visitors asked for short novels and practical guides. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a month of borrowing notes and requests. Volunteers recorded which books moved and invited suggestions without asking people to reveal personal reading histories. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated short practical titles circulated most often. The records challenged an early assumption that larger academic books would be the main attraction. The group then introduced a smaller shelf with rotating categories. The centre passed unwanted donations to suitable organisations and made room for the kinds of books residents requested. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a useful collection responds to its readers. The number of donated books was less important than whether people could find something they wanted to use. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in choosing books for a shared shelf, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "4d0506a25004d6432c7543ec0decf800ab0ce52ad388ab95430f8c879c836137",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Choosing books for a shared shelf: What problem did the people involved notice?",
+          "options": {
+            "A": "registration hours that excluded late learners",
+            "B": "a collection that did not match local interests",
+            "C": "one lesson pace for widely different skills",
+            "D": "noise spilling into a study area"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b1245015f9e59f24b684227b58454ee25ccfcccef31e2cb1d50a83b6e6d7c500"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Choosing books for a shared shelf: What was the first investigative step?",
+          "options": {
+            "A": "a short late-desk trial",
+            "B": "a short task-based starting session",
+            "C": "a month of borrowing notes and requests",
+            "D": "observation of movement and sound"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "49889983ea809d0dec9c34c77c5e3aebc1e698939a355c9f583dd806d41be501"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Choosing books for a shared shelf: What was learned from the records?",
+          "options": {
+            "A": "most requests came immediately after class",
+            "B": "goals differed more than ages did",
+            "C": "one corner stayed calm during peak hours",
+            "D": "short practical titles circulated most often"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9474ebe318bbaaf2a0f93028cbd1124d173242e1b4fa65c4aadf944dfd159a3f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Choosing books for a shared shelf: What adjustment followed?",
+          "options": {
+            "A": "a smaller shelf with rotating categories",
+            "B": "a focused half-hour service window",
+            "C": "two learning paths with optional support",
+            "D": "study tables moved to the calm corner"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ecd988c189625c4813e9803e7e6abc24db88eee84f769f14fbd3a1d80e0d1f97"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Choosing books for a shared shelf: What is the central message?",
+          "options": {
+            "A": "service hours should follow real learning routines",
+            "B": "a useful collection responds to its readers",
+            "C": "adult learning should begin with actual needs",
+            "D": "a seat is useful only in the right setting"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "650d75558cd83a5af82df3f6034a20f439705e6fb3f0c063a3dc234e2e7cfd2f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Computer lessons at different starting points",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library offered a single introductory computer course. Some learners had never used a mouse, while others only needed help with forms. The main obstacle was one lesson pace for widely different skills. Beginners felt rushed and experienced participants waited through material they already understood. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a short task-based starting session. Tutors asked learners to try a few everyday tasks and describe which ones they hoped to master. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated goals differed more than ages did. People of similar ages showed very different experience, so age was a poor guide for grouping them. The group then introduced two learning paths with optional support. The library offered basic device practice and a separate practical forms session, with the option to move between them. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: adult learning should begin with actual needs. A respectful starting point helps learners progress without assuming what they already know. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in computer lessons at different starting points, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "aa545afa8e583160fc413d696aae91374c3833bfe7a14b9c5dc52023f4f0d1f1",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Computer lessons at different starting points: Why was the original plan difficult to use?",
+          "options": {
+            "A": "registration hours that excluded late learners",
+            "B": "a collection that did not match local interests",
+            "C": "noise spilling into a study area",
+            "D": "one lesson pace for widely different skills"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "357c72dd269713b55ba86ab260c6efa86d99c6e6fae583e46f336ac7d535ca3a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Computer lessons at different starting points: How did the team gather information?",
+          "options": {
+            "A": "a short task-based starting session",
+            "B": "a short late-desk trial",
+            "C": "a month of borrowing notes and requests",
+            "D": "observation of movement and sound"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9d14846cd3c06a089075f6308e53db69c3b2fb8c2cbba575a2941f1227c00a56"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Computer lessons at different starting points: What did the team discover?",
+          "options": {
+            "A": "most requests came immediately after class",
+            "B": "goals differed more than ages did",
+            "C": "short practical titles circulated most often",
+            "D": "one corner stayed calm during peak hours"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8ee01b8d805744bac0c4b3500f617eeaad55fe9b4de649e3d4f35dc18eeb264e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Computer lessons at different starting points: What did it do in response?",
+          "options": {
+            "A": "a focused half-hour service window",
+            "B": "a smaller shelf with rotating categories",
+            "C": "two learning paths with optional support",
+            "D": "study tables moved to the calm corner"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9a59f5672e93b7e350ff2f72d08b542665e1bbcd45d4231a9ec118731e86e563"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Computer lessons at different starting points: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "service hours should follow real learning routines",
+            "B": "a useful collection responds to its readers",
+            "C": "a seat is useful only in the right setting",
+            "D": "adult learning should begin with actual needs"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cea8de0ded5d5c4777b49eaece6068f5b399a9f68e7430d1a88c80373613e601"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A quieter corner for study",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A busy library planned to add study seats. Staff first counted empty chairs, but students complained about interruptions rather than capacity. The main obstacle was noise spilling into a study area. The nearby help desk attracted conversations, and a sign asking for silence could not change the desk’s purpose. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used observation of movement and sound. Staff watched where groups gathered and invited readers to describe when they needed a quiet place. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated one corner stayed calm during peak hours. It was farther from the entrance but close to good lighting and accessible routes. The group then introduced study tables moved to the calm corner. The help desk remained where visitors could find it, while clear signs identified the new quiet area. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: a seat is useful only in the right setting. Counting furniture alone could not reveal why some places supported concentrated reading. That explanation made later changes easier to discuss with residents and staff. For those taking part in a quieter corner for study, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "0b6f12758e9770fa5635f1bc77a62a56574c0002c7176ecc398adcc63a8b834d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A quieter corner for study: What was the main obstacle?",
+          "options": {
+            "A": "registration hours that excluded late learners",
+            "B": "noise spilling into a study area",
+            "C": "a collection that did not match local interests",
+            "D": "one lesson pace for widely different skills"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "886d9d9868a90a1029879027807a10ae2314a86cfb80ca8878567314c7316ed9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A quieter corner for study: How was the idea examined?",
+          "options": {
+            "A": "a short late-desk trial",
+            "B": "a month of borrowing notes and requests",
+            "C": "observation of movement and sound",
+            "D": "a short task-based starting session"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d256081651e8e712734c681c73f02205aad3178620bb9040bd71fa2970a83352"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A quieter corner for study: Which finding shaped the decision?",
+          "options": {
+            "A": "most requests came immediately after class",
+            "B": "short practical titles circulated most often",
+            "C": "goals differed more than ages did",
+            "D": "one corner stayed calm during peak hours"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1c398f72275e53231472fe16d2eab6b2094b4f6046a8750972bdc9ede36b56c6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A quieter corner for study: What change did the group make?",
+          "options": {
+            "A": "study tables moved to the calm corner",
+            "B": "a focused half-hour service window",
+            "C": "a smaller shelf with rotating categories",
+            "D": "two learning paths with optional support"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0fcf661017e240d733b84c56e2f61dfdd4563a0a0dd6e825bf786f98d4c9745c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A quieter corner for study: What lesson does the writer emphasize?",
+          "options": {
+            "A": "service hours should follow real learning routines",
+            "B": "a seat is useful only in the right setting",
+            "C": "a useful collection responds to its readers",
+            "D": "adult learning should begin with actual needs"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "158c3a9ad589aa8f0cd4dc8eb51d66c375896f12b011f0c5f1cb826e45da2057"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the neighbourhood library programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9a1b928ae839441e1e3b89fcfc7126f087525798394dba3a2201c2fd7f4108cd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the neighbourhood library programme worked.",
+      "options": {
+        "A": "reliable",
+        "B": "random",
+        "C": "silent",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "934f8e4a67014b4bf1a2741012281b6a89da09dead521c22c56e89d4a7314107"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the neighbourhood library programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "trial",
+        "C": "ticket",
+        "D": "picture"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "2520c56c0f28499cf037a5fbeb7acdb6211b34bc8f4bd8c8855a942df12828ce"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the neighbourhood library programme next month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "review",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4c87d151dadf82931276a947a97cf7d2e6ae24b3173c8ef0a3ddaba5e151d848"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the neighbourhood library programme.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "206d9c6a93da61d2af73e50df11b9360b4cdc58876aa6c00f0558354e997bab5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the neighbourhood library programme in _____ language for first-time users.",
+      "options": {
+        "A": "plain",
+        "B": "distant",
+        "C": "empty",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "67e8bd385c772c04cc2515fc78506bd92c5295d8a197030396ae4b67cbb6304b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the neighbourhood library programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "modest",
+        "C": "personal",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "28af83529dfa0a300e3d8383d5eb1c78e672edbf7a464ca2cf34363d3ae29916"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the neighbourhood library programme more _____.",
+      "options": {
+        "A": "narrow",
+        "B": "fragile",
+        "C": "transparent",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4c99e539ffdf2e8884ecea1fa52ff420b5ee243d42d0abdfea3e0a5b07378800"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the neighbourhood library programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "borrow",
+        "C": "refuse",
+        "D": "adapt"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fb3fb20c94fb31c1b57edb5bfbb3750c67b5ba04129270145da57120123b7dc8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the neighbourhood library programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "unexpected",
+        "B": "official",
+        "C": "wooden",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "85a84ed8a5635c6d0d5e27a971df336081c1330f379fe422f208d2831bb99067"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the neighbourhood library programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7a54b9953790c09b3a51feca9a193b084aba267edb95a5030d4f3172ee7e7bf5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the neighbourhood library programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a765b5303c5ca4876767ea149dd83ecd316db355aa851f04e2a772ec9ad24508"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the neighbourhood library programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9af8eef9c33636ab9eb4bbfe39c93f4116b10d53fbd1f3b2c5b9a288c72572b1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the neighbourhood library programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b0062e3d76d84cf23573f1a1e49c369a8345d381ec6d933a5fbf128212104b43"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the neighbourhood library programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "had noticed",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "407f90aad0037733bacf6c98ad27240791c918ae58c489957fdb0288ffa08918"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the neighbourhood library programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "9c66d86cea9bf9151d2f7fe80e7b28ec0b969a438d79f090c88bfd6942df2cfa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the neighbourhood library programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "35802e3cf1e204fbc7ae4b1a799c6d3cc9e741ede9837de5692d3f8454629cb3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the neighbourhood library programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b19e7f3620a3d9d30fb47b4dc6f7e21082435092d63b0e96f528f765c433a3c9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the neighbourhood library programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e535a2de2f7f5bf348fc2782608e36a8cdc87b33b1c6ac553d16aff5f531ff06"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the neighbourhood library programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the easiest",
+        "C": "the more easily",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "18bf9cd707054c0a07c1107a4487f442995018011052904caddb7dd3595ecc5f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning libraries and lifelong learning often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the neighbourhood library programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关图书馆与终身学习的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "51dfa5a73ca53a0b79134ba53c841f98caab55d130df4f2d64308135332951d7",
+      "referenceAnswerFingerprint": "259e2a577fc3943913ad56def5023f1915714e955fac4cf9716f7ba99e19ad12"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the library team proposing a small improvement to the neighbourhood library programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the neighbourhood library programme. People have noticed registration hours that excluded late learners, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "a2490d4d8ac43db8398f7b0abe17a707769a439ea283eb4f7206053a6ad7c851",
+      "sampleAnswerFingerprint": "e1dedb421b420d26093f86d60965fd1d82d0150cec37eda9d77e8bebb9311685"
+    }
+  ],
+  "fingerprintManifest": [
+    "dd912315886fafa47dfa4c1d298deed23b2553a486b59d1ce3f9999ecd910549",
+    "5111e074b9f5d291d34f053f2db328a04e71af1076ef2f34f2f85c09b5f3a665",
+    "0e7796f73d8a0a540f740f37ae29f37f55aeb6a2e8aac4523345cc98e9176e7c",
+    "59a8464fcfb912ebc2ef955334871cfa6c497296e2a17a006231d25fb124eb21",
+    "1f21a568a80824f0aeafaf581e4c122ee4207cfa058e19f038e722f73d500f8c",
+    "54c789735ccabedbec623bcb527e6d48a2c4cdfdab9cc57c9cb5611aa6346fb7",
+    "2d4584ab7f6f278de92fdb679d1c283249ac750afbbd01d78f66cecf3e6f531c",
+    "72b2e505f0dd62f05f89795418e87b269a2b5f0a13e8349495a9dd04e4a3fdd4",
+    "738a00dde81de64fc1a716a1ef72ecdeb6fda8cfbe62e9b95278570123e97164",
+    "2ce818b9ce8fd766dbd7aae2bcb5d61487f9d4d5f4e6cde4d7e88925044a40ee",
+    "a4f8b32c71f9d535bc0ffeeda7c4ae349ed07f61a33d3f968758a2fd8d9b38fb",
+    "8d3e7a55af7da87cd07263e0baa3a78acfe10440ea27d24a2538891204a89819",
+    "55c8298f547c4b3d2cf785bba5dcb64862b89122f6b9acc20ce936e98181a1e0",
+    "3077cf28082f2c0d521a68230480b34a586228b2bdb544e4a5771cf40f44bf1b",
+    "e51b7d5ee484ddc53988c80d28ca8801b11dff036faaec4fd218db58aa1c3c9c",
+    "ef84110b2ebeed022f85d094cddf636544c69d001c6d4f146dd2c2fa1a99d0e0",
+    "d4505614a78ef2b8ce928b9cf0ca81d63aba529f8eb6c239f597e691360a2e2e",
+    "3b07575284f1b0b1cc3a8a8f21a9a2c4f2c874d6fdc54d867a3a5602759f8143",
+    "fbc8b8f2c17f8e3229a56a343c2240a794c626f2bba28f81d0cef32cdfeba83f",
+    "4d0506a25004d6432c7543ec0decf800ab0ce52ad388ab95430f8c879c836137",
+    "b1245015f9e59f24b684227b58454ee25ccfcccef31e2cb1d50a83b6e6d7c500",
+    "49889983ea809d0dec9c34c77c5e3aebc1e698939a355c9f583dd806d41be501",
+    "9474ebe318bbaaf2a0f93028cbd1124d173242e1b4fa65c4aadf944dfd159a3f",
+    "ecd988c189625c4813e9803e7e6abc24db88eee84f769f14fbd3a1d80e0d1f97",
+    "650d75558cd83a5af82df3f6034a20f439705e6fb3f0c063a3dc234e2e7cfd2f",
+    "aa545afa8e583160fc413d696aae91374c3833bfe7a14b9c5dc52023f4f0d1f1",
+    "357c72dd269713b55ba86ab260c6efa86d99c6e6fae583e46f336ac7d535ca3a",
+    "9d14846cd3c06a089075f6308e53db69c3b2fb8c2cbba575a2941f1227c00a56",
+    "8ee01b8d805744bac0c4b3500f617eeaad55fe9b4de649e3d4f35dc18eeb264e",
+    "9a59f5672e93b7e350ff2f72d08b542665e1bbcd45d4231a9ec118731e86e563",
+    "cea8de0ded5d5c4777b49eaece6068f5b399a9f68e7430d1a88c80373613e601",
+    "0b6f12758e9770fa5635f1bc77a62a56574c0002c7176ecc398adcc63a8b834d",
+    "886d9d9868a90a1029879027807a10ae2314a86cfb80ca8878567314c7316ed9",
+    "d256081651e8e712734c681c73f02205aad3178620bb9040bd71fa2970a83352",
+    "1c398f72275e53231472fe16d2eab6b2094b4f6046a8750972bdc9ede36b56c6",
+    "0fcf661017e240d733b84c56e2f61dfdd4563a0a0dd6e825bf786f98d4c9745c",
+    "158c3a9ad589aa8f0cd4dc8eb51d66c375896f12b011f0c5f1cb826e45da2057",
+    "9a1b928ae839441e1e3b89fcfc7126f087525798394dba3a2201c2fd7f4108cd",
+    "934f8e4a67014b4bf1a2741012281b6a89da09dead521c22c56e89d4a7314107",
+    "2520c56c0f28499cf037a5fbeb7acdb6211b34bc8f4bd8c8855a942df12828ce",
+    "4c87d151dadf82931276a947a97cf7d2e6ae24b3173c8ef0a3ddaba5e151d848",
+    "206d9c6a93da61d2af73e50df11b9360b4cdc58876aa6c00f0558354e997bab5",
+    "67e8bd385c772c04cc2515fc78506bd92c5295d8a197030396ae4b67cbb6304b",
+    "28af83529dfa0a300e3d8383d5eb1c78e672edbf7a464ca2cf34363d3ae29916",
+    "4c99e539ffdf2e8884ecea1fa52ff420b5ee243d42d0abdfea3e0a5b07378800",
+    "fb3fb20c94fb31c1b57edb5bfbb3750c67b5ba04129270145da57120123b7dc8",
+    "85a84ed8a5635c6d0d5e27a971df336081c1330f379fe422f208d2831bb99067",
+    "7a54b9953790c09b3a51feca9a193b084aba267edb95a5030d4f3172ee7e7bf5",
+    "a765b5303c5ca4876767ea149dd83ecd316db355aa851f04e2a772ec9ad24508",
+    "9af8eef9c33636ab9eb4bbfe39c93f4116b10d53fbd1f3b2c5b9a288c72572b1",
+    "b0062e3d76d84cf23573f1a1e49c369a8345d381ec6d933a5fbf128212104b43",
+    "407f90aad0037733bacf6c98ad27240791c918ae58c489957fdb0288ffa08918",
+    "9c66d86cea9bf9151d2f7fe80e7b28ec0b969a438d79f090c88bfd6942df2cfa",
+    "35802e3cf1e204fbc7ae4b1a799c6d3cc9e741ede9837de5692d3f8454629cb3",
+    "b19e7f3620a3d9d30fb47b4dc6f7e21082435092d63b0e96f528f765c433a3c9",
+    "e535a2de2f7f5bf348fc2782608e36a8cdc87b33b1c6ac553d16aff5f531ff06",
+    "18bf9cd707054c0a07c1107a4487f442995018011052904caddb7dd3595ecc5f",
+    "51dfa5a73ca53a0b79134ba53c841f98caab55d130df4f2d64308135332951d7",
+    "259e2a577fc3943913ad56def5023f1915714e955fac4cf9716f7ba99e19ad12",
+    "a2490d4d8ac43db8398f7b0abe17a707769a439ea283eb4f7206053a6ad7c851",
+    "e1dedb421b420d26093f86d60965fd1d82d0150cec37eda9d77e8bebb9311685"
+  ],
+  "contentFingerprint": "cd7885e8dfbda08d407154072993e765d60a1d02d6e1de856c074fca23b315be"
+}

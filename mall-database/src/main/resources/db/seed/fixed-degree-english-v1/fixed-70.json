@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-70",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 70 · 职场安全与沟通",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 70,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a visit to a handover between two shifts",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I would like to visit the project about a handover between two shifts. When can I come?\nStaff: (1) _____\nResident: Should I let anyone know first?\nStaff: (2) _____\nResident: Is the entrance easy to find?\nStaff: (3) _____\nResident: Can I send a question later?\nStaff: (4) _____",
+      "sharedOptions": {
+        "A": "It is open to visitors on Saturday morning.",
+        "B": "Please tell the workplace safety team that you plan to attend.",
+        "C": "Yes, signs will lead you from the staff training desk.",
+        "D": "Certainly. Send your question to the workplace safety team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "79c30930217c6f51be80fea2e365a8885d9351f08cac6a9257e1fda9a4ae9948",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a visit to a handover between two shifts”, choose the response for blank (1).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the workplace safety team that you plan to attend.",
+            "C": "Yes, signs will lead you from the staff training desk.",
+            "D": "Certainly. Send your question to the workplace safety team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "939b01c7b38ecd8e333e0544f21be123ca0ddca8726277987efc706888122598"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a visit to a handover between two shifts”, choose the response for blank (2).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the workplace safety team that you plan to attend.",
+            "C": "Yes, signs will lead you from the staff training desk.",
+            "D": "Certainly. Send your question to the workplace safety team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6d8d68409acf8417ee8c3e992f5c24ccda5cef1d7ea8eba8302575f9aa891bac"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a visit to a handover between two shifts”, choose the response for blank (3).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the workplace safety team that you plan to attend.",
+            "C": "Yes, signs will lead you from the staff training desk.",
+            "D": "Certainly. Send your question to the workplace safety team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "6be5cd2cbb388e98c5e80288ef3955274427e9c9137a26f5d9509fb04ccbd72e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a visit to a handover between two shifts”, choose the response for blank (4).",
+          "options": {
+            "A": "It is open to visitors on Saturday morning.",
+            "B": "Please tell the workplace safety team that you plan to attend.",
+            "C": "Yes, signs will lead you from the staff training desk.",
+            "D": "Certainly. Send your question to the workplace safety team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4c7cba73ae4e7978df5e622a3414a21162168682db9c017d509ad036a7f2de50"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying reporting a near miss",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about reporting a near miss is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the staff training desk.",
+        "D": "Please send it to the workplace safety team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "f43df499ca80dd3b0d73e1beea0050b39a44eceaeca3a51ccffca34342779c81",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying reporting a near miss”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the staff training desk.",
+            "D": "Please send it to the workplace safety team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1b85313c0d967a669da80a61873df6eff5e33b5ef2390d0ac81fb112ce2a0551"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying reporting a near miss”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the staff training desk.",
+            "D": "Please send it to the workplace safety team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "90d9a505922ce7e15bc7c95eb57dcb0ea5e04f0b5aa0ca505f85a2f669e8806c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying reporting a near miss”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the staff training desk.",
+            "D": "Please send it to the workplace safety team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c13bc28170f73893ecf32bee69e3a175112ca8b3407d58db36ecc7441e474a5a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on instructions beside a machine",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about instructions beside a machine last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c62f70eda24076239530ba3c093add9bfda7404a80480ddb2fc58c10122c4e84",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on instructions beside a machine”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "bf22a8e5dbaf1542102b4f1e422e96f7742fc7e37175e2376cb600106934ccfd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on instructions beside a machine”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0fe4462988e24d81b66942fefea374e0c0e3623fae2ed7114a1a344298d361f4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on instructions beside a machine”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "b2987d77a37d5d9ff4f0d3f925055bf1830440d79ec99f84f6b2ce99007ab661"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A handover between two shifts",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A small warehouse changed shifts at midday. The next team sometimes moved boxes before learning that one aisle was being repaired. The main obstacle was repair information missing from handovers. A spoken reminder could be forgotten when one shift ended early. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of recent handover notes. Supervisors compared written records with the times when staff first entered each aisle. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated a single shared log improved awareness. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a brief written safety handover at every shift change. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: important information must survive a change of staff. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in a handover between two shifts, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "232caf96f58919c10013a4b616eed346e97d18c268e58dcdea7844b83e418d68",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A handover between two shifts: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "uncertainty about reporting small hazards",
+            "B": "guidance placed away from the task",
+            "C": "repair information missing from handovers",
+            "D": "critical information buried in routine text"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9266c6c4a57ef0414839ee242f7c0ce74a2a04dd6fbd7a3c44a73751e16892b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A handover between two shifts: What method was used to investigate the situation?",
+          "options": {
+            "A": "anonymous examples from staff meetings",
+            "B": "observation of a supervised training session",
+            "C": "a comparison of two briefing formats",
+            "D": "a review of recent handover notes"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b977389e964f75c5e08fa8ba40e51a00a93d3dccd6d836ff4a59648ef9f4f70f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A handover between two shifts: What did the evidence indicate?",
+          "options": {
+            "A": "a single shared log improved awareness",
+            "B": "early reports exposed correctable risks",
+            "C": "a short visible checklist reduced hesitation",
+            "D": "a short action line was noticed more often"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8f3bfd689570d4ee826e8660f6ecf985879417abd514e731bb4218b6288e6e45"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A handover between two shifts: How was the arrangement changed?",
+          "options": {
+            "A": "a simple near-miss form and prompt mat replacement",
+            "B": "a brief written safety handover at every shift change",
+            "C": "approved step cards mounted at safe viewing points",
+            "D": "briefings that lead with the required safety action"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d1275791c259188a2026a239e1007d50bc3eab475a4fa88d7ab1b71b55c45bd2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A handover between two shifts: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "prevention starts before an injury",
+            "B": "safety instructions should be available at the moment of use",
+            "C": "important information must survive a change of staff",
+            "D": "message order can affect safe behaviour"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a21017ee4d7406b0577cdcc63529d83f1b8dde66c6102847cab8e2cb5e7f36fe"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Reporting a near miss",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "In a catering kitchen, a worker caught a loose floor mat before anyone fell. Colleagues were unsure whether to report an incident without injury. The main obstacle was uncertainty about reporting small hazards. The lack of harm made the risk seem unimportant even though the mat remained in use. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used anonymous examples from staff meetings. The manager invited workers to describe hazards and checked the existing reporting guidance. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated early reports exposed correctable risks. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a simple near-miss form and prompt mat replacement. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: prevention starts before an injury. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in reporting a near miss, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "c4b5b301df4921a651bd213a12d305328693436ddf626f56e6f76cf7c29dbc69",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Reporting a near miss: What problem did the people involved notice?",
+          "options": {
+            "A": "uncertainty about reporting small hazards",
+            "B": "repair information missing from handovers",
+            "C": "guidance placed away from the task",
+            "D": "critical information buried in routine text"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "34f3d8d3a15a509e798e57ef96cda59e2b0bf5e1a62b51675d1db2990fc8b8a4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Reporting a near miss: What was the first investigative step?",
+          "options": {
+            "A": "a review of recent handover notes",
+            "B": "anonymous examples from staff meetings",
+            "C": "observation of a supervised training session",
+            "D": "a comparison of two briefing formats"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c93b03031e2d7160b162224771ea512caac0d4c8583c42832120e53306b3d45d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Reporting a near miss: What was learned from the records?",
+          "options": {
+            "A": "a single shared log improved awareness",
+            "B": "a short visible checklist reduced hesitation",
+            "C": "early reports exposed correctable risks",
+            "D": "a short action line was noticed more often"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fe817f1e0d9e014b1a61a28bc995f037e486da301fc3afcadc1494aae10ff157"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Reporting a near miss: What adjustment followed?",
+          "options": {
+            "A": "a brief written safety handover at every shift change",
+            "B": "approved step cards mounted at safe viewing points",
+            "C": "briefings that lead with the required safety action",
+            "D": "a simple near-miss form and prompt mat replacement"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "afa3bfed21aea758bb62c063890a90a7f4496cadd7963bb843f40d4254d736b4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Reporting a near miss: What is the central message?",
+          "options": {
+            "A": "prevention starts before an injury",
+            "B": "important information must survive a change of staff",
+            "C": "safety instructions should be available at the moment of use",
+            "D": "message order can affect safe behaviour"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "b7f291c831da8be394dbefca4668a1ad7da2342f4506725a63b65da927f9b46f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Instructions beside a machine",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A workshop displayed operating instructions in a folder. New employees could not consult them easily while wearing protective equipment. The main obstacle was guidance placed away from the task. Workers had to leave the machine and remove gloves to turn pages. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used observation of a supervised training session. A qualified trainer noted each moment when workers paused to remember a step. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated a short visible checklist reduced hesitation. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced approved step cards mounted at safe viewing points. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: safety instructions should be available at the moment of use. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in instructions beside a machine, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "74d67633afe3bb0e4291c798e923b4fcea0e9fe9e420ac32fb66b79551ed9d21",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Instructions beside a machine: Why was the original plan difficult to use?",
+          "options": {
+            "A": "repair information missing from handovers",
+            "B": "uncertainty about reporting small hazards",
+            "C": "guidance placed away from the task",
+            "D": "critical information buried in routine text"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "83aefab22628bfc33e9b1b504fe35ae36e93808210bdbb58075f38d2c91a613d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Instructions beside a machine: How did the team gather information?",
+          "options": {
+            "A": "a review of recent handover notes",
+            "B": "anonymous examples from staff meetings",
+            "C": "a comparison of two briefing formats",
+            "D": "observation of a supervised training session"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b9cb264b7a81470cf17355fdac45a1d80aabe9bcce40a11b72143f117fe12995"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Instructions beside a machine: What did the team discover?",
+          "options": {
+            "A": "a short visible checklist reduced hesitation",
+            "B": "a single shared log improved awareness",
+            "C": "early reports exposed correctable risks",
+            "D": "a short action line was noticed more often"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "61a378e3e646dcbcf8501a5f44b5061bb5d26581f38f30510aeaa9e34191b078"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Instructions beside a machine: What did it do in response?",
+          "options": {
+            "A": "a brief written safety handover at every shift change",
+            "B": "approved step cards mounted at safe viewing points",
+            "C": "a simple near-miss form and prompt mat replacement",
+            "D": "briefings that lead with the required safety action"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e3a65f455bae85e55f0cfa800488607252186cc1755c37ef5e8f29367e92437a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Instructions beside a machine: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "important information must survive a change of staff",
+            "B": "prevention starts before an injury",
+            "C": "safety instructions should be available at the moment of use",
+            "D": "message order can affect safe behaviour"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "edd2b67aa66caf9ae01e857e3dccf2acd817c5b1fb220b9850378f07819e4736"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Making a delivery briefing clear",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Drivers received a daily route update by message. Several people missed a change to the unloading entrance because it appeared at the end. The main obstacle was critical information buried in routine text. The message began with general news and used the same formatting for every detail. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a comparison of two briefing formats. Managers asked drivers to identify the change after reading each version once. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a short action line was noticed more often. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced briefings that lead with the required safety action. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: message order can affect safe behaviour. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in making a delivery briefing clear, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "4c4b8e34b91bc8d32831f8770da51faa0c919d9956c3c47fc29a9efe32dcbe4e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Making a delivery briefing clear: What was the main obstacle?",
+          "options": {
+            "A": "critical information buried in routine text",
+            "B": "repair information missing from handovers",
+            "C": "uncertainty about reporting small hazards",
+            "D": "guidance placed away from the task"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a41bfacd9e2b71dc0aa578d2c2aef962adbcf96a771f55f53ce6e859e037edc4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Making a delivery briefing clear: How was the idea examined?",
+          "options": {
+            "A": "a review of recent handover notes",
+            "B": "a comparison of two briefing formats",
+            "C": "anonymous examples from staff meetings",
+            "D": "observation of a supervised training session"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cdad453f4fa644302c331fdf630e5629392b9ca77d92c1dee07a8d712aed92f5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Making a delivery briefing clear: Which finding shaped the decision?",
+          "options": {
+            "A": "a single shared log improved awareness",
+            "B": "early reports exposed correctable risks",
+            "C": "a short action line was noticed more often",
+            "D": "a short visible checklist reduced hesitation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ff6b533da92cd543026c0e8468e5c27712dc341080b03993e842932d775d0784"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Making a delivery briefing clear: What change did the group make?",
+          "options": {
+            "A": "a brief written safety handover at every shift change",
+            "B": "a simple near-miss form and prompt mat replacement",
+            "C": "approved step cards mounted at safe viewing points",
+            "D": "briefings that lead with the required safety action"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "932ad70ba2f55da1eaabffb13d1e177c8f3bf3a949f58f73cadc04f1f5d0e5e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Making a delivery briefing clear: What lesson does the writer emphasize?",
+          "options": {
+            "A": "message order can affect safe behaviour",
+            "B": "important information must survive a change of staff",
+            "C": "prevention starts before an injury",
+            "D": "safety instructions should be available at the moment of use"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cacba86c48ee3dfa30597767278661d1223ab5e95aa7750715f5a590c65d7f40"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the workplace communication programme helped new visitors understand the plan.",
+      "options": {
+        "A": "silent",
+        "B": "distant",
+        "C": "clear",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "950fe371ebf49e3f8dac464479736da86fb26a61de5b4492d78c344abe6c1c8d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the workplace communication programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "colour",
+        "D": "evidence"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8cf90832d54bc1c9c22ec5e38f697c2e0537ee4aba763745b5d035518974c2e6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the workplace communication programme.",
+      "options": {
+        "A": "describe",
+        "B": "conceal",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0cd322dceb969cdb56a600872804bc07e49116c69b255ea6bfa3c190869ca5d4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the workplace communication programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "proposal",
+        "C": "platform",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3dae4d8ca154d43433a2770c2207bc1574b2b6b949c3ea301565146c7c4eff49"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the workplace communication programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "flexible",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "efea63536f2243582762659836360afcd8c87f65a7aa0ea3d06c9e8fbab89bc9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the workplace communication programme.",
+      "options": {
+        "A": "distance",
+        "B": "surface",
+        "C": "temperature",
+        "D": "accuracy"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "57444234c58199b7dac2baddd61c44b02d6fb2b328ffcd00ec8ba45ddabb10be"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the workplace communication programme easier to _____.",
+      "options": {
+        "A": "estimate",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "10f8a16d67eb843cbde337193adb375b2a673d0c2f494d09db33d324cbeabcbc"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the workplace communication programme.",
+      "options": {
+        "A": "historic",
+        "B": "practical",
+        "C": "silent",
+        "D": "wooden"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "54f7c9b72183148b06d11d0283b066e53f5e48ce09ed6bb3903cbcb2ddca382c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the workplace communication programme.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "share",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b4626f32e7800958447283a143faae3d22dd9d929bfd6f70c08e85ffb78afb15"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the workplace communication programme.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "titles",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9d4ebb12b020c9b6f33315011be72233a4beb6621fb97d59f1deda697ebf43bc"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the workplace communication programme.",
+      "options": {
+        "A": "had",
+        "B": "has",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9a8fb698ac7cd491087217d35fe9841a8ec6ac3bd093bade1cdd8ef191dfda19"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the workplace communication programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "published",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5b650c902323824db0dae1b3676a80452a6d4b5a17d836fb297f4f44cd3e0c62"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the workplace communication programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0a46317668e31534c1f44b53d9c2a591706027fcc70a62574954cf38f15c1083"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the workplace communication programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "why"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "adb16e0a9cfff05f8832a8fe213c044ab0f36004bdea40a8ae74b174de2c4edf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the workplace communication programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "had noticed",
+        "B": "notices",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2923ecb25acc800dd05113f16b39934174ec58ef7ae5c94373a2cf245f4f6997"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the workplace communication programme.",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "efa046d7785e3caffdb922f41eafd1f2002e24d4cf734a27761f4475b1eb9c2b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the workplace communication programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4b43af83522da5907791a790105c6661f64bd7799b8417393e2cd735df57caef"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the workplace communication programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "91df5a4e775d6d1a5497642eecb3c9ea863b630529b9d03176e3912d181b54be"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the workplace communication programme finished _____ the team change its policy.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c76b47788f7ed80dc1759c59f7c3836b49ee51992239c96b88a0a231a873ae02"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the workplace communication programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a9ec0a51d6a4c2cc5363d4d7952d4c303ce9b03e38cc90bb33c089b3bac6527d"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful plan for workplace safety and communication must take account of the people who will use it. An idea may look complete on paper and still create difficulties during an ordinary week. Organizers therefore tried the workplace communication programme on a small scale and invited comments from users with different schedules. They recorded benefits as well as the time and resources needed to provide them. Some findings supported the original aim, while others suggested that the method should change. The group published both kinds of result instead of presenting the trial as a simple success or failure. This allowed residents to discuss the next step with a clearer understanding of its possible effects.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "关于职场安全与沟通的有用方案必须考虑实际使用它的人。一个想法在纸上看似完整，平常使用时却仍可能出现困难。因此，组织者小规模试行该服务，并邀请时间安排不同的使用者提出意见。他们既记录益处，也记录提供这些益处所需的时间和资源。有些发现支持最初目标，另一些则表明方法应当调整。团队同时公布两类结果，而没有把试行简单说成成功或失败。这让居民能更清楚地了解可能的影响，再讨论下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "1cb7ac2b08bc4c5e000a8551e25349164c9fdaa0754b26b3dd9c30d0d9a63905",
+      "referenceAnswerFingerprint": "024e6b57d4f648c3c7287c47a777de3d62f89c42ad735ac2e7e8532933bef89a"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the workplace safety team about a community activity related to workplace safety and communication. Explain how different people can participate, what should be recorded, and how the results should be shared.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the workplace communication programme. People have noticed repair information missing from handovers, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "cd88410d6b647263cf6834f3f53d81ec06144140f02c53efa664880ccd1efc4f",
+      "sampleAnswerFingerprint": "2c29bd1f55072415d12917e2ba5c3f199e4a2211a0af84ed84512724f71f8603"
+    }
+  ],
+  "fingerprintManifest": [
+    "79c30930217c6f51be80fea2e365a8885d9351f08cac6a9257e1fda9a4ae9948",
+    "939b01c7b38ecd8e333e0544f21be123ca0ddca8726277987efc706888122598",
+    "6d8d68409acf8417ee8c3e992f5c24ccda5cef1d7ea8eba8302575f9aa891bac",
+    "6be5cd2cbb388e98c5e80288ef3955274427e9c9137a26f5d9509fb04ccbd72e",
+    "4c7cba73ae4e7978df5e622a3414a21162168682db9c017d509ad036a7f2de50",
+    "f43df499ca80dd3b0d73e1beea0050b39a44eceaeca3a51ccffca34342779c81",
+    "1b85313c0d967a669da80a61873df6eff5e33b5ef2390d0ac81fb112ce2a0551",
+    "90d9a505922ce7e15bc7c95eb57dcb0ea5e04f0b5aa0ca505f85a2f669e8806c",
+    "c13bc28170f73893ecf32bee69e3a175112ca8b3407d58db36ecc7441e474a5a",
+    "c62f70eda24076239530ba3c093add9bfda7404a80480ddb2fc58c10122c4e84",
+    "bf22a8e5dbaf1542102b4f1e422e96f7742fc7e37175e2376cb600106934ccfd",
+    "0fe4462988e24d81b66942fefea374e0c0e3623fae2ed7114a1a344298d361f4",
+    "b2987d77a37d5d9ff4f0d3f925055bf1830440d79ec99f84f6b2ce99007ab661",
+    "232caf96f58919c10013a4b616eed346e97d18c268e58dcdea7844b83e418d68",
+    "9266c6c4a57ef0414839ee242f7c0ce74a2a04dd6fbd7a3c44a73751e16892b0",
+    "b977389e964f75c5e08fa8ba40e51a00a93d3dccd6d836ff4a59648ef9f4f70f",
+    "8f3bfd689570d4ee826e8660f6ecf985879417abd514e731bb4218b6288e6e45",
+    "d1275791c259188a2026a239e1007d50bc3eab475a4fa88d7ab1b71b55c45bd2",
+    "a21017ee4d7406b0577cdcc63529d83f1b8dde66c6102847cab8e2cb5e7f36fe",
+    "c4b5b301df4921a651bd213a12d305328693436ddf626f56e6f76cf7c29dbc69",
+    "34f3d8d3a15a509e798e57ef96cda59e2b0bf5e1a62b51675d1db2990fc8b8a4",
+    "c93b03031e2d7160b162224771ea512caac0d4c8583c42832120e53306b3d45d",
+    "fe817f1e0d9e014b1a61a28bc995f037e486da301fc3afcadc1494aae10ff157",
+    "afa3bfed21aea758bb62c063890a90a7f4496cadd7963bb843f40d4254d736b4",
+    "b7f291c831da8be394dbefca4668a1ad7da2342f4506725a63b65da927f9b46f",
+    "74d67633afe3bb0e4291c798e923b4fcea0e9fe9e420ac32fb66b79551ed9d21",
+    "83aefab22628bfc33e9b1b504fe35ae36e93808210bdbb58075f38d2c91a613d",
+    "b9cb264b7a81470cf17355fdac45a1d80aabe9bcce40a11b72143f117fe12995",
+    "61a378e3e646dcbcf8501a5f44b5061bb5d26581f38f30510aeaa9e34191b078",
+    "e3a65f455bae85e55f0cfa800488607252186cc1755c37ef5e8f29367e92437a",
+    "edd2b67aa66caf9ae01e857e3dccf2acd817c5b1fb220b9850378f07819e4736",
+    "4c4b8e34b91bc8d32831f8770da51faa0c919d9956c3c47fc29a9efe32dcbe4e",
+    "a41bfacd9e2b71dc0aa578d2c2aef962adbcf96a771f55f53ce6e859e037edc4",
+    "cdad453f4fa644302c331fdf630e5629392b9ca77d92c1dee07a8d712aed92f5",
+    "ff6b533da92cd543026c0e8468e5c27712dc341080b03993e842932d775d0784",
+    "932ad70ba2f55da1eaabffb13d1e177c8f3bf3a949f58f73cadc04f1f5d0e5e2",
+    "cacba86c48ee3dfa30597767278661d1223ab5e95aa7750715f5a590c65d7f40",
+    "950fe371ebf49e3f8dac464479736da86fb26a61de5b4492d78c344abe6c1c8d",
+    "8cf90832d54bc1c9c22ec5e38f697c2e0537ee4aba763745b5d035518974c2e6",
+    "0cd322dceb969cdb56a600872804bc07e49116c69b255ea6bfa3c190869ca5d4",
+    "3dae4d8ca154d43433a2770c2207bc1574b2b6b949c3ea301565146c7c4eff49",
+    "efea63536f2243582762659836360afcd8c87f65a7aa0ea3d06c9e8fbab89bc9",
+    "57444234c58199b7dac2baddd61c44b02d6fb2b328ffcd00ec8ba45ddabb10be",
+    "10f8a16d67eb843cbde337193adb375b2a673d0c2f494d09db33d324cbeabcbc",
+    "54f7c9b72183148b06d11d0283b066e53f5e48ce09ed6bb3903cbcb2ddca382c",
+    "b4626f32e7800958447283a143faae3d22dd9d929bfd6f70c08e85ffb78afb15",
+    "9d4ebb12b020c9b6f33315011be72233a4beb6621fb97d59f1deda697ebf43bc",
+    "9a8fb698ac7cd491087217d35fe9841a8ec6ac3bd093bade1cdd8ef191dfda19",
+    "5b650c902323824db0dae1b3676a80452a6d4b5a17d836fb297f4f44cd3e0c62",
+    "0a46317668e31534c1f44b53d9c2a591706027fcc70a62574954cf38f15c1083",
+    "adb16e0a9cfff05f8832a8fe213c044ab0f36004bdea40a8ae74b174de2c4edf",
+    "2923ecb25acc800dd05113f16b39934174ec58ef7ae5c94373a2cf245f4f6997",
+    "efa046d7785e3caffdb922f41eafd1f2002e24d4cf734a27761f4475b1eb9c2b",
+    "4b43af83522da5907791a790105c6661f64bd7799b8417393e2cd735df57caef",
+    "91df5a4e775d6d1a5497642eecb3c9ea863b630529b9d03176e3912d181b54be",
+    "c76b47788f7ed80dc1759c59f7c3836b49ee51992239c96b88a0a231a873ae02",
+    "a9ec0a51d6a4c2cc5363d4d7952d4c303ce9b03e38cc90bb33c089b3bac6527d",
+    "1cb7ac2b08bc4c5e000a8551e25349164c9fdaa0754b26b3dd9c30d0d9a63905",
+    "024e6b57d4f648c3c7287c47a777de3d62f89c42ad735ac2e7e8532933bef89a",
+    "cd88410d6b647263cf6834f3f53d81ec06144140f02c53efa664880ccd1efc4f",
+    "2c29bd1f55072415d12917e2ba5c3f199e4a2211a0af84ed84512724f71f8603"
+  ],
+  "contentFingerprint": "f8d36c62a59e6df6c9010fb887eb8fec1213387f1be4dcd496c1bb109c950451"
+}

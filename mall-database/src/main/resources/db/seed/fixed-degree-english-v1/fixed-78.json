@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-78",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 78 · 公共服务与规则理解",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 78,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about applying for a local permit",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about applying for a local permit. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the public service counter for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the civic information team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "43b0016523931c32e77453517175d3cccd2ff3d9f0af4c9208ee0692a0407e84",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about applying for a local permit”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the public service counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the civic information team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "91b142312195bd64afe4becc67a550ff0fc61caa3ed51721865be78d396cafbb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about applying for a local permit”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the public service counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the civic information team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f0e8f3d7d039970ea9fc155e436292602f1ee5faeff8be3296ff4f7f5b1787d6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about applying for a local permit”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the public service counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the civic information team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7641e6cd21952ed34607c08e138da215cd5b242d4ab861fbd5cb064c55b0e997"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about applying for a local permit”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the public service counter for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the civic information team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c078406ecfa95120fb84ce39b17d795565b7d38c1b51a141a4dab8f45fb851ca"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying a library fine notice",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about a library fine notice is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the public service counter.",
+        "D": "Please send it to the civic information team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b4e7e24c5f57dcd70d180e796c141b4b761600aa550811ee84c3e26eb2cee91b",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying a library fine notice”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public service counter.",
+            "D": "Please send it to the civic information team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1166aa3ab26f1c2ddbd67857b833500ed5e83e731b06b92d30803d14979e2a01"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying a library fine notice”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public service counter.",
+            "D": "Please send it to the civic information team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6cc9cb866f4441ed4a58cf1fd519fcdd4907b90f0cd2a1936c2d637fb3e5b8cf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying a library fine notice”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the public service counter.",
+            "D": "Please send it to the civic information team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "f3399cf922d26ff04da848dba14e5ad49fc4eac9509fb9d4b76c7366fcdae9c6"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on explaining a roadwork notice",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about explaining a roadwork notice last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "da49f5b15417c8dfa826ff9739d286acb387fd6c891ba27ba53123fc92eb7606",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on explaining a roadwork notice”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "de10b05e165403dbea8717f26a7c99449fee403d3ba21bd46e517565bf916e1e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on explaining a roadwork notice”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1b100f770562708311ca7734df6e8de263cbfc559864c0f3f4286465cd928ec2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on explaining a roadwork notice”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ffce3b96ad247f6f4d50825ef10407c63407eb1c294d6c3b19bf88a246c4945e"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Applying for a local permit",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents used an online form for a small street event. Many applications were returned because the required map was missing. The main obstacle was a document requirement explained too late. The form mentioned the map only after applicants had completed several pages. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a review of returned applications. Staff identified repeated omissions and watched first-time users find the document list. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated early guidance prevented repeated work. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a checklist before the first form page. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: clear procedures save time for everyone. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in applying for a local permit, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "991293ea1168c1bb34ae68ecdb9e65bfbb25260cc2904620058182f07c6d0fef",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Applying for a local permit: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "different actions mixed in one paragraph",
+            "B": "notice focused on vehicles rather than access",
+            "C": "a document requirement explained too late",
+            "D": "unclear status after submitting a form"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "fd32d9fb36c852243551aed7792fbbb5aba9156acce313875b2de02fec73f72b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Applying for a local permit: What method was used to investigate the situation?",
+          "options": {
+            "A": "a reading exercise with volunteers",
+            "B": "questions collected from affected businesses",
+            "C": "a check of booking messages and disputes",
+            "D": "a review of returned applications"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "bdbe4f189429b78e16ab957a5a0cc20dc6e9d0c44b903909e14523b1a05370a1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Applying for a local permit: What did the evidence indicate?",
+          "options": {
+            "A": "early guidance prevented repeated work",
+            "B": "action headings improved understanding",
+            "C": "access details were essential to daily planning",
+            "D": "a status label would prevent double planning"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "10aa36191d8a829a23f5982adff2ac7645a608938e22ea730951dbf6be1271f7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Applying for a local permit: How was the arrangement changed?",
+          "options": {
+            "A": "separate notices for return, payment and questions",
+            "B": "a checklist before the first form page",
+            "C": "a revised notice with pedestrian and delivery maps",
+            "D": "distinct pending and confirmed messages"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ac5454e4abf898fac4b1dbb299b5e80b0b24ae2760fccb255c3368fd922281da"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Applying for a local permit: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "a rule is useful when people know what to do",
+            "B": "public notices should answer practical questions",
+            "C": "clear procedures save time for everyone",
+            "D": "service rules need clear confirmation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "149cbe45a55604006082562702d540162d078ca8d05f1995cabd5f9afa58c9e8"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A library fine notice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library sent overdue notices containing several rules. Readers were unsure whether they needed to pay or simply return a book. The main obstacle was different actions mixed in one paragraph. A reminder, a charge and an appeal option appeared together without separate headings. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a reading exercise with volunteers. Staff asked readers to identify the next action for three realistic examples. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated action headings improved understanding. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced separate notices for return, payment and questions. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a rule is useful when people know what to do. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in a library fine notice, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "b24090e621ce10a467b844afa4da4d57f63e0b4f0b64e829b659a877225c5b7a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A library fine notice: What problem did the people involved notice?",
+          "options": {
+            "A": "different actions mixed in one paragraph",
+            "B": "a document requirement explained too late",
+            "C": "notice focused on vehicles rather than access",
+            "D": "unclear status after submitting a form"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "60aee487766540aa917c27f468d231c2c8ca23f31ffa6c8fde6295b147f4b7a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A library fine notice: What was the first investigative step?",
+          "options": {
+            "A": "a review of returned applications",
+            "B": "a reading exercise with volunteers",
+            "C": "questions collected from affected businesses",
+            "D": "a check of booking messages and disputes"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5925caff7a61be0875e2a2f2065834e3b94fcc854c30f42010b916a4a51cc0f1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A library fine notice: What was learned from the records?",
+          "options": {
+            "A": "early guidance prevented repeated work",
+            "B": "access details were essential to daily planning",
+            "C": "action headings improved understanding",
+            "D": "a status label would prevent double planning"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "363c339f564dc7501397bb50d804f930a76d7c24c6c12affc3d0a35ad65a7767"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A library fine notice: What adjustment followed?",
+          "options": {
+            "A": "a checklist before the first form page",
+            "B": "a revised notice with pedestrian and delivery maps",
+            "C": "distinct pending and confirmed messages",
+            "D": "separate notices for return, payment and questions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a96ac0284576aa5ab8753c92c1ef41fe343c9cf2a8e40f5dcf5d06b5091e40ba"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A library fine notice: What is the central message?",
+          "options": {
+            "A": "a rule is useful when people know what to do",
+            "B": "clear procedures save time for everyone",
+            "C": "public notices should answer practical questions",
+            "D": "service rules need clear confirmation"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "078d543ddeb0c448c3a56b79bdf73ec373e9f0cd8423708a7d3a3b0beee7ca01"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Explaining a roadwork notice",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A council announced a temporary road closure. Shop owners knew the dates but did not know how customers could reach their doors. The main obstacle was notice focused on vehicles rather than access. The document named the closed street but omitted the pedestrian route and delivery arrangements. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used questions collected from affected businesses. Officers compared the planned barriers with actual entrances to shops. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated access details were essential to daily planning. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a revised notice with pedestrian and delivery maps. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: public notices should answer practical questions. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in explaining a roadwork notice, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "2328609572802f8427c77a5b6e9adae6c98e20f4d76eda083b9a48f1ff9d85e3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Explaining a roadwork notice: Why was the original plan difficult to use?",
+          "options": {
+            "A": "a document requirement explained too late",
+            "B": "different actions mixed in one paragraph",
+            "C": "notice focused on vehicles rather than access",
+            "D": "unclear status after submitting a form"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "90406387008bef7d96517bd98b122e07b8dbf6164044ab5cceee5f0d64ae0d55"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Explaining a roadwork notice: How did the team gather information?",
+          "options": {
+            "A": "a review of returned applications",
+            "B": "a reading exercise with volunteers",
+            "C": "a check of booking messages and disputes",
+            "D": "questions collected from affected businesses"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "382829d330e88814c2deef2230fec882a584cf34cb6aaa1d03607892e8695e18"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Explaining a roadwork notice: What did the team discover?",
+          "options": {
+            "A": "access details were essential to daily planning",
+            "B": "early guidance prevented repeated work",
+            "C": "action headings improved understanding",
+            "D": "a status label would prevent double planning"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "755e8011833d14a0db7123990cc883858248adb47e8c8cea221fe0fd99b38b52"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Explaining a roadwork notice: What did it do in response?",
+          "options": {
+            "A": "a checklist before the first form page",
+            "B": "a revised notice with pedestrian and delivery maps",
+            "C": "separate notices for return, payment and questions",
+            "D": "distinct pending and confirmed messages"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ecfcb89a58950646438cce70f9a0be3c61bf159a3b2c00395d5b845df12a3107"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Explaining a roadwork notice: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "clear procedures save time for everyone",
+            "B": "a rule is useful when people know what to do",
+            "C": "public notices should answer practical questions",
+            "D": "service rules need clear confirmation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "678afba8ad8759c3991c9d0f902c200646e671bf3f936876955a1ff0e1c524a0"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A community room booking rule",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Local groups tried to reserve a community room. Some thought a provisional request was a confirmed booking. The main obstacle was unclear status after submitting a form. The automatic message thanked applicants but did not say when approval would arrive. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a check of booking messages and disputes. Staff reviewed timestamps and asked applicants what they understood from the response. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated a status label would prevent double planning. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced distinct pending and confirmed messages. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: service rules need clear confirmation. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in a community room booking rule, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "c256d29f73e872d0039b05bef700f53ccb97684dd5a7aba5d59f89077f07957b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A community room booking rule: What was the main obstacle?",
+          "options": {
+            "A": "unclear status after submitting a form",
+            "B": "a document requirement explained too late",
+            "C": "different actions mixed in one paragraph",
+            "D": "notice focused on vehicles rather than access"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "650f946a80ca49f7a27f023eb1cdb7133956a62fe79094e5c29e518aa92e73ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A community room booking rule: How was the idea examined?",
+          "options": {
+            "A": "a review of returned applications",
+            "B": "a check of booking messages and disputes",
+            "C": "a reading exercise with volunteers",
+            "D": "questions collected from affected businesses"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2e096013d4458bf2a0888d01d37f46ef2e9d2eb238a9da5992227d1cea4bc138"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A community room booking rule: Which finding shaped the decision?",
+          "options": {
+            "A": "early guidance prevented repeated work",
+            "B": "action headings improved understanding",
+            "C": "a status label would prevent double planning",
+            "D": "access details were essential to daily planning"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6bdf4666183805fe50c6b5bdbc1e5dc5bac9cb888f7e1c93ffc197522da551b2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A community room booking rule: What change did the group make?",
+          "options": {
+            "A": "a checklist before the first form page",
+            "B": "separate notices for return, payment and questions",
+            "C": "a revised notice with pedestrian and delivery maps",
+            "D": "distinct pending and confirmed messages"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b5ce3481ff1643d7ed2b2025ffc2dccaeb2d3378414a2e0df9e5babf648baa09"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A community room booking rule: What lesson does the writer emphasize?",
+          "options": {
+            "A": "service rules need clear confirmation",
+            "B": "clear procedures save time for everyone",
+            "C": "a rule is useful when people know what to do",
+            "D": "public notices should answer practical questions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d9036277b8fe16f91175007f449175ea6467e2d437ecb467e2f806ae1629ee83"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "A _____ explanation of the civic information programme helped new visitors understand the plan.",
+      "options": {
+        "A": "silent",
+        "B": "distant",
+        "C": "clear",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中clear的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "834b3698e589f21e4a74314f106f56737dc14f52fd61cdfbd94a3723b31e6841"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group collected _____ about the civic information programme before deciding what to change.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "colour",
+        "D": "evidence"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中evidence的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dde4c187ee7397dae705f7fd756a8242a9821614d6722ad7d4c27ae8f2dab5a9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff invited users to _____ any difficulty with the civic information programme.",
+      "options": {
+        "A": "describe",
+        "B": "conceal",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中describe的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bd5d2bb8cd79ec8b02265c52264e0abe5d5a23274c509dee3ff0fbde8aaf7ce8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The first _____ on the civic information programme was revised after public comments.",
+      "options": {
+        "A": "harvest",
+        "B": "proposal",
+        "C": "platform",
+        "D": "receipt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中proposal的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "db5af608850c680f9447d2fa26fc6bf7aa706d878ad6f2fe0b5706353dd96362"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule allowed more people to help with the civic information programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "flexible",
+        "D": "foreign"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中flexible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c5cce433ce7ac98a939986df3f7c27ec8bc1e814667d9afd0bdf418552bb2011"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The team checked the _____ of its information about the civic information programme.",
+      "options": {
+        "A": "distance",
+        "B": "surface",
+        "C": "temperature",
+        "D": "accuracy"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中accuracy的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b0fbc35837eac71b055b27d857bfbeb5ae15ec9005084617ca6caf8e33b954b5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A short trial made the cost of the civic information programme easier to _____.",
+      "options": {
+        "A": "estimate",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中estimate的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1fd842628598c3a2c3105fda110962b20f4f05a1a53c4da6c282b6619a663093"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The organizers gave a _____ reason for changing the civic information programme.",
+      "options": {
+        "A": "historic",
+        "B": "practical",
+        "C": "silent",
+        "D": "wooden"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中practical的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a8ea06ac1655c055d96b4d6daf4c82b172daba583b694e8ddd6b4b2e718c442e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Residents were asked to _____ their ideas about the civic information programme.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "share",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中share的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0a53dc5771546157a812757028b7ed37c31a12daed68a4c95b4bc4ddf20827f2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The final report recorded both the benefits and the _____ of the civic information programme.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "titles",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中limits的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3ec5027eefb4dabd58123809a40a60135cf23fd7447790b5da1d4cec6434cabb"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the civic information programme.",
+      "options": {
+        "A": "had",
+        "B": "has",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "60cc830b19a85ae027b05f46d6289dc87c71aebc8762b1abe214970768d59bbb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the civic information programme _____ last week is now available.",
+      "options": {
+        "A": "publishing",
+        "B": "published",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fec638ad5a279c33b7239e9bdfcb7c8412ca5f272c4d5c41e8f9fde5395dd7d3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the civic information programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "960e13875d30accc49937827c2c48da4d667f824a8ed01e71461682a6370e121"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the civic information programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "why"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fcf6b6b0f5c61a2d058a0d2a0736baad6d602162e81d3fbc804492fc1466ab66"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the civic information programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "had noticed",
+        "B": "notices",
+        "C": "will notice",
+        "D": "is noticing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "75330430b728fe3cbe69b91ea3817729eaac92aeb4e6f1f1b9ef9a8d88ba6310"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the civic information programme.",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "eded1dc5c77d9286efb4ca9dda926351a82940516d2264e21e9a5713822828f9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the civic information programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f0114224158695a84cdd6f0c59743219b5bb0c548d8b5478f1e53202d1049886"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the civic information programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "95ed7638d2d0d22261bab4e7e7b80ac25c204962a193d66ca50766306778ca0e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the civic information programme finished _____ the team change its policy.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e5d649f45c94550d39f98c98dc16a2c78a95251f29878d75f1141b9ae692844e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the civic information programme, _____ visitors can use it.",
+      "options": {
+        "A": "more easily",
+        "B": "the more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "73962e49481c614f577f8e9a29a3ba6a5fa30c6e1319709db6cb35325307213f"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning public services and understanding rules often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the civic information programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关公共服务与规则理解的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "f076c8c7f2960525435ba9cc6d7855e268b37af01fa6dc64478b4ecea825688c",
+      "referenceAnswerFingerprint": "5531451990799bb19cedb22f5dba937300de350c328484b9b16158c922142f41"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the civic information team proposing a small improvement to the civic information programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the civic information programme. People have noticed a document requirement explained too late, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "c349c043cc6ee481aef1f017440a8932851d9a714bf47add4fe780fd67962717",
+      "sampleAnswerFingerprint": "ee21bd1b3632b2a6ae3de0eb35b1ecad871964396cde0f11de780d9ba840877a"
+    }
+  ],
+  "fingerprintManifest": [
+    "43b0016523931c32e77453517175d3cccd2ff3d9f0af4c9208ee0692a0407e84",
+    "91b142312195bd64afe4becc67a550ff0fc61caa3ed51721865be78d396cafbb",
+    "f0e8f3d7d039970ea9fc155e436292602f1ee5faeff8be3296ff4f7f5b1787d6",
+    "7641e6cd21952ed34607c08e138da215cd5b242d4ab861fbd5cb064c55b0e997",
+    "c078406ecfa95120fb84ce39b17d795565b7d38c1b51a141a4dab8f45fb851ca",
+    "b4e7e24c5f57dcd70d180e796c141b4b761600aa550811ee84c3e26eb2cee91b",
+    "1166aa3ab26f1c2ddbd67857b833500ed5e83e731b06b92d30803d14979e2a01",
+    "6cc9cb866f4441ed4a58cf1fd519fcdd4907b90f0cd2a1936c2d637fb3e5b8cf",
+    "f3399cf922d26ff04da848dba14e5ad49fc4eac9509fb9d4b76c7366fcdae9c6",
+    "da49f5b15417c8dfa826ff9739d286acb387fd6c891ba27ba53123fc92eb7606",
+    "de10b05e165403dbea8717f26a7c99449fee403d3ba21bd46e517565bf916e1e",
+    "1b100f770562708311ca7734df6e8de263cbfc559864c0f3f4286465cd928ec2",
+    "ffce3b96ad247f6f4d50825ef10407c63407eb1c294d6c3b19bf88a246c4945e",
+    "991293ea1168c1bb34ae68ecdb9e65bfbb25260cc2904620058182f07c6d0fef",
+    "fd32d9fb36c852243551aed7792fbbb5aba9156acce313875b2de02fec73f72b",
+    "bdbe4f189429b78e16ab957a5a0cc20dc6e9d0c44b903909e14523b1a05370a1",
+    "10aa36191d8a829a23f5982adff2ac7645a608938e22ea730951dbf6be1271f7",
+    "ac5454e4abf898fac4b1dbb299b5e80b0b24ae2760fccb255c3368fd922281da",
+    "149cbe45a55604006082562702d540162d078ca8d05f1995cabd5f9afa58c9e8",
+    "b24090e621ce10a467b844afa4da4d57f63e0b4f0b64e829b659a877225c5b7a",
+    "60aee487766540aa917c27f468d231c2c8ca23f31ffa6c8fde6295b147f4b7a6",
+    "5925caff7a61be0875e2a2f2065834e3b94fcc854c30f42010b916a4a51cc0f1",
+    "363c339f564dc7501397bb50d804f930a76d7c24c6c12affc3d0a35ad65a7767",
+    "a96ac0284576aa5ab8753c92c1ef41fe343c9cf2a8e40f5dcf5d06b5091e40ba",
+    "078d543ddeb0c448c3a56b79bdf73ec373e9f0cd8423708a7d3a3b0beee7ca01",
+    "2328609572802f8427c77a5b6e9adae6c98e20f4d76eda083b9a48f1ff9d85e3",
+    "90406387008bef7d96517bd98b122e07b8dbf6164044ab5cceee5f0d64ae0d55",
+    "382829d330e88814c2deef2230fec882a584cf34cb6aaa1d03607892e8695e18",
+    "755e8011833d14a0db7123990cc883858248adb47e8c8cea221fe0fd99b38b52",
+    "ecfcb89a58950646438cce70f9a0be3c61bf159a3b2c00395d5b845df12a3107",
+    "678afba8ad8759c3991c9d0f902c200646e671bf3f936876955a1ff0e1c524a0",
+    "c256d29f73e872d0039b05bef700f53ccb97684dd5a7aba5d59f89077f07957b",
+    "650f946a80ca49f7a27f023eb1cdb7133956a62fe79094e5c29e518aa92e73ae",
+    "2e096013d4458bf2a0888d01d37f46ef2e9d2eb238a9da5992227d1cea4bc138",
+    "6bdf4666183805fe50c6b5bdbc1e5dc5bac9cb888f7e1c93ffc197522da551b2",
+    "b5ce3481ff1643d7ed2b2025ffc2dccaeb2d3378414a2e0df9e5babf648baa09",
+    "d9036277b8fe16f91175007f449175ea6467e2d437ecb467e2f806ae1629ee83",
+    "834b3698e589f21e4a74314f106f56737dc14f52fd61cdfbd94a3723b31e6841",
+    "dde4c187ee7397dae705f7fd756a8242a9821614d6722ad7d4c27ae8f2dab5a9",
+    "bd5d2bb8cd79ec8b02265c52264e0abe5d5a23274c509dee3ff0fbde8aaf7ce8",
+    "db5af608850c680f9447d2fa26fc6bf7aa706d878ad6f2fe0b5706353dd96362",
+    "c5cce433ce7ac98a939986df3f7c27ec8bc1e814667d9afd0bdf418552bb2011",
+    "b0fbc35837eac71b055b27d857bfbeb5ae15ec9005084617ca6caf8e33b954b5",
+    "1fd842628598c3a2c3105fda110962b20f4f05a1a53c4da6c282b6619a663093",
+    "a8ea06ac1655c055d96b4d6daf4c82b172daba583b694e8ddd6b4b2e718c442e",
+    "0a53dc5771546157a812757028b7ed37c31a12daed68a4c95b4bc4ddf20827f2",
+    "3ec5027eefb4dabd58123809a40a60135cf23fd7447790b5da1d4cec6434cabb",
+    "60cc830b19a85ae027b05f46d6289dc87c71aebc8762b1abe214970768d59bbb",
+    "fec638ad5a279c33b7239e9bdfcb7c8412ca5f272c4d5c41e8f9fde5395dd7d3",
+    "960e13875d30accc49937827c2c48da4d667f824a8ed01e71461682a6370e121",
+    "fcf6b6b0f5c61a2d058a0d2a0736baad6d602162e81d3fbc804492fc1466ab66",
+    "75330430b728fe3cbe69b91ea3817729eaac92aeb4e6f1f1b9ef9a8d88ba6310",
+    "eded1dc5c77d9286efb4ca9dda926351a82940516d2264e21e9a5713822828f9",
+    "f0114224158695a84cdd6f0c59743219b5bb0c548d8b5478f1e53202d1049886",
+    "95ed7638d2d0d22261bab4e7e7b80ac25c204962a193d66ca50766306778ca0e",
+    "e5d649f45c94550d39f98c98dc16a2c78a95251f29878d75f1141b9ae692844e",
+    "73962e49481c614f577f8e9a29a3ba6a5fa30c6e1319709db6cb35325307213f",
+    "f076c8c7f2960525435ba9cc6d7855e268b37af01fa6dc64478b4ecea825688c",
+    "5531451990799bb19cedb22f5dba937300de350c328484b9b16158c922142f41",
+    "c349c043cc6ee481aef1f017440a8932851d9a714bf47add4fe780fd67962717",
+    "ee21bd1b3632b2a6ae3de0eb35b1ecad871964396cde0f11de780d9ba840877a"
+  ],
+  "contentFingerprint": "fa701319fa891a757b9461c84e19818d1b7f182af7abf9c4f95d54d808328f69"
+}

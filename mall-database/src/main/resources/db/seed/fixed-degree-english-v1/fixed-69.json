@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-69",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 69 · 家庭预算与金融素养",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 69,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about comparing the price of a phone plan",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I read about comparing the price of a phone plan. Where can I get more information?\nGuide: (1) _____\nVisitor: Is there a meeting I may attend?\nGuide: (2) _____\nVisitor: Must I pay to join?\nGuide: (3) _____\nVisitor: How will I hear about any changes?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Ask at the community advice desk for the short guide.",
+        "B": "Yes, there is a public session on Thursday evening.",
+        "C": "No, attending the session is free.",
+        "D": "An update will be available through the money advice team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "35f032914d1bc645ec44fae24a8f4eee8c6d93d22be7091d58bc9684bc67a7f2",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about comparing the price of a phone plan”, choose the response for blank (1).",
+          "options": {
+            "A": "Ask at the community advice desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the money advice team."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "74f0cb6053f4a8f02f4d2150b334f021b70e19354a760046bb91159a99132e6f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about comparing the price of a phone plan”, choose the response for blank (2).",
+          "options": {
+            "A": "Ask at the community advice desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the money advice team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bc828fb617d9a13d65f7fde24197767c98f24cdbc7280cae0704fa833de3f204"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about comparing the price of a phone plan”, choose the response for blank (3).",
+          "options": {
+            "A": "Ask at the community advice desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the money advice team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4693220c2ca623ab432af20d064a3caff49771daa27cf9f2a7c2d0f4d0702e54"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about comparing the price of a phone plan”, choose the response for blank (4).",
+          "options": {
+            "A": "Ask at the community advice desk for the short guide.",
+            "B": "Yes, there is a public session on Thursday evening.",
+            "C": "No, attending the session is free.",
+            "D": "An update will be available through the money advice team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "49f765dba0be2ccc6bff62ec2bf249b3143194e427c912855ce27329cedf2956"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Clarifying planning for an irregular bill",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The notice about planning for an irregular bill is not clear to me. Can you help?\nOfficer: (1) _____\nResident: Could I see an example?\nOfficer: (2) _____\nResident: Where should I send my comment?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The nearby trees are quite old.",
+        "B": "Certainly. Tell me which part is confusing.",
+        "C": "Yes, there is a sample at the community advice desk.",
+        "D": "Please send it to the money advice team."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "d22893302996144c61ed4ed3e819bbee45a1e855b639f3e89a80d1b7c8cf139e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Clarifying planning for an irregular bill”, choose the response for blank (1).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community advice desk.",
+            "D": "Please send it to the money advice team."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "94367c531f7d4a839d07e9e12a2f954b8c4f422d9fca200112c2d0d10947e562"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Clarifying planning for an irregular bill”, choose the response for blank (2).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community advice desk.",
+            "D": "Please send it to the money advice team."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9bd20cf3589a7db38bb8b959b7dd450064a36c855dd497ebeaa295a263dd5eaf"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Clarifying planning for an irregular bill”, choose the response for blank (3).",
+          "options": {
+            "A": "The nearby trees are quite old.",
+            "B": "Certainly. Tell me which part is confusing.",
+            "C": "Yes, there is a sample at the community advice desk.",
+            "D": "Please send it to the money advice team."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8e60c59c93e9c1f7ae79e66b83ff367870ee4ece6d65744c01156e7723ccaba8"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Following up on a misleading online discount",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Participant: I gave feedback about a misleading online discount last week. Has it been received?\nCoordinator: (1) _____\nParticipant: When will the group discuss it?\nCoordinator: (2) _____\nParticipant: May I read the decision afterward?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "The doors were painted recently.",
+        "B": "Yes, your message is in our record.",
+        "C": "The team will meet next Tuesday.",
+        "D": "Yes, the summary will be posted on the noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "3d328b86ee889a2408d578c78fd0a55cdc4317f76710a14309e083f401caa4d0",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Following up on a misleading online discount”, choose the response for blank (1).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "给出所需信息。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0b3205016b35a22b6c6619a75d93ee904305ebe39cbc13fa59a9dbaa2db5acbd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Following up on a misleading online discount”, choose the response for blank (2).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据提问说明下一步。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "998b0fd5306829ca2a3808dc78a05c98a4b4263fad452e86a01362cd566a73cc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Following up on a misleading online discount”, choose the response for blank (3).",
+          "options": {
+            "A": "The doors were painted recently.",
+            "B": "Yes, your message is in our record.",
+            "C": "The team will meet next Tuesday.",
+            "D": "Yes, the summary will be posted on the noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "回答具体安排。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "065a32b4f595924755381d6e63d807c0262cd1d70a8c0e6e12b547607b495e4d"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Comparing the price of a phone plan",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community class compared monthly phone plans. Participants noticed that the cheapest advertised price did not always mean the lowest yearly cost. The main obstacle was extra charges outside the headline price. Some plans charged for basic data after a small allowance was used. At first, the people involved did not agree on which part of the proposal deserved the most attention.\n\nTo investigate, the team used a twelve-month cost comparison. Learners added regular fees and likely usage costs for two different households. The organizers kept the first stage small enough to change without wasting substantial time or resources.\n\nThe evidence indicated total cost depended on realistic use. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a comparison sheet showing typical yearly totals. The revised approach was explained to users and given a date for a further practical check. The records were useful because they described ordinary use rather than an ideal situation imagined at a meeting.\n\nThe case suggests a broader point: price decisions require a common measure. The experience connected a small local decision with a wider need to listen, measure and adjust. The group published its reasons so that people who preferred a different result could still understand the choice. For those taking part in comparing the price of a phone plan, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性文章"
+      ],
+      "contentFingerprint": "2ed3ed1b1bbca740f372fccbdd22ef7b7651654e066a03cc9e8de09b847eba89",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Comparing the price of a phone plan: Which obstacle led the organizers to reconsider the first idea?",
+          "options": {
+            "A": "a large bill missing from weekly plans",
+            "B": "extra charges outside the headline price",
+            "C": "a displayed saving that hid the final amount",
+            "D": "attention fixed on one monthly figure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2104a5edc88b83c9a6fa2d261bd90e66d99ee2a4e2e1b1a88e59a194fdbe4b07"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Comparing the price of a phone plan: What method was used to investigate the situation?",
+          "options": {
+            "A": "a calendar of recurring payments",
+            "B": "a comparison of complete checkout prices",
+            "C": "a twelve-month cost comparison",
+            "D": "a visual comparison of repayment periods"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "194da6f0b95e4fcb0770dc1ac497aa7ea532d5b4a12184b8ea7d590be82a45eb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Comparing the price of a phone plan: What did the evidence indicate?",
+          "options": {
+            "A": "small regular savings could cover known costs",
+            "B": "the discount was poor value for single buyers",
+            "C": "payment size alone was not enough to judge a loan",
+            "D": "total cost depended on realistic use"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "2972affa161133931691409f9f308ae73fb66a3ea550638a1bbee50ce2349270"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Comparing the price of a phone plan: How was the arrangement changed?",
+          "options": {
+            "A": "a comparison sheet showing typical yearly totals",
+            "B": "a separate monthly reserve for yearly bills",
+            "C": "a checklist for full prices and purchase conditions",
+            "D": "a summary line for total repayment and duration"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e4bbe213d1b6a27874f810ad21bd87e15bac3751bcd00a94a972b80dc8e27f70"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Comparing the price of a phone plan: Which conclusion best reflects the passage?",
+          "options": {
+            "A": "a budget should include the whole year",
+            "B": "price decisions require a common measure",
+            "C": "an offer is useful only in context",
+            "D": "financial choices need both short and long views"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3c3b260c8cb73cbc57d9e949520ad67a6ad2f85a03006ad4dde58b332f1aecd3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Planning for an irregular bill",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Several households could meet normal weekly costs but struggled when a yearly insurance bill arrived in one month. The main obstacle was a large bill missing from weekly plans. People had treated predictable annual costs as if they were unexpected emergencies. The question mattered to people with different schedules and levels of experience, so one account could not represent everyone.\n\nTo investigate, the team used a calendar of recurring payments. Advisers helped families list dates without asking them to disclose private account details. A simple record of what happened each day gave the team a starting point for comparison.\n\nThe evidence indicated small regular savings could cover known costs. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a separate monthly reserve for yearly bills. The revised approach was explained to users and given a date for a further practical check. Some participants welcomed the change immediately, while others noticed practical details that needed further work.\n\nThe case suggests a broader point: a budget should include the whole year. The experience connected a small local decision with a wider need to listen, measure and adjust. The result was a revised plan, not a claim that every difficulty had disappeared. For those taking part in planning for an irregular bill, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：过程说明"
+      ],
+      "contentFingerprint": "4d4c0c3f12104fd1ce990deb0c5129bf8c13694502fbf55485efdfe085737c10",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Planning for an irregular bill: What problem did the people involved notice?",
+          "options": {
+            "A": "extra charges outside the headline price",
+            "B": "a displayed saving that hid the final amount",
+            "C": "attention fixed on one monthly figure",
+            "D": "a large bill missing from weekly plans"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "874f6aa33c9f3f4dc64ce561e83e686a38d6038dda03270bf074f80e790f3721"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Planning for an irregular bill: What was the first investigative step?",
+          "options": {
+            "A": "a calendar of recurring payments",
+            "B": "a twelve-month cost comparison",
+            "C": "a comparison of complete checkout prices",
+            "D": "a visual comparison of repayment periods"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "af18c910cb42a07dd02b5f7186f4d4e65cfdfae7a6bd4e296013b401998a9ace"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Planning for an irregular bill: What was learned from the records?",
+          "options": {
+            "A": "total cost depended on realistic use",
+            "B": "small regular savings could cover known costs",
+            "C": "the discount was poor value for single buyers",
+            "D": "payment size alone was not enough to judge a loan"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "86459a2a6ef6de6d2950dcd1f5afe79e9f24cd1f4eeb775ddb78c590f58eb2b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Planning for an irregular bill: What adjustment followed?",
+          "options": {
+            "A": "a comparison sheet showing typical yearly totals",
+            "B": "a checklist for full prices and purchase conditions",
+            "C": "a separate monthly reserve for yearly bills",
+            "D": "a summary line for total repayment and duration"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0933a2b5f692a02771d40340520e04c53b2b45593b1a1985aa279448e9856a9a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Planning for an irregular bill: What is the central message?",
+          "options": {
+            "A": "price decisions require a common measure",
+            "B": "an offer is useful only in context",
+            "C": "financial choices need both short and long views",
+            "D": "a budget should include the whole year"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ad1884bfaa3a4f3e33efbf770821826811fd17c31160f5522c8e161c0fc6cddb"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A misleading online discount",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Shoppers at a digital-skills workshop examined a sale page. Its large discount appeared attractive until delivery costs were added. The main obstacle was a displayed saving that hid the final amount. The offer also required buying two items, although many people needed only one. The initial idea sounded reasonable, yet the details of the place made it harder to carry out than expected.\n\nTo investigate, the team used a comparison of complete checkout prices. Participants recorded quantities, delivery charges and conditions before comparing offers. Instead of relying on a single opinion, the team invited several users to describe what they actually did.\n\nThe evidence indicated the discount was poor value for single buyers. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a checklist for full prices and purchase conditions. The revised approach was explained to users and given a date for a further practical check. This allowed the organizers to separate a temporary inconvenience from a pattern that required attention.\n\nThe case suggests a broader point: an offer is useful only in context. The experience connected a small local decision with a wider need to listen, measure and adjust. They also decided when to check the arrangement again, because conditions could change over time. For those taking part in a misleading online discount, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "9f304da9744f2a473e4ba1b53b40285c33e6dacda6504f6db40996c9f4daf20c",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A misleading online discount: Why was the original plan difficult to use?",
+          "options": {
+            "A": "extra charges outside the headline price",
+            "B": "a displayed saving that hid the final amount",
+            "C": "a large bill missing from weekly plans",
+            "D": "attention fixed on one monthly figure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "87f23d0fd915be5df5ae1fa7b5fed97d348c10660f859cfa45cfdd709915a090"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A misleading online discount: How did the team gather information?",
+          "options": {
+            "A": "a twelve-month cost comparison",
+            "B": "a calendar of recurring payments",
+            "C": "a comparison of complete checkout prices",
+            "D": "a visual comparison of repayment periods"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "559a3058b92bc1df763d9e449a0dfa4bb00817aa0d79cade4e8a6dfef58823b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A misleading online discount: What did the team discover?",
+          "options": {
+            "A": "total cost depended on realistic use",
+            "B": "small regular savings could cover known costs",
+            "C": "payment size alone was not enough to judge a loan",
+            "D": "the discount was poor value for single buyers"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "25de3507b1edd3f7781456a4aed04c65cee7e5380544f74a5e520a2b79a93791"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A misleading online discount: What did it do in response?",
+          "options": {
+            "A": "a checklist for full prices and purchase conditions",
+            "B": "a comparison sheet showing typical yearly totals",
+            "C": "a separate monthly reserve for yearly bills",
+            "D": "a summary line for total repayment and duration"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "ebeba124931a849ffd6c650846556b466f22ae45821bc20b862198988475d79b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A misleading online discount: What can be inferred from the final paragraph?",
+          "options": {
+            "A": "price decisions require a common measure",
+            "B": "an offer is useful only in context",
+            "C": "a budget should include the whole year",
+            "D": "financial choices need both short and long views"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ac18ee96f1424255d39d23e16f5acf4fb82124330400caaa693d5d6b1ce9c7a9"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Explaining a loan repayment table",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A credit advice office gave visitors a repayment table. Some readers focused on the first instalment and overlooked the total paid. The main obstacle was attention fixed on one monthly figure. A longer loan made each payment smaller while increasing the overall amount. The people affected were invited to comment before a permanent arrangement was chosen.\n\nTo investigate, the team used a visual comparison of repayment periods. Advisers showed identical loan amounts over different terms with clear total-cost columns. The first trial produced both useful results and questions the team could not yet answer.\n\nThe evidence indicated payment size alone was not enough to judge a loan. The repeated observations mattered more than one unusual experience and changed how the team understood the situation. The group then introduced a summary line for total repayment and duration. The revised approach was explained to users and given a date for a further practical check. Rather than hide those limits, the public note explained how the next version had been selected.\n\nThe case suggests a broader point: financial choices need both short and long views. The experience connected a small local decision with a wider need to listen, measure and adjust. That explanation made later changes easier to discuss with residents and staff. For those taking part in explaining a loan repayment table, the value of the work lay in connecting a specific observation to a visible decision. People could question the result because the process had been explained. No single trial could settle every issue. The group planned to keep listening after the new arrangement began and to compare later experiences with its first records. This gradual approach allowed the organizers to protect the original aim while changing a method that had not worked as expected in everyday use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：观点与推断"
+      ],
+      "contentFingerprint": "dd328a5a1a20aafc59198452d53049ebf80ff6c7f4271ccb863b7c1f636830a0",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Explaining a loan repayment table: What was the main obstacle?",
+          "options": {
+            "A": "extra charges outside the headline price",
+            "B": "a large bill missing from weekly plans",
+            "C": "a displayed saving that hid the final amount",
+            "D": "attention fixed on one monthly figure"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据主要困难判断。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "23a8ed6119e410f7442fb5c868d8f09c707004fdd9c0141f9c12c4ada59566d8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Explaining a loan repayment table: How was the idea examined?",
+          "options": {
+            "A": "a visual comparison of repayment periods",
+            "B": "a twelve-month cost comparison",
+            "C": "a calendar of recurring payments",
+            "D": "a comparison of complete checkout prices"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "根据调查方法判断。",
+          "knowledgePoints": [
+            "阅读理解：方法"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9318669ec839763763cc6099b6805553da79af19a21f5bc8f1f65f779ff969d2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Explaining a loan repayment table: Which finding shaped the decision?",
+          "options": {
+            "A": "total cost depended on realistic use",
+            "B": "payment size alone was not enough to judge a loan",
+            "C": "small regular savings could cover known costs",
+            "D": "the discount was poor value for single buyers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "根据实际发现判断。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c423e0add7bdee94b4aafcdac9aa84cf5ed201e0b17c00fa3fb47caf6688b0b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Explaining a loan repayment table: What change did the group make?",
+          "options": {
+            "A": "a comparison sheet showing typical yearly totals",
+            "B": "a separate monthly reserve for yearly bills",
+            "C": "a summary line for total repayment and duration",
+            "D": "a checklist for full prices and purchase conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "根据后续调整判断。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "887bb8527e33c67e1827704d97b9bdc1fa053950f6bbd9c3f1b344c499002099"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Explaining a loan repayment table: What lesson does the writer emphasize?",
+          "options": {
+            "A": "price decisions require a common measure",
+            "B": "a budget should include the whole year",
+            "C": "an offer is useful only in context",
+            "D": "financial choices need both short and long views"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "根据结尾观点判断。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e87271ca4fe431b4592feb66350e01c1e1b1b703ba502e0986f1b7d8a5692bac"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The notice about the household money advice programme should be _____ to people using different devices.",
+      "options": {
+        "A": "distant",
+        "B": "accessible",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中accessible的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d391c50c8310bd4b7e22396495732e9d826521fddfecdb9dee58e8045084ccd1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The group needed a _____ way to judge whether the household money advice programme worked.",
+      "options": {
+        "A": "random",
+        "B": "silent",
+        "C": "reliable",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中reliable的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d7936da026d69b6be02d629d3fd394b3e904a36879065deb27299130247503db"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A small _____ of the household money advice programme revealed problems before full publication.",
+      "options": {
+        "A": "salary",
+        "B": "ticket",
+        "C": "picture",
+        "D": "trial"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中trial的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "82287f121232dfd0c647ab8b7cdfe7b0986132a7ada9e447507cfd1938f12823"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The team agreed to _____ the results of the household money advice programme next month.",
+      "options": {
+        "A": "review",
+        "B": "borrow",
+        "C": "paint",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中review的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "25b6447462a400a6f1aa11d68a9cb0e16d5f68e2d8527ca407457bcdaea0b37a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Users gave useful _____ on the first version of the household money advice programme.",
+      "options": {
+        "A": "furniture",
+        "B": "feedback",
+        "C": "weather",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中feedback的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "164c359d46cf06e8412c041aaec8fa22ba82de7007da5ce8031797b334b349ae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Staff wrote the instructions for the household money advice programme in _____ language for first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "empty",
+        "C": "plain",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中plain的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fa714432b8b0b538595533fe6f87ab7f0912b078fe531ccc2c525ce45ceab392"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "A _____ change to the household money advice programme could be made without extra equipment.",
+      "options": {
+        "A": "coastal",
+        "B": "personal",
+        "C": "silent",
+        "D": "modest"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "语境中modest的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "05bc7018359611da657fe1e9813862e2bc73e3ac902450c2a8dcf18e39554ecf"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The public summary made the decision about the household money advice programme more _____.",
+      "options": {
+        "A": "transparent",
+        "B": "narrow",
+        "C": "fragile",
+        "D": "unusual"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "语境中transparent的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "312be35d6551993f4555449a529657b91d8c67918722566398ef3b1263f8fca8"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Volunteers had to _____ when the conditions around the household money advice programme changed.",
+      "options": {
+        "A": "conceal",
+        "B": "adapt",
+        "C": "borrow",
+        "D": "refuse"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "语境中adapt的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3b2ab8a66a73c48f1c99262869a3676f36def4c6977859672f6197552afc5e50"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The project on the household money advice programme remained useful despite an _____ result in its first week.",
+      "options": {
+        "A": "official",
+        "B": "wooden",
+        "C": "unexpected",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "语境中unexpected的含义最合适。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6c4cba3f85ff47b0f0378cedb7ea8b57c2f66ebc3e61f4edd066c9c02cf09fc4"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would collect additional information about the household money advice programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dce5666f2629e925ca99dc94472e8194112c9c9c7fcd0cc26b3dbce2063072c5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the household money advice programme _____ last week is now available.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "65bbd3908d6b105f8dca9f252e452f53304b09a2a37b9b1a3708f9d6c054295c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the volunteers _____ absent from the discussion of the household money advice programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c463cf5918fc8eb350f26d8c1cdc0577a379f20821b3654063f511cd57deffea"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The team explained _____ it had revised the plan for the household money advice programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "44e881d8721b7bd5bc939e8158ccf4978c42cdedf2d0010db33f3a4b95a91cdc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial of the household money advice programme ended, the group _____ several patterns.",
+      "options": {
+        "A": "notices",
+        "B": "will notice",
+        "C": "is noticing",
+        "D": "had noticed"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前的动作。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f7927f94ca9c7fd7d26e485bf716301b55cc0a5f45a66c743be6f8a626f36ad1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The guide used simple words so that everyone _____ understand the household money advice programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境目的从句用could。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b95544bd7446f555244c634306f2229060a2d93ffdbea1c7bbee824d86193d43"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the place _____ the first meeting about the household money advice programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "361002fe30726f904ba36e78f7d325c1e8ac3892ab992f6f0f40a117e6afb7f1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the decision when the review of the household money advice programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cf0d065b5002aa4175ecd16392ca327b460a699a5ffaeb34a71d999229f3a058"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the household money advice programme finished _____ the team change its policy.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0320d8035a9f4c820a8a5c5c0d81cd33e915b068bdbc4529e07e1339f3bc68ca"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully staff explain the household money advice programme, _____ visitors can use it.",
+      "options": {
+        "A": "the more easily",
+        "B": "more easily",
+        "C": "the easiest",
+        "D": "easier"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "40c75233974341e4aef20d550ec50e6cfb257de66ef90bc27cda9910ea8f1607"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nProjects concerning household budgets and financial literacy often begin with a practical question. People may agree on a general goal while experiencing the same service in different ways. In this case, local organizers invited residents to describe ordinary visits and kept simple records of what happened. They compared those accounts before changing the household money advice programme. The first trial did not answer every question, but it showed which difficulties were repeated and which were temporary. Staff then explained the reasons for a modest adjustment. Clear information helped people understand the decision, including those who would have preferred another option. The group planned to review the arrangement again after more people had used it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供考生自评，注意语义准确、逻辑关系及汉语通顺。",
+      "referenceAnswer": "有关家庭预算与金融素养的项目通常从一个实际问题开始。人们可能赞同总体目标，却对同一服务有不同体验。在这个案例中，当地组织者请居民描述日常使用情况，并简单记录发生的事情。他们对照这些叙述后调整了服务。最初的试行无法回答所有问题，但能显示哪些困难反复出现，哪些只是暂时现象。工作人员随后解释了一项适度调整的原因。清楚的信息帮助人们理解决定，包括那些更希望采用其他方案的人。团队计划在更多人使用后再次评估安排。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "e86528de611ffb7312dad2cd2e5bb655bbaa265629fc1c0311296e180f758f57",
+      "referenceAnswerFingerprint": "6d29cd9c9aebc3c27e9d1e7e026f87c884fa0b58dfd945132fc63807ed907356"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to the money advice team proposing a small improvement to the household money advice programme. Explain the problem, describe a short trial, and say what evidence should guide the final decision.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文供考生自评，注意任务要点、组织结构及语言准确性。",
+      "sampleAnswer": "Dear Committee Members,\nI would like to propose a small improvement to the household money advice programme. People have noticed extra charges outside the headline price, and a short trial could help us understand how often this problem occurs. We should ask regular users and people who have not used the service before to describe their experiences. Their comments may reveal details that a plan made in an office would miss.\nFor one month, staff could keep a simple record of participation, time spent and any difficulties reported. We should also explain the purpose of the trial in clear language so that residents know how to contribute. After the month, please publish a brief summary of both benefits and limits. The final decision should be based on what people actually experienced, with a date for checking the arrangement again.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "bf401c7548a936528439311e7df7647a15b0b4baada64558de10fbd5543b02c2",
+      "sampleAnswerFingerprint": "37529a7a5e0c4310b3ef8e4dbfa316867f87ae38d9b259ea5df53adb7e57e111"
+    }
+  ],
+  "fingerprintManifest": [
+    "35f032914d1bc645ec44fae24a8f4eee8c6d93d22be7091d58bc9684bc67a7f2",
+    "74f0cb6053f4a8f02f4d2150b334f021b70e19354a760046bb91159a99132e6f",
+    "bc828fb617d9a13d65f7fde24197767c98f24cdbc7280cae0704fa833de3f204",
+    "4693220c2ca623ab432af20d064a3caff49771daa27cf9f2a7c2d0f4d0702e54",
+    "49f765dba0be2ccc6bff62ec2bf249b3143194e427c912855ce27329cedf2956",
+    "d22893302996144c61ed4ed3e819bbee45a1e855b639f3e89a80d1b7c8cf139e",
+    "94367c531f7d4a839d07e9e12a2f954b8c4f422d9fca200112c2d0d10947e562",
+    "9bd20cf3589a7db38bb8b959b7dd450064a36c855dd497ebeaa295a263dd5eaf",
+    "8e60c59c93e9c1f7ae79e66b83ff367870ee4ece6d65744c01156e7723ccaba8",
+    "3d328b86ee889a2408d578c78fd0a55cdc4317f76710a14309e083f401caa4d0",
+    "0b3205016b35a22b6c6619a75d93ee904305ebe39cbc13fa59a9dbaa2db5acbd",
+    "998b0fd5306829ca2a3808dc78a05c98a4b4263fad452e86a01362cd566a73cc",
+    "065a32b4f595924755381d6e63d807c0262cd1d70a8c0e6e12b547607b495e4d",
+    "2ed3ed1b1bbca740f372fccbdd22ef7b7651654e066a03cc9e8de09b847eba89",
+    "2104a5edc88b83c9a6fa2d261bd90e66d99ee2a4e2e1b1a88e59a194fdbe4b07",
+    "194da6f0b95e4fcb0770dc1ac497aa7ea532d5b4a12184b8ea7d590be82a45eb",
+    "2972affa161133931691409f9f308ae73fb66a3ea550638a1bbee50ce2349270",
+    "e4bbe213d1b6a27874f810ad21bd87e15bac3751bcd00a94a972b80dc8e27f70",
+    "3c3b260c8cb73cbc57d9e949520ad67a6ad2f85a03006ad4dde58b332f1aecd3",
+    "4d4c0c3f12104fd1ce990deb0c5129bf8c13694502fbf55485efdfe085737c10",
+    "874f6aa33c9f3f4dc64ce561e83e686a38d6038dda03270bf074f80e790f3721",
+    "af18c910cb42a07dd02b5f7186f4d4e65cfdfae7a6bd4e296013b401998a9ace",
+    "86459a2a6ef6de6d2950dcd1f5afe79e9f24cd1f4eeb775ddb78c590f58eb2b0",
+    "0933a2b5f692a02771d40340520e04c53b2b45593b1a1985aa279448e9856a9a",
+    "ad1884bfaa3a4f3e33efbf770821826811fd17c31160f5522c8e161c0fc6cddb",
+    "9f304da9744f2a473e4ba1b53b40285c33e6dacda6504f6db40996c9f4daf20c",
+    "87f23d0fd915be5df5ae1fa7b5fed97d348c10660f859cfa45cfdd709915a090",
+    "559a3058b92bc1df763d9e449a0dfa4bb00817aa0d79cade4e8a6dfef58823b9",
+    "25de3507b1edd3f7781456a4aed04c65cee7e5380544f74a5e520a2b79a93791",
+    "ebeba124931a849ffd6c650846556b466f22ae45821bc20b862198988475d79b",
+    "ac18ee96f1424255d39d23e16f5acf4fb82124330400caaa693d5d6b1ce9c7a9",
+    "dd328a5a1a20aafc59198452d53049ebf80ff6c7f4271ccb863b7c1f636830a0",
+    "23a8ed6119e410f7442fb5c868d8f09c707004fdd9c0141f9c12c4ada59566d8",
+    "9318669ec839763763cc6099b6805553da79af19a21f5bc8f1f65f779ff969d2",
+    "c423e0add7bdee94b4aafcdac9aa84cf5ed201e0b17c00fa3fb47caf6688b0b1",
+    "887bb8527e33c67e1827704d97b9bdc1fa053950f6bbd9c3f1b344c499002099",
+    "e87271ca4fe431b4592feb66350e01c1e1b1b703ba502e0986f1b7d8a5692bac",
+    "d391c50c8310bd4b7e22396495732e9d826521fddfecdb9dee58e8045084ccd1",
+    "d7936da026d69b6be02d629d3fd394b3e904a36879065deb27299130247503db",
+    "82287f121232dfd0c647ab8b7cdfe7b0986132a7ada9e447507cfd1938f12823",
+    "25b6447462a400a6f1aa11d68a9cb0e16d5f68e2d8527ca407457bcdaea0b37a",
+    "164c359d46cf06e8412c041aaec8fa22ba82de7007da5ce8031797b334b349ae",
+    "fa714432b8b0b538595533fe6f87ab7f0912b078fe531ccc2c525ce45ceab392",
+    "05bc7018359611da657fe1e9813862e2bc73e3ac902450c2a8dcf18e39554ecf",
+    "312be35d6551993f4555449a529657b91d8c67918722566398ef3b1263f8fca8",
+    "3b2ab8a66a73c48f1c99262869a3676f36def4c6977859672f6197552afc5e50",
+    "6c4cba3f85ff47b0f0378cedb7ea8b57c2f66ebc3e61f4edd066c9c02cf09fc4",
+    "dce5666f2629e925ca99dc94472e8194112c9c9c7fcd0cc26b3dbce2063072c5",
+    "65bbd3908d6b105f8dca9f252e452f53304b09a2a37b9b1a3708f9d6c054295c",
+    "c463cf5918fc8eb350f26d8c1cdc0577a379f20821b3654063f511cd57deffea",
+    "44e881d8721b7bd5bc939e8158ccf4978c42cdedf2d0010db33f3a4b95a91cdc",
+    "f7927f94ca9c7fd7d26e485bf716301b55cc0a5f45a66c743be6f8a626f36ad1",
+    "b95544bd7446f555244c634306f2229060a2d93ffdbea1c7bbee824d86193d43",
+    "361002fe30726f904ba36e78f7d325c1e8ac3892ab992f6f0f40a117e6afb7f1",
+    "cf0d065b5002aa4175ecd16392ca327b460a699a5ffaeb34a71d999229f3a058",
+    "0320d8035a9f4c820a8a5c5c0d81cd33e915b068bdbc4529e07e1339f3bc68ca",
+    "40c75233974341e4aef20d550ec50e6cfb257de66ef90bc27cda9910ea8f1607",
+    "e86528de611ffb7312dad2cd2e5bb655bbaa265629fc1c0311296e180f758f57",
+    "6d29cd9c9aebc3c27e9d1e7e026f87c884fa0b58dfd945132fc63807ed907356",
+    "bf401c7548a936528439311e7df7647a15b0b4baada64558de10fbd5543b02c2",
+    "37529a7a5e0c4310b3ef8e4dbfa316867f87ae38d9b259ea5df53adb7e57e111"
+  ],
+  "contentFingerprint": "89c4ce08af7947f136507b4b195ff3e688517b0f71af768ad6d7953e946987f7"
+}
