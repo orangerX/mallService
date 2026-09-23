@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-55",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 55 · 职业培训与团队协作",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 55,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the workplace learning programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the workplace learning programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the training room reception.",
+        "B": "Yes, send your name to the training coordinator before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "f7fd0cad7a6b4f8ddebfb617c49f1dc3b015e9b7afc0e8eceb5a809aee3e84b4",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the workplace learning programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the training room reception.",
+            "B": "Yes, send your name to the training coordinator before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "06f62aaaa03cb7a7e56f32a269b8d377a29d161ba5351d828528be0cec095bd2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the workplace learning programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the training room reception.",
+            "B": "Yes, send your name to the training coordinator before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fd0a3fc5aaefb25b0ec67bb9bd8096a44859d2b0d9dd32b7d985ab1854307436"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the workplace learning programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the training room reception.",
+            "B": "Yes, send your name to the training coordinator before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "275c4eefb6d1decd90417ebf182d0f5ea8836bbc834df3cc2c0f9e7a60e20350"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the workplace learning programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the training room reception.",
+            "B": "Yes, send your name to the training coordinator before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "649adf1882a99da6a93dc33167e382e580305fa4f49366b92c0833ec5a2c6e2f"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the workplace learning programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the workplace learning programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the training room reception.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the training coordinator if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "9e5b5871306fd7336d3aa52c0ded60c7ea4c48f8932429fe1de3e0bd9fdbd650",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the workplace learning programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the training room reception.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the training coordinator if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a296219b344be02956a06a2f855f46d33d620e283362ea128248cbe94c4fde63"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the workplace learning programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the training room reception.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the training coordinator if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3207322b51c3e4837cffc113d19c9553a4e5aeb325706bc41dce3baa47b8b617"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the workplace learning programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the training room reception.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the training coordinator if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "268c10e470e31ae58b3e04a3314d8d2c4cc24447c30a30ca958af5b76ac66f2a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the workplace learning programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the workplace learning programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the training room reception are blue.",
+        "B": "Please send a short message to the training coordinator.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b00f5f7390b00fb426a11b5b3b64381874cdb871f049865c19ec41324be335c1",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the workplace learning programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the training room reception are blue.",
+            "B": "Please send a short message to the training coordinator.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "c70d28079e476468ac71e58f52af932a3727da56f20f50602fdc554353e00863"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the workplace learning programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the training room reception are blue.",
+            "B": "Please send a short message to the training coordinator.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "58fbf8150d3df0dc72cad8a6da8c9239d6ace63a3d1bbadaeee0026b00236ea1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the workplace learning programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the training room reception are blue.",
+            "B": "Please send a short message to the training coordinator.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "357d5611641ec05c93f73874048be42adb82ae928aa1a85d9b5623fe9ad99b44"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "An apprentice learns by explaining",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A bicycle workshop welcomed two adult apprentices. Both could repeat repair steps, but their supervisor wanted to know whether they understood the reasons behind them. The central difficulty was memorised steps without clear understanding. The apprentices followed a printed list carefully yet could not explain why a damaged part needed replacing before another adjustment. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried brief explanations during each repair. After completing a safe task, each learner described the purpose of the step to a partner and asked one question about the method. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed questions exposed gaps before mistakes became habits. A conversation about brake cables revealed confusion that a completed checklist would not have shown to the supervisor. In response, the group adopted a shared explanation notebook. The team wrote short notes in plain language and reviewed them with qualified staff before apprentices repeated difficult work. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: being able to do a step differs from understanding it. The supervisor kept demonstrations, but also checked whether learners could explain the reasons for safety-critical decisions. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in an apprentice learns by explaining, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "e89ae2fb6f3c21637792a53c059991052609b890eff44abc33de2a6ed0642244",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "An apprentice learns by explaining: What was the central difficulty?",
+          "options": {
+            "A": "long notes that buried urgent information",
+            "B": "instructions that assumed prior digital experience",
+            "C": "different explanations of the same task",
+            "D": "memorised steps without clear understanding"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0567128c7de9961f68ed78204ff55f2b6f26a06c340eea8a0e69c25ac639ec52"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "An apprentice learns by explaining: What did the group first try?",
+          "options": {
+            "A": "brief explanations during each repair",
+            "B": "a one-page priority summary",
+            "C": "a guided demonstration with sample requests",
+            "D": "monthly meetings among mentors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a83778812d0e29747c0ae8259362b92d099b0a253257c0b3088281c6cf59a92b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "An apprentice learns by explaining: What did the trial show?",
+          "options": {
+            "A": "shorter notes supported better questions",
+            "B": "questions exposed gaps before mistakes became habits",
+            "C": "the confirmation step caused most uncertainty",
+            "D": "a common core reduced confusion"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d61c3b700798f24a266f2ad8800ee457f48a596c35fb48160a50544e3eb89808"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "An apprentice learns by explaining: What change followed the findings?",
+          "options": {
+            "A": "a regular review of the summary layout",
+            "B": "screenshots and a visible submission message",
+            "C": "a shared explanation notebook",
+            "D": "a simple guide with room for examples"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d0525bc055e19616238808f4018d74865f27868878227ec1e1e3d100b4a0a607"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "An apprentice learns by explaining: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "good handovers make priority visible",
+            "B": "teaching should reveal the whole task",
+            "C": "consistency and experience can support each other",
+            "D": "being able to do a step differs from understanding it"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "b605e6974498e5bbd15e57c762c8ca99f372d2dc54884549fab6a546dbb26097"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A shift handover that people could use",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A small care service changed staff at six each evening. Handover notes grew longer, but important details were still missed. The central difficulty was long notes that buried urgent information. Employees copied old descriptions into new forms and had difficulty finding a recent change during a busy handover. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried a one-page priority summary. The team placed current actions at the top and kept background records available separately for anyone who needed more detail. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed shorter notes supported better questions. Staff could see what had changed, ask for clarification and avoid treating every line as equally urgent. In response, the group adopted a regular review of the summary layout. Supervisors invited workers from day and night shifts to identify information that was still hard to locate. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: good handovers make priority visible. The service learned that adding more words is not always the same as communicating more effectively. The final proposal remained open to revision when new information became available. For the people involved in a shift handover that people could use, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "37ca227a96f57173c6ef24722694d0dbc55a13742a61c69b918fc86348839fd6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A shift handover that people could use: What was the central difficulty?",
+          "options": {
+            "A": "long notes that buried urgent information",
+            "B": "memorised steps without clear understanding",
+            "C": "instructions that assumed prior digital experience",
+            "D": "different explanations of the same task"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3a0f7629c18c8b96b526028a71a770914c01301daeee70ac955fe550bc2c036f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A shift handover that people could use: What did the group first try?",
+          "options": {
+            "A": "brief explanations during each repair",
+            "B": "a one-page priority summary",
+            "C": "a guided demonstration with sample requests",
+            "D": "monthly meetings among mentors"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "16bb012b58356b9c40267eec8000b4d3b2b10c23a0eaebef7debaff5fa4a9e37"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A shift handover that people could use: What did the trial show?",
+          "options": {
+            "A": "questions exposed gaps before mistakes became habits",
+            "B": "the confirmation step caused most uncertainty",
+            "C": "shorter notes supported better questions",
+            "D": "a common core reduced confusion"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "739cf28342466ab0767bed0d3864537295a564c4da4ff96811fb1793b1d9f1a4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A shift handover that people could use: What change followed the findings?",
+          "options": {
+            "A": "a shared explanation notebook",
+            "B": "screenshots and a visible submission message",
+            "C": "a simple guide with room for examples",
+            "D": "a regular review of the summary layout"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5fcb189664ef745c742f71bbdaf8b96615e0ee1cc07d8db4ba3a0f5b6f0fad7d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A shift handover that people could use: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "good handovers make priority visible",
+            "B": "being able to do a step differs from understanding it",
+            "C": "teaching should reveal the whole task",
+            "D": "consistency and experience can support each other"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "e73b8bea832169e9be2f3539750dbd1fad5550e460f81c5b76708caeff58c6e9"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Teaching a new digital form",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local employer introduced an online leave request form. The instructions described each button, but some employees still submitted incomplete requests. The central difficulty was instructions that assumed prior digital experience. The guide used terms such as attachment and confirmation without showing what they looked like on a phone. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried a guided demonstration with sample requests. Trainers invited workers to complete a practice form on their own devices and describe where they hesitated. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed the confirmation step caused most uncertainty. Several people believed a request had been sent when they had only saved a draft. In response, the group adopted screenshots and a visible submission message. The employer added clear images to the guide and changed the final screen to say when a request had been received. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: teaching should reveal the whole task. A list of buttons was not enough; employees needed to understand the difference between saving and submitting. This approach gave the group a practical basis for its next round of work. For the people involved in teaching a new digital form, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "65b7621f6b4a0d378f747dd4d102198531396baf52c341047475877fd60375f1",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Teaching a new digital form: What was the central difficulty?",
+          "options": {
+            "A": "memorised steps without clear understanding",
+            "B": "instructions that assumed prior digital experience",
+            "C": "long notes that buried urgent information",
+            "D": "different explanations of the same task"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c75e7d94a7b3eaf88d1d7d85a576b705314e8a6766057fb2569507a5686cd97e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Teaching a new digital form: What did the group first try?",
+          "options": {
+            "A": "brief explanations during each repair",
+            "B": "a one-page priority summary",
+            "C": "a guided demonstration with sample requests",
+            "D": "monthly meetings among mentors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "30dafa33ecd41af5e11711826b2ed81634925420718de1a999645963061ba099"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Teaching a new digital form: What did the trial show?",
+          "options": {
+            "A": "questions exposed gaps before mistakes became habits",
+            "B": "shorter notes supported better questions",
+            "C": "a common core reduced confusion",
+            "D": "the confirmation step caused most uncertainty"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4e73e8974eb3f03457e29e61b8ff1108a215af9eb9c0ad031bfdffc328c22ecd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Teaching a new digital form: What change followed the findings?",
+          "options": {
+            "A": "screenshots and a visible submission message",
+            "B": "a shared explanation notebook",
+            "C": "a regular review of the summary layout",
+            "D": "a simple guide with room for examples"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e9c7fd400e1a94228cc771ff92e1da514f5a3f0f06e96b1114d5de0475a04925"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Teaching a new digital form: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "being able to do a step differs from understanding it",
+            "B": "teaching should reveal the whole task",
+            "C": "good handovers make priority visible",
+            "D": "consistency and experience can support each other"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "bd34d3d6e0b8e3a49ae06ec0a3363af5019ad06ff707914f3a29ade0bb9e3798"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Mentors exchange their methods",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Experienced workers in a repair centre mentored new colleagues. Each mentor had useful habits, but learners received conflicting advice. The central difficulty was different explanations of the same task. One mentor stressed speed while another emphasised a safety check, leaving apprentices unsure which step was essential. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried monthly meetings among mentors. Workers compared demonstrations and agreed on the safety steps that everyone should teach, while allowing personal styles elsewhere. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed a common core reduced confusion. New colleagues could follow one reliable sequence and still learn why experienced staff sometimes chose different optional methods. In response, the group adopted a simple guide with room for examples. Mentors wrote a short shared outline and added notes when a new case showed that an explanation needed improving. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: consistency and experience can support each other. The centre did not demand identical teaching voices; it made essential instructions clear while preserving useful professional judgment. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in mentors exchange their methods, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "5d5fdb3938b81c4d8326ce1216860e57c077c9dbbe8cdc7924d09d220a493fb7",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Mentors exchange their methods: What was the central difficulty?",
+          "options": {
+            "A": "memorised steps without clear understanding",
+            "B": "long notes that buried urgent information",
+            "C": "different explanations of the same task",
+            "D": "instructions that assumed prior digital experience"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0ef4c4db57011398de81398cd1d4514dfc2235ee5fe298b47b6b4818b7a3f24d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Mentors exchange their methods: What did the group first try?",
+          "options": {
+            "A": "brief explanations during each repair",
+            "B": "a one-page priority summary",
+            "C": "a guided demonstration with sample requests",
+            "D": "monthly meetings among mentors"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "60817bf4d29a5e6d0d227d86fa70eb6bb191f3fec0975cb8764c3098cb25df8e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Mentors exchange their methods: What did the trial show?",
+          "options": {
+            "A": "a common core reduced confusion",
+            "B": "questions exposed gaps before mistakes became habits",
+            "C": "shorter notes supported better questions",
+            "D": "the confirmation step caused most uncertainty"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "68f7d7078e9bf3bb8950e936abae0d86992616de2a8db9e968f970d897eb905f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Mentors exchange their methods: What change followed the findings?",
+          "options": {
+            "A": "a shared explanation notebook",
+            "B": "a simple guide with room for examples",
+            "C": "a regular review of the summary layout",
+            "D": "screenshots and a visible submission message"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "483608b13455640d1322562ef99136b181884493c7676438dac144ba48d4467c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Mentors exchange their methods: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "being able to do a step differs from understanding it",
+            "B": "good handovers make priority visible",
+            "C": "consistency and experience can support each other",
+            "D": "teaching should reveal the whole task"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "efe62ba1f7e1682bee8d9355820892fc99d52ff4d8c1a4b242aaa1d1d489c479"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the workplace learning programme so visitors could understand its purpose.",
+      "options": {
+        "A": "distant",
+        "B": "silent",
+        "C": "narrow",
+        "D": "clear"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "444e13bfdce329e3700b4f04ce13a6fe4eb5509799512586aa88137c22bcf0ae"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the workplace learning programme can provide _____ before a final decision.",
+      "options": {
+        "A": "evidence",
+        "B": "furniture",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "128e28b1af64f59ffdaca510c1b62f024e97068f97f718b7953c1f2a0e006fed"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the workplace learning programme.",
+      "options": {
+        "A": "conceal",
+        "B": "describe",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "c767a23cc305909c1b228c66d307a42b54a5e6d0d1afd6e421aab47d51c9e41f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the workplace learning programme was changed after the first public _____.",
+      "options": {
+        "A": "departure",
+        "B": "harvest",
+        "C": "feedback",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "859cbd8e7f31c726cbba038d22ddae5d3e01f5ee1b482854bbf1a1c5faee8d2e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the workplace learning programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "formal",
+        "D": "flexible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e9f0bb5c264d6ca12154bedc55228e1944e054228c44201ebd3013053ab6a6be"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the workplace learning programme.",
+      "options": {
+        "A": "check",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "bc1c6dcd7d47dad245332423793feeccf27c9634c82f9ac7777f9f1cafe2a5d1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the workplace learning programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "information",
+        "C": "furniture",
+        "D": "competition"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e71bf5d13d006ceb1f929e7d71a42a669ce9a2d30b881671afca387c03f7ad75"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the workplace learning programme more _____ to first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "accessible",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f69ca532e5f16ab2c92a88a3a557ff61ae68de1b0e5d8e272120db897773cef3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the workplace learning programme with the neighbourhood.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "conceal",
+        "D": "share"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0b30f213eb517ca2ec67dd72c9774c95e480dc4ea123ff3f237cdabf07bbf187"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the workplace learning programme will consider both benefits and _____.",
+      "options": {
+        "A": "costs",
+        "B": "colours",
+        "C": "directions",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bbf012043a04149a2a93fa7329863618676b8a52dff7d29bcc49fa1e5031cc47"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the workplace learning programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "faeb0b4136daadfdef184960805e43d2d67be022d0cc2884f68a7294e735df1f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the workplace learning programme _____ yesterday is available online.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a204bf555ab9404c117b5452e7ca202490d424d60aa7c2989c4759871b4c4689"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the workplace learning programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8ddd55c0346d69ae09ca9a6a61cbe28366f7979835a4869e57f71a31c7efb6e5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the workplace learning programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1a5ea57a5da27f9a5a43884a1f42df82a6b2b7e08a26e8b139d322d01e0d5d26"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the workplace learning programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "had learned",
+        "C": "will learn",
+        "D": "is learning"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7d3637cf5bc59787d759701098870dd824033ccff0750b0376a84d84a2f52d78"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the workplace learning programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "7a85cdc14388532f4323ca9b87274475d80815c0fb2ea71be7b160ce343bb8b3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the workplace learning programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "81ad6b4891e4cd8eb552e1e70e96629d1d12aa8e55cc859cefb8ea353ab43ee1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the workplace learning programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "89ab882b24656335a62c704d2880f8f6103e4fd34a211d5c2f4be99576316476"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the workplace learning programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "696982e908b66742aa5d456c999bc1cf820f1d72a31a61f74afd083c1ac15518"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the workplace learning programme, _____ their next decision can be.",
+      "options": {
+        "A": "better",
+        "B": "the best",
+        "C": "the better",
+        "D": "more good"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9885fe6136d82a231227d6fc7a325dfc18a767608366b1e6dd9e523b3926a4db"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA checklist can help a new worker remember the order of a task, but it cannot show whether the worker understands each decision. In a repair workshop, apprentices learned to explain the reason for a step after completing it. When one learner described how to adjust a brake, a short conversation revealed confusion about a damaged cable. A supervisor could correct the misunderstanding before it became a repeated habit. The workshop kept its written instructions and added a notebook of clear explanations. Safety remained the responsibility of qualified staff. The example shows why practical training should include both careful demonstration and opportunities to ask questions about the work.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意whether宾语从句和before引导的时间关系。",
+      "referenceAnswer": "检查清单可以帮助新员工记住任务顺序，却不能说明员工是否理解每项决定。在一家维修车间，学徒学会在完成一个步骤后解释其原因。一名学徒说明如何调整刹车时，一段简短对话暴露了他对受损刹车线的误解。主管因此能在误解变成反复出现的习惯前予以纠正。车间保留了书面说明，还增加了一本用清楚语言解释操作的笔记。安全仍由合格员工负责。这个例子说明，实践培训既应包含细致示范，也应提供提问机会。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "4d1f64ddbbd344ea1f98f69415ba8c0ba89757c9cbaefd4c4616a137c67da318",
+      "referenceAnswerFingerprint": "26f6a606ecee2e6fc3d18b15686b43b569a1c744912b5b61055e2f674cdc21a3"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a workshop supervisor proposing a way to help adult apprentices understand the reasons behind repair steps. Explain one activity and how the supervisor could assess its value.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖解释练习、专业安全把关及评估方式。",
+      "sampleAnswer": "Dear Supervisor,\nI propose adding a brief explanation step after each safe practice repair. An apprentice could tell a partner why a part was checked or replaced, and the partner could ask one question. This would make the reasoning visible without turning every task into a long lesson. A qualified worker should remain responsible for safety decisions and should correct any misunderstanding immediately.\nFor a month, we could note which steps cause repeated questions and place clear answers in a shared notebook. At the end of the month, supervisors could ask apprentices to explain a new example rather than repeat a memorised list. If they can give the reason for each important action, the activity has helped.\nYours sincerely,\nA workshop colleague",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "c48bf42c79d787cfdd646ac6e8681066558dbc44edc9741231ec13ea4e2bc1b0",
+      "sampleAnswerFingerprint": "1ce4c4d22c0b76208d1b20e6fb0ae5e0736f3a4c176a3d6c7fc86308fc4ce998"
+    }
+  ],
+  "fingerprintManifest": [
+    "f7fd0cad7a6b4f8ddebfb617c49f1dc3b015e9b7afc0e8eceb5a809aee3e84b4",
+    "06f62aaaa03cb7a7e56f32a269b8d377a29d161ba5351d828528be0cec095bd2",
+    "fd0a3fc5aaefb25b0ec67bb9bd8096a44859d2b0d9dd32b7d985ab1854307436",
+    "275c4eefb6d1decd90417ebf182d0f5ea8836bbc834df3cc2c0f9e7a60e20350",
+    "649adf1882a99da6a93dc33167e382e580305fa4f49366b92c0833ec5a2c6e2f",
+    "9e5b5871306fd7336d3aa52c0ded60c7ea4c48f8932429fe1de3e0bd9fdbd650",
+    "a296219b344be02956a06a2f855f46d33d620e283362ea128248cbe94c4fde63",
+    "3207322b51c3e4837cffc113d19c9553a4e5aeb325706bc41dce3baa47b8b617",
+    "268c10e470e31ae58b3e04a3314d8d2c4cc24447c30a30ca958af5b76ac66f2a",
+    "b00f5f7390b00fb426a11b5b3b64381874cdb871f049865c19ec41324be335c1",
+    "c70d28079e476468ac71e58f52af932a3727da56f20f50602fdc554353e00863",
+    "58fbf8150d3df0dc72cad8a6da8c9239d6ace63a3d1bbadaeee0026b00236ea1",
+    "357d5611641ec05c93f73874048be42adb82ae928aa1a85d9b5623fe9ad99b44",
+    "e89ae2fb6f3c21637792a53c059991052609b890eff44abc33de2a6ed0642244",
+    "0567128c7de9961f68ed78204ff55f2b6f26a06c340eea8a0e69c25ac639ec52",
+    "a83778812d0e29747c0ae8259362b92d099b0a253257c0b3088281c6cf59a92b",
+    "d61c3b700798f24a266f2ad8800ee457f48a596c35fb48160a50544e3eb89808",
+    "d0525bc055e19616238808f4018d74865f27868878227ec1e1e3d100b4a0a607",
+    "b605e6974498e5bbd15e57c762c8ca99f372d2dc54884549fab6a546dbb26097",
+    "37ca227a96f57173c6ef24722694d0dbc55a13742a61c69b918fc86348839fd6",
+    "3a0f7629c18c8b96b526028a71a770914c01301daeee70ac955fe550bc2c036f",
+    "16bb012b58356b9c40267eec8000b4d3b2b10c23a0eaebef7debaff5fa4a9e37",
+    "739cf28342466ab0767bed0d3864537295a564c4da4ff96811fb1793b1d9f1a4",
+    "5fcb189664ef745c742f71bbdaf8b96615e0ee1cc07d8db4ba3a0f5b6f0fad7d",
+    "e73b8bea832169e9be2f3539750dbd1fad5550e460f81c5b76708caeff58c6e9",
+    "65b7621f6b4a0d378f747dd4d102198531396baf52c341047475877fd60375f1",
+    "c75e7d94a7b3eaf88d1d7d85a576b705314e8a6766057fb2569507a5686cd97e",
+    "30dafa33ecd41af5e11711826b2ed81634925420718de1a999645963061ba099",
+    "4e73e8974eb3f03457e29e61b8ff1108a215af9eb9c0ad031bfdffc328c22ecd",
+    "e9c7fd400e1a94228cc771ff92e1da514f5a3f0f06e96b1114d5de0475a04925",
+    "bd34d3d6e0b8e3a49ae06ec0a3363af5019ad06ff707914f3a29ade0bb9e3798",
+    "5d5fdb3938b81c4d8326ce1216860e57c077c9dbbe8cdc7924d09d220a493fb7",
+    "0ef4c4db57011398de81398cd1d4514dfc2235ee5fe298b47b6b4818b7a3f24d",
+    "60817bf4d29a5e6d0d227d86fa70eb6bb191f3fec0975cb8764c3098cb25df8e",
+    "68f7d7078e9bf3bb8950e936abae0d86992616de2a8db9e968f970d897eb905f",
+    "483608b13455640d1322562ef99136b181884493c7676438dac144ba48d4467c",
+    "efe62ba1f7e1682bee8d9355820892fc99d52ff4d8c1a4b242aaa1d1d489c479",
+    "444e13bfdce329e3700b4f04ce13a6fe4eb5509799512586aa88137c22bcf0ae",
+    "128e28b1af64f59ffdaca510c1b62f024e97068f97f718b7953c1f2a0e006fed",
+    "c767a23cc305909c1b228c66d307a42b54a5e6d0d1afd6e421aab47d51c9e41f",
+    "859cbd8e7f31c726cbba038d22ddae5d3e01f5ee1b482854bbf1a1c5faee8d2e",
+    "e9f0bb5c264d6ca12154bedc55228e1944e054228c44201ebd3013053ab6a6be",
+    "bc1c6dcd7d47dad245332423793feeccf27c9634c82f9ac7777f9f1cafe2a5d1",
+    "e71bf5d13d006ceb1f929e7d71a42a669ce9a2d30b881671afca387c03f7ad75",
+    "f69ca532e5f16ab2c92a88a3a557ff61ae68de1b0e5d8e272120db897773cef3",
+    "0b30f213eb517ca2ec67dd72c9774c95e480dc4ea123ff3f237cdabf07bbf187",
+    "bbf012043a04149a2a93fa7329863618676b8a52dff7d29bcc49fa1e5031cc47",
+    "faeb0b4136daadfdef184960805e43d2d67be022d0cc2884f68a7294e735df1f",
+    "a204bf555ab9404c117b5452e7ca202490d424d60aa7c2989c4759871b4c4689",
+    "8ddd55c0346d69ae09ca9a6a61cbe28366f7979835a4869e57f71a31c7efb6e5",
+    "1a5ea57a5da27f9a5a43884a1f42df82a6b2b7e08a26e8b139d322d01e0d5d26",
+    "7d3637cf5bc59787d759701098870dd824033ccff0750b0376a84d84a2f52d78",
+    "7a85cdc14388532f4323ca9b87274475d80815c0fb2ea71be7b160ce343bb8b3",
+    "81ad6b4891e4cd8eb552e1e70e96629d1d12aa8e55cc859cefb8ea353ab43ee1",
+    "89ab882b24656335a62c704d2880f8f6103e4fd34a211d5c2f4be99576316476",
+    "696982e908b66742aa5d456c999bc1cf820f1d72a31a61f74afd083c1ac15518",
+    "9885fe6136d82a231227d6fc7a325dfc18a767608366b1e6dd9e523b3926a4db",
+    "4d1f64ddbbd344ea1f98f69415ba8c0ba89757c9cbaefd4c4616a137c67da318",
+    "26f6a606ecee2e6fc3d18b15686b43b569a1c744912b5b61055e2f674cdc21a3",
+    "c48bf42c79d787cfdd646ac6e8681066558dbc44edc9741231ec13ea4e2bc1b0",
+    "1ce4c4d22c0b76208d1b20e6fb0ae5e0736f3a4c176a3d6c7fc86308fc4ce998"
+  ],
+  "contentFingerprint": "5483900217fdfcaa7a337d85c6d30782cd59f23a6b318aebd46621601d337878"
+}

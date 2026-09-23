@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-53",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 53 · 社区能源与资源使用",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 53,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the neighbourhood energy programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the neighbourhood energy programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the library entrance.",
+        "B": "Yes, send your name to the energy desk before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "7504bf36c318207bf491d9ee64edb39b9e7e2a66735a265eaf368ccfbd7af4f9",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the neighbourhood energy programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the library entrance.",
+            "B": "Yes, send your name to the energy desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e4fa7b4faf03720a6a2f76c1974eaf9d8fcaddb6c7592de17d7c1a6fb5e42b5e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the neighbourhood energy programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the library entrance.",
+            "B": "Yes, send your name to the energy desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "916afb4f8f8429c377d22b7f8d1999a68aaced061316b6772c80956df14fb64e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the neighbourhood energy programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the library entrance.",
+            "B": "Yes, send your name to the energy desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "817ccf0bf2ff272a705a3f9ac3f20df7ff3bc509996f0a8f87b2fea7629e4d1d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the neighbourhood energy programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the library entrance.",
+            "B": "Yes, send your name to the energy desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f1d500849c56b15d27d0b0baa190cf82cfb9042ffee9bb2d24ad33ce9384b2a0"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the neighbourhood energy programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the neighbourhood energy programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the library entrance.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the energy desk if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "34db710f34cd6c3a620e20710e7150ac24242ac01056985405e2bc58b131d5db",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the neighbourhood energy programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the library entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the energy desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "184bd7783d630eb06ab585c724543b7784a8091825e199b3cbdd714a25d721e5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the neighbourhood energy programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the library entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the energy desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "587466946df7e621168610d96b23a64788aee1a5d48fb8f237078d371084a1bc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the neighbourhood energy programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the library entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the energy desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "e0339c718ef14d5cd2b2e1a7a4c1f5bb49933e3365f8d5cec0f7207a28616db7"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the neighbourhood energy programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the neighbourhood energy programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the library entrance are blue.",
+        "B": "Please send a short message to the energy desk.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "2a443b4975bf00996788d5554dec552862226bd26bfc683d289aa8e9e8bbc2db",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the neighbourhood energy programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the library entrance are blue.",
+            "B": "Please send a short message to the energy desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "94cd8ecc6e3bfccdb12e5ec53108d70e73ec66e71ca38789bde1bb6ec96ee98e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the neighbourhood energy programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the library entrance are blue.",
+            "B": "Please send a short message to the energy desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "433c7d897a1b463ef2a65a293be3a4bfb820a43a38850021bc5484685dbda455"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the neighbourhood energy programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the library entrance are blue.",
+            "B": "Please send a short message to the energy desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "75612b25643e53fce555611c8ec0bb0f8d29c058d29b4bcbef93da4c54918d38"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A warmer reading room",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An old library had a cold reading room in winter. Staff wanted people to stay and study, but the room seemed empty on some afternoons. The central difficulty was uneven warmth near the large windows. Visitors near the windows wore coats while people beside the radiator said the air was too warm; a single thermometer hid the difference. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried temperature notes from several desks. Volunteers recorded readings at different hours and asked visitors where they chose to sit, rather than relying on one measurement at the door. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed the coldest seats were occupied least often. The pattern remained after staff compared weekdays and weekends; low use was linked to comfort rather than a lack of interest in books. In response, the group adopted window seals and a new seating plan. Maintenance workers repaired gaps around two windows, and staff moved quiet-study tables to places with a steadier temperature. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: comfort must be measured where people actually sit. A building-wide average can conceal an uncomfortable corner, so future checks will include both measurements and visitor experiences. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in a warmer reading room, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "716fd606b5a794572a9aa26567e67a388d9694644ccc3b4992de83466e84128f",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A warmer reading room: What was the central difficulty?",
+          "options": {
+            "A": "unclear evening electricity demand",
+            "B": "uneven warmth near the large windows",
+            "C": "different causes of heat loss in similar houses",
+            "D": "dark sections beside a busy crossing"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "be72c08ddd98e43ff39ca8bd6ca8de65f187700157cc15bef17b9d02cfb7461c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A warmer reading room: What did the group first try?",
+          "options": {
+            "A": "a month of shared-meter readings",
+            "B": "short visits by trained advisers",
+            "C": "temperature notes from several desks",
+            "D": "night walks with residents and engineers"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d8e8044578ac7ec20a918986a68390a27b1c6723fbf890465f02c7068012a73f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A warmer reading room: What did the trial show?",
+          "options": {
+            "A": "the laundry room used most power after sunset",
+            "B": "door seals helped one home but not another",
+            "C": "one shaded bend mattered more than the whole path",
+            "D": "the coldest seats were occupied least often"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "c4f4afdd7b08916df3636d7c75c8e76fec4f2129d3dde2bf5b8d8aca137e29a6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A warmer reading room: What change followed the findings?",
+          "options": {
+            "A": "window seals and a new seating plan",
+            "B": "a smaller solar proposal with clear costs",
+            "C": "house-specific advice and follow-up calls",
+            "D": "targeted lamps and regular tree checks"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5e6d99e05cf1c1eccd3749d8860f622d389a6322357f3969ee976b88262f567f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A warmer reading room: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "energy plans need realistic timing and costs",
+            "B": "comfort must be measured where people actually sit",
+            "C": "similar buildings can need different solutions",
+            "D": "safety improvements can be focused and efficient"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1bed73545467fbc98e2182423650b9966828c66eaea6a1eda4c76ce0a0211a4e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Sharing electricity from a roof",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A housing cooperative considered solar panels on its common roof. Members liked the idea but had different expectations about the savings. The central difficulty was unclear evening electricity demand. Most residents were at work during sunny hours, and the board did not know how much daytime power shared rooms could use. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried a month of shared-meter readings. The cooperative measured electricity used in hallways and a laundry room, then compared the figures with predicted solar output. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed the laundry room used most power after sunset. A daytime production estimate alone therefore overstated the benefit; residents also asked how maintenance costs would be divided. In response, the group adopted a smaller solar proposal with clear costs. The board reduced the panel area and circulated a plain-language estimate that included equipment care and possible future replacement. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: energy plans need realistic timing and costs. Members could support a modest plan once they understood when power would be produced and who would pay for upkeep. The final proposal remained open to revision when new information became available. For the people involved in sharing electricity from a roof, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "f95ab1fd5c4500071973792629b2702efd29ac5f88bc5f31cbf431d61450e119",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Sharing electricity from a roof: What was the central difficulty?",
+          "options": {
+            "A": "uneven warmth near the large windows",
+            "B": "different causes of heat loss in similar houses",
+            "C": "unclear evening electricity demand",
+            "D": "dark sections beside a busy crossing"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9c29922e8938fa7444727213b35c00d823d9f8c88738d52ca5111ec357347e9d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Sharing electricity from a roof: What did the group first try?",
+          "options": {
+            "A": "temperature notes from several desks",
+            "B": "short visits by trained advisers",
+            "C": "night walks with residents and engineers",
+            "D": "a month of shared-meter readings"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2667df8a6e9b5e3b13d58a9d4c571f312d516fde203650bd9eba96ea0cbeb324"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Sharing electricity from a roof: What did the trial show?",
+          "options": {
+            "A": "the laundry room used most power after sunset",
+            "B": "the coldest seats were occupied least often",
+            "C": "door seals helped one home but not another",
+            "D": "one shaded bend mattered more than the whole path"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "e64cc711006857419ac425857f7d0549c005667d667a741c461ce5c21812b54a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Sharing electricity from a roof: What change followed the findings?",
+          "options": {
+            "A": "window seals and a new seating plan",
+            "B": "a smaller solar proposal with clear costs",
+            "C": "house-specific advice and follow-up calls",
+            "D": "targeted lamps and regular tree checks"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1a584c4f3ef7d4c6453e2324faee2fee439849ae77814c04b9b28b78457f7b64"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Sharing electricity from a roof: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "comfort must be measured where people actually sit",
+            "B": "similar buildings can need different solutions",
+            "C": "energy plans need realistic timing and costs",
+            "D": "safety improvements can be focused and efficient"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f93503be290d971e85eb16c6b19318ec984d9420cf16ac357649e0e6a6055d01"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Insulating a row of small homes",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local advice centre helped households reduce heating bills. It began by offering the same checklist to every home in one street. The central difficulty was different causes of heat loss in similar houses. Some rooms had draughts around doors, while others had poor roof insulation; a standard instruction could waste limited money. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried short visits by trained advisers. Advisers asked residents which rooms felt cold and examined simple, visible features before suggesting any purchase or building work. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed door seals helped one home but not another. A neighbour with sound doors needed roof advice instead, showing why the most visible problem is not always the main one. In response, the group adopted house-specific advice and follow-up calls. The centre offered low-cost suggestions first, checked whether they helped after a month, and referred complex problems to qualified specialists. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: similar buildings can need different solutions. The centre kept its general checklist as a starting point, but decisions now depended on each household’s actual conditions. This approach gave the group a practical basis for its next round of work. For the people involved in insulating a row of small homes, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "896774f9693f2bf48eacf924bcc6a01b53d14038f2a5ab84251233364ed52b7a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Insulating a row of small homes: What was the central difficulty?",
+          "options": {
+            "A": "uneven warmth near the large windows",
+            "B": "unclear evening electricity demand",
+            "C": "dark sections beside a busy crossing",
+            "D": "different causes of heat loss in similar houses"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cff2751f918283b3471af088e2aaa83f81478bb9aaa5bc71f09d8e7665e72866"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Insulating a row of small homes: What did the group first try?",
+          "options": {
+            "A": "short visits by trained advisers",
+            "B": "temperature notes from several desks",
+            "C": "a month of shared-meter readings",
+            "D": "night walks with residents and engineers"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9762e26d5a730caf1c6158fe3ce774728ec07786e89947c3f0383c2b7a365366"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Insulating a row of small homes: What did the trial show?",
+          "options": {
+            "A": "the coldest seats were occupied least often",
+            "B": "door seals helped one home but not another",
+            "C": "the laundry room used most power after sunset",
+            "D": "one shaded bend mattered more than the whole path"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "d4c991b3e7a0bf6a6e7b067191a7b92b951da498e11c82af86ec043812d80ead"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Insulating a row of small homes: What change followed the findings?",
+          "options": {
+            "A": "window seals and a new seating plan",
+            "B": "a smaller solar proposal with clear costs",
+            "C": "house-specific advice and follow-up calls",
+            "D": "targeted lamps and regular tree checks"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8d9f5d186afaf67b16b1b2b43cad552255854b949dfdf23a9ec71dc6ed1864ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Insulating a row of small homes: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "comfort must be measured where people actually sit",
+            "B": "energy plans need realistic timing and costs",
+            "C": "safety improvements can be focused and efficient",
+            "D": "similar buildings can need different solutions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "988ece2da2157682d6dc7b7ea7626484d3daec10f61e07a447fddc51bc28e1be"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Lighting a path without waste",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents asked for better lighting on a route to the evening bus. The council wanted to improve safety while limiting energy use. The central difficulty was dark sections beside a busy crossing. A map of existing lamps looked complete, yet one bend remained poorly lit because trees blocked the light at pedestrian height. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried night walks with residents and engineers. The group observed the path at bus arrival times and marked where people slowed down or stepped into the road. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed one shaded bend mattered more than the whole path. Most of the route was already usable, so installing equally bright lamps everywhere would spend money without addressing the main concern. In response, the group adopted targeted lamps and regular tree checks. Engineers changed two light positions and arranged to inspect branches that could later block the lamps again. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: safety improvements can be focused and efficient. Residents valued the change because it addressed a specific difficulty while keeping the rest of the route modestly lit. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in lighting a path without waste, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "4be2892cf3692b8e53285a9916976d0725585bfd9c561d90e8146c8b9b9b42e5",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Lighting a path without waste: What was the central difficulty?",
+          "options": {
+            "A": "dark sections beside a busy crossing",
+            "B": "uneven warmth near the large windows",
+            "C": "unclear evening electricity demand",
+            "D": "different causes of heat loss in similar houses"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f50550c3277bd30e62f7144903689bf7ed43969cf9be9f0b5e8efa6b747ec607"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Lighting a path without waste: What did the group first try?",
+          "options": {
+            "A": "temperature notes from several desks",
+            "B": "night walks with residents and engineers",
+            "C": "a month of shared-meter readings",
+            "D": "short visits by trained advisers"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9b78db62572008312c9bb0b2dfcd26efce147895740adef67747ad99238f6ed4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Lighting a path without waste: What did the trial show?",
+          "options": {
+            "A": "the coldest seats were occupied least often",
+            "B": "the laundry room used most power after sunset",
+            "C": "one shaded bend mattered more than the whole path",
+            "D": "door seals helped one home but not another"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "dbca5b1be03df7c7938d4df522160d030d7fa48065fec6483a6980a6e363717f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Lighting a path without waste: What change followed the findings?",
+          "options": {
+            "A": "window seals and a new seating plan",
+            "B": "a smaller solar proposal with clear costs",
+            "C": "house-specific advice and follow-up calls",
+            "D": "targeted lamps and regular tree checks"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6bc74793b99336703234cde0f6ab5176c3fc0af6248f5395ccacbd29994b6531"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Lighting a path without waste: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "safety improvements can be focused and efficient",
+            "B": "comfort must be measured where people actually sit",
+            "C": "energy plans need realistic timing and costs",
+            "D": "similar buildings can need different solutions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "88ad9728472b4cd8b6af83e28d0f6b62d43ae1b35da208bae14e802de8c2747a"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the neighbourhood energy programme so visitors could understand its purpose.",
+      "options": {
+        "A": "distant",
+        "B": "clear",
+        "C": "silent",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2d4ddbdbe840260bdea2dae1b291d27ae26c9eea0c6bdababb3c5c0ee9ebe0b2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the neighbourhood energy programme can provide _____ before a final decision.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "evidence",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "528f12b1520695578b357d9c9ed734a3454ff822f3ad66e80fde2b9229bf7362"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the neighbourhood energy programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "interrupt",
+        "D": "describe"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "b58892d7c4b5bb5f4f2163b3f3ff648edc408a9853b28e77f1dd22b785374508"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the neighbourhood energy programme was changed after the first public _____.",
+      "options": {
+        "A": "feedback",
+        "B": "departure",
+        "C": "harvest",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "75b207539200d43139420000effdabb49cf8dfd3aea67303bd4b8075e8c364cb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the neighbourhood energy programme.",
+      "options": {
+        "A": "fragile",
+        "B": "flexible",
+        "C": "empty",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d2110481e49aae0838aa14c7917e201a078ef37135ad204f8746d1ed4c3392fa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the neighbourhood energy programme.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "check",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a90e88b68ef42a33b99aae0e7f3fe1c52fe3a4b51c10ce1183b36f971da857fa"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the neighbourhood energy programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "furniture",
+        "C": "competition",
+        "D": "information"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b369bcd39f648e1aceb9812f187be17e5b2aed27e413925560a59b91d2d77121"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the neighbourhood energy programme more _____ to first-time users.",
+      "options": {
+        "A": "accessible",
+        "B": "distant",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6118e5a94855a88c0c51cce5cf2c3e61c45fef19d2ebe0cf89d40a69663bc164"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the neighbourhood energy programme with the neighbourhood.",
+      "options": {
+        "A": "remove",
+        "B": "share",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "87857e55bf984866afaa71ac5cdf965138dc1c3113dabfceb8ac246bdd31e4d9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the neighbourhood energy programme will consider both benefits and _____.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "costs",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ecd554f017dd826f6554160ef7044b31c786ee613d4f0c06d084c62e0fb23b5c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the neighbourhood energy programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "432f4df566ee02b502b206f65163fdd1a0dd92a49c076d043633186ed560b9e5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the neighbourhood energy programme _____ yesterday is available online.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ea99940bea5ed0990c7d59cd6282453330a75c87807ef71da754cd325c2447bb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the neighbourhood energy programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "46de1d7e8cd38a6bf0d8c78c894bd51546f2fb4c3102fc7bb226ca1ce6697a6f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the neighbourhood energy programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1f1edc1fbbd3bc67d0228323b64c8da72ad99ab610ed4f726c7750329a49abd2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the neighbourhood energy programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "will learn",
+        "C": "is learning",
+        "D": "had learned"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "76597bd1f7d6f941a5d20b7b09d66f5ed1ce2b4f93bff5a7ddfaf0b346b5ae37"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the neighbourhood energy programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a280726cc83e5b3efa012a415b71450806053d0a5e1500494866f8a3044b4e95"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the neighbourhood energy programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "3bfb3c567b585146ac8d6694b89d406bb826301370e3fee1d953a30df32d0d70"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the neighbourhood energy programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ae80ba165a01bf587d466e6f934b2df17f4c952f534912b81dc5a6556ad86021"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the neighbourhood energy programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "be882dff35de38f9d6a011267dc9898a252981887201a04d86e36c521158b0fa"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the neighbourhood energy programme, _____ their next decision can be.",
+      "options": {
+        "A": "the better",
+        "B": "better",
+        "C": "the best",
+        "D": "more good"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e787fc315563485fd826608009f6b0d7892c39e5a04f65f0d2ef1c75f83deee1"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA public reading room should be judged from the visitor’s point of view. In one library, a thermometer near the door suggested that the building was warm enough. People sitting beside the windows disagreed because cold air reached their desks. Staff recorded temperatures in several places and asked visitors when they chose to stay. They discovered that the least comfortable seats were often empty. Repairing the window seals was a modest step, but it made the room easier to use. The library plans to check the results again during the next winter. A single average figure is helpful only when it does not hide important differences within a space.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意主语视角、because原因关系和only when条件关系。",
+      "referenceAnswer": "公共阅览室应从访客的角度来评价。在一家图书馆，门边的温度计显示建筑似乎足够暖和，坐在窗边的人却有不同感受，因为冷空气吹到了他们的桌边。工作人员记录了不同位置的温度，并询问访客何时愿意留下。他们发现最不舒服的座位常常空着。修补窗户密封处虽然只是小改动，却让阅览室更好用。图书馆计划在下一个冬天再次检查效果。单一平均数只有在不掩盖空间内重要差异时才有帮助。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "713e6882553a48af5900cb60f335327037c8f5f7a712f0f2bdee0afc5ffc4817",
+      "referenceAnswerFingerprint": "4fa991e78c43e402608f5a1579bea31ee386b79fae3193476b302e232c3f7eb5"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a library manager proposing a practical way to make the reading room more comfortable in winter. Explain what should be observed, what could be changed first, and how the result should be checked.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文说明观察位置、先期改动与效果复查。",
+      "sampleAnswer": "Dear Library Manager,\nI would like to suggest a small winter comfort project for the reading room. Several visitors avoid the desks beside the windows, although the temperature near the entrance seems reasonable. Staff could measure the air at different desks during morning and afternoon visits. A short question at the desk would also show which places readers prefer and why.\nIf the window area is consistently colder, repairing the seals would be a sensible first step. The library could move a few tables while that work is arranged. After the change, please repeat the measurements and ask visitors whether they can study comfortably for longer. Publishing a brief summary would help readers see that their comments have been taken seriously.\nYours sincerely,\nA regular visitor",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "d14fdef6700e34a3019ef2754d1990fd7976757b3750d58fd2c0890e9f59d333",
+      "sampleAnswerFingerprint": "d0eb7946015c3f5b6d4deb56f130c84ea2649b1ac6753d41fd153bca4e281a38"
+    }
+  ],
+  "fingerprintManifest": [
+    "7504bf36c318207bf491d9ee64edb39b9e7e2a66735a265eaf368ccfbd7af4f9",
+    "e4fa7b4faf03720a6a2f76c1974eaf9d8fcaddb6c7592de17d7c1a6fb5e42b5e",
+    "916afb4f8f8429c377d22b7f8d1999a68aaced061316b6772c80956df14fb64e",
+    "817ccf0bf2ff272a705a3f9ac3f20df7ff3bc509996f0a8f87b2fea7629e4d1d",
+    "f1d500849c56b15d27d0b0baa190cf82cfb9042ffee9bb2d24ad33ce9384b2a0",
+    "34db710f34cd6c3a620e20710e7150ac24242ac01056985405e2bc58b131d5db",
+    "184bd7783d630eb06ab585c724543b7784a8091825e199b3cbdd714a25d721e5",
+    "587466946df7e621168610d96b23a64788aee1a5d48fb8f237078d371084a1bc",
+    "e0339c718ef14d5cd2b2e1a7a4c1f5bb49933e3365f8d5cec0f7207a28616db7",
+    "2a443b4975bf00996788d5554dec552862226bd26bfc683d289aa8e9e8bbc2db",
+    "94cd8ecc6e3bfccdb12e5ec53108d70e73ec66e71ca38789bde1bb6ec96ee98e",
+    "433c7d897a1b463ef2a65a293be3a4bfb820a43a38850021bc5484685dbda455",
+    "75612b25643e53fce555611c8ec0bb0f8d29c058d29b4bcbef93da4c54918d38",
+    "716fd606b5a794572a9aa26567e67a388d9694644ccc3b4992de83466e84128f",
+    "be72c08ddd98e43ff39ca8bd6ca8de65f187700157cc15bef17b9d02cfb7461c",
+    "d8e8044578ac7ec20a918986a68390a27b1c6723fbf890465f02c7068012a73f",
+    "c4f4afdd7b08916df3636d7c75c8e76fec4f2129d3dde2bf5b8d8aca137e29a6",
+    "5e6d99e05cf1c1eccd3749d8860f622d389a6322357f3969ee976b88262f567f",
+    "1bed73545467fbc98e2182423650b9966828c66eaea6a1eda4c76ce0a0211a4e",
+    "f95ab1fd5c4500071973792629b2702efd29ac5f88bc5f31cbf431d61450e119",
+    "9c29922e8938fa7444727213b35c00d823d9f8c88738d52ca5111ec357347e9d",
+    "2667df8a6e9b5e3b13d58a9d4c571f312d516fde203650bd9eba96ea0cbeb324",
+    "e64cc711006857419ac425857f7d0549c005667d667a741c461ce5c21812b54a",
+    "1a584c4f3ef7d4c6453e2324faee2fee439849ae77814c04b9b28b78457f7b64",
+    "f93503be290d971e85eb16c6b19318ec984d9420cf16ac357649e0e6a6055d01",
+    "896774f9693f2bf48eacf924bcc6a01b53d14038f2a5ab84251233364ed52b7a",
+    "cff2751f918283b3471af088e2aaa83f81478bb9aaa5bc71f09d8e7665e72866",
+    "9762e26d5a730caf1c6158fe3ce774728ec07786e89947c3f0383c2b7a365366",
+    "d4c991b3e7a0bf6a6e7b067191a7b92b951da498e11c82af86ec043812d80ead",
+    "8d9f5d186afaf67b16b1b2b43cad552255854b949dfdf23a9ec71dc6ed1864ef",
+    "988ece2da2157682d6dc7b7ea7626484d3daec10f61e07a447fddc51bc28e1be",
+    "4be2892cf3692b8e53285a9916976d0725585bfd9c561d90e8146c8b9b9b42e5",
+    "f50550c3277bd30e62f7144903689bf7ed43969cf9be9f0b5e8efa6b747ec607",
+    "9b78db62572008312c9bb0b2dfcd26efce147895740adef67747ad99238f6ed4",
+    "dbca5b1be03df7c7938d4df522160d030d7fa48065fec6483a6980a6e363717f",
+    "6bc74793b99336703234cde0f6ab5176c3fc0af6248f5395ccacbd29994b6531",
+    "88ad9728472b4cd8b6af83e28d0f6b62d43ae1b35da208bae14e802de8c2747a",
+    "2d4ddbdbe840260bdea2dae1b291d27ae26c9eea0c6bdababb3c5c0ee9ebe0b2",
+    "528f12b1520695578b357d9c9ed734a3454ff822f3ad66e80fde2b9229bf7362",
+    "b58892d7c4b5bb5f4f2163b3f3ff648edc408a9853b28e77f1dd22b785374508",
+    "75b207539200d43139420000effdabb49cf8dfd3aea67303bd4b8075e8c364cb",
+    "d2110481e49aae0838aa14c7917e201a078ef37135ad204f8746d1ed4c3392fa",
+    "a90e88b68ef42a33b99aae0e7f3fe1c52fe3a4b51c10ce1183b36f971da857fa",
+    "b369bcd39f648e1aceb9812f187be17e5b2aed27e413925560a59b91d2d77121",
+    "6118e5a94855a88c0c51cce5cf2c3e61c45fef19d2ebe0cf89d40a69663bc164",
+    "87857e55bf984866afaa71ac5cdf965138dc1c3113dabfceb8ac246bdd31e4d9",
+    "ecd554f017dd826f6554160ef7044b31c786ee613d4f0c06d084c62e0fb23b5c",
+    "432f4df566ee02b502b206f65163fdd1a0dd92a49c076d043633186ed560b9e5",
+    "ea99940bea5ed0990c7d59cd6282453330a75c87807ef71da754cd325c2447bb",
+    "46de1d7e8cd38a6bf0d8c78c894bd51546f2fb4c3102fc7bb226ca1ce6697a6f",
+    "1f1edc1fbbd3bc67d0228323b64c8da72ad99ab610ed4f726c7750329a49abd2",
+    "76597bd1f7d6f941a5d20b7b09d66f5ed1ce2b4f93bff5a7ddfaf0b346b5ae37",
+    "a280726cc83e5b3efa012a415b71450806053d0a5e1500494866f8a3044b4e95",
+    "3bfb3c567b585146ac8d6694b89d406bb826301370e3fee1d953a30df32d0d70",
+    "ae80ba165a01bf587d466e6f934b2df17f4c952f534912b81dc5a6556ad86021",
+    "be882dff35de38f9d6a011267dc9898a252981887201a04d86e36c521158b0fa",
+    "e787fc315563485fd826608009f6b0d7892c39e5a04f65f0d2ef1c75f83deee1",
+    "713e6882553a48af5900cb60f335327037c8f5f7a712f0f2bdee0afc5ffc4817",
+    "4fa991e78c43e402608f5a1579bea31ee386b79fae3193476b302e232c3f7eb5",
+    "d14fdef6700e34a3019ef2754d1990fd7976757b3750d58fd2c0890e9f59d333",
+    "d0eb7946015c3f5b6d4deb56f130c84ea2649b1ac6753d41fd153bca4e281a38"
+  ],
+  "contentFingerprint": "11dbb9f48390300a378a89ce4071b5a9969fe421d174ab72fbc32b9e926997c0"
+}

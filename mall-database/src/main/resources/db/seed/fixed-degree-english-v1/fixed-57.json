@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-57",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 57 · 地方历史与公共记忆",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 57,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the local history programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the local history programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the museum front desk.",
+        "B": "Yes, send your name to the museum education team before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c84e61189672164234ccac75ce3e37fa88a4e76b8e2ce86831f8ce754c4c3f90",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the local history programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the museum front desk.",
+            "B": "Yes, send your name to the museum education team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "347477d43b63723e11b394ba9287d0c58240fda86f1e901b8cf3c6f4d8abb75b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the local history programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the museum front desk.",
+            "B": "Yes, send your name to the museum education team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "70127351895ec6a26361facec05c8489b0b85bce5c23d766213aa05c40152673"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the local history programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the museum front desk.",
+            "B": "Yes, send your name to the museum education team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ab7035a97c75ebed0e38955604034a42256155b81aa5f0a2b5930cb85ccf7760"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the local history programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the museum front desk.",
+            "B": "Yes, send your name to the museum education team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5f36fb9ecf1e30102156d91c62f62a517fe6e64365730ac1af32ec36cf592a32"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the local history programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the local history programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the museum front desk.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the museum education team if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "67d471bbdb6f9d0485303d5c2d9d74c5b9f18fef81e999f3bcf9e83a40c73975",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the local history programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the museum front desk.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the museum education team if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "af708c98d1b5418689def911d7403b8dff57d03a7e3fed1256f54e21f26728d7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the local history programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the museum front desk.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the museum education team if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d7da56411f8c4d896e3696189c42ecba628658fc48f5d984252a2309fb4a5489"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the local history programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the museum front desk.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the museum education team if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a32f07e2734c52b09948f34337f3531b1c3373076e2c1956b741e3be73201386"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the local history programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the local history programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the museum front desk are blue.",
+        "B": "Please send a short message to the museum education team.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "36ade7b4891a3c8be9392ab483a792a6da707266fdcddf8896f33a40aaf0ca58",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the local history programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the museum front desk are blue.",
+            "B": "Please send a short message to the museum education team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a12c6dd75eb6a8300570fe41a925eebfd0749833b35f8b4daf6de439d363f132"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the local history programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the museum front desk are blue.",
+            "B": "Please send a short message to the museum education team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5542a08be169f55781b124dc00888d29515d1ba8b59ff4df97e6539243824fcc"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the local history programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the museum front desk are blue.",
+            "B": "Please send a short message to the museum education team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1898d810b91368e84acbc655b0838b91b6b0d1661f826d3e70a51e590ee90dde"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The old cinema opens its doors again",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town bought an empty cinema with plans for a public arts space. Residents remembered films there, but the building also had serious access problems. The central difficulty was nostalgia hiding practical building limits. Early meetings praised the painted ceiling while saying little about narrow entrances, heating costs or the needs of wheelchair users. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried guided visits with different residents. Architects walked through the building with former staff, younger visitors and people who used mobility aids, noting barriers and valued details. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed the side entrance was easier to adapt. It was less impressive than the front doors, yet offered a practical way to reach the main hall without steps. In response, the group adopted a phased repair preserving key features. The council planned an accessible entrance first and delayed decorative work until essential safety and heating questions were settled. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: a historic place must serve present users. People could cherish memories of the cinema while asking whether a renovated building would welcome the whole community. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in the old cinema opens its doors again, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "5643cd34a64e5c5f01c81214d0aa88a6297f49077e8564e1e1976c509c2e5a9d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "The old cinema opens its doors again: What was the central difficulty?",
+          "options": {
+            "A": "different memories of the same busy season",
+            "B": "nostalgia hiding practical building limits",
+            "C": "a large floor plan with poor quiet spaces",
+            "D": "unclear rules for first-time archive visitors"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "888a3174abb02577f2a90fbde291b54bb6d489b616ae72cee24932104b3a9ba1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "The old cinema opens its doors again: What did the group first try?",
+          "options": {
+            "A": "recorded interviews alongside written sources",
+            "B": "temporary rooms made with movable screens",
+            "C": "guided visits with different residents",
+            "D": "short observation sessions with new users"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "375e28cafce5d6f66537400c8ea4255b31226af77a4106562b7f33c805b134ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "The old cinema opens its doors again: What did the trial show?",
+          "options": {
+            "A": "personal accounts supplied unique working details",
+            "B": "small groups needed stronger sound separation",
+            "C": "a simple request guide removed uncertainty",
+            "D": "the side entrance was easier to adapt"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "bc91422823e4ad929b02004e1ba8f08f769c904bba341f2964cb457f0d66901c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "The old cinema opens its doors again: What change followed the findings?",
+          "options": {
+            "A": "a phased repair preserving key features",
+            "B": "labels explaining what each source can show",
+            "C": "a mix of quiet rooms and an open hall",
+            "D": "step-by-step guidance and monthly open hours"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "15abbdc28c613f437dac31315dee060748439aa707398d8d73373a5e0e7b6496"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "The old cinema opens its doors again: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "historical evidence gains strength through comparison",
+            "B": "a historic place must serve present users",
+            "C": "adaptive reuse depends on activities as well as architecture",
+            "D": "public collections need understandable entry points"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "77062d1e73d9de5148843853d0e7e65f6ded3915c76ebabad3cfd0416e2c8596"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Voices from a fishing harbour",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A museum invited former harbour workers to describe changes in local fishing. Their stories added details absent from official shipping records. The central difficulty was different memories of the same busy season. Two contributors remembered opposite reasons for a long delay, and the museum did not want to present either account as certain. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried recorded interviews alongside written sources. Staff dated each recollection, checked surviving notices and invited speakers to review how their words would be used. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed personal accounts supplied unique working details. The records listed boat movements, but only interviews described how families prepared food and waited for news. In response, the group adopted labels explaining what each source can show. The display kept the conflicting memories and showed visitors the difference between a personal view and an official document. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: historical evidence gains strength through comparison. The museum treated disagreement as a reason to ask better questions rather than a reason to discard the speakers. The final proposal remained open to revision when new information became available. For the people involved in voices from a fishing harbour, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "71df25a82a12afd89d3365bcf4083f9f8a193a6c888793f2a4a5c9c1c55609a3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Voices from a fishing harbour: What was the central difficulty?",
+          "options": {
+            "A": "nostalgia hiding practical building limits",
+            "B": "a large floor plan with poor quiet spaces",
+            "C": "different memories of the same busy season",
+            "D": "unclear rules for first-time archive visitors"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "307a7f9d4d0970171abd12ca0463964cd6eef46df1b8c877ff0b18d01c641f15"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Voices from a fishing harbour: What did the group first try?",
+          "options": {
+            "A": "guided visits with different residents",
+            "B": "temporary rooms made with movable screens",
+            "C": "short observation sessions with new users",
+            "D": "recorded interviews alongside written sources"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fef06c08877c108bc45ed6edb7d5d556b6e072c0fb60e7d45eba8858180d6276"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Voices from a fishing harbour: What did the trial show?",
+          "options": {
+            "A": "personal accounts supplied unique working details",
+            "B": "the side entrance was easier to adapt",
+            "C": "small groups needed stronger sound separation",
+            "D": "a simple request guide removed uncertainty"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "4d342d427d80c8a9d776926279b1ff2a88137012677c465d9d6de2fad796bf82"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Voices from a fishing harbour: What change followed the findings?",
+          "options": {
+            "A": "a phased repair preserving key features",
+            "B": "labels explaining what each source can show",
+            "C": "a mix of quiet rooms and an open hall",
+            "D": "step-by-step guidance and monthly open hours"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9aa2fb866d28f229204e8bd8f075964738fd03c0041be11a93b44fff2e9cc621"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Voices from a fishing harbour: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "a historic place must serve present users",
+            "B": "adaptive reuse depends on activities as well as architecture",
+            "C": "historical evidence gains strength through comparison",
+            "D": "public collections need understandable entry points"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2df72c0cc4982cb6922e9fe592ecc90069256d71b2d94525078a30d1e99c2dfc"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A warehouse becomes a study centre",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A brick warehouse near the station had stood empty for years. A college proposed using it for adult study and community meetings. The central difficulty was a large floor plan with poor quiet spaces. The open interior looked flexible, but echoes made conversation difficult and evening learners needed places to concentrate. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried temporary rooms made with movable screens. Before permanent work, staff held sample classes and meetings in several layouts and asked users about sound and comfort. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed small groups needed stronger sound separation. A layout suitable for public talks did not work for language classes, where learners had to hear one another clearly. In response, the group adopted a mix of quiet rooms and an open hall. The final design preserved the visible brick structure while adding enclosed teaching spaces and simple signs to guide visitors. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: adaptive reuse depends on activities as well as architecture. Keeping an old building useful required attention to the ordinary sounds and movements of its new occupants. This approach gave the group a practical basis for its next round of work. For the people involved in a warehouse becomes a study centre, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "0bc90e3841222a44d7fa145ea534ce3597c5e5b5a805c478aab3f6b8a78f0244",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A warehouse becomes a study centre: What was the central difficulty?",
+          "options": {
+            "A": "nostalgia hiding practical building limits",
+            "B": "different memories of the same busy season",
+            "C": "unclear rules for first-time archive visitors",
+            "D": "a large floor plan with poor quiet spaces"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "75e6fec7886b29dbe3528ed320ac6e626590c01613adc61e235062cdfa75ca62"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A warehouse becomes a study centre: What did the group first try?",
+          "options": {
+            "A": "temporary rooms made with movable screens",
+            "B": "guided visits with different residents",
+            "C": "recorded interviews alongside written sources",
+            "D": "short observation sessions with new users"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9a95bfe86e6b08ec7243ebaa71e4481068e4fc61e7e1125ed83e060226a67eb7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A warehouse becomes a study centre: What did the trial show?",
+          "options": {
+            "A": "the side entrance was easier to adapt",
+            "B": "small groups needed stronger sound separation",
+            "C": "personal accounts supplied unique working details",
+            "D": "a simple request guide removed uncertainty"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "a44c58f2fb9644d5cedbc6e7ebecaf4119d529ff1ff02e11152d320846aef80e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A warehouse becomes a study centre: What change followed the findings?",
+          "options": {
+            "A": "a phased repair preserving key features",
+            "B": "labels explaining what each source can show",
+            "C": "a mix of quiet rooms and an open hall",
+            "D": "step-by-step guidance and monthly open hours"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f0fcc18dc1ce7acbea6ec4a03fbfe31ecb39508517910a2119b78d1f57f07faa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A warehouse becomes a study centre: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "a historic place must serve present users",
+            "B": "historical evidence gains strength through comparison",
+            "C": "public collections need understandable entry points",
+            "D": "adaptive reuse depends on activities as well as architecture"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5607c7b0c0ce085cf3efbbd343d324bea5be571b99f54492fc5bbf27eab573b2"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Who can use a local archive?",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town archive held photographs and plans of familiar streets. Researchers used it regularly, but residents rarely visited. The central difficulty was unclear rules for first-time archive visitors. The website listed opening hours but did not explain how to request a photograph or whether an appointment was required. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried short observation sessions with new users. Staff invited residents to find one family photograph and noted the questions they asked at the counter and online. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed a simple request guide removed uncertainty. Most visitors could manage the search once they saw an example of a request and knew how long retrieval might take. In response, the group adopted step-by-step guidance and monthly open hours. The archive added a short illustrated guide and offered a regular session for people who wanted help exploring its collection. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: public collections need understandable entry points. Preserving records mattered, but helping people discover and request them made the archive more useful to its community. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in who can use a local archive?, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "8330fd4794637d75f61482d48c00bc2ba6a5c49e1f92a51c7d64b056940f9175",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Who can use a local archive?: What was the central difficulty?",
+          "options": {
+            "A": "unclear rules for first-time archive visitors",
+            "B": "nostalgia hiding practical building limits",
+            "C": "different memories of the same busy season",
+            "D": "a large floor plan with poor quiet spaces"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9546355dd615149fc1b0a034f291a5f04eabe78c17611201a70b7e79091cf7d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Who can use a local archive?: What did the group first try?",
+          "options": {
+            "A": "guided visits with different residents",
+            "B": "short observation sessions with new users",
+            "C": "recorded interviews alongside written sources",
+            "D": "temporary rooms made with movable screens"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "db52ba38ae126febdb76ae2ee84238078648b2cd3d7072df4e6005e9bc0ef708"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Who can use a local archive?: What did the trial show?",
+          "options": {
+            "A": "the side entrance was easier to adapt",
+            "B": "personal accounts supplied unique working details",
+            "C": "a simple request guide removed uncertainty",
+            "D": "small groups needed stronger sound separation"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "5634a95b48d7450ef2f3634b53d70c29b560c2847c24c5afbc54566dec8933f6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Who can use a local archive?: What change followed the findings?",
+          "options": {
+            "A": "a phased repair preserving key features",
+            "B": "labels explaining what each source can show",
+            "C": "a mix of quiet rooms and an open hall",
+            "D": "step-by-step guidance and monthly open hours"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "40c58cfca82b81f6d6840b8e6ce55e8c2b8cdbc49b4d21c2bad8d00e3f4339e3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Who can use a local archive?: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "public collections need understandable entry points",
+            "B": "a historic place must serve present users",
+            "C": "historical evidence gains strength through comparison",
+            "D": "adaptive reuse depends on activities as well as architecture"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d96b9d8ec1a7620e3c0d345455c61fc4f6d29d84dc1d3ba44dd38384d572faca"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the local history programme so visitors could understand its purpose.",
+      "options": {
+        "A": "distant",
+        "B": "clear",
+        "C": "silent",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bd79e7984199ceffca59248fe265005c045c48f7d4fb2e5c60f0276504e2cf3d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the local history programme can provide _____ before a final decision.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "evidence",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3e2766d95ec582412b3445c503694d411f0a29035d6fb309618413a6a7c5d48d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the local history programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "interrupt",
+        "D": "describe"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "428b9142c78654c0d30416bc28397c9f87d97dbfb2fc7fc5616c51662d089f7c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the local history programme was changed after the first public _____.",
+      "options": {
+        "A": "feedback",
+        "B": "departure",
+        "C": "harvest",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bb51ed87e1d7b9e9c95722c8a8d248053bbce09b1b33db43b4256fc52dc6200a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the local history programme.",
+      "options": {
+        "A": "fragile",
+        "B": "flexible",
+        "C": "empty",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9993f486e6f8a27a61efa3f95b370cb363c610bf975652deeb8a06d8e761aa9c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the local history programme.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "check",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3363099db6f1ae3fc422def3a169c3cb1c5bbc4950dbe0832fe7d48878788889"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the local history programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "furniture",
+        "C": "competition",
+        "D": "information"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a84c79af5f88e35dbcd5d07d18fa89dcae1ede51060803a6cd34ca49e1848276"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the local history programme more _____ to first-time users.",
+      "options": {
+        "A": "accessible",
+        "B": "distant",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9cf8e39f4036f4e9adf58dc546041d2e566f0bb89ecd2a26f57f0929436bce8e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the local history programme with the neighbourhood.",
+      "options": {
+        "A": "remove",
+        "B": "share",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "595f0fe65b012eadc93be88575f5e82472d5190b6d3b9ad19d4e2ae1e33dc931"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the local history programme will consider both benefits and _____.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "costs",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6df0a041aa1c1578f94be816de9475d2e468bc89431c72397e8498a7058ca276"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the local history programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "66f1b2bcc8ab7e344f3e09c66a0818b08ed05e98e1c728bae949aa8e6466fffd"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the local history programme _____ yesterday is available online.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "902867ee66613d30d26a1e552a434d0970fd5684953e225c5f550ac5bb09d236"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the local history programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f6aba8aebe28bd614396bbefa8aa2908d30ce919465a28895c2b27345f3303d8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the local history programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a0b11c70b3ba1671d987da8daf1fbf9d5068fcef90ebf237390b93c04bfb4733"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the local history programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "will learn",
+        "C": "is learning",
+        "D": "had learned"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fbbbf02a6c69d194f9487f4956534131707ca9eed0f6dfb24ba95cd6e6525813"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the local history programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a2cbae236153f34792bb4e1d0012509db91eea673e5b13f27e7c7a4750de8c64"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the local history programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a3db0d087453d886ee864a048f52140a55673b72cb345c4f14e3647121f4f9a1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the local history programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d1303cb66794251cedf821a08d8d53956c90b5d0a165352c310a70c7394123f4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the local history programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "4cacfdb517df9951c5a80b784f4156c0e7221f1516bb562647076bd9c65fb86b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the local history programme, _____ their next decision can be.",
+      "options": {
+        "A": "the better",
+        "B": "better",
+        "C": "the best",
+        "D": "more good"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1736aa308699af9211a521e8c1236747f3606fbb564f272d0ba15cb1cb3ce045"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPeople often support the restoration of an old building because it carries memories of earlier generations. Yet a building that is beautiful in photographs may be difficult to use today. A town considered turning its former cinema into a public arts space. Visits with residents showed that the front entrance had steps and the large hall was costly to heat. The side entrance offered a better route for people using wheelchairs. Planners therefore decided to improve access and safety before beginning decorative work. They kept features that gave the cinema its character, while making room for new activities. Respect for history does not require ignoring the needs of present users.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意because原因、while并列对比及does not require结构。",
+      "referenceAnswer": "人们常支持修复旧建筑，因为它承载着前几代人的记忆。然而，在照片中美丽的建筑如今可能并不好用。一个城镇考虑把旧电影院改造成公共艺术空间。与居民共同参观后，规划者发现正门有台阶，大厅取暖成本也很高。侧门为使用轮椅的人提供了更好的通道。因此，规划者决定先改善出入便利和安全，再开展装饰工程。他们保留了赋予电影院特色的部分，同时为新活动留出空间。尊重历史并不意味着忽略当下使用者的需求。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "472510f748def0361a60d50f8f05fbdd3f5de2b041791f0bddd989f96990204a",
+      "referenceAnswerFingerprint": "8dcee4e76687a6cd310ce84102659645c615383fcc2aa42872c3b159863b259a"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a council proposing how an old cinema could become a useful arts centre while keeping its historic character. Mention access, safety, and one feature worth preserving.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文兼顾无障碍、安全与历史特色。",
+      "sampleAnswer": "Dear Council Members,\nThe old cinema could become a lively arts centre if the project begins with the needs of future visitors. I suggest inviting residents, performers and people who use mobility aids to walk through the building with architects. Their comments would help identify the safest route to the main hall and the spaces that are difficult to reach. Heating and fire safety should be addressed before decorative work begins.\nAt the same time, the painted ceiling is a feature many residents remember. It could be carefully restored and included in short information displays about the building. A phased plan would make costs easier to explain: first improve access and safety, then prepare rooms for performances and classes. The council should publish the stages and invite comments after each one.\nYours sincerely,\nA local resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "a3567fd7615071626d307932f64a2458825353b1e5cbca406b303de1de0b9eda",
+      "sampleAnswerFingerprint": "af8d17473e696a8f747be6515596faa99fb74d76bf78ab50315b63dcd707ea39"
+    }
+  ],
+  "fingerprintManifest": [
+    "c84e61189672164234ccac75ce3e37fa88a4e76b8e2ce86831f8ce754c4c3f90",
+    "347477d43b63723e11b394ba9287d0c58240fda86f1e901b8cf3c6f4d8abb75b",
+    "70127351895ec6a26361facec05c8489b0b85bce5c23d766213aa05c40152673",
+    "ab7035a97c75ebed0e38955604034a42256155b81aa5f0a2b5930cb85ccf7760",
+    "5f36fb9ecf1e30102156d91c62f62a517fe6e64365730ac1af32ec36cf592a32",
+    "67d471bbdb6f9d0485303d5c2d9d74c5b9f18fef81e999f3bcf9e83a40c73975",
+    "af708c98d1b5418689def911d7403b8dff57d03a7e3fed1256f54e21f26728d7",
+    "d7da56411f8c4d896e3696189c42ecba628658fc48f5d984252a2309fb4a5489",
+    "a32f07e2734c52b09948f34337f3531b1c3373076e2c1956b741e3be73201386",
+    "36ade7b4891a3c8be9392ab483a792a6da707266fdcddf8896f33a40aaf0ca58",
+    "a12c6dd75eb6a8300570fe41a925eebfd0749833b35f8b4daf6de439d363f132",
+    "5542a08be169f55781b124dc00888d29515d1ba8b59ff4df97e6539243824fcc",
+    "1898d810b91368e84acbc655b0838b91b6b0d1661f826d3e70a51e590ee90dde",
+    "5643cd34a64e5c5f01c81214d0aa88a6297f49077e8564e1e1976c509c2e5a9d",
+    "888a3174abb02577f2a90fbde291b54bb6d489b616ae72cee24932104b3a9ba1",
+    "375e28cafce5d6f66537400c8ea4255b31226af77a4106562b7f33c805b134ae",
+    "bc91422823e4ad929b02004e1ba8f08f769c904bba341f2964cb457f0d66901c",
+    "15abbdc28c613f437dac31315dee060748439aa707398d8d73373a5e0e7b6496",
+    "77062d1e73d9de5148843853d0e7e65f6ded3915c76ebabad3cfd0416e2c8596",
+    "71df25a82a12afd89d3365bcf4083f9f8a193a6c888793f2a4a5c9c1c55609a3",
+    "307a7f9d4d0970171abd12ca0463964cd6eef46df1b8c877ff0b18d01c641f15",
+    "fef06c08877c108bc45ed6edb7d5d556b6e072c0fb60e7d45eba8858180d6276",
+    "4d342d427d80c8a9d776926279b1ff2a88137012677c465d9d6de2fad796bf82",
+    "9aa2fb866d28f229204e8bd8f075964738fd03c0041be11a93b44fff2e9cc621",
+    "2df72c0cc4982cb6922e9fe592ecc90069256d71b2d94525078a30d1e99c2dfc",
+    "0bc90e3841222a44d7fa145ea534ce3597c5e5b5a805c478aab3f6b8a78f0244",
+    "75e6fec7886b29dbe3528ed320ac6e626590c01613adc61e235062cdfa75ca62",
+    "9a95bfe86e6b08ec7243ebaa71e4481068e4fc61e7e1125ed83e060226a67eb7",
+    "a44c58f2fb9644d5cedbc6e7ebecaf4119d529ff1ff02e11152d320846aef80e",
+    "f0fcc18dc1ce7acbea6ec4a03fbfe31ecb39508517910a2119b78d1f57f07faa",
+    "5607c7b0c0ce085cf3efbbd343d324bea5be571b99f54492fc5bbf27eab573b2",
+    "8330fd4794637d75f61482d48c00bc2ba6a5c49e1f92a51c7d64b056940f9175",
+    "9546355dd615149fc1b0a034f291a5f04eabe78c17611201a70b7e79091cf7d9",
+    "db52ba38ae126febdb76ae2ee84238078648b2cd3d7072df4e6005e9bc0ef708",
+    "5634a95b48d7450ef2f3634b53d70c29b560c2847c24c5afbc54566dec8933f6",
+    "40c58cfca82b81f6d6840b8e6ce55e8c2b8cdbc49b4d21c2bad8d00e3f4339e3",
+    "d96b9d8ec1a7620e3c0d345455c61fc4f6d29d84dc1d3ba44dd38384d572faca",
+    "bd79e7984199ceffca59248fe265005c045c48f7d4fb2e5c60f0276504e2cf3d",
+    "3e2766d95ec582412b3445c503694d411f0a29035d6fb309618413a6a7c5d48d",
+    "428b9142c78654c0d30416bc28397c9f87d97dbfb2fc7fc5616c51662d089f7c",
+    "bb51ed87e1d7b9e9c95722c8a8d248053bbce09b1b33db43b4256fc52dc6200a",
+    "9993f486e6f8a27a61efa3f95b370cb363c610bf975652deeb8a06d8e761aa9c",
+    "3363099db6f1ae3fc422def3a169c3cb1c5bbc4950dbe0832fe7d48878788889",
+    "a84c79af5f88e35dbcd5d07d18fa89dcae1ede51060803a6cd34ca49e1848276",
+    "9cf8e39f4036f4e9adf58dc546041d2e566f0bb89ecd2a26f57f0929436bce8e",
+    "595f0fe65b012eadc93be88575f5e82472d5190b6d3b9ad19d4e2ae1e33dc931",
+    "6df0a041aa1c1578f94be816de9475d2e468bc89431c72397e8498a7058ca276",
+    "66f1b2bcc8ab7e344f3e09c66a0818b08ed05e98e1c728bae949aa8e6466fffd",
+    "902867ee66613d30d26a1e552a434d0970fd5684953e225c5f550ac5bb09d236",
+    "f6aba8aebe28bd614396bbefa8aa2908d30ce919465a28895c2b27345f3303d8",
+    "a0b11c70b3ba1671d987da8daf1fbf9d5068fcef90ebf237390b93c04bfb4733",
+    "fbbbf02a6c69d194f9487f4956534131707ca9eed0f6dfb24ba95cd6e6525813",
+    "a2cbae236153f34792bb4e1d0012509db91eea673e5b13f27e7c7a4750de8c64",
+    "a3db0d087453d886ee864a048f52140a55673b72cb345c4f14e3647121f4f9a1",
+    "d1303cb66794251cedf821a08d8d53956c90b5d0a165352c310a70c7394123f4",
+    "4cacfdb517df9951c5a80b784f4156c0e7221f1516bb562647076bd9c65fb86b",
+    "1736aa308699af9211a521e8c1236747f3606fbb564f272d0ba15cb1cb3ce045",
+    "472510f748def0361a60d50f8f05fbdd3f5de2b041791f0bddd989f96990204a",
+    "8dcee4e76687a6cd310ce84102659645c615383fcc2aa42872c3b159863b259a",
+    "a3567fd7615071626d307932f64a2458825353b1e5cbca406b303de1de0b9eda",
+    "af8d17473e696a8f747be6515596faa99fb74d76bf78ab50315b63dcd707ea39"
+  ],
+  "contentFingerprint": "31d27ee97293ff9e291b78726945553349e0db44fad7cdfaecc6077917dfe601"
+}

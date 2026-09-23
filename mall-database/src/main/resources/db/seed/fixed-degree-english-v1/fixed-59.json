@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-59",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 59 · 数字服务与信息可达",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 59,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the digital access programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the digital access programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the service centre entrance.",
+        "B": "Yes, send your name to the digital help desk before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "c42daa3438affeb6b3f6bcca3e3ff83cdca48a147b00a9a270cc586542d2baf0",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the digital access programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the service centre entrance.",
+            "B": "Yes, send your name to the digital help desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "39af8f225aa7b7f6f0cfbfefa4496c20f6a6b9ebece664521a9fae47d813fe95"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the digital access programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the service centre entrance.",
+            "B": "Yes, send your name to the digital help desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1c3a43ef38f9466b0f370aeb7adb6155920a7cd6232100e37c229b81a16f5ecd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the digital access programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the service centre entrance.",
+            "B": "Yes, send your name to the digital help desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "af8be0f00934639fd015672fb8cba13ca415472125782bb6d1de521eb903b3ee"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the digital access programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the service centre entrance.",
+            "B": "Yes, send your name to the digital help desk before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1c5852cb05fd0bd9a7553e7842e0b4e13416c981c1f648ba8691f799463d92d7"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the digital access programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the digital access programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the service centre entrance.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the digital help desk if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "f59a49a33ada1f5210f5a912bc16b8df07695387e577a0abd8a5b83e9f02a2f7",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the digital access programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the service centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the digital help desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "637f058f384492324235727fc0a1831f17f6852c9402bef9380c29a1467cbdb0"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the digital access programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the service centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the digital help desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3f55e6a166f44c8d30f57b891a6f0366548536cf524c827cdde36a4c7448157c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the digital access programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the service centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the digital help desk if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0432befd8988913e94e559236eea2f398888ed4cfe3d89073ada1cd907c25c0f"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the digital access programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the digital access programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the service centre entrance are blue.",
+        "B": "Please send a short message to the digital help desk.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "0b2a6a04ab4c9dcaf60aef5b684f3d9fd50615aeb7a687b37619bf09ce4e9cb8",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the digital access programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the service centre entrance are blue.",
+            "B": "Please send a short message to the digital help desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a246c59a564cd5708a32dcefeca4d2a98f96287312214849ec581c7fb708ffb9"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the digital access programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the service centre entrance are blue.",
+            "B": "Please send a short message to the digital help desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "5eb338d66a36c0cd37881792ab4b9c1bd4effd983fbfb5ea1602cac1f2d97be3"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the digital access programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the service centre entrance are blue.",
+            "B": "Please send a short message to the digital help desk.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "df7a1fe22ef013154a7ff5b68dbf48915ac646f6a57ec8529e002f5d808ce2a8"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A public kiosk with fewer steps",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town installed a touchscreen kiosk for paying small service fees. Staff expected it to shorten queues, but many visitors still asked for help. The central difficulty was too many choices on the first screen. The menu displayed technical names for several services and sent people back to the beginning if they chose the wrong one. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried a guided task with first-time users. Staff asked visitors to complete a sample payment and recorded where they hesitated without touching the screen for them. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed the first choice caused the longest delay. Most users could enter details correctly after choosing a service, but the starting menu made that choice uncertain. In response, the group adopted plain labels and a visible back button. The team changed service names to everyday language and let visitors return to the previous step without losing their entries. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: simple paths matter more than extra features. The kiosk became useful when the route through a basic task matched the words and expectations of ordinary visitors. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in a public kiosk with fewer steps, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "ca3b180b8252ef5536c0e89a03c3b9ae67d3430e49aeebd9e7e705d81bf7dbf4",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A public kiosk with fewer steps: What was the central difficulty?",
+          "options": {
+            "A": "alerts delivered after journeys had begun",
+            "B": "important fields hidden below the screen",
+            "C": "borrowers lacked support after taking devices home",
+            "D": "too many choices on the first screen"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "245083fda163e3d8aa88de5240ecdfb2cf1adeb8dc7b6fe7c86b0ffc85a879d8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A public kiosk with fewer steps: What did the group first try?",
+          "options": {
+            "A": "a guided task with first-time users",
+            "B": "a review of decision and message times",
+            "C": "phone-based trials with common tasks",
+            "D": "a short orientation before each loan"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "644ef77b68694c0ea6cdc1967e2fc7624654d630f1063baf6eaa0920dc496d15"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A public kiosk with fewer steps: What did the trial show?",
+          "options": {
+            "A": "the decision process was slower than delivery",
+            "B": "the first choice caused the longest delay",
+            "C": "users abandoned forms after unclear errors",
+            "D": "early practice prevented many later calls"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "714c64b6518bce06a35d4bb5fe5e02892a128bc70aa2d2a9cb81e1de440d00f4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A public kiosk with fewer steps: What change followed the findings?",
+          "options": {
+            "A": "an earlier warning with a clear update time",
+            "B": "short sections and errors beside fields",
+            "C": "plain labels and a visible back button",
+            "D": "a help hour and clearer return guidance"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f9c38f79038cfc42eef2bf676bf164eb55fe4bbfefc142639e32f328fc068150"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A public kiosk with fewer steps: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "timely information needs timely decisions",
+            "B": "accessibility includes ordinary device conditions",
+            "C": "access to devices includes access to support",
+            "D": "simple paths matter more than extra features"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "22064d40cb3d24ad691afcbfd6a1db79ad37e165812442bac4a20c3365f3ebd5"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "An alert that people noticed too late",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A coastal town sent phone alerts when a walking path closed after storms. Some walkers learned of the closure only after reaching the gate. The central difficulty was alerts delivered after journeys had begun. The message system worked, but staff entered closure details only when a worker arrived at the path. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried a review of decision and message times. The team compared weather warnings, closure decisions and phone delivery records to locate the delay. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed the decision process was slower than delivery. Once staff entered an alert it reached phones quickly; the main problem was waiting too long to confirm a closure. In response, the group adopted an earlier warning with a clear update time. The town began sending a provisional notice when conditions looked unsafe and promised to confirm the status by a stated hour. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: timely information needs timely decisions. Faster software alone would not help walkers if the people operating the service waited until journeys were underway. The final proposal remained open to revision when new information became available. For the people involved in an alert that people noticed too late, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "a2f29c8a27d74951a569356b600fbc8fc69357dfe4d2081962ffca4c64d35935",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "An alert that people noticed too late: What was the central difficulty?",
+          "options": {
+            "A": "alerts delivered after journeys had begun",
+            "B": "too many choices on the first screen",
+            "C": "important fields hidden below the screen",
+            "D": "borrowers lacked support after taking devices home"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "89d89495968ec31fc3e16087a099bccfa549c3a045b384cf00af3cce6ac8196f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "An alert that people noticed too late: What did the group first try?",
+          "options": {
+            "A": "a guided task with first-time users",
+            "B": "a review of decision and message times",
+            "C": "phone-based trials with common tasks",
+            "D": "a short orientation before each loan"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "310664413b7a9845169a631048f5deeaf45d89d852f8fd47e4f45836d287415c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "An alert that people noticed too late: What did the trial show?",
+          "options": {
+            "A": "the first choice caused the longest delay",
+            "B": "users abandoned forms after unclear errors",
+            "C": "the decision process was slower than delivery",
+            "D": "early practice prevented many later calls"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "9b9047f024c2afa2ddf2f721ade41f0d15e977cff203c248d6fec713d87006cd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "An alert that people noticed too late: What change followed the findings?",
+          "options": {
+            "A": "plain labels and a visible back button",
+            "B": "short sections and errors beside fields",
+            "C": "a help hour and clearer return guidance",
+            "D": "an earlier warning with a clear update time"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "7a900aeeec7643f9bf4d136275cc25da86d3d507761eaf599df13803b1f7bcbb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "An alert that people noticed too late: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "timely information needs timely decisions",
+            "B": "simple paths matter more than extra features",
+            "C": "accessibility includes ordinary device conditions",
+            "D": "access to devices includes access to support"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "afc219ed9e276ff71045f47e46380dd91d6ab19c523ede4b4b7c184f424de92f"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A form that works on a small phone",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents could request repairs through a council website. The form looked clear on office computers but was difficult to finish on older phones. The central difficulty was important fields hidden below the screen. A long list required repeated scrolling, and an error message at the top did not identify the field that needed changing. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried phone-based trials with common tasks. Designers asked residents to submit sample repair requests on different devices and listened when they described confusing steps. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed users abandoned forms after unclear errors. Most could enter the address, but they thought the form had failed when a missing date sent them back to the top. In response, the group adopted short sections and errors beside fields. The council broke the form into smaller steps and placed each correction message next to the relevant question. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: accessibility includes ordinary device conditions. A service available online is not fully usable if people cannot complete it on the phones they actually own. This approach gave the group a practical basis for its next round of work. For the people involved in a form that works on a small phone, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "3d26be5cc274530a99656dd60833673deef23901f77caff61878c55022d2a93e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A form that works on a small phone: What was the central difficulty?",
+          "options": {
+            "A": "too many choices on the first screen",
+            "B": "important fields hidden below the screen",
+            "C": "alerts delivered after journeys had begun",
+            "D": "borrowers lacked support after taking devices home"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4364184c4f1f2ca4e6cdc0c762b6b1777f102908d8ffb2d5149cb90b6b25d4e2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A form that works on a small phone: What did the group first try?",
+          "options": {
+            "A": "a guided task with first-time users",
+            "B": "a review of decision and message times",
+            "C": "phone-based trials with common tasks",
+            "D": "a short orientation before each loan"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "dc3676c17cf978f53e6ab8b785a3f7fe499586d1141acc9939e4266359f714bd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A form that works on a small phone: What did the trial show?",
+          "options": {
+            "A": "the first choice caused the longest delay",
+            "B": "the decision process was slower than delivery",
+            "C": "early practice prevented many later calls",
+            "D": "users abandoned forms after unclear errors"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1d4576da9efa953cbc2b0322c21c47058c07e6ed5072c3574d39e0e40cd4f347"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A form that works on a small phone: What change followed the findings?",
+          "options": {
+            "A": "short sections and errors beside fields",
+            "B": "plain labels and a visible back button",
+            "C": "an earlier warning with a clear update time",
+            "D": "a help hour and clearer return guidance"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "06bf1c98d3f6e9b6503da798eff524f48580889fadad2336be83e7a7ca61b704"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A form that works on a small phone: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "simple paths matter more than extra features",
+            "B": "accessibility includes ordinary device conditions",
+            "C": "timely information needs timely decisions",
+            "D": "access to devices includes access to support"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "07ba96c9f3b328a65778d67dc1361061776780e4f9f9346729c6f9c8b0fbd40a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Lending tablets through a library",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A library began lending tablets to adults taking short courses. The devices were popular, but returning borrowers often needed technical help. The central difficulty was borrowers lacked support after taking devices home. The printed guide explained how to switch on a tablet but not how to connect to a course or recover from a lost password. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried a short orientation before each loan. Librarians showed borrowers basic settings and asked them to open the course page while still at the desk. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed early practice prevented many later calls. Users who completed the first course login during orientation were more confident when studying independently. In response, the group adopted a help hour and clearer return guidance. The library kept loan rules simple while adding weekly assistance for problems that a short guide could not cover. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: access to devices includes access to support. The programme worked better when it offered the knowledge needed to use a tablet, not just the tablet itself. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in lending tablets through a library, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "9671eda9d6bc01e0e5023402b7763d63a98e1374c6cef19a357db082fcf02120",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Lending tablets through a library: What was the central difficulty?",
+          "options": {
+            "A": "too many choices on the first screen",
+            "B": "alerts delivered after journeys had begun",
+            "C": "borrowers lacked support after taking devices home",
+            "D": "important fields hidden below the screen"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e97a7cdc39aae2a1483091cee5a1fcf5ff7f2e0fefeb7cad32888bba10c1f78b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Lending tablets through a library: What did the group first try?",
+          "options": {
+            "A": "a guided task with first-time users",
+            "B": "a review of decision and message times",
+            "C": "phone-based trials with common tasks",
+            "D": "a short orientation before each loan"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8cc2a20a889e002e148d0544414094598dba71f5c0f6e58bdfde570d115ee948"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Lending tablets through a library: What did the trial show?",
+          "options": {
+            "A": "early practice prevented many later calls",
+            "B": "the first choice caused the longest delay",
+            "C": "the decision process was slower than delivery",
+            "D": "users abandoned forms after unclear errors"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "cee340aaae06f1e4e42042c945649e04c1f7e3d518536dd6f5b2fe1f24b775b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Lending tablets through a library: What change followed the findings?",
+          "options": {
+            "A": "plain labels and a visible back button",
+            "B": "a help hour and clearer return guidance",
+            "C": "an earlier warning with a clear update time",
+            "D": "short sections and errors beside fields"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1602f23327a887a87347be323fa182dbb1d4b74985708be25d58eece11cbada6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Lending tablets through a library: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "simple paths matter more than extra features",
+            "B": "timely information needs timely decisions",
+            "C": "access to devices includes access to support",
+            "D": "accessibility includes ordinary device conditions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2eaacbc024019a560014d21586fe02b536dcd4cf81dc24660c440c3bb86a0e3e"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the digital access programme so visitors could understand its purpose.",
+      "options": {
+        "A": "distant",
+        "B": "silent",
+        "C": "narrow",
+        "D": "clear"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "09b24ea23e7b1d38f88449cc03ec19887526a2d48fb2addcd3c398c921850ce0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the digital access programme can provide _____ before a final decision.",
+      "options": {
+        "A": "evidence",
+        "B": "furniture",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "88e052b7764f2efc73e62a43912ef93d446150660ebfb57f75749cec013df5e6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the digital access programme.",
+      "options": {
+        "A": "conceal",
+        "B": "describe",
+        "C": "replace",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "ceeb14b0793496c9da7bb4c4436814e2e4942bc8ca10c03f6a20c9a0aa850fbe"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the digital access programme was changed after the first public _____.",
+      "options": {
+        "A": "departure",
+        "B": "harvest",
+        "C": "feedback",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "109de583a762bc672d763ce1ad489d9733d6601b974b26bf4d8662fd3c5adbd4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the digital access programme.",
+      "options": {
+        "A": "fragile",
+        "B": "empty",
+        "C": "formal",
+        "D": "flexible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "29b2f90a93dc96c1a05bc81daf96d0559761be5b0f4392eb366b49a951457872"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the digital access programme.",
+      "options": {
+        "A": "check",
+        "B": "forget",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1072b5e1ca8e1afa1dd840456d6804470979026cb097eace2e77bb1a7ec2543d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the digital access programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "information",
+        "C": "furniture",
+        "D": "competition"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1af25aecde8662419e0833c6ea429f1097b447066a8ffbcee71aa01513441019"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the digital access programme more _____ to first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "accessible",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2df9473beaf214453ed0993757bbd54b65bcbd35786d6e880ab3608f27b4a4c0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the digital access programme with the neighbourhood.",
+      "options": {
+        "A": "remove",
+        "B": "delay",
+        "C": "conceal",
+        "D": "share"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "646203cf3526df8a0ac5c848b29975884759c2b3157cf8a861987ef2f281802e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the digital access programme will consider both benefits and _____.",
+      "options": {
+        "A": "costs",
+        "B": "colours",
+        "C": "directions",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6f71528acce0d35c7bf904757ed943918c7db5b25de02873f0038cb763cd297b"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the digital access programme.",
+      "options": {
+        "A": "has",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "97b6caabe6e3198a98f03cedd89516964accd748d0598fc25780273e96792287"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the digital access programme _____ yesterday is available online.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "published",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dda230dcb7b20428366ff6fa035767f1f3064e7c24d54179725d22b2bbc471d1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the digital access programme.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "has",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "67d57e3479904d3dbcc358c8d7782fc71292c7cf9d6437f3b8d58cd40165c2a2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the digital access programme.",
+      "options": {
+        "A": "why",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b7145a738edfdb0bcc50c3aa5f37ef94dff7c801595544f3f822600f7c30e05c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the digital access programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "had learned",
+        "C": "will learn",
+        "D": "is learning"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "53e2467cddc61551d38f1b923f6dc16af14879b3995bf41b617cea1728ce031c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the digital access programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "could",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cd18956c090196a2f7458a5a5b6c98c266850e806e2b25210f4abb5ec74f7d9c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the digital access programme took place.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "e243657396bee067389360740fbcb7781fced1920dd06408c40db61b72b1ab3e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the digital access programme _____ complete.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "948385780d3b645a654c91131c963251064f50fa594d6408e01a6dedd0c849e5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the digital access programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "did",
+        "C": "has",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3358f3fa358ac32734a13d431e5c217f95d9ffc55a52345897299c652aa5e853"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the digital access programme, _____ their next decision can be.",
+      "options": {
+        "A": "better",
+        "B": "the best",
+        "C": "the better",
+        "D": "more good"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d12d856fbbbc06d4db08db8070c434ed1b3bda747ebc2d7493ca6c4e6f664a0c"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPutting a public service on a screen does not automatically make it easy to use. A town installed a payment kiosk with many choices on its first page. Visitors often selected the wrong service and had to start again. Staff asked first-time users to complete a sample task while explaining where they hesitated. They learned that the first choice caused more trouble than entering personal details later. The town replaced technical labels with everyday words and added a clear way to return to the previous step. The change reduced requests for help. A useful digital service should follow the path people actually take through a task.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意while伴随关系和比较结构more...than。",
+      "referenceAnswer": "把公共服务放到屏幕上，并不会自动让它容易使用。一个城镇安装了缴费终端，但首页有太多选项。访客常选错服务，不得不重新开始。工作人员请初次使用者完成一项模拟任务，同时说明他们在哪些步骤犹豫。工作人员发现，最初的选择比后续填写个人资料造成更多困难。城镇用日常用语替换技术标签，并增加了清楚的返回上一步方式。改动减少了求助次数。好用的数字服务应当符合人们实际完成任务的路径。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "c5cd8e5dd9554ddd49743328559076514124abd3a9d709cb3fcd85fa5335ff2d",
+      "referenceAnswerFingerprint": "f7227fcb316e1812d67a91e3040c1272198287c8a5c87d834beaaa3887222f8b"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a service centre suggesting how its payment kiosk could be easier for first-time users. Describe a small user trial and two possible interface changes.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖新用户任务观察、菜单用词与返回功能。",
+      "sampleAnswer": "Dear Service Centre Manager,\nI have seen visitors hesitate at the payment kiosk before they even begin entering details. I suggest asking a few people who have never used it to complete a sample payment while staff observe quietly. We should record which menu names they choose, where they go back, and whether they know when the payment is complete. Their words will be more useful than a staff member guessing what seems clear.\nTwo small changes may help. First, replace technical service names with the words visitors use at the counter. Second, add a visible back button that does not erase information already entered. After making these changes, the centre could repeat the same sample task with new users and compare the number of requests for help.\nYours sincerely,\nA visitor",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "21b992175cd4374e2314888622edce1d8802cd239ae9026742617f0d823427db",
+      "sampleAnswerFingerprint": "605bffd93934c4c3b561d3e1178fbe79e019f95f9c4d42e78ef598ad22655353"
+    }
+  ],
+  "fingerprintManifest": [
+    "c42daa3438affeb6b3f6bcca3e3ff83cdca48a147b00a9a270cc586542d2baf0",
+    "39af8f225aa7b7f6f0cfbfefa4496c20f6a6b9ebece664521a9fae47d813fe95",
+    "1c3a43ef38f9466b0f370aeb7adb6155920a7cd6232100e37c229b81a16f5ecd",
+    "af8be0f00934639fd015672fb8cba13ca415472125782bb6d1de521eb903b3ee",
+    "1c5852cb05fd0bd9a7553e7842e0b4e13416c981c1f648ba8691f799463d92d7",
+    "f59a49a33ada1f5210f5a912bc16b8df07695387e577a0abd8a5b83e9f02a2f7",
+    "637f058f384492324235727fc0a1831f17f6852c9402bef9380c29a1467cbdb0",
+    "3f55e6a166f44c8d30f57b891a6f0366548536cf524c827cdde36a4c7448157c",
+    "0432befd8988913e94e559236eea2f398888ed4cfe3d89073ada1cd907c25c0f",
+    "0b2a6a04ab4c9dcaf60aef5b684f3d9fd50615aeb7a687b37619bf09ce4e9cb8",
+    "a246c59a564cd5708a32dcefeca4d2a98f96287312214849ec581c7fb708ffb9",
+    "5eb338d66a36c0cd37881792ab4b9c1bd4effd983fbfb5ea1602cac1f2d97be3",
+    "df7a1fe22ef013154a7ff5b68dbf48915ac646f6a57ec8529e002f5d808ce2a8",
+    "ca3b180b8252ef5536c0e89a03c3b9ae67d3430e49aeebd9e7e705d81bf7dbf4",
+    "245083fda163e3d8aa88de5240ecdfb2cf1adeb8dc7b6fe7c86b0ffc85a879d8",
+    "644ef77b68694c0ea6cdc1967e2fc7624654d630f1063baf6eaa0920dc496d15",
+    "714c64b6518bce06a35d4bb5fe5e02892a128bc70aa2d2a9cb81e1de440d00f4",
+    "f9c38f79038cfc42eef2bf676bf164eb55fe4bbfefc142639e32f328fc068150",
+    "22064d40cb3d24ad691afcbfd6a1db79ad37e165812442bac4a20c3365f3ebd5",
+    "a2f29c8a27d74951a569356b600fbc8fc69357dfe4d2081962ffca4c64d35935",
+    "89d89495968ec31fc3e16087a099bccfa549c3a045b384cf00af3cce6ac8196f",
+    "310664413b7a9845169a631048f5deeaf45d89d852f8fd47e4f45836d287415c",
+    "9b9047f024c2afa2ddf2f721ade41f0d15e977cff203c248d6fec713d87006cd",
+    "7a900aeeec7643f9bf4d136275cc25da86d3d507761eaf599df13803b1f7bcbb",
+    "afc219ed9e276ff71045f47e46380dd91d6ab19c523ede4b4b7c184f424de92f",
+    "3d26be5cc274530a99656dd60833673deef23901f77caff61878c55022d2a93e",
+    "4364184c4f1f2ca4e6cdc0c762b6b1777f102908d8ffb2d5149cb90b6b25d4e2",
+    "dc3676c17cf978f53e6ab8b785a3f7fe499586d1141acc9939e4266359f714bd",
+    "1d4576da9efa953cbc2b0322c21c47058c07e6ed5072c3574d39e0e40cd4f347",
+    "06bf1c98d3f6e9b6503da798eff524f48580889fadad2336be83e7a7ca61b704",
+    "07ba96c9f3b328a65778d67dc1361061776780e4f9f9346729c6f9c8b0fbd40a",
+    "9671eda9d6bc01e0e5023402b7763d63a98e1374c6cef19a357db082fcf02120",
+    "e97a7cdc39aae2a1483091cee5a1fcf5ff7f2e0fefeb7cad32888bba10c1f78b",
+    "8cc2a20a889e002e148d0544414094598dba71f5c0f6e58bdfde570d115ee948",
+    "cee340aaae06f1e4e42042c945649e04c1f7e3d518536dd6f5b2fe1f24b775b1",
+    "1602f23327a887a87347be323fa182dbb1d4b74985708be25d58eece11cbada6",
+    "2eaacbc024019a560014d21586fe02b536dcd4cf81dc24660c440c3bb86a0e3e",
+    "09b24ea23e7b1d38f88449cc03ec19887526a2d48fb2addcd3c398c921850ce0",
+    "88e052b7764f2efc73e62a43912ef93d446150660ebfb57f75749cec013df5e6",
+    "ceeb14b0793496c9da7bb4c4436814e2e4942bc8ca10c03f6a20c9a0aa850fbe",
+    "109de583a762bc672d763ce1ad489d9733d6601b974b26bf4d8662fd3c5adbd4",
+    "29b2f90a93dc96c1a05bc81daf96d0559761be5b0f4392eb366b49a951457872",
+    "1072b5e1ca8e1afa1dd840456d6804470979026cb097eace2e77bb1a7ec2543d",
+    "1af25aecde8662419e0833c6ea429f1097b447066a8ffbcee71aa01513441019",
+    "2df9473beaf214453ed0993757bbd54b65bcbd35786d6e880ab3608f27b4a4c0",
+    "646203cf3526df8a0ac5c848b29975884759c2b3157cf8a861987ef2f281802e",
+    "6f71528acce0d35c7bf904757ed943918c7db5b25de02873f0038cb763cd297b",
+    "97b6caabe6e3198a98f03cedd89516964accd748d0598fc25780273e96792287",
+    "dda230dcb7b20428366ff6fa035767f1f3064e7c24d54179725d22b2bbc471d1",
+    "67d57e3479904d3dbcc358c8d7782fc71292c7cf9d6437f3b8d58cd40165c2a2",
+    "b7145a738edfdb0bcc50c3aa5f37ef94dff7c801595544f3f822600f7c30e05c",
+    "53e2467cddc61551d38f1b923f6dc16af14879b3995bf41b617cea1728ce031c",
+    "cd18956c090196a2f7458a5a5b6c98c266850e806e2b25210f4abb5ec74f7d9c",
+    "e243657396bee067389360740fbcb7781fced1920dd06408c40db61b72b1ab3e",
+    "948385780d3b645a654c91131c963251064f50fa594d6408e01a6dedd0c849e5",
+    "3358f3fa358ac32734a13d431e5c217f95d9ffc55a52345897299c652aa5e853",
+    "d12d856fbbbc06d4db08db8070c434ed1b3bda747ebc2d7493ca6c4e6f664a0c",
+    "c5cd8e5dd9554ddd49743328559076514124abd3a9d709cb3fcd85fa5335ff2d",
+    "f7227fcb316e1812d67a91e3040c1272198287c8a5c87d834beaaa3887222f8b",
+    "21b992175cd4374e2314888622edce1d8802cd239ae9026742617f0d823427db",
+    "605bffd93934c4c3b561d3e1178fbe79e019f95f9c4d42e78ef598ad22655353"
+  ],
+  "contentFingerprint": "21cb29bc3f725274b09f36413bdd4fa425466e199e7fd6a28fc6293641aff047"
+}

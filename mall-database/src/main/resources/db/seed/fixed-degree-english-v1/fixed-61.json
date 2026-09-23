@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-61",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 61 · 公民科学与日常观察",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 61,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the community science programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the community science programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the science centre entrance.",
+        "B": "Yes, send your name to the science project team before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "289265cbfef056c25f1f721118b2dab36d6eb51804e74fa3dbbfaca99f896a9e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the community science programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the science centre entrance.",
+            "B": "Yes, send your name to the science project team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d7db89033bdad8f60390d2f365287631be496c01e274c8af60817719dcf5d304"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the community science programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the science centre entrance.",
+            "B": "Yes, send your name to the science project team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "820e01b7eb312abe58562167f8e2f91c2c0db3274ef383e218642998b2335699"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the community science programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the science centre entrance.",
+            "B": "Yes, send your name to the science project team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "bda36cff48eb54230935a91089e1e1924d162d43de1688f611eb0001d0fd5a95"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the community science programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the science centre entrance.",
+            "B": "Yes, send your name to the science project team before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "e931ac46a49c2ef7df3db51d35f91d86d9caf1ecdae5c8b91a0b4401d026d68a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the community science programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the community science programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the science centre entrance.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the science project team if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "48226b23a71121cd911fc39e7aaf80573e65bb0632196b347279af78d938546c",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the community science programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the science centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the science project team if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "76b198b1d2ca99527ef08cbf3136ae77d4f0950893175fa7b7237e80757c1f0c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the community science programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the science centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the science project team if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "0f68946985faa19528bd252effd90495e2ed09b056c94e2a95f67cb135eefb1f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the community science programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the science centre entrance.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the science project team if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c7ebe8c7b436c6a7ef7cbf1b87546896f5b9f093ad3a2739e23828f119801e35"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the community science programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the community science programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the science centre entrance are blue.",
+        "B": "Please send a short message to the science project team.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "698c612191eff82f1bfce02c5968a83df12bca6ea30b705ae8a755c52b455745",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the community science programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the science centre entrance are blue.",
+            "B": "Please send a short message to the science project team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8425e07a854e53fa2ae355ca80035c9dc1b622c0ad2fb7f3de6ccdd36f78382f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the community science programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the science centre entrance are blue.",
+            "B": "Please send a short message to the science project team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f10b916dcfa1f2a0b6713fd006a4718db0c42e2e7f0d556ecf3f7dd69061e98d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the community science programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the science centre entrance are blue.",
+            "B": "Please send a short message to the science project team.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "4619cf44dc2919c0ae7890cf1e3aff3e7c416d90b7dd98d2fd3b339bde94f363"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Counting birds before drawing conclusions",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A group of neighbours counted birds in a public garden. One unusually quiet morning led to concern that local species were disappearing. The central difficulty was a conclusion based on one morning. Cold weather had changed where birds fed, and several volunteers had arrived later than on previous visits. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried weekly counts at the same hour. The group agreed on fixed observation points, recorded weather and trained newcomers to recognise the most common birds. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed numbers rose and fell with conditions. The longer record showed variation rather than a steady decline, though it also suggested some areas offered less food. In response, the group adopted a seasonal record with clear limits. Volunteers published their methods and asked a local specialist to explain what their counts could and could not demonstrate. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: repeated observations support careful claims. A single quiet visit can be worth recording, but it should not be mistaken for evidence of a lasting change. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in counting birds before drawing conclusions, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "c5114a49e1c6cc366c0eba73f80915f96a23754598307f2abedd5bc38a136390",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Counting birds before drawing conclusions: What was the central difficulty?",
+          "options": {
+            "A": "different impressions of peak noise",
+            "B": "a conclusion based on one morning",
+            "C": "inconsistent ways of describing weather",
+            "D": "uneven growth in nearby planting beds"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f5f87bb0b20fb58cfc059a959249b9971215d9dada5886c531882f455c33eb42"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Counting birds before drawing conclusions: What did the group first try?",
+          "options": {
+            "A": "sound readings at agreed locations",
+            "B": "shared times and simple instruments",
+            "C": "weekly counts at the same hour",
+            "D": "soil checks at several depths"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1f66ca5ce8f801b9ccaec8d83305d4f66415e316e38b00d4787f7c3aee562173"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Counting birds before drawing conclusions: What did the trial show?",
+          "options": {
+            "A": "late deliveries created a short sharp peak",
+            "B": "consistent timing made patterns easier to see",
+            "C": "poor drainage explained the weakest area",
+            "D": "numbers rose and fell with conditions"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "1ca893d673d163edf15f3148ea19f0c669d1f7417807bfb0f8b65bfbe9759f57"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Counting birds before drawing conclusions: What change followed the findings?",
+          "options": {
+            "A": "a seasonal record with clear limits",
+            "B": "talks about delivery times and routes",
+            "C": "a diary combining numbers and descriptions",
+            "D": "a drainage improvement in one test bed"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6656398e1daebc530f0066a42856295da165d8dc7b7669ad91fcbb97a9263e8a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Counting birds before drawing conclusions: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "measurement can clarify a disagreement",
+            "B": "repeated observations support careful claims",
+            "C": "good records need agreed methods and context",
+            "D": "small comparisons prevent costly assumptions"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0f35afb427da3fa312368cbd8473051cf92bf6fee470102c47862a5b5a26bbbc"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "Mapping noise around a station",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Residents near a station disagreed about when traffic noise was worst. Some blamed morning buses, while others pointed to late deliveries. The central difficulty was different impressions of peak noise. People heard sound from different rooms and at different times, so their reports were sincere but difficult to compare. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried sound readings at agreed locations. Volunteers used one type of meter, noted the time and weather, and avoided measuring directly beside a single passing vehicle. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed late deliveries created a short sharp peak. Morning traffic was steady, but the highest readings occurred during a smaller number of evening unloading events. In response, the group adopted talks about delivery times and routes. The group shared its figures with businesses and discussed changes that would reduce disturbance without stopping necessary deliveries. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: measurement can clarify a disagreement. The readings did not invalidate anyone’s experience; they helped identify when and where a practical change might matter most. The final proposal remained open to revision when new information became available. For the people involved in mapping noise around a station, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "99f7cebdef9f69134b830a053b483cc4b4b846b715e0df6f773c72b0cba24b3b",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "Mapping noise around a station: What was the central difficulty?",
+          "options": {
+            "A": "a conclusion based on one morning",
+            "B": "inconsistent ways of describing weather",
+            "C": "different impressions of peak noise",
+            "D": "uneven growth in nearby planting beds"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "0942ae234aed9445a3fb243d745a4badda5486d80201bd5daa52fae4dfcfb5c5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "Mapping noise around a station: What did the group first try?",
+          "options": {
+            "A": "weekly counts at the same hour",
+            "B": "shared times and simple instruments",
+            "C": "soil checks at several depths",
+            "D": "sound readings at agreed locations"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "219d199d739082b0d94988e4f54b9681f0a5dab7076032d512bcbe54d8f98905"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "Mapping noise around a station: What did the trial show?",
+          "options": {
+            "A": "late deliveries created a short sharp peak",
+            "B": "numbers rose and fell with conditions",
+            "C": "consistent timing made patterns easier to see",
+            "D": "poor drainage explained the weakest area"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "de62772663048d1fe9845cbfdb8cb8d3202ac917c7c39bd627038de69276c587"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "Mapping noise around a station: What change followed the findings?",
+          "options": {
+            "A": "a seasonal record with clear limits",
+            "B": "talks about delivery times and routes",
+            "C": "a diary combining numbers and descriptions",
+            "D": "a drainage improvement in one test bed"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "abaf82a3e759dc394ad25fd7450fc78a88eb53aafb049ff6f9da49ac63a6ba3b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "Mapping noise around a station: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "repeated observations support careful claims",
+            "B": "good records need agreed methods and context",
+            "C": "measurement can clarify a disagreement",
+            "D": "small comparisons prevent costly assumptions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c6165eadbb6fea54e13030df88c6da68ecba438b213d83dea2a4d43fc55066b3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A weather diary at the school gate",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An adult education centre invited learners to keep a local weather diary. Many expected it to be a simple list of sunny and rainy days. The central difficulty was inconsistent ways of describing weather. One learner wrote cool where another wrote warm, and recording times differed from morning to late evening. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried shared times and simple instruments. The group chose a regular observation hour, used a thermometer in one shaded place and kept personal comments separate. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed consistent timing made patterns easier to see. After a month, learners could compare temperature changes without confusing them with measurements taken at different hours. In response, the group adopted a diary combining numbers and descriptions. The final pages showed measured values alongside notes about how wind or rain affected people’s plans. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: good records need agreed methods and context. Numbers became more useful when everyone knew how they were collected and could connect them to daily experience. This approach gave the group a practical basis for its next round of work. For the people involved in a weather diary at the school gate, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "20d10540239382d1b1049fa76db4f3d1e8d40c0e176d568b980ba2fd51b8ec5a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A weather diary at the school gate: What was the central difficulty?",
+          "options": {
+            "A": "a conclusion based on one morning",
+            "B": "different impressions of peak noise",
+            "C": "uneven growth in nearby planting beds",
+            "D": "inconsistent ways of describing weather"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a5dc1f602ee5e61ad0b0c4983e71df7cf97d7f4ee193f69fd98d7a2facdc8414"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A weather diary at the school gate: What did the group first try?",
+          "options": {
+            "A": "shared times and simple instruments",
+            "B": "weekly counts at the same hour",
+            "C": "sound readings at agreed locations",
+            "D": "soil checks at several depths"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2f4436be10952d06b9b37dc306cb370e8e953d4e8eedda6a70ff5560ee873e81"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A weather diary at the school gate: What did the trial show?",
+          "options": {
+            "A": "numbers rose and fell with conditions",
+            "B": "consistent timing made patterns easier to see",
+            "C": "late deliveries created a short sharp peak",
+            "D": "poor drainage explained the weakest area"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "6a8b7394af8fefc4022615f6e15bbd79c7d26e2af76f3ba001f04a173e2f88ef"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A weather diary at the school gate: What change followed the findings?",
+          "options": {
+            "A": "a seasonal record with clear limits",
+            "B": "talks about delivery times and routes",
+            "C": "a diary combining numbers and descriptions",
+            "D": "a drainage improvement in one test bed"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "8fb7726e09aa4cd408b7c68e3f522d75801c6385ab0521f03c04fe051249a3f8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A weather diary at the school gate: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "repeated observations support careful claims",
+            "B": "measurement can clarify a disagreement",
+            "C": "small comparisons prevent costly assumptions",
+            "D": "good records need agreed methods and context"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c3983c94d41cd13eb486ef2c1fe734b91626cbaf33acc7d9fa5ac0b244aea88d"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "What soil samples can tell gardeners",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Several community gardeners noticed weak growth in one row of beds. They initially blamed the quality of the seeds. The central difficulty was uneven growth in nearby planting beds. The same seeds had grown well elsewhere, and one part of the site stayed wet long after rain. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried soil checks at several depths. A trained adviser showed volunteers how to take comparable samples and record drainage without disturbing all the plants. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed poor drainage explained the weakest area. The results did not prove that every plant problem had the same cause, but they pointed to a practical first change. In response, the group adopted a drainage improvement in one test bed. The group altered a small area and compared new growth before spending money on work across the entire site. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: small comparisons prevent costly assumptions. By checking soil before replacing seeds, gardeners learned which intervention deserved a careful trial. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in what soil samples can tell gardeners, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "72afa5b32630c6ef3be199c32cbbb88b725ec6e9454d344cddef5fb023cc0173",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "What soil samples can tell gardeners: What was the central difficulty?",
+          "options": {
+            "A": "uneven growth in nearby planting beds",
+            "B": "a conclusion based on one morning",
+            "C": "different impressions of peak noise",
+            "D": "inconsistent ways of describing weather"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f1a07203f3ad155c71fea012925e8cbd2332f2cc996704eb806b7df47987dc46"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "What soil samples can tell gardeners: What did the group first try?",
+          "options": {
+            "A": "weekly counts at the same hour",
+            "B": "soil checks at several depths",
+            "C": "sound readings at agreed locations",
+            "D": "shared times and simple instruments"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6dc87b7dc6dfeee760a673d72fbc0639d579eae8af5b7a61289e88f681144ae7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "What soil samples can tell gardeners: What did the trial show?",
+          "options": {
+            "A": "numbers rose and fell with conditions",
+            "B": "late deliveries created a short sharp peak",
+            "C": "poor drainage explained the weakest area",
+            "D": "consistent timing made patterns easier to see"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f0cefa7fd5835a7d7c86ebb764dbc62b3f81cf039e4c7f3e4421538db2b9b7af"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "What soil samples can tell gardeners: What change followed the findings?",
+          "options": {
+            "A": "a seasonal record with clear limits",
+            "B": "talks about delivery times and routes",
+            "C": "a diary combining numbers and descriptions",
+            "D": "a drainage improvement in one test bed"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "f93e72c97c3725edaf805de2bc6f20619d3cfe32931a439880288047dd2e0c1e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "What soil samples can tell gardeners: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "small comparisons prevent costly assumptions",
+            "B": "repeated observations support careful claims",
+            "C": "measurement can clarify a disagreement",
+            "D": "good records need agreed methods and context"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8e3387d58f9eb9bba644b42cd859ea7f81d1240a1acfb9580893e0234449fd95"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the community science programme so visitors could understand its purpose.",
+      "options": {
+        "A": "distant",
+        "B": "clear",
+        "C": "silent",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f38a5c47874278907c68f6d29ff2fa806db68cf17f6e81a3518021464407b8f9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the community science programme can provide _____ before a final decision.",
+      "options": {
+        "A": "furniture",
+        "B": "weather",
+        "C": "evidence",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3c6ae78ca8b3439a24e232baff2310d32dcdf0cd1353ce17fe4367e2cf3cbbef"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the community science programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "interrupt",
+        "D": "describe"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "1e940742cf868a6be0a186cab12b40232eaa55f521110133216c380b4d927e89"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the community science programme was changed after the first public _____.",
+      "options": {
+        "A": "feedback",
+        "B": "departure",
+        "C": "harvest",
+        "D": "payment"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "091a58fe0049d19f411197cd80d6d944e247db2664f4f28a3e5a5bc2971041ba"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the community science programme.",
+      "options": {
+        "A": "fragile",
+        "B": "flexible",
+        "C": "empty",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a7a7e0a3fa0e531ac5aad7dfc4e9a31abe400639de54134c2ecac470be374ac7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the community science programme.",
+      "options": {
+        "A": "forget",
+        "B": "borrow",
+        "C": "check",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "8ec38bd9a2c2910d4109778624c7931b886d14a450eed972b337c86e76467ea4"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the community science programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "furniture",
+        "C": "competition",
+        "D": "information"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "cfdc99072b956237d1f8c09a28c3e602f31915ed000bcb1d3416e6206fa2899b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the community science programme more _____ to first-time users.",
+      "options": {
+        "A": "accessible",
+        "B": "distant",
+        "C": "expensive",
+        "D": "confusing"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "aa5d2504a624fc387238c1a3cc1dd03dc0786afe3bad2e6f9c5ab0ba1ee8bb80"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the community science programme with the neighbourhood.",
+      "options": {
+        "A": "remove",
+        "B": "share",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "fe189079786fdcc9330843373613c44355e222d85e90d2cd3bef8b1151e8b104"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the community science programme will consider both benefits and _____.",
+      "options": {
+        "A": "colours",
+        "B": "directions",
+        "C": "costs",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "89ec6ec0f67fe08f0b19ca28f8bd34131772c10110fab853b52b72ce4ebdf5e9"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the community science programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "having",
+        "D": "had"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "d473490289e9fe9224e8563a5690dcd221f0a009e486c685169de957db6086b4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community science programme _____ yesterday is available online.",
+      "options": {
+        "A": "published",
+        "B": "publishing",
+        "C": "publish",
+        "D": "to publish"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "193435c3a8b72e30d3b1b411ac58bfafc74f40157e28b669c594650cc0bcf3bb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the community science programme.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "804cf5a3c52bd4d65cdc4b68cd915eac3fcd1d09a171116791675e8f7a0197ab"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the community science programme.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "why",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "05fefe17f507408aca5b5dbdfb5a5620f6009774211d83f1af99902a565c955f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the community science programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "will learn",
+        "C": "is learning",
+        "D": "had learned"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5b9b757318e3f0c387bd5a007cd0503cb6cfaf49c5d3b42ad789faff7d7229c0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the community science programme.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "e5588f7ae9306068f1560c407f4b4e98c478485aaeac77af66509a59425cb1c4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the community science programme took place.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6a57bddf9d53e0e1976173915c05f54705e534f133925d417d02acb96a539dc6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the community science programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0b3307a94389623cdca445b449b684f72f1d40365b85c0f44aeace3f00920b0d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community science programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "was",
+        "D": "did"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "cb28171bab8bd53bc161a17a82dc4367111efb8d950b3f9410b314bc8d029570"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the community science programme, _____ their next decision can be.",
+      "options": {
+        "A": "the better",
+        "B": "better",
+        "C": "the best",
+        "D": "more good"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f9b89d7fddc4b638f1b2a6e7e643640be9aae2a734934aee01b3fca4ea092ae1"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPeople sometimes draw a strong conclusion from a single observation. A group of neighbours saw few birds in a garden one cold morning and worried that local species were disappearing. They decided to count birds every week at the same hour and to record the weather. The longer record showed numbers rising and falling with conditions. It did not prove that the environment was unchanged, but it gave the group a better basis for asking questions. Volunteers also invited a specialist to explain what their counts could show. Careful science includes repeated observations and an honest account of what remains uncertain.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意but表示的转折与what引导的宾语从句。",
+      "referenceAnswer": "人们有时会根据一次观察得出很强的结论。一群邻居在某个寒冷的早晨发现花园里鸟很少，担心当地鸟类正在消失。他们决定每周同一时间数鸟，并记录天气。较长时期的记录表明，数量会随条件变化。这并不能证明环境没有改变，却为团队提出问题提供了更好的依据。志愿者还请专家解释计数结果能说明什么。严谨的科学包括反复观察，也包括诚实说明尚不确定的部分。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "b3439e752206a5e1d937a5e506440ba224c531ab2be1c1229cdd024bfa3f86a2",
+      "referenceAnswerFingerprint": "86f19d1e41ee00405f8cc7a38d876627675ca1b5b75dadfc7ec099ab33fca110"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a science club proposing a careful bird-counting project in a public garden. Explain how volunteers should record observations and why one morning is not enough for a conclusion.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖固定观察方法、记录条件与审慎结论。",
+      "sampleAnswer": "Dear Club Members,\nI suggest a weekly bird count in the public garden from early spring to late summer. Volunteers should use the same observation points and begin at the same hour each week. We could provide a short guide to common local birds and ask new members to count with an experienced partner at first. The record sheet should include weather, time and any unusual disturbance near the garden.\nOne quiet morning should not make us claim that a species has disappeared. Birds may move because of cold weather or temporary food changes. After several months, we could compare the counts and ask a local specialist to help us interpret uncertain patterns. Publishing our method alongside the results would let other residents understand what our observations can and cannot show.\nYours sincerely,\nA volunteer",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "f9233aaf5f51de2d4596c502cf57932f66ba7fac2c7739fc27dadf27af0d8a86",
+      "sampleAnswerFingerprint": "62e68383c60933a0f6afd64c561a8bb717de7810da91bd120becc75de800ce36"
+    }
+  ],
+  "fingerprintManifest": [
+    "289265cbfef056c25f1f721118b2dab36d6eb51804e74fa3dbbfaca99f896a9e",
+    "d7db89033bdad8f60390d2f365287631be496c01e274c8af60817719dcf5d304",
+    "820e01b7eb312abe58562167f8e2f91c2c0db3274ef383e218642998b2335699",
+    "bda36cff48eb54230935a91089e1e1924d162d43de1688f611eb0001d0fd5a95",
+    "e931ac46a49c2ef7df3db51d35f91d86d9caf1ecdae5c8b91a0b4401d026d68a",
+    "48226b23a71121cd911fc39e7aaf80573e65bb0632196b347279af78d938546c",
+    "76b198b1d2ca99527ef08cbf3136ae77d4f0950893175fa7b7237e80757c1f0c",
+    "0f68946985faa19528bd252effd90495e2ed09b056c94e2a95f67cb135eefb1f",
+    "c7ebe8c7b436c6a7ef7cbf1b87546896f5b9f093ad3a2739e23828f119801e35",
+    "698c612191eff82f1bfce02c5968a83df12bca6ea30b705ae8a755c52b455745",
+    "8425e07a854e53fa2ae355ca80035c9dc1b622c0ad2fb7f3de6ccdd36f78382f",
+    "f10b916dcfa1f2a0b6713fd006a4718db0c42e2e7f0d556ecf3f7dd69061e98d",
+    "4619cf44dc2919c0ae7890cf1e3aff3e7c416d90b7dd98d2fd3b339bde94f363",
+    "c5114a49e1c6cc366c0eba73f80915f96a23754598307f2abedd5bc38a136390",
+    "f5f87bb0b20fb58cfc059a959249b9971215d9dada5886c531882f455c33eb42",
+    "1f66ca5ce8f801b9ccaec8d83305d4f66415e316e38b00d4787f7c3aee562173",
+    "1ca893d673d163edf15f3148ea19f0c669d1f7417807bfb0f8b65bfbe9759f57",
+    "6656398e1daebc530f0066a42856295da165d8dc7b7669ad91fcbb97a9263e8a",
+    "0f35afb427da3fa312368cbd8473051cf92bf6fee470102c47862a5b5a26bbbc",
+    "99f7cebdef9f69134b830a053b483cc4b4b846b715e0df6f773c72b0cba24b3b",
+    "0942ae234aed9445a3fb243d745a4badda5486d80201bd5daa52fae4dfcfb5c5",
+    "219d199d739082b0d94988e4f54b9681f0a5dab7076032d512bcbe54d8f98905",
+    "de62772663048d1fe9845cbfdb8cb8d3202ac917c7c39bd627038de69276c587",
+    "abaf82a3e759dc394ad25fd7450fc78a88eb53aafb049ff6f9da49ac63a6ba3b",
+    "c6165eadbb6fea54e13030df88c6da68ecba438b213d83dea2a4d43fc55066b3",
+    "20d10540239382d1b1049fa76db4f3d1e8d40c0e176d568b980ba2fd51b8ec5a",
+    "a5dc1f602ee5e61ad0b0c4983e71df7cf97d7f4ee193f69fd98d7a2facdc8414",
+    "2f4436be10952d06b9b37dc306cb370e8e953d4e8eedda6a70ff5560ee873e81",
+    "6a8b7394af8fefc4022615f6e15bbd79c7d26e2af76f3ba001f04a173e2f88ef",
+    "8fb7726e09aa4cd408b7c68e3f522d75801c6385ab0521f03c04fe051249a3f8",
+    "c3983c94d41cd13eb486ef2c1fe734b91626cbaf33acc7d9fa5ac0b244aea88d",
+    "72afa5b32630c6ef3be199c32cbbb88b725ec6e9454d344cddef5fb023cc0173",
+    "f1a07203f3ad155c71fea012925e8cbd2332f2cc996704eb806b7df47987dc46",
+    "6dc87b7dc6dfeee760a673d72fbc0639d579eae8af5b7a61289e88f681144ae7",
+    "f0cefa7fd5835a7d7c86ebb764dbc62b3f81cf039e4c7f3e4421538db2b9b7af",
+    "f93e72c97c3725edaf805de2bc6f20619d3cfe32931a439880288047dd2e0c1e",
+    "8e3387d58f9eb9bba644b42cd859ea7f81d1240a1acfb9580893e0234449fd95",
+    "f38a5c47874278907c68f6d29ff2fa806db68cf17f6e81a3518021464407b8f9",
+    "3c6ae78ca8b3439a24e232baff2310d32dcdf0cd1353ce17fe4367e2cf3cbbef",
+    "1e940742cf868a6be0a186cab12b40232eaa55f521110133216c380b4d927e89",
+    "091a58fe0049d19f411197cd80d6d944e247db2664f4f28a3e5a5bc2971041ba",
+    "a7a7e0a3fa0e531ac5aad7dfc4e9a31abe400639de54134c2ecac470be374ac7",
+    "8ec38bd9a2c2910d4109778624c7931b886d14a450eed972b337c86e76467ea4",
+    "cfdc99072b956237d1f8c09a28c3e602f31915ed000bcb1d3416e6206fa2899b",
+    "aa5d2504a624fc387238c1a3cc1dd03dc0786afe3bad2e6f9c5ab0ba1ee8bb80",
+    "fe189079786fdcc9330843373613c44355e222d85e90d2cd3bef8b1151e8b104",
+    "89ec6ec0f67fe08f0b19ca28f8bd34131772c10110fab853b52b72ce4ebdf5e9",
+    "d473490289e9fe9224e8563a5690dcd221f0a009e486c685169de957db6086b4",
+    "193435c3a8b72e30d3b1b411ac58bfafc74f40157e28b669c594650cc0bcf3bb",
+    "804cf5a3c52bd4d65cdc4b68cd915eac3fcd1d09a171116791675e8f7a0197ab",
+    "05fefe17f507408aca5b5dbdfb5a5620f6009774211d83f1af99902a565c955f",
+    "5b9b757318e3f0c387bd5a007cd0503cb6cfaf49c5d3b42ad789faff7d7229c0",
+    "e5588f7ae9306068f1560c407f4b4e98c478485aaeac77af66509a59425cb1c4",
+    "6a57bddf9d53e0e1976173915c05f54705e534f133925d417d02acb96a539dc6",
+    "0b3307a94389623cdca445b449b684f72f1d40365b85c0f44aeace3f00920b0d",
+    "cb28171bab8bd53bc161a17a82dc4367111efb8d950b3f9410b314bc8d029570",
+    "f9b89d7fddc4b638f1b2a6e7e643640be9aae2a734934aee01b3fca4ea092ae1",
+    "b3439e752206a5e1d937a5e506440ba224c531ab2be1c1229cdd024bfa3f86a2",
+    "86f19d1e41ee00405f8cc7a38d876627675ca1b5b75dadfc7ec099ab33fca110",
+    "f9233aaf5f51de2d4596c502cf57932f66ba7fac2c7739fc27dadf27af0d8a86",
+    "62e68383c60933a0f6afd64c561a8bb717de7810da91bd120becc75de800ce36"
+  ],
+  "contentFingerprint": "e22d8e047e524e947f017f4da1a3d52c46f84d17d3b2fc714710b8fddd15cd32"
+}

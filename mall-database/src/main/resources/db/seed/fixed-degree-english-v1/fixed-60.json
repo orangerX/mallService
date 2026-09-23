@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-60",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 60 · 艺术文化与社区参与",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 60,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the community arts programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to join the community arts programme. Where should I go?\nGuide: (1) _____\nVisitor: Do I have to register first?\nGuide: (2) _____\nVisitor: Is there a charge?\nGuide: (3) _____\nVisitor: Where can I read the results later?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Please meet at the arts centre foyer.",
+        "B": "Yes, send your name to the arts programme office before Friday.",
+        "C": "No, the community session is free of charge.",
+        "D": "A short report will appear on the public noticeboard."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "79f4c29fb6c70ae7fddc409447dbb893f437982b75c1b3c12005c5b76e0d3f90",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the community arts programme”, choose the response for blank (1).",
+          "options": {
+            "A": "Please meet at the arts centre foyer.",
+            "B": "Yes, send your name to the arts programme office before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "说明集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d335b6639c3b1cd4d6f9090935854f394631fda41a4773c5f90759238cc6b9a6"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the community arts programme”, choose the response for blank (2).",
+          "options": {
+            "A": "Please meet at the arts centre foyer.",
+            "B": "Yes, send your name to the arts programme office before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明报名方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "685b1a436e179f16984ea7dae213c0a2a84beccd270c5cf4d28a139c45073e32"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the community arts programme”, choose the response for blank (3).",
+          "options": {
+            "A": "Please meet at the arts centre foyer.",
+            "B": "Yes, send your name to the arts programme office before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明活动免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "867ccab5923ed675cf469d9c263d717f381c7c37b1821dfceac5fe9f1f866a1d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the community arts programme”, choose the response for blank (4).",
+          "options": {
+            "A": "Please meet at the arts centre foyer.",
+            "B": "Yes, send your name to the arts programme office before Friday.",
+            "C": "No, the community session is free of charge.",
+            "D": "A short report will appear on the public noticeboard."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明结果公布处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "245834e6986c2b0cd63490c087e78795ef12d88fe6f426e1f3e7886b6859ad2a"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Finding a resource for the community arts programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: I missed the introduction to the community arts programme. Is there a summary I can read?\nAssistant: (1) _____\nLearner: May I take it home?\nAssistant: (2) _____\nLearner: Who can answer a question afterward?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river is especially wide in winter.",
+        "B": "Yes, a short guide is available at the arts centre foyer.",
+        "C": "You may borrow a copy for one week.",
+        "D": "Please contact the arts programme office if anything is unclear."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "46ace702c8c3caa100a0361fe27dd71572483470ec4ddc1d5030719d0cd2c067",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Finding a resource for the community arts programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the arts centre foyer.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the arts programme office if anything is unclear."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指出指南领取处。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4e4148c0223a95838e645a2317f7eaf4b3686b9c9fce982fd27b1b57b9d2013d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Finding a resource for the community arts programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the arts centre foyer.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the arts programme office if anything is unclear."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明借阅期限。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a716629d0203c9671ef8248ca6c48aeee56d2f07eb934515e6d3bf859973e7a1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Finding a resource for the community arts programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The river is especially wide in winter.",
+            "B": "Yes, a short guide is available at the arts centre foyer.",
+            "C": "You may borrow a copy for one week.",
+            "D": "Please contact the arts programme office if anything is unclear."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "提供咨询渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "672d6539e3c9ea48c2e4752417510ce55b2e2082a5ed375e03c0d3df194cf95d"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a change to the community arts programme",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I noticed a problem with the community arts programme. Where should I report it?\nOfficer: (1) _____\nResident: What details should I include?\nOfficer: (2) _____\nResident: Will I know whether the report was useful?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The chairs in the arts centre foyer are blue.",
+        "B": "Please send a short message to the arts programme office.",
+        "C": "Describe where and when you noticed the problem.",
+        "D": "Yes, we will include an update in the next public summary."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "8ff1755ad91c7a94f907efc9ab2460dda538f2ad329eb9b497607e945bda83dd",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a change to the community arts programme”, choose the response for blank (1).",
+          "options": {
+            "A": "The chairs in the arts centre foyer are blue.",
+            "B": "Please send a short message to the arts programme office.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明问题反馈渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b6145b58f1d99eeeb4aaf2df85b9a34fbd56d7871303f6e4cc196e0921e1b34e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a change to the community arts programme”, choose the response for blank (2).",
+          "options": {
+            "A": "The chairs in the arts centre foyer are blue.",
+            "B": "Please send a short message to the arts programme office.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "要求提供时间地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ef9de2988c92c30772c9ea224ec652ca14046b538f1869e4d02e48b9b6c83a41"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a change to the community arts programme”, choose the response for blank (3).",
+          "options": {
+            "A": "The chairs in the arts centre foyer are blue.",
+            "B": "Please send a short message to the arts programme office.",
+            "C": "Describe where and when you noticed the problem.",
+            "D": "Yes, we will include an update in the next public summary."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明后续进度公开方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "7d4f5dbb7f8ebad8c0805fa366c1ae00dc49c652f782ad2d65ceb9d73cee803a"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A rehearsal room for more than one group",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A community music centre had one soundproof room and several groups who wanted it. The first booking calendar favoured people able to call during office hours. The central difficulty was limited access to popular evening slots. Workers with daytime jobs often learned about free times after another group had booked them. The organizers knew that a tidy plan in an office might not match what happened in an ordinary week.\n\nThe group first tried an online and paper booking trial. The centre released slots at a known time and accepted requests at the desk or through a simple online form. They therefore listened to people who used the place at different times, including those who seldom attended formal meetings.\n\nThe trial showed clear release times improved fairness. Different groups could plan ahead, although some still needed a regular hour to prepare for public performances. In response, the group adopted rotating priority for repeated bookings. Staff kept a small number of continuing sessions but rotated the most requested evening times among groups. The notes did not remove every disagreement, but they made the reasons for the next decision easier to explain.\n\nThe broader lesson was clear: shared spaces need transparent rules. The centre could not offer every group its preferred hour, but it could explain how decisions were made and revised. Keeping a record of small changes also helped the team distinguish a temporary setback from a lasting problem. For the people involved in a rehearsal room for more than one group, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社会生活"
+      ],
+      "contentFingerprint": "60305d394a699a3b00d52cf79a6429569d5fd7e94b4bbca55de29d53478fe591",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A rehearsal room for more than one group: What was the central difficulty?",
+          "options": {
+            "A": "limited access to popular evening slots",
+            "B": "a design covering a useful notice area",
+            "C": "uncertainty about where captions should appear",
+            "D": "labels that omitted how objects were made"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6ab87a3415b21c17569e323b089387b9962b2aec9164eb92d97da57f9da307b6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A rehearsal room for more than one group: What did the group first try?",
+          "options": {
+            "A": "walk-throughs and short drawing sessions",
+            "B": "an online and paper booking trial",
+            "C": "a caption trial from several seats",
+            "D": "short maker notes beside selected stalls"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "79fb8a606b3cd66ffb5e8b98f5d2a5c2661c615408b958de0364e75b7248721d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A rehearsal room for more than one group: What did the trial show?",
+          "options": {
+            "A": "the notice area mattered to many groups",
+            "B": "seat position changed the viewing experience",
+            "C": "clear release times improved fairness",
+            "D": "visitors asked more specific questions"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "261b0421fa7c147df031ccb2c50aaf1eba8c3caec625935f1ad03f5fa5c3c0f5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A rehearsal room for more than one group: What change followed the findings?",
+          "options": {
+            "A": "a mural framing a new noticeboard",
+            "B": "clear seat guidance and adjusted display",
+            "C": "optional demonstrations at set times",
+            "D": "rotating priority for repeated bookings"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "98fd7682e14e85ddaab51f58e0d46152a8c90e61b3283076e4e5e144c6bf3097"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A rehearsal room for more than one group: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "shared spaces need transparent rules",
+            "B": "public art can respect existing public uses",
+            "C": "access changes need real audience feedback",
+            "D": "context can deepen appreciation without pressure"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "aefbef52ed0eff9ec379acdba70ae0095d9488637423a5bd7d175cad20a0d3b4"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A mural planned with local residents",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "An artist was invited to paint a wall beside a busy square. The first sketch used colours residents liked but ignored how the wall was used. The central difficulty was a design covering a useful notice area. Community groups posted event information there, and removing that space would make ordinary announcements harder to find. A first impression was not enough to tell the whole story, because different people approached the service in different ways.\n\nThe group first tried walk-throughs and short drawing sessions. The artist asked residents what they wanted to keep, invited ideas from children and measured the part needed for public notices. The team compared comments with direct observations rather than assuming that the loudest opinion represented everyone.\n\nThe trial showed the notice area mattered to many groups. The artist learned that a practical surface could be part of the square’s identity rather than an obstacle to art. In response, the group adopted a mural framing a new noticeboard. The final design left clear space for announcements and used painted patterns to draw attention to them. Some suggestions were inexpensive, while others would have required a change to staffing or equipment.\n\nThe broader lesson was clear: public art can respect existing public uses. The project improved the wall without making a familiar community function disappear. The final proposal remained open to revision when new information became available. For the people involved in a mural planned with local residents, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作与学习"
+      ],
+      "contentFingerprint": "9fba88e480cdf41bb7be99bc783ab0eccb12a667d7fc1f5c34829a827690e866",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A mural planned with local residents: What was the central difficulty?",
+          "options": {
+            "A": "limited access to popular evening slots",
+            "B": "a design covering a useful notice area",
+            "C": "uncertainty about where captions should appear",
+            "D": "labels that omitted how objects were made"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2d8f8439a1ab2d91b52815a09e3e2ad53529742ca7576be232d53f16e86480fb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A mural planned with local residents: What did the group first try?",
+          "options": {
+            "A": "an online and paper booking trial",
+            "B": "a caption trial from several seats",
+            "C": "walk-throughs and short drawing sessions",
+            "D": "short maker notes beside selected stalls"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a2510fd457fcd6148a6e35103535d7307bdadc01e341355f27cd230c9266e11f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A mural planned with local residents: What did the trial show?",
+          "options": {
+            "A": "clear release times improved fairness",
+            "B": "seat position changed the viewing experience",
+            "C": "visitors asked more specific questions",
+            "D": "the notice area mattered to many groups"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "3c9d847f75143bfd63ce569bc92ada72d13e97568d0307fb0f7a91b6ec4be8ad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A mural planned with local residents: What change followed the findings?",
+          "options": {
+            "A": "a mural framing a new noticeboard",
+            "B": "rotating priority for repeated bookings",
+            "C": "clear seat guidance and adjusted display",
+            "D": "optional demonstrations at set times"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "02e676e96b0601f9abeb9a7d60cedac58289226da2ca5bcbdc92afd183861643"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A mural planned with local residents: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "shared spaces need transparent rules",
+            "B": "public art can respect existing public uses",
+            "C": "access changes need real audience feedback",
+            "D": "context can deepen appreciation without pressure"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a271a814a056e147ac69035fab9d0d334d9b7aed9ea59df87edaccd270b143e5"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Captions at a small theatre",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local theatre wanted more people to enjoy its performances. It considered captions but assumed they would distract the audience. The central difficulty was uncertainty about where captions should appear. A screen beside the stage helped some viewers but forced others to turn away from the actors. Several participants valued the original aim even though they questioned the first method chosen to reach it.\n\nThe group first tried a caption trial from several seats. Audience members with different hearing needs watched a short rehearsal and described what they could read comfortably. Short conversations after the activity revealed details that a written form had failed to capture.\n\nThe trial showed seat position changed the viewing experience. The same caption placement worked from the middle rows but not from seats close to the side wall. In response, the group adopted clear seat guidance and adjusted display. The theatre moved the screen slightly and identified seats from which both captions and performers were easy to see. The people responsible made their limits clear and invited others to describe any unintended effects.\n\nThe broader lesson was clear: access changes need real audience feedback. The team learned more from a rehearsal with viewers than from guessing what a screen might look like in an empty hall. This approach gave the group a practical basis for its next round of work. For the people involved in captions at a small theatre, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务"
+      ],
+      "contentFingerprint": "90b00b3b4dc0180010cbd6d8d57cb715eca0a74773e3dc313066b807415687c7",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Captions at a small theatre: What was the central difficulty?",
+          "options": {
+            "A": "limited access to popular evening slots",
+            "B": "a design covering a useful notice area",
+            "C": "uncertainty about where captions should appear",
+            "D": "labels that omitted how objects were made"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ee00832bb1cb96427adbe846c4ef15199517eb68dd2c437f9c8be89c2bdecebf"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Captions at a small theatre: What did the group first try?",
+          "options": {
+            "A": "an online and paper booking trial",
+            "B": "walk-throughs and short drawing sessions",
+            "C": "short maker notes beside selected stalls",
+            "D": "a caption trial from several seats"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6d20f85d219060926c3505555c0c7548d02e8c389e0ecdd47684753a5fa371ff"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Captions at a small theatre: What did the trial show?",
+          "options": {
+            "A": "seat position changed the viewing experience",
+            "B": "clear release times improved fairness",
+            "C": "the notice area mattered to many groups",
+            "D": "visitors asked more specific questions"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "677b04109f32e3f1d48c8cc0bde60161da041c5b48660230ce5f5634600b43f7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Captions at a small theatre: What change followed the findings?",
+          "options": {
+            "A": "rotating priority for repeated bookings",
+            "B": "clear seat guidance and adjusted display",
+            "C": "a mural framing a new noticeboard",
+            "D": "optional demonstrations at set times"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "30fb66f5fd40af3d845dd38a68f6cb160668a276d4bfda9234be1bbddf974090"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Captions at a small theatre: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "shared spaces need transparent rules",
+            "B": "public art can respect existing public uses",
+            "C": "access changes need real audience feedback",
+            "D": "context can deepen appreciation without pressure"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6b4b21583ee7da57c59cb9d870d9171b05867603222e6b0d24a0f9c5b65ebb9a"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A craft market tells makers stories",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A weekend craft market displayed handmade objects with prices but little other information. Visitors admired the work yet rarely spoke with makers. The central difficulty was labels that omitted how objects were made. Many buyers could not tell which materials were local or why a simple-looking item took several hours to finish. The project began on a small scale so that its organizers could learn before making a permanent commitment.\n\nThe group first tried short maker notes beside selected stalls. Sellers wrote two sentences about a technique or material and invited questions without requiring every visitor to start a conversation. They noted both benefits and costs, including the time that volunteers or staff needed to give.\n\nThe trial showed visitors asked more specific questions. The notes helped people notice details, although makers still wanted enough time to sell rather than explain continuously. In response, the group adopted optional demonstrations at set times. The market added brief demonstrations so interested visitors could learn more without interrupting each purchase. The public summary described what had changed and what questions had not yet been answered.\n\nThe broader lesson was clear: context can deepen appreciation without pressure. A short explanation connected objects to human work while leaving room for visitors to explore at their own pace. Readers could therefore judge the decision by its evidence rather than by a promise of perfect results. For the people involved in a craft market tells makers stories, the result was useful because it connected an everyday difficulty with a change they could see and discuss. No one claimed that a single trial could settle every question. The group planned to watch what happened over time and to explain any further changes openly. This careful pace mattered: people were more willing to support a decision when they understood which observations had shaped it and which concerns remained.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：一般性议题"
+      ],
+      "contentFingerprint": "4e33b62ec461fc03c8c4d4d6a5c7a3f95240cdde058e02d2082930489f3b91bd",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A craft market tells makers stories: What was the central difficulty?",
+          "options": {
+            "A": "limited access to popular evening slots",
+            "B": "a design covering a useful notice area",
+            "C": "uncertainty about where captions should appear",
+            "D": "labels that omitted how objects were made"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据开头的困难描述作答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "dccd03941959013e6096f03a426f09bb0410750641c748f9593213f512a1be67"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A craft market tells makers stories: What did the group first try?",
+          "options": {
+            "A": "short maker notes beside selected stalls",
+            "B": "an online and paper booking trial",
+            "C": "walk-throughs and short drawing sessions",
+            "D": "a caption trial from several seats"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "依据实施的初步方法作答。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6046433bb4f111f37557304aadbdf5cac30ed183dda2e00173ce5ceef8733d4c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A craft market tells makers stories: What did the trial show?",
+          "options": {
+            "A": "clear release times improved fairness",
+            "B": "visitors asked more specific questions",
+            "C": "the notice area mattered to many groups",
+            "D": "seat position changed the viewing experience"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "依据试行的发现作答。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "8b526c523053c064d42b817cfca7b4fd078ff0488df4006bb109f932e5fbbb93"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A craft market tells makers stories: What change followed the findings?",
+          "options": {
+            "A": "rotating priority for repeated bookings",
+            "B": "a mural framing a new noticeboard",
+            "C": "optional demonstrations at set times",
+            "D": "clear seat guidance and adjusted display"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "依据反馈后的调整作答。",
+          "knowledgePoints": [
+            "阅读理解：信息判断"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cd3824597fc08f873e2a64e5a01441b009127f702d994de432a77b3e0e431215"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A craft market tells makers stories: What broader lesson does the passage suggest?",
+          "options": {
+            "A": "shared spaces need transparent rules",
+            "B": "public art can respect existing public uses",
+            "C": "access changes need real audience feedback",
+            "D": "context can deepen appreciation without pressure"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "依据结尾的核心观点作答。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "95934193853888c38c7612b94710f941abe3964d438eac0b35b71487fc69ed1d"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The team needed a _____ description of the community arts programme so visitors could understand its purpose.",
+      "options": {
+        "A": "clear",
+        "B": "distant",
+        "C": "silent",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "clear表示清楚的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c7e45f05bd933745514167509a16333a025a71af3c30f186e77d5e150d9b5cca"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "A short trial of the community arts programme can provide _____ before a final decision.",
+      "options": {
+        "A": "furniture",
+        "B": "evidence",
+        "C": "weather",
+        "D": "colour"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "evidence表示证据。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "57274b56cde40e15d75851ca291acd5468ff366b930ab5d54da17a08669a335c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Staff asked residents to _____ their experiences with the community arts programme.",
+      "options": {
+        "A": "conceal",
+        "B": "replace",
+        "C": "describe",
+        "D": "interrupt"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "describe表示描述。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "47f7d7407ba3ec708689c2b0b2fe4fe186b799eb89ed5fc7eb2613c204480112"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The plan for the community arts programme was changed after the first public _____.",
+      "options": {
+        "A": "departure",
+        "B": "harvest",
+        "C": "payment",
+        "D": "feedback"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "feedback表示反馈。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b247c6cc51d846fbc7025e1c3ca6ce481ee15262d518db3bb7586d00ed6d5589"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A _____ schedule helped volunteers coordinate the community arts programme.",
+      "options": {
+        "A": "flexible",
+        "B": "fragile",
+        "C": "empty",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "flexible表示灵活的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8b73b1402aa4a4fb4953f6c8f3fb74be06b9320fccbd9894e71117bf86515a3f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The organizers would _____ the figures before publishing a report on the community arts programme.",
+      "options": {
+        "A": "forget",
+        "B": "check",
+        "C": "borrow",
+        "D": "hide"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "check表示核对。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f72069256fb253b677194412b40e6f336e52ee218e08cc9affcf7b87046c521d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The notice about the community arts programme gave a phone number for further _____.",
+      "options": {
+        "A": "permission",
+        "B": "furniture",
+        "C": "information",
+        "D": "competition"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "information表示信息。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a063833a4a4c2e6477140fa62c784b21cbb3ce2368dc3fdac85db6d1c1e74dc9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "A small change made the community arts programme more _____ to first-time users.",
+      "options": {
+        "A": "distant",
+        "B": "expensive",
+        "C": "confusing",
+        "D": "accessible"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "accessible表示易于使用的。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2299e37bc22b75a2f8729ad1e198d38f4ae4340afdf5c78d674a12fe7f75e82f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The group agreed to _____ the results of the community arts programme with the neighbourhood.",
+      "options": {
+        "A": "share",
+        "B": "remove",
+        "C": "delay",
+        "D": "conceal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "f35bc92426b5048101b9e02fe72f2a99841bb889b8c32ac06b36628878c4c7c5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The next review of the community arts programme will consider both benefits and _____.",
+      "options": {
+        "A": "colours",
+        "B": "costs",
+        "C": "directions",
+        "D": "visitors"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "costs表示成本。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a5e30a6f67ef9f19b34510b53301fa4e82c4fa869996c96341befb8c29982ced"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the team _____ more time, it would ask additional users about the community arts programme.",
+      "options": {
+        "A": "has",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与现在事实相反的条件句用过去式。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "89eb3700bca3fd832e6dac6bc759ef6062ece660e26eaebc9f4e44a919e1a9e7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The report on the community arts programme _____ yesterday is available online.",
+      "options": {
+        "A": "publishing",
+        "B": "publish",
+        "C": "to publish",
+        "D": "published"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "bfa85e6b4dc5677d8127f6b852d711901bae6b985945a8f6b868e9043b51311d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the leader nor the volunteers _____ absent from the meeting about the community arts programme.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，volunteers对应were。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "3377c72da343ce91b2de91dbeb8799944d8f4059b2c5f43f4376bb6603b15928"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The group explained _____ it had changed the plan for the community arts programme.",
+      "options": {
+        "A": "whose",
+        "B": "why",
+        "C": "whom",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "why引导原因宾语从句。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b51f018bb4e4600da7948dd262e35d3506eef59d3e08dcad31e35509c1426483"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the community arts programme ended, the team _____ several useful lessons.",
+      "options": {
+        "A": "learns",
+        "B": "will learn",
+        "C": "had learned",
+        "D": "is learning"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "过去完成时表示过去某时以前已发生。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2c84effb6896a88f3c59382d860de1fa759f7b7b4abecf20230611d97a5e2cf5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Staff wrote clear instructions so that everyone _____ use the community arts programme.",
+      "options": {
+        "A": "must",
+        "B": "ought",
+        "C": "shall",
+        "D": "could"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去语境的目的从句用could表能够。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "287d9282186c9353872f787b1eb19837e48fdd91a5ec4b5e2ce01ca35079b737"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ the first discussion of the community arts programme took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where在定语从句中作地点状语。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8410909372c8c4fc3dcde93e2e1b062377d44cea25fef0e93cf054ad416037b7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The committee will publish the result when the review of the community arts programme _____ complete.",
+      "options": {
+        "A": "will be",
+        "B": "is",
+        "C": "was",
+        "D": "being"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "时间从句中一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "01b680ecca39f74f3650a9442ca3b2153c328791b8a75be4423ef535a1a50940"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Only after the trial of the community arts programme ended _____ the committee make its decision.",
+      "options": {
+        "A": "does",
+        "B": "has",
+        "C": "did",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0c1e70f0af7bbfdf253033786b55f8db93f8710c374c0d9c31e1cebcdc94ebf7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more carefully people discuss the community arts programme, _____ their next decision can be.",
+      "options": {
+        "A": "better",
+        "B": "the best",
+        "C": "more good",
+        "D": "the better"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the better比较结构。",
+      "knowledgePoints": [
+        "语法：结构与意义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "75171b0c67f5ee78d7175ce5c6854d0ba8eb7f2c72fc2978cd9b49c66e806321"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPublic art can change how people notice a familiar place. When an artist planned a mural beside a town square, the first sketch covered a wall used for community notices. Residents liked the colours but wanted to keep a place for announcements. The artist held short drawing sessions and asked different groups what the wall meant to them. The final design framed a new noticeboard instead of replacing it. Visitors could enjoy the painting and still find information about local events. The project showed that listening to practical concerns does not limit creativity. It can help an artwork become part of the life around it.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意instead of和does not limit的准确表达。",
+      "referenceAnswer": "公共艺术能够改变人们看待熟悉地点的方式。一位艺术家计划在城镇广场旁绘制壁画时，初稿覆盖了一面用于张贴社区通知的墙。居民喜欢其中的色彩，却希望保留公告位置。艺术家组织了简短的绘画讨论，询问不同群体这面墙对他们意味着什么。最终设计把新公告栏作为画面的一部分，而没有取代它。访客既能欣赏画作，也能找到当地活动信息。项目表明，倾听实际顾虑不会限制创造力，反而能使艺术作品融入周围生活。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "25a24f464bdba11612b63396b8f7a6bd95972e67bcd4ad75f3bfe72081ee4250",
+      "referenceAnswerFingerprint": "28dcc7e4506d729b03c08d87cbf96db881b783e3f0c5913dd65eec87b6b17190"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to an arts committee proposing a mural for a community square. Explain how residents could contribute ideas and how the wall could still display local notices.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖居民参与和公告栏保留。",
+      "sampleAnswer": "Dear Arts Committee,\nI welcome the plan for a mural beside the square. Before a final design is chosen, the artist could hold two short drawing sessions at different times. Children, shopkeepers and older residents might notice different features of the place. People who cannot attend should be able to leave a written idea at the library. The artist can then explain which suggestions have shaped the design.\nThe wall currently carries useful notices, so I suggest building a clear noticeboard into the mural rather than removing it. Painted lines could guide visitors toward information about local events. We should measure the space needed for readable notices before work begins. After the mural is finished, the committee could ask whether both the artwork and the announcements are easy to enjoy and use.\nYours sincerely,\nA neighbour",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "0b7e50caf2f0f4c381c3c57c16b57e43d3b7bb23ec5d56109030337b7bd43440",
+      "sampleAnswerFingerprint": "f42256ac60cd3289e0a08b093f7a24a59a7c8c6cc758c7b4cebec4f76255abf2"
+    }
+  ],
+  "fingerprintManifest": [
+    "79f4c29fb6c70ae7fddc409447dbb893f437982b75c1b3c12005c5b76e0d3f90",
+    "d335b6639c3b1cd4d6f9090935854f394631fda41a4773c5f90759238cc6b9a6",
+    "685b1a436e179f16984ea7dae213c0a2a84beccd270c5cf4d28a139c45073e32",
+    "867ccab5923ed675cf469d9c263d717f381c7c37b1821dfceac5fe9f1f866a1d",
+    "245834e6986c2b0cd63490c087e78795ef12d88fe6f426e1f3e7886b6859ad2a",
+    "46ace702c8c3caa100a0361fe27dd71572483470ec4ddc1d5030719d0cd2c067",
+    "4e4148c0223a95838e645a2317f7eaf4b3686b9c9fce982fd27b1b57b9d2013d",
+    "a716629d0203c9671ef8248ca6c48aeee56d2f07eb934515e6d3bf859973e7a1",
+    "672d6539e3c9ea48c2e4752417510ce55b2e2082a5ed375e03c0d3df194cf95d",
+    "8ff1755ad91c7a94f907efc9ab2460dda538f2ad329eb9b497607e945bda83dd",
+    "b6145b58f1d99eeeb4aaf2df85b9a34fbd56d7871303f6e4cc196e0921e1b34e",
+    "ef9de2988c92c30772c9ea224ec652ca14046b538f1869e4d02e48b9b6c83a41",
+    "7d4f5dbb7f8ebad8c0805fa366c1ae00dc49c652f782ad2d65ceb9d73cee803a",
+    "60305d394a699a3b00d52cf79a6429569d5fd7e94b4bbca55de29d53478fe591",
+    "6ab87a3415b21c17569e323b089387b9962b2aec9164eb92d97da57f9da307b6",
+    "79fb8a606b3cd66ffb5e8b98f5d2a5c2661c615408b958de0364e75b7248721d",
+    "261b0421fa7c147df031ccb2c50aaf1eba8c3caec625935f1ad03f5fa5c3c0f5",
+    "98fd7682e14e85ddaab51f58e0d46152a8c90e61b3283076e4e5e144c6bf3097",
+    "aefbef52ed0eff9ec379acdba70ae0095d9488637423a5bd7d175cad20a0d3b4",
+    "9fba88e480cdf41bb7be99bc783ab0eccb12a667d7fc1f5c34829a827690e866",
+    "2d8f8439a1ab2d91b52815a09e3e2ad53529742ca7576be232d53f16e86480fb",
+    "a2510fd457fcd6148a6e35103535d7307bdadc01e341355f27cd230c9266e11f",
+    "3c9d847f75143bfd63ce569bc92ada72d13e97568d0307fb0f7a91b6ec4be8ad",
+    "02e676e96b0601f9abeb9a7d60cedac58289226da2ca5bcbdc92afd183861643",
+    "a271a814a056e147ac69035fab9d0d334d9b7aed9ea59df87edaccd270b143e5",
+    "90b00b3b4dc0180010cbd6d8d57cb715eca0a74773e3dc313066b807415687c7",
+    "ee00832bb1cb96427adbe846c4ef15199517eb68dd2c437f9c8be89c2bdecebf",
+    "6d20f85d219060926c3505555c0c7548d02e8c389e0ecdd47684753a5fa371ff",
+    "677b04109f32e3f1d48c8cc0bde60161da041c5b48660230ce5f5634600b43f7",
+    "30fb66f5fd40af3d845dd38a68f6cb160668a276d4bfda9234be1bbddf974090",
+    "6b4b21583ee7da57c59cb9d870d9171b05867603222e6b0d24a0f9c5b65ebb9a",
+    "4e33b62ec461fc03c8c4d4d6a5c7a3f95240cdde058e02d2082930489f3b91bd",
+    "dccd03941959013e6096f03a426f09bb0410750641c748f9593213f512a1be67",
+    "6046433bb4f111f37557304aadbdf5cac30ed183dda2e00173ce5ceef8733d4c",
+    "8b526c523053c064d42b817cfca7b4fd078ff0488df4006bb109f932e5fbbb93",
+    "cd3824597fc08f873e2a64e5a01441b009127f702d994de432a77b3e0e431215",
+    "95934193853888c38c7612b94710f941abe3964d438eac0b35b71487fc69ed1d",
+    "c7e45f05bd933745514167509a16333a025a71af3c30f186e77d5e150d9b5cca",
+    "57274b56cde40e15d75851ca291acd5468ff366b930ab5d54da17a08669a335c",
+    "47f7d7407ba3ec708689c2b0b2fe4fe186b799eb89ed5fc7eb2613c204480112",
+    "b247c6cc51d846fbc7025e1c3ca6ce481ee15262d518db3bb7586d00ed6d5589",
+    "8b73b1402aa4a4fb4953f6c8f3fb74be06b9320fccbd9894e71117bf86515a3f",
+    "f72069256fb253b677194412b40e6f336e52ee218e08cc9affcf7b87046c521d",
+    "a063833a4a4c2e6477140fa62c784b21cbb3ce2368dc3fdac85db6d1c1e74dc9",
+    "2299e37bc22b75a2f8729ad1e198d38f4ae4340afdf5c78d674a12fe7f75e82f",
+    "f35bc92426b5048101b9e02fe72f2a99841bb889b8c32ac06b36628878c4c7c5",
+    "a5e30a6f67ef9f19b34510b53301fa4e82c4fa869996c96341befb8c29982ced",
+    "89eb3700bca3fd832e6dac6bc759ef6062ece660e26eaebc9f4e44a919e1a9e7",
+    "bfa85e6b4dc5677d8127f6b852d711901bae6b985945a8f6b868e9043b51311d",
+    "3377c72da343ce91b2de91dbeb8799944d8f4059b2c5f43f4376bb6603b15928",
+    "b51f018bb4e4600da7948dd262e35d3506eef59d3e08dcad31e35509c1426483",
+    "2c84effb6896a88f3c59382d860de1fa759f7b7b4abecf20230611d97a5e2cf5",
+    "287d9282186c9353872f787b1eb19837e48fdd91a5ec4b5e2ce01ca35079b737",
+    "8410909372c8c4fc3dcde93e2e1b062377d44cea25fef0e93cf054ad416037b7",
+    "01b680ecca39f74f3650a9442ca3b2153c328791b8a75be4423ef535a1a50940",
+    "0c1e70f0af7bbfdf253033786b55f8db93f8710c374c0d9c31e1cebcdc94ebf7",
+    "75171b0c67f5ee78d7175ce5c6854d0ba8eb7f2c72fc2978cd9b49c66e806321",
+    "25a24f464bdba11612b63396b8f7a6bd95972e67bcd4ad75f3bfe72081ee4250",
+    "28dcc7e4506d729b03c08d87cbf96db881b783e3f0c5913dd65eec87b6b17190",
+    "0b7e50caf2f0f4c381c3c57c16b57e43d3b7bb23ec5d56109030337b7bd43440",
+    "f42256ac60cd3289e0a08b093f7a24a59a7c8c6cc758c7b4cebec4f76255abf2"
+  ],
+  "contentFingerprint": "75970bb97fe7250b8faff7b51751787e608329ace7e84bbfdc73f98516731cc2"
+}
