@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-101",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 101 · 日常学习与独立思考",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 101,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Reserving a book for an evening course",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: The book for my evening course is not on the shelf. Can I reserve it?\nLibrarian: (1) _____\nLearner: How long will it take to arrive?\nLibrarian: (2) _____\nLearner: Can someone else collect it for me?\nLibrarian: (3) _____\nLearner: How will I know it is ready?\nLibrarian: (4) _____",
+      "sharedOptions": {
+        "A": "Usually three working days, though we cannot promise an exact date.",
+        "B": "We will send a message to the address on your library account.",
+        "C": "Yes. Let me check whether another branch has a copy.",
+        "D": "Yes, if you give them your collection code."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "a3cd2f35f145557c66f865619229728d12c3914347c96bf105c74593efa8d7a9",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Reserving a book for an evening course”, choose the response for blank (1).",
+          "options": {
+            "A": "Usually three working days, though we cannot promise an exact date.",
+            "B": "We will send a message to the address on your library account.",
+            "C": "Yes. Let me check whether another branch has a copy.",
+            "D": "Yes, if you give them your collection code."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "询问能否预约，应先确认可以并查询其他分馆馆藏，选 C。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6963b6f6f7af66d982fe43e4583aa3415ffbde1ca6093340eedbcf5e44d65c0e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Reserving a book for an evening course”, choose the response for blank (2).",
+          "options": {
+            "A": "Usually three working days, though we cannot promise an exact date.",
+            "B": "We will send a message to the address on your library account.",
+            "C": "Yes. Let me check whether another branch has a copy.",
+            "D": "Yes, if you give them your collection code."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "how long 询问所需时间，three working days 对应回答，选 A。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ea4e170b903d3d83ff4e73926d390286dd4f181d06a2ebd0354adcf9a7471841"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Reserving a book for an evening course”, choose the response for blank (3).",
+          "options": {
+            "A": "Usually three working days, though we cannot promise an exact date.",
+            "B": "We will send a message to the address on your library account.",
+            "C": "Yes. Let me check whether another branch has a copy.",
+            "D": "Yes, if you give them your collection code."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "询问他人能否代取，应说明代取条件是提供取书码，选 D。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "1f5de6a4089d88c0baef381eedea40693de4216f7d4414aef9cbb3475d1f6e9d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Reserving a book for an evening course”, choose the response for blank (4).",
+          "options": {
+            "A": "Usually three working days, though we cannot promise an exact date.",
+            "B": "We will send a message to the address on your library account.",
+            "C": "Yes. Let me check whether another branch has a copy.",
+            "D": "Yes, if you give them your collection code."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "询问如何得知书已到馆，应回答通知方式，选 B。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a19a0b502cdc59d481ce18a2576c3b1174b4ba8209247858d2f92683c9d54af8"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Correcting a railway booking",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Passenger: I booked a ticket for Tuesday, but I need to travel on Wednesday.\nClerk: (1) _____\nPassenger: Will I have to pay anything extra?\nClerk: (2) _____\nPassenger: All right. Please change it to the same time on Wednesday.\nClerk: (3) _____",
+      "sharedOptions": {
+        "A": "The difference is five pounds; there is no separate change fee.",
+        "B": "The train left the station ten minutes ago.",
+        "C": "I can change the date if a seat is available.",
+        "D": "Certainly. Here is your updated ticket."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "2f81f68d474fac7d1c7b2856de6d1c0a69c6d99ae0acff32a7bee6252ebda571",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Correcting a railway booking”, choose the response for blank (1).",
+          "options": {
+            "A": "The difference is five pounds; there is no separate change fee.",
+            "B": "The train left the station ten minutes ago.",
+            "C": "I can change the date if a seat is available.",
+            "D": "Certainly. Here is your updated ticket."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "旅客要改日期，应回应有座位即可改签，选 C。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "dec6e092f9ab0e5071c3ca21d5a08d9cafb1bda6ec4583ce9247bb2baf82c820"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Correcting a railway booking”, choose the response for blank (2).",
+          "options": {
+            "A": "The difference is five pounds; there is no separate change fee.",
+            "B": "The train left the station ten minutes ago.",
+            "C": "I can change the date if a seat is available.",
+            "D": "Certainly. Here is your updated ticket."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问额外费用，五英镑差价且无单独改签费直接回答，选 A。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "edd4003ae69293c43d0b9bf82148bc11fc3643b5247f3ace38d6b11fda6cefe7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Correcting a railway booking”, choose the response for blank (3).",
+          "options": {
+            "A": "The difference is five pounds; there is no separate change fee.",
+            "B": "The train left the station ten minutes ago.",
+            "C": "I can change the date if a seat is available.",
+            "D": "Certainly. Here is your updated ticket."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "旅客确认改签后，工作人员应完成操作并给出新票，选 D。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "23234215be252b45f1c47e4aaa9f553e70d059ebd1926e4349201f48e41046a2"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Arranging a practice presentation",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Student: Could you listen to my practice presentation this week?\nColleague: (1) _____\nStudent: Thursday works. Would the small meeting room be suitable?\nColleague: (2) _____\nStudent: Should I send you the slides beforehand?\nColleague: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, it is quiet, and I can reserve it for us.",
+        "B": "I could spare half an hour after work on Thursday.",
+        "C": "Only if you want comments on the slides as well as the talk.",
+        "D": "The printed timetable is on the wall."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "bdc82774983a671616cf6b38543fcd52ab23b03ab6eaf47f4f934e40a53b7e8d",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Arranging a practice presentation”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, it is quiet, and I can reserve it for us.",
+            "B": "I could spare half an hour after work on Thursday.",
+            "C": "Only if you want comments on the slides as well as the talk.",
+            "D": "The printed timetable is on the wall."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文 Thursday works 承接周四下班后的时间提议，选 B。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "8d16b0100240db4e95d91f8ed545704fe1dfddf5f974c1492cf6938a71a6fc1c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Arranging a practice presentation”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, it is quiet, and I can reserve it for us.",
+            "B": "I could spare half an hour after work on Thursday.",
+            "C": "Only if you want comments on the slides as well as the talk.",
+            "D": "The printed timetable is on the wall."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问小会议室是否合适，安静且可预约给出肯定理由，选 A。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "7718408a87d56fbd0d3273da7eff7660a195f900d3fa297a8b2291a5aac4a2e5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Arranging a practice presentation”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, it is quiet, and I can reserve it for us.",
+            "B": "I could spare half an hour after work on Thursday.",
+            "C": "Only if you want comments on the slides as well as the talk.",
+            "D": "The printed timetable is on the wall."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "是否提前发幻灯片取决于是否也希望得到幻灯片反馈，选 C。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "489e4c4bf061254f1a5da1fdd9e7273a69e82228f473ac72f2b464322136b789"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A seat at the evening table",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On her first evening at the neighbourhood reading group, Lin chose the chair nearest the door. She had recently returned to study and worried that everyone else would have clever things to say. The group was discussing a short story about a woman who missed a train. Lin had read it twice, but when the leader asked for opinions, she kept her notebook closed.\n\nThe first speaker talked about the writer's style. Another compared the story with a novel Lin had never heard of. Then an older man asked a simple question: why had the woman arrived so early if she disliked waiting? Nobody answered immediately. Lin remembered a sentence in which the woman checked her watch before leaving home. She read it aloud and suggested that the character feared being late more than she disliked waiting.\n\nHer comment did not settle the question. Someone pointed to a different sentence, and the group considered another explanation. What surprised Lin was that disagreement did not end the conversation. It made everyone look more closely at the page. By the end of the evening, she had written down several questions instead of a list of correct answers.\n\nOn the bus home, Lin thought about the chair she had chosen. She had expected the group to reward people who knew the most books. Instead, one careful observation had given her a way to participate. She still wanted to learn the terms that other members used, but they no longer seemed like tickets she needed before entering the discussion.\n\nAt the next meeting, Lin sat farther from the door. When a new member apologised for having little experience, she opened her notebook. There was a question she had not been able to answer, and she wanted to know what the newcomer thought about it.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：学习经历与人物变化"
+      ],
+      "contentFingerprint": "4816a433c0a92f0a2755cc54f7ff2992a12cee001997c1e823a2e5a9d19a1c22",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A seat at the evening table: Why did Lin initially sit close to the door?",
+          "options": {
+            "A": "She expected to leave for work early.",
+            "B": "She lacked confidence about joining the discussion.",
+            "C": "She wanted to hear the leader clearly.",
+            "D": "She had promised to welcome late arrivals."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段说明 Lin 担心别人都很有见解，自己不敢发言；靠近门的座位表现出不自信，选 B。",
+          "knowledgePoints": [
+            "阅读理解：人物动机"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cea3a42603c1ba2a12c9812ca04e2fc9ba4cd95277df667d939d8a4461142e95"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A seat at the evening table: What enabled Lin to offer her first comment?",
+          "options": {
+            "A": "A reference to a novel she had studied.",
+            "B": "A correction supplied by the leader.",
+            "C": "A sentence she remembered from the story.",
+            "D": "A private conversation with the older man."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段中她想起主人公出门前看表的句子，并据此解释人物行为，选 C。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1dd637540f822b6450e77fcf113b9ce47eac52a1edb4ba412ac7d98c5ef1721a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A seat at the evening table: What does “settle the question” mean in paragraph 3?",
+          "options": {
+            "A": "Resolve the issue being discussed.",
+            "B": "Write the question in a notebook.",
+            "C": "Ask everyone to stop speaking.",
+            "D": "Move the discussion to another room."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "后文提出另一解释，说明她的意见没有最终解决问题；settle 在此意为解决，选 A。",
+          "knowledgePoints": [
+            "阅读理解：词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "13cc286022eb1c1007d3ddab3ec5f412a6094cc1eeec759fc1ab5b1cfc5ecefd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A seat at the evening table: What did Lin learn about disagreement?",
+          "options": {
+            "A": "It usually resulted from careless reading.",
+            "B": "It should be avoided by inexperienced readers.",
+            "C": "It showed that the group needed a better leader.",
+            "D": "It could encourage closer attention to a text."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第三段明确说分歧让大家更仔细地查看原文，选 D。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3a5ea5c9d8b4bf6cf90647b26f214263210a039f317610e761e1924918c2999f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A seat at the evening table: Which title best captures the central idea?",
+          "options": {
+            "A": "Why Every Reader Needs Literary Terms",
+            "B": "How Careful Attention Opens a Conversation",
+            "C": "The Advantages of Reading Alone",
+            "D": "A Method for Finding One Correct Answer"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文围绕 Lin 从不敢发言到凭细致观察参与讨论的转变，选 B；文章并未否定专业术语。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "55ad371a93eebcfec1e2ae0a7db417b0166c98f761311d6ae24877db5212e5e7"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The price of convenience",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When a small office began ordering lunches in reusable containers, the arrangement seemed simple. Meals arrived at noon, empty containers went into a box, and the delivery company collected them the next morning. The office expected to reduce the number of disposable packages in its bins without asking employees to change their routines very much.\n\nDuring the first month, however, containers regularly went missing. Some remained on desks; others were taken home and forgotten. The company charged a deposit for each one that was not returned. A manager suggested putting a large warning beside the collection box. An employee who often worked from home proposed a different explanation: the system assumed that everyone would be in the office on two consecutive days.\n\nThat detail changed the discussion. A person who bought lunch on Tuesday might not return until Friday. Keeping the container clean at home was possible, but remembering to carry it back required an extra step. The employees were not necessarily opposed to reuse. The return arrangement simply fitted some working patterns better than others.\n\nThe office moved the collection box beside the main exit and allowed returns throughout the week. The company agreed to collect less often, provided that enough containers were available for the next delivery. A brief reminder appeared in the ordering message, where people would see it before choosing lunch. Returns improved, although a few containers still had to be replaced.\n\nThe change involved a trade-off: more containers were needed to keep the system running. Yet the office considered that cost alongside the reduction in disposable packaging, rather than pretending that reuse was effortless. A convenient service can make a better habit easier, but convenience must be designed around the people who use it. Otherwise, a small forgotten task may defeat an attractive environmental promise.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：日常行为与服务设计"
+      ],
+      "contentFingerprint": "e5dc10f749d946276721759e7bf918e577f83d1d11b70d500ba1b322567b1606",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "The price of convenience: What had the office originally expected?",
+          "options": {
+            "A": "Employees would cook together every day.",
+            "B": "Lunch prices would fall immediately.",
+            "C": "Reusable packaging would require few changes in routine.",
+            "D": "The delivery company would stop collecting containers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "首段说办公室希望减少一次性包装，同时不明显改变员工日常安排，选 C。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "36c91d15be428cf46c41da66f97a5cdb02ae15b8fac3e73e8164c67063d910a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "The price of convenience: Why did the original return system inconvenience some employees?",
+          "options": {
+            "A": "They were not in the office on consecutive days.",
+            "B": "They were required to return containers at noon.",
+            "C": "The collection box was locked every morning.",
+            "D": "They were not allowed to wash containers at home."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二、三段指出制度默认员工连续两天到办公室，而居家办公者不符合这一安排，选 A。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "46fd1ff79fde2cf03d0ceb0d8a1907a4d259ebdfb0aacc37d23f88cf1c70b9cd"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "The price of convenience: Where was the reminder placed after the change?",
+          "options": {
+            "A": "On individual desks.",
+            "B": "Inside every returned container.",
+            "C": "At the delivery company entrance.",
+            "D": "In the message used to order lunch."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第四段说明提醒出现在订餐消息中，让人们点餐前就能看到，选 D。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "5018ce0818ffd18d998f0c92d2a3dca3274709e7476538d2cf206c47369aa5f2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "The price of convenience: What was the trade-off involved in the revised system?",
+          "options": {
+            "A": "The office had to stop offering lunch.",
+            "B": "A larger supply of containers was required.",
+            "C": "All employees had to attend on Fridays.",
+            "D": "Disposable packaging could no longer be measured."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段明确指出新安排需要更多容器维持周转，选 B。",
+          "knowledgePoints": [
+            "阅读理解：词义与细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "563a115eb73969d33bac4a9466ade3fa42c1840d27212e2315bd157c5f0b7d09"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "The price of convenience: What is the writer’s main argument?",
+          "options": {
+            "A": "Deposits always prevent people from losing objects.",
+            "B": "Environmental projects should avoid practical compromises.",
+            "C": "Sustainable services must fit the actual routines of users.",
+            "D": "Working from home makes reuse impossible."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结尾强调应围绕真实使用习惯设计便利性，文章也承认必要的成本权衡，选 C。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d6d9b73c6f2b5c410a4c90d863c1fe276e790126a249f6d7e40b38ceff014d85"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Directions remembered",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A geography teacher asked her adult students to try two ways of learning an unfamiliar route. Half the class studied a simple map for five minutes. The others received a sequence of written instructions, such as “turn left at the bakery”. Both groups then walked to a small public garden without using phones. A tutor accompanied each group, but offered help only if someone became lost.\n\nMost students reached the garden successfully. Those following the written instructions often arrived sooner because they did not pause to work out the direction of the next street. If the exercise had ended there, the teacher might have concluded that the instructions were the more useful tool. Instead, she asked everyone to explain how the garden was positioned in relation to the station.\n\nThe map readers generally found this second task easier. Several could describe streets they had not actually walked along. Some students who had followed instructions remembered the bakery clearly but could not say whether the station lay north or south of the garden. They had learned a sequence of actions rather than an overall arrangement of places.\n\nThe teacher warned against making too much of the result. The groups were small, and some students had more experience reading maps. The exercise did not prove that one method was always better. A visitor carrying heavy bags might reasonably prefer quick directions. Someone planning several journeys across the same area might benefit from seeing its wider layout.\n\nFor the final activity, students combined the two methods. They marked a route on a map and added short notes at difficult turns. This was not a competition between old and new ways of travelling. It was a reminder to choose information according to the task: reaching a place efficiently and understanding how places connect are related goals, but they are not identical.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：学习方法与证据判断"
+      ],
+      "contentFingerprint": "0a46f00cc38546f8752d67fb594497c90e12c556f49fd04162823a6d0f81e21a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Directions remembered: How did the two groups prepare for the journey?",
+          "options": {
+            "A": "They used different forms of route information.",
+            "B": "They visited different public gardens.",
+            "C": "They followed tutors throughout the walk.",
+            "D": "They were given unequal amounts of walking time."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "首段将地图与逐步文字指令作为两组的不同信息形式，选 A。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1cc53be34862d4b4745ced6d1b3065037c8dc97656ebc802ed23618e6ad551cb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Directions remembered: What did the second task ask students to do?",
+          "options": {
+            "A": "Recall the price of bread at the bakery.",
+            "B": "Find a faster route back to the classroom.",
+            "C": "Draw every building passed on the walk.",
+            "D": "Explain the relative locations of two places."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段询问花园与车站的位置关系，选 D。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "99574ff6aa410372b03e1b9cd373d3da07809a90ded60e7e91fec59367cb1c59"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Directions remembered: What does “making too much of the result” suggest here?",
+          "options": {
+            "A": "Recording the result too carefully.",
+            "B": "Drawing conclusions beyond what the evidence supports.",
+            "C": "Repeating the same exercise with another class.",
+            "D": "Spending too long explaining directions."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "后文提到样本小、地图经验不同，提醒不要过度推论，选 B。",
+          "knowledgePoints": [
+            "阅读理解：词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fecd6729b184c7a884fe945057c5d34cf76d445275050faf4a690d264a0336e7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Directions remembered: Why does the writer mention a visitor carrying heavy bags?",
+          "options": {
+            "A": "To show that maps are impossible to carry.",
+            "B": "To explain why the garden was difficult to reach.",
+            "C": "To illustrate a situation where direct instructions may be preferable.",
+            "D": "To suggest that the teacher should remove walking from the course."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第四段用携带重物的访客说明不同目标下快捷指路有其价值，选 C。",
+          "knowledgePoints": [
+            "阅读理解：举例作用"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a3bc3bd8b128addae30179c1ff805460ce817f1f4dc19c7e8a015fc8601b4c40"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Directions remembered: What did the final activity demonstrate?",
+          "options": {
+            "A": "Different information tools can support different goals.",
+            "B": "Map reading should replace all written directions.",
+            "C": "Students should memorise every street before travelling.",
+            "D": "The first group had followed the wrong route."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "学生结合地图和转弯提示，体现应按任务组合信息工具，选 A。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "cfeeb94c5ac6620bc12b13802baadb18232248cff4d4ef4b929ddc99f7da2011"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A useful silence",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "In many workplaces, a quick reply is treated as a sign of cooperation. Messages arrive throughout the day, and people answer them between other tasks. For simple questions, this can be useful. Yet a person preparing a careful report may find that a series of small interruptions consumes more attention than the messages themselves appear to require.\n\nAt one design office, employees were allowed to reserve two quiet hours each week. During that period, they could close their messaging application and put a small card on their desk. The card did not mean that colleagues were unwelcome. It showed when the employee expected to be available again and named another person who could handle urgent requests.\n\nThe arrangement initially worried some team members. They thought problems might remain unnoticed or that quiet hours would be used to avoid difficult conversations. To address these concerns, the office distinguished between urgent issues and matters that could wait. A broken delivery arrangement still required an immediate response; a suggestion about the next month's meeting usually did not. Teams could also choose different quiet periods so that someone remained available.\n\nAfter several weeks, staff described mixed results. Writers and designers valued the uninterrupted time, while reception staff had fewer opportunities to use it. The manager therefore asked each team to develop an equivalent way of protecting attention, rather than requiring identical schedules. Reception workers arranged short periods away from the desk for administrative tasks, with colleagues covering their places.\n\nThe aim was not to create a silent office or make rapid communication seem unimportant. It was to recognise that availability has a cost as well as a benefit. Cooperation sometimes means answering immediately; at other times, it means allowing a colleague to finish a demanding piece of work. Clear expectations help people tell the difference without interpreting every delayed reply as a refusal to help.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作沟通与观点论述"
+      ],
+      "contentFingerprint": "3bded40c39784b406e289bfabf6c27d9ec72db1385dafe5548eadde957059a29",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A useful silence: What problem is introduced in the opening paragraph?",
+          "options": {
+            "A": "Reports are becoming shorter than messages.",
+            "B": "Small interruptions can consume considerable attention.",
+            "C": "Employees never answer simple questions.",
+            "D": "Cooperation is unnecessary for individual work."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "首段指出许多看似短小的打断会占用完成复杂任务所需的注意力，选 B。",
+          "knowledgePoints": [
+            "阅读理解：主旨细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "e13ccb84b13fbfaf2b88b65457ef638dc9df354c729d5cfb21941d80308e50d3"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A useful silence: What information appeared on the desk card?",
+          "options": {
+            "A": "The employee’s weekly performance score.",
+            "B": "The names of colleagues who sent too many messages.",
+            "C": "Every task the employee expected to finish.",
+            "D": "A return time and an alternative urgent contact."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段说明卡片显示恢复联系的时间和可处理急事的另一联系人，选 D。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c4743afa93be329287a93af3809832b87467dfa68ed4a0c1c10bb5ae09c134b9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A useful silence: Why were different quiet periods allowed for different teams?",
+          "options": {
+            "A": "To keep someone available when help was needed.",
+            "B": "To prevent employees from knowing each other’s schedules.",
+            "C": "To replace all meetings with written messages.",
+            "D": "To make reception work less important."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段末尾说明错开安静时段可以保证有人保持可联系状态，选 A。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0a7ccc9117a89bd88abd6d879c9af948f4ad61963d940a1eab6477c63d2a1660"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A useful silence: What can be inferred from the treatment of reception staff?",
+          "options": {
+            "A": "They were excluded because their work required less care.",
+            "B": "They preferred administrative work to speaking with visitors.",
+            "C": "The same goal may require different working arrangements.",
+            "D": "Quiet periods worked only when every employee used them together."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第四段为接待人员设计轮流离岗处理行政事务的方式，说明统一目标不等于完全相同安排，选 C。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "bbd495093f839779af5cd800417d81d8405500ec199e75de650ab19b2b72e479"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A useful silence: Which statement would the writer most likely support?",
+          "options": {
+            "A": "Every message deserves an immediate answer.",
+            "B": "Cooperation includes respecting focused work.",
+            "C": "Urgent requests should wait until the next day.",
+            "D": "A silent workplace is always the most productive."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "末段将及时回应和保护同事专注都视为合作，应依任务区别对待，选 B。",
+          "knowledgePoints": [
+            "阅读理解：作者观点"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3a3ea598c1725ae693eafe366a798e3072fe17e0fb0a1afb3198188ce970cec3"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "Maya checked the final railway fare before making a _____ about which ticket to buy.",
+      "options": {
+        "A": "decision",
+        "B": "description",
+        "C": "discovery",
+        "D": "discussion"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "make a decision 表示作出决定；语境为比较票价后选择车票，选 A。",
+      "knowledgePoints": [
+        "词汇：固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "fc417a18f57ad33efeb7fdb8bff51aecb8b391169c4c98026b6884d52b4be103"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The editor asked for a more _____ example because the first one was too general.",
+      "options": {
+        "A": "previous",
+        "B": "temporary",
+        "C": "specific",
+        "D": "ordinary"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "与 too general 相对的是 specific，意为具体的，选 C。",
+      "knowledgePoints": [
+        "词汇：语境辨义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "701c546cee43cc7704b28855af23cc6120b484352cdd5839cce32e00546e49d5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "We had to _____ the outdoor discussion until Friday because the meeting place was flooded.",
+      "options": {
+        "A": "replace",
+        "B": "repeat",
+        "C": "reject",
+        "D": "postpone"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "postpone...until... 意为将某事推迟到某时，符合因场地被淹延期的语境，选 D。",
+      "knowledgePoints": [
+        "词汇：动词辨义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9a5e35c6f127b437bc173a93e391c10f567969de56ab77d1a5d5f956aeefe6a3"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The two accounts differ in detail, but their central message is _____.",
+      "options": {
+        "A": "remote",
+        "B": "similar",
+        "C": "private",
+        "D": "separate"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "but 构成转折：细节不同，核心信息相似，选 similar。",
+      "knowledgePoints": [
+        "词汇：逻辑关系"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a17c8a98acd05eae81785932267e263486eead9cf32c2cf4bd46b1b4018d304b"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A spare key is available in case the main entrance becomes _____.",
+      "options": {
+        "A": "inaccessible",
+        "B": "inexpensive",
+        "C": "independent",
+        "D": "inaccurate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "备用钥匙用于主要入口无法进入时，inaccessible 表示无法进入或到达，选 A。",
+      "knowledgePoints": [
+        "词汇：形容词辨义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "9dda9a939e2be8ff1cd0da7e6edcf8de752fb54b1903cf9d8d5e84873a8a8699"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Her careful notes made a valuable _____ to our understanding of the journey.",
+      "options": {
+        "A": "permission",
+        "B": "competition",
+        "C": "contribution",
+        "D": "condition"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "make a contribution to 为固定搭配，表示对……作出贡献，选 C。",
+      "knowledgePoints": [
+        "词汇：名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cd7be7d6fc1c8195f5b6f875dc9b208e42740aa35a5a8b4c6f1e03b55a0d3a78"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Although the first attempt failed, Tomas remained _____ to finish the model.",
+      "options": {
+        "A": "involved",
+        "B": "determined",
+        "C": "accustomed",
+        "D": "exposed"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "be determined to do 表示决心做某事，符合失败后仍坚持的语境，选 B。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f9fa33804f966aedf1a92dbba1641b2d582eda284475fd4b8e82abd46aa6164a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "Please keep the original receipt as _____ of payment for the replacement parts.",
+      "options": {
+        "A": "advice",
+        "B": "progress",
+        "C": "experience",
+        "D": "proof"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "proof of payment 表示付款凭证，receipt 可作为该凭证，选 D。",
+      "knowledgePoints": [
+        "词汇：名词辨义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "935cb842690e2071e361b44e46f829c364950ca2c40b880d72e89d7e413755e5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The revised timetable _____ passengers to make a connection without rushing.",
+      "options": {
+        "A": "enables",
+        "B": "avoids",
+        "C": "suggests",
+        "D": "prevents"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "enable somebody to do 表示使某人能够做；prevent 的结构和含义均不合，选 A。",
+      "knowledgePoints": [
+        "词汇：动词结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "96eee8c97c8d01076badff067248808498450e284ad1ebb990a5d8ae09b56286"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The workshop was so _____ that I used its ideas in a report the very next day.",
+      "options": {
+        "A": "formal",
+        "B": "distant",
+        "C": "practical",
+        "D": "occasional"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "第二天就能应用所学说明课程实用，practical 符合语境，选 C。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2724b25c5c77ea7af7ba2f38a3e822b5ffac53c2ad56a0bdf210562b61c6588d"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "The reading circle has welcomed new members every month since it _____ last autumn.",
+      "options": {
+        "A": "begins",
+        "B": "began",
+        "C": "has begun",
+        "D": "will begin"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "主句现在完成时，since 引导从句用一般过去时说明起点，选 began。",
+      "knowledgePoints": [
+        "语法：时态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "16038d8e3f1cd1da8b8d697347a44be629701ae4734128a64029df5eaf017bfc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The colleague _____ notebook I borrowed has already left for the station.",
+      "options": {
+        "A": "whom",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "先行词 colleague 与 notebook 是所属关系，应用 whose 作定语，选 D。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "83b66f24806e7c012a7ce1335fdc98ff009dcbe9bbf394005f66a1e0a8e2849e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Before _____ the application, read the instructions on the final page.",
+      "options": {
+        "A": "signing",
+        "B": "signed",
+        "C": "sign",
+        "D": "to sign"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "before 在此为介词，后接动名词 signing，选 A。",
+      "knowledgePoints": [
+        "语法：非谓语动词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b7d05a86c70cec3a6e1c0db93ad35113a501637dd2d601585aac8e50189f4444"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The parcel _____ to the wrong branch yesterday and will be collected this afternoon.",
+      "options": {
+        "A": "sent",
+        "B": "has sent",
+        "C": "was sent",
+        "D": "is sending"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "parcel 是被寄送，yesterday 要求一般过去时被动语态，选 C。",
+      "knowledgePoints": [
+        "语法：被动语态"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ff9c1c5fe9e3f984b5b21b6550fd4e9f2791e24273096a9603ec8daee19846a6"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "If Elena had read the updated message, she _____ at the old meeting place.",
+      "options": {
+        "A": "will not wait",
+        "B": "would not have waited",
+        "C": "does not wait",
+        "D": "did not wait"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与过去事实相反的虚拟条件句，主句用 would have done，选 B。",
+      "knowledgePoints": [
+        "语法：虚拟语气"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "59694c5cba6836e0cb97004d0f37de94ef735cbf301bb24c10c436e283e3ef07"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Hardly had the guide finished speaking _____ the visitors began asking questions.",
+      "options": {
+        "A": "than",
+        "B": "that",
+        "C": "while",
+        "D": "when"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "hardly...when... 为固定结构，表示刚……就……，选 D。",
+      "knowledgePoints": [
+        "语法：关联结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "531fbfa6dbd8083ea1688e88015e1f1365398e0bb85711d406aeccaa38f1581d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "There is little point in buying a larger bag _____ you need the extra space.",
+      "options": {
+        "A": "unless",
+        "B": "although",
+        "C": "because",
+        "D": "while"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "除非确实需要额外空间，否则购买更大的包意义不大，选 unless。",
+      "knowledgePoints": [
+        "语法：条件状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "4d5e5a548f143a8da290e92c3788b297523b05632fe3200727c89f04a3a8aa01"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Neither of the two suggested routes _____ suitable for a visitor using a wheelchair.",
+      "options": {
+        "A": "are",
+        "B": "have been",
+        "C": "is",
+        "D": "were"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "正式书面语中 neither of... 作主语，谓语用单数；四项中 is 合适，选 C。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2f754473b71e277033a80ea04d990fa2a48282ac4a70fc1db87e27089e49670b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The instructions were written _____ clearly that even first-time users could follow them.",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "too",
+        "D": "enough"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so+副词+that 引导结果状语从句，选 so。",
+      "knowledgePoints": [
+        "语法：结果状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "0e64110840fb7ed94e11c2a9fbbe05a12f4991f1ec946c384bfb0ba466a92e28"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "I would rather you _____ my draft before discussing it with the group tomorrow.",
+      "options": {
+        "A": "read",
+        "B": "will read",
+        "C": "have read",
+        "D": "reading"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "would rather+主语+过去式表示希望某人现在或将来做某事，read 的过去式拼写仍为 read，选 A。",
+      "knowledgePoints": [
+        "语法：虚拟表达"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "675c9700ecfaef42f2adb58cfce41f2e2ca9653219aa0e0110641e1b77243b32"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nPeople often describe curiosity as a personal quality, but the setting in which we learn also matters. A question may remain unasked when a learner expects an impatient reply. In a welcoming discussion, the same question can reveal a difficulty shared by several people. This does not mean that every idea is equally convincing. Participants still need to explain their reasons and pay attention to evidence. The aim is to make uncertainty a useful starting point rather than something to hide. When people can admit what they do not understand, they give themselves and others a better chance to learn something new.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "参考译文供自评。注意 setting 指学习环境，shared by several people 修饰 difficulty，rather than 连接两种对待不确定性的态度。按意义完整、语言准确和表达自然评分。",
+      "referenceAnswer": "人们常把好奇心描述为一种个人品质，但我们所处的学习环境也很重要。如果学习者预料会得到不耐烦的回答，一个问题就可能始终没有被提出。在友好的讨论中，同一个问题可能揭示好几个人共有的困惑。这并不意味着每一种想法都同样令人信服。参与者仍须说明理由，并重视证据。目的在于让不确定性成为有用的起点，而不是需要掩饰的东西。当人们能够承认自己不懂什么时，也就让自己和他人更有机会学到新知识。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "2ad93b4485713f1a6ac5281e32fcfc92496289fcac796f296d3de5fe4c4a1505",
+      "referenceAnswerFingerprint": "a54055e289948e25732946257a54539357823c29dc1813e32e6c89f8af7a1bf7"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to invite a colleague to a lunchtime learning group. Explain the purpose of the group, describe what participants will do, and make clear how someone with little experience can join.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖活动目的、时间地点、参与方式和对新成员的支持，供考生依任务完成、组织连贯与语言运用三项自评。",
+      "sampleAnswer": "Dear Alex,\nI would like to invite you to our lunchtime learning group next Wednesday. We meet in the small conference room from twelve thirty to one. The purpose is to share useful ideas from everyday work and discuss questions that we have not yet solved.\nAt the next meeting, each person can bring a short example of something they have learned recently. We will spend a few minutes listening, then ask questions and compare different approaches. You do not need to prepare a formal presentation or have any special knowledge. If you prefer, you can simply listen at your first meeting.\nI remember you mentioning a difficulty with organising project notes, and your experience could give us a valuable starting point. Please let me know if you would like to come.\nBest wishes,\nChris",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "3370e8094e5ce1598f9fa4c3bfe6abb5e911727e1b8b477a9c042d9ff01be9f4",
+      "sampleAnswerFingerprint": "50649158f4fd2d2def70792925f9bbe97dda742e887f7f3686070208be42d607"
+    }
+  ],
+  "fingerprintManifest": [
+    "a3cd2f35f145557c66f865619229728d12c3914347c96bf105c74593efa8d7a9",
+    "6963b6f6f7af66d982fe43e4583aa3415ffbde1ca6093340eedbcf5e44d65c0e",
+    "ea4e170b903d3d83ff4e73926d390286dd4f181d06a2ebd0354adcf9a7471841",
+    "1f5de6a4089d88c0baef381eedea40693de4216f7d4414aef9cbb3475d1f6e9d",
+    "a19a0b502cdc59d481ce18a2576c3b1174b4ba8209247858d2f92683c9d54af8",
+    "2f81f68d474fac7d1c7b2856de6d1c0a69c6d99ae0acff32a7bee6252ebda571",
+    "dec6e092f9ab0e5071c3ca21d5a08d9cafb1bda6ec4583ce9247bb2baf82c820",
+    "edd4003ae69293c43d0b9bf82148bc11fc3643b5247f3ace38d6b11fda6cefe7",
+    "23234215be252b45f1c47e4aaa9f553e70d059ebd1926e4349201f48e41046a2",
+    "bdc82774983a671616cf6b38543fcd52ab23b03ab6eaf47f4f934e40a53b7e8d",
+    "8d16b0100240db4e95d91f8ed545704fe1dfddf5f974c1492cf6938a71a6fc1c",
+    "7718408a87d56fbd0d3273da7eff7660a195f900d3fa297a8b2291a5aac4a2e5",
+    "489e4c4bf061254f1a5da1fdd9e7273a69e82228f473ac72f2b464322136b789",
+    "4816a433c0a92f0a2755cc54f7ff2992a12cee001997c1e823a2e5a9d19a1c22",
+    "cea3a42603c1ba2a12c9812ca04e2fc9ba4cd95277df667d939d8a4461142e95",
+    "1dd637540f822b6450e77fcf113b9ce47eac52a1edb4ba412ac7d98c5ef1721a",
+    "13cc286022eb1c1007d3ddab3ec5f412a6094cc1eeec759fc1ab5b1cfc5ecefd",
+    "3a5ea5c9d8b4bf6cf90647b26f214263210a039f317610e761e1924918c2999f",
+    "55ad371a93eebcfec1e2ae0a7db417b0166c98f761311d6ae24877db5212e5e7",
+    "e5dc10f749d946276721759e7bf918e577f83d1d11b70d500ba1b322567b1606",
+    "36c91d15be428cf46c41da66f97a5cdb02ae15b8fac3e73e8164c67063d910a2",
+    "46fd1ff79fde2cf03d0ceb0d8a1907a4d259ebdfb0aacc37d23f88cf1c70b9cd",
+    "5018ce0818ffd18d998f0c92d2a3dca3274709e7476538d2cf206c47369aa5f2",
+    "563a115eb73969d33bac4a9466ade3fa42c1840d27212e2315bd157c5f0b7d09",
+    "d6d9b73c6f2b5c410a4c90d863c1fe276e790126a249f6d7e40b38ceff014d85",
+    "0a46f00cc38546f8752d67fb594497c90e12c556f49fd04162823a6d0f81e21a",
+    "1cc53be34862d4b4745ced6d1b3065037c8dc97656ebc802ed23618e6ad551cb",
+    "99574ff6aa410372b03e1b9cd373d3da07809a90ded60e7e91fec59367cb1c59",
+    "fecd6729b184c7a884fe945057c5d34cf76d445275050faf4a690d264a0336e7",
+    "a3bc3bd8b128addae30179c1ff805460ce817f1f4dc19c7e8a015fc8601b4c40",
+    "cfeeb94c5ac6620bc12b13802baadb18232248cff4d4ef4b929ddc99f7da2011",
+    "3bded40c39784b406e289bfabf6c27d9ec72db1385dafe5548eadde957059a29",
+    "e13ccb84b13fbfaf2b88b65457ef638dc9df354c729d5cfb21941d80308e50d3",
+    "c4743afa93be329287a93af3809832b87467dfa68ed4a0c1c10bb5ae09c134b9",
+    "0a7ccc9117a89bd88abd6d879c9af948f4ad61963d940a1eab6477c63d2a1660",
+    "bbd495093f839779af5cd800417d81d8405500ec199e75de650ab19b2b72e479",
+    "3a3ea598c1725ae693eafe366a798e3072fe17e0fb0a1afb3198188ce970cec3",
+    "fc417a18f57ad33efeb7fdb8bff51aecb8b391169c4c98026b6884d52b4be103",
+    "701c546cee43cc7704b28855af23cc6120b484352cdd5839cce32e00546e49d5",
+    "9a5e35c6f127b437bc173a93e391c10f567969de56ab77d1a5d5f956aeefe6a3",
+    "a17c8a98acd05eae81785932267e263486eead9cf32c2cf4bd46b1b4018d304b",
+    "9dda9a939e2be8ff1cd0da7e6edcf8de752fb54b1903cf9d8d5e84873a8a8699",
+    "cd7be7d6fc1c8195f5b6f875dc9b208e42740aa35a5a8b4c6f1e03b55a0d3a78",
+    "f9fa33804f966aedf1a92dbba1641b2d582eda284475fd4b8e82abd46aa6164a",
+    "935cb842690e2071e361b44e46f829c364950ca2c40b880d72e89d7e413755e5",
+    "96eee8c97c8d01076badff067248808498450e284ad1ebb990a5d8ae09b56286",
+    "2724b25c5c77ea7af7ba2f38a3e822b5ffac53c2ad56a0bdf210562b61c6588d",
+    "16038d8e3f1cd1da8b8d697347a44be629701ae4734128a64029df5eaf017bfc",
+    "83b66f24806e7c012a7ce1335fdc98ff009dcbe9bbf394005f66a1e0a8e2849e",
+    "b7d05a86c70cec3a6e1c0db93ad35113a501637dd2d601585aac8e50189f4444",
+    "ff9c1c5fe9e3f984b5b21b6550fd4e9f2791e24273096a9603ec8daee19846a6",
+    "59694c5cba6836e0cb97004d0f37de94ef735cbf301bb24c10c436e283e3ef07",
+    "531fbfa6dbd8083ea1688e88015e1f1365398e0bb85711d406aeccaa38f1581d",
+    "4d5e5a548f143a8da290e92c3788b297523b05632fe3200727c89f04a3a8aa01",
+    "2f754473b71e277033a80ea04d990fa2a48282ac4a70fc1db87e27089e49670b",
+    "0e64110840fb7ed94e11c2a9fbbe05a12f4991f1ec946c384bfb0ba466a92e28",
+    "675c9700ecfaef42f2adb58cfce41f2e2ca9653219aa0e0110641e1b77243b32",
+    "2ad93b4485713f1a6ac5281e32fcfc92496289fcac796f296d3de5fe4c4a1505",
+    "a54055e289948e25732946257a54539357823c29dc1813e32e6c89f8af7a1bf7",
+    "3370e8094e5ce1598f9fa4c3bfe6abb5e911727e1b8b477a9c042d9ff01be9f4",
+    "50649158f4fd2d2def70792925f9bbe97dda742e887f7f3686070208be42d607"
+  ],
+  "contentFingerprint": "d851d96f164c54e6ef445dec37499894b89275ef250513611b66a84cc7696c22"
+}

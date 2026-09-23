@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-102",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 102 · 学习节奏与人际连接",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 102,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining the Saturday story circle",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Mina: I saw your notice about the Saturday story circle. Must I prepare a speech?\nOrganizer: (1) _____\nMina: That sounds less frightening. How many people usually come?\nOrganizer: (2) _____\nMina: May I bring a photograph to help me tell my story?\nOrganizer: (3) _____\nMina: Wonderful. Where should I meet everyone?\nOrganizer: (4) _____",
+      "sharedOptions": {
+        "A": "Usually about eight, so everyone has time to speak.",
+        "B": "In the small reading room, next to the main entrance.",
+        "C": "Certainly. An object or picture can be a useful starting point.",
+        "D": "No. You can simply listen until you feel ready to join in."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "53bde6d6bf8c92d14402f3c91dc176f206d5b28f90bb6fa9609fdc88115ebe29",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining the Saturday story circle”, choose the response for blank (1).",
+          "options": {
+            "A": "Usually about eight, so everyone has time to speak.",
+            "B": "In the small reading room, next to the main entrance.",
+            "C": "Certainly. An object or picture can be a useful starting point.",
+            "D": "No. You can simply listen until you feel ready to join in."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问句询问是否必须准备演讲，D明确表示不用，也可以先倾听，与下句“不那么害怕了”衔接。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "d2740e5d69465e3134eedfcf74fc340ed75cc236ffbd4fbcda748861a5278b0e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining the Saturday story circle”, choose the response for blank (2).",
+          "options": {
+            "A": "Usually about eight, so everyone has time to speak.",
+            "B": "In the small reading room, next to the main entrance.",
+            "C": "Certainly. An object or picture can be a useful starting point.",
+            "D": "No. You can simply listen until you feel ready to join in."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问句询问通常有多少人参加，A用about eight直接回答人数。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "dd5f5ab63afe2462d055af00a24073cf9f69828a20da78fa457d7cddc892957e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining the Saturday story circle”, choose the response for blank (3).",
+          "options": {
+            "A": "Usually about eight, so everyone has time to speak.",
+            "B": "In the small reading room, next to the main entrance.",
+            "C": "Certainly. An object or picture can be a useful starting point.",
+            "D": "No. You can simply listen until you feel ready to join in."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问句询问能否带照片，C肯定这一请求，并说明物品或照片可以帮助开头。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "987f386deeafd0617f9e057f59aab0439d3236ce51ff542408f51fa65c3b001d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining the Saturday story circle”, choose the response for blank (4).",
+          "options": {
+            "A": "Usually about eight, so everyone has time to speak.",
+            "B": "In the small reading room, next to the main entrance.",
+            "C": "Certainly. An object or picture can be a useful starting point.",
+            "D": "No. You can simply listen until you feel ready to join in."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "问句询问集合地点，B给出靠近主入口的小阅览室。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "065237fd6c9f5ae000166e6048d8eaf56098e779ed339047be4ffa24781dcbb7"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Arranging a learning partnership",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Joel: I work late on Mondays. Could we move our vocabulary practice to Wednesday?\nSara: (1) _____\nJoel: Half past seven is ideal. Shall we study twenty new words each time?\nSara: (2) _____\nJoel: Good point. Ten words and some review will be enough. How should we keep track of difficult words?\nSara: (3) _____",
+      "sharedOptions": {
+        "A": "Let us write them in a shared notebook and return to them next time.",
+        "B": "Wednesday works for me. Would half past seven suit you?",
+        "C": "I have already returned the dictionary to the library.",
+        "D": "Perhaps ten would be better if we also review last week's words."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "0118def05fdefdb72c44614d5c00cdaa3f2164d2ffe4f2ca092b7eba27ccdb00",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Arranging a learning partnership”, choose the response for blank (1).",
+          "options": {
+            "A": "Let us write them in a shared notebook and return to them next time.",
+            "B": "Wednesday works for me. Would half past seven suit you?",
+            "C": "I have already returned the dictionary to the library.",
+            "D": "Perhaps ten would be better if we also review last week's words."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "Joel提出改到周三，B接受日期并提出七点半，下句正好确认这一时间。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "fef3b26591e17ee9645439a8c6ac9444db29acec6eee6b4544c2771cedec0b46"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Arranging a learning partnership”, choose the response for blank (2).",
+          "options": {
+            "A": "Let us write them in a shared notebook and return to them next time.",
+            "B": "Wednesday works for me. Would half past seven suit you?",
+            "C": "I have already returned the dictionary to the library.",
+            "D": "Perhaps ten would be better if we also review last week's words."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "D建议减少到十个并复习旧词，与Joel随后接受的方案一致。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "a30cccc2c9180394725a79d406fca7e0589541d46ced59b02a5423930b4ad74f"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Arranging a learning partnership”, choose the response for blank (3).",
+          "options": {
+            "A": "Let us write them in a shared notebook and return to them next time.",
+            "B": "Wednesday works for me. Would half past seven suit you?",
+            "C": "I have already returned the dictionary to the library.",
+            "D": "Perhaps ten would be better if we also review last week's words."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问句询问如何记录难词，A提出共享笔记本及下次复习的具体办法。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "be55b7516908c02c7b8f15f5c4966cc0434a0b5ec8c20075768775be1502c282"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Borrowing a recording kit",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Student: I would like to borrow a recorder for an interview with my grandfather.\nAssistant: (1) _____\nStudent: Two days should be enough. Does the kit include a microphone?\nAssistant: (2) _____\nStudent: Thanks. What should I do before returning it?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, and there is a short cable in the side pocket.",
+        "B": "The exhibition opens to the public next month.",
+        "C": "Copy your recording, remove your files, and charge the battery.",
+        "D": "Certainly. How long will you need it?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "19b9f4e7472c7a5d6db643969a9644de5ad19fceaa485567ce8c4041fbd0fb4e",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Borrowing a recording kit”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, and there is a short cable in the side pocket.",
+            "B": "The exhibition opens to the public next month.",
+            "C": "Copy your recording, remove your files, and charge the battery.",
+            "D": "Certainly. How long will you need it?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "下句回答需要两天，说明此处应询问借用时长，D符合。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "2644bd19db19b0b642e163d6fd2990f3f6f48f6482caf7145c0b6e419e8180d2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Borrowing a recording kit”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, and there is a short cable in the side pocket.",
+            "B": "The exhibition opens to the public next month.",
+            "C": "Copy your recording, remove your files, and charge the battery.",
+            "D": "Certainly. How long will you need it?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问句询问是否有麦克风，A肯定回答并补充线缆位置。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6368ed6ba86cff0a1db9ca98f261d240e2f4c6e074106eb4f668ceebc63c8540"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Borrowing a recording kit”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, and there is a short cable in the side pocket.",
+            "B": "The exhibition opens to the public next month.",
+            "C": "Copy your recording, remove your files, and charge the battery.",
+            "D": "Certainly. How long will you need it?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "问句询问归还前应做什么，C给出备份、删除个人文件和充电的步骤。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "ccd578536548808eb4477618e61a9fa14f751c4c8590d646d2369d7d1561beb5"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "A Seat by the Window",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When Leena moved to a coastal town, she knew nobody outside the hotel where she worked. Her evening bus passed a bookshop with a handwritten sign: Bring a book, take a seat. She imagined a room full of confident readers discussing difficult novels. For three weeks, she remained on the bus. Then rain delayed her journey, and she stepped inside to get dry.\n\nThere was no discussion leader and no reading list. Six people sat around a table, reading whatever they had brought. A shop assistant explained that the first half hour was silent. Afterwards, anyone could mention a sentence or describe a book, but speaking was optional. Leena found a chair by the window and opened the inexpensive detective story in her bag.\n\nAt the next meeting, an elderly man named Tomas brought a notebook instead of a printed book. He had been recording memories of the town's old fishing harbour. Leena asked why one street had two different names in his account. Tomas explained that the name had changed after a storm destroyed the original bridge. Their conversation attracted a teenager who was drawing a map for a school project. Soon the three were comparing the notebook with a modern street map.\n\nLeena still came mainly to read. She disliked the idea that every quiet activity needed a social purpose. Yet the predictable silence made conversation easier when she wanted it. Nobody demanded an interesting opinion, and nobody treated her detective stories as less valuable than other books.\n\nMonths later, a newcomer paused nervously in the doorway. Leena moved her coat from the spare chair. She did not ask what the visitor was reading. Instead, she pointed to the window seat and said, \"You can start here.\" The small invitation reminded her how belonging had begun: with room to participate at her own pace.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：生活叙事与参与感"
+      ],
+      "contentFingerprint": "d31c2e5d90915762b82f353f325bec0df8e53cf2912ec83e12155f053c99d6c0",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "A Seat by the Window: Why did Leena first enter the bookshop?",
+          "options": {
+            "A": "She had been invited to discuss a novel.",
+            "B": "She wanted shelter after her bus journey was delayed.",
+            "C": "She needed a street map for her new job.",
+            "D": "She was looking for Tomas's notebook."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段说明雨天耽误了行程，Leena走进书店是为了避雨，并非事先决定参加读书活动。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1cf8b69517f75335bb27433088e7eda368b32a6903589bf108e63ccb27313694"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "A Seat by the Window: What was a feature of the reading meetings?",
+          "options": {
+            "A": "Everyone had to read the same novel.",
+            "B": "New members were required to introduce themselves.",
+            "C": "A leader selected sentences for discussion.",
+            "D": "Members could remain silent without explaining why."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段说明先静读半小时，之后发言也属自愿，因此保持沉默是被允许的。",
+          "knowledgePoints": [
+            "阅读：细节归纳"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "192eb5c0f51cee58a198ae59ecdfdde5b8b738cbf65cf298d3c90f3fd14b8790"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "A Seat by the Window: In the third paragraph, the word \"account\" means _____.",
+          "options": {
+            "A": "written description",
+            "B": "financial record",
+            "C": "personal password",
+            "D": "formal request"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "account指Tomas笔记中对旧渔港的记述，不是银行账户或其他含义。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "19d7f3b4740c3b346a5367cb446040cfe621f8209e8d253985ddef0c489b1308"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "A Seat by the Window: What made it easier for Leena to speak with others?",
+          "options": {
+            "A": "Being asked to prepare an interesting opinion.",
+            "B": "Choosing books recommended by the assistant.",
+            "C": "Knowing that conversation was welcome but not required.",
+            "D": "Learning that other readers preferred detective stories."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第四段强调可预期的安静以及没有发言压力，使她在想交流时更容易开口。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "59eb37d75e50519fbb0b1d5a583ccd679fa6d1170259df49efa0f53a1480bc78"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "A Seat by the Window: Which title best expresses the central idea of the passage?",
+          "options": {
+            "A": "A Quiet Space Can Make Room for Connection",
+            "B": "Why Printed Maps Are Better Than Digital Ones",
+            "C": "The Best Way to Lead a Literary Discussion",
+            "D": "A Detective Story Reveals a Town's History"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文以Leena从紧张到主动让座的经历，说明尊重参与节奏的安静空间也能促成人际连接。",
+          "knowledgePoints": [
+            "阅读：主旨大意"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "346fc014190f65f7c43c9a73d9e798682afcbf33c90abb39da64067cba0c80b5"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The Pause Between Practice Sessions",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A learner can repeat a new word so often that it begins to feel familiar. That feeling is pleasant, but familiarity is not the same as being able to produce the word tomorrow. When the word remains on the page, its visible shape provides help. Close the book, wait for a while, and the task changes: the learner must find the word in memory.\n\nThis distinction helps explain why short practice sessions spread over several days can be useful. A pause allows some details to become harder to recall. Trying to retrieve them then requires effort. If the learner succeeds, the act of retrieval gives another opportunity to strengthen the connection. If the attempt fails, checking the answer provides feedback about what still needs attention. A mistake during practice is therefore information, rather than proof that learning is impossible.\n\nSpacing does not mean leaving every subject untouched for a week. The suitable interval depends partly on how well the material is known and when it will be needed. A complete beginner may need to return to a word later the same day. Someone who can already use it in conversation may benefit from a longer gap. Extremely long gaps can make practice frustrating because almost everything has been forgotten.\n\nA practical routine combines brief review with a small challenge. Before opening yesterday's notes, write down three ideas you remember. Then compare your version with the notes and correct important omissions. Next, use one idea in a fresh sentence or example. This process asks more of memory than simply looking at highlighted lines again.\n\nRest, understanding, and clear explanations still matter. Spaced practice cannot repair material that has never made sense. Its value lies in arranging opportunities to remember, notice a gap, and try again. Progress may feel less smooth than repeated reading, yet that temporary difficulty can be part of useful learning.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：学习机制与科学说明"
+      ],
+      "contentFingerprint": "bdfb2d1ebc4dedc26eda2a46b98a81426c1094fb8c1bd6a8de09a9320755e2df",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "The Pause Between Practice Sessions: Why does a word on the page sometimes seem easier than it really is?",
+          "options": {
+            "A": "Its meaning automatically becomes permanent.",
+            "B": "The learner has already used it in conversation.",
+            "C": "Seeing its written form provides support.",
+            "D": "All repeated words have a similar shape."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第一段指出书面词形仍在眼前时会提供帮助，熟悉感不等于次日能主动回忆。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "4bc20c0218b7512cd50c9139c7d21661b381304c43352e37cdca57f310328a02"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "The Pause Between Practice Sessions: According to the passage, an unsuccessful recall attempt can _____.",
+          "options": {
+            "A": "show which material requires further attention",
+            "B": "prove that the learner has a poor memory",
+            "C": "remove the need to check the correct answer",
+            "D": "replace a clear explanation of new material"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段说明回忆失败后核对答案，可以发现哪些内容仍需关注。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d855ecd0f3ea92c9d8dca97033082e148489b90b8d956fa4023e11db9c667dc1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "The Pause Between Practice Sessions: The word \"retrieve\" in the second paragraph is closest in meaning to _____.",
+          "options": {
+            "A": "publish in a different form",
+            "B": "bring back from memory",
+            "C": "explain to a large group",
+            "D": "remove from a collection"
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "retrieve与第一段find the word in memory对应，意为从记忆中提取、回忆。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "634c7c9774c5ad78b5c4deb0a7b0e39f4f62a8dae7996fa5305ed8159c9b51ac"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "The Pause Between Practice Sessions: What can be inferred about intervals between practice sessions?",
+          "options": {
+            "A": "The longest possible interval is always best.",
+            "B": "Beginners should avoid reviewing on the same day.",
+            "C": "They should be identical for every subject.",
+            "D": "They should reflect the learner's current knowledge."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第三段分别讨论初学者和已能在交谈中用词者，说明复习间隔需要考虑掌握程度。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f6ddf9c6fd73b9a5233643a61cb05a5f61b32b4661d7681108ad2e25aee4bb33"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "The Pause Between Practice Sessions: What is the main purpose of the passage?",
+          "options": {
+            "A": "To explain how spaced recall can support learning.",
+            "B": "To argue that forgetting should always be prevented.",
+            "C": "To recommend replacing all lessons with memory games.",
+            "D": "To show that highlighted notes are impossible to remember."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "文章解释间隔练习和主动回忆的作用，并给出实际做法及限制，A概括最完整。",
+          "knowledgePoints": [
+            "阅读：写作目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a2e5d80d287e1cea2073fed5ab9de623c6e0161f453dc9db6072f7c9fc1b9084"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Must Every Meeting Be a Video Call?",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "For people who work in different places, a video call can turn distant colleagues into recognisable faces. Expressions and pauses may reveal uncertainty that a short message conceals. It is tempting, therefore, to assume that more video meetings always produce a closer team. Yet connection depends on the quality of attention, not simply the number of faces visible on a screen.\n\nConsider a routine update containing three dates and a completed task. If everyone must stop work at the same moment to hear it, the meeting imposes a cost beyond its ten minutes. Someone loses a period of concentrated work; someone else joins at an inconvenient hour. A clear written update may convey the same information and leave a record that can be consulted later.\n\nWritten messages have limitations too. A difficult disagreement can grow sharper when readers imagine an angry tone that the writer never intended. A newcomer may hesitate to interrupt a busy message channel with basic questions. In such cases, a brief conversation can provide reassurance and allow an immediate explanation. The choice should follow the purpose, rather than a general rule favouring one tool.\n\nTeams can make that choice easier by stating what a proposed meeting must achieve. \"Discuss the project\" is vague. \"Choose between two delivery dates\" gives participants something to prepare. When a meeting ends, a short written decision helps people who could not attend. It also prevents the group from having the same discussion a week later.\n\nSocial contact deserves its own space, but it need not disguise itself as compulsory business. An occasional optional conversation may be more welcoming than a daily call in which everyone must appear cheerful. A team becomes connected when its members can obtain help, understand decisions, and trust that their time matters. Cameras can support those conditions; they cannot create them by being switched on.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：交流方式与观点论证"
+      ],
+      "contentFingerprint": "88460f10026eccb869bfca70e89f38eb553c762038658fbe403a075ae1973442",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Must Every Meeting Be a Video Call?: What assumption does the writer question in the first paragraph?",
+          "options": {
+            "A": "Facial expressions can communicate uncertainty.",
+            "B": "More video meetings necessarily make a team closer.",
+            "C": "Distant colleagues may benefit from seeing one another.",
+            "D": "A short message sometimes fails to convey feelings."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "作者承认视频的好处，但质疑视频会议越多团队就一定越亲密的推断。",
+          "knowledgePoints": [
+            "阅读：观点识别"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2a7bff80a20b53d0eac4bbc99d2383df6f23f5998b51eb3eec29daf11cc84dae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Must Every Meeting Be a Video Call?: What advantage of a written routine update is mentioned?",
+          "options": {
+            "A": "It guarantees that all readers respond immediately.",
+            "B": "It removes every possible misunderstanding.",
+            "C": "It makes project decisions unnecessary.",
+            "D": "It can be read again when the information is needed."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第二段说明书面更新会留下以后可查阅的记录，D与此一致。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6a54402b1e078ec2706620677222c280ea9f8fa476daac0a17aec670db0e0b45"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Must Every Meeting Be a Video Call?: Why might a conversation help a newcomer?",
+          "options": {
+            "A": "It requires fewer questions about the work.",
+            "B": "It allows important decisions to remain unwritten.",
+            "C": "It offers immediate explanation and reassurance.",
+            "D": "It prevents colleagues from using message channels."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第三段将新人不敢在繁忙群组中提问与简短交谈带来的即时解释和安心联系起来。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d445a8ac3fabe9858c5c663bb0e7c8dc5b3d7523dd79b5b011bab51387ef3a10"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Must Every Meeting Be a Video Call?: The phrase \"disguise itself as\" in the last paragraph means _____.",
+          "options": {
+            "A": "present itself as something different",
+            "B": "disappear gradually from",
+            "C": "receive official permission for",
+            "D": "develop naturally into"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "语境认为社交无需假扮成强制性工作事务，disguise itself as意为把自己伪装成另一种事物。",
+          "knowledgePoints": [
+            "阅读：短语理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "39e8eea077c402dd1e0fbdc91fd571d5c2b9a2d4545575b977d2d6b4c4fe98e0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Must Every Meeting Be a Video Call?: Which policy would the writer most likely support?",
+          "options": {
+            "A": "Require cameras to remain on throughout each working day.",
+            "B": "Choose communication methods according to their purpose.",
+            "C": "Cancel every meeting that includes social conversation.",
+            "D": "Discuss all routine updates before recording them in writing."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文主张依据目的选工具，既保留适合交谈的情境，也认可书面更新，因此B符合作者立场。",
+          "knowledgePoints": [
+            "阅读：观点推断"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "f0c21a3459be1b32e75ee6d02432071393579fb1a383f386cd244c2216c85c32"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "Learning to Listen to the Machine",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On his first morning at a furniture workshop, Daniel received a booklet describing each machine and its safety controls. He read it carefully, passed the required instruction session, and could name every switch. Nevertheless, when he began preparing boards under supervision, he felt uncertain. The booklet told him which measurements to check, but experienced workers seemed to notice problems before taking out a ruler.\n\nHis supervisor, Mei, did not ask him to work faster. She placed two finished boards side by side and asked what he observed. Daniel mentioned colour and length. Mei invited him to run a hand gently over the surfaces and look along their edges. One board felt slightly rough near the end. She explained how that small difference could affect the next stage of assembly.\n\nFor the following week, Daniel kept a question notebook. At first, his entries were general: \"How do you know it is ready?\" As he watched more closely, the questions became specific: \"Why did you check this edge before measuring the width?\" Mei could answer the second kind more easily because it referred to an action they had both seen. Daniel began adding simple sketches beside her explanations.\n\nThe notebook did not replace formal safety guidance, and Mei stopped him whenever a task required more instruction. Its purpose was to capture observations that were difficult to express in a general manual. Other workers later contributed examples, including occasions when a familiar method had failed because the material was different.\n\nAfter several months, Daniel helped welcome another beginner. He showed her the booklet first, then asked her to compare two boards. He also explained that an experienced worker's quick decision often rested on years of noticing small differences. Learning such judgement took time. Asking a precise question was not an admission of incompetence; it was one way of making invisible experience available to someone else.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作学习与经验传授"
+      ],
+      "contentFingerprint": "4f5abba25c765b7a2bdc548e9d9bd84df9cc7cdb32b1725e86b47ac945d1c3a8",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "Learning to Listen to the Machine: What difficulty did Daniel face after reading the booklet?",
+          "options": {
+            "A": "He still could not name the machine controls.",
+            "B": "He was unwilling to attend safety instruction.",
+            "C": "He had trouble recognising differences experienced workers noticed.",
+            "D": "He was asked to supervise workers with more experience."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第一段说Daniel能叫出开关名称，但不理解老员工怎样在测量前发现问题，困难在于识别经验性细节。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "146e4967b7ad8fb26975581a68194c988bfa1a6fb33595c740d98645f32d436a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "Learning to Listen to the Machine: How did Mei initially help Daniel?",
+          "options": {
+            "A": "She asked him to observe and compare two boards.",
+            "B": "She required him to finish more boards each hour.",
+            "C": "She replaced the safety booklet with a drawing.",
+            "D": "She told him to memorise every measurement."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段中Mei拿出两块成品木板，让Daniel观察、触摸并比较其边缘和表面。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ed43ccd4886c8b4d1c1faa7419c08ed4edc5968d8c198bb8f24b39ba519694d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "Learning to Listen to the Machine: Why were Daniel's later questions easier for Mei to answer?",
+          "options": {
+            "A": "They avoided mentioning any practical difficulties.",
+            "B": "They asked about actions both of them had observed.",
+            "C": "They required only the names of machine switches.",
+            "D": "They were copied directly from the original booklet."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段明确说明具体问题指向两人共同见过的动作，因此更便于Mei解释。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "993892d74f0b09dc51f6f94fe6453a3a96592f9ef90e26c8c8c1e315b53529a2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "Learning to Listen to the Machine: In the fourth paragraph, \"capture\" most nearly means _____.",
+          "options": {
+            "A": "force someone to accept",
+            "B": "hide something from view",
+            "C": "take physical control of",
+            "D": "record and preserve"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "笔记本的作用是记录并保存通用手册难以表达的观察内容，故capture在此为记录、保留。",
+          "knowledgePoints": [
+            "阅读：语境词义"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f43b91d50ed5aeeac5887e7b6aa6b65c6a776c8070cf485d22c74f4a3a0a440f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "Learning to Listen to the Machine: What does the passage suggest about practical judgement?",
+          "options": {
+            "A": "It develops through noticing details and discussing experience.",
+            "B": "It makes formal safety instruction unnecessary for beginners.",
+            "C": "It can be gained by memorising a manual in one morning.",
+            "D": "It should remain private to preserve the expert's advantage."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文展示观察、提问、笔记和经验分享如何帮助形成判断力，同时明确安全指导不可被取代。",
+          "knowledgePoints": [
+            "阅读：综合推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "742b0581e2fe35f5c50f0781e695cfa04cd75675a02c5f88d2d88e3f84d8e1f6"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "After several unsuccessful attempts, the team finally found a _____ solution to the storage problem.",
+      "options": {
+        "A": "patient",
+        "B": "practical",
+        "C": "wealthy",
+        "D": "nervous"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "practical solution意为切实可行的解决方案，与多次尝试后终于找到办法的语境一致。",
+      "knowledgePoints": [
+        "词汇：形容词与名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "ee07cb8ac1f55b458d6b959d097846a5ad3c4d717ed7df68520d89d990b74ef5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The trainer used a familiar example to _____ the difference between saving a file and sharing it.",
+      "options": {
+        "A": "borrow",
+        "B": "occupy",
+        "C": "illustrate",
+        "D": "obey"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "illustrate the difference表示用例子说明差异；其余动词不符合语义及搭配。",
+      "knowledgePoints": [
+        "词汇：动词语义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a9d02746dc35b2ee6a37bf4b4c4031b28f00dcd922c3ce82eaf61517a462592a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Please keep the original receipt as _____ of payment when requesting a refund.",
+      "options": {
+        "A": "proof",
+        "B": "habit",
+        "C": "manner",
+        "D": "effort"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "proof of payment意为付款凭证，收据可以证明付款事实。",
+      "knowledgePoints": [
+        "词汇：名词固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9cf013b27da358f37110bc775e578891304b8a3d4189698b49f0f5d9263d75ac"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The speaker paused _____ so that the interpreter could finish translating each point.",
+      "options": {
+        "A": "barely",
+        "B": "rarely",
+        "C": "accidentally",
+        "D": "regularly"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "为了让译员译完每点内容，发言人需要有规律地停顿，regularly符合语义。",
+      "knowledgePoints": [
+        "词汇：副词语义辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "75af8f07df41d63a432d343fb21d9a459010e2cbee384d7a71ed132b1e305c05"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The notice gives a general outline, but the attached guide contains more _____ instructions.",
+      "options": {
+        "A": "remote",
+        "B": "detailed",
+        "C": "private",
+        "D": "ancient"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "general outline与detailed instructions形成概括和具体之间的对照。",
+      "knowledgePoints": [
+        "词汇：上下文语义对照"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "34f4b072bbc742d77d828329975bf89383d4bb47b2c7c19414d04b191f4af346"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Nora decided to _____ a little time each evening for reading, even during busy weeks.",
+      "options": {
+        "A": "set aside",
+        "B": "turn down",
+        "C": "bring up",
+        "D": "carry out"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "set aside time表示留出时间；其他短语不与此语境中的time构成所需含义。",
+      "knowledgePoints": [
+        "词汇：动词短语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "af2758137b14a8e39c7479f424dfa4366e1ffca681835c6e0cb18f6501ba9c9f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Although the two groups used different methods, they reached a _____ conclusion.",
+      "options": {
+        "A": "separate",
+        "B": "narrow",
+        "C": "similar",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Although引导让步：尽管方法不同，结论却相似，因此选similar。",
+      "knowledgePoints": [
+        "词汇：逻辑关系与形容词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a8ad27791996620746fa56ccba1f89bc24252d5d667d773041fa8fdcd7a49164"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The museum has made an _____ to its opening hours: it now closes at six instead of five.",
+      "options": {
+        "A": "argument",
+        "B": "appointment",
+        "C": "advertisement",
+        "D": "adjustment"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "make an adjustment to表示对……作出调整，后面的闭馆时间变化解释了该调整。",
+      "knowledgePoints": [
+        "词汇：名词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e65c32ee9249c28f5b94cf514f55c4d13dc0a7baafea52f6c866b02888571585"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The teacher encouraged us to ask questions whenever an explanation was _____.",
+      "options": {
+        "A": "unclear",
+        "B": "generous",
+        "C": "patient",
+        "D": "crowded"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "当解释不清楚时应提问，unclear符合语境；其余词不能合理描述这里的explanation。",
+      "knowledgePoints": [
+        "词汇：形容词语义辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "703861a84d9482bd3cd8a69df197e4f5e5c5db764c4b6a8013c179e4a9fed98a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The volunteers _____ the heavy boxes among four tables so that no single table carried all the weight.",
+      "options": {
+        "A": "described",
+        "B": "distributed",
+        "C": "discovered",
+        "D": "disappointed"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "distribute ... among ...表示把物品分配到若干对象中，符合将箱子分放在四张桌子的情境。",
+      "knowledgePoints": [
+        "词汇：近形动词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec8be9bb0052a3ead9ad1ca874849dae656040a01e02cf6871247fb3797407e7"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "By the time the evening class began, Rosa _____ all the chairs in a circle.",
+      "options": {
+        "A": "arranges",
+        "B": "has arranged",
+        "C": "had arranged",
+        "D": "will arrange"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "began为过去时间，摆好椅子发生在开课之前，即过去的过去，应用过去完成时。",
+      "knowledgePoints": [
+        "语法：过去完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fac074fe9587018b56929da7ab52a053ba7a8aa7919e59b7eff0fc14381878fb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The colleague _____ advice helped me most has recently moved to another department.",
+      "options": {
+        "A": "whose",
+        "B": "which",
+        "C": "whom",
+        "D": "what"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "空格在定语从句中修饰advice，表示该同事的建议，应用关系代词whose。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b6608e0b3f71a469dca788c752588aab7d81538dca78e6e37cfdf9c097415579"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If I _____ about the free workshop earlier, I would have registered for it.",
+      "options": {
+        "A": "know",
+        "B": "have known",
+        "C": "would know",
+        "D": "had known"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "主句would have registered表示与过去事实相反的假设，if从句应用had known。",
+      "knowledgePoints": [
+        "语法：过去虚拟条件句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "15d1a38cf2f0bf0c75291c7ab46edfad9165dc4d9825fdb07185001e3804831a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Neither the printed timetable nor the online notice _____ the new room number.",
+      "options": {
+        "A": "include",
+        "B": "includes",
+        "C": "including",
+        "D": "to include"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither ... nor连接主语时谓语通常就近一致，靠近谓语的notice为单数，应选includes。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e19a62ceb6325695c7b3ea8859e5174e55fd8382fd95b26e056e4b5c24a09116"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "The form must _____ before the equipment can be borrowed.",
+      "options": {
+        "A": "sign",
+        "B": "signing",
+        "C": "be signed",
+        "D": "have signing"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "表格是被签署的对象，情态动词must后使用be signed构成被动语态。",
+      "knowledgePoints": [
+        "语法：情态动词的被动语态"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c471a2826efaf1a19578d74b1acb03c4c5047684143ab8317f95d5bc572c9ed9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "I am looking forward to _____ the ideas from our last discussion.",
+      "options": {
+        "A": "trying out",
+        "B": "try out",
+        "C": "have tried out",
+        "D": "be trying out"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "look forward to中的to为介词，后接动名词trying out。",
+      "knowledgePoints": [
+        "语法：介词后接动名词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "b597c1b457f926e6db15f90a96b81b69295714a091a8a15ebf0615da438d177c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "Only after the demonstration _____ why the earlier method had failed.",
+      "options": {
+        "A": "we understood",
+        "B": "we had understood",
+        "C": "did we understood",
+        "D": "did we understand"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Only加状语置于句首时主句部分倒装，助动词did之后用动词原形understand。",
+      "knowledgePoints": [
+        "语法：部分倒装"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "082376f068512b16c03a447eb46c18880d7112dbc8b49e406aed86c3ad176908"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The instructions were _____ clear that we assembled the shelf without any help.",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "too",
+        "D": "enough"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "so ... that结构中so直接修饰形容词clear，表示清楚到可以独立组装。",
+      "knowledgePoints": [
+        "语法：结果状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4666dd43af1468232592bf274c731aca64ea44e70e52729737c60fe44395d171"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "_____ the two proposals carefully, the committee selected the one with lower running costs.",
+      "options": {
+        "A": "Compared",
+        "B": "To comparing",
+        "C": "Having compared",
+        "D": "Being compare"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "比较发生在选择之前，且compare与逻辑主语committee为主动关系，使用Having compared作状语。",
+      "knowledgePoints": [
+        "语法：分词完成式作状语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "11a1092d4975e8e4f5b354c91d1cd613ce40f5fd9e2647d79535bb0911d16bdb"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Could you tell me _____ the next beginner course starts?",
+      "options": {
+        "A": "when",
+        "B": "that",
+        "C": "what",
+        "D": "which"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "从句the next beginner course starts结构完整，缺少表示时间的连接副词，when符合。",
+      "knowledgePoints": [
+        "语法：宾语从句连接词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "f4452fd6b1284d48cbd18ea6121989b77711bdbb0a07e374ae701c6b204f6780"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese.\n\nLearning with another person does not mean moving at exactly the same speed. One learner may understand a new rule quickly, while the other remembers useful examples more easily. A successful partnership allows both people to contribute. Before each meeting, partners can agree on a small task and prepare separately. During the meeting, they explain their answers and ask about differences. If one person is uncertain, a patient question is often more helpful than an immediate correction. Over time, this habit can build confidence as well as knowledge. The aim is not to prove who knows more, but to help both learners take the next step.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "仅供考生自评。注意while表示对照，as well as连接“信心”和“知识”，not ... but ...表达“不是……而是……”。参照意义完整、语言准确和表达自然三项标准评分。",
+      "referenceAnswer": "与他人一起学习，并不意味着必须以完全相同的速度前进。一位学习者可能很快理解一条新规则，而另一位则更容易记住有用的例子。成功的学习伙伴关系能让双方都有所贡献。每次见面前，伙伴们可以商定一项小任务，并分别作好准备。见面时，他们解释自己的答案，并就不同之处提出问题。如果其中一人拿不准，耐心地提问往往比立即纠正更有帮助。久而久之，这种习惯不仅能增长知识，还能建立信心。目的不是证明谁懂得更多，而是帮助两位学习者都迈出下一步。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "9cc2327288626ace1ee09d60705ae4e6aa20a85e15d8580733a8002b4a72eb5e",
+      "referenceAnswerFingerprint": "57e14d0ac2f239ed54f25d6e59f095d0450b75f00bbb6233b40fba8feece864f"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English on the following topic: A Learning Activity That Brings People Together.\n\nYour community centre is collecting suggestions for a weekly activity open to adults with different ages, jobs, and levels of experience. Write a short proposal for the centre. Describe one activity that participants could learn together, explain how a typical meeting would work, and suggest one way to help a shy newcomer feel comfortable. Give a reason why your activity could help people develop both a useful skill and a sense of connection. You may use an imagined example. Do not write your real name or contact details.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "仅供考生自评。范文提出手机摄影散步，说明活动流程、接纳内向新人的措施及技能学习和邻里联系两方面的收益。按任务完成、组织连贯、语言运用三项标准评分，不要求与范文使用相同活动。",
+      "sampleAnswer": "I suggest starting a weekly photography walk at our community centre. Participants would only need a phone or a simple camera, so expensive equipment would not be necessary.\n\nEach meeting could begin with a short explanation of one skill, such as choosing a clear background. We would then walk through a nearby park in small groups and try that skill. Afterwards, everyone could choose one photograph to discuss. The aim would be to share ideas rather than select a winner.\n\nA shy newcomer could join an experienced volunteer and listen before deciding to speak. This would reduce the pressure to impress others. By observing familiar places together, participants could improve their photographs and discover shared interests. A simple activity might gradually turn neighbours who rarely speak into people who recognise and support one another.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "03eb6f16f54954f364716552ea59dc7a1a5d70f350066fae5adc004062a44cd1",
+      "sampleAnswerFingerprint": "f31b0bce6246fe37673bd69773c98a109c8786fa84d7aef01e5730885c2589b8"
+    }
+  ],
+  "fingerprintManifest": [
+    "53bde6d6bf8c92d14402f3c91dc176f206d5b28f90bb6fa9609fdc88115ebe29",
+    "d2740e5d69465e3134eedfcf74fc340ed75cc236ffbd4fbcda748861a5278b0e",
+    "dd5f5ab63afe2462d055af00a24073cf9f69828a20da78fa457d7cddc892957e",
+    "987f386deeafd0617f9e057f59aab0439d3236ce51ff542408f51fa65c3b001d",
+    "065237fd6c9f5ae000166e6048d8eaf56098e779ed339047be4ffa24781dcbb7",
+    "0118def05fdefdb72c44614d5c00cdaa3f2164d2ffe4f2ca092b7eba27ccdb00",
+    "fef3b26591e17ee9645439a8c6ac9444db29acec6eee6b4544c2771cedec0b46",
+    "a30cccc2c9180394725a79d406fca7e0589541d46ced59b02a5423930b4ad74f",
+    "be55b7516908c02c7b8f15f5c4966cc0434a0b5ec8c20075768775be1502c282",
+    "19b9f4e7472c7a5d6db643969a9644de5ad19fceaa485567ce8c4041fbd0fb4e",
+    "2644bd19db19b0b642e163d6fd2990f3f6f48f6482caf7145c0b6e419e8180d2",
+    "6368ed6ba86cff0a1db9ca98f261d240e2f4c6e074106eb4f668ceebc63c8540",
+    "ccd578536548808eb4477618e61a9fa14f751c4c8590d646d2369d7d1561beb5",
+    "d31c2e5d90915762b82f353f325bec0df8e53cf2912ec83e12155f053c99d6c0",
+    "1cf8b69517f75335bb27433088e7eda368b32a6903589bf108e63ccb27313694",
+    "192eb5c0f51cee58a198ae59ecdfdde5b8b738cbf65cf298d3c90f3fd14b8790",
+    "19d7f3b4740c3b346a5367cb446040cfe621f8209e8d253985ddef0c489b1308",
+    "59eb37d75e50519fbb0b1d5a583ccd679fa6d1170259df49efa0f53a1480bc78",
+    "346fc014190f65f7c43c9a73d9e798682afcbf33c90abb39da64067cba0c80b5",
+    "bdfb2d1ebc4dedc26eda2a46b98a81426c1094fb8c1bd6a8de09a9320755e2df",
+    "4bc20c0218b7512cd50c9139c7d21661b381304c43352e37cdca57f310328a02",
+    "d855ecd0f3ea92c9d8dca97033082e148489b90b8d956fa4023e11db9c667dc1",
+    "634c7c9774c5ad78b5c4deb0a7b0e39f4f62a8dae7996fa5305ed8159c9b51ac",
+    "f6ddf9c6fd73b9a5233643a61cb05a5f61b32b4661d7681108ad2e25aee4bb33",
+    "a2e5d80d287e1cea2073fed5ab9de623c6e0161f453dc9db6072f7c9fc1b9084",
+    "88460f10026eccb869bfca70e89f38eb553c762038658fbe403a075ae1973442",
+    "2a7bff80a20b53d0eac4bbc99d2383df6f23f5998b51eb3eec29daf11cc84dae",
+    "6a54402b1e078ec2706620677222c280ea9f8fa476daac0a17aec670db0e0b45",
+    "d445a8ac3fabe9858c5c663bb0e7c8dc5b3d7523dd79b5b011bab51387ef3a10",
+    "39e8eea077c402dd1e0fbdc91fd571d5c2b9a2d4545575b977d2d6b4c4fe98e0",
+    "f0c21a3459be1b32e75ee6d02432071393579fb1a383f386cd244c2216c85c32",
+    "4f5abba25c765b7a2bdc548e9d9bd84df9cc7cdb32b1725e86b47ac945d1c3a8",
+    "146e4967b7ad8fb26975581a68194c988bfa1a6fb33595c740d98645f32d436a",
+    "ed43ccd4886c8b4d1c1faa7419c08ed4edc5968d8c198bb8f24b39ba519694d9",
+    "993892d74f0b09dc51f6f94fe6453a3a96592f9ef90e26c8c8c1e315b53529a2",
+    "f43b91d50ed5aeeac5887e7b6aa6b65c6a776c8070cf485d22c74f4a3a0a440f",
+    "742b0581e2fe35f5c50f0781e695cfa04cd75675a02c5f88d2d88e3f84d8e1f6",
+    "ee07cb8ac1f55b458d6b959d097846a5ad3c4d717ed7df68520d89d990b74ef5",
+    "a9d02746dc35b2ee6a37bf4b4c4031b28f00dcd922c3ce82eaf61517a462592a",
+    "9cf013b27da358f37110bc775e578891304b8a3d4189698b49f0f5d9263d75ac",
+    "75af8f07df41d63a432d343fb21d9a459010e2cbee384d7a71ed132b1e305c05",
+    "34f4b072bbc742d77d828329975bf89383d4bb47b2c7c19414d04b191f4af346",
+    "af2758137b14a8e39c7479f424dfa4366e1ffca681835c6e0cb18f6501ba9c9f",
+    "a8ad27791996620746fa56ccba1f89bc24252d5d667d773041fa8fdcd7a49164",
+    "e65c32ee9249c28f5b94cf514f55c4d13dc0a7baafea52f6c866b02888571585",
+    "703861a84d9482bd3cd8a69df197e4f5e5c5db764c4b6a8013c179e4a9fed98a",
+    "ec8be9bb0052a3ead9ad1ca874849dae656040a01e02cf6871247fb3797407e7",
+    "fac074fe9587018b56929da7ab52a053ba7a8aa7919e59b7eff0fc14381878fb",
+    "b6608e0b3f71a469dca788c752588aab7d81538dca78e6e37cfdf9c097415579",
+    "15d1a38cf2f0bf0c75291c7ab46edfad9165dc4d9825fdb07185001e3804831a",
+    "e19a62ceb6325695c7b3ea8859e5174e55fd8382fd95b26e056e4b5c24a09116",
+    "c471a2826efaf1a19578d74b1acb03c4c5047684143ab8317f95d5bc572c9ed9",
+    "b597c1b457f926e6db15f90a96b81b69295714a091a8a15ebf0615da438d177c",
+    "082376f068512b16c03a447eb46c18880d7112dbc8b49e406aed86c3ad176908",
+    "4666dd43af1468232592bf274c731aca64ea44e70e52729737c60fe44395d171",
+    "11a1092d4975e8e4f5b354c91d1cd613ce40f5fd9e2647d79535bb0911d16bdb",
+    "f4452fd6b1284d48cbd18ea6121989b77711bdbb0a07e374ae701c6b204f6780",
+    "9cc2327288626ace1ee09d60705ae4e6aa20a85e15d8580733a8002b4a72eb5e",
+    "57e14d0ac2f239ed54f25d6e59f095d0450b75f00bbb6233b40fba8feece864f",
+    "03eb6f16f54954f364716552ea59dc7a1a5d70f350066fae5adc004062a44cd1",
+    "f31b0bce6246fe37673bd69773c98a109c8786fa84d7aef01e5730885c2589b8"
+  ],
+  "contentFingerprint": "d75bdeba2251552023554a10564633ceab02259e94cf1367b3d2bc8ea84404ae"
+}

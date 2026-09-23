@@ -58,7 +58,8 @@ public final class FixedPaperSeedV1 {
                         || (first == 53 && last == 62)
                         || (first == 63 && last == 80)
                         || (first == 81 && last == 90)
-                        || (first == 91 && last == 100),
+                        || (first == 91 && last == 100)
+                        || (first == 101 && last == 102),
                 "Expected a published fixed-paper batch");
         List<JsonNode> papers = new ArrayList<>();
         Set<String> fingerprints = new HashSet<>();
