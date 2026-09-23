@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-51",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 51 · 公共服务与信息判断",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 51,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Asking about a mobile library",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: I heard the mobile library will visit our estate. Where will it stop?\nLibrarian: (1) _____\nResident: Is there a charge to borrow a book?\nLibrarian: (2) _____\nResident: What if the book I want is not on the van?\nLibrarian: (3) _____\nResident: How will I know when it arrives?\nLibrarian: (4) _____",
+      "sharedOptions": {
+        "A": "We can request it from the main library for your next visit.",
+        "B": "It will park beside the community hall on Thursdays.",
+        "C": "You will receive a text message when it is ready.",
+        "D": "No, borrowing is free if you have a library card."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "a56ae40d24170cb3c8ac956bd3876b823f3eedbf15047d04c060e0f629aa2444",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Asking about a mobile library”, choose the response for blank (1).",
+          "options": {
+            "A": "We can request it from the main library for your next visit.",
+            "B": "It will park beside the community hall on Thursdays.",
+            "C": "You will receive a text message when it is ready.",
+            "D": "No, borrowing is free if you have a library card."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明流动图书馆的停靠地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "939cf4695eabb481268b1a140aaec95ae532c1aa8a3ea1002eacad839ef493a1"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Asking about a mobile library”, choose the response for blank (2).",
+          "options": {
+            "A": "We can request it from the main library for your next visit.",
+            "B": "It will park beside the community hall on Thursdays.",
+            "C": "You will receive a text message when it is ready.",
+            "D": "No, borrowing is free if you have a library card."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明持卡借书免费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "215d751753c14fe17efffc65283c5140bdc2a21ee703d15f884bc4d172ca9a53"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Asking about a mobile library”, choose the response for blank (3).",
+          "options": {
+            "A": "We can request it from the main library for your next visit.",
+            "B": "It will park beside the community hall on Thursdays.",
+            "C": "You will receive a text message when it is ready.",
+            "D": "No, borrowing is free if you have a library card."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "提供总馆预约办法。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c39b4772e38933db4ac8ea074afa4f265ac20f4bbf5488c9f5bbf4530d141acd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Asking about a mobile library”, choose the response for blank (4).",
+          "options": {
+            "A": "We can request it from the main library for your next visit.",
+            "B": "It will park beside the community hall on Thursdays.",
+            "C": "You will receive a text message when it is ready.",
+            "D": "No, borrowing is free if you have a library card."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明到书通知方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f94bb87aeffa090ad435c689ebb3685e18f2ee24dbfe5fc0f20c4b3a53b1937b"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Changing a clinic appointment",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Patient: I cannot reach the clinic before five today. Can I change my appointment?\nReceptionist: (1) _____\nPatient: Is Saturday morning possible?\nReceptionist: (2) _____\nPatient: Should I bring the same documents?\nReceptionist: (3) _____",
+      "sharedOptions": {
+        "A": "Yes, please bring your appointment card and identification.",
+        "B": "Certainly. I can look for another available time.",
+        "C": "The clinic garden has several large trees.",
+        "D": "There is a place at nine thirty on Saturday."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "b793daef854c16b3de33d6b84d4e724a30c057ab19d609cf0edd9f0cad48fb12",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Changing a clinic appointment”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes, please bring your appointment card and identification.",
+            "B": "Certainly. I can look for another available time.",
+            "C": "The clinic garden has several large trees.",
+            "D": "There is a place at nine thirty on Saturday."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "同意协助改约。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b02010fe311f46b9cad843fcce1d419a531594e92ab3b428be4507f40ed122de"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Changing a clinic appointment”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes, please bring your appointment card and identification.",
+            "B": "Certainly. I can look for another available time.",
+            "C": "The clinic garden has several large trees.",
+            "D": "There is a place at nine thirty on Saturday."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "给出周六可预约时段。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1e7a10b989a4f9bb37efe45f0be9b1ab9b8074e7c507773c3a4fd3020b3db8b5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Changing a clinic appointment”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes, please bring your appointment card and identification.",
+            "B": "Certainly. I can look for another available time.",
+            "C": "The clinic garden has several large trees.",
+            "D": "There is a place at nine thirty on Saturday."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "确认需携带的文件。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "be6b3aee4980f0bc03dce94159b440e56f58d7aa9fd0c9cadbed0a0741ac7dfc"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Checking a course location",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: My evening course has moved, but I cannot find the new room.\nTutor: (1) _____\nLearner: Is the room accessible without using stairs?\nTutor: (2) _____\nLearner: Thank you. May I still enter if I am a few minutes late?\nTutor: (3) _____",
+      "sharedOptions": {
+        "A": "The garden gate is painted green.",
+        "B": "Go to Room 204 in the west building.",
+        "C": "Yes, the lift stops on the same floor.",
+        "D": "Of course. Please enter quietly and take a seat."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "17e93bed89eaaca3cc1eb2f84a25c2319342fc16ad41eec809340aacf08dc200",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Checking a course location”, choose the response for blank (1).",
+          "options": {
+            "A": "The garden gate is painted green.",
+            "B": "Go to Room 204 in the west building.",
+            "C": "Yes, the lift stops on the same floor.",
+            "D": "Of course. Please enter quietly and take a seat."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "告知新教室。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "27fffafd61a7e14ddbcbdb2cfbb84092c9d51aae2a05d410a4862094d330d6e4"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Checking a course location”, choose the response for blank (2).",
+          "options": {
+            "A": "The garden gate is painted green.",
+            "B": "Go to Room 204 in the west building.",
+            "C": "Yes, the lift stops on the same floor.",
+            "D": "Of course. Please enter quietly and take a seat."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "回答无障碍问题。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "d0fb81cb704cb116c0fc7cfe65957a02b8bd95910e56113453290d9b43f300cb"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Checking a course location”, choose the response for blank (3).",
+          "options": {
+            "A": "The garden gate is painted green.",
+            "B": "Go to Room 204 in the west building.",
+            "C": "Yes, the lift stops on the same floor.",
+            "D": "Of course. Please enter quietly and take a seat."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明迟到时的处理方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "6c496c2d29e45659bc89c8053b81c174b37b678bc14b62f33fa152c8af7ab19c"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Why a town changed its bus information",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A town council once believed that its bus timetable was clear because every stop displayed a list of arrival times. However, complaints continued, especially from passengers who were unfamiliar with the area. The council asked volunteers to travel to different destinations using only the information available at the stops. The volunteers discovered that a timetable could be correct and still be difficult to use. Some stops showed the time but not the direction of travel. Others used route names that appeared nowhere on the street signs.\n\nThe council did not immediately buy electronic screens. It first changed the printed notices. Each notice now begins with a simple map showing the direction of the route. The name of the next major stop appears beside each time, and a short explanation shows how to read departures on public holidays. A telephone number is printed in large type for passengers who need further help. The council also tested the new notices with people who had not helped design them.\n\nDuring the trial, volunteers were asked to find a bus to the hospital and explain when they would arrive. Most could do so more quickly than before, though several people still confused two stops with similar names. The council changed those labels before printing the final version. It also left space on each notice for temporary changes caused by roadworks.\n\nThe project showed that providing information is different from making it useful. A larger budget might have produced attractive screens, but it would not necessarily have solved the basic problem of unclear directions. By watching real passengers complete an ordinary journey, the council learned which details needed to come first. The same method could later help improve notices for other local services.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共服务与信息设计"
+      ],
+      "contentFingerprint": "8385dbcc2b8a9e74b25d2ca6a12c059e1e5093dc6f7efd7a5bc858c4854558f7",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Why a town changed its bus information: What first suggested that the timetable was not serving all passengers?",
+          "options": {
+            "A": "An expensive screen broke down.",
+            "B": "Complaints continued despite displayed times.",
+            "C": "The buses stopped running on holidays.",
+            "D": "Volunteers refused to travel."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "投诉表明现有时刻表仍不好用。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "76f437027072dcd178ac6e3856dabfa77431c4866daa6feb8408788a5a048ed8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Why a town changed its bus information: Why did volunteers travel using only stop information?",
+          "options": {
+            "A": "To test whether a visitor could plan a journey.",
+            "B": "To count the seats on each bus.",
+            "C": "To replace professional drivers.",
+            "D": "To promote a new hospital."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "模拟陌生乘客的实际使用。",
+          "knowledgePoints": [
+            "阅读理解：目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c376adc72920d1a4f4c0ff45f9d1b2eed77436a8453fe8ae666eecb8882cf740"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Why a town changed its bus information: Which change was made before electronic screens were considered?",
+          "options": {
+            "A": "All routes were cancelled.",
+            "B": "Ticket prices were reduced.",
+            "C": "Printed notices gained maps and clearer labels.",
+            "D": "Every bus was repainted."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "先改纸质告示并增加地图、标注。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "dffdc2dab334d0f52eef945ca2ebe4935e19599e298d302c372b0dae64e13108"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Why a town changed its bus information: What happened after trial users confused two stop names?",
+          "options": {
+            "A": "The council ignored the result.",
+            "B": "The final labels were revised.",
+            "C": "The hospital was moved.",
+            "D": "Volunteers were asked not to travel."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "测试反馈推动最终名称修订。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "31195d0b5bf11d453078ff8575cb2cd815eaa6650d2b3a2359026316787410fe"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Why a town changed its bus information: What is the passage mainly about?",
+          "options": {
+            "A": "Why digital screens are always cheaper.",
+            "B": "How a town improved information by observing real users.",
+            "C": "Why public holidays should be shorter.",
+            "D": "How volunteers built new buses."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "核心是根据真实使用情况改善公共信息。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "529636952fb38552e88a2e46077b230b4ca3370c765ec1810ddb137d2fe43ecc"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A small study of shared lunch spaces",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At a workplace with employees on different shifts, managers wanted to create a shared lunch area. They assumed that a single large room would help colleagues meet. Before changing the building, a group of employees recorded where they ate for two weeks and noted why they chose those places. The records challenged the original idea. Many people did want to talk, but they had only fifteen minutes between tasks. Walking to a distant room would use much of that time. Others needed a quiet place because they worked in noisy surroundings.\n\nThe group proposed three modest changes instead of one large project. Tables near the main corridor would help workers on short breaks. A smaller room would remain quiet for those who preferred it. A noticeboard would show when social lunches were planned, so joining one would be a choice rather than an expectation. The managers asked staff from each shift to comment on the proposal, including employees who were rarely present at daytime meetings.\n\nAfter six weeks, the group asked staff about their experiences. The corridor tables were popular, but people reported that the nearby door let in cold air. The quiet room was valued, although its signs were unclear and some visitors entered by mistake. Managers moved the tables a short distance and improved the signs. The noticeboard attracted fewer users than expected, so a weekly message was added to the existing staff bulletin.\n\nNo arrangement made every break ideal. Yet the changes cost less than rebuilding a large room and could be adjusted when work patterns changed. The most useful discovery was not a particular furniture plan. It was that the workers' reasons for choosing a place mattered as much as the number of empty seats. Managers agreed to repeat the discussion when new shifts were introduced.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作场所与调查"
+      ],
+      "contentFingerprint": "6e05f9ab851ede5095631a62ad4edeb5bbad016f1d4d7752adad7f95774053e6",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A small study of shared lunch spaces: What did managers first assume?",
+          "options": {
+            "A": "A large room would encourage meetings.",
+            "B": "Employees never ate lunch.",
+            "C": "The corridor was too wide.",
+            "D": "Every worker had an hour off."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "管理者原先设想大房间促进交流。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "2bd82a6ce0a583e76c3fc6aefd298bd0d6ea60c7d6e06fe770e8de90bb7843ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A small study of shared lunch spaces: Why was a distant room unsuitable for many workers?",
+          "options": {
+            "A": "It lacked windows.",
+            "B": "Their breaks were very short.",
+            "C": "It was open only at night.",
+            "D": "It had too many chairs."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "短暂休息不够往返远处房间。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c6c8e286e3ed05c8fd2f3227f1cee317f14f0d75931f69b28a3609818bea398e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A small study of shared lunch spaces: How did the proposal treat social lunches?",
+          "options": {
+            "A": "As a mandatory daily activity.",
+            "B": "As a benefit only for managers.",
+            "C": "As an option employees could choose.",
+            "D": "As a replacement for quiet breaks."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "社交午餐应由员工自愿选择。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8fd59279451c472fcf90aa5c05502e2e6262b104c8280f14ea87e0cd86203bd9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A small study of shared lunch spaces: What change followed comments about the corridor tables?",
+          "options": {
+            "A": "The tables were moved slightly.",
+            "B": "The building was closed.",
+            "C": "Lunch breaks were cancelled.",
+            "D": "The quiet room was removed."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "因冷风问题略微移动桌子。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fc7b191cb90e9fb44bd65b2004d177fcfc661cc2de1b5209715b0b5ebee5bddc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A small study of shared lunch spaces: What does the writer identify as the most useful discovery?",
+          "options": {
+            "A": "Empty seats tell the whole story.",
+            "B": "Furniture must never change.",
+            "C": "Workers reasons for choosing spaces are important.",
+            "D": "Large rooms always save money."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "理解使用者选择原因比只数座位重要。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "150f10bdbe165ac50449901bcd096ad29ed69b90e22ddb96f46c78f46c6f8926"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "When a museum invited local memories",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A local museum planned an exhibition about an old railway station. Its staff had photographs and official records, but these mostly described the building and its timetable. They wanted to learn how the station had shaped ordinary lives. Notices invited residents to share memories, tickets and letters. The museum made it clear that people could tell a story without giving away a treasured object. Some contributors preferred to speak privately rather than have their names displayed.\n\nAt first, the staff grouped the stories by year. Visitors found the order easy to follow, yet it hid connections among different lives. One woman remembered waiting for her father to return from work; another recalled selling fruit to travellers at the same platform. The museum reorganized part of the exhibition around activities such as working, waiting and meeting. Dates remained available for visitors who wanted them.\n\nThe staff also faced a question of accuracy. Two people remembered the station clock showing different times on the day of a major storm. Rather than choose one memory and present it as certain, the exhibition explained that personal recollections can differ. It placed the memories beside a newspaper report and asked visitors what each source could tell them. In this way, uncertainty became a chance to think about evidence.\n\nWhen the exhibition opened, several visitors added details that the museum had missed, including the fact that a nearby shop lent umbrellas on rainy days. The staff recorded these comments and checked them before changing any labels. The project did more than add colourful stories to official records. It gave residents a way to see their own experience as part of a shared history, while showing that memories should be handled with care. A small table invited further written recollections throughout the exhibition.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：历史与证据"
+      ],
+      "contentFingerprint": "419c91c755d5d0d2e4538017d9ee779416e900166fc2bfc1c86dc713a3611efe",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "When a museum invited local memories: Why did the museum seek residents stories?",
+          "options": {
+            "A": "Official records said little about ordinary lives.",
+            "B": "Its photographs had been destroyed.",
+            "C": "The station had no timetable.",
+            "D": "It wanted to sell old tickets."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "官方材料主要记录建筑和时刻。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "df341e5817d409a6f34cd7efc8204222db3f37b3c9aac4d5aaa6ccc10f65f98c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "When a museum invited local memories: What could contributors do without donating an object?",
+          "options": {
+            "A": "Drive a train.",
+            "B": "Tell a story.",
+            "C": "Change the building.",
+            "D": "Write a new timetable."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "可只讲述回忆，不必捐物。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d73bbd1b363f3d1aa9c6c1505c4f655e06dd2058cae65069a81526200daa71d9"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "When a museum invited local memories: Why did staff reorganize part of the exhibition?",
+          "options": {
+            "A": "Visitors disliked every date.",
+            "B": "Different stories shared common activities.",
+            "C": "A storm damaged the rooms.",
+            "D": "All records were false."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "按活动重组可呈现不同故事的联系。",
+          "knowledgePoints": [
+            "阅读理解：篇章结构"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6050dd88f387ba4f0e642fc22cd9628a88e8a91ef4e41b674a2686b7d5bca190"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "When a museum invited local memories: How were the conflicting clock memories presented?",
+          "options": {
+            "A": "One was silently removed.",
+            "B": "Both were treated as proven facts.",
+            "C": "They were placed beside another source for comparison.",
+            "D": "They were used to cancel the show."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "与报纸报道并置，提示证据差异。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "545e137d7b9cb92c0750e53e085ae29f4f996f328e362c858f709117da0ab67c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "When a museum invited local memories: Which attitude best describes the museum approach?",
+          "options": {
+            "A": "Open to contributions but careful about evidence.",
+            "B": "Interested only in official documents.",
+            "C": "Certain that every memory is exact.",
+            "D": "Unwilling to change any label."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "既欢迎记忆也核查证据。",
+          "knowledgePoints": [
+            "阅读理解：态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "fe48bb3fb8f56700c858569954739917e001c70f58e671c9de4208adcc68778e"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A garden that measured more than harvests",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When a neighbourhood group started a small garden, it expected to judge success by the amount of food produced. Volunteers planted vegetables in raised beds and weighed each harvest. The figures were useful, but they did not explain why some beds were cared for regularly while others were neglected. The group invited volunteers to describe their experiences. Several said they enjoyed the work but could not come at the same time every week. New members found the watering instructions confusing, and older members were unsure whom to ask when tools were missing.\n\nThe coordinators introduced a simple notebook beside the tool shed. Volunteers recorded what they had done and what still needed attention. They also arranged short introductions at different times of day, rather than expecting everyone to attend one Saturday meeting. A shared calendar allowed members to exchange tasks when work or family duties changed. None of these ideas required new land or expensive equipment.\n\nAt the end of the season, the group compared harvest records with participation notes. The total weight of vegetables had risen only a little. However, more people had taken part, and fewer plants had been lost during hot weeks. Members had also learned which crops were suitable for the limited shade. Some residents valued the garden chiefly as a place to meet neighbours, while others cared more about fresh food.\n\nThe group decided to keep measuring harvests, but not to use weight as its only measure. It would also ask whether volunteers could join without difficulty and whether the garden was learning from mistakes. A project can produce a modest harvest yet still create valuable skills and relationships. Measuring several outcomes helped the group make a more honest decision about what to improve next. The records also made it easier to explain those choices to neighbours.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：社区项目与评价"
+      ],
+      "contentFingerprint": "22f235b7f65eb49b29a13a55b88f29b446ccfe0f625afd204162097f6093440e",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A garden that measured more than harvests: What did the group expect to measure at first?",
+          "options": {
+            "A": "The number of nearby houses.",
+            "B": "The amount of food harvested.",
+            "C": "The price of every tool.",
+            "D": "The age of its volunteers."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最初以收获量判断成效。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "391ffe74330e1fbdf2880908365cae490695225a307f4586be253d4238b10817"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A garden that measured more than harvests: What problem did new members report?",
+          "options": {
+            "A": "Instructions for watering were confusing.",
+            "B": "All beds were too high.",
+            "C": "The notebook was missing.",
+            "D": "No one liked vegetables."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "新成员不清楚浇水要求。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0cf8b5bbe2622814b9bb2705c92f27f97e05ecc6669b8ed932ba59de79b0aa78"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A garden that measured more than harvests: Why were introductions offered at different times?",
+          "options": {
+            "A": "To sell more vegetables.",
+            "B": "To include people with different schedules.",
+            "C": "To avoid discussing mistakes.",
+            "D": "To shorten the growing season."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "照顾不同时间安排的志愿者。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "138e21ca885dc4c32932ab728a13f8fd105340497c649ba13dd6e1663653523b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A garden that measured more than harvests: What happened to the total harvest weight?",
+          "options": {
+            "A": "It disappeared from the records.",
+            "B": "It fell to zero.",
+            "C": "It increased only slightly.",
+            "D": "It doubled every week."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "总收获量仅略有增长。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "552ac2ed1aa1f438189dddfe5d1befa0f0261013e19ad1f9d8268f391f44fb9c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A garden that measured more than harvests: What is the main conclusion?",
+          "options": {
+            "A": "A garden should be judged by several outcomes.",
+            "B": "Vegetables cannot grow in shade.",
+            "C": "Records are never useful.",
+            "D": "Only food production has value."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "应综合考察产量、参与和学习。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "64cb18f702eba4dd49593173d27f35d00d97c92e54315911e8d3252a1bebba6f"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The nurse gave a _____ account of the procedure, so patients knew what to expect.",
+      "options": {
+        "A": "cloudy",
+        "B": "clear",
+        "C": "silent",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "clear表示清晰易懂。",
+      "knowledgePoints": [
+        "词汇：形容词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "36295d12082bb7df8583bc6ca9e26dc1784ff9c9cc282747b2b8f3d45737bc81"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The council will _____ the new notice after passengers have tried it for a month.",
+      "options": {
+        "A": "borrow",
+        "B": "paint",
+        "C": "divide",
+        "D": "review"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "review表示复查评估。",
+      "knowledgePoints": [
+        "词汇：动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3b836f4b240fabc77b69c816683cc7274e035247edfd0649a4e490dcb1015401"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A short map can help a visitor find the correct _____ at a busy station.",
+      "options": {
+        "A": "platform",
+        "B": "recipe",
+        "C": "garden",
+        "D": "salary"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "platform表示站台。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b573f31071408596ddb29dfb3f5a7aedf2ea4234f4e8550b31146cb774b5491d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The museum asked permission before making a private letter _____.",
+      "options": {
+        "A": "empty",
+        "B": "narrow",
+        "C": "public",
+        "D": "daily"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "public表示公开的。",
+      "knowledgePoints": [
+        "词汇：语境"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3331923e10f2b47abe9cd60f57c51f82e558e12e0840a678329f13b28195ee67"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Staff recorded each _____ to the timetable so that passengers would notice it.",
+      "options": {
+        "A": "chair",
+        "B": "change",
+        "C": "crop",
+        "D": "guest"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "change表示变化。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "97789a603834d14e627bd5038627151ac0a5379446961562098905ce1c4e7ec7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The garden group needed a _____ way to divide watering duties.",
+      "options": {
+        "A": "ancient",
+        "B": "polite",
+        "C": "foreign",
+        "D": "practical"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "practical表示切实可行。",
+      "knowledgePoints": [
+        "词汇：形容词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5e80baf14b7ec15335657f76c5885165bac9ad89135757f448caa5d791f90032"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "When the first survey was incomplete, the committee gathered _____ evidence.",
+      "options": {
+        "A": "additional",
+        "B": "opposite",
+        "C": "ordinary",
+        "D": "silent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "additional表示补充的。",
+      "knowledgePoints": [
+        "词汇：形容词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "18ce7ea168a305c9ceca1d9c6b83903f27e4fce3eb329dc02fc51abf8cd7f057"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The sign was placed at eye _____ so that visitors could read it easily.",
+      "options": {
+        "A": "price",
+        "B": "season",
+        "C": "level",
+        "D": "speed"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "eye level表示视线高度。",
+      "knowledgePoints": [
+        "词汇：固定搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0ea0c76cd92ce43136e4e172be78993ef1fdaee52ea699e4a968b75ed9c591d9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "The volunteers agreed to _____ their observations at the weekly meeting.",
+      "options": {
+        "A": "hide",
+        "B": "share",
+        "C": "drop",
+        "D": "waste"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "share表示分享。",
+      "knowledgePoints": [
+        "词汇：动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c2431e3a915f88e7dc09fcf14faedac252c184f6383cde742a074d528000f3a5"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The new arrangement should be flexible enough to meet changing _____.",
+      "options": {
+        "A": "shapes",
+        "B": "walls",
+        "C": "colours",
+        "D": "needs"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "needs表示需求。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c9f9fd324b93a86d1dfa55ee713c4d30a790fa869b9aeb1fb50113b10b1f92a6"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the notice _____ clearer, fewer passengers would ask for directions.",
+      "options": {
+        "A": "is",
+        "B": "were",
+        "C": "will be",
+        "D": "has been"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与现在事实相反的虚拟条件句用were。",
+      "knowledgePoints": [
+        "语法：虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7b2ef8dda22ec36a588db12afa288bb9c5c602d3cee9603c261f87f95cc1061f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The letters _____ by the museum last month are now on display.",
+      "options": {
+        "A": "collecting",
+        "B": "collect",
+        "C": "to collect",
+        "D": "collected"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语，表示被收集。",
+      "knowledgePoints": [
+        "语法：非谓语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7779b0f32c612e53c9139a0ac7833c0bdb23ecbb3bdc10f4dfa0f6930ffd80c1"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "Neither the manager nor the workers _____ satisfied with the first plan.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "has"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "就近一致，workers对应were。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "dcfd224b866226185608960e0a917e7dfc774a3fff74ea93b3c23ce6d91abe63"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The map shows _____ the buses travel after leaving the station.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "where",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "where引导地点宾语从句。",
+      "knowledgePoints": [
+        "语法：从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8bf0b19aba15854c66ea64e57c302fd8d9f141a1e3d87fbfb1a0ac128bcc277e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By the time the trial ended, the group _____ several problems.",
+      "options": {
+        "A": "identifies",
+        "B": "had identified",
+        "C": "will identify",
+        "D": "is identifying"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "过去的过去用过去完成时。",
+      "knowledgePoints": [
+        "语法：时态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e9aae4859075ead4b5cc2d9687847108e78e5971ba143e32a2e35346cff35834"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The volunteer spoke slowly _____ everyone could follow the instructions.",
+      "options": {
+        "A": "unless",
+        "B": "although",
+        "C": "before",
+        "D": "so that"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "so that引导目的状语从句。",
+      "knowledgePoints": [
+        "语法：连词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "70df1af6c6a99d31d6259473bb1c820b4d74c771b51617bff49b7aa99492fd10"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the room _____ we held the first discussion.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "where作关系副词，指地点。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c124edbd453d6394ab31329f0ec14b38b54bdb6b5cd334e29e2c703258def1e0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The council will send the update as soon as it _____ ready.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "has been being"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "时间从句用一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：时间从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "cb8a145c60d4fc4ea728e8741e7fe8a7efc1fcdaa530eb52e74e4491fad86091"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "Not until the signs were changed _____ the complaints decrease.",
+      "options": {
+        "A": "were",
+        "B": "did",
+        "C": "had",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "否定状语置于句首时主句部分倒装。",
+      "knowledgePoints": [
+        "语法：倒装"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "58c2fe05f6eec02d13e67f8f6b3d21e43e9c7e00162fd11e3dfc0bbd2e5f85e0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The more clearly we explain the route, _____ it is for visitors to plan a trip.",
+      "options": {
+        "A": "easier",
+        "B": "the easiest",
+        "C": "more easy",
+        "D": "the easier"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more...the more比较结构。",
+      "knowledgePoints": [
+        "语法：比较结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "93efaa074bf74a27a826964a16e3b5b1e42d78787ab28dd060a248ebd1d437d1"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA clear public notice does more than present correct facts. It helps readers decide what to do next. Before publishing a new notice, staff should ask people who have not seen the plan to use it for a real task. Their questions may reveal missing directions or words that are familiar only to the writers. Such feedback is not a sign that the first draft has failed. It is information that can make the final version more useful. When a service changes, the notice should also explain where people can find current details. A simple map, a date, and a contact number may save many visitors an unnecessary journey.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意more than、who引导的定语从句及may表示的可能性。",
+      "referenceAnswer": "清楚的公共告示不只是呈现正确事实，还能帮助读者决定下一步做什么。发布新告示前，工作人员应请没见过方案的人利用告示完成一项真实任务。他们提出的问题可能暴露缺失的指引，或只有撰写者才熟悉的用词。这类反馈并不意味着初稿失败，而是能让最终版本更实用的信息。服务发生变化时，告示还应说明人们从哪里获取最新详情。一张简单的地图、一个日期和一个联系电话，可能使许多访客免于白跑一趟。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "6c7f1edfa669d23798ad72ca5465750fb2c2cb0bab9ba1ffdc762b0dd3cc84c2",
+      "referenceAnswerFingerprint": "91631d0dc3494bf7f22a6bf5f94466fabc0ed812558db456d5815ffd1a80c38d"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a community centre suggesting how it could make course information easier for new learners to use. Describe two changes and explain how the centre could check whether they help.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖信息集中呈现、路线图与真实用户测试三个要点。",
+      "sampleAnswer": "Dear Centre Manager,\nI am writing to suggest two changes to the information about your evening courses. First, each course page could show the building, room number, start date and total cost together. New learners would then be able to plan their visit without searching several pages. Second, the centre could provide a simple map from the nearest bus stop to the correct entrance. This would be especially helpful for people arriving after dark.\nTo check whether these changes work, please ask a few people who have never attended a course to find a room using only the new information. Staff could record the questions they ask and the time they need. After the first month, a short survey could identify anything that is still unclear. These small steps would make joining a course easier.\nYours sincerely,\nA learner",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "3c385dcab60c78a47e9752217e8797be35e814dc69312a21a954866a578db601",
+      "sampleAnswerFingerprint": "52fe95209d8a2d2b86eb1f3462d34efe54652874839ef3228645b262f6470632"
+    }
+  ],
+  "fingerprintManifest": [
+    "a56ae40d24170cb3c8ac956bd3876b823f3eedbf15047d04c060e0f629aa2444",
+    "939cf4695eabb481268b1a140aaec95ae532c1aa8a3ea1002eacad839ef493a1",
+    "215d751753c14fe17efffc65283c5140bdc2a21ee703d15f884bc4d172ca9a53",
+    "c39b4772e38933db4ac8ea074afa4f265ac20f4bbf5488c9f5bbf4530d141acd",
+    "f94bb87aeffa090ad435c689ebb3685e18f2ee24dbfe5fc0f20c4b3a53b1937b",
+    "b793daef854c16b3de33d6b84d4e724a30c057ab19d609cf0edd9f0cad48fb12",
+    "b02010fe311f46b9cad843fcce1d419a531594e92ab3b428be4507f40ed122de",
+    "1e7a10b989a4f9bb37efe45f0be9b1ab9b8074e7c507773c3a4fd3020b3db8b5",
+    "be6b3aee4980f0bc03dce94159b440e56f58d7aa9fd0c9cadbed0a0741ac7dfc",
+    "17e93bed89eaaca3cc1eb2f84a25c2319342fc16ad41eec809340aacf08dc200",
+    "27fffafd61a7e14ddbcbdb2cfbb84092c9d51aae2a05d410a4862094d330d6e4",
+    "d0fb81cb704cb116c0fc7cfe65957a02b8bd95910e56113453290d9b43f300cb",
+    "6c496c2d29e45659bc89c8053b81c174b37b678bc14b62f33fa152c8af7ab19c",
+    "8385dbcc2b8a9e74b25d2ca6a12c059e1e5093dc6f7efd7a5bc858c4854558f7",
+    "76f437027072dcd178ac6e3856dabfa77431c4866daa6feb8408788a5a048ed8",
+    "c376adc72920d1a4f4c0ff45f9d1b2eed77436a8453fe8ae666eecb8882cf740",
+    "dffdc2dab334d0f52eef945ca2ebe4935e19599e298d302c372b0dae64e13108",
+    "31195d0b5bf11d453078ff8575cb2cd815eaa6650d2b3a2359026316787410fe",
+    "529636952fb38552e88a2e46077b230b4ca3370c765ec1810ddb137d2fe43ecc",
+    "6e05f9ab851ede5095631a62ad4edeb5bbad016f1d4d7752adad7f95774053e6",
+    "2bd82a6ce0a583e76c3fc6aefd298bd0d6ea60c7d6e06fe770e8de90bb7843ae",
+    "c6c8e286e3ed05c8fd2f3227f1cee317f14f0d75931f69b28a3609818bea398e",
+    "8fd59279451c472fcf90aa5c05502e2e6262b104c8280f14ea87e0cd86203bd9",
+    "fc7b191cb90e9fb44bd65b2004d177fcfc661cc2de1b5209715b0b5ebee5bddc",
+    "150f10bdbe165ac50449901bcd096ad29ed69b90e22ddb96f46c78f46c6f8926",
+    "419c91c755d5d0d2e4538017d9ee779416e900166fc2bfc1c86dc713a3611efe",
+    "df341e5817d409a6f34cd7efc8204222db3f37b3c9aac4d5aaa6ccc10f65f98c",
+    "d73bbd1b363f3d1aa9c6c1505c4f655e06dd2058cae65069a81526200daa71d9",
+    "6050dd88f387ba4f0e642fc22cd9628a88e8a91ef4e41b674a2686b7d5bca190",
+    "545e137d7b9cb92c0750e53e085ae29f4f996f328e362c858f709117da0ab67c",
+    "fe48bb3fb8f56700c858569954739917e001c70f58e671c9de4208adcc68778e",
+    "22f235b7f65eb49b29a13a55b88f29b446ccfe0f625afd204162097f6093440e",
+    "391ffe74330e1fbdf2880908365cae490695225a307f4586be253d4238b10817",
+    "0cf8b5bbe2622814b9bb2705c92f27f97e05ecc6669b8ed932ba59de79b0aa78",
+    "138e21ca885dc4c32932ab728a13f8fd105340497c649ba13dd6e1663653523b",
+    "552ac2ed1aa1f438189dddfe5d1befa0f0261013e19ad1f9d8268f391f44fb9c",
+    "64cb18f702eba4dd49593173d27f35d00d97c92e54315911e8d3252a1bebba6f",
+    "36295d12082bb7df8583bc6ca9e26dc1784ff9c9cc282747b2b8f3d45737bc81",
+    "3b836f4b240fabc77b69c816683cc7274e035247edfd0649a4e490dcb1015401",
+    "b573f31071408596ddb29dfb3f5a7aedf2ea4234f4e8550b31146cb774b5491d",
+    "3331923e10f2b47abe9cd60f57c51f82e558e12e0840a678329f13b28195ee67",
+    "97789a603834d14e627bd5038627151ac0a5379446961562098905ce1c4e7ec7",
+    "5e80baf14b7ec15335657f76c5885165bac9ad89135757f448caa5d791f90032",
+    "18ce7ea168a305c9ceca1d9c6b83903f27e4fce3eb329dc02fc51abf8cd7f057",
+    "0ea0c76cd92ce43136e4e172be78993ef1fdaee52ea699e4a968b75ed9c591d9",
+    "c2431e3a915f88e7dc09fcf14faedac252c184f6383cde742a074d528000f3a5",
+    "c9f9fd324b93a86d1dfa55ee713c4d30a790fa869b9aeb1fb50113b10b1f92a6",
+    "7b2ef8dda22ec36a588db12afa288bb9c5c602d3cee9603c261f87f95cc1061f",
+    "7779b0f32c612e53c9139a0ac7833c0bdb23ecbb3bdc10f4dfa0f6930ffd80c1",
+    "dcfd224b866226185608960e0a917e7dfc774a3fff74ea93b3c23ce6d91abe63",
+    "8bf0b19aba15854c66ea64e57c302fd8d9f141a1e3d87fbfb1a0ac128bcc277e",
+    "e9aae4859075ead4b5cc2d9687847108e78e5971ba143e32a2e35346cff35834",
+    "70df1af6c6a99d31d6259473bb1c820b4d74c771b51617bff49b7aa99492fd10",
+    "c124edbd453d6394ab31329f0ec14b38b54bdb6b5cd334e29e2c703258def1e0",
+    "cb8a145c60d4fc4ea728e8741e7fe8a7efc1fcdaa530eb52e74e4491fad86091",
+    "58c2fe05f6eec02d13e67f8f6b3d21e43e9c7e00162fd11e3dfc0bbd2e5f85e0",
+    "93efaa074bf74a27a826964a16e3b5b1e42d78787ab28dd060a248ebd1d437d1",
+    "6c7f1edfa669d23798ad72ca5465750fb2c2cb0bab9ba1ffdc762b0dd3cc84c2",
+    "91631d0dc3494bf7f22a6bf5f94466fabc0ed812558db456d5815ffd1a80c38d",
+    "3c385dcab60c78a47e9752217e8797be35e814dc69312a21a954866a578db601",
+    "52fe95209d8a2d2b86eb1f3462d34efe54652874839ef3228645b262f6470632"
+  ],
+  "contentFingerprint": "0aa4002c6ca9a22b11f62bbadb552797ebe7f876a6e0a8e4c5ced3130be4bb88"
+}

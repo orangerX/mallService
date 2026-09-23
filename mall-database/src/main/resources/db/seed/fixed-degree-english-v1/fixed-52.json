@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-52",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 52 · 城市生态与终身学习",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 52,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Joining a river observation walk",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Student: I would like to join the river observation walk. Do I need special equipment?\nLeader: (1) _____\nStudent: Where should we meet?\nLeader: (2) _____\nStudent: Will the walk still happen if it rains?\nLeader: (3) _____\nStudent: How can I see what the group records?\nLeader: (4) _____",
+      "sharedOptions": {
+        "A": "We will meet outside the east entrance to the park.",
+        "B": "The summary will be shared on the community website next week.",
+        "C": "Comfortable shoes are enough; we will provide the notebooks.",
+        "D": "Light rain is fine, but we will send a message if conditions are unsafe."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "a309bd799cbd47dd8a7d1c6466309dcecf447b5b5101ba96447f9e69409a3625",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Joining a river observation walk”, choose the response for blank (1).",
+          "options": {
+            "A": "We will meet outside the east entrance to the park.",
+            "B": "The summary will be shared on the community website next week.",
+            "C": "Comfortable shoes are enough; we will provide the notebooks.",
+            "D": "Light rain is fine, but we will send a message if conditions are unsafe."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明提供记录用品。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "905ec1d97c224fd13c6165bd7c32a037abedf1efb1c42fb28d652a5f93ed6dce"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Joining a river observation walk”, choose the response for blank (2).",
+          "options": {
+            "A": "We will meet outside the east entrance to the park.",
+            "B": "The summary will be shared on the community website next week.",
+            "C": "Comfortable shoes are enough; we will provide the notebooks.",
+            "D": "Light rain is fine, but we will send a message if conditions are unsafe."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "告知集合地点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "1d33298c9b96d95883908dc24b0c31a96c089799d53708821bf2dadbedaf4d45"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Joining a river observation walk”, choose the response for blank (3).",
+          "options": {
+            "A": "We will meet outside the east entrance to the park.",
+            "B": "The summary will be shared on the community website next week.",
+            "C": "Comfortable shoes are enough; we will provide the notebooks.",
+            "D": "Light rain is fine, but we will send a message if conditions are unsafe."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "区分小雨和不安全天气。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "a1a67f0b5068a540b805cca5ba0ff564725a9b9dcaffc57c9ed27606304fcc77"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Joining a river observation walk”, choose the response for blank (4).",
+          "options": {
+            "A": "We will meet outside the east entrance to the park.",
+            "B": "The summary will be shared on the community website next week.",
+            "C": "Comfortable shoes are enough; we will provide the notebooks.",
+            "D": "Light rain is fine, but we will send a message if conditions are unsafe."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明观察记录的公布方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "a880e46c3cc94942690d9b0a17b1a09967c599f39d48c57cba05fcbf30ece47e"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Borrowing a study room",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Learner: Is there a quiet room where my group can practise a presentation?\nAssistant: (1) _____\nLearner: Can we book it for next Tuesday evening?\nAssistant: (2) _____\nLearner: What time must we leave?\nAssistant: (3) _____",
+      "sharedOptions": {
+        "A": "The river path is open in the morning.",
+        "B": "Please finish by eight thirty so staff can close the building.",
+        "C": "Yes, the small study room is available for groups.",
+        "D": "I will check the calendar and confirm your booking today."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "992c423c80ce1ceb222f844ed33a3f1d65f32bcdf6d41edf9f148675662c27bc",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Borrowing a study room”, choose the response for blank (1).",
+          "options": {
+            "A": "The river path is open in the morning.",
+            "B": "Please finish by eight thirty so staff can close the building.",
+            "C": "Yes, the small study room is available for groups.",
+            "D": "I will check the calendar and confirm your booking today."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "推荐可供小组使用的安静教室。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "4e4809e07e1b9411623d4218cf891d5620eb5aef21ad5664ed3453037429bc70"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Borrowing a study room”, choose the response for blank (2).",
+          "options": {
+            "A": "The river path is open in the morning.",
+            "B": "Please finish by eight thirty so staff can close the building.",
+            "C": "Yes, the small study room is available for groups.",
+            "D": "I will check the calendar and confirm your booking today."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "承诺核对日程并确认预约。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "09d3e9bfd370ea73a0c736a46fd89b016139330c3bfe7ab2cc57235749c8a8b7"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Borrowing a study room”, choose the response for blank (3).",
+          "options": {
+            "A": "The river path is open in the morning.",
+            "B": "Please finish by eight thirty so staff can close the building.",
+            "C": "Yes, the small study room is available for groups.",
+            "D": "I will check the calendar and confirm your booking today."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "说明结束时间。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "01b8523b2e3dc59f454f011f68af7787f045213e1b5f7704fc66340199f358fc"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Reporting a broken street light",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: The light near the pedestrian bridge is not working. Who should I tell?\nOfficer: (1) _____\nResident: Do you need the exact location?\nOfficer: (2) _____\nResident: Will I know when it has been repaired?\nOfficer: (3) _____",
+      "sharedOptions": {
+        "A": "The bridge was painted three years ago.",
+        "B": "Please report it through the town service line.",
+        "C": "Yes, the nearest house number will help our team find it.",
+        "D": "We can send an update to the phone number you provide."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "8cec9878544606b71d5d962bb3a54b7615d40fe79dc92d472d6ce12807f57e55",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Reporting a broken street light”, choose the response for blank (1).",
+          "options": {
+            "A": "The bridge was painted three years ago.",
+            "B": "Please report it through the town service line.",
+            "C": "Yes, the nearest house number will help our team find it.",
+            "D": "We can send an update to the phone number you provide."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "提供报修渠道。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "b3c4c716c45971cfd8776310ec6490a6a076786b6e81ba3ff0e3f67d88fdc69b"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Reporting a broken street light”, choose the response for blank (2).",
+          "options": {
+            "A": "The bridge was painted three years ago.",
+            "B": "Please report it through the town service line.",
+            "C": "Yes, the nearest house number will help our team find it.",
+            "D": "We can send an update to the phone number you provide."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "说明定位信息有帮助。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "6b54c6ac8f7e1266b74a05bce2fa3f8f15ec8004f7004bff74e8d4883b992f0c"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Reporting a broken street light”, choose the response for blank (3).",
+          "options": {
+            "A": "The bridge was painted three years ago.",
+            "B": "Please report it through the town service line.",
+            "C": "Yes, the nearest house number will help our team find it.",
+            "D": "We can send an update to the phone number you provide."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "说明维修进度的通知方式。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "8179f5a0b20531e407610630b0644dc35d8903e2022d92dbce4037e245279f0f"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The return of shade to a city street",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A city planted trees along a busy shopping street to make summer walks more comfortable. The first plan placed identical trees at regular distances. It looked tidy on paper, but a survey of the street revealed several difficulties. Delivery vehicles needed room to stop, an underground cable crossed one section, and two shop windows relied on daylight. The planning team walked the route with shopkeepers, residents and maintenance workers before marking final planting sites.\n\nInstead of abandoning the project, the team selected three kinds of trees that would grow to different sizes. Smaller trees went near the shop windows, while larger ones were placed where people waited for buses. The team also left a clear path wide enough for wheelchairs and pushchairs. Each planting site had to be checked for pipes and cables. These changes meant fewer trees than originally proposed, but the ones planted had a better chance of surviving.\n\nDuring the first summer, the city measured the temperature of several shaded and unshaded places at the same time of day. People standing under the young trees reported feeling more comfortable, although the recorded difference was still small. The team reminded residents that young trees would not provide full shade immediately. Regular watering and protection from damage were essential. A nearby school volunteered to help record whether the trees remained healthy, but trained workers kept responsibility for maintenance.\n\nThree years later, the city planned to compare the street again, including how easy it was to walk, wait and shop there. Planting was only the beginning of the project. Its value would depend on whether the trees could grow safely alongside the many activities already taking place on the street. Residents would be invited to report damage through an existing public service line.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：城市环境与规划"
+      ],
+      "contentFingerprint": "8cc76d51153933d50b55e8e12ef685a2668e9d17fbd8be9b0f64b9198706c76a",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "The return of shade to a city street: Why was the first planting plan changed?",
+          "options": {
+            "A": "The street had no shops.",
+            "B": "Practical conditions varied along the route.",
+            "C": "Residents opposed every tree.",
+            "D": "Summer temperatures were falling."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "地下设施、停车和采光要求各不相同。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "7c5fd198b9b3c211c5d958fe95ac5b475b852adb05ad9ba088d8fdabf2f5e97c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "The return of shade to a city street: Where did the team place larger trees?",
+          "options": {
+            "A": "Near places where people waited for buses.",
+            "B": "Directly against shop windows.",
+            "C": "Above underground cables.",
+            "D": "In the middle of the roadway."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "较大的树栽在候车处。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1a32bc75f1c748011ca571964eb654d0fa7cd483d9d557d1a8c723d1f6b77d48"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "The return of shade to a city street: What was observed during the first summer?",
+          "options": {
+            "A": "All trees provided complete shade.",
+            "B": "The measured difference was small although people felt better.",
+            "C": "Every tree had to be replaced.",
+            "D": "The buses stopped using the street."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "主观舒适度改善，实测温差仍小。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ea9b137261992f5d8ee858f3e56d8525e8eb2ad197eb0b6ae3bc2d7437389490"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "The return of shade to a city street: What role did the nearby school take?",
+          "options": {
+            "A": "Replacing trained maintenance workers.",
+            "B": "Deciding where every cable lay.",
+            "C": "Helping record tree health.",
+            "D": "Closing all shop entrances."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "学校协助观察树木健康。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "43a4c96de73574b28be276cd48bb1c79beede0852e6c18013d8c9229c2724d7c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "The return of shade to a city street: Which statement best expresses the main idea?",
+          "options": {
+            "A": "Planting trees requires attention to existing street uses and long-term care.",
+            "B": "Every city should plant identical trees.",
+            "C": "Shade is available as soon as a tree is planted.",
+            "D": "A tidy drawing is more important than street conditions."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "要兼顾街道用途和后续养护。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "19537061c08892d3a306762cb3e585d21287431a81b287c6de2f673ff3bbecb3"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "An evening class learns from errors",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "In an evening mathematics class, several adults were reluctant to show their work. They had returned to study after years away from school and feared that a wrong answer would waste everyone's time. Their teacher noticed that students often copied the final answer without understanding the steps. She decided to change how the group discussed mistakes. Once a week, she presented a solution containing an error that she had written herself. Students worked in pairs to identify the step where the reasoning changed direction.\n\nAt first, the class focused on finding the incorrect number. The teacher then asked a second question: what reasonable thought might have led someone to make that choice? Students began to explain why a method looked attractive and where it stopped working. This reduced the feeling that an error was simply a sign of carelessness. It also gave the teacher information about which ideas needed further explanation.\n\nAfter a month, learners could choose to discuss one of their own attempts anonymously. The teacher never required anyone to reveal a personal mistake. One student submitted a problem about percentages that many classmates had found difficult. Their discussion showed that the class needed more practice distinguishing a percentage of a total from a percentage change. The next lesson used prices and wages to make the distinction clearer.\n\nScores on a short classroom exercise improved, but the teacher considered another change equally important. More students were willing to ask how an answer had been reached. She still gave direct feedback and expected accurate work. Her aim was to make the path to accuracy visible. For these learners, discussing a mistaken step in a respectful way became a tool for understanding, rather than a public judgment about ability. Several learners began keeping notes about methods they wanted to revisit.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：成人学习与思维"
+      ],
+      "contentFingerprint": "b879e1315590db0524143d61e5292eeca5488a0fb2570d407364ebc5f45ae66d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "An evening class learns from errors: Why did some learners avoid showing their work?",
+          "options": {
+            "A": "They had no writing materials.",
+            "B": "They feared wrong answers would waste time.",
+            "C": "The teacher never asked questions.",
+            "D": "They already knew every method."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "担心错误会浪费大家时间。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "553944d5efcb797f4ae30e117218c4748ca243a7d6b440c61eaa4d34bb65b5b0"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "An evening class learns from errors: What did the teacher first put before the class?",
+          "options": {
+            "A": "A solution containing her own deliberate error.",
+            "B": "An exam with no answers.",
+            "C": "A list of students mistakes.",
+            "D": "A difficult novel."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "先用教师写的带错解答。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8096417b400e53ae50e5259e254c714275ecfeb32b440f3246e1ee6b1bc83f17"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "An evening class learns from errors: What did the second discussion question encourage?",
+          "options": {
+            "A": "Guessing without reasons.",
+            "B": "Blaming the person who was wrong.",
+            "C": "Explaining why a mistaken method seemed reasonable.",
+            "D": "Avoiding all calculations."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "分析误法为何看似合理。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4f657626e5c43fc575de4f685e58a7a1fe141e86fe323d06ff77b6dfdf8a5696"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "An evening class learns from errors: How could learners share a personal attempt later?",
+          "options": {
+            "A": "Only with their name displayed.",
+            "B": "Anonymously and by choice.",
+            "C": "Only after passing an exam.",
+            "D": "By posting it outside the school."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "自愿匿名提交。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "30c3245115271aa17e17023ab51f7d1bb3b791fa8537b9aad4341eca9212dae4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "An evening class learns from errors: What does the phrase path to accuracy refer to?",
+          "options": {
+            "A": "The route to the school.",
+            "B": "The process of reasoning toward a correct answer.",
+            "C": "The order of desks in the room.",
+            "D": "The speed of copying a final answer."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "指向正确答案的推理过程。",
+          "knowledgePoints": [
+            "阅读理解：词义推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4d286919c30baa0fa101cfe69fefe57f48996d4d4576cd2a451a8aff1f95e2f2"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "A market tries reusable containers",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The owners of a weekend food market wanted to reduce the number of disposable containers left in nearby bins. They considered requiring every seller to use one standard reusable box. Some sellers welcomed the idea, but others sold food that needed different packaging. Customers also arrived from many places, making it uncertain whether they could return a box the following week. The market committee therefore began with a smaller trial at four stalls.\n\nCustomers at those stalls could pay a small deposit for a sturdy container and return it to any participating stall. A printed card explained how the deposit worked. At the end of each market day, the committee counted containers issued and returned. It also asked sellers how much time they spent washing and storing them. The first two weeks produced mixed results. Many containers came back, but customers sometimes forgot that a return was possible at a different stall. Some also believed the deposit was an extra charge for their meal.\n\nThe committee improved the signs and trained stall workers to give the same brief explanation. It arranged a shared washing area so that individual sellers did not need to carry containers home. Returns increased, yet the group continued to record difficulties. In particular, it needed to know whether the washing process used more water than expected. It compared the trial with the previous packaging system instead of claiming an environmental benefit from appearance alone.\n\nAt the end of three months, the committee chose to expand the trial gradually. It published the figures it had collected and invited feedback from sellers who had not joined. The system was not suitable for every kind of food. Still, the trial showed that a practical environmental change often depends on clear instructions, convenient returns and honest measurement of hidden costs. Future reports would include both customer experience and water use.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：环境措施与试点"
+      ],
+      "contentFingerprint": "bf377938fcbe336111caa0381a93be9cadbc59cabc46807698ff7c6b2fe3e5b3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "A market tries reusable containers: Why did the committee begin with only four stalls?",
+          "options": {
+            "A": "Every seller had already agreed.",
+            "B": "Food and customer return patterns varied.",
+            "C": "The market opened only four days a year.",
+            "D": "Containers were illegal elsewhere."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "食品包装需求与归还条件不同。",
+          "knowledgePoints": [
+            "阅读理解：原因"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "d67acac84c9b023a1af821aca89c255956f75e72e7194264e479428d30455dbb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "A market tries reusable containers: What could customers do with a container?",
+          "options": {
+            "A": "Return it to any participating stall.",
+            "B": "Keep it without a deposit.",
+            "C": "Return it only to the same seller.",
+            "D": "Wash it at the town hall."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "可在任一参与摊位归还。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "306abc79c781fcfafce24f17d7a0bb2ba6d1a4e64f27a6b23a1ba9ef6cddb0bc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "A market tries reusable containers: What did some customers misunderstand?",
+          "options": {
+            "A": "The market opening time.",
+            "B": "The meaning of the deposit.",
+            "C": "The size of the washing area.",
+            "D": "The list of participating sellers."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "有人误认为押金是额外餐费。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3287d80a57ff9e467d991835afc5ec8a8d222d35d05fb7442534adad44aa3560"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "A market tries reusable containers: Why did the committee measure water use?",
+          "options": {
+            "A": "To choose a new river path.",
+            "B": "To estimate a possible hidden cost of washing.",
+            "C": "To calculate the price of food.",
+            "D": "To decorate the market signs."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "要评估清洗的隐性环境成本。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "5bf582dae9b1e3e7cbb7d6d1cb7b04d62a460e129a906dd38339e88cc277b0fb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "A market tries reusable containers: What does the writer emphasize about environmental changes?",
+          "options": {
+            "A": "An attractive appearance proves benefit.",
+            "B": "Rules alone guarantee success.",
+            "C": "Convenience and honest measurement matter.",
+            "D": "All sellers should use identical packaging."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "便利性和诚实衡量成本很重要。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "47aac50ed754fe6c7b80ed38ce855f7622783898ef1e803d2249458adb72974b"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The value of a neighbourhood repair record",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A group of volunteers offered a monthly repair afternoon for small household objects. At first, they wrote down only how many objects had been fixed. Their records suggested that success was growing, because more people came each month. Yet the volunteers noticed that some visitors returned with the same problem. They also spent a great deal of time on items that were unsafe to repair without special training. To understand the service better, the group changed its record sheet.\n\nThe new sheet included the type of object, the problem described by its owner and the result of the visit. Volunteers could mark an item as repaired, partly repaired or referred to a professional. They noted when a visitor learned a simple maintenance step that might prevent the problem from returning. Names were not required for this record, and the group explained why the information was being collected.\n\nAfter several months, the records showed that a loose electrical connection was a common reason for visits. The group did not respond by asking untrained volunteers to fix more electrical items. Instead, it arranged a short safety talk from a qualified technician and printed advice about when professional help was necessary. It also discovered that many bicycle problems involved tyres that were not kept at the correct pressure. A brief demonstration helped owners check them safely.\n\nThe number of objects repaired remained useful, but it no longer told the whole story. A referral could protect a visitor from harm, and a small lesson could prevent another fault. The group published a summary without identifying owners. By recording what happened and what people learned, the volunteers could improve the service while staying within the limits of their skills. Visitors could also use that summary to prepare questions before attending.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：服务记录与安全"
+      ],
+      "contentFingerprint": "8f1f8cd451763d20de26cbceb67da71dea70e06bb71fffd6bd792ec6a970324d",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "The value of a neighbourhood repair record: What was missing from the first record?",
+          "options": {
+            "A": "The number of visitors.",
+            "B": "Information about repeat problems and unsafe items.",
+            "C": "The date of every meeting.",
+            "D": "The name of the building."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "最初仅统计修好数量，缺少问题和风险信息。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6c462c75e264deaa9fa22c7191f32a576e75fbe22afd03b5d50bcfbafca4cc09"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "The value of a neighbourhood repair record: Which result could be marked on the new sheet?",
+          "options": {
+            "A": "Only a perfect repair.",
+            "B": "A referral to a professional.",
+            "C": "A promise of free replacement.",
+            "D": "A change in ticket price."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "可记录转介专业人员。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a0a84afb738725762df6d69b87d12fa3c02345696ffa794512aaf4f94148a7ce"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "The value of a neighbourhood repair record: How did the group handle frequent electrical problems?",
+          "options": {
+            "A": "It trained volunteers to ignore safety rules.",
+            "B": "It bought every visitor a new object.",
+            "C": "It arranged qualified safety advice.",
+            "D": "It stopped keeping records."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "请合格技师讲安全并印制建议。",
+          "knowledgePoints": [
+            "阅读理解：细节"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "bc03cafb56e12020359ecaffb56730bb334d32589d9147cd352a672681cec6da"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "The value of a neighbourhood repair record: Why could a referral count as useful?",
+          "options": {
+            "A": "It might protect a visitor from harm.",
+            "B": "It guaranteed a free repair.",
+            "C": "It increased the number of tools.",
+            "D": "It eliminated the need for skills."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "转介可避免不安全维修带来的伤害。",
+          "knowledgePoints": [
+            "阅读理解：推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "483c6d2b4101680d415bae5cfef9b056a6db7bebec2c2cc3c8e3d3519a7e7233"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "The value of a neighbourhood repair record: What is the passage mainly about?",
+          "options": {
+            "A": "Why all repairs should be electrical.",
+            "B": "How richer records helped improve a volunteer service.",
+            "C": "Why bicycle tyres never need checking.",
+            "D": "How the group sold household objects."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "更全面的记录帮助改善志愿维修服务。",
+          "knowledgePoints": [
+            "阅读理解：主旨"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c874dddeacc1a45d812ce9bccc003e61d0315cff592097a38cf4aec593d39ffb"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The river group will _____ its findings after the observations have been checked.",
+      "options": {
+        "A": "hide",
+        "B": "publish",
+        "C": "borrow",
+        "D": "paint"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "publish表示公布结果。",
+      "knowledgePoints": [
+        "词汇：动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f8382d21599c9a77c1d1964ef3fe09461bb6bd4455caaaf0a50ebb07f98e4d8c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The teacher gave a _____ explanation when learners asked why the method failed.",
+      "options": {
+        "A": "empty",
+        "B": "fragile",
+        "C": "distant",
+        "D": "patient"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "patient表示耐心的。",
+      "knowledgePoints": [
+        "词汇：形容词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c0ecf2f1363379f7d73f9bc0a276036585f9fc7f337e4c005fbdfffce7f239a2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "A deposit is returned when the container is brought _____.",
+      "options": {
+        "A": "back",
+        "B": "up",
+        "C": "away",
+        "D": "apart"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "bring back表示带回。",
+      "knowledgePoints": [
+        "词汇：短语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "c8a853d91700354c081bd875b62b037c379e738c0b24e0348bc77caf9496d715"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The city checked underground cables before choosing each planting _____.",
+      "options": {
+        "A": "grade",
+        "B": "meal",
+        "C": "site",
+        "D": "clock"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "site表示地点。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "7bbedbf8165a3f8987a1eee6d3238fe64f2b0545547a573bdb94a94874397873"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "A qualified technician can give _____ advice about electrical safety.",
+      "options": {
+        "A": "seasonal",
+        "B": "reliable",
+        "C": "narrow",
+        "D": "colourful"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "reliable表示可靠的。",
+      "knowledgePoints": [
+        "词汇：形容词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "ec66d05b523efac6094cc95a9eabc5d789e8cbde965235b21ed73100265d877e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The class used everyday prices to _____ the idea of percentage change.",
+      "options": {
+        "A": "refuse",
+        "B": "remove",
+        "C": "borrow",
+        "D": "illustrate"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "illustrate表示用实例说明。",
+      "knowledgePoints": [
+        "词汇：动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "de8fdfdad49cf473e28aa33586aa488d8c4110f130f8f23d64f57da45b501bde"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The repair group kept a brief _____ of each visit without naming the owner.",
+      "options": {
+        "A": "record",
+        "B": "journey",
+        "C": "harvest",
+        "D": "window"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "record表示记录。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "e8cc71e74d3fba423e488be85b6f59932c7afe63a9d5ceda9e4ba7c09d1df395"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The market trial was expanded _____, with more stalls joining over time.",
+      "options": {
+        "A": "privately",
+        "B": "rarely",
+        "C": "gradually",
+        "D": "exactly"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "gradually表示逐渐地。",
+      "knowledgePoints": [
+        "词汇：副词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d753cbd6f1bb7c46aaadfd34246967ba3d843721ea809a69377e9c858f9f86dd"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Young trees need regular _____ during a dry summer.",
+      "options": {
+        "A": "printing",
+        "B": "watering",
+        "C": "booking",
+        "D": "washing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "watering表示浇水。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "0d6d5c1e0df1c34f7401d3c0cd7dc66a0f202e294d38359840eaefd867ac391f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The volunteers stayed within the _____ of their skills.",
+      "options": {
+        "A": "colours",
+        "B": "prices",
+        "C": "places",
+        "D": "limits"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "limits表示能力范围。",
+      "knowledgePoints": [
+        "词汇：名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3171fa1f8c5c945d6ff83fee7889641ca4dce2a2b4f5f5db6be19d0992e0fc7c"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "If the committee had explained the deposit earlier, fewer customers _____ confused.",
+      "options": {
+        "A": "will be",
+        "B": "would have been",
+        "C": "are",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "与过去事实相反的虚拟主句用would have done。",
+      "knowledgePoints": [
+        "语法：虚拟语气"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "04b6b6111d9eb12754230c6df21ff2fad15638afce0bec0917fde013c015f3f2"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The trees _____ beside the bus stop last spring are growing well.",
+      "options": {
+        "A": "planting",
+        "B": "plant",
+        "C": "to plant",
+        "D": "planted"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "过去分词作后置定语表被动。",
+      "knowledgePoints": [
+        "语法：非谓语"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "878f380e3c34827711abcfaa98843356ee28bded6c0f4de9c148a96268a2b2c8"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The information _____ the volunteers collected helped improve the service.",
+      "options": {
+        "A": "that",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "that作定语从句宾语指物。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f08789c15a42677b2c5e65626e11722ce0a6551d7fe7a9a011217b04178001a0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Each of the participating stalls _____ a return box near the counter.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "are having"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "each of作主语时用单数。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "22b9ee8ad1bae10dca7c372fd6d59d9dd1948eac31f60a9915a958d156990320"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "By next summer, the city _____ the young trees for three years.",
+      "options": {
+        "A": "cared for",
+        "B": "will have cared for",
+        "C": "cares for",
+        "D": "was caring for"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "by next summer和for three years对应将来完成时。",
+      "knowledgePoints": [
+        "语法：时态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d717c851e6ca83587920d94fbd431a87ab66ada20d60eb9c1c2e9a2114d581d5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Learners asked _____ the answer had been reached.",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "which",
+        "D": "how"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "how引导方式宾语从句。",
+      "knowledgePoints": [
+        "语法：从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "543af98fce1738708867cdd9bca809d1a20262c509bcc7114420bacdb09d713d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The group kept records _____ it could identify repeated problems.",
+      "options": {
+        "A": "so that",
+        "B": "in case of",
+        "C": "despite",
+        "D": "instead of"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "so that引导目的从句。",
+      "knowledgePoints": [
+        "语法：连词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "f8820ca31fb26b9c01f23b5da570650abd732094081349e16d21a3c42d0e046f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "Only after the trial ended _____ the committee decide to expand it.",
+      "options": {
+        "A": "has",
+        "B": "was",
+        "C": "did",
+        "D": "does"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "only状语前置引起部分倒装。",
+      "knowledgePoints": [
+        "语法：倒装"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "29fba57f4482415b37d36817325f5b912ea0e13a928660f0fbb86d5f5c838ae9"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "The containers must be washed before they _____ used again.",
+      "options": {
+        "A": "will",
+        "B": "are",
+        "C": "were being",
+        "D": "have"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "一般现在时被动结构are used。",
+      "knowledgePoints": [
+        "语法：被动语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "77f5697468098caf32d03a0df7d7ceb8182574a7bd5fda91872eebb3ec6e241b"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The safer the repair process is, _____ visitors can trust the service.",
+      "options": {
+        "A": "more",
+        "B": "the most",
+        "C": "most",
+        "D": "the more"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "the more比较结构。",
+      "knowledgePoints": [
+        "语法：比较结构"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "6cb44d175df34395b6582f83355f33022dffce1d098fa010215862c02e394909"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese:\nA useful record should help a group make better decisions, not merely produce a large number. When volunteers describe what happened during each visit, they can see which problems return and which tasks require expert help. They should also explain why they collect information and avoid writing down details that are unnecessary for their purpose. A short summary can show the public what the service has learned without exposing individual visitors. Over time, these records may reveal whether a change has made work safer or more effective. If the results are mixed, the group can adjust its approach and continue to learn.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "注意not merely、which引导的定语从句及whether表示的是否。",
+      "referenceAnswer": "有用的记录应帮助团队作出更好的决定，而不只是得出一个大数字。志愿者描述每次来访的情况时，就能看出哪些问题反复出现，哪些任务需要专业帮助。他们还应解释收集信息的原因，并避免记下与目的无关的细节。一份简短的总结既能向公众展示服务学到了什么，又不会泄露个别访客的信息。随着时间推移，这些记录或许能说明某项改变是否使工作更安全或更有效。如果结果好坏参半，团队可以调整方法并继续学习。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达全部主要信息与逻辑关系，不遗漏重要内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态和指代处理准确，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，段落衔接清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "eb05695994eb9de3215cc82e10b8d2b5abeb83160b2bd1d1a582b9ecaf179b93",
+      "referenceAnswerFingerprint": "6e2741077fba79b937bcc9cc5e707c84c3f16a67cc12b69450c2f48067dde3c1"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English to a neighbourhood association proposing an activity that helps residents learn about local nature. Explain what people would do, how you would make the activity accessible, and how the association could learn from participants comments.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：任务、组织与语言"
+      ],
+      "explanation": "范文覆盖活动内容、可参与性和收集反馈三个要点。",
+      "sampleAnswer": "Dear Association Members,\nI would like to suggest a monthly nature walk along the river. Volunteers could help residents notice common birds, plants and changes in the water. Participants would record observations in a simple notebook, but no previous knowledge would be required.\nTo make the walk accessible, the route should be short and clearly described in advance. We could offer both a morning and an evening session, and provide a printed summary for anyone who cannot attend. A meeting point near the bus stop would help people without a car.\nAfter each walk, participants could share one thing they learned and one difficulty they faced. The association could use these comments to adjust the route or timing. A short public summary would also show how the activity is developing.\nYours sincerely,\nA resident",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "覆盖全部写作要点，内容具体且相关。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "段落清楚，衔接自然，格式适合任务。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，有适当句式变化。"
+          }
+        ]
+      },
+      "contentFingerprint": "ea1996f864a56f9aa1f660b5efca8d06059cddaf3d2ca2c12cd521e64a282853",
+      "sampleAnswerFingerprint": "3f9e5a0a40a34a5a90a2f7fecb3ab854988d0a1b15a98ce954c7fd8fc20722ae"
+    }
+  ],
+  "fingerprintManifest": [
+    "a309bd799cbd47dd8a7d1c6466309dcecf447b5b5101ba96447f9e69409a3625",
+    "905ec1d97c224fd13c6165bd7c32a037abedf1efb1c42fb28d652a5f93ed6dce",
+    "1d33298c9b96d95883908dc24b0c31a96c089799d53708821bf2dadbedaf4d45",
+    "a1a67f0b5068a540b805cca5ba0ff564725a9b9dcaffc57c9ed27606304fcc77",
+    "a880e46c3cc94942690d9b0a17b1a09967c599f39d48c57cba05fcbf30ece47e",
+    "992c423c80ce1ceb222f844ed33a3f1d65f32bcdf6d41edf9f148675662c27bc",
+    "4e4809e07e1b9411623d4218cf891d5620eb5aef21ad5664ed3453037429bc70",
+    "09d3e9bfd370ea73a0c736a46fd89b016139330c3bfe7ab2cc57235749c8a8b7",
+    "01b8523b2e3dc59f454f011f68af7787f045213e1b5f7704fc66340199f358fc",
+    "8cec9878544606b71d5d962bb3a54b7615d40fe79dc92d472d6ce12807f57e55",
+    "b3c4c716c45971cfd8776310ec6490a6a076786b6e81ba3ff0e3f67d88fdc69b",
+    "6b54c6ac8f7e1266b74a05bce2fa3f8f15ec8004f7004bff74e8d4883b992f0c",
+    "8179f5a0b20531e407610630b0644dc35d8903e2022d92dbce4037e245279f0f",
+    "8cc76d51153933d50b55e8e12ef685a2668e9d17fbd8be9b0f64b9198706c76a",
+    "7c5fd198b9b3c211c5d958fe95ac5b475b852adb05ad9ba088d8fdabf2f5e97c",
+    "1a32bc75f1c748011ca571964eb654d0fa7cd483d9d557d1a8c723d1f6b77d48",
+    "ea9b137261992f5d8ee858f3e56d8525e8eb2ad197eb0b6ae3bc2d7437389490",
+    "43a4c96de73574b28be276cd48bb1c79beede0852e6c18013d8c9229c2724d7c",
+    "19537061c08892d3a306762cb3e585d21287431a81b287c6de2f673ff3bbecb3",
+    "b879e1315590db0524143d61e5292eeca5488a0fb2570d407364ebc5f45ae66d",
+    "553944d5efcb797f4ae30e117218c4748ca243a7d6b440c61eaa4d34bb65b5b0",
+    "8096417b400e53ae50e5259e254c714275ecfeb32b440f3246e1ee6b1bc83f17",
+    "4f657626e5c43fc575de4f685e58a7a1fe141e86fe323d06ff77b6dfdf8a5696",
+    "30c3245115271aa17e17023ab51f7d1bb3b791fa8537b9aad4341eca9212dae4",
+    "4d286919c30baa0fa101cfe69fefe57f48996d4d4576cd2a451a8aff1f95e2f2",
+    "bf377938fcbe336111caa0381a93be9cadbc59cabc46807698ff7c6b2fe3e5b3",
+    "d67acac84c9b023a1af821aca89c255956f75e72e7194264e479428d30455dbb",
+    "306abc79c781fcfafce24f17d7a0bb2ba6d1a4e64f27a6b23a1ba9ef6cddb0bc",
+    "3287d80a57ff9e467d991835afc5ec8a8d222d35d05fb7442534adad44aa3560",
+    "5bf582dae9b1e3e7cbb7d6d1cb7b04d62a460e129a906dd38339e88cc277b0fb",
+    "47aac50ed754fe6c7b80ed38ce855f7622783898ef1e803d2249458adb72974b",
+    "8f1f8cd451763d20de26cbceb67da71dea70e06bb71fffd6bd792ec6a970324d",
+    "6c462c75e264deaa9fa22c7191f32a576e75fbe22afd03b5d50bcfbafca4cc09",
+    "a0a84afb738725762df6d69b87d12fa3c02345696ffa794512aaf4f94148a7ce",
+    "bc03cafb56e12020359ecaffb56730bb334d32589d9147cd352a672681cec6da",
+    "483c6d2b4101680d415bae5cfef9b056a6db7bebec2c2cc3c8e3d3519a7e7233",
+    "c874dddeacc1a45d812ce9bccc003e61d0315cff592097a38cf4aec593d39ffb",
+    "f8382d21599c9a77c1d1964ef3fe09461bb6bd4455caaaf0a50ebb07f98e4d8c",
+    "c0ecf2f1363379f7d73f9bc0a276036585f9fc7f337e4c005fbdfffce7f239a2",
+    "c8a853d91700354c081bd875b62b037c379e738c0b24e0348bc77caf9496d715",
+    "7bbedbf8165a3f8987a1eee6d3238fe64f2b0545547a573bdb94a94874397873",
+    "ec66d05b523efac6094cc95a9eabc5d789e8cbde965235b21ed73100265d877e",
+    "de8fdfdad49cf473e28aa33586aa488d8c4110f130f8f23d64f57da45b501bde",
+    "e8cc71e74d3fba423e488be85b6f59932c7afe63a9d5ceda9e4ba7c09d1df395",
+    "d753cbd6f1bb7c46aaadfd34246967ba3d843721ea809a69377e9c858f9f86dd",
+    "0d6d5c1e0df1c34f7401d3c0cd7dc66a0f202e294d38359840eaefd867ac391f",
+    "3171fa1f8c5c945d6ff83fee7889641ca4dce2a2b4f5f5db6be19d0992e0fc7c",
+    "04b6b6111d9eb12754230c6df21ff2fad15638afce0bec0917fde013c015f3f2",
+    "878f380e3c34827711abcfaa98843356ee28bded6c0f4de9c148a96268a2b2c8",
+    "f08789c15a42677b2c5e65626e11722ce0a6551d7fe7a9a011217b04178001a0",
+    "22b9ee8ad1bae10dca7c372fd6d59d9dd1948eac31f60a9915a958d156990320",
+    "d717c851e6ca83587920d94fbd431a87ab66ada20d60eb9c1c2e9a2114d581d5",
+    "543af98fce1738708867cdd9bca809d1a20262c509bcc7114420bacdb09d713d",
+    "f8820ca31fb26b9c01f23b5da570650abd732094081349e16d21a3c42d0e046f",
+    "29fba57f4482415b37d36817325f5b912ea0e13a928660f0fbb86d5f5c838ae9",
+    "77f5697468098caf32d03a0df7d7ceb8182574a7bd5fda91872eebb3ec6e241b",
+    "6cb44d175df34395b6582f83355f33022dffce1d098fa010215862c02e394909",
+    "eb05695994eb9de3215cc82e10b8d2b5abeb83160b2bd1d1a582b9ecaf179b93",
+    "6e2741077fba79b937bcc9cc5e707c84c3f16a67cc12b69450c2f48067dde3c1",
+    "ea1996f864a56f9aa1f660b5efca8d06059cddaf3d2ca2c12cd521e64a282853",
+    "3f9e5a0a40a34a5a90a2f7fecb3ab854988d0a1b15a98ce954c7fd8fc20722ae"
+  ],
+  "contentFingerprint": "809391ca87297c50c618d9490ad37fb731da90ed2228e702422db2dbb50efc36"
+}

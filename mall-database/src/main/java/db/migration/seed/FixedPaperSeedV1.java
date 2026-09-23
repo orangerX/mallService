@@ -53,8 +53,9 @@ public final class FixedPaperSeedV1 {
     }
 
     public static void publishBatch(Connection connection, int first, int last) throws Exception {
-        require(first >= 1 && last <= 50 && last - first == 9 && (first - 1) % 10 == 0,
-                "Expected one consecutive ten-paper batch");
+        require((first >= 1 && last <= 50 && last - first == 9 && (first - 1) % 10 == 0)
+                        || (first == 51 && last == 52),
+                "Expected a published fixed-paper batch");
         List<JsonNode> papers = new ArrayList<>();
         Set<String> fingerprints = new HashSet<>();
         for (int number = first; number <= last; number++) {
