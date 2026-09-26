@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-104",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 104 · 日常选择与共同成长",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 104,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Choosing a quieter phone setting",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Nora: My phone lights up every few minutes, even when a message is not urgent.\nLeo: (1) _____\nNora: I still need calls from my mother to reach me. Can I keep those?\nLeo: (2) _____\nNora: Good. What should I do with the shopping app?\nLeo: (3) _____\nNora: I will try that for a week. How will I know whether it helps?\nLeo: (4) _____",
+      "sharedOptions": {
+        "A": "Turn off its promotional alerts; you can still open the app when you choose.",
+        "B": "Yes. You can allow calls from selected contacts while silencing other notices.",
+        "C": "Notice whether you finish a task with fewer interruptions, and adjust the setting if needed.",
+        "D": "Start by deciding which alerts actually require an immediate response."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Choosing a quieter phone setting”, choose the response for blank (1).",
+          "options": {
+            "A": "Turn off its promotional alerts; you can still open the app when you choose.",
+            "B": "Yes. You can allow calls from selected contacts while silencing other notices.",
+            "C": "Notice whether you finish a task with fewer interruptions, and adjust the setting if needed.",
+            "D": "Start by deciding which alerts actually require an immediate response."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "Nora抱怨频繁提示，D提出先区分哪些通知需要立即回应。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "f5b44cd927e155afb1631c53434fe1363fd983ab113bce243ce0f6cc7b912d0a"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Choosing a quieter phone setting”, choose the response for blank (2).",
+          "options": {
+            "A": "Turn off its promotional alerts; you can still open the app when you choose.",
+            "B": "Yes. You can allow calls from selected contacts while silencing other notices.",
+            "C": "Notice whether you finish a task with fewer interruptions, and adjust the setting if needed.",
+            "D": "Start by deciding which alerts actually require an immediate response."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "Nora希望保留母亲来电，B说明可以为指定联系人设置例外。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "f1de54d0516f17193a76be48b95094c42dedfc2ff5b1314558b64de330d9389e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Choosing a quieter phone setting”, choose the response for blank (3).",
+          "options": {
+            "A": "Turn off its promotional alerts; you can still open the app when you choose.",
+            "B": "Yes. You can allow calls from selected contacts while silencing other notices.",
+            "C": "Notice whether you finish a task with fewer interruptions, and adjust the setting if needed.",
+            "D": "Start by deciding which alerts actually require an immediate response."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "问句针对购物软件，A建议关闭促销提醒而保留主动打开应用的自由。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "c2dd1af40032ed94c5996dc0b4837c520df5dbec111b7caf13f840248d8a602d"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Choosing a quieter phone setting”, choose the response for blank (4).",
+          "options": {
+            "A": "Turn off its promotional alerts; you can still open the app when you choose.",
+            "B": "Yes. You can allow calls from selected contacts while silencing other notices.",
+            "C": "Notice whether you finish a task with fewer interruptions, and adjust the setting if needed.",
+            "D": "Start by deciding which alerts actually require an immediate response."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "Nora询问如何判断效果，C提出观察完成任务时的干扰次数。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fdba3a4a74e4e3d45327216775dc4be53a84efc44f4d8d13d3d1148262de7dc9"
+        }
+      ],
+      "contentFingerprint": "e5dab669a28fb6f03e83fed7d41c6db8bf65cf7b9e172ed1569db168f6f3c39c"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Checking an energy bill",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Resident: My electricity bill was higher this month. Could someone help me understand it?\nAdviser: (1) _____\nResident: The total number of units is higher, but I do not know why.\nAdviser: (2) _____\nResident: We began using a portable heater in the evenings. Should we buy a new one at once?\nAdviser: (3) _____",
+      "sharedOptions": {
+        "A": "Not yet. First check how long it runs and whether the room is losing heat through a window.",
+        "B": "The library closes early on public holidays.",
+        "C": "Certainly. Let us compare the number of units used, not just the amount charged.",
+        "D": "Did anything change at home, such as a new appliance or longer heating hours?"
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Checking an energy bill”, choose the response for blank (1).",
+          "options": {
+            "A": "Not yet. First check how long it runs and whether the room is losing heat through a window.",
+            "B": "The library closes early on public holidays.",
+            "C": "Certainly. Let us compare the number of units used, not just the amount charged.",
+            "D": "Did anything change at home, such as a new appliance or longer heating hours?"
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "咨询者请求解释账单，C提出先对比用电量，呼应下句。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "1838cfb2b3e9869fd20b84d59285ea23f354464dbf586df08cf7e0ef94e71602"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Checking an energy bill”, choose the response for blank (2).",
+          "options": {
+            "A": "Not yet. First check how long it runs and whether the room is losing heat through a window.",
+            "B": "The library closes early on public holidays.",
+            "C": "Certainly. Let us compare the number of units used, not just the amount charged.",
+            "D": "Did anything change at home, such as a new appliance or longer heating hours?"
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "用电量增加但原因不明，D询问家中设备或使用时间是否变化。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "bcf84a337dc6517626752750fa6517a7d3d50e06b16b6f7aed26036f0dfa7add"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Checking an energy bill”, choose the response for blank (3).",
+          "options": {
+            "A": "Not yet. First check how long it runs and whether the room is losing heat through a window.",
+            "B": "The library closes early on public holidays.",
+            "C": "Certainly. Let us compare the number of units used, not just the amount charged.",
+            "D": "Did anything change at home, such as a new appliance or longer heating hours?"
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "居民提到取暖器并问是否立即更换，A建议先检查使用时间与散热情况。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "90dd8b909d7457b8d2da221f1dfcde334c8b893cd93527d7ba9518c426a05f0d"
+        }
+      ],
+      "contentFingerprint": "d31153e67709e96d0ea2e654138242d88d4a3198bd04021ca5221a6a05aff26b"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Planning a first day at work",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "New employee: I have read the handbook, but I am still unsure how to begin tomorrow.\nMentor: (1) _____\nNew employee: That would help. May I write down questions while I watch?\nMentor: (2) _____\nNew employee: When could we talk through them?\nMentor: (3) _____",
+      "sharedOptions": {
+        "A": "Yes. Mark anything that seems unclear, including steps that look too familiar to ask about.",
+        "B": "Let us spend the first hour observing one customer request from start to finish.",
+        "C": "The building was renovated two years ago.",
+        "D": "We can take ten minutes after lunch, when the morning work is fresh in your mind."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a first day at work”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes. Mark anything that seems unclear, including steps that look too familiar to ask about.",
+            "B": "Let us spend the first hour observing one customer request from start to finish.",
+            "C": "The building was renovated two years ago.",
+            "D": "We can take ten minutes after lunch, when the morning work is fresh in your mind."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "新人不清楚如何开始，B安排先完整观察一项工作流程。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0ea6c967e9cc331d8b937aaf1a64f562c65f93444b4430e64c1dacf7d63d49e5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a first day at work”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes. Mark anything that seems unclear, including steps that look too familiar to ask about.",
+            "B": "Let us spend the first hour observing one customer request from start to finish.",
+            "C": "The building was renovated two years ago.",
+            "D": "We can take ten minutes after lunch, when the morning work is fresh in your mind."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "新人询问能否记问题，A明确鼓励记录不清楚的步骤。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "710558b685886d490b8ffaedbd14fd46f8c1684b4bfb5ce4bf543e47dba17429"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a first day at work”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes. Mark anything that seems unclear, including steps that look too familiar to ask about.",
+            "B": "Let us spend the first hour observing one customer request from start to finish.",
+            "C": "The building was renovated two years ago.",
+            "D": "We can take ten minutes after lunch, when the morning work is fresh in your mind."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "新人问何时讨论问题，D给出午饭后十分钟的具体时间。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "0416735848007f7b8443e39f71d6bf13d7651f6b5fd7cd5e42fd97c682651100"
+        }
+      ],
+      "contentFingerprint": "bcd5f463d4a99d9988a105412d1b97a5f0e397a6a5e34c3ee012c76b75b69f20"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The Small Gap Before a Screen",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At the end of each shift, Mara took the tram home and opened her phone before she had found a seat. She intended to check the next day's weather. Twenty minutes later, she would look up and realize that she had read messages, viewed short videos, and almost missed her stop. None of these activities was terrible by itself. What troubled her was how little she remembered choosing to do them.\n\nMara tried leaving the phone in her bag for the entire journey. This worked for two days, then failed when she needed to tell a friend that the tram was late. A more useful change came from a question: what was the phone for at this moment? Before unlocking it, she began to name a purpose, such as “send one message” or “check the weather.” Once she had done that task, she put the phone away. Sometimes she still watched a video, but she decided to do so rather than arriving there by accident.\n\nShe also changed the first screen of her phone. Weather, maps, and messages remained easy to find; entertainment apps moved into a folder on the second page. The extra second required to open the folder was not a barrier. It was a small gap in which she could ask herself whether she wanted a break or was simply responding to a bright icon.\n\nHer colleague Ben thought the method sounded too simple to matter. Yet he noticed a similar pattern at work. While writing a report, he repeatedly checked a group chat because its symbol showed an unread message. He turned off that symbol during two morning hours, then checked the chat at a planned time. He still answered important requests, and his report no longer had to be restarted every few minutes.\n\nNeither Mara nor Ben concluded that attention could be protected by a single rule. Their needs differed from day to day. Their shared lesson was that a brief pause can turn a habit into a choice. The goal was to use a screen for a purpose, including enjoyment, while keeping enough room to notice what that purpose was.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：数字习惯与注意力"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "The Small Gap Before a Screen: What bothered Mara about her tram journeys?",
+          "options": {
+            "A": "She could not find reliable weather reports.",
+            "B": "She rarely remembered choosing how she used her phone.",
+            "C": "She had to stand for the whole journey.",
+            "D": "She received too few messages from friends."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段指出困扰Mara的是自己几乎没有意识到如何选择手机上的活动。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "9c9395762e3fd895cec0d73896bc0c1f1fe043619e086bfca073b23f0e72d7c4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "The Small Gap Before a Screen: Why did leaving the phone in her bag fail as a complete rule?",
+          "options": {
+            "A": "She needed it for a practical message on one journey.",
+            "B": "The weather app stopped working.",
+            "C": "Her friend asked her to watch a video.",
+            "D": "The tram company required passengers to use it."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段说电车晚点时她需要给朋友发消息，说明完全不用手机并不适合所有情境。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "470ef605a6e366f5a99453a3edce26a71883955b95a4ec230f82267643e8f77f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "The Small Gap Before a Screen: What was the purpose of moving entertainment apps to a folder?",
+          "options": {
+            "A": "To remove them permanently.",
+            "B": "To make the phone run faster.",
+            "C": "To create a moment to consider whether to open them.",
+            "D": "To hide them from other passengers."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第三段解释多出的一秒提供了自问是否真想休息的机会。",
+          "knowledgePoints": [
+            "阅读：目的理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f11c4e11a961cbbe2a81d35745b4fbbb9aba3b4d50db315a7e96407ca849ec1d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "The Small Gap Before a Screen: What did Ben change during his report-writing hours?",
+          "options": {
+            "A": "He stopped replying to all requests.",
+            "B": "He wrote the report on his phone.",
+            "C": "He left the group chat permanently.",
+            "D": "He hid the unread-message symbol and checked later."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第四段说明Ben关闭未读提示，并在计划好的时间查看群聊。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "caa3d83a4b34ad99a05819c8de35db69c2a89947dc5fac6ecb6ac1376c62fbfa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "The Small Gap Before a Screen: Which statement best expresses the passage’s main idea?",
+          "options": {
+            "A": "Digital devices should be avoided on public transport.",
+            "B": "Brief intentional pauses can help people direct their attention.",
+            "C": "Entertainment is less valuable than work.",
+            "D": "The same screen rule suits every day and every person."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结尾强调短暂停顿使习惯重新成为有意识的选择，且并无放之四海而皆准的规则。",
+          "knowledgePoints": [
+            "阅读：主旨概括"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "513d6bed6a65c0e55713ddb10e3571aa3ed5ac7f2a5430a03a28aa939fc81ff7"
+        }
+      ],
+      "contentFingerprint": "55a679b6875c6c889890c8ec6bb6a64f8df255f398ea80e587b2d5f4d7c5567a"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A Warm Room, Not a Warm House",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When the Han family received a larger winter energy bill, they first considered replacing every appliance. Their neighbour, who repaired buildings, suggested a smaller experiment. For one week they would record when each room was used and how warm it needed to be. The kitchen was busy in the morning, the living room in the evening, and two bedrooms were empty most of the day.\n\nThe family kept the shared living room comfortable in the evening but turned down heat in unused rooms. They closed the living-room door when it was occupied and opened curtains during sunny hours. Their first surprise was that the old curtain in a bedroom mattered more than they expected: a cold draft crossed the desk each night. A thicker curtain reduced the draft, although it did not solve every problem. They also checked that a shelf was not blocking a heater.\n\nTheir teenage son proposed running the washing machine only at night, after hearing that electricity could cost less then. His parents checked the bill carefully. Their plan charged the same price at all hours, so changing the time would not lower the charge. They still chose full loads rather than several half loads, because this reduced the number of cycles.\n\nAt the end of the month, the family had used less energy, but they were cautious about the comparison. The weather had become milder, which could also explain part of the change. They planned to compare similar weeks and keep notes about comfort as well as cost. If the bedrooms became too cold for sleep, the plan would need changing. Saving energy was useful only if the home remained healthy and workable.\n\nThe experiment did not produce one dramatic purchase. Instead, it gave the family a way to make decisions: observe where energy was needed, check claims against the actual payment plan, and revise small changes in light of results. This approach made the bill less mysterious and helped them choose which future repairs deserved attention.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：家庭能源选择与证据判断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A Warm Room, Not a Warm House: What did the neighbour suggest the family do first?",
+          "options": {
+            "A": "Replace all old appliances.",
+            "B": "Record when rooms were used and what warmth they needed.",
+            "C": "Turn off heating throughout the house.",
+            "D": "Ask the energy company for a new price plan."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段说明邻居建议先记录各房间使用时间和所需温度。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "51555bc68a550891116e82882bbd0c1045a5b9ada41463b2a0b90994899f8696"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A Warm Room, Not a Warm House: Which action helped address the cold draft by the desk?",
+          "options": {
+            "A": "Moving the washing machine.",
+            "B": "Leaving all doors open.",
+            "C": "Putting up a thicker curtain.",
+            "D": "Heating an empty bedroom all day."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段指出加厚窗帘减轻了穿过书桌的冷风。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "63c329a6131760a610aac7d0f3775eab91d31900ef7f0ab33d3bf58ae8a418c5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A Warm Room, Not a Warm House: Why did washing clothes at night not save money under their plan?",
+          "options": {
+            "A": "The machine used more water at night.",
+            "B": "Their electricity price did not vary by time.",
+            "C": "Their son used the machine incorrectly.",
+            "D": "The family never washed full loads."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段说该家庭套餐全天电价相同，因此夜间洗衣不会降低费用。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "99964230ad454b274a0c5931710e9a0df032c578603a01b6f2cabf0beb740354"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A Warm Room, Not a Warm House: Why was the family cautious about the lower energy use?",
+          "options": {
+            "A": "They had not received a bill.",
+            "B": "A heater had been replaced without a record.",
+            "C": "The weather had become warmer during the comparison.",
+            "D": "The bedrooms were warmer than expected."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第四段指出天气转暖也可能解释部分用能下降，因此不能把变化全归因于措施。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c9c5e71ecf169fbf4176f7ebbf7f64b9e9f14eba877978aa0a8cdc104ae05b17"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A Warm Room, Not a Warm House: What principle guided the family’s choices?",
+          "options": {
+            "A": "Use observations and their own billing details to judge changes.",
+            "B": "Follow every popular energy-saving tip immediately.",
+            "C": "Accept discomfort whenever it reduces a bill.",
+            "D": "Buy new equipment before making small adjustments."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "全文通过记录使用情况、核对电价和观察舒适度，强调依据家庭实际情况作判断。",
+          "knowledgePoints": [
+            "阅读：主旨概括"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "680f5a3ae01ca414fd640eb4d983d1af2e2c8538173fd8a6ca314385fc0258ac"
+        }
+      ],
+      "contentFingerprint": "5e1938621c995c470520545b7820f892dee612634e07f4643021e7b003f4aaef"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The Recipe on Two Screens",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When Mei asked her grandfather Jun for the recipe for his tomato noodles, he laughed. “I never wrote one,” he said. He cooked by looking at the colour of the sauce and tasting it. Mei, who had learned many dishes from short online videos, wanted exact amounts. Their first attempt to cook together was awkward. She held up her phone to record each step, while he moved quickly and forgot to say what he had just added.\n\nThe following Saturday, Mei changed her plan. She placed the phone on a shelf and asked only one question at a time. Jun slowed down enough to explain why he warmed the pan before adding the tomatoes. Mei measured the ingredients as he used them, but she also wrote his descriptions: “soft enough to crush with a spoon” and “a little sharper than you want the final sauce.”\n\nJun was curious about the video Mei made. He had assumed that sharing a recipe online meant showing a perfect performance. Mei showed him a clip in which a cook admitted that a sauce was too thin and demonstrated how to fix it. Jun said that was the part he would have watched. He then asked Mei to include their own mistake: they had added salt twice and used another tomato to restore the balance.\n\nWhen Mei edited the recording, she did not present Jun as a person who knew nothing about digital tools. Nor did she claim that measuring would replace his judgement. She added captions for the amounts and left in his advice about colour and taste. Jun checked the captions because one spoonful had been labelled as two. In return, he asked Mei to show him how to pause and replay a video without losing his place.\n\nThe finished recipe did not settle which way of learning was better. A viewer could follow the measurements, notice the changing sauce, and see that a mistake could be repaired. More importantly for Mei and Jun, the project gave them a reason to ask questions they had stopped asking each other. Their different habits became materials for a shared task instead of reasons to give up the conversation.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：代际沟通与共同学习"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "The Recipe on Two Screens: Why was Mei and Jun’s first cooking attempt awkward?",
+          "options": {
+            "A": "They disagreed about whether to make noodles.",
+            "B": "Mei wanted exact details while Jun worked by experience and moved quickly.",
+            "C": "The phone could not record sound.",
+            "D": "Jun refused to let Mei enter the kitchen."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段说明Mei想记录精确用量，Jun凭经验操作且很快，未及时说明步骤。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "02237ff7da027b67083554ae68c2928d2b373cfe96676b5b69dc3999a65d9ac5"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "The Recipe on Two Screens: What did Mei include in her notes besides measurements?",
+          "options": {
+            "A": "The price of each ingredient.",
+            "B": "A list of online viewers.",
+            "C": "Descriptions of texture and taste.",
+            "D": "A history of every family meal."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段列举“能用勺子压碎”等对质地和味道的描述。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b44990a3b36ac8406796c94f6facdc8793b800c901978fc4dacc41edbfdc6348"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "The Recipe on Two Screens: Why did Jun want their mistake included in the video?",
+          "options": {
+            "A": "He saw value in showing how a cooking error could be corrected.",
+            "B": "He wanted viewers to avoid all tomato dishes.",
+            "C": "He thought the clip was too short.",
+            "D": "He hoped to prove that measurements were useless."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段中Jun喜欢展示补救过程的视频，因此要求保留自己做菜出错并调整的过程。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "23422f474ec2558d2579bab182dc3dd6381c453ba43af99a34a719a36eaf553c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "The Recipe on Two Screens: How did Jun contribute during the editing stage?",
+          "options": {
+            "A": "He bought a new phone for Mei.",
+            "B": "He checked the captions and caught an incorrect amount.",
+            "C": "He removed all of Mei’s measurements.",
+            "D": "He replaced the whole recording with a written recipe."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第四段说Jun核对字幕，发现一勺被误标成两勺。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "22674156d716220ab81ad885e89596ddfdc5867a32903a621c111d47fb96614a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "The Recipe on Two Screens: What is the central message of the passage?",
+          "options": {
+            "A": "Online videos always teach cooking better than relatives.",
+            "B": "Older people should follow every new technology.",
+            "C": "Different ways of knowing can support a shared conversation.",
+            "D": "A good recipe must avoid showing mistakes."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "结尾指出两人不同的习惯成为共同任务的素材，也让他们重新互相提问。",
+          "knowledgePoints": [
+            "阅读：主旨概括"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "0ee673588369b3dded9eb30f07a499db964ae6b711833e945ac01ec9f53d65a5"
+        }
+      ],
+      "contentFingerprint": "ccc8e3f67b3c6fd20cd051518157064dd83aba95ee5aa56fb0b90ce90e2970aa"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The Question After the Demonstration",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On her first week at a repair workshop, Salma watched an experienced technician, Owen, test a small water pump. He named each tool and completed the work neatly. When Salma tried the same task, she followed the written steps but missed a faint leak near a joint. Owen pointed it out and repeated the demonstration. The second attempt was little better. Salma could copy his actions, yet she did not know what he was noticing.\n\nBefore the next repair, Owen changed his approach. He asked Salma to predict where a leak would be most likely and why. She pointed to a damaged hose, which was a reasonable guess. Owen then explained that the hose was dry but the joint showed a thin line of moisture. He invited her to describe the evidence before either of them touched the pump. By giving her time to state her reasoning, he could see which part of the problem she understood.\n\nOwen also began keeping a short record with Salma after each job. They wrote down the symptom, the first guess, what they observed, and the final repair. The record was not a list of her errors. Sometimes Owen's first guess was wrong too, and he included it. This made it easier for Salma to ask questions without worrying that uncertainty would be taken as carelessness.\n\nAfter several weeks, Salma noticed a soft change in the sound of another pump. She stopped the test and asked Owen whether it might mean air was entering the system. It did not; a loose cover was vibrating. Even so, Owen praised the decision to stop and investigate. In their workshop, an early question was safer than a confident guess that went unexamined.\n\nBy the end of the month, Salma still needed guidance on unfamiliar machines, but her questions had become more precise. Owen had learned something as well: showing a skilled action was only the beginning of teaching it. A mentor could make experience visible by asking for predictions, discussing evidence, and treating corrected guesses as useful steps toward independent judgement.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：工作指导与证据推理"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "The Question After the Demonstration: What problem did Salma have after the first demonstrations?",
+          "options": {
+            "A": "She did not know the names of the tools.",
+            "B": "She refused to follow written steps.",
+            "C": "She could repeat actions but missed evidence Owen noticed.",
+            "D": "She had no interest in repairing pumps."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第一段说明Salma能够模仿操作，却不明白Owen观察到的细微线索。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "40d82ac01e297e6778bf7e72100030d0cee27340106e3d095b4290b967c8ea5c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "The Question After the Demonstration: Why did Owen ask Salma to predict the likely leak location?",
+          "options": {
+            "A": "To learn how she was reasoning about the problem.",
+            "B": "To make her finish the repair without any help.",
+            "C": "To avoid inspecting the pump himself.",
+            "D": "To check whether she had memorised every tool name."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段说明让她先讲推理，Owen才能判断她理解了问题的哪一部分。",
+          "knowledgePoints": [
+            "阅读：目的理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "efdad0dff8c5c43e63d2190e250f6dad5c4bc787a166f009e4529b3bf966a26b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "The Question After the Demonstration: What did their job record contain?",
+          "options": {
+            "A": "Only the repairs Owen completed alone.",
+            "B": "Symptoms, initial guesses, observations, and final repairs.",
+            "C": "A ranking of workers by speed.",
+            "D": "The prices of all workshop tools."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段直接列出症状、初步判断、观察结果及最后的维修处理。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "767f9898a7a985f17f880455fb35333515fc35686f61bad8f44819b2f8abd243"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "The Question After the Demonstration: How did Owen respond when Salma’s idea about the sound proved wrong?",
+          "options": {
+            "A": "He praised her for stopping to investigate.",
+            "B": "He told her never to ask about sound again.",
+            "C": "He removed her from the workshop.",
+            "D": "He treated her question as carelessness."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第四段写明即使猜测不对，Owen仍肯定她暂停检测并调查的决定。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "00f575e427d6cc11b81884ffab76dce1d319eb4af3cc7c1fe5e586a0282b6848"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "The Question After the Demonstration: What did Owen learn about mentoring?",
+          "options": {
+            "A": "Good demonstrations make all questions unnecessary.",
+            "B": "New staff should be judged mainly by speed.",
+            "C": "A mentor should hide any incorrect first guess.",
+            "D": "Discussing predictions and evidence helps make experience teachable."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "末段总结导师要通过预测和证据讨论，把自己的经验转化为可学习的判断过程。",
+          "knowledgePoints": [
+            "阅读：主旨概括"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a2164899523e122061e7d5c037bcf4781eed1914e5c392702cebd8437d779eb0"
+        }
+      ],
+      "contentFingerprint": "230b800c2841c0bc7688c4350d17ad8875e7710c86e960c4307aa774ddf8ab04"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The manager asked for a _____ estimate of the repair time, not a promise that everything would be finished today.",
+      "options": {
+        "A": "flexible",
+        "B": "realistic",
+        "C": "silent",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "realistic estimate表示符合实际的估计，与不要求立即完成的语境相符。",
+      "knowledgePoints": [
+        "词汇：形容词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7a1798bd6f5d0ccdbdff4764540a0c4730453f919f01d313af403a5fd64df872"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "Please _____ the figures on the bill with those on the meter before calling the company.",
+      "options": {
+        "A": "compare",
+        "B": "admire",
+        "C": "invent",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "compare ... with ... 表示把两组数字进行比较。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7ac9e405f80d2bb2906510237d48764442694c455c968c72e22ab146c42d7788"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "The new worker asked for _____ instructions because the first explanation left out two important steps.",
+      "options": {
+        "A": "ordinary",
+        "B": "private",
+        "C": "detailed",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "遗漏重要步骤说明需要更详细的说明，故选detailed。",
+      "knowledgePoints": [
+        "词汇：形容词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "574963218d65790e0806cca6d0604a5ea9fc832aaa6762f6ea44e63370642e83"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "A short walk can provide a welcome _____ from a long period of screen work.",
+      "options": {
+        "A": "break",
+        "B": "prize",
+        "C": "debt",
+        "D": "shape"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "break from表示暂时离开某项活动、休息一下。",
+      "knowledgePoints": [
+        "词汇：名词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "388e3cff90cabbf34e3d91f3707e405b1efdbcfc473f45f14a69979af034e83a"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The family decided to _____ the leaking tap before buying a different sink.",
+      "options": {
+        "A": "celebrate",
+        "B": "ignore",
+        "C": "repair",
+        "D": "publish"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "漏水的水龙头应先修理，repair与语境吻合。",
+      "knowledgePoints": [
+        "词汇：动词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "8ca4a225a68a0b0ee619d8aa7f35947d5ea934cfd4ef2c28ee8da550133f022c"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "Although the two cooks had different methods, they shared a _____ goal: making a meal everyone could enjoy.",
+      "options": {
+        "A": "common",
+        "B": "empty",
+        "C": "formal",
+        "D": "rare"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "common goal表示共同目标；although提示方法不同但目标一致。",
+      "knowledgePoints": [
+        "词汇：形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8e4c14e5bc67148f944cd3b9e7576292491688483e0c05336ad2bb586a18ae17"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The report was easy to follow because each section had a clear _____.",
+      "options": {
+        "A": "border",
+        "B": "purpose",
+        "C": "engine",
+        "D": "salary"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "每部分有明确的purpose（目的），报告才容易理解。",
+      "knowledgePoints": [
+        "词汇：名词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6d01ad598c03d2eca2c965a1feee5cfa4b6db102faa831f8650fa35bb75f9141"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "We cannot _____ that the lower bill resulted only from the new curtain; the weather was also warmer.",
+      "options": {
+        "A": "assume",
+        "B": "forgive",
+        "C": "deliver",
+        "D": "decorate"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "assume表示未经充分证据就认为；后半句提示还存在天气因素。",
+      "knowledgePoints": [
+        "词汇：动词语义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "08cd0a634472f820af3c88502e11844b8c1e210c5631a36e25d2cc364395e6be"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Her question was _____ to the discussion, so the trainer answered it before moving on.",
+      "options": {
+        "A": "relevant",
+        "B": "ancient",
+        "C": "remote",
+        "D": "fragile"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "relevant to表示与讨论相关，符合培训者当场回答的情境。",
+      "knowledgePoints": [
+        "词汇：形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "def934f8d145bd4f0e1ae788e1392bbb7acaac9c8fd2f71a99fec1b6fde67518"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The notice gives a _____ summary; the full safety guide is available at the front desk.",
+      "options": {
+        "A": "brief",
+        "B": "steady",
+        "C": "wealthy",
+        "D": "violent"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "brief summary指简要概述，与后句可获取完整指南形成对照。",
+      "knowledgePoints": [
+        "词汇：形容词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "c5406806017c1481a92b62672f41d7204a50dc25d90a07859a53e98492478604"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "By the time the workshop opened, the instructor _____ the tools on each table.",
+      "options": {
+        "A": "places",
+        "B": "has placed",
+        "C": "had placed",
+        "D": "will place"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "opened为过去时间，摆放工具在此前已完成，应用过去完成时。",
+      "knowledgePoints": [
+        "语法：过去完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2149097d13ac8ab28d44ca2267ee98e1ffcc295d6f18bc5a2b520b5387e2f22d"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "The woman _____ advice helped us read the bill works at the local service centre.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "whom"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "空格修饰advice，表示“她的建议”，用whose引导定语从句。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "be3bfe3d20ec308914f6bfda9aed255a846b8df89c943ee200c4ba9c6c19f33f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "If I _____ more time this evening, I will review the notes after dinner.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "真实条件句中，if从句用一般现在时表示将来条件。",
+      "knowledgePoints": [
+        "语法：条件状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "afe1c9376af7df762b1c7dc83f4d8e321cba593ef8da0fe7ac1ccd262d8ef45f"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "The new schedule _____ to all employees yesterday afternoon.",
+      "options": {
+        "A": "sends",
+        "B": "sent",
+        "C": "was sent",
+        "D": "has sent"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "schedule与send为被动关系，yesterday要求一般过去时被动语态。",
+      "knowledgePoints": [
+        "语法：被动语态"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "174cfc5f843ff3e20f671e1f21bb7e29e114b6d7362b1bff9a3269aa9c7c47cf"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Neither the supervisor nor the trainees _____ satisfied with the unclear instructions.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "neither ... nor ... 连接主语时谓语就近一致，trainees为复数。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "83705ddefd50b71b069fd9a53b7fa71d4ba678bc555494622ac8744c6ddd1e2e"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "She put the phone away so that she _____ concentrate on the conversation.",
+      "options": {
+        "A": "could",
+        "B": "must",
+        "C": "should have",
+        "D": "would have"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "主句为过去时，could表示当时能够专注，符合目的状语从句。",
+      "knowledgePoints": [
+        "语法：情态动词与时态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "94b89192a5212c09b9ed161ac3925dfa5eb5242e2619bb4c094ecdf2a6c8d3cc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This is the most useful suggestion that I _____ from the meeting so far.",
+      "options": {
+        "A": "receive",
+        "B": "received",
+        "C": "have received",
+        "D": "had received"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "so far提示从过去到现在的经历，应用现在完成时。",
+      "knowledgePoints": [
+        "语法：现在完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "fc5b15a0441becac3336766daf4b3b2d07c5b2fa617037e2e692abae0935d411"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The room was too noisy for us _____ the recording clearly.",
+      "options": {
+        "A": "hear",
+        "B": "hearing",
+        "C": "to hear",
+        "D": "heard"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "too ... for somebody to do是固定结构。",
+      "knowledgePoints": [
+        "语法：不定式结构"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "93cd5052e3c986eb97f06f2b09e2c923d19ccacbefb7e4edca1038e413ad2f77"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "_____ the instructions were short, several people asked for another example.",
+      "options": {
+        "A": "Although",
+        "B": "Because",
+        "C": "Unless",
+        "D": "Until"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "前后为让步关系：尽管说明很短，仍有人要求增加例子。",
+      "knowledgePoints": [
+        "语法：让步状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "a85bfad0735b05644d5100593389b741884022bbbdbcca40af474eac42bcb185"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "The technician suggested _____ the loose cover before replacing the whole machine.",
+      "options": {
+        "A": "check",
+        "B": "checked",
+        "C": "checking",
+        "D": "to checking"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "suggest后接动名词作宾语，故用checking。",
+      "knowledgePoints": [
+        "语法：动名词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "02e337e38685150aac1eb5fbcd7a60eb30d578245a29490a4c9d013258d9e3fc"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese.\n\nA useful habit often begins with a small observation. Before changing a routine, we can ask when a problem appears and what conditions make it worse. A family trying to use less energy, for example, may discover that one room is heated long after everyone has left it. They can then adjust that room rather than making the whole house uncomfortable. The first change may not produce a clear result, because weather and daily schedules also affect energy use. Keeping simple notes helps people compare similar days and decide whether to continue. This patient approach applies beyond the home: when we understand a situation before acting, even a modest change is more likely to be useful.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与逻辑关系"
+      ],
+      "explanation": "仅供考生自评。注意before引导的时间关系、rather than的对比、because解释结果不明的原因，以及beyond the home所表达的适用范围。按意义完整、语言准确和表达自然评分。",
+      "referenceAnswer": "一种有用的习惯往往始于细小的观察。改变日常做法之前，我们可以先问问问题何时出现，以及什么条件会使它变得更严重。例如，一个希望减少能源使用的家庭可能发现，所有人离开某个房间很久后，那里仍在供暖。于是，他们可以调整这个房间的供暖，而不必让整栋房子都变得不舒适。第一次调整未必会产生明确的结果，因为天气和每天的作息也会影响能源使用。做些简单记录，有助于人们比较条件相近的日子，并决定是否继续采用这一做法。这种耐心的方法并不只适用于家庭：当我们在行动前先了解情况时，即使是适度的改变，也更有可能发挥作用。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达主要信息、例证及因果和对比关系，不遗漏关键内容。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "词义、时态、指代与句间逻辑处理准确，避免明显误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文流畅，句子衔接清楚，符合书面表达习惯。"
+          }
+        ]
+      },
+      "contentFingerprint": "c88da3988eb5290bc4b03be1c8b7f996a580144753720fc0beccdde6bdc16393",
+      "referenceAnswerFingerprint": "b0cdfd81286fd608ddf57acc3625cbb60f39fc08d507ac83741c749d296e9c31"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English on the following topic: A Practical Change to Improve Daily Attention.\n\nYour adult learning centre has invited students to share one realistic way to reduce unnecessary interruptions during study or work. Write a short article for its newsletter. Describe a situation in which attention is often lost, explain one specific change you would try, and discuss how you would judge whether the change is helpful. Mention one limitation or adjustment. You may use an imagined example. Do not write your real name or contact details.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：建议、评估与连贯表达"
+      ],
+      "explanation": "仅供考生自评。范文描述学习时查看手机的干扰，提出具体设置和检查时间，说明评估方法及调整余地。评分看要点覆盖、组织连贯和语言运用，不要求照搬范文。",
+      "sampleAnswer": "When I study after work, a message notification can make me lose my place in a difficult paragraph. I may spend only a minute replying, but returning to the text takes much longer. I would therefore silence ordinary app alerts for a forty-minute study period. Calls from my family would remain available, and I would check messages during a ten-minute break.\n\nTo judge whether this change helps, I would note how many pages I understand and how often I have to reread a section. I would compare several evenings with similar study tasks instead of relying on one unusually quiet day. If forty minutes feels too long, I could begin with twenty-five. The purpose is to make my attention more deliberate, not to ignore people who may need me.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "写明注意力流失的情境、具体改变、评估办法及限制或调整。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "结构清晰，段落和衔接自然，符合简短文章的体裁。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇、语法基本准确，句式有适当变化，表达清楚。"
+          }
+        ]
+      },
+      "contentFingerprint": "2ff11ee7446ff9a61a11b0a8cf4b7b4700c93fe8013ce6566548eabadbc190ad",
+      "sampleAnswerFingerprint": "8aeac3bfcbb88e169af51216bb22690b8a3fb7c6e733274bbebdaab13e2c337e"
+    }
+  ],
+  "fingerprintManifest": [
+    "e5dab669a28fb6f03e83fed7d41c6db8bf65cf7b9e172ed1569db168f6f3c39c",
+    "f5b44cd927e155afb1631c53434fe1363fd983ab113bce243ce0f6cc7b912d0a",
+    "f1de54d0516f17193a76be48b95094c42dedfc2ff5b1314558b64de330d9389e",
+    "c2dd1af40032ed94c5996dc0b4837c520df5dbec111b7caf13f840248d8a602d",
+    "fdba3a4a74e4e3d45327216775dc4be53a84efc44f4d8d13d3d1148262de7dc9",
+    "d31153e67709e96d0ea2e654138242d88d4a3198bd04021ca5221a6a05aff26b",
+    "1838cfb2b3e9869fd20b84d59285ea23f354464dbf586df08cf7e0ef94e71602",
+    "bcf84a337dc6517626752750fa6517a7d3d50e06b16b6f7aed26036f0dfa7add",
+    "90dd8b909d7457b8d2da221f1dfcde334c8b893cd93527d7ba9518c426a05f0d",
+    "bcd5f463d4a99d9988a105412d1b97a5f0e397a6a5e34c3ee012c76b75b69f20",
+    "0ea6c967e9cc331d8b937aaf1a64f562c65f93444b4430e64c1dacf7d63d49e5",
+    "710558b685886d490b8ffaedbd14fd46f8c1684b4bfb5ce4bf543e47dba17429",
+    "0416735848007f7b8443e39f71d6bf13d7651f6b5fd7cd5e42fd97c682651100",
+    "55a679b6875c6c889890c8ec6bb6a64f8df255f398ea80e587b2d5f4d7c5567a",
+    "9c9395762e3fd895cec0d73896bc0c1f1fe043619e086bfca073b23f0e72d7c4",
+    "470ef605a6e366f5a99453a3edce26a71883955b95a4ec230f82267643e8f77f",
+    "f11c4e11a961cbbe2a81d35745b4fbbb9aba3b4d50db315a7e96407ca849ec1d",
+    "caa3d83a4b34ad99a05819c8de35db69c2a89947dc5fac6ecb6ac1376c62fbfa",
+    "513d6bed6a65c0e55713ddb10e3571aa3ed5ac7f2a5430a03a28aa939fc81ff7",
+    "5e1938621c995c470520545b7820f892dee612634e07f4643021e7b003f4aaef",
+    "51555bc68a550891116e82882bbd0c1045a5b9ada41463b2a0b90994899f8696",
+    "63c329a6131760a610aac7d0f3775eab91d31900ef7f0ab33d3bf58ae8a418c5",
+    "99964230ad454b274a0c5931710e9a0df032c578603a01b6f2cabf0beb740354",
+    "c9c5e71ecf169fbf4176f7ebbf7f64b9e9f14eba877978aa0a8cdc104ae05b17",
+    "680f5a3ae01ca414fd640eb4d983d1af2e2c8538173fd8a6ca314385fc0258ac",
+    "ccc8e3f67b3c6fd20cd051518157064dd83aba95ee5aa56fb0b90ce90e2970aa",
+    "02237ff7da027b67083554ae68c2928d2b373cfe96676b5b69dc3999a65d9ac5",
+    "b44990a3b36ac8406796c94f6facdc8793b800c901978fc4dacc41edbfdc6348",
+    "23422f474ec2558d2579bab182dc3dd6381c453ba43af99a34a719a36eaf553c",
+    "22674156d716220ab81ad885e89596ddfdc5867a32903a621c111d47fb96614a",
+    "0ee673588369b3dded9eb30f07a499db964ae6b711833e945ac01ec9f53d65a5",
+    "230b800c2841c0bc7688c4350d17ad8875e7710c86e960c4307aa774ddf8ab04",
+    "40d82ac01e297e6778bf7e72100030d0cee27340106e3d095b4290b967c8ea5c",
+    "efdad0dff8c5c43e63d2190e250f6dad5c4bc787a166f009e4529b3bf966a26b",
+    "767f9898a7a985f17f880455fb35333515fc35686f61bad8f44819b2f8abd243",
+    "00f575e427d6cc11b81884ffab76dce1d319eb4af3cc7c1fe5e586a0282b6848",
+    "a2164899523e122061e7d5c037bcf4781eed1914e5c392702cebd8437d779eb0",
+    "7a1798bd6f5d0ccdbdff4764540a0c4730453f919f01d313af403a5fd64df872",
+    "7ac9e405f80d2bb2906510237d48764442694c455c968c72e22ab146c42d7788",
+    "574963218d65790e0806cca6d0604a5ea9fc832aaa6762f6ea44e63370642e83",
+    "388e3cff90cabbf34e3d91f3707e405b1efdbcfc473f45f14a69979af034e83a",
+    "8ca4a225a68a0b0ee619d8aa7f35947d5ea934cfd4ef2c28ee8da550133f022c",
+    "8e4c14e5bc67148f944cd3b9e7576292491688483e0c05336ad2bb586a18ae17",
+    "6d01ad598c03d2eca2c965a1feee5cfa4b6db102faa831f8650fa35bb75f9141",
+    "08cd0a634472f820af3c88502e11844b8c1e210c5631a36e25d2cc364395e6be",
+    "def934f8d145bd4f0e1ae788e1392bbb7acaac9c8fd2f71a99fec1b6fde67518",
+    "c5406806017c1481a92b62672f41d7204a50dc25d90a07859a53e98492478604",
+    "2149097d13ac8ab28d44ca2267ee98e1ffcc295d6f18bc5a2b520b5387e2f22d",
+    "be3bfe3d20ec308914f6bfda9aed255a846b8df89c943ee200c4ba9c6c19f33f",
+    "afe1c9376af7df762b1c7dc83f4d8e321cba593ef8da0fe7ac1ccd262d8ef45f",
+    "174cfc5f843ff3e20f671e1f21bb7e29e114b6d7362b1bff9a3269aa9c7c47cf",
+    "83705ddefd50b71b069fd9a53b7fa71d4ba678bc555494622ac8744c6ddd1e2e",
+    "94b89192a5212c09b9ed161ac3925dfa5eb5242e2619bb4c094ecdf2a6c8d3cc",
+    "fc5b15a0441becac3336766daf4b3b2d07c5b2fa617037e2e692abae0935d411",
+    "93cd5052e3c986eb97f06f2b09e2c923d19ccacbefb7e4edca1038e413ad2f77",
+    "a85bfad0735b05644d5100593389b741884022bbbdbcca40af474eac42bcb185",
+    "02e337e38685150aac1eb5fbcd7a60eb30d578245a29490a4c9d013258d9e3fc",
+    "c88da3988eb5290bc4b03be1c8b7f996a580144753720fc0beccdde6bdc16393",
+    "b0cdfd81286fd608ddf57acc3625cbb60f39fc08d507ac83741c749d296e9c31",
+    "2ff11ee7446ff9a61a11b0a8cf4b7b4700c93fe8013ce6566548eabadbc190ad",
+    "8aeac3bfcbb88e169af51216bb22690b8a3fb7c6e733274bbebdaab13e2c337e"
+  ],
+  "contentFingerprint": "f8c898d653ba35b4143cdcc94a077f12023f1683bbdc2797e4a421b202c385e4"
+}

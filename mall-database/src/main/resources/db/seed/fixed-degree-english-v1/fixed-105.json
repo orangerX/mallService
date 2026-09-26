@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-105",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 105 · 公共参与与终身学习",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 105,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Planning a museum visit",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to bring my grandfather to the city museum. Are there seats in the galleries?\nGuide: (1) _____\nVisitor: Good. He can walk, but he needs short rests. Is the entrance fee reduced for older visitors?\nGuide: (2) _____\nVisitor: I will bring his identification card. Can we see the pottery exhibition without joining a tour?\nGuide: (3) _____\nVisitor: That gives us more freedom. When does the museum close on Friday?\nGuide: (4) _____",
+      "sharedOptions": {
+        "A": "Yes. Benches are available in every main gallery.",
+        "B": "You may explore it independently; the guided tour is optional.",
+        "C": "Yes, visitors over sixty-five pay half price with identification.",
+        "D": "At six in the evening, one hour later than on other weekdays."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "6f4f322ee413bf2dd7660602241ece54c20f8abb3bc6861bdaa6da3bff78b568",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a museum visit”, choose the response for blank (1).",
+          "options": {
+            "A": "Yes. Benches are available in every main gallery.",
+            "B": "You may explore it independently; the guided tour is optional.",
+            "C": "Yes, visitors over sixty-five pay half price with identification.",
+            "D": "At six in the evening, one hour later than on other weekdays."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "询问展厅是否有座位，A直接说明每个主要展厅都有长椅。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "0cf94d070f95c3066cd34186f5c9aefbdf44968be77b5584517cc6398e588ae5"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a museum visit”, choose the response for blank (2).",
+          "options": {
+            "A": "Yes. Benches are available in every main gallery.",
+            "B": "You may explore it independently; the guided tour is optional.",
+            "C": "Yes, visitors over sixty-five pay half price with identification.",
+            "D": "At six in the evening, one hour later than on other weekdays."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "询问老年访客是否有票价优惠，C说明年龄条件、半价及证件要求。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "fea8d9556c6515a2a0608c1b0b8c555441157c1001dae9df0db2ad49d161ec32"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a museum visit”, choose the response for blank (3).",
+          "options": {
+            "A": "Yes. Benches are available in every main gallery.",
+            "B": "You may explore it independently; the guided tour is optional.",
+            "C": "Yes, visitors over sixty-five pay half price with identification.",
+            "D": "At six in the evening, one hour later than on other weekdays."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "询问能否不随团参观，B明确可以独立参观。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "d4dd4617f6e0d0f0d4dfa0435d36e463427310546ee3bd47e4b7722dde60f9da"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Planning a museum visit”, choose the response for blank (4).",
+          "options": {
+            "A": "Yes. Benches are available in every main gallery.",
+            "B": "You may explore it independently; the guided tour is optional.",
+            "C": "Yes, visitors over sixty-five pay half price with identification.",
+            "D": "At six in the evening, one hour later than on other weekdays."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "询问周五闭馆时间，D给出下午六点。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7e85e3b2d16160241c829bf871e4bc319e2d06f24278c9c819d4a9608b33ffad"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Sharing surplus food",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Nora: We prepared more sandwiches than the workshop needed. Can the community fridge accept them?\nLeo: (1) _____\nNora: They were made this morning and have stayed cold. What should I write on the container?\nLeo: (2) _____\nNora: I can do that. Is there a volunteer there to receive them?\nLeo: (3) _____",
+      "sharedOptions": {
+        "A": "The fridge is beside the bicycle racks, but it closes at noon.",
+        "B": "Please label the ingredients and the time they were prepared.",
+        "C": "Yes, if they have been kept chilled and are brought in today.",
+        "D": "No appointment is needed; a volunteer checks donations until five."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "e8ad865e35d1cbaba53abb13e03e26ab7dbada11f6b17a33db4b393d3b873e26",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Sharing surplus food”, choose the response for blank (1).",
+          "options": {
+            "A": "The fridge is beside the bicycle racks, but it closes at noon.",
+            "B": "Please label the ingredients and the time they were prepared.",
+            "C": "Yes, if they have been kept chilled and are brought in today.",
+            "D": "No appointment is needed; a volunteer checks donations until five."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "C说明接受条件，后文恰好回应三明治制作时间和冷藏情况。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "7cca54e231ddfddc4fce077f32182cdf9d4ba32f54e432ee78721fdfe9b53519"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Sharing surplus food”, choose the response for blank (2).",
+          "options": {
+            "A": "The fridge is beside the bicycle racks, but it closes at noon.",
+            "B": "Please label the ingredients and the time they were prepared.",
+            "C": "Yes, if they have been kept chilled and are brought in today.",
+            "D": "No appointment is needed; a volunteer checks donations until five."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "B要求标注配料和制作时间，直接回答容器上该写什么。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "340a885ef0f0f6ce71518a246dfc637558eed9ea08769b13beb0a29971b1df3e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Sharing surplus food”, choose the response for blank (3).",
+          "options": {
+            "A": "The fridge is beside the bicycle racks, but it closes at noon.",
+            "B": "Please label the ingredients and the time they were prepared.",
+            "C": "Yes, if they have been kept chilled and are brought in today.",
+            "D": "No appointment is needed; a volunteer checks donations until five."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "D说明志愿者检查捐赠至五点，回答接收人员的问题。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2a50d538a61f60e1089076704839f61bb17b87f53cb97a13d1e7fb9cca116eed"
+        }
+      ]
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Recording birds in the park",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Amir: I want to help with the bird survey, but I cannot identify many species.\nCoordinator: (1) _____\nAmir: That sounds manageable. Should I count every bird I see?\nCoordinator: (2) _____\nAmir: Understood. How do I send you the results?\nCoordinator: (3) _____",
+      "sharedOptions": {
+        "A": "Use the short online form, and include the time and location.",
+        "B": "Start with the picture guide; recording an uncertain bird as “unknown” is fine.",
+        "C": "Please count only those inside the marked garden during your ten-minute visit.",
+        "D": "The park café sells a helpful book about trees."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "contentFingerprint": "8810ed3502a9e8fc1384266ecb0686c034af4510deb6220585eeffb3810d059a",
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Recording birds in the park”, choose the response for blank (1).",
+          "options": {
+            "A": "Use the short online form, and include the time and location.",
+            "B": "Start with the picture guide; recording an uncertain bird as “unknown” is fine.",
+            "C": "Please count only those inside the marked garden during your ten-minute visit.",
+            "D": "The park café sells a helpful book about trees."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "B提供图鉴及不确定时的记录方式，回应不会辨认鸟类的担忧。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "df2f029d0dd076d21f0c7e7497724188b4a7f8afa413096d8c06f7b1d04047ec"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Recording birds in the park”, choose the response for blank (2).",
+          "options": {
+            "A": "Use the short online form, and include the time and location.",
+            "B": "Start with the picture guide; recording an uncertain bird as “unknown” is fine.",
+            "C": "Please count only those inside the marked garden during your ten-minute visit.",
+            "D": "The park café sells a helpful book about trees."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "C明确计数范围和十分钟时段，回答是否数所有鸟的问题。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "3d160a387a2d7dc5997e28a5fa99c0fb48c906cf074c9e908aeed0f80144b7dd"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Recording birds in the park”, choose the response for blank (3).",
+          "options": {
+            "A": "Use the short online form, and include the time and location.",
+            "B": "Start with the picture guide; recording an uncertain bird as “unknown” is fine.",
+            "C": "Please count only those inside the marked garden during your ten-minute visit.",
+            "D": "The park café sells a helpful book about trees."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "A给出提交途径及填写信息，直接回应如何发送结果。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "56d41ff25faf4e98a9c768e9564daac1e4643ab6d818231738a4b8a59a8cbbbb"
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "Who Owns a Museum?",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "On a rainy Tuesday, the North Quay Museum opened a small exhibition about the town's former textile mills. The objects were modest: a lunch tin, a time card, a patched apron and a photograph of workers outside a gate. Yet the room was unusually busy. Several visitors had worked in the mills, and they had come to hear what the museum would say about their lives.\n\nThe curator, Eva, had first written labels based on company records. They listed dates, machines and production figures. During a trial opening, however, one visitor pointed to the apron and explained why its pockets were uneven: workers had sewn extra space for tools they were expected to carry. Another remembered that the official photograph had been taken on a holiday, when the factory was closed. The records were accurate, but they did not tell the whole story.\n\nEva invited former workers to add short recorded comments. She also kept the original labels so that visitors could compare sources. Some memories disagreed. Rather than choosing one as the final truth, the museum displayed both accounts with the speakers' names and dates. A note explained that people remember events from different positions, and that a useful historical account may show where evidence is uncertain.\n\nThis approach created practical difficulties. Recordings required permission, translation for visitors who spoke other languages, and quiet headphones so that the voices would not fill the gallery. Staff also had to resist the temptation to treat every personal story as proof of a general pattern. They checked claims against pay books and local newspapers when possible.\n\nBy the end of the month, the museum had received new donations, but Eva valued something less visible: more residents now saw the building as a place where they could ask questions. The exhibition did not hand ownership of the collection to any single group. It made the work of interpreting it more open, while preserving the museum's duty to explain how it knew what it claimed.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：信息、推断与主旨"
+      ],
+      "contentFingerprint": "869ef8a2b1a140f6c49b357bba9c00324a2af3e7a695f53089859f441e76d8e3",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "Who Owns a Museum?: Why did former mill workers visit the opening?",
+          "options": {
+            "A": "To apply for jobs at the museum.",
+            "B": "To see how their experience would be represented.",
+            "C": "To buy machines from the old factory.",
+            "D": "To correct the opening hours."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段指出他们想了解博物馆将如何讲述他们的生活。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "2f211ea37c7042c85019e607ed9c8684a36682dc456f4e4b99e31af6a6362e72"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "Who Owns a Museum?: What did the uneven pockets reveal?",
+          "options": {
+            "A": "A factory rule about holidays.",
+            "B": "An error in the company records.",
+            "C": "A practical detail missing from the first labels.",
+            "D": "The date on which the apron was made."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "工人解释口袋为携带工具而加大，这一生活细节原有标签没有呈现。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "35a923b9c48faf42263be5d12ca1ec93c6d77a136f571f3df3d33f544deebf4d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "Who Owns a Museum?: Why were conflicting memories displayed together?",
+          "options": {
+            "A": "To show that evidence can have different perspectives.",
+            "B": "To avoid identifying the speakers.",
+            "C": "To replace all written records.",
+            "D": "To let visitors vote for a winner."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第三段强调记忆来自不同位置，呈现分歧可说明证据的不确定性。",
+          "knowledgePoints": [
+            "阅读：观点理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1279f3bdcbe408bc986607b4af52908636ca6c0f174a9033d9290d0fdae0446f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "Who Owns a Museum?: Which task was part of the staff’s careful handling of accounts?",
+          "options": {
+            "A": "Removing every old label.",
+            "B": "Playing recordings loudly throughout the room.",
+            "C": "Treating one story as a general rule.",
+            "D": "Checking some claims against other sources."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第四段写明工作人员尽可能用工资簿和地方报纸核对说法。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a6c3426c0b747678482fead16222f7d3140df9a65f260530bf0363f8f2938255"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "Who Owns a Museum?: What is the main idea of the passage?",
+          "options": {
+            "A": "Old factories should become museums.",
+            "B": "Public input can enrich an exhibition when evidence is handled responsibly.",
+            "C": "Photographs are less reliable than recordings.",
+            "D": "Museums should display only donated objects."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "全文说明吸收社区经验并审慎核验，使展览更完整、更开放。",
+          "knowledgePoints": [
+            "阅读：主旨大意"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "29ae3f896c34e0a71a7410d1d878aa27a62885d627904b87f7acc2a9f99fefc9"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "The Second Life of a School Lunch",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At Brookfield School, the bins after lunch used to contain almost as much food as the tables. Students blamed large servings; kitchen staff thought the menu was the problem. Instead of guessing, a student council measured what was thrown away for two weeks. They sorted unopened items from partly eaten meals and recorded the results without naming individual pupils. The surprising finding was that most waste came from side dishes chosen in a hurry.\n\nThe school tried a small change. Pupils could take a half serving of a side dish and return for more after eating it. The kitchen continued to prepare enough food, but served it in smaller batches. This meant that late arrivals still had a choice. The council put simple signs beside the dishes, describing ingredients rather than telling anyone to clean a plate.\n\nAfter a month, the amount of food in the bins had fallen. The council was pleased, but its report included a caution. A quiet week of exams may have changed attendance, and fewer pupils may simply have chosen the hot lunch. To understand the change, the council compared waste with the number of meals served. Even then, it could say only that the new system was associated with less waste, not that it was the sole cause.\n\nThere was also a question of fairness. Some students worried that taking a small portion might be seen as refusing the cook's effort. Kitchen staff explained that asking for more was welcome and that different appetites were normal. The school made sure no one had to announce a reason for choosing a smaller plate.\n\nThe project did not end at the bin. The class studied the energy and water used before food reaches a dining room. They learned that throwing away a vegetable also wastes the work of growing, transporting and preparing it. At the final assembly, the council recommended continuing the flexible servings and measuring waste again next term. Their strongest message was simple: good intentions become more useful when people check what happens in practice.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：信息、推断与主旨"
+      ],
+      "contentFingerprint": "74cb678c78e467110a82fcdbf6523677b21e646611f3959ecbee76502b9187ae",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "The Second Life of a School Lunch: What did the first two weeks of measurement show?",
+          "options": {
+            "A": "Most waste came from side dishes selected quickly.",
+            "B": "Unopened drinks were the largest problem.",
+            "C": "Kitchen staff made too little food.",
+            "D": "Pupils preferred to skip lunch entirely."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第一段明确多数浪费来自匆忙选取的配菜。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b6342aea107c8f89ca10410cb777a648fc9450d5751ca9edb5b440abbb8669fa"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "The Second Life of a School Lunch: Why did the kitchen serve food in smaller batches?",
+          "options": {
+            "A": "To reduce the number of dishes offered.",
+            "B": "To reserve meals for teachers.",
+            "C": "To keep choices available for later pupils.",
+            "D": "To finish lunch earlier."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段说明分批供应使晚到的学生仍有选择。",
+          "knowledgePoints": [
+            "阅读：目的理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "b157a59137016d283708bc87a47c7ac9cd60945c864e0f96d767459cf00fa5d8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "The Second Life of a School Lunch: Why did the council compare waste with meals served?",
+          "options": {
+            "A": "To identify pupils who wasted food.",
+            "B": "To allow for changes in attendance and lunch choice.",
+            "C": "To prove that the signs alone worked.",
+            "D": "To calculate the price of each side dish."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段指出考试周出勤和热餐选择可能变化，比较就餐人数能帮助解释数据。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a43a09e929ebc7513048816d2e2db5f6450041c1dc950e96c2d1e880c226455b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "The Second Life of a School Lunch: What concern did some students have about small portions?",
+          "options": {
+            "A": "They might appear ungrateful to the cooks.",
+            "B": "They would have to pay twice.",
+            "C": "They could not return for more.",
+            "D": "Their classmates would measure their plates."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第四段写明有人担心小份量会被看作不尊重厨师的劳动。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6fa42a87cc68ccfe521dea21bf45b086823eb9864336b586073c38f7c2aaa989"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "The Second Life of a School Lunch: Which conclusion best matches the council’s report?",
+          "options": {
+            "A": "One change has permanently solved all waste.",
+            "B": "Every pupil should finish every dish.",
+            "C": "Food waste matters only after meals are served.",
+            "D": "Flexible servings appeared helpful, but results should be checked again."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "报告谨慎解释因果关系，并建议下学期继续测量。",
+          "knowledgePoints": [
+            "阅读：综合理解"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "02d179527d92fe5fbd62630e7422ccdfd1cce69a9e196367b08ccfca591dc2bd"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "The River Notebook",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "Every Thursday evening, residents of Elmbank walked to the footbridge with small notebooks. Their task was to record the river's colour, the amount of floating litter and the water level shown on a marked post. The project had been started by a science teacher, but anyone could join.\n\nAt first, volunteers wrote descriptions such as “rather high” or “quite muddy.” These phrases were understandable to neighbours, yet difficult to compare across weeks. The group therefore agreed on a short guide: five water-level marks, three colour categories and a count of visible litter items within a fixed stretch. They also recorded the time and recent rain. The new rules did not make the observers perfect, but they made the notes more consistent.\n\nOne autumn, several notebooks showed that the river became cloudy after rain even when the litter count stayed low. A few people immediately blamed a construction site upstream. The teacher reminded them that the notebooks could show a pattern, not its cause. Soil washed from gardens or paths might also explain the cloudiness. The group shared its records with a local environmental office, which could collect samples and investigate further.\n\nThe office later found several possible sources of loose soil and asked landowners to improve drainage. It did not announce a single culprit. Volunteers were disappointed by the lack of a dramatic answer, but they began to value a different result: their regular observations had helped officials decide where to look. They also noticed that a sudden change was easier to identify because ordinary days had been recorded too.\n\nAt the project's second anniversary, the teacher handed the notebooks to a new volunteer coordinator. She said the river belonged to no one observer, and neither did the data. Keeping a common method and sharing uncertainty made their simple records useful beyond the footbridge. The work showed how citizens can contribute to science without pretending that one set of observations answers every question.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：信息、推断与主旨"
+      ],
+      "contentFingerprint": "bd125886f62aa4a29002e59544500a699045bd1f2d9d7c2523d34015b2dbdfc1",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "The River Notebook: Why did the group create a short observation guide?",
+          "options": {
+            "A": "To make records easier to compare over time.",
+            "B": "To stop new volunteers from joining.",
+            "C": "To avoid recording rainy days.",
+            "D": "To replace the teacher’s notebooks."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段说明原先描述难以比较，统一类别和范围使记录更一致。",
+          "knowledgePoints": [
+            "阅读：目的理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "1510cf644a5f02c839484e1a99bb572a4f6897bb93b167fc976e96e57643b2bc"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "The River Notebook: What did the notebooks show after autumn rain?",
+          "options": {
+            "A": "The bridge had become unsafe.",
+            "B": "Cloudiness increased while litter remained low.",
+            "C": "Water levels stopped changing.",
+            "D": "Construction had definitely caused pollution."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段指出雨后水变浑，但垃圾计数仍低。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "963c062f1406653a490a11628ab94ca05cb9f6b565d8452e7aeaf9dfe41f8afb"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "The River Notebook: Why did the teacher caution against blaming the construction site?",
+          "options": {
+            "A": "The site was downstream.",
+            "B": "The notebooks were lost.",
+            "C": "Other causes could explain the same pattern.",
+            "D": "The office refused to investigate."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "教师指出笔记只能显示规律而不能确定原因，花园或道路的泥土也可能造成浑浊。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "9d3239a552f4ad6fa36cb0e74cb611a876b41a55744dfee480ff7c30e6e36a6b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "The River Notebook: How did ordinary-day records help?",
+          "options": {
+            "A": "They proved that every day was identical.",
+            "B": "They replaced scientific samples.",
+            "C": "They reduced the need for a shared method.",
+            "D": "They provided a baseline for noticing unusual changes."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第四段说明有平日记录作参照，突然变化才更容易识别。",
+          "knowledgePoints": [
+            "阅读：信息整合"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "4c6af544dd9ec4720ce5c9c6493ed9224ba6498b6c35b528ba0242564549d315"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "The River Notebook: Which statement best describes the volunteers’ contribution?",
+          "options": {
+            "A": "They found and punished one culprit.",
+            "B": "They supplied consistent observations that guided further investigation.",
+            "C": "They completed the office’s laboratory testing.",
+            "D": "They proved that litter never affects rivers."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "志愿者按共同方法长期记录，帮助专业部门确定调查方向。",
+          "knowledgePoints": [
+            "阅读：主旨大意"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "857ce2e419737fba20bf93994a9d764e80d958a0a51767fa48ab56a4f6e6f81d"
+        }
+      ]
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "A Classroom After Twenty Years",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "When Mei enrolled in an evening accounting course, she had not sat in a classroom for twenty years. She had spent most of that time managing a repair shop, ordering supplies and speaking with customers. On the first night she worried that younger classmates would understand the software immediately while she searched for the right keys. She nearly turned around at the classroom door.\n\nThe instructor began by asking everyone to describe a problem they had solved outside school. Mei spoke about tracing a missing order through several handwritten records. A younger student described organising a music event. The instructor used both stories to introduce the idea of checking information before making a decision. Mei realised that she already used part of the course's logic, although she did not yet know its technical terms.\n\nLearning the software was still difficult. At home, Mei could complete an exercise only by following a list of steps. When an unexpected message appeared on the screen, she froze. The instructor suggested that she write down what she expected, what actually happened and one possible cause. This short record helped her ask precise questions in class. It also showed her that mistakes could be examined instead of hidden.\n\nMei's classmates helped in different ways. One showed her a keyboard shortcut; she explained how real customers sometimes described a problem inaccurately. Their exchanges worked because neither kind of experience was treated as a complete answer. Once, Mei gave advice too quickly and discovered that a classmate needed time to test an idea alone. After that, she asked before offering help.\n\nAt the end of the term, Mei passed the course and used a spreadsheet at the shop. She did not become the fastest user of the program. What changed most was her willingness to approach a new task: she could connect it to what she knew, identify what she did not know and seek help without feeling that her earlier years had been wasted. Returning to study had added a new method to an existing life.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：信息、推断与主旨"
+      ],
+      "contentFingerprint": "a32063bb5d1d719d915686ae8916459cbe88e486e71aef6e9f56fce3bb52f154",
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "A Classroom After Twenty Years: What made Mei hesitate at the classroom door?",
+          "options": {
+            "A": "She had lost the course materials.",
+            "B": "She thought younger students might learn the software faster.",
+            "C": "She disliked accounting as a subject.",
+            "D": "She was late for the first lesson."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段写明她担心年轻同学能很快掌握软件，而自己还在找按键。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "3622661e58c66ecd8bfcd0304e7d1eecf77272f51e121f8a79e437f1f3cf88ae"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "A Classroom After Twenty Years: What did the opening activity help Mei realise?",
+          "options": {
+            "A": "Her work experience had relevant ways of thinking.",
+            "B": "All technical terms were unnecessary.",
+            "C": "The course would use no computers.",
+            "D": "Her classmates had no practical experience."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段说明她发现自己已在工作中运用课程的部分逻辑。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "749039aaaa8bb7cecd3dc19f46237c781472bf86686df380fded8399f703b2c7"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "A Classroom After Twenty Years: Why did the instructor ask Mei to record unexpected results?",
+          "options": {
+            "A": "To grade her handwriting.",
+            "B": "To prevent her from making any errors.",
+            "C": "To help her form specific questions and examine mistakes.",
+            "D": "To replace every software exercise."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第三段说明记录预期、实际情况和可能原因，有助于提出具体问题并分析错误。",
+          "knowledgePoints": [
+            "阅读：目的理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "f396bec9c0ecd287a463d736c29832a3bc003d8317b0a9cad46be7fd3b5c73b1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "A Classroom After Twenty Years: What did Mei learn about helping a classmate?",
+          "options": {
+            "A": "Advice should always be given immediately.",
+            "B": "Only the instructor could offer help.",
+            "C": "Work experience was more valuable than software skill.",
+            "D": "It is useful to ask whether help is wanted first."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "第四段指出她曾过早给建议，后来会先询问对方是否需要帮助。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "a14767033d8e0d137ee27b09c7d55eac065ed4d12f247908d3ea90650a152bd2"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "A Classroom After Twenty Years: Which idea best sums up Mei’s experience?",
+          "options": {
+            "A": "Adult learners must abandon earlier experience.",
+            "B": "Returning to study can build on previous experience while adding new methods.",
+            "C": "Speed is the only reliable measure of learning.",
+            "D": "A spreadsheet can solve every shop problem."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "结尾明确指出重新学习是在既有生活经验上增加新方法。",
+          "knowledgePoints": [
+            "阅读：主旨大意"
+          ],
+          "difficulty": 4,
+          "score": 2,
+          "contentFingerprint": "404245015351d2d9b431b999c986ae15a39f6b7852f67ccd42e108a4fa1d27f9"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The museum asked visitors to _____ their comments on cards before leaving.",
+      "options": {
+        "A": "record",
+        "B": "borrow",
+        "C": "prevent",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "record comments表示记录意见，符合离馆前写卡片的语境。",
+      "knowledgePoints": [
+        "词汇：动词辨析"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "900118acbfef1ad8e562dce8a1fd6d53dfe981e7b9de3b65153cb2fc190e659d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The report gave a _____ account of the experiment, including its limitations.",
+      "options": {
+        "A": "brief",
+        "B": "careful",
+        "C": "silent",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "careful account指审慎的说明，与包括局限性相吻合。",
+      "knowledgePoints": [
+        "词汇：形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "329da9e84b4f3ae34ebd20b7c9d95a7ef71d1fc25e04d73bbd3b57bddc6b4c68"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Food kept at the wrong temperature may become _____ to eat.",
+      "options": {
+        "A": "unsafe",
+        "B": "unlikely",
+        "C": "unaware",
+        "D": "unequal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "unsafe to eat意为食用不安全。",
+      "knowledgePoints": [
+        "词汇：派生形容词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1cb1a02ec188c0bd5010219476cf90035df0aa0258bb9a8c9f22029951450fc9"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "The volunteers followed the same _____ so that their observations could be compared.",
+      "options": {
+        "A": "method",
+        "B": "border",
+        "C": "fortune",
+        "D": "address"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "method表示方法；采用相同方法才能比较观察结果。",
+      "knowledgePoints": [
+        "词汇：名词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "4b1576b7ed71515a92d077c5d939f0de7514ba8e66599bd50d9f467c6670f215"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "Please _____ the label to the container so that the ingredients are clear.",
+      "options": {
+        "A": "attach",
+        "B": "escape",
+        "C": "admire",
+        "D": "exchange"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "attach ... to ...表示把标签贴在容器上。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2085f8397184f662f5bf9ad03d71256154b0774c56fb52865811ed80514cc53e"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The library will _____ its opening hours during the examination period.",
+      "options": {
+        "A": "extend",
+        "B": "refuse",
+        "C": "collect",
+        "D": "settle"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "extend opening hours意为延长开放时间。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "1584a4682c1e2138dda39df9a3087ed5e43089c5e4dc3b9492f02220582dd676"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "Her first answer was only a _____; she checked the figures before making a claim.",
+      "options": {
+        "A": "guess",
+        "B": "reward",
+        "C": "promise",
+        "D": "habit"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "guess表示猜测，后文核对数据说明首答尚无充分依据。",
+      "knowledgePoints": [
+        "词汇：名词语义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "53721aaa1277b624a6c09dc5e114f48bac2f295aeeb33619158c2b62664bb94d"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The instructions were too _____, so the teacher added an example.",
+      "options": {
+        "A": "vague",
+        "B": "public",
+        "C": "central",
+        "D": "steady"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "vague意为含糊的，需要增加例子来说明。",
+      "knowledgePoints": [
+        "词汇：形容词辨析"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "1ec29fe87f65af85c0adb5d5463b8cf279fa383ea5e9bd5b72b462a76c54f6e6"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Small changes in daily routines can have a _____ effect over several months.",
+      "options": {
+        "A": "lasting",
+        "B": "wooden",
+        "C": "private",
+        "D": "formal"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "lasting effect意为持久影响，符合数月累积的语境。",
+      "knowledgePoints": [
+        "词汇：形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "90bcedf32a0a1da42134f24430238ccc5b9a41207180c6ecf3114c665b899444"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The new student felt more _____ after being shown where to find the materials.",
+      "options": {
+        "A": "confident",
+        "B": "remote",
+        "C": "ordinary",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "confident表示有信心；知道材料位置后更安心。",
+      "knowledgePoints": [
+        "词汇：形容词语义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "6f5f092b716e1f7d2564e03e401e64ebe9830d9fc96ff7b0b50d819ddda5957a"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "By the time the exhibition opened, the volunteers _____ all the labels.",
+      "options": {
+        "A": "prepare",
+        "B": "had prepared",
+        "C": "will prepare",
+        "D": "are preparing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "opened是过去时，准备标签发生在开幕之前，应用过去完成时。",
+      "knowledgePoints": [
+        "语法：过去完成时"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "d8dd700863004b18d2919f9a18dabc06098cb8bed396cdb2cee70ea6f30c27a4"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "If the rain stops, we _____ the river level this afternoon.",
+      "options": {
+        "A": "checked",
+        "B": "have checked",
+        "C": "will check",
+        "D": "had checked"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "真实条件句中if从句用一般现在时，主句表示将来用will check。",
+      "knowledgePoints": [
+        "语法：条件状语从句"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "074d4ce8a6125b9a993222254363ea30c411131ac122934fee5d2a65e3af3843"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The form _____ by every volunteer at the end of a visit.",
+      "options": {
+        "A": "completes",
+        "B": "is completed",
+        "C": "completed",
+        "D": "has completing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "表格是被填写的对象，且every visit表示常规动作，应用一般现在时被动语态。",
+      "knowledgePoints": [
+        "语法：被动语态"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "598cd11ea556863db9cce8bf20f439742b1f33865bcf152422f27fcc98113327"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "This is the notebook _____ contains the first year of observations.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "先行词notebook为物，关系代词that在从句中作主语。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "2f950561c870436ba8c397c4a18967be2dd61223fa0b5e43d935c5548ef99e5a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Mei found it easier _____ questions after she wrote down the error.",
+      "options": {
+        "A": "ask",
+        "B": "asking",
+        "C": "to ask",
+        "D": "asked"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "find it + 形容词 + to do结构中不定式是真正宾语。",
+      "knowledgePoints": [
+        "语法：非谓语动词"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "440edecf9b10cb0341dfc476ee4d6e2c5bb1f98bcec2682d30360dbfc88aded0"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "Neither the students nor the teacher _____ ready to publish the results yet.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "be",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither ... nor ...作主语遵循就近一致，teacher为单数，应用is。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "403070b12fd98a78f356aa5a613a5db82a9f4ab613ec042eb602617fc24a7305"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "The museum offers audio guides _____ visitors can hear different accounts.",
+      "options": {
+        "A": "so that",
+        "B": "even though",
+        "C": "unless",
+        "D": "as soon as"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "so that引导目的状语从句，说明提供语音导览是为了让访客听到不同叙述。",
+      "knowledgePoints": [
+        "语法：目的状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "212c67eeb4163cad6eee435a701178d73d68f6df0955786d73796ec89c38dd99"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The smaller serving was _____ than many students had expected.",
+      "options": {
+        "A": "more satisfying",
+        "B": "most satisfying",
+        "C": "satisfying more",
+        "D": "satisfy"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "than提示比较级，more satisfying结构正确。",
+      "knowledgePoints": [
+        "语法：形容词比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "2643ee52a4bafbcec066c6a7dbf7fd1e23182f0984ad9fc283b697bc77929da5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "She asked the coordinator where she _____ the completed form.",
+      "options": {
+        "A": "should send",
+        "B": "should sending",
+        "C": "sends",
+        "D": "to sending"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "宾语从句需陈述语序；should send表示应将表格发往何处。",
+      "knowledgePoints": [
+        "语法：宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "5a04382d4a27c51102c2cadfede7b1c7aa875b3dd04f542218abb84bc172fffc"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Having checked the figures, the council decided _____ its report.",
+      "options": {
+        "A": "revise",
+        "B": "revising",
+        "C": "to revise",
+        "D": "revised"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "decide后接动词不定式to revise。",
+      "knowledgePoints": [
+        "语法：动词不定式"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "7dfeec62f0866460dea3b7aecb55644492c11dbe831e2322fdfaaed5b40d9ec9"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese.\n\nA public place becomes more welcoming when people can participate in different ways. At a museum, one visitor may read every label while another listens to a short recording. Neither approach is more valuable simply because it takes longer. What matters is whether the information is clear enough for visitors to make their own connections. Staff can ask people what helped them understand an exhibition and what remained confusing. They should also explain how an object or story was selected, especially when evidence is incomplete. Such openness does not remove disagreement, but it gives everyone a better basis for discussion. When visitors see that their questions are taken seriously, they are more likely to return and share what they have learned.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "仅供自评。注意neither、what matters is whether及especially when所体现的比较、主语从句和条件语义；根据意义完整、语言准确和表达自然评分。",
+      "referenceAnswer": "当人们能够以不同方式参与时，公共场所就会变得更加友好。在博物馆里，一位参观者可能阅读每一条说明文字，另一位则听一段简短录音。某种方式并不会仅仅因为花费时间更长就更有价值。重要的是，信息是否足够清楚，能让参观者建立自己的联系。工作人员可以询问人们，哪些内容帮助他们理解展览，哪些地方仍令人困惑。他们还应解释某件展品或某个故事是如何被选中的，尤其是在证据不完整时。这种开放态度不会消除分歧，却能为每个人的讨论提供更好的基础。当参观者发现自己的问题受到认真对待时，他们就更可能再次到访，并分享所学。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "准确传达不同参与方式、信息清晰度、证据和讨论等主要信息及逻辑关系。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "正确处理比较、从句、指代与关键动词，无严重误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，句间衔接清楚，符合汉语表达习惯。"
+          }
+        ]
+      },
+      "contentFingerprint": "ba6ceeef742309f6f18a73e8d0dc63cc8df5d03482a6e5ca62186ce4e86d70a6",
+      "referenceAnswerFingerprint": "8b2f133aad0f56125e75b806fe3fbfecdb46ca2d31c948b579dd094b66c90a60"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English on the following topic: A Practical Way to Reduce Food Waste.\n\nYour neighbourhood centre plans to invite residents to suggest one realistic action for reducing food waste at home or in shared spaces. Write a short proposal. Describe the action, explain how people would carry it out, identify one possible difficulty and suggest how to handle it. Explain why your idea would help the community. You may use an imagined example. Do not write your real name or contact details.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：建议、问题与解决办法"
+      ],
+      "explanation": "仅供自评。范文提出共享临期食品的具体规则、潜在困难、应对办法及社区收益。其他合理方案也可得分，按任务完成、组织连贯、语言运用评分。",
+      "sampleAnswer": "I suggest creating a weekly “use it soon” shelf at our neighbourhood centre. Residents could place unopened, clearly labelled food there if it is still safe to eat but they will not use it in time. A volunteer would check dates and storage instructions before accepting each item. Food that needs refrigeration would go into a supervised fridge instead of the shelf.\n\nOne difficulty is that people may be unsure whether an item is suitable. We could post simple rules and ask donors to speak to a volunteer when they have doubts. The centre should never accept food with damaged packaging or unclear dates.\n\nThe shelf would give useful food another chance before it is thrown away. It could also help neighbours talk about shopping habits and learn to plan meals more carefully. We should count the items shared each month so that we can improve the system based on what actually happens.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "提出可行行动，说明执行方法、一个困难、解决办法和社区收益。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "结构清晰，段落和衔接适合简短建议文。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇与语法基本准确，表达明确，达到规定词数。"
+          }
+        ]
+      },
+      "contentFingerprint": "b5e346c114410313655b016e92d238b6bdc7b1c849120e7e9cf136f77cd218cb",
+      "sampleAnswerFingerprint": "4dd29899fa5c286cbface9466e034115a77a0ec67322b657e6a1eebc21a48b45"
+    }
+  ],
+  "fingerprintManifest": [
+    "6f4f322ee413bf2dd7660602241ece54c20f8abb3bc6861bdaa6da3bff78b568",
+    "0cf94d070f95c3066cd34186f5c9aefbdf44968be77b5584517cc6398e588ae5",
+    "fea8d9556c6515a2a0608c1b0b8c555441157c1001dae9df0db2ad49d161ec32",
+    "d4dd4617f6e0d0f0d4dfa0435d36e463427310546ee3bd47e4b7722dde60f9da",
+    "7e85e3b2d16160241c829bf871e4bc319e2d06f24278c9c819d4a9608b33ffad",
+    "e8ad865e35d1cbaba53abb13e03e26ab7dbada11f6b17a33db4b393d3b873e26",
+    "7cca54e231ddfddc4fce077f32182cdf9d4ba32f54e432ee78721fdfe9b53519",
+    "340a885ef0f0f6ce71518a246dfc637558eed9ea08769b13beb0a29971b1df3e",
+    "2a50d538a61f60e1089076704839f61bb17b87f53cb97a13d1e7fb9cca116eed",
+    "8810ed3502a9e8fc1384266ecb0686c034af4510deb6220585eeffb3810d059a",
+    "df2f029d0dd076d21f0c7e7497724188b4a7f8afa413096d8c06f7b1d04047ec",
+    "3d160a387a2d7dc5997e28a5fa99c0fb48c906cf074c9e908aeed0f80144b7dd",
+    "56d41ff25faf4e98a9c768e9564daac1e4643ab6d818231738a4b8a59a8cbbbb",
+    "869ef8a2b1a140f6c49b357bba9c00324a2af3e7a695f53089859f441e76d8e3",
+    "2f211ea37c7042c85019e607ed9c8684a36682dc456f4e4b99e31af6a6362e72",
+    "35a923b9c48faf42263be5d12ca1ec93c6d77a136f571f3df3d33f544deebf4d",
+    "1279f3bdcbe408bc986607b4af52908636ca6c0f174a9033d9290d0fdae0446f",
+    "a6c3426c0b747678482fead16222f7d3140df9a65f260530bf0363f8f2938255",
+    "29ae3f896c34e0a71a7410d1d878aa27a62885d627904b87f7acc2a9f99fefc9",
+    "74cb678c78e467110a82fcdbf6523677b21e646611f3959ecbee76502b9187ae",
+    "b6342aea107c8f89ca10410cb777a648fc9450d5751ca9edb5b440abbb8669fa",
+    "b157a59137016d283708bc87a47c7ac9cd60945c864e0f96d767459cf00fa5d8",
+    "a43a09e929ebc7513048816d2e2db5f6450041c1dc950e96c2d1e880c226455b",
+    "6fa42a87cc68ccfe521dea21bf45b086823eb9864336b586073c38f7c2aaa989",
+    "02d179527d92fe5fbd62630e7422ccdfd1cce69a9e196367b08ccfca591dc2bd",
+    "bd125886f62aa4a29002e59544500a699045bd1f2d9d7c2523d34015b2dbdfc1",
+    "1510cf644a5f02c839484e1a99bb572a4f6897bb93b167fc976e96e57643b2bc",
+    "963c062f1406653a490a11628ab94ca05cb9f6b565d8452e7aeaf9dfe41f8afb",
+    "9d3239a552f4ad6fa36cb0e74cb611a876b41a55744dfee480ff7c30e6e36a6b",
+    "4c6af544dd9ec4720ce5c9c6493ed9224ba6498b6c35b528ba0242564549d315",
+    "857ce2e419737fba20bf93994a9d764e80d958a0a51767fa48ab56a4f6e6f81d",
+    "a32063bb5d1d719d915686ae8916459cbe88e486e71aef6e9f56fce3bb52f154",
+    "3622661e58c66ecd8bfcd0304e7d1eecf77272f51e121f8a79e437f1f3cf88ae",
+    "749039aaaa8bb7cecd3dc19f46237c781472bf86686df380fded8399f703b2c7",
+    "f396bec9c0ecd287a463d736c29832a3bc003d8317b0a9cad46be7fd3b5c73b1",
+    "a14767033d8e0d137ee27b09c7d55eac065ed4d12f247908d3ea90650a152bd2",
+    "404245015351d2d9b431b999c986ae15a39f6b7852f67ccd42e108a4fa1d27f9",
+    "900118acbfef1ad8e562dce8a1fd6d53dfe981e7b9de3b65153cb2fc190e659d",
+    "329da9e84b4f3ae34ebd20b7c9d95a7ef71d1fc25e04d73bbd3b57bddc6b4c68",
+    "1cb1a02ec188c0bd5010219476cf90035df0aa0258bb9a8c9f22029951450fc9",
+    "4b1576b7ed71515a92d077c5d939f0de7514ba8e66599bd50d9f467c6670f215",
+    "2085f8397184f662f5bf9ad03d71256154b0774c56fb52865811ed80514cc53e",
+    "1584a4682c1e2138dda39df9a3087ed5e43089c5e4dc3b9492f02220582dd676",
+    "53721aaa1277b624a6c09dc5e114f48bac2f295aeeb33619158c2b62664bb94d",
+    "1ec29fe87f65af85c0adb5d5463b8cf279fa383ea5e9bd5b72b462a76c54f6e6",
+    "90bcedf32a0a1da42134f24430238ccc5b9a41207180c6ecf3114c665b899444",
+    "6f5f092b716e1f7d2564e03e401e64ebe9830d9fc96ff7b0b50d819ddda5957a",
+    "d8dd700863004b18d2919f9a18dabc06098cb8bed396cdb2cee70ea6f30c27a4",
+    "074d4ce8a6125b9a993222254363ea30c411131ac122934fee5d2a65e3af3843",
+    "598cd11ea556863db9cce8bf20f439742b1f33865bcf152422f27fcc98113327",
+    "2f950561c870436ba8c397c4a18967be2dd61223fa0b5e43d935c5548ef99e5a",
+    "440edecf9b10cb0341dfc476ee4d6e2c5bb1f98bcec2682d30360dbfc88aded0",
+    "403070b12fd98a78f356aa5a613a5db82a9f4ab613ec042eb602617fc24a7305",
+    "212c67eeb4163cad6eee435a701178d73d68f6df0955786d73796ec89c38dd99",
+    "2643ee52a4bafbcec066c6a7dbf7fd1e23182f0984ad9fc283b697bc77929da5",
+    "5a04382d4a27c51102c2cadfede7b1c7aa875b3dd04f542218abb84bc172fffc",
+    "7dfeec62f0866460dea3b7aecb55644492c11dbe831e2322fdfaaed5b40d9ec9",
+    "ba6ceeef742309f6f18a73e8d0dc63cc8df5d03482a6e5ca62186ce4e86d70a6",
+    "8b2f133aad0f56125e75b806fe3fbfecdb46ca2d31c948b579dd094b66c90a60",
+    "b5e346c114410313655b016e92d238b6bdc7b1c849120e7e9cf136f77cd218cb",
+    "4dd29899fa5c286cbface9466e034115a77a0ec67322b657e6a1eebc21a48b45"
+  ],
+  "contentFingerprint": "6fcbfdf018921336129472b341063b3135f415e5c837e4dd7fc47e405dae72c8"
+}

@@ -1,0 +1,1412 @@
+{
+  "datasetVersion": "fixed-degree-english-v1",
+  "paperCode": "fixed-103",
+  "version": 1,
+  "title": "成人学士学位英语原创模拟试卷 103 · 社区资源与负责任的出行",
+  "sourceDeclaration": "本卷为独立编写的原创模拟练习；人物、机构及情境均为虚构，不是官方历年真题，未复制第三方题库，仅供成人学士学位英语学习使用。",
+  "copyrightStatus": "ORIGINAL",
+  "blueprintCode": "DEGREE_ENGLISH_2016_V2",
+  "blueprintVersion": "1.0",
+  "durationMinutes": 120,
+  "totalScore": 100,
+  "displayOrder": 103,
+  "dialogues": [
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 1,
+      "title": "Borrowing a tool at the library",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Ruth: I heard this library lends more than books. Do you have a small audio recorder?\nLibrarian: (1) _____\nRuth: Great. I want to record my grandmother’s stories. How long may I keep it?\nLibrarian: (2) _____\nRuth: Is there a charge if I return it on time?\nLibrarian: (3) _____\nRuth: Thanks. Could someone show me how to save a recording?\nLibrarian: (4) _____",
+      "sharedOptions": {
+        "A": "There is no fee for members who bring it back by the due date.",
+        "B": "Yes, one is available at the equipment desk today.",
+        "C": "Of course. A volunteer can demonstrate it before you leave.",
+        "D": "You may borrow it for seven days, with one renewal if nobody is waiting."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "In “Borrowing a tool at the library”, choose the response for blank (1).",
+          "options": {
+            "A": "There is no fee for members who bring it back by the due date.",
+            "B": "Yes, one is available at the equipment desk today.",
+            "C": "Of course. A volunteer can demonstrate it before you leave.",
+            "D": "You may borrow it for seven days, with one renewal if nobody is waiting."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "Ruth询问是否有录音机，B直接确认设备今天可借。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "73569ccb63e1d31c24622fb5ec423adb67695278f06d8eee52daca9f70d78b2e"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "In “Borrowing a tool at the library”, choose the response for blank (2).",
+          "options": {
+            "A": "There is no fee for members who bring it back by the due date.",
+            "B": "Yes, one is available at the equipment desk today.",
+            "C": "Of course. A volunteer can demonstrate it before you leave.",
+            "D": "You may borrow it for seven days, with one renewal if nobody is waiting."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "问题询问借用期限，D给出七天及续借条件。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "9fdfe015de6ad8acfeaab4246062fb919bd5162afe31257af42ad94ddd631549"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "In “Borrowing a tool at the library”, choose the response for blank (3).",
+          "options": {
+            "A": "There is no fee for members who bring it back by the due date.",
+            "B": "Yes, one is available at the equipment desk today.",
+            "C": "Of course. A volunteer can demonstrate it before you leave.",
+            "D": "You may borrow it for seven days, with one renewal if nobody is waiting."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "Ruth询问按时归还是否收费，A明确会员无需付费。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "09e411d91cdd73795c4fc5e85b98b4b93994debdbc061fe4a7b58322f5ffb864"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "In “Borrowing a tool at the library”, choose the response for blank (4).",
+          "options": {
+            "A": "There is no fee for members who bring it back by the due date.",
+            "B": "Yes, one is available at the equipment desk today.",
+            "C": "Of course. A volunteer can demonstrate it before you leave.",
+            "D": "You may borrow it for seven days, with one renewal if nobody is waiting."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "Ruth希望有人示范保存录音，C提出志愿者现场演示。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "5a7405c13eebcc82bfdf9bb9caf9c8c5b98dfb4040bfa70a5621f583e2397294"
+        }
+      ],
+      "contentFingerprint": "428ff0199c01d286e7bbf1ea3003ca37f2c06e3762abbbb0154fe197c0ba290f"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 2,
+      "title": "Checking a riverside path",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Nadia: I am planning a walk for my father, who uses a wheelchair. Is the east river path step-free?\nPark officer: (1) _____\nNadia: That helps. Are the benches close together?\nPark officer: (2) _____\nNadia: We may need a quiet place to rest. Where can I find a map showing them?\nPark officer: (3) _____",
+      "sharedOptions": {
+        "A": "The paper map marks every bench, and it is also on our website.",
+        "B": "Yes, the east entrance and the whole lower path have level surfaces.",
+        "C": "Several trees were planted beside the river last spring.",
+        "D": "There is one about every two hundred metres along that section."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 5,
+          "groupSortOrder": 1,
+          "stem": "In “Checking a riverside path”, choose the response for blank (1).",
+          "options": {
+            "A": "The paper map marks every bench, and it is also on our website.",
+            "B": "Yes, the east entrance and the whole lower path have level surfaces.",
+            "C": "Several trees were planted beside the river last spring.",
+            "D": "There is one about every two hundred metres along that section."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "B回答无台阶的路线问题，说明入口与低处路径均为平坦路面。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "6c89472affb1cce0391a4426c12c9cd1d9f1c03d19091c1976c0ffcefa0ad1d8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 6,
+          "groupSortOrder": 2,
+          "stem": "In “Checking a riverside path”, choose the response for blank (2).",
+          "options": {
+            "A": "The paper map marks every bench, and it is also on our website.",
+            "B": "Yes, the east entrance and the whole lower path have level surfaces.",
+            "C": "Several trees were planted beside the river last spring.",
+            "D": "There is one about every two hundred metres along that section."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "D以约两百米的间隔回答长椅是否密集。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "2f6735323b33e23894fd4ea934398bc288d304cf070bcb5aa744a2c6a62894b8"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 7,
+          "groupSortOrder": 3,
+          "stem": "In “Checking a riverside path”, choose the response for blank (3).",
+          "options": {
+            "A": "The paper map marks every bench, and it is also on our website.",
+            "B": "Yes, the east entrance and the whole lower path have level surfaces.",
+            "C": "Several trees were planted beside the river last spring.",
+            "D": "There is one about every two hundred metres along that section."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "A指出纸质地图和网站都标有长椅位置。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "2c712449194b26089ecfba4e38e028756e7d565078be2209b68af89af7bf80e8"
+        }
+      ],
+      "contentFingerprint": "478177d53c475be7d8a4e442d779c56f2c7a04733cc97956397c7534ad440faf"
+    },
+    {
+      "groupType": "DIALOGUE",
+      "sectionOrder": 1,
+      "groupOrder": 3,
+      "title": "Planning a local craft visit",
+      "instruction": "Choose the best response for each numbered blank. Use each option at most once.",
+      "content": "Visitor: I would like to visit the pottery workshop tomorrow. Can I just walk in?\nHost: (1) _____\nVisitor: I understand. If the potter is available, may I take photographs?\nHost: (2) _____\nVisitor: Fair enough. What is the best way to buy one of her bowls?\nHost: (3) _____",
+      "sharedOptions": {
+        "A": "She closes the workshop whenever the weather is warm.",
+        "B": "Please book a time; she works there and cannot always receive visitors.",
+        "C": "Ask her first, and avoid photographing other customers without permission.",
+        "D": "You can pay her directly at the workshop, where the prices are clearly marked."
+      },
+      "difficulty": 3,
+      "knowledgePoints": [
+        "完成对话：语境与交际功能"
+      ],
+      "questions": [
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 8,
+          "groupSortOrder": 1,
+          "stem": "In “Planning a local craft visit”, choose the response for blank (1).",
+          "options": {
+            "A": "She closes the workshop whenever the weather is warm.",
+            "B": "Please book a time; she works there and cannot always receive visitors.",
+            "C": "Ask her first, and avoid photographing other customers without permission.",
+            "D": "You can pay her directly at the workshop, where the prices are clearly marked."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "B说明需预约，符合手工艺人正在工作的情境。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 2,
+          "score": 1,
+          "contentFingerprint": "9c7b9a2d7fb237945301fd462aa0f364c0cc6e5090d5411d232100f1128db6a2"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 9,
+          "groupSortOrder": 2,
+          "stem": "In “Planning a local craft visit”, choose the response for blank (2).",
+          "options": {
+            "A": "She closes the workshop whenever the weather is warm.",
+            "B": "Please book a time; she works there and cannot always receive visitors.",
+            "C": "Ask her first, and avoid photographing other customers without permission.",
+            "D": "You can pay her directly at the workshop, where the prices are clearly marked."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "C直接回应拍照请求，并提出征得同意的条件。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 3,
+          "score": 1,
+          "contentFingerprint": "ca61d11e53205cefd194f37ba6c53341dff754de95256c76e9de45764cd8bf92"
+        },
+        {
+          "questionType": "DIALOGUE_BLANK",
+          "sectionOrder": 1,
+          "itemOrder": 10,
+          "groupSortOrder": 3,
+          "stem": "In “Planning a local craft visit”, choose the response for blank (3).",
+          "options": {
+            "A": "She closes the workshop whenever the weather is warm.",
+            "B": "Please book a time; she works there and cannot always receive visitors.",
+            "C": "Ask her first, and avoid photographing other customers without permission.",
+            "D": "You can pay her directly at the workshop, where the prices are clearly marked."
+          },
+          "correctAnswer": [
+            "D"
+          ],
+          "explanation": "D说明直接向陶艺师购买及价格标示。",
+          "knowledgePoints": [
+            "完成对话：上下文衔接"
+          ],
+          "difficulty": 4,
+          "score": 1,
+          "contentFingerprint": "cb7827d778b0c868f2c27ffd0c1cf677ccff56a92e317e130e39e0f828179011"
+        }
+      ],
+      "contentFingerprint": "bd5ea80f879d869d273bde9cb47901645507d889013bce98e8a3246b3f3be7f2"
+    }
+  ],
+  "readings": [
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 1,
+      "title": "The Library of Useful Things",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At the North Gate Library, a shelf of power drills once attracted more questions than the latest novels. The library had started lending simple tools after staff noticed that many residents needed a device for one small repair but did not want to buy it. The first month was awkward. A borrower returned a drill without its charger, and several others asked librarians for technical advice they were not trained to give.\n\nDirector Mei Chen invited local repairers to redesign the service. They attached a picture checklist to each case so borrowers and staff could count the parts together. A volunteer recorded short demonstrations, but the videos explained safe handling and basic controls only; they did not promise that every home repair would be easy. When a task seemed risky, the catalogue advised people to seek a qualified worker.\n\nThe library also changed how it measured success. At first, staff counted loans. Yet a popular tool might sit unused in someone's cupboard for a week. Now borrowers may attend a monthly practice evening before taking a tool home. They can try it on scrap wood and ask questions. The evening has led to fewer missing parts, but its greater value may be the confidence of people who once thought a repair was beyond them.\n\nNot everyone wants to borrow a drill. Some visitors use the library's sewing machine, while others come only to hear how a neighbour fixed a loose chair. Mei insists that ordinary books still matter. The new service simply extends the library's old purpose: making knowledge and useful resources available to more people. She hopes other libraries will copy the idea, but only after listening to what their own neighbourhoods actually need.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共生活与理性判断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 1,
+          "groupSortOrder": 1,
+          "stem": "The Library of Useful Things: Why did the library begin lending tools?",
+          "options": {
+            "A": "Residents requested expensive professional repairs.",
+            "B": "Residents sometimes needed a device for a brief task.",
+            "C": "Staff hoped to replace the library’s book collection.",
+            "D": "Repairers wanted to advertise new equipment."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段说居民只为一次小修理需要设备，又不愿购买，因此图书馆开始借工具。",
+          "knowledgePoints": [
+            "阅读：原因细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "6c8ce645850bbac4fa273471908f46bb39f3906317e023c8a22ccaee03cbe520"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 2,
+          "groupSortOrder": 2,
+          "stem": "The Library of Useful Things: What problem did the picture checklist address?",
+          "options": {
+            "A": "It helped users select a novel.",
+            "B": "It explained how to become a repairer.",
+            "C": "It helped both sides verify that all parts were present.",
+            "D": "It showed which repairs required legal approval."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "第二段说明清单附在工具箱上，借还双方可一起核对零件。",
+          "knowledgePoints": [
+            "阅读：信息定位"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "23ffcd414104a62ee5819c1b049b8de7abc67c78259e59ea31ef7bcd27f4b87e"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 3,
+          "groupSortOrder": 3,
+          "stem": "The Library of Useful Things: Why does the catalogue sometimes recommend a qualified worker?",
+          "options": {
+            "A": "Some jobs may be unsafe for an inexperienced person.",
+            "B": "The practice evening has been cancelled.",
+            "C": "Volunteers are prohibited from recording videos.",
+            "D": "Borrowers are unable to reserve tools online."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "视频只讲安全操作和基础控制；有风险的任务应找专业人员，故选A。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "07c2a9602496c24c7342ceca52ac5c50ef8d5c622231dcaf1e437c8f0760d05d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 4,
+          "groupSortOrder": 4,
+          "stem": "The Library of Useful Things: What does the passage suggest about counting loans alone?",
+          "options": {
+            "A": "It accurately measures how much a tool has helped.",
+            "B": "It ignores whether borrowers actually use a tool well.",
+            "C": "It prevents people from borrowing books.",
+            "D": "It is the best way to evaluate every public service."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段指出高借阅量可能只意味着工具闲置，单看次数不能衡量实际作用。",
+          "knowledgePoints": [
+            "阅读：观点理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ea6ad528dedd67c4ad2e0ac44c0a744d354cf48f17df1b62de88fd4d40b33ea1"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 5,
+          "groupSortOrder": 5,
+          "stem": "The Library of Useful Things: What principle guides Mei’s advice to other libraries?",
+          "options": {
+            "A": "Offer exactly the same collection everywhere.",
+            "B": "Focus only on repairs involving wood.",
+            "C": "Study local needs before copying the service.",
+            "D": "Replace trained staff with video lessons."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "末句强调其他图书馆应先听取本社区需求，再考虑借鉴。",
+          "knowledgePoints": [
+            "阅读：主旨归纳"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c5ff874ab713bf0bc8207d5b78ce44d051d3866036dd7dca169f7aadc04c1573"
+        }
+      ],
+      "contentFingerprint": "b02c247d5f00554d91021bc7810ead61bc874f56d0f1bccfc4c8dd800d76c073"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 2,
+      "title": "A Path for More People",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "The city of Bellhaven advertised its new hilltop garden as \"open to everyone.\" Yet its only entrance was a long staircase. On opening day, guide Luis noticed two visitors studying the sign at the bottom before turning away. One used a walking frame; the other pushed a child in a stroller. Luis reported what he had seen, and the parks office invited residents to describe their journeys to the garden.\n\nThe first proposal was a straight paved ramp up the hill. It looked efficient on a drawing, but its slope would have been tiring and difficult to use safely. A landscape architect suggested a longer path that followed the natural curve of the ground. It reached the same viewpoint more gradually, passed several shaded places to rest, and avoided removing an old oak tree. Some council members objected that a longer route would cost more to maintain.\n\nTo learn how the path might work, the team marked a temporary route with small flags. Residents walked it at different times of day. A wheelchair user found that a narrow turn left too little room to change direction. A parent said the shade was welcome, but the surface became slippery after rain. These comments changed the final plan: the turn was widened, the surface was redesigned, and signs gave the distance to the next resting place.\n\nWhen the garden reopened, Luis noticed visitors who had never reached the top before. He also saw runners choose the new route because they liked the trees. The path had not made every part of the hill equally accessible; a steep side trail remained unsuitable for many people. The parks office described that limit clearly on its map. Luis thought the honesty mattered. A promise of access should help people plan a visit, not merely look attractive on a poster.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共生活与理性判断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 6,
+          "groupSortOrder": 1,
+          "stem": "A Path for More People: What first revealed a problem with the garden’s claim?",
+          "options": {
+            "A": "Luis saw two visitors leave at the staircase.",
+            "B": "The oak tree blocked the viewpoint.",
+            "C": "A runner complained about the distance.",
+            "D": "A council member measured the path."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "开园当天Luis看到两位游客因入口楼梯而离开，暴露“人人可进”的问题。",
+          "knowledgePoints": [
+            "阅读：事件细节"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "ec688d1996543397cee94acf3de94b111c53c870c8378a797b061fb576f3531f"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 7,
+          "groupSortOrder": 2,
+          "stem": "A Path for More People: Why was the straight ramp rejected?",
+          "options": {
+            "A": "It would require cutting every tree.",
+            "B": "It would be too steep for comfortable, safe use.",
+            "C": "It could not be shown on a map.",
+            "D": "It would take visitors away from the viewpoint."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二段指出直线坡道坡度太大，使用起来费力且可能不安全。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "d5847fb61af14cdc315b5457df6ee66c486458439cf6bad6f65546f00ad31d8c"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 8,
+          "groupSortOrder": 3,
+          "stem": "A Path for More People: What did the temporary flags enable the team to do?",
+          "options": {
+            "A": "Sell tickets before the garden opened.",
+            "B": "Test a possible route with actual visitors.",
+            "C": "Keep visitors off the old staircase.",
+            "D": "Choose a different site for the garden."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "旗子标出临时路线，让不同时间的实际使用者试走并反馈。",
+          "knowledgePoints": [
+            "阅读：方法与目的"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "a0b12f838bd82307b2675b8383b3baddd9f0f239075ae956aa594ef1ec205715"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 9,
+          "groupSortOrder": 4,
+          "stem": "A Path for More People: Which change directly followed a wheelchair user’s comment?",
+          "options": {
+            "A": "The old oak tree was removed.",
+            "B": "The path was made shorter.",
+            "C": "A tight turn was widened.",
+            "D": "The garden added a new staircase."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "轮椅使用者指出狭窄转弯不便改变方向，最终方案加宽了转弯处。",
+          "knowledgePoints": [
+            "阅读：细节对应"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "317c70de8c43000c15a4d8cfb29db1a416dc2270a744d788c033e9d994be8af4"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 10,
+          "groupSortOrder": 5,
+          "stem": "A Path for More People: Why did Luis value the map’s description of the steep side trail?",
+          "options": {
+            "A": "It helped visitors make realistic plans.",
+            "B": "It encouraged everyone to climb the side trail.",
+            "C": "It showed that no garden can have signs.",
+            "D": "It proved that posters are more useful than maps."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "末段指出如实标注限制有助于游客规划行程，而非空喊无障碍口号。",
+          "knowledgePoints": [
+            "阅读：作者态度"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "190117a3dcdcc88bc48bc66f54e1b9eb674e8d28c97c9a4b44637ffc13bfcefd"
+        }
+      ],
+      "contentFingerprint": "24d44129f1700841445c00dad543dbf273e77493c62e93f66d3bb3e09807dc6e"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 3,
+      "title": "Skills Across the Table",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "At a community centre in Larch Street, a retired electrician named Omar wanted to learn how to make video calls. Across the room, university student Priya needed help repairing a desk lamp. A notice board called the programme a \"skill exchange,\" but neither person thought of their knowledge as valuable enough to offer. Omar assumed every young person could use any digital service. Priya assumed electrical work required tools she could never understand.\n\nThe coordinator paired them for a one-hour meeting, with two rules. Each person would name one small goal, and neither would touch the other's device without permission. Priya showed Omar how to join a call, then asked him to repeat the steps while she watched. He wrote down the sequence in words that made sense to him. Later, Omar inspected the lamp with Priya. When he saw a damaged cable, he stopped. He explained that replacing it required a qualified professional and showed her how to recognise the warning signs instead.\n\nThe meeting did not produce a working lamp, yet Priya left satisfied. She had learned when a repair was beyond a beginner, a skill as useful as tightening a screw. Omar made his first video call to a cousin that evening. At the next session, he returned with a question about adjusting the volume. Priya arrived with a new goal: learning to read a simple electricity bill.\n\nOver six months, the centre found that the strongest partnerships changed partners' assumptions as much as their practical abilities. People who were used to teaching had to practise asking questions; people who usually received help discovered things they could explain. The coordinator still matched participants carefully and did not pretend that an hour of conversation could replace professional training. But a small, equal exchange could make learning less lonely and more precise.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共生活与理性判断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 11,
+          "groupSortOrder": 1,
+          "stem": "Skills Across the Table: What did Omar and Priya initially have in common?",
+          "options": {
+            "A": "Both lacked any useful skill.",
+            "B": "Both underestimated what they could offer.",
+            "C": "Both wanted to study electrical engineering.",
+            "D": "Both had already met at the university."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第一段说两人都认为自己掌握的知识不够有价值，不值得提供给别人。",
+          "knowledgePoints": [
+            "阅读：人物比较"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "3ae4708969e0be7b1ba2e3581165f72987cc6ec1d0c7d869213c316ff75aba3d"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 12,
+          "groupSortOrder": 2,
+          "stem": "Skills Across the Table: Why did Priya ask Omar to repeat the video-call steps?",
+          "options": {
+            "A": "To let him practise using the process himself.",
+            "B": "To check whether his cousin was online.",
+            "C": "To finish the meeting more quickly.",
+            "D": "To make him copy her exact written notes."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第二段描写Priya示范后让Omar亲自重复，有助于巩固操作。",
+          "knowledgePoints": [
+            "阅读：行为目的"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "c6336220b3b0aa21f767e2fdc1327cc365e122a2008a79766bb5e6f010bc7c83"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 13,
+          "groupSortOrder": 3,
+          "stem": "Skills Across the Table: What did Omar do when he found the damaged cable?",
+          "options": {
+            "A": "He repaired it without any equipment.",
+            "B": "He asked Priya to hide the problem.",
+            "C": "He explained the risk and recommended professional help.",
+            "D": "He decided all lamps were unsafe to use."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "发现破损电线后Omar停手，解释需要专业人员，并教Priya识别警示迹象。",
+          "knowledgePoints": [
+            "阅读：细节理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "335b09783eab88463b2a88aefd885061aaaefe135300cb7a2103e5badb8846ad"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 14,
+          "groupSortOrder": 4,
+          "stem": "Skills Across the Table: Why was Priya satisfied although the lamp was not fixed?",
+          "options": {
+            "A": "She received a replacement lamp.",
+            "B": "She learned to judge the limits of a beginner’s repair.",
+            "C": "She was promised a job at the centre.",
+            "D": "She discovered that the cable was undamaged."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段明确指出她学到何时超出新手维修能力，这同样实用。",
+          "knowledgePoints": [
+            "阅读：推理判断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "6d55199112554b82f83b72d7368d9a416e6fe35cf3f0d6fee11c9b42e57faac6"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 15,
+          "groupSortOrder": 5,
+          "stem": "Skills Across the Table: What broader effect did the centre observe?",
+          "options": {
+            "A": "Participants began to question fixed ideas about who can teach.",
+            "B": "Professional training became unnecessary.",
+            "C": "Every meeting produced a finished repair.",
+            "D": "Older learners stopped asking questions."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "末段说最好的伙伴关系改变了双方关于教学与学习角色的假设。",
+          "knowledgePoints": [
+            "阅读：主旨理解"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "8eb6de81279b0188c57fedd0c0fdd8a7b4096af82370f4799f9aa3715be72ad2"
+        }
+      ],
+      "contentFingerprint": "dcc1932a86edabb72679c9db16b4e74f5653093cf4bf261d49a0757c16112f1a"
+    },
+    {
+      "groupType": "READING",
+      "sectionOrder": 2,
+      "groupOrder": 4,
+      "title": "The Day Trip That Stayed Local",
+      "instruction": "Read the passage and choose the best answer to each question.",
+      "content": "A travel club in Millford used to advertise its weekend trips with photographs of crowded landmarks. Members spent hours on a coach, hurried through a famous market, and returned with little memory of the people who worked there. When the club asked for fresh ideas, member Elsa suggested visiting the town of Fenwick, only forty minutes away by train. Several members doubted that such a nearby place could feel like a holiday.\n\nElsa met Fenwick's tourism officer before planning the trip. The officer explained that a family-run bakery welcomed small groups in the morning, but its busiest hours were unsuitable for tours. A local history volunteer could lead a walk after lunch. Elsa arranged a group of twelve, paid the volunteer for the preparation as well as the walk, and gave travellers a choice between buying lunch from local shops or bringing their own. No shop was promised customers it might not receive.\n\nOn the day, the group travelled by train and walked between stops. At the bakery, the owner described how flour prices affected her menu. She answered questions while the ovens were cooling, and the visitors bought what they wanted without pressure. In the afternoon, the volunteer showed them a flood marker hidden behind a modern bridge. Its height led to a conversation about how the town had changed its building rules.\n\nThe trip was less polished than the club's old tours: rain shortened the final walk, and one cafe had no seats left. Yet members said they understood more about Fenwick than they had expected. Elsa's report did not claim that a short train ride alone made the visit responsible. The important choices were to respect working schedules, pay for local knowledge, keep the group manageable, and allow residents to say no. A nearby destination had given the club room to travel more thoughtfully.",
+      "difficulty": 3,
+      "knowledgePoints": [
+        "阅读理解：公共生活与理性判断"
+      ],
+      "questions": [
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 16,
+          "groupSortOrder": 1,
+          "stem": "The Day Trip That Stayed Local: Why did Elsa suggest Fenwick?",
+          "options": {
+            "A": "It was nearby and offered a chance for a more thoughtful visit.",
+            "B": "It had a landmark more famous than the old market.",
+            "C": "The club owned a hotel there.",
+            "D": "The bakery offered free meals to all visitors."
+          },
+          "correctAnswer": [
+            "A"
+          ],
+          "explanation": "第一段说明Elsa提出乘火车仅四十分钟的芬威克，后文表明她想组织更有意义的访问。",
+          "knowledgePoints": [
+            "阅读：动机推断"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "c360f41a456437c76d2a4e7c8f0ec6a89ef6eef5e0dd40d22e7b215153f583e8"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 17,
+          "groupSortOrder": 2,
+          "stem": "The Day Trip That Stayed Local: Why was the bakery visit scheduled outside its busiest hours?",
+          "options": {
+            "A": "The ovens never operated in the morning.",
+            "B": "The family needed to keep its normal work running.",
+            "C": "The visitors wanted to avoid purchasing bread.",
+            "D": "The history volunteer could not travel by train."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "旅游官员说明烘焙店最忙时不适合参观，安排冷却烤箱时访问是尊重其正常工作。",
+          "knowledgePoints": [
+            "阅读：原因理解"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "cc4c142ef0da24ab7e2c193d318625b8f9e0263138cd385c4346a6095bf8361b"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 18,
+          "groupSortOrder": 3,
+          "stem": "The Day Trip That Stayed Local: What was the history volunteer paid for?",
+          "options": {
+            "A": "Only the train ticket.",
+            "B": "The preparation and the guided walk.",
+            "C": "A promise to bring more tourists.",
+            "D": "The group’s lunch at local shops."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第二段明确说明志愿者的准备工作和带队步行都获得报酬。",
+          "knowledgePoints": [
+            "阅读：细节定位"
+          ],
+          "difficulty": 2,
+          "score": 2,
+          "contentFingerprint": "af8e69955b1c248f6b9b9189473c2a9041984721964d21e32cced0722d9be40a"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 19,
+          "groupSortOrder": 4,
+          "stem": "The Day Trip That Stayed Local: What did the flood marker help visitors understand?",
+          "options": {
+            "A": "Why the bakery changed its menu.",
+            "B": "How floods influenced local building rules.",
+            "C": "Why the train ride took forty minutes.",
+            "D": "How the club selected photographs."
+          },
+          "correctAnswer": [
+            "B"
+          ],
+          "explanation": "第三段说洪水标记的高度引出小镇如何修改建筑规则的讨论。",
+          "knowledgePoints": [
+            "阅读：信息关联"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "1cc1020e7638d6d7eeb1448784f45bfd7a803612eacdc714a4698692c89b9c72"
+        },
+        {
+          "questionType": "READING",
+          "sectionOrder": 2,
+          "itemOrder": 20,
+          "groupSortOrder": 5,
+          "stem": "The Day Trip That Stayed Local: Which statement best reflects Elsa’s final view?",
+          "options": {
+            "A": "Distance alone determines whether travel is responsible.",
+            "B": "A successful trip must follow a perfect schedule.",
+            "C": "Responsible travel depends on considerate choices toward hosts.",
+            "D": "Small towns should refuse all outside visitors."
+          },
+          "correctAnswer": [
+            "C"
+          ],
+          "explanation": "末段强调尊重工作安排、支付知识劳动、控制团体规模和允许当地人拒绝。",
+          "knowledgePoints": [
+            "阅读：观点归纳"
+          ],
+          "difficulty": 3,
+          "score": 2,
+          "contentFingerprint": "ea199ea4127feaf9b47e618482822b006fd2927f091e4fd9f5ff97f4ffebb808"
+        }
+      ],
+      "contentFingerprint": "5e47e2fbaf9a63fe973595d76457887e360f7489fab5c759e59e3dea60b1429d"
+    }
+  ],
+  "vocabulary": [
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 1,
+      "stem": "The librarian asked us to _____ the equipment for Monday so that another group could use it on Tuesday.",
+      "options": {
+        "A": "reserve",
+        "B": "refuse",
+        "C": "remove",
+        "D": "repeat"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "reserve意为预订；后文说明预留周一使用，符合语境。",
+      "knowledgePoints": [
+        "词汇：动词词义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "49d4f0e3da880498975b614380d7ac51a0d6464e6a6493f65349ee2950c7afa0"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 2,
+      "stem": "The riverside path has a _____ surface, making it easier for wheeled devices to pass.",
+      "options": {
+        "A": "rough",
+        "B": "level",
+        "C": "fragile",
+        "D": "private"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "level表示平坦的；与轮式设备容易通行相符。",
+      "knowledgePoints": [
+        "词汇：形容词词义"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b4e77422fc2ba02430dc921daa677044adcd31e3bf44a2220af13e4c23c2716f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 3,
+      "stem": "Because the notice was unclear, several visitors _____ the meeting room for the exhibition hall.",
+      "options": {
+        "A": "mistook",
+        "B": "delivered",
+        "C": "protected",
+        "D": "collected"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "mistake A for B意为把A误认为B。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "a9f383d94e7c4ec2686d4624088d799b1bafae845a9f1066ce02877e9ae189c7"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 4,
+      "stem": "We should _____ the shop owner before taking photographs inside the workshop.",
+      "options": {
+        "A": "consult",
+        "B": "replace",
+        "C": "prevent",
+        "D": "describe"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "consult意为征询意见；拍照前应征得店主同意。",
+      "knowledgePoints": [
+        "词汇：语境选词"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "29c6fb816d1b8282550107e02fbba4521c78a6d80768a1c068a5eac77b7730fb"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 5,
+      "stem": "The teacher gave a _____ explanation of the new rule, using one simple example.",
+      "options": {
+        "A": "brief",
+        "B": "heavy",
+        "C": "silent",
+        "D": "distant"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "brief explanation表示简短说明，后文的简单例子提供支持。",
+      "knowledgePoints": [
+        "词汇：形容词搭配"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "3bdc4b90a0bd72329bdce76393ee68a93c7af6c91b6efdb38e49f46d4d4c2def"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 6,
+      "stem": "The centre hopes that people of different ages will _____ their experiences with one another.",
+      "options": {
+        "A": "share",
+        "B": "hide",
+        "C": "borrow",
+        "D": "divide"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "share experiences with one another意为互相分享经验。",
+      "knowledgePoints": [
+        "词汇：动词搭配"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "50a8a05a5e1b01de2a687ad669aa98f42b7331b2ccae1f4ec0eec5eeeaaae35f"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 7,
+      "stem": "The map is updated _____, so check its date before planning a walk.",
+      "options": {
+        "A": "rarely",
+        "B": "regularly",
+        "C": "suddenly",
+        "D": "nearly"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "regularly意为定期地，符合地图持续更新及查看日期的语境。",
+      "knowledgePoints": [
+        "词汇：副词词义"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "113476b377b74688b2e9bdb65e899e2c3c43cd9588619c6bc87d2afcc1faac90"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 8,
+      "stem": "The volunteers found a _____ solution: moving the meeting to a larger room already available.",
+      "options": {
+        "A": "practical",
+        "B": "doubtful",
+        "C": "ancient",
+        "D": "narrow"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "practical表示可行的；现有更大房间可解决空间问题。",
+      "knowledgePoints": [
+        "词汇：形容词语境"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a872335e541c016578c3fef0c1451d8c8802c00c5601c027632f34dcd6c6fbd1"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 9,
+      "stem": "Visitors were asked to keep the group small to avoid _____ the bakery’s daily work.",
+      "options": {
+        "A": "interrupting",
+        "B": "admiring",
+        "C": "recording",
+        "D": "improving"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "interrupting意为打断、干扰，与不影响日常营业相符。",
+      "knowledgePoints": [
+        "词汇：动名词语义"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "498574b8fd63b026de8781dabd1ce222ba1f0745cd3cbb2695f5ad0c58b6c7a2"
+    },
+    {
+      "questionType": "VOCABULARY",
+      "sectionOrder": 3,
+      "itemOrder": 10,
+      "stem": "The repair class helped Lina _____ enough confidence to try a simple task at home.",
+      "options": {
+        "A": "gain",
+        "B": "weigh",
+        "C": "spend",
+        "D": "lend"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "gain confidence是固定搭配，表示获得信心。",
+      "knowledgePoints": [
+        "词汇：固定搭配"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "9da0495ac1fc08950e63cd517a7b2894a136881481e5df8546b62efd0958aa13"
+    }
+  ],
+  "grammar": [
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 1,
+      "stem": "By the time the visitors arrived, the guide _____ the maps on every chair.",
+      "options": {
+        "A": "places",
+        "B": "had placed",
+        "C": "will place",
+        "D": "is placing"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "arrived为过去时，放地图发生在此之前，故用过去完成时。",
+      "knowledgePoints": [
+        "语法：过去完成时"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "dc07455b51c8ccf517b44c4a42f5f5d7598629a2c61181c4dbec766c9faecc9a"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 2,
+      "stem": "If the path _____ icy tomorrow, the walking group will meet indoors.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "will be",
+        "D": "had been"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "真实条件句中从句用一般现在时表将来。",
+      "knowledgePoints": [
+        "语法：条件状语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "b588b3cb646351ce201e4665c99b36bc24971e673c77aa2f4cc3cc2fdb119cb7"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 3,
+      "stem": "The camera _____ I borrowed from the library is easy to use.",
+      "options": {
+        "A": "who",
+        "B": "where",
+        "C": "that",
+        "D": "whose"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "先行词camera指物，关系代词that在从句中作宾语。",
+      "knowledgePoints": [
+        "语法：定语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "0c76e7d46af4700fc06e6c5977ec8aaf217edc24538b890057c7c812b92105b5"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 4,
+      "stem": "Neither the students nor their teacher _____ available on Friday afternoon.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "be",
+        "D": "is"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "neither...nor连接主语时遵循就近一致，teacher为单数，故用is。",
+      "knowledgePoints": [
+        "语法：主谓一致"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "90f00f41aa56851fa8665a3b2145167107e070275aa034a9f6ac7067a7001511"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 5,
+      "stem": "Please speak slowly so that everyone can understand _____ you mean.",
+      "options": {
+        "A": "what",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "what引导宾语从句并在从句中作mean的宾语。",
+      "knowledgePoints": [
+        "语法：宾语从句"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "8e357c2de21ccb98d1f6bf4be0231ac87ba98884363210652ada3249a0b72cd3"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 6,
+      "stem": "The workshop was postponed _____ the instructor was ill.",
+      "options": {
+        "A": "although",
+        "B": "because",
+        "C": "unless",
+        "D": "while"
+      },
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "前后为因果关系，because引导原因状语从句。",
+      "knowledgePoints": [
+        "语法：原因状语从句"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "028c1941dd9b80d6336e3b324ecee93fd6a026f8638aa300c40e3f2624b06996"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 7,
+      "stem": "This route is _____ than the stairs, but many visitors find it more comfortable.",
+      "options": {
+        "A": "long",
+        "B": "longest",
+        "C": "longer",
+        "D": "the longer"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "than提示使用形容词比较级longer。",
+      "knowledgePoints": [
+        "语法：形容词比较级"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "82a176a559f244e842eaad845227a4e4046f4b977c807816fdad8df43bbad13c"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 8,
+      "stem": "The old sign needs _____ because its directions are no longer accurate.",
+      "options": {
+        "A": "replace",
+        "B": "to replace",
+        "C": "replacing",
+        "D": "replaced"
+      },
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "need doing表示某物需要被做，此处need replacing等于need to be replaced。",
+      "knowledgePoints": [
+        "语法：need doing"
+      ],
+      "difficulty": 3,
+      "score": 1,
+      "contentFingerprint": "a977b584a896678993661859a6cba47953f9117ab64e47dbb0ac8b3fd0e16065"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 9,
+      "stem": "We were pleased _____ that the community centre would stay open in the evening.",
+      "options": {
+        "A": "hear",
+        "B": "hearing",
+        "C": "heard",
+        "D": "to hear"
+      },
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "be pleased to do sth. 表示很高兴做某事。",
+      "knowledgePoints": [
+        "语法：不定式"
+      ],
+      "difficulty": 4,
+      "score": 1,
+      "contentFingerprint": "62cc46b292fa8aa004b769a7011caeba186e53a3bac4e841d2b164e68a9ba999"
+    },
+    {
+      "questionType": "GRAMMAR",
+      "sectionOrder": 4,
+      "itemOrder": 10,
+      "stem": "Only after the rain stopped _____ the group continue its walk.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "had",
+        "D": "was"
+      },
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "only加状语置于句首引起部分倒装，过去时借助did。",
+      "knowledgePoints": [
+        "语法：部分倒装"
+      ],
+      "difficulty": 2,
+      "score": 1,
+      "contentFingerprint": "bcabc20e7ee74225132338b14520a7e0c070382569265cd7df4c783e97af9564"
+    }
+  ],
+  "translation": [
+    {
+      "questionType": "TRANSLATION",
+      "sectionOrder": 5,
+      "itemOrder": 1,
+      "stem": "Translate the following passage into Chinese.\n\nA public space becomes useful when people can understand how to enter and take part. A sign that says \"all welcome\" is a good beginning, but it cannot remove every obstacle. Visitors may need clear directions, a place to rest, or permission to join an activity quietly before speaking. Organizers can ask people about these needs and test their plans in real conditions. They should also explain honestly what a service cannot provide. Such small choices show respect for different ways of moving, learning, and spending time. When people feel able to choose their own level of participation, a library, park, or community centre can become a place to which they want to return.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "英译汉：语义与表达"
+      ],
+      "explanation": "仅供自评。注意all welcome的语境含义，what a service cannot provide的宾语从句，以及to which引导的定语从句；按意义、准确性和中文表达评分。",
+      "referenceAnswer": "当人们知道如何进入并参与时，公共空间才能真正发挥作用。“欢迎所有人”的标语是一个良好的开端，却不能消除所有障碍。来访者可能需要清晰的指引、休息的地方，或是在开口发言前先安静参与活动的自由。组织者可以向人们询问这些需求，并在真实条件下检验方案。他们也应坦诚说明某项服务无法提供什么。这些细小的选择体现了对不同出行方式、学习方式和休闲方式的尊重。当人们觉得可以自行选择参与程度时，图书馆、公园或社区中心就能成为他们愿意再来的地方。",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "意义完整",
+            "maxScore": 7,
+            "description": "完整传达公共空间的可参与性、具体障碍、试行方案与诚实说明等主要信息。"
+          },
+          {
+            "name": "语言准确",
+            "maxScore": 5,
+            "description": "准确处理条件、并列、宾语从句和定语从句，无重大误译。"
+          },
+          {
+            "name": "表达自然",
+            "maxScore": 3,
+            "description": "中文通顺，句间衔接清楚，符合书面表达习惯。"
+          }
+        ]
+      },
+      "contentFingerprint": "b4aeec4e224d58c5b9e7085b0e2c20dc28ecf7a7d6ce6a98dd9797516b6db133",
+      "referenceAnswerFingerprint": "e19a5d1e874c2bf806caf7347240ac542ac2d1e388cc2031b5d4624f4e381807"
+    }
+  ],
+  "writing": [
+    {
+      "questionType": "WRITING",
+      "sectionOrder": 6,
+      "itemOrder": 1,
+      "stem": "Write at least 100 words in English on the following topic: A Better First Visit to a Public Place.\n\nA new community facility near you wants suggestions for helping first-time visitors feel comfortable. Write a short proposal. Describe one difficulty a new visitor might face, suggest two practical improvements, and explain how the staff could learn whether those improvements work. Give an example from a library, park, community centre, or another public place. Do not include your real name or contact details.",
+      "score": 15,
+      "difficulty": 3,
+      "knowledgePoints": [
+        "写作：建议、论证与组织"
+      ],
+      "explanation": "仅供自评。范文以社区图书馆为例，说明首次到访者可能不知从何开始，提出导览卡和志愿者引导两项措施，并说明如何收集反馈。按任务完成、结构连贯和语言运用评分。",
+      "sampleAnswer": "I suggest improving the first visit to our community library. A new visitor may see many rooms and services but still be unsure where to begin. This uncertainty can be especially uncomfortable for someone who does not want to interrupt busy staff.\n\nFirst, the library could offer a simple card at the entrance. It should show the main rooms, opening hours, and where to ask for help. Second, a volunteer could give an optional five-minute tour. Visitors who prefer to explore alone could decline without explanation.\n\nTo find out whether these changes work, staff could ask new visitors one short question as they leave: “Was anything difficult to find?” They could also record which questions are asked most often at the desk. If the same problem continues, the card or tour should be changed. A welcoming place improves by listening to the people who use it.",
+      "scoringRubric": {
+        "maxScore": 15,
+        "criteria": [
+          {
+            "name": "任务完成",
+            "maxScore": 6,
+            "description": "交代一个首次到访难点、两项可实施改进及评估办法，内容切题具体。"
+          },
+          {
+            "name": "组织连贯",
+            "maxScore": 4,
+            "description": "建议书结构清楚，段落和连接自然，论述有条理。"
+          },
+          {
+            "name": "语言运用",
+            "maxScore": 5,
+            "description": "词汇和语法基本准确，句式有变化，达到至少100词。"
+          }
+        ]
+      },
+      "contentFingerprint": "3197810f6a3409038ac2a1341fb68896eb41a40cd9e7c11896a7312606de7bef",
+      "sampleAnswerFingerprint": "7e80c2241e497bcc742f17ad50c4e373b6823079904f8026f64380dfc2ab5d90"
+    }
+  ],
+  "fingerprintManifest": [
+    "428ff0199c01d286e7bbf1ea3003ca37f2c06e3762abbbb0154fe197c0ba290f",
+    "73569ccb63e1d31c24622fb5ec423adb67695278f06d8eee52daca9f70d78b2e",
+    "9fdfe015de6ad8acfeaab4246062fb919bd5162afe31257af42ad94ddd631549",
+    "09e411d91cdd73795c4fc5e85b98b4b93994debdbc061fe4a7b58322f5ffb864",
+    "5a7405c13eebcc82bfdf9bb9caf9c8c5b98dfb4040bfa70a5621f583e2397294",
+    "478177d53c475be7d8a4e442d779c56f2c7a04733cc97956397c7534ad440faf",
+    "6c89472affb1cce0391a4426c12c9cd1d9f1c03d19091c1976c0ffcefa0ad1d8",
+    "2f6735323b33e23894fd4ea934398bc288d304cf070bcb5aa744a2c6a62894b8",
+    "2c712449194b26089ecfba4e38e028756e7d565078be2209b68af89af7bf80e8",
+    "bd5ea80f879d869d273bde9cb47901645507d889013bce98e8a3246b3f3be7f2",
+    "9c7b9a2d7fb237945301fd462aa0f364c0cc6e5090d5411d232100f1128db6a2",
+    "ca61d11e53205cefd194f37ba6c53341dff754de95256c76e9de45764cd8bf92",
+    "cb7827d778b0c868f2c27ffd0c1cf677ccff56a92e317e130e39e0f828179011",
+    "b02c247d5f00554d91021bc7810ead61bc874f56d0f1bccfc4c8dd800d76c073",
+    "6c8ce645850bbac4fa273471908f46bb39f3906317e023c8a22ccaee03cbe520",
+    "23ffcd414104a62ee5819c1b049b8de7abc67c78259e59ea31ef7bcd27f4b87e",
+    "07c2a9602496c24c7342ceca52ac5c50ef8d5c622231dcaf1e437c8f0760d05d",
+    "ea6ad528dedd67c4ad2e0ac44c0a744d354cf48f17df1b62de88fd4d40b33ea1",
+    "c5ff874ab713bf0bc8207d5b78ce44d051d3866036dd7dca169f7aadc04c1573",
+    "24d44129f1700841445c00dad543dbf273e77493c62e93f66d3bb3e09807dc6e",
+    "ec688d1996543397cee94acf3de94b111c53c870c8378a797b061fb576f3531f",
+    "d5847fb61af14cdc315b5457df6ee66c486458439cf6bad6f65546f00ad31d8c",
+    "a0b12f838bd82307b2675b8383b3baddd9f0f239075ae956aa594ef1ec205715",
+    "317c70de8c43000c15a4d8cfb29db1a416dc2270a744d788c033e9d994be8af4",
+    "190117a3dcdcc88bc48bc66f54e1b9eb674e8d28c97c9a4b44637ffc13bfcefd",
+    "dcc1932a86edabb72679c9db16b4e74f5653093cf4bf261d49a0757c16112f1a",
+    "3ae4708969e0be7b1ba2e3581165f72987cc6ec1d0c7d869213c316ff75aba3d",
+    "c6336220b3b0aa21f767e2fdc1327cc365e122a2008a79766bb5e6f010bc7c83",
+    "335b09783eab88463b2a88aefd885061aaaefe135300cb7a2103e5badb8846ad",
+    "6d55199112554b82f83b72d7368d9a416e6fe35cf3f0d6fee11c9b42e57faac6",
+    "8eb6de81279b0188c57fedd0c0fdd8a7b4096af82370f4799f9aa3715be72ad2",
+    "5e47e2fbaf9a63fe973595d76457887e360f7489fab5c759e59e3dea60b1429d",
+    "c360f41a456437c76d2a4e7c8f0ec6a89ef6eef5e0dd40d22e7b215153f583e8",
+    "cc4c142ef0da24ab7e2c193d318625b8f9e0263138cd385c4346a6095bf8361b",
+    "af8e69955b1c248f6b9b9189473c2a9041984721964d21e32cced0722d9be40a",
+    "1cc1020e7638d6d7eeb1448784f45bfd7a803612eacdc714a4698692c89b9c72",
+    "ea199ea4127feaf9b47e618482822b006fd2927f091e4fd9f5ff97f4ffebb808",
+    "49d4f0e3da880498975b614380d7ac51a0d6464e6a6493f65349ee2950c7afa0",
+    "b4e77422fc2ba02430dc921daa677044adcd31e3bf44a2220af13e4c23c2716f",
+    "a9f383d94e7c4ec2686d4624088d799b1bafae845a9f1066ce02877e9ae189c7",
+    "29c6fb816d1b8282550107e02fbba4521c78a6d80768a1c068a5eac77b7730fb",
+    "3bdc4b90a0bd72329bdce76393ee68a93c7af6c91b6efdb38e49f46d4d4c2def",
+    "50a8a05a5e1b01de2a687ad669aa98f42b7331b2ccae1f4ec0eec5eeeaaae35f",
+    "113476b377b74688b2e9bdb65e899e2c3c43cd9588619c6bc87d2afcc1faac90",
+    "a872335e541c016578c3fef0c1451d8c8802c00c5601c027632f34dcd6c6fbd1",
+    "498574b8fd63b026de8781dabd1ce222ba1f0745cd3cbb2695f5ad0c58b6c7a2",
+    "9da0495ac1fc08950e63cd517a7b2894a136881481e5df8546b62efd0958aa13",
+    "dc07455b51c8ccf517b44c4a42f5f5d7598629a2c61181c4dbec766c9faecc9a",
+    "b588b3cb646351ce201e4665c99b36bc24971e673c77aa2f4cc3cc2fdb119cb7",
+    "0c76e7d46af4700fc06e6c5977ec8aaf217edc24538b890057c7c812b92105b5",
+    "90f00f41aa56851fa8665a3b2145167107e070275aa034a9f6ac7067a7001511",
+    "8e357c2de21ccb98d1f6bf4be0231ac87ba98884363210652ada3249a0b72cd3",
+    "028c1941dd9b80d6336e3b324ecee93fd6a026f8638aa300c40e3f2624b06996",
+    "82a176a559f244e842eaad845227a4e4046f4b977c807816fdad8df43bbad13c",
+    "a977b584a896678993661859a6cba47953f9117ab64e47dbb0ac8b3fd0e16065",
+    "62cc46b292fa8aa004b769a7011caeba186e53a3bac4e841d2b164e68a9ba999",
+    "bcabc20e7ee74225132338b14520a7e0c070382569265cd7df4c783e97af9564",
+    "b4aeec4e224d58c5b9e7085b0e2c20dc28ecf7a7d6ce6a98dd9797516b6db133",
+    "e19a5d1e874c2bf806caf7347240ac542ac2d1e388cc2031b5d4624f4e381807",
+    "3197810f6a3409038ac2a1341fb68896eb41a40cd9e7c11896a7312606de7bef",
+    "7e80c2241e497bcc742f17ad50c4e373b6823079904f8026f64380dfc2ab5d90"
+  ],
+  "contentFingerprint": "4b6126f8f59b73b2881b603c22dfee3c729150b22af67244847b3e96924c6d47"
+}
